@@ -1,0 +1,1134 @@
+{
+  "version": 1,
+  "courses": [
+    {
+      "id": "tax",
+      "name": "Federal Income Taxation",
+      "color": "#4875c8",
+      "concept": {
+        "question": "How does the federal government identify, measure, time, classify, and collect a person’s income tax?",
+        "pipeline": [
+          "Identify taxable receipts",
+          "Apply exclusions",
+          "Compute AGI",
+          "Compute taxable income",
+          "Apply bracket and special rates",
+          "Apply credits and payments"
+        ],
+        "pillars": [
+          {
+            "title": "What belongs in the base?",
+            "description": "§61 gross income, exclusions, deductions, AGI and taxable income",
+            "topicId": "tax-ch1-c"
+          },
+          {
+            "title": "How much tax is charged?",
+            "description": "Brackets, marginal vs average rates, deductions vs credits",
+            "topicId": "tax-ch1-c"
+          },
+          {
+            "title": "When is it taxed?",
+            "description": "Cash/accrual, realization, recognition and deferral",
+            "topicId": "tax-ch1-d"
+          },
+          {
+            "title": "What character/rate applies?",
+            "description": "Ordinary income, capital gain, losses, and conversion",
+            "topicId": "tax-ch1-c"
+          },
+          {
+            "title": "Who pays the tax?",
+            "description": "Individuals, sole proprietors, partnerships, LLCs, S and C corporations",
+            "topicId": "tax-ch1-c"
+          },
+          {
+            "title": "How is law enforced?",
+            "description": "Sources, self-assessment, audits, litigation and penalties",
+            "topicId": "tax-ch1-e"
+          }
+        ],
+        "courseCoverage": "Chapter 1 complete from user-provided pp. 1–33; chapters beyond it still pending."
+      },
+      "syllabus": [
+        {
+          "title": "Introduction",
+          "pages": "1–33",
+          "status": "Added",
+          "topicId": "tax-ch1-overview"
+        },
+        {
+          "title": "Income Characteristics",
+          "pages": "35–141",
+          "status": "Pending"
+        },
+        {
+          "title": "Timing Problems",
+          "pages": "141–257",
+          "status": "Pending"
+        },
+        {
+          "title": "Debt, Insurance, Annuities & Income Splitting",
+          "pages": "259–340",
+          "status": "Pending"
+        },
+        {
+          "title": "Business Expenses & Tax Shelters",
+          "pages": "363–457",
+          "status": "Pending"
+        },
+        {
+          "title": "Mixed Business/Personal Expenses",
+          "pages": "433–500",
+          "status": "Pending"
+        },
+        {
+          "title": "Personal Deductions, Exemptions & Credits",
+          "pages": "501–546",
+          "status": "Pending"
+        },
+        {
+          "title": "Capital Gains, Filing Status & Earned Income Credit",
+          "pages": "547–606; 347–361",
+          "status": "Pending"
+        }
+      ],
+      "formulas": [
+        {
+          "id": "tax-ch1-f01",
+          "title": "Taxable-income pipeline",
+          "formula": "Gross income − above-line deductions = AGI; AGI − applicable below-line deductions = taxable income",
+          "meaning": "Gross income inclusions/exclusions are determined first. Above-line amounts depend on §62; below-line amounts depend on §63 and other rules.",
+          "worked": "Start with wages, business gross profit and other included receipts, then identify permitted adjustments and the larger applicable standard/itemized deduction.",
+          "source": "Bankman et al., 19th ed., pp. 11–15",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f02",
+          "title": "Gross profit from inventory",
+          "formula": "Gross profit = sales receipts − cost of goods sold",
+          "meaning": "COGS is recovered in measuring gross income from inventory sales.",
+          "worked": "Textbook: 2 hammers × $20 = $40 gross receipts; 2 × $12 = $24 COGS; $16 gross profit.",
+          "source": "Bankman et al., 19th ed., pp. 12–13",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f03",
+          "title": "Deduction tax saving",
+          "formula": "Approximate tax saving = usable deduction × marginal tax rate",
+          "meaning": "This shortcut assumes deduction is fully allowed and does not cross brackets or affect phaseouts.",
+          "worked": "Textbook: a $50 incremental itemized deduction at 33% marginal rate saves $16.50.",
+          "source": "Bankman et al., 19th ed., pp. 14–16",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f04",
+          "title": "Tax credit offset",
+          "formula": "Tax after nonrefundable credit = max(0, preliminary tax − usable credit)",
+          "meaning": "Refundable credits can exceed liability and generate a refund; nonrefundable credits generally cannot.",
+          "worked": "Textbook contrasts a $100 credit against a $100 deduction.",
+          "source": "Bankman et al., 19th ed., pp. 15–16",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f05",
+          "title": "Average tax rate",
+          "formula": "Average tax rate = tax liability ÷ specified measure of income",
+          "meaning": "Specify taxable income versus economic income; negative liabilities possible with refundable credits.",
+          "worked": "Textbook hypothetical: $14,000 tax / $60,000 taxable income = 23.33% average rate.",
+          "source": "Bankman et al., 19th ed., pp. 16–18",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f06",
+          "title": "Layered marginal bracket",
+          "formula": "Total tax = Σ (income in each bracket × its rate)",
+          "meaning": "A higher bracket applies only to the slice of taxable income falling in it.",
+          "worked": "Textbook hypothetical: 20% × $50,000 + 40% × $10,000 = $14,000 on $60,000.",
+          "source": "Bankman et al., 19th ed., pp. 16–17",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f07",
+          "title": "After-tax marginal earnings",
+          "formula": "After-tax extra earnings ≈ extra pay × (1 − marginal rate)",
+          "meaning": "Assumes extra amount remains within relevant bracket and excludes other taxes/phaseouts.",
+          "worked": "Textbook hypothetical: $10,000 × (1 − 25%) = $7,500.",
+          "source": "Bankman et al., 19th ed., pp. 18–19",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f08",
+          "title": "Tax gross-up of charitable cost",
+          "formula": "Net cash cost of usable deduction ≈ gift − gift × marginal rate",
+          "meaning": "Only applies when deductible and incrementally useful.",
+          "worked": "Textbook compares $1,000 gifts at 15% versus 30% rates.",
+          "source": "Bankman et al., 19th ed., pp. 18",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f09",
+          "title": "Adjusted basis",
+          "formula": "Adjusted basis = initial basis + capital improvements − prior basis reductions",
+          "meaning": "General conceptual expression; include depreciation and other adjustments under the Code.",
+          "worked": "A capital asset is not necessarily deductible when bought; basis matters for future cost recovery.",
+          "source": "Bankman et al., 19th ed., pp. 21–22",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f10",
+          "title": "Realized gain or loss",
+          "formula": "Realized gain/loss = amount realized − adjusted basis",
+          "meaning": "Recognition of realized gain may be delayed or excluded under a separate statute.",
+          "worked": "Textbook illustration: land worth $5m with $1m basis exchanged for property worth $5m → $4m realized gain; §1031 may defer if requirements met.",
+          "source": "Bankman et al., 19th ed., pp. 22",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f11",
+          "title": "Simple nominal versus real gain",
+          "formula": "Nominal gain = proceeds − historical basis; real purchasing-power gain adjusts for inflation",
+          "meaning": "Tax law does not generally inflation-adjust investment basis.",
+          "worked": "Textbook: buy at $100, sell at $105 after 5% inflation → $5 nominal gain but ~0 real gain.",
+          "source": "Bankman et al., 19th ed., pp. 23–24",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f12",
+          "title": "Compound future value",
+          "formula": "FV = PV × (1 + r)^n",
+          "meaning": "PV initial investment; r return per period; n number of periods.",
+          "worked": "Textbook: $10,000 × (1.10)^10 ≈ $25,937.42.",
+          "source": "Bankman et al., 19th ed., pp. 25–27",
+          "topicId": "tax-ch1-d",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f13",
+          "title": "Present value",
+          "formula": "PV = FV ÷ (1 + r)^n",
+          "meaning": "Discount rate r and number of periods n must match.",
+          "worked": "Textbook Table 1-5: 10 years at 10% ≈ .386 multiplier; $10,000 in 10 years ≈ $3,855.43 today (table rounds to $3,860).",
+          "source": "Bankman et al., 19th ed., pp. 26–27",
+          "topicId": "tax-ch1-d",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f14",
+          "title": "Deferral versus current taxation",
+          "formula": "Deferral: P(1+r)^n(1−t_end); current tax: P(1−t_now)[1+r(1−t_annual)]^n",
+          "meaning": "The source assumes constant tax rates, ordinary annual taxation of earnings, and equal pre-tax returns.",
+          "worked": "10 years: $10,000 deferred at 10%, 40% retirement tax ≈ $15,562; current 40% tax plus annual after-tax 6% ≈ $10,745.",
+          "source": "Bankman et al., 19th ed., pp. 25–26",
+          "topicId": "tax-ch1-d",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f15",
+          "title": "Penalty percentages (introductory)",
+          "formula": "Illustrative accuracy-related penalty = 20% × relevant underpayment; civil fraud = 75% × fraudulent portion",
+          "meaning": "Penalties require legal predicates, bases, exceptions, and interaction rules; do not use formula alone.",
+          "worked": "Textbook introduces these percentages in its compliance overview.",
+          "source": "Bankman et al., 19th ed., pp. 29–30",
+          "topicId": "tax-ch1-e",
+          "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax-ch1-f16",
+          "title": "Refund / balance due",
+          "formula": "Tax due after credits − withholding/estimated payments = remaining balance (if positive) or refund (if negative)",
+          "meaning": "Eligibility, refundable credits, additional taxes, and payment credit details must be included in a full return.",
+          "worked": "Self-assessment and prepayments are reconciled when filing the annual return.",
+          "source": "Bankman et al., 19th ed., pp. 28",
+          "topicId": "tax-ch1-e",
+          "chapterGroup": "tax-ch1"
+        }
+      ],
+      "problems": [
+        {
+          "id": "tax-ch1-p01",
+          "title": "Inventory sales and gross income",
+          "prompt": "A hardware store buys hammers for $12 each and sells them for $20 each. For two hammers sold, determine gross receipts, COGS, and gross income from the sales.",
+          "source": "Bankman et al., 19th ed., p. 12–13",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p02",
+          "title": "Incremental itemized deduction",
+          "prompt": "A single taxpayer has $13,000 of qualifying mortgage interest and no other itemized deductions; the casebook uses a $12,950 historical standard deduction and a 33% marginal bracket. Under THESE HISTORICAL ASSUMPTIONS, compute the additional usable deduction and its tax savings. Do not treat the amounts as 2026 law.",
+          "source": "Bankman et al., 19th ed., p. 14–15",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p03",
+          "title": "Deduction versus tax credit",
+          "prompt": "Under the casebook’s simplified assumptions, compare the tax benefit of a $100 deduction at a 37% marginal rate with a $100 nonrefundable tax credit when the taxpayer has sufficient liability.",
+          "source": "Bankman et al., 19th ed., p. 15–16",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p04",
+          "title": "Three hypothetical tax systems",
+          "prompt": "Given $20,000, $50,000, and $100,000 incomes, classify the three tax systems in Table 1-4 based on whether average rates are constant, rise, or fall.",
+          "source": "Bankman et al., 19th ed., p. 16–17",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p05",
+          "title": "Layered brackets and marginal rate",
+          "prompt": "Hypothetical schedule: 20% on the first $50,000 of taxable income and 40% above it. Compute tax liability at $50,000, $50,010, and $60,000, then identify the marginal and average rates at $60,000.",
+          "source": "Bankman et al., 19th ed., p. 17",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p06",
+          "title": "Value of a new deduction",
+          "prompt": "Using the chapter’s hypothetical taxpayer with $60,000 of taxable income and the two-bracket 20%/40% rate schedule, determine the tax savings from an additional fully usable $1,000 deduction.",
+          "source": "Bankman et al., 19th ed., p. 17",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p07",
+          "title": "Charitable gift at different tax rates",
+          "prompt": "Two taxpayers each make a $1,000 fully deductible gift. One faces a 15% marginal bracket and the other 30%. Compute each taxpayer’s approximate after-tax cost under the chapter’s assumptions.",
+          "source": "Bankman et al., 19th ed., p. 18",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p08",
+          "title": "After-tax work decision",
+          "prompt": "A taxpayer may earn $10,000 more from weekend work and faces a 25% marginal income-tax rate on the entire amount. Compute additional after-tax pay, ignoring other taxes and phaseouts.",
+          "source": "Bankman et al., 19th ed., p. 18–19",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p09",
+          "title": "Stock sale versus wage income",
+          "prompt": "A taxpayer earns $100,000 wages and sells investment shares for $50,000 originally purchased for $20,000. Identify the gross income components and distinguish wage income from potential capital gain.",
+          "source": "Bankman et al., 19th ed., p. 19",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p10",
+          "title": "Cash versus accrual timing",
+          "prompt": "An accountant performs $500 of services for a lawyer in Year 1 and is paid in Year 2. Identify when the accountant includes income and when the lawyer may deduct the payment assuming both use cash method, then both use accrual method. Assume the deduction is otherwise permitted.",
+          "source": "Bankman et al., 19th ed., p. 20–21",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p11",
+          "title": "Widget inventory profit",
+          "prompt": "A retailer buys 1,000 widgets at $10 each and sells all at $15 each in one year, with no other costs. Determine receipts, recoverable inventory cost, and profit.",
+          "source": "Bankman et al., 19th ed., p. 21",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p12",
+          "title": "Capital purchases versus immediate deduction",
+          "prompt": "A cash-method farmer purchases land for $400,000 and a tractor for $50,000 for business use. Explain which outlays are capital expenditures and when/how costs may be recovered; identify any need to check special expensing rules.",
+          "source": "Bankman et al., 19th ed., p. 20–21",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p13",
+          "title": "Realization, recognition and exchange",
+          "prompt": "Land bought for $1 million grows to $5 million. The owner exchanges it for an apartment building valued at $5 million. Identify economic appreciation, realization, and the possible nonrecognition issue; list the conditions that need verification for §1031.",
+          "source": "Bankman et al., 19th ed., p. 22",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p14",
+          "title": "Inflation and nominal gain",
+          "prompt": "An asset costs $100 and sells one year later for $105 after 5% inflation. Compare nominal gain and change in real purchasing power; would historical-cost basis automatically rise with inflation?",
+          "source": "Bankman et al., 19th ed., p. 23–24",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p15",
+          "title": "Inflation-induced bracket creep",
+          "prompt": "In a hypothetical system, $25,000 taxable income is at 15% and $50,000 at 30%. After inflation doubles prices, explain what happens if tax brackets are not indexed and the nominal income doubles while real income stays constant.",
+          "source": "Bankman et al., 19th ed., p. 24",
+          "topicId": "tax-ch1-c",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p16",
+          "title": "Deferral: ten-year retirement investment",
+          "prompt": "Use the chapter’s simplified assumptions: $10,000 contributed before tax, 10% annual growth, 10 years, and a 40% tax on withdrawal. Find the after-tax value. Then compare to an initial 40% tax followed by 6% annual after-tax growth. Do NOT show solutions here.",
+          "source": "Bankman et al., 19th ed., p. 26",
+          "topicId": "tax-ch1-d",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p17",
+          "title": "Deferral: twenty-year comparison",
+          "prompt": "Repeat the simplified retirement investment comparison over 20 years, holding all rates fixed.",
+          "source": "Bankman et al., 19th ed., p. 26",
+          "topicId": "tax-ch1-d",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p18",
+          "title": "Discounted present value",
+          "prompt": "What is the present value of $10,000 due in 10 years if the discount rate is 10%, using the formula and (separately) the rounded factor in Table 1-5?",
+          "source": "Bankman et al., 19th ed., p. 26–27",
+          "topicId": "tax-ch1-d",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p19",
+          "title": "Tax-cut versus direct subsidy",
+          "prompt": "A firm owes $10 million in annual tax before a proposed $6 million investment subsidy. Compare the firm’s net payment under a $6 million cash subsidy versus an equivalent tax reduction, assuming full eligibility.",
+          "source": "Bankman et al., 19th ed., p. 7–8",
+          "topicId": "tax-ch1-a",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        },
+        {
+          "id": "tax-ch1-p20",
+          "title": "Income-tax planning classification",
+          "prompt": "An entrepreneur builds a successful start-up with little capital investment and sells the business two years later. Identify why the chapter calls this a possible conversion issue; what character and holding-period questions would you analyze?",
+          "source": "Bankman et al., 19th ed., p. 24–25",
+          "topicId": "tax-ch1-d",
+          "chapterGroup": "tax-ch1",
+          "kind": "Illustration converted to an unsolved exercise",
+          "status": "Not attempted",
+          "notes": ""
+        }
+      ],
+      "updates": [
+        {
+          "title": "2026 tax-rate regime",
+          "book": "The casebook predicts a 39.6% top rate in 2026.",
+          "current": "2026 individual top bracket remains 37%; the seven individual rates from 2018 were made permanent by 2025 legislation.",
+          "source": "https://www.irs.gov/irb/2025-45_IRB",
+          "topicId": "tax-ch1-c"
+        },
+        {
+          "title": "2026 standard deduction",
+          "book": "The casebook uses 2022 values ($12,950 single; $25,900 joint).",
+          "current": "2026 regular standard deduction: $16,100 single or MFS, $32,200 MFJ, $24,150 HOH, before potential additional amounts.",
+          "source": "https://www.irs.gov/irb/2025-45_IRB",
+          "topicId": "tax-ch1-c"
+        },
+        {
+          "title": "2026 state and local tax limit",
+          "book": "The casebook states a $10,000 SALT itemized-deduction cap since 2017.",
+          "current": "For 2026, generally $40,400 (half for MFS), with income-based phase-down and a floor; check statutory and IRS details.",
+          "source": "https://www.irs.gov/publications/p505",
+          "topicId": "tax-ch1-c"
+        },
+        {
+          "title": "Loper Bright and Chevron",
+          "book": "The casebook describes Mayo/Chevron deference as governing Treasury regulations.",
+          "current": "Loper Bright (2024) overruled Chevron; courts exercise independent judgment under the APA when resolving statutory meaning.",
+          "source": "https://www.law.cornell.edu/supremecourt/text/22-451",
+          "topicId": "tax-ch1-f"
+        },
+        {
+          "title": "Modern realization doctrine",
+          "book": "The casebook presents Eisner v. Macomber as a historical constitutional bar to taxing unrealized gains.",
+          "current": "Moore (2024) upheld a tax on attributed undistributed corporate income but expressly did NOT decide whether realization is constitutionally required in all settings.",
+          "source": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20",
+          "topicId": "tax-ch1-c"
+        },
+        {
+          "title": "Like-kind exchange qualifications",
+          "book": "The land/apartment exchange is presented as likely nonrecognition.",
+          "current": "§1031 nonrecognition applies only to qualifying like-kind real property held for business/investment, subject to detailed statutory conditions.",
+          "source": "https://www.irs.gov/publications/p544",
+          "topicId": "tax-ch1-c"
+        }
+      ],
+      "topics": [
+        {
+          "id": "tax-ch1-overview",
+          "title": "Chapter 1 — Introduction",
+          "description": "Conceptual gateway: the tax system, the tax calculation, tax planning, administration, and legal sources.",
+          "chapterGroup": "tax-ch1",
+          "pages": "1–33",
+          "entries": [
+            {
+              "id": "tax-ch1-e001",
+              "type": "rule",
+              "title": "The five questions that organize federal tax",
+              "summary": "What is taxed? How much? When? At what rate? And who pays?",
+              "details": "Use the entire course as one conceptual pipeline. The tax base identifies taxable income; timing determines the year; character and filing status influence rates; entity classification identifies the taxpayer; compliance rules determine reporting and dispute procedures. Source: conceptual synthesis of Chapter 1.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 1–33",
+              "page": "1–33"
+            },
+            {
+              "id": "tax-ch1-e002",
+              "type": "definition",
+              "title": "Tax base",
+              "summary": "The amount to which the tax-rate structure applies; for individuals, generally taxable income.",
+              "details": "Tax is not ordinarily imposed on all cash received. Begin with gross income, account for AGI deductions and additional deductions, apply rates to taxable income, then apply eligible credits and payments.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 11–15",
+              "page": "11–15"
+            },
+            {
+              "id": "tax-ch1-e003",
+              "type": "rule",
+              "title": "The calculation pipeline",
+              "summary": "Gross income → AGI → taxable income → preliminary tax → credits → tax due/refund.",
+              "details": "1. Determine inclusions and exclusions. 2. Gross income less adjustments/above-the-line deductions = AGI. 3. AGI less applicable below-the-line deductions = taxable income (subject to other statutory adjustments). 4. Apply tax rates and relevant special computations. 5. Apply tax credits. 6. Compare liability with withholding/estimated payments.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 11–16, 28",
+              "page": "11–16, 28"
+            }
+          ]
+        },
+        {
+          "id": "tax-ch1-a",
+          "title": "A. Why Income Taxes Matter",
+          "description": "Distribution, progressivity, economic incentives, lawyering, and tax policy.",
+          "chapterGroup": "tax-ch1",
+          "pages": "1–9",
+          "entries": [
+            {
+              "id": "tax-ch1-e004",
+              "type": "definition",
+              "title": "Income tax as collective cost allocation",
+              "summary": "Taxation allocates the financial burdens of government and reflects social-policy choices.",
+              "details": "The chapter frames taxation as part of the social contract: how costs should be shared and how much taxpayers should retain. The tax base and deductions embody value judgments as well as revenue needs.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 1–2",
+              "page": "1–2"
+            },
+            {
+              "id": "tax-ch1-e005",
+              "type": "definition",
+              "title": "Progressive, proportional, regressive",
+              "summary": "Progressive: average rate rises with income; proportional: constant; regressive: falls.",
+              "details": "Classify tax systems using AVERAGE TAX RATE, not whether higher-income taxpayers pay more total dollars. The individual federal income tax is generally progressive; payroll and excise taxes often have regressive features.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 3–5, 16–17",
+              "page": "3–5, 16–17"
+            },
+            {
+              "id": "tax-ch1-e006",
+              "type": "definition",
+              "title": "Negative income-tax liability",
+              "summary": "Refundable credits can produce net payments to an eligible taxpayer.",
+              "details": "The casebook describes negative average individual income-tax rates among lower-income quintiles in its 2018 data. Credits such as the EITC are central. Distinguish refundable-credit payments from merely withholding overpayments.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 3–5, 15",
+              "page": "3–5, 15"
+            },
+            {
+              "id": "tax-ch1-e007",
+              "type": "example",
+              "title": "Federal revenue and distribution data — historical",
+              "summary": "The casebook uses FY 2021 revenue and 2018 tax-burden data as historical illustrations.",
+              "details": "FY 2021: individual income tax 51%; corporate income tax 9%; payroll/social insurance 32% of total federal revenues (source Table 1-1). In 2018 the individual income-tax average rate ranged from −12% in the lowest quintile to 15.4% in the top quintile (Table 1-2). These are dated snapshots, not current estimates.",
+              "source": "Bankman et al., Tables 1-1 through 1-3 (historical data)",
+              "page": "3–6"
+            },
+            {
+              "id": "tax-ch1-e008",
+              "type": "definition",
+              "title": "Income effect vs. substitution effect",
+              "summary": "Income effect: need to replace lost disposable income; substitution: after-tax incentives change choices.",
+              "details": "Income tax may cause someone to work more to replace lost take-home pay (income effect) or work less because leisure becomes relatively attractive (substitution effect). Theory alone does not identify which dominates for a particular taxpayer.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 6–7",
+              "page": "6–7"
+            },
+            {
+              "id": "tax-ch1-e009",
+              "type": "definition",
+              "title": "Tax expenditures and behavioral incentives",
+              "summary": "Deductions, exclusions, and credits can subsidize activities through the tax system.",
+              "details": "For example, homeowner and charitable tax provisions may encourage particular spending. A $6 million government grant and a $6 million tax reduction may confer similar benefits even though framed differently in political debate.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 7–8",
+              "page": "7–8"
+            },
+            {
+              "id": "tax-ch1-e010",
+              "type": "definition",
+              "title": "Distributional effects without explicit race classifications",
+              "summary": "Facially race-neutral deductions can have uneven impacts given differences in income and wealth.",
+              "details": "The chapter examines how itemizing and homeowner tax benefits can be unevenly distributed. Keep separate: (1) disparities linked to income distribution and (2) differences that may remain among groups with comparable income or wealth. Treat the book’s demographic statistics as historical.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 8–9",
+              "page": "8–9"
+            },
+            {
+              "id": "tax-ch1-e011",
+              "type": "rule",
+              "title": "Tax implications in general legal practice",
+              "summary": "Tax planning affects property transfers, settlements, business entities, compensation, and family law.",
+              "details": "Lawyers must spot when a proposed transaction has tax consequences, even if tax is not their specialty. Legal complexity creates incentives to structure transactions to comply and reduce liability.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 6",
+              "page": "6"
+            }
+          ]
+        },
+        {
+          "id": "tax-ch1-b",
+          "title": "B. U.S. Income Tax History",
+          "description": "Origins, Pollock, the Sixteenth Amendment, and the mass income tax.",
+          "chapterGroup": "tax-ch1",
+          "pages": "9–11",
+          "entries": [
+            {
+              "id": "tax-ch1-e012",
+              "type": "definition",
+              "title": "Tariffs and excise taxes",
+              "summary": "Tariffs tax cross-border goods; excise taxes target particular products or services.",
+              "details": "Before the modern income tax, the federal government depended heavily on tariffs and excise taxes. Both affect prices and burden distribution differently from individual income taxes.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 9–10",
+              "page": "9–10"
+            },
+            {
+              "id": "tax-ch1-e013",
+              "type": "case",
+              "title": "Pollock v. Farmers’ Loan & Trust Co. (1895)",
+              "summary": "The Court invalidated the 1894 income tax based on direct-tax apportionment concerns.",
+              "details": "Facts: Challenge to federal tax on rents, dividends, and interest. Issue: whether the tax contravened constitutional apportionment requirements for direct taxes. Holding: the Court invalidated the income-tax law. Why it matters: it prompted a constitutional solution—the Sixteenth Amendment. The textbook gives the historical constitutional account.",
+              "source": "157 U.S. 429; 158 U.S. 601 (1895)",
+              "page": "10"
+            },
+            {
+              "id": "tax-ch1-e014",
+              "type": "rule",
+              "title": "Sixteenth Amendment (1913)",
+              "summary": "Congress may tax incomes from any source without apportionment among the states.",
+              "details": "It responded to the direct-tax obstacle identified in Pollock and enabled the modern federal income tax. The definition of income and the limits of congressional taxing power remain subjects of doctrine and litigation.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 10",
+              "page": "10"
+            },
+            {
+              "id": "tax-ch1-e015",
+              "type": "example",
+              "title": "Evolution from class tax to mass tax",
+              "summary": "Civil War income taxes → 1894 tax and Pollock → 1913 amendment → WWI growth → WWII mass tax.",
+              "details": "1861 first Civil War income tax; 1894 progressive revival; 1895 Pollock; 1913 Sixteenth Amendment; WWI sharply expanded rates; WWII brought broad population coverage. Later Congress repeatedly revised brackets, rates, and deductions.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 9–11",
+              "page": "9–11"
+            }
+          ]
+        },
+        {
+          "id": "tax-ch1-c",
+          "title": "C. Core Tax Terminology and Doctrines",
+          "description": "The chapter’s most exam-useful material: the calculation pipeline and major classifications.",
+          "chapterGroup": "tax-ch1",
+          "pages": "11–24",
+          "entries": [
+            {
+              "id": "tax-ch1-e016",
+              "type": "rule",
+              "title": "IRC § 61 — Gross income",
+              "summary": "Gross income starts with a broad inclusion rule: income from whatever source derived, absent an exclusion.",
+              "details": "Examples listed by the chapter: wages, salary, interest, dividends and rents. The tax-law concept differs from economic income because Congress excludes some receipts. Verify exclusion provisions before determining the tax base.",
+              "source": "IRC § 61; Bankman et al. pp. 11–12",
+              "page": "11–12"
+            },
+            {
+              "id": "tax-ch1-e017",
+              "type": "definition",
+              "title": "Gross receipts versus gross income",
+              "summary": "Gross receipts are cash sales proceeds; inventory gross income generally subtracts cost of goods sold.",
+              "details": "For merchandising businesses, gross income from inventory sales means gross profit rather than gross cash receipts. Inventory costs recovered through COGS are not the same as personal deductions.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 12–13",
+              "page": "12–13"
+            },
+            {
+              "id": "tax-ch1-e018",
+              "type": "rule",
+              "title": "Adjusted gross income — AGI",
+              "summary": "Gross income less applicable §62 adjustments/above-the-line deductions = AGI.",
+              "details": "AGI is an intermediate statutory measure, NOT the individual’s final tax base. Deductions below AGI, including eligible standard or itemized deductions, take the taxpayer toward taxable income.",
+              "source": "IRC § 62; Bankman et al. pp. 13–14",
+              "page": "13–14"
+            },
+            {
+              "id": "tax-ch1-e019",
+              "type": "rule",
+              "title": "Taxable income — § 63",
+              "summary": "Taxable income is the tax base after permissible deductions from gross income/AGI.",
+              "details": "Conceptual sequence: AGI, then allowed below-the-line deductions (normally the standard deduction OR itemized deductions, plus other relevant statutory amounts). A taxpayer generally does not claim both standard and itemized deductions.",
+              "source": "IRC § 63; Bankman et al. pp. 13–15",
+              "page": "13–15"
+            },
+            {
+              "id": "tax-ch1-e020",
+              "type": "definition",
+              "title": "Above-the-line and below-the-line",
+              "summary": "Above-line reduces gross income to AGI; below-line reduces AGI to taxable income.",
+              "details": "These are practitioner shorthand, not formal statutory terms. The distinction matters because AGI influences limits and other tax computations; above-line deductions can be more advantageous.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 13–14",
+              "page": "13–14"
+            },
+            {
+              "id": "tax-ch1-e021",
+              "type": "rule",
+              "title": "Deduction versus credit",
+              "summary": "Deduction reduces taxable income; credit reduces tax liability dollar for dollar, subject to its rules.",
+              "details": "Approximate value of a marginal deduction = amount × applicable marginal rate (only if fully usable and not crossing rate brackets or phased-out benefits). A nonrefundable credit helps only to extent of eligible tax liability; refundable credits can yield a payment.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 15–16",
+              "page": "15–16"
+            },
+            {
+              "id": "tax-ch1-e022",
+              "type": "definition",
+              "title": "Exclusion, exemption, deduction",
+              "summary": "An exclusion is not counted as income; a deduction is subtracted; exemption may describe tax-free taxpayers or receipts.",
+              "details": "Gifts under § 102 and certain other receipts are cited as examples of statutory exclusions. An exclusion of $50 and inclusion followed by a usable $50 deduction can have comparable current-year tax-base effects, but other rules may make them differ.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 15–16",
+              "page": "15–16"
+            },
+            {
+              "id": "tax-ch1-e023",
+              "type": "rule",
+              "title": "Progressive tax brackets are layered",
+              "summary": "Only the income in a higher bracket is taxed at its higher marginal rate.",
+              "details": "If hypothetical tax rates are 20% on the first $50,000 and 40% above $50,000, $50,010 taxable income creates $10,004 tax—not 40% of the full $50,010. This is a stylized illustration, not actual federal rate tables.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 16–17",
+              "page": "16–17"
+            },
+            {
+              "id": "tax-ch1-e024",
+              "type": "definition",
+              "title": "Marginal vs. average tax rate",
+              "summary": "Marginal rate taxes the next dollar; average rate equals tax liability ÷ chosen income measure.",
+              "details": "A taxpayer can face a 40% marginal bracket while having an average rate near 23% in the book’s hypothetical $60,000 example. Apply the marginal rate to incremental income or a fully usable deduction within that bracket.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 17–18",
+              "page": "17–18"
+            },
+            {
+              "id": "tax-ch1-e025",
+              "type": "definition",
+              "title": "Statutory vs. effective tax rate",
+              "summary": "Statutory reflects legal bracket schedule; effective may account for broader income and phaseouts.",
+              "details": "An effective marginal rate can exceed the stated marginal bracket where a refundable credit or benefit is phased out as income rises. Always identify what counts in both numerator (tax) and denominator (income).",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 17–18",
+              "page": "17–18"
+            },
+            {
+              "id": "tax-ch1-e026",
+              "type": "rule",
+              "title": "Ordinary income versus capital gain",
+              "summary": "Capital gain arises from sale/exchange of capital assets; not every capital gain gets preferential rates.",
+              "details": "Capital asset definition (§ 1221) generally includes investment stock but excludes, among other things, inventory and property held mainly for sale to customers. Long-term means held MORE than one year; one year or less is short-term. Preferential rates concern net capital gain after the required netting and other restrictions.",
+              "source": "IRC §§ 64, 1221, 1222; Bankman et al. pp. 19–20",
+              "page": "19–20"
+            },
+            {
+              "id": "tax-ch1-e027",
+              "type": "rule",
+              "title": "Capital loss limitations",
+              "summary": "For individuals, net capital losses generally offset capital gains plus up to $3,000 of ordinary income annually.",
+              "details": "The chapter notes loss limitations under §1211. Separate capital losses from business expense deductions under §162 and general losses under §165; carryover and other limits are addressed later.",
+              "source": "IRC §§ 1211, 165; Bankman et al. pp. 19–20",
+              "page": "19–20"
+            },
+            {
+              "id": "tax-ch1-e028",
+              "type": "definition",
+              "title": "Business expenses versus losses",
+              "summary": "Expenses are ordinary operating costs; losses reflect shortfalls on property/transactions and use different rules.",
+              "details": "Section 162 allows ordinary and necessary business expenses subject to statutory limits; § 165 governs important loss deductions. The labels matter because they follow separate legal tests.",
+              "source": "IRC §§ 162, 165",
+              "page": "20"
+            },
+            {
+              "id": "tax-ch1-e029",
+              "type": "rule",
+              "title": "Cash method versus accrual method",
+              "summary": "Cash: generally recognize income when received and expenses when paid; accrual: generally when earned/incurred.",
+              "details": "The book illustrates Year 1 services and Year 2 payment. Timing of inclusion and deduction can differ by accounting method and by special limitations. The capital-expenditure requirement applies even to cash-method taxpayers.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 20–21",
+              "page": "20–21"
+            },
+            {
+              "id": "tax-ch1-e030",
+              "type": "rule",
+              "title": "Capital expenditure versus current expense",
+              "summary": "A long-lived asset’s acquisition cost ordinarily cannot simply be expensed immediately.",
+              "details": "Land basis is usually recovered on disposition; depreciable machinery generally receives cost recovery over time, subject to statutory accelerated-depreciation/expensing provisions. Do not treat every cash purchase as a current deduction.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 20–22",
+              "page": "20–22"
+            },
+            {
+              "id": "tax-ch1-e031",
+              "type": "definition",
+              "title": "Basis and adjusted basis",
+              "summary": "Initial basis generally reflects cost; adjusted basis reflects subsequent permitted increases and decreases.",
+              "details": "Improvements generally increase basis; depreciation generally reduces basis. Basis supports cost recovery and the measurement of gain or loss when property is disposed of.",
+              "source": "IRC §§ 1012, 1016; Bankman et al. pp. 21–22",
+              "page": "21–22"
+            },
+            {
+              "id": "tax-ch1-e032",
+              "type": "rule",
+              "title": "Realization versus recognition",
+              "summary": "Realization identifies a triggering gain/loss event; recognition asks whether it enters current taxable income.",
+              "details": "An exchange or sale ordinarily realizes gain. A nonrecognition provision can defer some or all gain. Every recognized gain ordinarily follows a realization event, but not every realized gain is immediately recognized. For §1031 after 2017, qualifying like-kind exchange rules concern real property held for investment or business use—not all exchanges.",
+              "source": "IRC §§ 1001, 1031; Bankman et al. p. 22",
+              "page": "22",
+              "alert": "Current-law qualification: §1031 is limited to qualifying real-property exchanges; the book’s land-for-apartment illustration requires statutory conditions."
+            },
+            {
+              "id": "tax-ch1-e033",
+              "type": "definition",
+              "title": "Sole proprietorship and partnerships",
+              "summary": "Sole proprietor reports directly; partnerships generally pass taxable income and losses through to partners.",
+              "details": "The partnership files an information return but generally does not pay entity-level federal income tax. Owners separately report their distributive shares under partnership rules, not necessarily cash received.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 22–23",
+              "page": "22–23"
+            },
+            {
+              "id": "tax-ch1-e034",
+              "type": "definition",
+              "title": "LLCs, S corporations, C corporations",
+              "summary": "Tax treatment depends on classification: pass-through forms differ from C-corporation entity taxation.",
+              "details": "The casebook simplifies LLCs as partnerships, but real classification can vary: one-member LLCs may be disregarded, multi-member LLCs often default to partnerships, and eligible LLCs can elect corporate treatment. C corporations generally pay entity-level tax; dividends can be taxed again to shareholders. S corporations generally pass through income under eligibility restrictions.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 22–23",
+              "page": "22–23",
+              "alert": "Textbook simplification: do not assume every LLC is taxed as a partnership."
+            },
+            {
+              "id": "tax-ch1-e035",
+              "type": "definition",
+              "title": "Tax treatment of trusts",
+              "summary": "Trusts can serve as conduits but may also have their own income-tax liability.",
+              "details": "Trustee holds property for beneficiaries; tax depends on income accumulation/distribution and trust classification. Chapter 1 provides only an orientation, not the detailed trust rules.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 23",
+              "page": "23"
+            },
+            {
+              "id": "tax-ch1-e036",
+              "type": "definition",
+              "title": "Nominal gain versus real gain",
+              "summary": "Inflation can produce taxable nominal gains even where purchasing power has not increased.",
+              "details": "Illustration: $100 cost grows to $105 with 5% inflation; $5 nominal gain need not represent real economic improvement. Tax basis is generally not inflation-indexed, while brackets and certain dollar thresholds are adjusted under statutory rules.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 23–24",
+              "page": "23–24"
+            },
+            {
+              "id": "tax-ch1-e037",
+              "type": "rule",
+              "title": "Bracket creep and inflation indexing",
+              "summary": "Without inflation adjustment, rising nominal income can push taxpayers into higher brackets without real growth.",
+              "details": "Congress indexed specified tax brackets and amounts to inflation; the book identifies §§1(f) and 151(f) and use of chained CPI. Indexing is distinct from adjusting a taxpayer’s investment basis for inflation.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 24",
+              "page": "24"
+            }
+          ]
+        },
+        {
+          "id": "tax-ch1-d",
+          "title": "D. Conversion, Deferral & Time Value",
+          "description": "Tax planning concepts and must-know compounding/present-value calculations.",
+          "chapterGroup": "tax-ch1",
+          "pages": "24–27",
+          "entries": [
+            {
+              "id": "tax-ch1-e038",
+              "type": "definition",
+              "title": "Conversion of income character",
+              "summary": "Recharacterizing ordinary-return activity as eligible long-term capital gain can reduce the applicable rate.",
+              "details": "The chapter’s start-up founder example shows value created largely by labor but potentially realized as capital gain on sale of ownership interest. Complex anti-conversion provisions may override simplistic characterizations.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 24–25",
+              "page": "24–25"
+            },
+            {
+              "id": "tax-ch1-e039",
+              "type": "definition",
+              "title": "Deferral of tax",
+              "summary": "Delay recognition/payment and keep funds invested in the interim.",
+              "details": "Deferral may increase after-tax wealth when other variables are held constant and returns are positive. It is not automatically advantageous when future tax rates differ; compare investments and tax rates across both periods.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 25–26",
+              "page": "25–26"
+            },
+            {
+              "id": "tax-ch1-e040",
+              "type": "definition",
+              "title": "Buy, borrow, die — strategy",
+              "summary": "Appreciated investments may grow untaxed, borrowing can provide cash, and death may adjust basis.",
+              "details": "The chapter ties nonrealization of appreciation, nontaxable loan proceeds, and §1014 basis step-up for many inherited assets into one strategy. This is a conceptual description subject to limits, exceptions, and future law changes.",
+              "source": "IRC §1014; Bankman et al. p. 25",
+              "page": "25"
+            },
+            {
+              "id": "tax-ch1-e041",
+              "type": "rule",
+              "title": "Compound future value",
+              "summary": "Future value = present investment × (1 + return)^number of periods.",
+              "details": "For an initial $10,000 growing at 10% per year for ten years, book illustration ≈ $25,937 before tax. Distinguish untaxed growth inside a deferral arrangement from after-tax annual returns.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 26–27",
+              "page": "26–27"
+            },
+            {
+              "id": "tax-ch1-e042",
+              "type": "rule",
+              "title": "Present value (discounting)",
+              "summary": "Present value = future amount ÷ (1 + discount rate)^periods.",
+              "details": "At 10% for 10 years, the multiplier is ≈ 0.3855 (the table rounds to .386). The textbook’s Table 1-5 provides a range of rates and periods, but the formula permits direct calculation.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 26–27",
+              "page": "26–27"
+            },
+            {
+              "id": "tax-ch1-e043",
+              "type": "rule",
+              "title": "After-tax compounding without deferral",
+              "summary": "Initial after-tax principal = principal × (1 − tax rate); annual after-tax growth uses return × (1 − tax rate).",
+              "details": "The chapter compares an immediate 40% tax and annual taxation of 10% yields with delayed taxation. This is a simplified model that assumes a constant rate and full annual taxation of investment returns.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 26",
+              "page": "26"
+            }
+          ]
+        },
+        {
+          "id": "tax-ch1-e",
+          "title": "E. Compliance, Audits & Litigation",
+          "description": "Self-assessment, assessment procedures, penalties and forum choice.",
+          "chapterGroup": "tax-ch1",
+          "pages": "28–30",
+          "entries": [
+            {
+              "id": "tax-ch1-e044",
+              "type": "rule",
+              "title": "Self-assessment and payment reconciliation",
+              "summary": "Taxpayers calculate liability; withholding and estimated payments are credited toward that liability.",
+              "details": "The IRS administers returns, matching, audits, and collections. After computing tax and credits, compare tax owed against taxes already paid to determine remaining balance or refund.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 28",
+              "page": "28"
+            },
+            {
+              "id": "tax-ch1-e045",
+              "type": "definition",
+              "title": "Audit and deficiency",
+              "summary": "Audit is closer IRS scrutiny; deficiency is an asserted amount of underpaid tax.",
+              "details": "The general assessment period discussed by the textbook is three years, subject to major exceptions. Interest typically accrues on underpayments; penalties may also apply. The IRS often resolves disputes administratively.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 28–29",
+              "page": "28–29"
+            },
+            {
+              "id": "tax-ch1-e046",
+              "type": "rule",
+              "title": "Tax litigation forum choice",
+              "summary": "Tax Court generally permits qualifying prepayment deficiency challenges; refund suits generally follow payment.",
+              "details": "Tax Court: no jury, specialist judges, appeal to regional circuit. Federal district court: refund litigation after payment, jury potentially available, regional circuit appeal. Court of Federal Claims: refund litigation after payment, Federal Circuit appeal. Procedural requirements and deadlines are important and not fully covered in the introductory summary.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 29",
+              "page": "29"
+            },
+            {
+              "id": "tax-ch1-e047",
+              "type": "rule",
+              "title": "Accuracy-related civil penalties",
+              "summary": "The casebook describes a 20% penalty for specified negligence/substantial-understatement underpayments.",
+              "details": "The chapter notes substantial authority, adequate disclosure/reasonable basis, and reasonable-cause/good-faith rules that may limit penalties. Multiple overlapping 20% grounds generally do not simply stack. Check current §6662/§6664 and exact facts.",
+              "source": "IRC §§ 6662, 6664; Bankman et al. pp. 29–30",
+              "page": "29–30"
+            },
+            {
+              "id": "tax-ch1-e048",
+              "type": "rule",
+              "title": "Failure-to-file, failure-to-pay, and fraud penalties",
+              "summary": "The chapter lists monthly filing/payment penalties and a 75% civil-fraud penalty.",
+              "details": "As a basic introductory reference: failure to file is generally 5% per month up to 25%; failure to pay generally 0.5% per month up to 25%, with statutory interactions and exceptions. Civil fraud generally can produce a 75% penalty on the fraud portion. Actual computation depends on relevant rules and dates.",
+              "source": "IRC §§ 6651, 6663; Bankman et al. p. 30",
+              "page": "30"
+            },
+            {
+              "id": "tax-ch1-e049",
+              "type": "definition",
+              "title": "Criminal tax evasion",
+              "summary": "Willful tax evasion can create felony exposure in addition to civil sanctions.",
+              "details": "The casebook contrasts civil and criminal enforcement and describes a six-year limitations period for specified tax offenses. Criminal liability requires the relevant statutory elements and mental state.",
+              "source": "IRC §7201; Bankman et al. p. 30",
+              "page": "30"
+            }
+          ]
+        },
+        {
+          "id": "tax-ch1-f",
+          "title": "F. Sources of Federal Tax Law",
+          "description": "Hierarchy and practical use of tax statutes, regulations, case law, IRS guidance.",
+          "chapterGroup": "tax-ch1",
+          "pages": "30–33",
+          "entries": [
+            {
+              "id": "tax-ch1-e050",
+              "type": "rule",
+              "title": "Start with the Internal Revenue Code",
+              "summary": "Federal tax liability must rest on statutory authority; statutory text is the starting point.",
+              "details": "Read the controlling provision, definitions, cross-references, and exceptions. Follow regulations, binding case law, and pertinent IRS guidance, while considering how judicial doctrines deal with substance over form.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 30–31",
+              "page": "30–31"
+            },
+            {
+              "id": "tax-ch1-e051",
+              "type": "definition",
+              "title": "Legislative history and JCT",
+              "summary": "Committee reports and Joint Committee on Taxation materials help explain statutory purposes.",
+              "details": "Tax-writing committees: House Ways and Means and Senate Finance. JCT staff work on legislative analysis and official revenue estimates; JCT 'blue books' summarize legislation after enactment. These are aids to interpretation, not substitutes for enacted law.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 31",
+              "page": "31"
+            },
+            {
+              "id": "tax-ch1-e052",
+              "type": "rule",
+              "title": "Treasury regulations under §7805",
+              "summary": "Treasury issues regulations interpreting and implementing the Code.",
+              "details": "The textbook discusses Mayo (2011) and Chevron deference as the then-governing doctrine. CURRENT-LAW UPDATE: Loper Bright (2024) overruled Chevron; courts independently interpret law under the APA. A delegation to an agency can remain legally relevant; the old automatic ambiguity-triggered Chevron rule is not current.",
+              "source": "IRC §7805; Mayo Foundation v. United States (2011); Loper Bright v. Raimondo (2024)",
+              "page": "31–32",
+              "alert": "OUTDATED IN CASEBOOK: Chevron deference was overruled in 2024."
+            },
+            {
+              "id": "tax-ch1-e053",
+              "type": "definition",
+              "title": "Revenue Rulings and Revenue Procedures",
+              "summary": "Rev. Rul. expresses IRS legal position on a fact pattern; Rev. Proc. addresses administration/procedures.",
+              "details": "Both are IRS guidance, generally less authoritative than duly issued Treasury regulations and judicial precedent. Their practical importance is substantial, but authority and reliance depend on the specific type and context.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 32",
+              "page": "32"
+            },
+            {
+              "id": "tax-ch1-e054",
+              "type": "definition",
+              "title": "Private Letter Rulings (PLRs)",
+              "summary": "IRS written advice to a particular taxpayer generally may not be cited as precedent by others.",
+              "details": "PLRs can reveal the Service’s likely approach but do not create general binding law. Distinguished from published Revenue Rulings.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 32–33",
+              "page": "32–33"
+            },
+            {
+              "id": "tax-ch1-e055",
+              "type": "definition",
+              "title": "Tax Court decisions and IRS acquiescence",
+              "summary": "Tax Court has regular and memorandum decisions; IRS may announce acquiescence or nonacquiescence.",
+              "details": "Acquiescence signals internal acceptance of a ruling for similar cases; nonacquiescence signals continued disagreement and possible relitigation. Neither itself reverses binding judicial precedent.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 33",
+              "page": "33"
+            },
+            {
+              "id": "tax-ch1-e056",
+              "type": "case",
+              "title": "Mayo Foundation v. United States (2011)",
+              "summary": "Historical: applied Chevron framework to Treasury regulations.",
+              "details": "The textbook uses Mayo to describe the then-prevailing standard. It is useful for historical understanding, but Chevron was overruled in Loper Bright (2024).",
+              "source": "562 U.S. 44 (2011); Loper Bright, 603 U.S. 369 (2024)",
+              "page": "32",
+              "alert": "Historical doctrinal treatment; not a statement of the current Chevron standard."
+            },
+            {
+              "id": "tax-ch1-e057",
+              "type": "case",
+              "title": "Eisner v. Macomber (1920)",
+              "summary": "Historical case used to introduce unrealized appreciation and constitutional income questions.",
+              "details": "The chapter contrasts unrealized appreciation with income. Subsequent decisions limit simplistic formulations; Moore v. United States (2024) did not decide whether realization is always constitutionally required.",
+              "source": "252 U.S. 189 (1920); Moore v. United States, 602 U.S. 572 (2024)",
+              "page": "12",
+              "alert": "Do not treat the casebook’s brief historical description as a complete modern constitutional rule."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "name": "Administrative Law",
+      "color": "#469a91",
+      "topics": [
+        {
+          "id": "admin-pending",
+          "title": "Course content — pending",
+          "description": "Administrative Law is next after Tax.",
+          "entries": []
+        }
+      ]
+    },
+    {
+      "id": "bankruptcy",
+      "name": "Bankruptcy & Creditors’ Rights",
+      "color": "#9a70c3",
+      "topics": [
+        {
+          "id": "bank-pending",
+          "title": "Course content — pending",
+          "description": "Bankruptcy follows Tax and Administrative Law.",
+          "entries": []
+        }
+      ]
+    }
+  ]
+}
