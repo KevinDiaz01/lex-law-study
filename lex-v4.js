@@ -59,7 +59,7 @@ function kind(e){return typeLabels[e.type]?e.type:'context'}
 function kindLabel(e){return typeLabels[kind(e)]}
 function warningChip(e){const w=e.legalWarning;if(!w)return '';return '<span class="legal-warning-chip warning-'+escapeHTML(w.status)+'" title="Historical legal authority: see explanation">⚠ '+escapeHTML(w.label)+'</span>'}
 function warningDetail(e){const w=e.legalWarning;if(!w)return '';const u=String(w.url||'');const link=/^https:\/\//.test(u)?'<a href="'+escapeHTML(u)+'" target="_blank" rel="noopener noreferrer">Read authority ↗</a>':'';return '<details class="legal-warning"><summary>⚠ '+escapeHTML(w.label)+' — Why is this flagged?</summary><div class="legal-warning-body"><p>'+escapeHTML(w.reason)+'</p><small>Authority: '+escapeHTML(w.authority)+'</small> '+link+'</div></details>'}
-function lawRow(e,tid){return '<button class="law-row" data-entry="'+escapeHTML(e.id)+'" data-topic="'+escapeHTML(tid)+'"><span class="law-name"><span class="type-label label-'+kind(e)+'">'+kindLabel(e)+'</span><span class="law-title">'+escapeHTML(e.title)+'</span></span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↗</span></button>'}
+function lawRow(e,tid){return '<button class="law-row" data-entry="'+escapeHTML(e.id)+'" data-topic="'+escapeHTML(tid)+'"><span class="law-name"><span class="type-label label-'+kind(e)+'">'+kindLabel(e)+'</span><span class="law-title">'+escapeHTML(e.title)+'</span>'+warningChip(e)+'</span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↗</span></button>'}
 function renderOverview(){
  const c=current();let html='';
  if(c.concept?.question)html+='<div class="course-context"><strong>What ties this course together?</strong><div>'+escapeHTML(c.concept.question)+'</div></div>';
@@ -82,7 +82,7 @@ function renderChapter(){
  }$('body').innerHTML=html;
 }
 function entryHtml(e){const details=e.type==='case'?[['Facts',e.facts],['Issue',e.issue],['Holding',e.holding],['Reasoning',e.reasoning],['Exam significance',e.exam],['Other',e.details]]:[['Full explanation / steps / exceptions',e.details]];
- return '<article class="entry" id="entry-'+escapeHTML(e.id)+'"><div class="entry-head"><div><div class="entry-kind type-label label-'+kind(e)+'">'+kindLabel(e)+(e.page?' · p. '+escapeHTML(e.page):'')+'</div><h3>'+escapeHTML(e.title)+'</h3></div><button class="edit-btn" data-edit="'+escapeHTML(e.id)+'">Edit</button></div><p>'+escapeHTML(e.summary)+'</p>'+
+ return '<article class="entry" id="entry-'+escapeHTML(e.id)+'"><div class="entry-head"><div><div class="entry-kind type-label label-'+kind(e)+'">'+kindLabel(e)+(e.page?' · p. '+escapeHTML(e.page):'')+'</div><h3>'+escapeHTML(e.title)+' '+warningChip(e)+'</h3></div><button class="edit-btn" data-edit="'+escapeHTML(e.id)+'">Edit</button></div><p>'+escapeHTML(e.summary)+'</p>'+
  warningDetail(e)+ (e.alert?'<div class="notice" style="margin-top:10px">'+escapeHTML(e.alert)+'</div>':'')+
  (details.some(v=>v[1])?'<details><summary>Explanation, elements, and examples</summary><div class="detail-body">'+details.filter(v=>v[1]).map(v=>'<b>'+escapeHTML(v[0])+'</b>'+escapeHTML(v[1])).join('\n\n')+'</div></details>':'')+
  (e.source?'<div class="entry-source">Source: '+escapeHTML(e.source)+'</div>':'')+'</article>';
@@ -105,7 +105,7 @@ function renderSection(){
  for(const group of groups){
   const entries=t.entries.filter(e=>group.types.includes(e.type));if(!entries.length)continue;
   html+='<div class="quick-group"><h2>'+group.name+'</h2><div class="law-table">';
-  html+=entries.map(e=>'<button class="law-row" data-scroll="'+escapeHTML(e.id)+'"><span class="law-name"><span class="type-label label-'+kind(e)+'">'+kindLabel(e)+'</span><span class="law-title">'+escapeHTML(e.title)+'</span></span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↓</span></button>').join('');
+  html+=entries.map(e=>'<button class="law-row" data-scroll="'+escapeHTML(e.id)+'"><span class="law-name"><span class="type-label label-'+kind(e)+'">'+kindLabel(e)+'</span><span class="law-title">'+escapeHTML(e.title)+'</span>'+warningChip(e)+'</span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↓</span></button>').join('');
   html+='</div></div>';
  }
  if(!t.entries.length)html+='<div class="empty">This section is awaiting its assigned readings.</div>';
