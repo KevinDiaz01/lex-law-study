@@ -54,9 +54,10 @@ function renderSidebar(){
  html+='<div class="side-caption">REFERENCE</div><button class="side-link '+(page==='formulas'?'active':'')+'" data-page="formulas">All formulas & calculations</button><button class="side-link '+(page==='problems'?'active':'')+'" data-page="problems">Unsolved problems ('+(c.problems?.length||0)+')</button>';
  $('outline').innerHTML=html;
 }
-function kind(e){return e.type==='case'?'case':e.type==='rule'?'rule':e.type==='definition'?'definition':'example'}
-function kindLabel(e){return e.type==='case'?'CASE':e.type==='rule'?'BLACK-LETTER RULE':e.type==='definition'?'DEFINITION':'EXAMPLE'}
-function lawRow(e,tid){return '<button class="law-row law-'+kind(e)+'" data-entry="'+escapeHTML(e.id)+'" data-topic="'+escapeHTML(tid)+'"><span class="law-name"><span class="type-label">'+kindLabel(e)+'</span>'+escapeHTML(e.title)+'</span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↗</span></button>'}
+const typeLabels={rule:'BLACK-LETTER RULE',case:'CASE',definition:'DEFINITION',concept:'CONCEPT',policy:'POLICY',context:'CONTEXT',framework:'FRAMEWORK',formula:'FORMULA',history:'HISTORY',example:'EXAMPLE'};
+function kind(e){return typeLabels[e.type]?e.type:'context'}
+function kindLabel(e){return typeLabels[kind(e)]}
+function lawRow(e,tid){return '<button class="law-row" data-entry="'+escapeHTML(e.id)+'" data-topic="'+escapeHTML(tid)+'"><span class="law-name"><span class="type-label label-'+kind(e)+'">'+kindLabel(e)+'</span><span class="law-title">'+escapeHTML(e.title)+'</span></span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↗</span></button>'}
 function renderOverview(){
  const c=current();let html='';
  if(c.concept?.question)html+='<div class="course-context"><strong>What ties this course together?</strong><div>'+escapeHTML(c.concept.question)+'</div></div>';
@@ -79,7 +80,7 @@ function renderChapter(){
  }$('body').innerHTML=html;
 }
 function entryHtml(e){const details=e.type==='case'?[['Facts',e.facts],['Issue',e.issue],['Holding',e.holding],['Reasoning',e.reasoning],['Exam significance',e.exam],['Other',e.details]]:[['Full explanation / steps / exceptions',e.details]];
- return '<article class="entry entry-'+kind(e)+'" id="entry-'+escapeHTML(e.id)+'"><div class="entry-head"><div><div class="entry-kind">'+kindLabel(e)+(e.page?' · p. '+escapeHTML(e.page):'')+'</div><h3>'+escapeHTML(e.title)+'</h3></div><button class="edit-btn" data-edit="'+escapeHTML(e.id)+'">Edit</button></div><p>'+escapeHTML(e.summary)+'</p>'+
+ return '<article class="entry" id="entry-'+escapeHTML(e.id)+'"><div class="entry-head"><div><div class="entry-kind type-label label-'+kind(e)+'">'+kindLabel(e)+(e.page?' · p. '+escapeHTML(e.page):'')+'</div><h3>'+escapeHTML(e.title)+'</h3></div><button class="edit-btn" data-edit="'+escapeHTML(e.id)+'">Edit</button></div><p>'+escapeHTML(e.summary)+'</p>'+
  (e.alert?'<div class="notice" style="margin-top:10px">'+escapeHTML(e.alert)+'</div>':'')+
  (details.some(v=>v[1])?'<details><summary>Explanation, elements, and examples</summary><div class="detail-body">'+details.filter(v=>v[1]).map(v=>'<b>'+escapeHTML(v[0])+'</b>'+escapeHTML(v[1])).join('\n\n')+'</div></details>':'')+
  (e.source?'<div class="entry-source">Source: '+escapeHTML(e.source)+'</div>':'')+'</article>';
@@ -88,27 +89,29 @@ function formulaHtml(f){return '<article class="formula"><strong>'+escapeHTML(f.
 function renderSection(){
  const t=topic();if(!t)return;
  const formulas=(current().formulas||[]).filter(f=>f.topicId===t.id),problems=(current().problems||[]).filter(p=>p.topicId===t.id);
- const classified=[
-  {type:'rule',title:'Black-letter rules'},
-  {type:'case',title:'Cases & holdings'},
-  {type:'definition',title:'Key definitions'},
-  {type:'example',title:'Examples & applications'}
+ const groups=[
+  {name:'Black-letter rules',id:'rule',types:['rule']},
+  {name:'Cases & holdings',id:'case',types:['case']},
+  {name:'Definitions',id:'definition',types:['definition']},
+  {name:'Concepts, policy & background',id:'context',types:['concept','policy','context','framework','history']},
+  {name:'Formulas',id:'formula',types:['formula']},
+  {name:'Examples',id:'example',types:['example']}
  ];
  let html='<div class="section-jumps">';
- for(const x of classified){const count=t.entries.filter(e=>e.type===x.type).length;if(count)html+='<button data-scroll-group="'+x.type+'">'+x.title+' <b>'+count+'</b></button>';}
+ for(const group of groups){const count=t.entries.filter(e=>group.types.includes(e.type)).length;if(count)html+='<button data-scroll-group="'+group.id+'">'+group.name+' <b>'+count+'</b></button>';}
  html+='</div><div class="mini-title">QUICK REFERENCE</div>';
- for(const x of classified.filter(x=>x.type!=='example')){
-  const entries=t.entries.filter(e=>e.type===x.type);if(!entries.length)continue;
-  html+='<div class="quick-group"><h2>'+x.title+'</h2><div class="law-table">';
-  html+=entries.map(e=>'<button class="law-row law-'+kind(e)+'" data-scroll="'+escapeHTML(e.id)+'"><span class="law-name"><span class="type-label">'+kindLabel(e)+'</span>'+escapeHTML(e.title)+'</span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↓</span></button>').join('');
+ for(const group of groups){
+  const entries=t.entries.filter(e=>group.types.includes(e.type));if(!entries.length)continue;
+  html+='<div class="quick-group"><h2>'+group.name+'</h2><div class="law-table">';
+  html+=entries.map(e=>'<button class="law-row" data-scroll="'+escapeHTML(e.id)+'"><span class="law-name"><span class="type-label label-'+kind(e)+'">'+kindLabel(e)+'</span><span class="law-title">'+escapeHTML(e.title)+'</span></span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↓</span></button>').join('');
   html+='</div></div>';
  }
  if(!t.entries.length)html+='<div class="empty">This section is awaiting its assigned readings.</div>';
- for(const x of classified){
-  const entries=t.entries.filter(e=>e.type===x.type);if(!entries.length)continue;
-  html+='<section class="detail-group" id="group-'+x.type+'"><div class="section-heading">'+x.title+'</div>'+entries.map(entryHtml).join('')+'</section>';
+ for(const group of groups){
+  const entries=t.entries.filter(e=>group.types.includes(e.type));if(!entries.length)continue;
+  html+='<section class="detail-group" id="group-'+group.id+'"><div class="section-heading">'+group.name+'</div>'+entries.map(entryHtml).join('')+'</section>';
  }
- if(formulas.length)html+='<div class="section-heading" id="group-formulas">Calculations in this section</div>'+formulas.map(formulaHtml).join('');
+ if(formulas.length)html+='<div class="section-heading" id="group-formulas-reference">Calculations in this section</div>'+formulas.map(formulaHtml).join('');
  if(problems.length)html+='<div class="section-heading">Practice</div><button class="small-btn" data-page="problems" data-focus="'+escapeHTML(t.id)+'">View '+problems.length+' unsolved problems for this topic →</button>';
  $('body').innerHTML=html;
 }
@@ -128,7 +131,7 @@ function unique(){return 'lex-'+Date.now().toString(36)+'-'+Math.random().toStri
 function field(name,key,value,large=false){return '<label class="form-field">'+escapeHTML(name)+(large?'<textarea name="'+key+'">'+escapeHTML(value||'')+'</textarea>':'<input name="'+key+'" value="'+escapeHTML(value||'')+'">')+'</label>'}
 function editor(mode,id=null){
  editTarget={mode,id};const c=current(),t=topic();let obj=null,body='';
- if(mode==='entry'){obj=t?.entries.find(e=>e.id===id)||{};body='<label class="form-field">Type<select name="type">'+['rule','definition','case','example'].map(v=>'<option value="'+v+'" '+(obj.type===v?'selected':'')+'>'+v+'</option>').join('')+'</select></label>'+field('Title','title',obj.title)+field('Black-letter rule / summary','summary',obj.summary,true)+field('Full explanation','details',obj.details,true)+field('Facts (cases)','facts',obj.facts,true)+field('Issue','issue',obj.issue,true)+field('Holding','holding',obj.holding,true)+field('Reasoning','reasoning',obj.reasoning,true)+field('Exam significance','exam',obj.exam,true)+field('Source','source',obj.source)}
+ if(mode==='entry'){obj=t?.entries.find(e=>e.id===id)||{};body='<label class="form-field">Type<select name="type">'+['rule','case','definition','concept','policy','context','framework','history','formula','example'].map(v=>'<option value="'+v+'" '+(obj.type===v?'selected':'')+'>'+v+'</option>').join('')+'</select></label>'+field('Title','title',obj.title)+field('Short summary / holding','summary',obj.summary,true)+field('Full explanation','details',obj.details,true)+field('Facts (cases)','facts',obj.facts,true)+field('Issue','issue',obj.issue,true)+field('Holding','holding',obj.holding,true)+field('Reasoning','reasoning',obj.reasoning,true)+field('Exam significance','exam',obj.exam,true)+field('Source','source',obj.source)}
  else if(mode==='problem'){obj=c.problems?.find(p=>p.id===id)||{};body=field('Title','title',obj.title)+field('Problem text (unsolved)','prompt',obj.prompt,true)+field('Source','source',obj.source)+field('Your notes','notes',obj.notes,true)+'<label class="form-field">Section<select name="topicId">'+c.topics.map(t=>'<option value="'+escapeHTML(t.id)+'" '+(obj.topicId===t.id?'selected':'')+'>'+escapeHTML(t.title)+'</option>').join('')+'</select></label>'}
  else if(mode==='topic'){obj=t||{};body=field('Section title','title',obj.title)+field('Description','description',obj.description,true)}
  $('modalTitle').textContent=(id?'Edit ':'Add ')+(mode==='entry'?'rule / case':mode==='problem'?'problem':'section');
