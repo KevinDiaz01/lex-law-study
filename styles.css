@@ -130,3 +130,90 @@ body.dark{--bg:#111925;--side:#192333;--surface:#192333;--border:#2a394c;--soft:
 body.dark .view-tabs{background:#202d3e}
 @media(max-width:1100px){.sidebar{width:235px}.workspace{padding:28px 30px 50px}.view-tabs{overflow-x:auto}.view-tabs button{min-width:max-content}.concept-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:740px){.sidebar{width:275px;left:-295px}.workspace{padding:23px 17px 40px}.topbar{padding:0 16px}.concept-grid{grid-template-columns:1fr}.concept-hero h2{font-size:21px}.topbar-title{font-size:9px}}
+
+/* LEX 2.0 — genuinely different editorial dashboard */
+:root{--bg:#f4f7fb;--side:#fff;--border:#e3e9f1;--text:#15243d;--muted:#718197;--accent:#235bbc;--soft:#eef3f9;--accent-light:#e8f0ff}
+.sidebar{width:264px;box-shadow:2px 0 25px rgba(20,49,84,.025);z-index:2}
+.brand{padding:28px 22px 24px;border-bottom:1px solid var(--border);margin-bottom:20px}
+.brandmark{background:#153e7a;font-size:22px}
+.sidebar-search{background:#f4f7fb;border-color:#e9eef5;margin-bottom:24px}
+.sidebar-heading{color:#98a3b5;font-size:10px;margin-bottom:6px}
+.course-group{margin-bottom:5px}
+.course-row{font-size:12px;padding:14px 11px}
+.course-row.active-course{background:#e9f0ff}
+.topic-row{padding-top:10px;padding-bottom:10px;line-height:1.35}
+.topic-row.selected{background:#e6efff}
+.main{background:var(--bg)}
+.topbar{height:70px;background:#fff;border-bottom:1px solid var(--border);padding:0 40px}
+.workspace{max-width:1480px;margin:0 auto;padding:31px 45px 70px}
+.breadcrumb{font-size:11px;margin:0 0 17px;color:#8290a4}
+.page-title{margin-bottom:23px;align-items:center}
+.page-title h1{font-size:37px;letter-spacing:-.045em;margin:6px 0 6px}
+.page-title p{font-size:13px}
+.view-tabs{background:#fff;border:1px solid var(--border);padding:5px;gap:5px;max-width:980px;margin-bottom:27px}
+.view-tabs button{font-size:12px;border-radius:8px;padding:13px 16px}
+.view-tabs button.active{background:#183e7f;color:white;box-shadow:0 3px 9px rgba(24,62,127,.16)}
+.view-tabs button:hover:not(.active){background:#eef3fa}
+.dashboard{display:grid;gap:28px}
+.dashboard-hero{display:grid;grid-template-columns:minmax(0,1fr) 240px;min-height:276px;background:#132d53;color:#fff;border-radius:18px;overflow:hidden;position:relative;box-shadow:0 16px 35px rgba(20,49,86,.10)}
+.hero-copy{padding:34px 40px 27px;display:flex;flex-direction:column;justify-content:center;position:relative;z-index:1}
+.hero-overline{font-size:10px;letter-spacing:.16em;color:#a8c6f5;font-weight:800;text-transform:uppercase}
+.hero-divider{opacity:.4;margin:0 9px}
+.dashboard-hero h2{font-size:clamp(25px,2.4vw,37px);line-height:1.2;letter-spacing:-.045em;margin:15px 0 14px}
+.dashboard-hero h2 span{color:#a7c6ff}
+.dashboard-hero p{font-size:14px;color:#dce7f8;line-height:1.65;margin:0;max-width:680px}
+.hero-footer{display:flex;flex-wrap:wrap;gap:10px 20px;margin-top:24px;font-size:11px;color:#b8ccec}
+.hero-progress{padding:7px 11px;border:1px solid #5777a5;border-radius:20px}
+.hero-progress b{color:#fff}
+.hero-chapter{padding:8px 0}
+.hero-visual{position:relative;overflow:hidden}
+.orbit{position:absolute;border:1px solid rgba(168,200,245,.25);border-radius:50%;transform:translate(-50%,-50%);left:50%;top:50%}
+.orbit-one{width:175px;height:175px}.orbit-two{width:275px;height:275px}
+.visual-core{width:95px;height:95px;display:grid;place-items:center;font-family:Georgia,serif;font-size:65px;color:#d1e1ff;position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);border-radius:50%;background:#315a95;border:1px solid #597eb3}
+.orbit-dot{height:11px;width:11px;background:#92c1ff;border-radius:50%;position:absolute;box-shadow:0 0 22px #92c1ff}
+.orbit-a{top:17%;left:34%}.orbit-b{top:72%;left:82%}.orbit-c{top:82%;left:19%}
+.dashboard-main{display:grid;grid-template-columns:minmax(0,1fr) 315px;gap:24px;align-items:start}
+.dashboard-primary,.dashboard-secondary{min-width:0}
+.dashboard-secondary{background:#fff;border:1px solid var(--border);padding:24px;border-radius:14px}
+.dashboard-section-header{display:flex;align-items:end;justify-content:space-between;gap:12px;margin-bottom:17px}
+.dashboard-section-header h3{font-size:20px;letter-spacing:-.035em;margin:5px 0 0;color:var(--text)}
+.section-overline{color:#3866a9;letter-spacing:.12em;font-weight:800;font-size:10px}
+.section-aside{font-size:11px;color:var(--muted);white-space:nowrap}
+.tax-flow{background:#fff;border:1px solid var(--border);border-radius:14px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));overflow:hidden;margin-bottom:32px}
+.tax-flow-step{padding:17px 16px;display:flex;gap:12px;align-items:center;min-height:70px;border-right:1px solid var(--border);border-bottom:1px solid var(--border);font-size:12px;font-weight:650;line-height:1.45;color:var(--text)}
+.tax-flow-step:nth-child(3n){border-right:0}.tax-flow-step:nth-last-child(-n+3){border-bottom:0}
+.flow-index{width:29px;height:29px;display:grid;place-items:center;background:#e8f0ff;color:#2458af;border-radius:8px;flex:none;font-size:11px;font-weight:800}
+.concept-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}
+.concept-tile{display:flex;align-items:flex-start;min-height:110px;padding:19px;gap:13px;border-radius:12px;text-align:left;box-shadow:none}
+.concept-tile:hover{background:#f9fbff;transform:translateY(-1px);border-color:#86a8e3}
+.tile-number{background:#eaf1ff;border-radius:7px;padding:6px 7px;color:#295faf!important;font-size:11px!important;font-weight:800}
+.tile-copy{display:grid;gap:6px;flex:1;min-width:0}
+.tile-copy strong{font-size:13px}
+.tile-copy span{font-size:11px;line-height:1.55}
+.tile-arrow{color:#7d95b8!important;font-size:17px!important}
+.dashboard-secondary .dashboard-section-header h3{font-size:18px}
+.progress-meter{height:7px;border-radius:15px;background:#e7edf6;overflow:hidden;margin:18px 0 7px}
+.progress-meter span{display:block;height:100%;background:#316cb9;border-radius:15px}
+.progress-caption{font-size:11px;color:var(--muted);margin:0 0 15px}
+.roadmap-list{display:grid;gap:0}
+.roadmap-item{border:0;border-bottom:1px solid var(--border);background:transparent;display:flex;align-items:center;text-align:left;gap:12px;padding:12px 0;color:var(--text);width:100%}
+.roadmap-item:last-child{border-bottom:0}
+button.roadmap-item:hover{background:#f4f7fc}
+.roadmap-num{font-size:11px;font-weight:800;color:#9dadbf}
+.roadmap-copy{flex:1;min-width:0}
+.roadmap-copy strong{display:block;font-size:12px;line-height:1.35}
+.roadmap-copy small{display:block;font-size:10px;color:var(--muted);margin-top:4px}
+.roadmap-status{color:#aab5c5;font-weight:800}
+.roadmap-item.ready .roadmap-status{color:#21936f}
+.dashboard-updates{max-width:100%}
+.dashboard-empty{background:#fff;padding:45px;border-radius:15px;border:1px solid var(--border)}
+.dashboard-empty h2{font-size:26px}
+body.dark .dashboard-secondary,body.dark .tax-flow,body.dark .concept-tile,body.dark .dashboard-empty{background:var(--surface)}
+body.dark .dashboard-section-header h3,body.dark .tax-flow-step,body.dark .roadmap-item{color:var(--text)}
+body.dark .hero-copy{color:#fff}
+body.dark .view-tabs{background:var(--surface)}
+body.dark .view-tabs button.active{background:#3969b4}
+body.dark button.roadmap-item:hover,body.dark .concept-tile:hover{background:var(--soft)}
+@media(max-width:1250px){.dashboard-main{grid-template-columns:minmax(0,1fr) 270px}.workspace{padding:26px 28px}.dashboard-hero{grid-template-columns:minmax(0,1fr) 160px}}
+@media(max-width:980px){.dashboard-main{grid-template-columns:1fr}.dashboard-secondary{order:2}.roadmap-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:18px}}
+@media(max-width:740px){.sidebar{width:275px}.workspace{padding:21px 15px}.page-title h1{font-size:29px}.dashboard-hero{grid-template-columns:1fr;min-height:auto}.hero-visual{display:none}.hero-copy{padding:28px}.dashboard-hero h2{font-size:27px}.tax-flow{grid-template-columns:repeat(2,minmax(0,1fr))}.tax-flow-step:nth-child(n){border-right:1px solid var(--border);border-bottom:1px solid var(--border)}.tax-flow-step:nth-child(2n){border-right:0}.tax-flow-step:nth-last-child(-n+2){border-bottom:0}.concept-grid{grid-template-columns:1fr}.roadmap-list{grid-template-columns:1fr}}
