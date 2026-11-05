@@ -65,16 +65,27 @@ for(const b of $('filters').querySelectorAll('button'))b.classList.toggle('activ
 $('studyMode').checked=study;
 }
 function render(){if(!getCourse()){courseId=db.courses[0].id}if(!getTopic()&&getCourse().topics.length)topicId=getCourse().topics[0].id;renderNav();setHead();switch(view){case'master':renderMaster();break;case'chapter':renderChapter();break;case'read':renderRead();break;case'formulas':renderFormulas();break;case'problems':renderProblems();break;case'search':renderSearch();break;}}
+
 function renderMaster(){
-const c=getCourse(),map=c.concept,pills=c.syllabus||[];
-const added=pills.filter(p=>p.status==='Added').length;
-let out='<div class="dashboard">';
-if(map){
-out+=`<div class="dashboard-hero"><div class="hero-copy"><div class="hero-overline">COURSE BLUEPRINT <span class="hero-divider">/</span> ${safe(c.name)}</div><h2>See the whole subject.<br><span>Understand every connection.</span></h2><p>${safe(map.question)}</p><div class="hero-footer"><span class="hero-progress"><b>${added} of ${pills.length}</b> course modules added</span><span class="hero-chapter">Currently studying: Chapter 1 · Introduction</span></div></div><div class="hero-visual" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="visual-core">§</div><div class="orbit-dot orbit-a"></div><div class="orbit-dot orbit-b"></div><div class="orbit-dot orbit-c"></div></div></div>`;
-out+=`<div class="dashboard-main"><section class="dashboard-primary"><div class="dashboard-section-header"><div><span class="section-overline">01 / BIG PICTURE</span><h3>How the tax system works</h3></div><span class="section-aside">Follow the flow</span></div><div class="tax-flow">${(map.pipeline||[]).map((v,i)=>`<div class="tax-flow-step"><span class="flow-index">${String(i+1).padStart(2,'0')}</span><span>${safe(v)}</span></div>`).join('')}</div><div class="dashboard-section-header"><div><span class="section-overline">02 / KEY CONNECTIONS</span><h3>Explore the six core questions</h3></div><span class="section-aside">Click to study</span></div><div class="concept-grid">${(map.pillars||[]).map((p,i)=>`<button class="concept-tile" data-go="${safe(p.topicId)}"><span class="tile-number">${String(i+1).padStart(2,'0')}</span><span class="tile-copy"><strong>${safe(p.title)}</strong><span>${safe(p.description)}</span></span><span class="tile-arrow">↗</span></button>`).join('')}</div></section><aside class="dashboard-secondary"><div class="dashboard-section-header"><div><span class="section-overline">COURSE PROGRESS</span><h3>Your reading roadmap</h3></div></div><div class="progress-meter"><span style="width:${pills.length?(100*added/pills.length).toFixed(1):0}%"></span></div><p class="progress-caption">${added} of ${pills.length} modules available</p><div class="roadmap-list">${pills.map((p,i)=>`<${p.topicId?'button':'div'} class="roadmap-item ${p.status==='Added'?'ready':''}" ${p.topicId?'data-go="'+safe(p.topicId)+'"':''}><span class="roadmap-num">${String(i+1).padStart(2,'0')}</span><span class="roadmap-copy"><strong>${safe(p.title)}</strong><small>Pages ${safe(p.pages)}</small></span><span class="roadmap-status">${p.status==='Added'?'✓':'·'}</span></${p.topicId?'button':'div'}>`).join('')}</div></aside></div>`;
-}else{out=`<div class="dashboard-empty"><span class="section-overline">COURSE BLUEPRINT</span><h2>Building ${safe(c.name)}</h2><p>This map will grow as we add your readings. Select a section from the left to begin.</p></div>`;}
-if(c.updates?.length)out+=`<div class="dashboard-updates"><div class="dashboard-section-header"><div><span class="section-overline">IMPORTANT / CURRENT LAW</span><h3>Updates to watch</h3></div></div>${renderUpdates(c.updates)}</div>`;
-$('cards').innerHTML=out+'</div>';
+ const c=getCourse(),m=c.concept,pills=c.syllabus||[];
+ let out='<div class="outline-overview"><div class="outline-intro"><span class="kicker">COURSE AT A GLANCE</span><h2>'+safe(m?.question||c.name)+'</h2><p>See how everything connects, then jump directly to the law.</p></div>';
+ if(m?.pipeline?.length){
+   out+='<section class="overview-block"><h3>How the tax system works</h3><ol class="outline-process">';
+   m.pipeline.forEach((step,i)=>out+='<li><b>'+(i+1)+'</b><span>'+safe(step)+'</span></li>');
+   out+='</ol></section>';
+ }
+ if(m?.pillars?.length){
+  out+='<section class="overview-block"><h3>Core doctrines — jump straight to the law</h3><div class="overview-doctrines">';
+  m.pillars.forEach(p=>out+='<button data-go="'+safe(p.topicId)+'"><strong>'+safe(p.title)+'</strong><span>'+safe(p.description)+'</span><b>→</b></button>');
+  out+='</div></section>';
+ }
+ if(pills.length){
+  out+='<section class="overview-block"><h3>Course table of contents</h3><div class="overview-chapters">';
+  pills.forEach(p=>{const tag=p.topicId?'button':'div';out+='<'+tag+' class="overview-chapter" '+(p.topicId?'data-go="'+safe(p.topicId)+'"':'')+'><span><strong>'+safe(p.title)+'</strong><small>Pages '+safe(p.pages)+'</small></span><span class="status-chip '+(p.status==='Added'?'complete':'')+'">'+safe(p.status)+'</span></'+tag+'>';});
+  out+='</div></section>';
+ }
+ if(c.updates?.length)out+='<section class="overview-block"><h3>Current-law cautions</h3>'+renderUpdates(c.updates)+'</section>';
+ $('cards').innerHTML=out+'</div>';
 }
 function renderUpdates(updates){return `<div class="updates-list">${updates.map(u=>`<details class="update-card"><summary><span class="alert-dot">!</span><strong>${safe(u.title)}</strong><span class="subtle">Show update</span></summary><div class="update-body"><p><b>2023 casebook:</b> ${safe(u.book)}</p><p><b>2026 update:</b> ${safe(u.current)}</p><a href="${safe(u.source)}" target="_blank" rel="noopener noreferrer">Official / supporting source ↗</a></div></details>`).join('')}</div>`}
 function getChapterTopics(){let t=getTopic(),c=getCourse();if(!t)return [];return t.chapterGroup?c.topics.filter(q=>q.chapterGroup===t.chapterGroup):[t]}
