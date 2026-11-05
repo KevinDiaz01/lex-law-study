@@ -661,7 +661,14 @@
               "summary": "The Court invalidated the 1894 income tax based on direct-tax apportionment concerns.",
               "details": "Facts: Challenge to federal tax on rents, dividends, and interest. Issue: whether the tax contravened constitutional apportionment requirements for direct taxes. Holding: the Court invalidated the income-tax law. Why it matters: it prompted a constitutional solution—the Sixteenth Amendment. The textbook gives the historical constitutional account.",
               "source": "157 U.S. 429; 158 U.S. 601 (1895)",
-              "page": "10"
+              "page": "10",
+              "legalWarning": {
+                "status": "superseded",
+                "label": "SUPERSEDED — HISTORICAL",
+                "reason": "The Sixteenth Amendment (1913) removed the apportionment obstacle for taxes on income. Pollock is studied to explain why the Amendment was adopted, not as the current rule restricting income taxation.",
+                "authority": "Sixteenth Amendment; Moore v. United States (2024)",
+                "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
+              }
             },
             {
               "id": "tax-ch1-e014",
@@ -1088,7 +1095,14 @@
               "details": "The textbook uses Mayo to describe the then-prevailing standard. It is useful for historical understanding, but Chevron was overruled in Loper Bright (2024).",
               "source": "562 U.S. 44 (2011); Loper Bright, 603 U.S. 369 (2024)",
               "page": "32",
-              "alert": "Historical doctrinal treatment; not a statement of the current Chevron standard."
+              "alert": "Historical doctrinal treatment; not a statement of the current Chevron standard.",
+              "legalWarning": {
+                "status": "overruled-framework",
+                "label": "FRAMEWORK OVERRULED",
+                "reason": "Mayo applied Chevron deference to Treasury regulations. Loper Bright (2024) overruled Chevron's mandatory deference framework. This does not mean every holding previously relying on Chevron was automatically overturned; Mayo is useful for tracing the former approach.",
+                "authority": "Loper Bright Enterprises v. Raimondo (2024)",
+                "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf"
+              }
             },
             {
               "id": "tax-ch1-e057",
@@ -1098,7 +1112,14 @@
               "details": "The chapter contrasts unrealized appreciation with income. Subsequent decisions limit simplistic formulations; Moore v. United States (2024) did not decide whether realization is always constitutionally required.",
               "source": "252 U.S. 189 (1920); Moore v. United States, 602 U.S. 572 (2024)",
               "page": "12",
-              "alert": "Do not treat the casebook’s brief historical description as a complete modern constitutional rule."
+              "alert": "Do not treat the casebook’s brief historical description as a complete modern constitutional rule.",
+              "legalWarning": {
+                "status": "historical-caution",
+                "label": "HISTORICAL — QUALIFIED",
+                "reason": "Eisner v. Macomber is an important historical decision on realization, but do not treat its broad language as a complete statement of today's constitutional tax law. Moore v. United States (2024) expressly left the general realization requirement unresolved.",
+                "authority": "Moore v. United States (2024)",
+                "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
+              }
             }
           ]
         }
