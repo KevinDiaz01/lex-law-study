@@ -14,14 +14,22 @@
     <div class="sidebar-heading">YOUR COURSES</div>
     <nav id="navigation" aria-label="Course and topic outline"></nav>
     <div class="sidebar-bottom">
-      <button id="addTopic" class="side-action">＋ Add chapter / section</button>
-      <button id="importBtn" class="side-action">↥ Import ChatGPT content</button>
-      <button id="exportBtn" class="side-action">↧ Export / back up notes</button>
-      <div class="sidebar-note" id="cloudStatus" role="status">Loading published course content…</div><button id="cloudRefresh" class="side-action">↻ Refresh from cloud</button><button id="cloudPublish" class="side-action cloud-publish">☁ Publish my edits to GitHub <span id="pendingCount"></span></button><div class="sidebar-note">Edits are saved locally immediately. To share them across devices, use “Publish my edits to GitHub.” The publication action requires a GitHub token scoped to the LEX repository, which is never stored.</div>
+      <div class="sync-summary"><span class="sync-indicator" aria-hidden="true"></span><span id="cloudStatus" role="status">Checking published content…</span></div>
+      <details class="sidebar-tools">
+        <summary>Workspace tools <span class="tools-chevron">⌄</span></summary>
+        <div class="tools-body">
+          <button id="addTopic" class="side-action">＋ Add chapter or section</button>
+          <button id="importBtn" class="side-action">↥ Import study content</button>
+          <button id="exportBtn" class="side-action">↧ Export backup</button>
+          <button id="cloudRefresh" class="side-action">↻ Check for updates</button>
+          <button id="cloudPublish" class="side-action cloud-publish">☁ Publish local edits <span id="pendingCount"></span></button>
+          <p class="tools-help">Your changes save in this browser. Use Publish to sync edits to GitHub.</p>
+        </div>
+      </details>
     </div>
   </aside>
   <main class="main">
-    <header class="topbar"><div class="topbar-left"><button id="mobileOpen" class="iconbtn mobile-only" aria-label="Open navigation">☰</button><span class="topbar-title">YOUR STUDY WORKSPACE · LIVE CONTENT</span></div><div class="topbar-right"><button id="themeBtn" class="top-action" title="Toggle appearance">☾ <span>Theme</span></button><button id="addEntryTop" class="button primary">＋ New entry</button></div></header>
+    <header class="topbar"><div class="topbar-left"><button id="mobileOpen" class="iconbtn mobile-only" aria-label="Open navigation">☰</button><span class="topbar-title">LEX / STUDY WORKSPACE</span></div><div class="topbar-right"><button id="themeBtn" class="top-action" title="Toggle appearance">☾ <span>Theme</span></button><button id="addEntryTop" class="button primary">＋ New entry</button></div></header>
     <div class="workspace">
       <div id="notice" class="notice" role="status" hidden></div>
       <div class="breadcrumb" id="breadcrumb"></div>
