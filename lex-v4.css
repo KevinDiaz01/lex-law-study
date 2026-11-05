@@ -31,3 +31,26 @@
 .entry details summary{padding:4px 0}
 .entry .detail-body{background:#fff}
 @media(max-width:850px){.law-row{gap:5px}.section-jumps button{font-size:11px;padding:8px 10px}}
+
+/* LEX v4.3 — colored LABELS only, not colored entries */
+.law-row,.law-row.law-rule,.law-row.law-case,.law-row.law-definition{background:#fff;border-left:0;padding:12px 9px}
+.law-row:hover,.law-row.law-rule:hover,.law-row.law-case:hover{background:#f8fafc}
+.entry,.entry.entry-rule,.entry.entry-case,.entry.entry-definition{background:#fff;border-left:0;border-radius:0;padding:18px 2px;border-bottom:1px solid #e3e8ef;margin:0}
+.entry:hover{background:#fff}
+.entry .entry-head{align-items:flex-start}
+.type-label{display:inline-flex;vertical-align:baseline;align-items:center;width:max-content;letter-spacing:.045em;font-size:10px;font-weight:780;line-height:1.25;border-radius:4px;padding:3px 6px;margin:0 8px 0 0;background:#eef1f5;color:#59677a;white-space:nowrap}
+.law-name .type-label{margin:0 7px 0 0}
+.law-title{font-size:13px;font-weight:700;line-height:1.5}
+.label-rule{background:#e7f0fd;color:#1f579e}
+.label-case{background:#fff0db;color:#90551c}
+.label-definition{background:#eaf5ef;color:#28664b}
+.label-concept,.label-framework{background:#eceef4;color:#4d5978}
+.label-policy{background:#f2ecf9;color:#714b93}
+.label-context,.label-history{background:#edf0f3;color:#5b6572}
+.label-formula{background:#e6f3f4;color:#246b76}
+.label-example{background:#f4f0ea;color:#776047}
+.entry-kind.type-label{margin:0 0 8px;padding:3px 7px;letter-spacing:.06em}
+.entry h3{font-size:16px}
+.quick-group h2{font-size:14px}
+.quick-group .law-table{border-radius:5px}
+@media(max-width:850px){.type-label{font-size:9px}.law-title{font-size:13px}}
