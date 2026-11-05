@@ -54,7 +54,9 @@ function renderSidebar(){
  html+='<div class="side-caption">REFERENCE</div><button class="side-link '+(page==='formulas'?'active':'')+'" data-page="formulas">All formulas & calculations</button><button class="side-link '+(page==='problems'?'active':'')+'" data-page="problems">Unsolved problems ('+(c.problems?.length||0)+')</button>';
  $('outline').innerHTML=html;
 }
-function lawRow(e,tid){return '<button class="law-row" data-entry="'+escapeHTML(e.id)+'" data-topic="'+escapeHTML(tid)+'"><span class="law-name">'+escapeHTML(e.title)+'</span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↗</span></button>'}
+function kind(e){return e.type==='case'?'case':e.type==='rule'?'rule':e.type==='definition'?'definition':'example'}
+function kindLabel(e){return e.type==='case'?'CASE':e.type==='rule'?'BLACK-LETTER RULE':e.type==='definition'?'DEFINITION':'EXAMPLE'}
+function lawRow(e,tid){return '<button class="law-row law-'+kind(e)+'" data-entry="'+escapeHTML(e.id)+'" data-topic="'+escapeHTML(tid)+'"><span class="law-name"><span class="type-label">'+kindLabel(e)+'</span>'+escapeHTML(e.title)+'</span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↗</span></button>'}
 function renderOverview(){
  const c=current();let html='';
  if(c.concept?.question)html+='<div class="course-context"><strong>What ties this course together?</strong><div>'+escapeHTML(c.concept.question)+'</div></div>';
@@ -77,19 +79,36 @@ function renderChapter(){
  }$('body').innerHTML=html;
 }
 function entryHtml(e){const details=e.type==='case'?[['Facts',e.facts],['Issue',e.issue],['Holding',e.holding],['Reasoning',e.reasoning],['Exam significance',e.exam],['Other',e.details]]:[['Full explanation / steps / exceptions',e.details]];
- return '<article class="entry" id="entry-'+escapeHTML(e.id)+'"><div class="entry-head"><div><div class="entry-kind">'+escapeHTML(e.type)+(e.page?' · p. '+escapeHTML(e.page):'')+'</div><h3>'+escapeHTML(e.title)+'</h3></div><button class="edit-btn" data-edit="'+escapeHTML(e.id)+'">Edit</button></div><p>'+escapeHTML(e.summary)+'</p>'+
+ return '<article class="entry entry-'+kind(e)+'" id="entry-'+escapeHTML(e.id)+'"><div class="entry-head"><div><div class="entry-kind">'+kindLabel(e)+(e.page?' · p. '+escapeHTML(e.page):'')+'</div><h3>'+escapeHTML(e.title)+'</h3></div><button class="edit-btn" data-edit="'+escapeHTML(e.id)+'">Edit</button></div><p>'+escapeHTML(e.summary)+'</p>'+
  (e.alert?'<div class="notice" style="margin-top:10px">'+escapeHTML(e.alert)+'</div>':'')+
  (details.some(v=>v[1])?'<details><summary>Explanation, elements, and examples</summary><div class="detail-body">'+details.filter(v=>v[1]).map(v=>'<b>'+escapeHTML(v[0])+'</b>'+escapeHTML(v[1])).join('\n\n')+'</div></details>':'')+
  (e.source?'<div class="entry-source">Source: '+escapeHTML(e.source)+'</div>':'')+'</article>';
 }
 function formulaHtml(f){return '<article class="formula"><strong>'+escapeHTML(f.title)+'</strong><div class="formula-code">'+escapeHTML(f.formula)+'</div><p>'+escapeHTML(f.meaning)+'</p><details><summary>Worked example</summary><p>'+escapeHTML(f.worked)+'</p></details><div class="entry-source">'+escapeHTML(f.source)+'</div></article>'}
 function renderSection(){
- const t=topic();if(!t)return;$('body').innerHTML='';const formulas=(current().formulas||[]).filter(f=>f.topicId===t.id),problems=(current().problems||[]).filter(p=>p.topicId===t.id);
- let html='<div class="mini-title">QUICK RULE MAP</div>';
- if(t.entries.length)html+='<div class="law-table">'+t.entries.filter(e=>e.type!=='example').map(e=>'<button class="law-row" data-scroll="'+escapeHTML(e.id)+'"><span class="law-name">'+escapeHTML(e.title)+'</span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↓</span></button>').join('')+'</div>';
- else html+='<div class="empty">This section is awaiting its assigned readings.</div>';
- html+='<div class="section-heading">Rules, definitions & cases</div>'+t.entries.map(entryHtml).join('');
- if(formulas.length)html+='<div class="section-heading">Calculations in this section</div>'+formulas.map(formulaHtml).join('');
+ const t=topic();if(!t)return;
+ const formulas=(current().formulas||[]).filter(f=>f.topicId===t.id),problems=(current().problems||[]).filter(p=>p.topicId===t.id);
+ const classified=[
+  {type:'rule',title:'Black-letter rules'},
+  {type:'case',title:'Cases & holdings'},
+  {type:'definition',title:'Key definitions'},
+  {type:'example',title:'Examples & applications'}
+ ];
+ let html='<div class="section-jumps">';
+ for(const x of classified){const count=t.entries.filter(e=>e.type===x.type).length;if(count)html+='<button data-scroll-group="'+x.type+'">'+x.title+' <b>'+count+'</b></button>';}
+ html+='</div><div class="mini-title">QUICK REFERENCE</div>';
+ for(const x of classified.filter(x=>x.type!=='example')){
+  const entries=t.entries.filter(e=>e.type===x.type);if(!entries.length)continue;
+  html+='<div class="quick-group"><h2>'+x.title+'</h2><div class="law-table">';
+  html+=entries.map(e=>'<button class="law-row law-'+kind(e)+'" data-scroll="'+escapeHTML(e.id)+'"><span class="law-name"><span class="type-label">'+kindLabel(e)+'</span>'+escapeHTML(e.title)+'</span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↓</span></button>').join('');
+  html+='</div></div>';
+ }
+ if(!t.entries.length)html+='<div class="empty">This section is awaiting its assigned readings.</div>';
+ for(const x of classified){
+  const entries=t.entries.filter(e=>e.type===x.type);if(!entries.length)continue;
+  html+='<section class="detail-group" id="group-'+x.type+'"><div class="section-heading">'+x.title+'</div>'+entries.map(entryHtml).join('')+'</section>';
+ }
+ if(formulas.length)html+='<div class="section-heading" id="group-formulas">Calculations in this section</div>'+formulas.map(formulaHtml).join('');
  if(problems.length)html+='<div class="section-heading">Practice</div><button class="small-btn" data-page="problems" data-focus="'+escapeHTML(t.id)+'">View '+problems.length+' unsolved problems for this topic →</button>';
  $('body').innerHTML=html;
 }
@@ -136,7 +155,7 @@ function exportBackup(){let b=new Blob([JSON.stringify(db,null,2)],{type:'applic
 function loadBackup(e){const f=e.target.files?.[0];e.target.value='';if(!f)return;f.text().then(s=>{let data=JSON.parse(s);if(!valid(data))throw Error('Invalid backup');if(!confirm('Merge this backup with your current content?'))return;pending.push({kind:'merge',data});db=overlay(db,[{kind:'merge',data}]);save();render();note('Backup merged; publish when ready.')}).catch(err=>note('Import failed: '+err.message))}
 $('courses').onclick=e=>{let x=e.target.closest('[data-course]');if(x)chooseCourse(x.dataset.course)};
 $('outline').onclick=e=>{let x=e.target.closest('button');if(!x)return;if(x.dataset.page)openPage(x.dataset.page);else if(x.dataset.quick){sectionId=x.dataset.quick;openPage('chapter')}else if(x.dataset.chapter){const t=current().topics.find(t=>t.id===x.dataset.chapter);const id=t.chapterGroup||t.id;if(showChapter.has(id))showChapter.delete(id);else showChapter.add(id);sectionId=t.id;render()}else if(x.dataset.section)openPage('section',x.dataset.section)};
-$('body').onclick=e=>{let x=e.target.closest('button');if(!x)return;if(x.dataset.entry){openPage('section',x.dataset.topic);jump(x.dataset.entry)}else if(x.dataset.scroll)jump(x.dataset.scroll);else if(x.dataset.section)openPage('section',x.dataset.section);else if(x.dataset.quick)openPage('chapter',x.dataset.quick);else if(x.dataset.edit)editor('entry',x.dataset.edit);else if(x.dataset.editProblem)editor('problem',x.dataset.editProblem);else if(x.dataset.page){problemFilter=x.dataset.focus||'all';openPage(x.dataset.page)}else if(x.dataset.searchEntry){courseId=x.dataset.searchCourse;sectionId=x.dataset.searchSection;openPage('section');jump(x.dataset.searchEntry)}};
+$('body').onclick=e=>{let x=e.target.closest('button');if(!x)return;if(x.dataset.entry){openPage('section',x.dataset.topic);jump(x.dataset.entry)}else if(x.dataset.scroll)jump(x.dataset.scroll);else if(x.dataset.scrollGroup)document.getElementById('group-'+x.dataset.scrollGroup)?.scrollIntoView({behavior:'smooth',block:'start'});else if(x.dataset.section)openPage('section',x.dataset.section);else if(x.dataset.quick)openPage('chapter',x.dataset.quick);else if(x.dataset.edit)editor('entry',x.dataset.edit);else if(x.dataset.editProblem)editor('problem',x.dataset.editProblem);else if(x.dataset.page){problemFilter=x.dataset.focus||'all';openPage(x.dataset.page)}else if(x.dataset.searchEntry){courseId=x.dataset.searchCourse;sectionId=x.dataset.searchSection;openPage('section');jump(x.dataset.searchEntry)}};
 $('body').onchange=e=>{const x=e.target;if(x.id==='problemFilter'){problemFilter=x.value;renderProblems()}else if(x.dataset.problemStatus){let p=current().problems.find(p=>p.id===x.dataset.problemStatus);if(p){p.status=x.value;record({kind:'problemStatus',cid:courseId,id:p.id,status:p.status})}}};
 $('search').oninput=e=>{search=e.target.value;page='search';render()};
 $('editSection').onclick=()=>editor('topic',sectionId);
