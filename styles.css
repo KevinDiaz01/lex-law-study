@@ -217,3 +217,73 @@ body.dark button.roadmap-item:hover,body.dark .concept-tile:hover{background:var
 @media(max-width:1250px){.dashboard-main{grid-template-columns:minmax(0,1fr) 270px}.workspace{padding:26px 28px}.dashboard-hero{grid-template-columns:minmax(0,1fr) 160px}}
 @media(max-width:980px){.dashboard-main{grid-template-columns:1fr}.dashboard-secondary{order:2}.roadmap-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:18px}}
 @media(max-width:740px){.sidebar{width:275px}.workspace{padding:21px 15px}.page-title h1{font-size:29px}.dashboard-hero{grid-template-columns:1fr;min-height:auto}.hero-visual{display:none}.hero-copy{padding:28px}.dashboard-hero h2{font-size:27px}.tax-flow{grid-template-columns:repeat(2,minmax(0,1fr))}.tax-flow-step:nth-child(n){border-right:1px solid var(--border);border-bottom:1px solid var(--border)}.tax-flow-step:nth-child(2n){border-right:0}.tax-flow-step:nth-last-child(-n+2){border-bottom:0}.concept-grid{grid-template-columns:1fr}.roadmap-list{grid-template-columns:1fr}}
+
+/* LEX 3 — reading first, hierarchy over decoration */
+:root{--bg:#fff;--side:#f7f9fc;--border:#e3e9f1;--text:#18243a;--muted:#6e7b90;--soft:#f2f6fa;--accent:#2458a9;--accent-light:#e8f0ff}
+.main{background:var(--bg)}
+.sidebar{width:275px;background:var(--side)}
+.sidebar .brand{margin-bottom:5px}
+.sidebar .course-group{margin-bottom:7px}
+.course-name{flex:1;min-width:0}
+.course-contents{padding-bottom:9px}
+.outline-chapter{border-left:1px solid #dce3ee;margin:7px 0 12px 13px;padding-left:7px}
+.chapter-link{display:block;text-align:left;border:none;background:transparent;color:var(--text);font-size:12px;font-weight:750;padding:11px 7px;width:100%;border-radius:7px}
+.chapter-link:hover,.chapter-link.selected{background:var(--accent-light);color:var(--accent)}
+.topic-row.subtopic-row{padding:9px 9px 9px 17px;font-size:11px;line-height:1.4}
+.topic-row.chapter-map{padding:9px 8px 9px 15px;color:var(--accent);font-weight:700}
+.nav-resources{border-top:1px solid var(--border);margin:12px 7px 0;padding:13px 0 0}
+.nav-resource-heading{font-size:10px;color:var(--muted);font-weight:800;letter-spacing:.1em;margin:0 0 7px 10px}
+.nav-resources .topic-row{padding-left:12px}
+.topbar{height:61px}
+.workspace{max-width:1200px;padding:30px clamp(28px,4vw,68px) 65px}
+.page-title{align-items:flex-start;margin:0 0 25px}
+.page-title h1{font-size:31px}
+.page-title p{max-width:650px;line-height:1.6}
+#viewTabs{display:none!important}
+.outline-overview{width:100%}
+.outline-intro{padding:0 0 22px;border-bottom:1px solid var(--border);margin-bottom:26px}
+.outline-intro h2{font-size:24px;line-height:1.4;letter-spacing:-.03em;margin:9px 0}
+.outline-intro p{font-size:12px;color:var(--muted)}
+.overview-block{margin:0 0 30px}
+.overview-block h3{font-size:17px;margin:0 0 13px}
+.outline-process{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0;margin:0}
+.outline-process li{display:flex;align-items:center;gap:10px;flex:1 1 145px;padding:13px 12px;background:var(--soft);border:1px solid var(--border);border-radius:8px;font-size:12px;line-height:1.4}
+.outline-process li b{display:grid;place-items:center;flex:none;width:24px;height:24px;border-radius:50%;background:var(--accent-light);color:var(--accent)}
+.overview-doctrines,.overview-chapters{border:1px solid var(--border);border-radius:10px;overflow:hidden}
+.overview-doctrines button{display:flex;align-items:center;gap:18px;width:100%;background:var(--surface);border:0;border-bottom:1px solid var(--border);padding:16px;text-align:left;color:var(--text)}
+.overview-doctrines button:last-child{border:0}
+.overview-doctrines button:hover,.overview-chapter:hover{background:var(--soft)}
+.overview-doctrines strong{flex:0 0 32%;font-size:13px}
+.overview-doctrines span{flex:1;font-size:12px;color:var(--muted);line-height:1.5}
+.overview-doctrines b{color:var(--accent);font-size:16px}
+.overview-chapter{display:flex;justify-content:space-between;gap:12px;width:100%;padding:14px 16px;text-align:left;background:var(--surface);color:var(--text);border:0;border-bottom:1px solid var(--border)}
+.overview-chapter:last-child{border:0}
+.overview-chapter strong,.overview-chapter small{display:block}
+.overview-chapter strong{font-size:12px}
+.overview-chapter small{font-size:11px;color:var(--muted);margin-top:4px}
+.reading-intro{margin:0 0 14px}
+.reading-intro h2{font-size:21px;margin:7px 0}
+.reading-intro p{font-size:12px;color:var(--muted);margin:0}
+.inline-rule-map{border:1px solid var(--border);border-radius:10px;overflow:hidden;margin:17px 0 32px}
+.inline-rule-map button{display:flex;gap:16px;align-items:flex-start;width:100%;padding:13px 17px;text-align:left;border:0;border-bottom:1px solid var(--border);background:var(--surface);color:var(--text)}
+.inline-rule-map button:last-child{border-bottom:0}
+.inline-rule-map button:hover{background:var(--soft)}
+.inline-rule-map strong{font-size:12px;flex:0 0 33%;line-height:1.5}
+.inline-rule-map span{font-size:12px;line-height:1.6;flex:1;color:var(--muted)}
+.inline-rule-map b{font-size:14px;color:var(--accent)}
+.reading-section-title{display:flex;justify-content:space-between;align-items:baseline;gap:10px;border-bottom:1px solid var(--border);padding:0 0 10px;margin:28px 0 14px}
+.reading-section-title h2{font-size:18px;margin:0}
+.reading-section-title span{font-size:11px;color:var(--muted)}
+.cards{gap:11px}
+.entry{padding:20px 23px;box-shadow:none;border-radius:9px;scroll-margin-top:24px}
+.entry h2{font-size:18px}
+.summary{font-size:13px;line-height:1.7}
+.details-toggle{font-size:12px}
+.related-problems{display:flex;align-items:center;justify-content:space-between;gap:14px;border-radius:9px;background:var(--soft);padding:18px 20px;border:1px solid var(--border)}
+.related-problems strong{font-size:12px}
+.related-problems button{border:0;background:transparent;color:var(--accent);font-weight:750;font-size:12px}
+body.dark .outline-process li,body.dark .related-problems{background:var(--soft)}
+body.dark .overview-doctrines button,body.dark .overview-chapter,body.dark .inline-rule-map button{background:var(--surface);color:var(--text)}
+body.dark .sidebar{background:var(--side)}
+@media(max-width:930px){.sidebar{width:240px}.workspace{padding:28px 25px}}
+@media(max-width:740px){.sidebar{width:275px}.workspace{padding:23px 17px}.page-title h1{font-size:28px}.overview-doctrines button,.inline-rule-map button{flex-wrap:wrap}.overview-doctrines strong,.inline-rule-map strong{flex-basis:100%}.reading-section-title span{display:none}.related-problems{flex-wrap:wrap}}
