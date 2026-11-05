@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LEX — Law Study Workspace</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div id="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="brand"><div class="brandmark">§</div><div><strong>LEX</strong><span>LAW STUDY WORKSPACE</span></div><button id="mobileClose" class="iconbtn mobile-only" aria-label="Close navigation">✕</button></div>
+    <div class="sidebar-search"><span>⌕</span><input id="search" type="search" placeholder="Search the entire workspace..." aria-label="Search study content" /><kbd>/</kbd></div>
+    <div class="sidebar-heading">YOUR COURSES</div>
+    <nav id="navigation" aria-label="Course and topic outline"></nav>
+    <div class="sidebar-bottom">
+      <button id="addTopic" class="side-action">＋ Add chapter / section</button>
+      <button id="importBtn" class="side-action">↥ Import ChatGPT content</button>
+      <button id="exportBtn" class="side-action">↧ Export / back up notes</button>
+      <div class="sidebar-note" id="cloudStatus" role="status">Loading published course content…</div><button id="cloudRefresh" class="side-action">↻ Refresh from cloud</button><button id="cloudPublish" class="side-action cloud-publish">☁ Publish my edits to GitHub <span id="pendingCount"></span></button><div class="sidebar-note">Edits are saved locally immediately. To share them across devices, use “Publish my edits to GitHub.” The publication action requires a GitHub token scoped to the LEX repository, which is never stored.</div>
+    </div>
+  </aside>
+  <main class="main">
+    <header class="topbar"><div class="topbar-left"><button id="mobileOpen" class="iconbtn mobile-only" aria-label="Open navigation">☰</button><span class="topbar-title">YOUR STUDY WORKSPACE · LIVE CONTENT</span></div><div class="topbar-right"><button id="themeBtn" class="top-action" title="Toggle appearance">☾ <span>Theme</span></button><button id="addEntryTop" class="button primary">＋ New entry</button></div></header>
+    <div class="workspace">
+      <div id="notice" class="notice" role="status" hidden></div>
+      <div class="breadcrumb" id="breadcrumb"></div>
+      <section class="page-title"><div><div class="eyebrow" id="courseLabel"></div><h1 id="topicTitle"></h1><p id="topicSubtitle"></p></div><div class="topic-actions" id="topicActions"><button class="button secondary" id="editTopic">Edit section</button><button class="button primary" id="addEntry">＋ Add content</button></div></section>
+      <nav id="viewTabs" class="view-tabs" aria-label="Study views">
+        <button data-view="master">Master Course Map</button>
+        <button data-view="chapter">Chapter Rule Map</button>
+        <button data-view="read">Detailed Outline</button>
+        <button data-view="formulas">Calculation Reference</button>
+        <button data-view="problems">Problem Bank</button>
+      </nav>
+      <div id="readToolbar" class="toolbar"><div class="filters" id="filters"><button class="filter active" data-filter="all">All</button><button class="filter" data-filter="rule">Rules</button><button class="filter" data-filter="definition">Definitions</button><button class="filter" data-filter="case">Cases</button><button class="filter" data-filter="example">Examples</button></div><label class="compact-toggle"><input id="studyMode" type="checkbox" /> Hide answers</label></div>
+      <section id="cards" class="cards" aria-live="polite"></section>
+      <footer class="footer">LEX · Read quickly, verify sources, practice intentionally. The 2023 casebook and current-year law may differ; review flagged updates.</footer>
+    </div>
+  </main>
+</div>
+<div id="modal" class="modal-backdrop" hidden><div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-header"><h2 id="modalTitle">Edit content</h2><button id="closeModal" class="iconbtn" aria-label="Close">✕</button></div><form id="editor" class="editor"><div id="editorFields"></div><div class="modal-footer"><button type="button" id="deleteEntry" class="button danger" hidden>Delete</button><span class="grow"></span><button type="button" class="button secondary" id="cancelModal">Cancel</button><button class="button primary" type="submit">Save changes</button></div></form></div></div>
+<input type="file" id="fileImport" accept=".json,application/json" hidden />
+<script src="tax-chapter1-data.js"></script>
+<script src="app.js"></script>
+<script src="cloud-sync.js"></script>
+</body>
+</html>
