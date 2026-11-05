@@ -57,7 +57,7 @@ function renderNav(){
  $('navigation').innerHTML=out;
 }
 function setView(mode){view=mode;filter='all';openCards.clear();revealed.clear();render()}
-function setHead(){const c=getCourse(),t=getTopic();const heads={master:['Master Course Map','Understand how the entire subject fits together; see what material has been added.'],chapter:['Chapter Rule Map','Every key rule and definition at a glance. Click an item to open its detailed explanation.'],read:[t?.title||'Detailed Outline',t?.description||'Concise first. Expand when you need the reasoning.'],formulas:['Calculation Reference','Formulas, what the variables mean, and the book’s worked illustrations.'],problems:['Unsolved Problem Bank','Practice prompts collected by section. No solutions or hidden answer keys.'],search:['Search results','Find rules, cases, calculations and problems across all classes.']};let [title,subtitle]=heads[view]||heads.read;
+function setHead(){const c=getCourse(),t=getTopic();const heads={master:['Course Outline','Every important doctrine, rule, and definition in one place. Select an entry to read it.'],chapter:['Chapter Rule Map','Every key rule and definition at a glance. Click an item to open its detailed explanation.'],read:[t?.title||'Detailed Outline',t?.description||'Concise first. Expand when you need the reasoning.'],formulas:['Calculation Reference','Formulas, what the variables mean, and the book’s worked illustrations.'],problems:['Unsolved Problem Bank','Practice prompts collected by section. No solutions or hidden answer keys.'],search:['Search results','Find rules, cases, calculations and problems across all classes.']};let [title,subtitle]=heads[view]||heads.read;
 $('breadcrumb').textContent=`Courses  /  ${c?.name||''}  /  ${title}`;$('courseLabel').textContent=c?.name?.toUpperCase()||'';$('topicTitle').textContent=title;$('topicSubtitle').textContent=subtitle;
 $('topicActions').style.display=['read','chapter'].includes(view)?'flex':'none';$('readToolbar').hidden=view!=='read';
 for(const b of $('viewTabs').querySelectorAll('button'))b.classList.toggle('active',b.dataset.view===view);
@@ -66,25 +66,35 @@ $('studyMode').checked=study;
 }
 function render(){if(!getCourse()){courseId=db.courses[0].id}if(!getTopic()&&getCourse().topics.length)topicId=getCourse().topics[0].id;renderNav();setHead();switch(view){case'master':renderMaster();break;case'chapter':renderChapter();break;case'read':renderRead();break;case'formulas':renderFormulas();break;case'problems':renderProblems();break;case'search':renderSearch();break;}}
 
+
 function renderMaster(){
- const c=getCourse(),m=c.concept,pills=c.syllabus||[];
- let out='<div class="outline-overview"><div class="outline-intro"><span class="kicker">COURSE AT A GLANCE</span><h2>'+safe(m?.question||c.name)+'</h2><p>See how everything connects, then jump directly to the law.</p></div>';
+ const c=getCourse(),m=c.concept;
+ let out='<div class="minimal-overview">';
+ out+='<div class="overview-lead"><h2>How this course fits together</h2><p>'+safe(m?.question||'Select a chapter to start reading the law.')+'</p></div>';
  if(m?.pipeline?.length){
-   out+='<section class="overview-block"><h3>How the tax system works</h3><ol class="outline-process">';
-   m.pipeline.forEach((step,i)=>out+='<li><b>'+(i+1)+'</b><span>'+safe(step)+'</span></li>');
-   out+='</ol></section>';
+  out+='<div class="concept-sequence"><strong>Core framework</strong><p>'+m.pipeline.map((step,i)=>'<span>'+(i+1)+'. '+safe(step)+'</span>').join('<b aria-hidden="true">→</b>')+'</p></div>';
  }
- if(m?.pillars?.length){
-  out+='<section class="overview-block"><h3>Core doctrines — jump straight to the law</h3><div class="overview-doctrines">';
-  m.pillars.forEach(p=>out+='<button data-go="'+safe(p.topicId)+'"><strong>'+safe(p.title)+'</strong><span>'+safe(p.description)+'</span><b>→</b></button>');
-  out+='</div></section>';
+ const groupMap=new Map();
+ c.topics.forEach(t=>{const g=t.chapterGroup||t.id;if(!groupMap.has(g))groupMap.set(g,[]);groupMap.get(g).push(t);});
+ for(const [group,sections] of groupMap){
+  const first=sections[0],chapterName=first.title.startsWith('Chapter ')?first.title:first.title;
+  const count=sections.reduce((n,t)=>n+t.entries.length,0);
+  out+='<section class="course-outline-group"><div class="course-outline-heading"><div><h3>'+safe(chapterName)+'</h3><small>'+safe(first.pages||'')+(count?' · '+count+' key entries':' · Not yet added')+'</small></div><button data-chapter-open="'+safe(first.id)+'">Chapter rule map →</button></div>';
+  for(const t of sections){
+   if(t===first&&t.title.startsWith('Chapter ')&&sections.length>1)continue;
+   out+='<div class="overview-topic"><button class="overview-topic-title" data-go="'+safe(t.id)+'">'+safe(t.title)+' <span>→</span></button>';
+   if(t.entries?.length){
+    out+='<div class="overview-rule-rows">';
+    for(const e of t.entries.filter(e=>e.type!=='example')){
+      out+='<button class="overview-rule-row" data-open-entry="'+safe(e.id)+'" data-entry-topic="'+safe(t.id)+'"><span class="overview-rule-label">'+safe(e.title)+'</span><span class="overview-rule-summary">'+safe(e.summary)+'</span><span class="overview-rule-arrow">↗</span></button>';
+    }
+    out+='</div>';
+   }else out+='<p class="pending-topic">Material pending</p>';
+   out+='</div>';
+  }
+  out+='</section>';
  }
- if(pills.length){
-  out+='<section class="overview-block"><h3>Course table of contents</h3><div class="overview-chapters">';
-  pills.forEach(p=>{const tag=p.topicId?'button':'div';out+='<'+tag+' class="overview-chapter" '+(p.topicId?'data-go="'+safe(p.topicId)+'"':'')+'><span><strong>'+safe(p.title)+'</strong><small>Pages '+safe(p.pages)+'</small></span><span class="status-chip '+(p.status==='Added'?'complete':'')+'">'+safe(p.status)+'</span></'+tag+'>';});
-  out+='</div></section>';
- }
- if(c.updates?.length)out+='<section class="overview-block"><h3>Current-law cautions</h3>'+renderUpdates(c.updates)+'</section>';
+ if(c.updates?.length)out+='<section class="overview-block compact-updates"><h3>Important updates to the textbook</h3>'+renderUpdates(c.updates)+'</section>';
  $('cards').innerHTML=out+'</div>';
 }
 function renderUpdates(updates){return `<div class="updates-list">${updates.map(u=>`<details class="update-card"><summary><span class="alert-dot">!</span><strong>${safe(u.title)}</strong><span class="subtle">Show update</span></summary><div class="update-body"><p><b>2023 casebook:</b> ${safe(u.book)}</p><p><b>2026 update:</b> ${safe(u.current)}</p><a href="${safe(u.source)}" target="_blank" rel="noopener noreferrer">Official / supporting source ↗</a></div></details>`).join('')}</div>`}
@@ -152,7 +162,7 @@ function exportData(){const blob=new Blob([JSON.stringify(db,null,2)],{type:'app
 async function importFile(ev){const file=ev.target.files?.[0];ev.target.value='';if(!file)return;try{if(file.size>8_000_000)throw Error('JSON must be smaller than 8 MB');const imported=JSON.parse(await file.text());if(!valid(imported))throw Error('Invalid LEX JSON format');const merge=confirm('IMPORT JSON\n\nOK = MERGE into your current work (recommended).\nCancel = option to REPLACE everything.');if(merge){mergeData(db,imported);if(window.LEXCloud)window.LEXCloud.record({kind:'merge',data:clone(imported)});}else if(confirm('REPLACE EVERYTHING? Export a backup first.')){db=clone(imported);if(window.LEXCloud)window.LEXCloud.record({kind:'replace',data:clone(imported)});}else return;save();render();toast('Import completed. Your course content has been updated.')}catch(e){alert('Import failed: '+e.message)}}
 $('navigation').addEventListener('click',ev=>{const el=ev.target.closest('button');if(!el)return;if(el.dataset.map){navCourse(el.dataset.map);return}if(el.dataset.calc){courseId=el.dataset.calc;setView('formulas');return}if(el.dataset.problems){courseId=el.dataset.problems;setView('problems');return}if(el.dataset.chapter){courseId=el.dataset.chapter;topicId=el.dataset.first;chapterScope='all';setView('chapter');return}if(el.dataset.tid){navigate(el.dataset.cid,el.dataset.tid,'read');return}if(el.dataset.course){const cid=el.dataset.course;if(courseId===cid&&view==='master'){collapsed.has(cid)?collapsed.delete(cid):collapsed.add(cid);renderNav()}else navCourse(cid)}});
 $('viewTabs').addEventListener('click',ev=>{let b=ev.target.closest('button[data-view]');if(b){query='';$('search').value='';setView(b.dataset.view)}});
-$('cards').addEventListener('click',ev=>{const el=ev.target.closest('button');if(!el)return;if(el.dataset.go){navigate(courseId,el.dataset.go,'read',el.dataset.eid);return}if(el.dataset.jumpEntry){document.getElementById('entry-'+el.dataset.jumpEntry)?.scrollIntoView({behavior:'smooth',block:'start'});return}if(el.dataset.openProblems){problemScope=topicId;setView('problems');return}if(el.dataset.edit){openModal('entry',el.dataset.edit);return}if(el.dataset.toggle){openCards.has(el.dataset.toggle)?openCards.delete(el.dataset.toggle):openCards.add(el.dataset.toggle);renderRead();return}if(el.dataset.reveal){revealed.add(el.dataset.reveal);renderRead();return}if(el.dataset.editProblem){openModal('problem',el.dataset.editProblem);return}if(el.id==='addProblem'){openModal('problem');return}if(el.dataset.searchCid){let mode=el.dataset.searchType==='problem'?'problems':el.dataset.searchType==='formula'?'formulas':'read';if(mode==='read')navigate(el.dataset.searchCid,el.dataset.searchTid,mode,el.dataset.searchEid);else{courseId=el.dataset.searchCid;setView(mode)}return}});
+$('cards').addEventListener('click',ev=>{const el=ev.target.closest('button');if(!el)return;if(el.dataset.chapterOpen){topicId=el.dataset.chapterOpen;chapterScope='all';setView('chapter');return}if(el.dataset.openEntry){navigate(courseId,el.dataset.entryTopic,'read',el.dataset.openEntry);return}if(el.dataset.go){navigate(courseId,el.dataset.go,'read',el.dataset.eid);return}if(el.dataset.jumpEntry){document.getElementById('entry-'+el.dataset.jumpEntry)?.scrollIntoView({behavior:'smooth',block:'start'});return}if(el.dataset.openProblems){problemScope=topicId;setView('problems');return}if(el.dataset.edit){openModal('entry',el.dataset.edit);return}if(el.dataset.toggle){openCards.has(el.dataset.toggle)?openCards.delete(el.dataset.toggle):openCards.add(el.dataset.toggle);renderRead();return}if(el.dataset.reveal){revealed.add(el.dataset.reveal);renderRead();return}if(el.dataset.editProblem){openModal('problem',el.dataset.editProblem);return}if(el.id==='addProblem'){openModal('problem');return}if(el.dataset.searchCid){let mode=el.dataset.searchType==='problem'?'problems':el.dataset.searchType==='formula'?'formulas':'read';if(mode==='read')navigate(el.dataset.searchCid,el.dataset.searchTid,mode,el.dataset.searchEid);else{courseId=el.dataset.searchCid;setView(mode)}return}});
 $('cards').addEventListener('change',ev=>{let el=ev.target;if(el.id==='chapterSelect'){chapterScope=el.value;renderChapter()}else if(el.id==='formulaSelect'){formulaScope=el.value;renderFormulas()}else if(el.id==='problemSelect'){problemScope=el.value;renderProblems()}else if(el.id==='problemStatus'){problemStatus=el.value;renderProblems()}else if(el.dataset.problemStatus){let p=(getCourse().problems||[]).find(p=>p.id===el.dataset.problemStatus);if(p){p.status=el.value;if(window.LEXCloud)window.LEXCloud.record({kind:'problemStatus',cid:courseId,id:p.id,status:p.status});save();toast('Progress saved locally')}}});
 $('filters').addEventListener('click',ev=>{let el=ev.target.closest('button[data-filter]');if(el){filter=el.dataset.filter;render()}});
 $('search').addEventListener('input',ev=>{query=ev.target.value.toLowerCase().trim();if(query){if(view!=='search')priorView=view;view='search';render()}else{view=priorView;render()}});
@@ -163,6 +173,6 @@ $('closeModal').onclick=$('cancelModal').onclick=closeModal;$('editor').onsubmit
 $('exportBtn').onclick=exportData;$('importBtn').onclick=()=>$('fileImport').click();$('fileImport').onchange=importFile;
 $('mobileOpen').onclick=()=>$('sidebar').classList.add('open');$('mobileClose').onclick=()=>$('sidebar').classList.remove('open');
 $('modal').addEventListener('click',ev=>{if(ev.target===$('modal'))closeModal()});
-$('themeBtn').onclick=()=>{document.body.classList.toggle('dark');localStorage.setItem(THEME,document.body.classList.contains('dark')?'dark':'light')};if(localStorage.getItem(THEME)==='dark')document.body.classList.add('dark');
+$('themeBtn').onclick=()=>{document.body.classList.toggle('dark');localStorage.setItem(THEME,document.body.classList.contains('dark')?'dark':'light')};if(localStorage.getItem('lex_minimal_v1')!=='yes'){localStorage.setItem(THEME,'light');localStorage.setItem('lex_minimal_v1','yes')}if(localStorage.getItem(THEME)==='dark')document.body.classList.add('dark');
 document.addEventListener('keydown',ev=>{if(ev.key==='Escape')closeModal();if(ev.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement?.tagName)&&!ev.ctrlKey&&!ev.metaKey){ev.preventDefault();$('search').focus()}});
 render();
