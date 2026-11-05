@@ -530,7 +530,7 @@
           "entries": [
             {
               "id": "tax-ch1-e001",
-              "type": "rule",
+              "type": "framework",
               "title": "The five questions that organize federal tax",
               "summary": "What is taxed? How much? When? At what rate? And who pays?",
               "details": "Use the entire course as one conceptual pipeline. The tax base identifies taxable income; timing determines the year; character and filing status influence rates; entity classification identifies the taxpayer; compliance rules determine reporting and dispute procedures. Source: conceptual synthesis of Chapter 1.",
@@ -548,7 +548,7 @@
             },
             {
               "id": "tax-ch1-e003",
-              "type": "rule",
+              "type": "framework",
               "title": "The calculation pipeline",
               "summary": "Gross income → AGI → taxable income → preliminary tax → credits → tax due/refund.",
               "details": "1. Determine inclusions and exclusions. 2. Gross income less adjustments/above-the-line deductions = AGI. 3. AGI less applicable below-the-line deductions = taxable income (subject to other statutory adjustments). 4. Apply tax rates and relevant special computations. 5. Apply tax credits. 6. Compare liability with withholding/estimated payments.",
@@ -566,7 +566,7 @@
           "entries": [
             {
               "id": "tax-ch1-e004",
-              "type": "definition",
+              "type": "policy",
               "title": "Income tax as collective cost allocation",
               "summary": "Taxation allocates the financial burdens of government and reflects social-policy choices.",
               "details": "The chapter frames taxation as part of the social contract: how costs should be shared and how much taxpayers should retain. The tax base and deductions embody value judgments as well as revenue needs.",
@@ -575,7 +575,7 @@
             },
             {
               "id": "tax-ch1-e005",
-              "type": "definition",
+              "type": "concept",
               "title": "Progressive, proportional, regressive",
               "summary": "Progressive: average rate rises with income; proportional: constant; regressive: falls.",
               "details": "Classify tax systems using AVERAGE TAX RATE, not whether higher-income taxpayers pay more total dollars. The individual federal income tax is generally progressive; payroll and excise taxes often have regressive features.",
@@ -584,7 +584,7 @@
             },
             {
               "id": "tax-ch1-e006",
-              "type": "definition",
+              "type": "concept",
               "title": "Negative income-tax liability",
               "summary": "Refundable credits can produce net payments to an eligible taxpayer.",
               "details": "The casebook describes negative average individual income-tax rates among lower-income quintiles in its 2018 data. Credits such as the EITC are central. Distinguish refundable-credit payments from merely withholding overpayments.",
@@ -602,7 +602,7 @@
             },
             {
               "id": "tax-ch1-e008",
-              "type": "definition",
+              "type": "concept",
               "title": "Income effect vs. substitution effect",
               "summary": "Income effect: need to replace lost disposable income; substitution: after-tax incentives change choices.",
               "details": "Income tax may cause someone to work more to replace lost take-home pay (income effect) or work less because leisure becomes relatively attractive (substitution effect). Theory alone does not identify which dominates for a particular taxpayer.",
@@ -611,7 +611,7 @@
             },
             {
               "id": "tax-ch1-e009",
-              "type": "definition",
+              "type": "policy",
               "title": "Tax expenditures and behavioral incentives",
               "summary": "Deductions, exclusions, and credits can subsidize activities through the tax system.",
               "details": "For example, homeowner and charitable tax provisions may encourage particular spending. A $6 million government grant and a $6 million tax reduction may confer similar benefits even though framed differently in political debate.",
@@ -620,7 +620,7 @@
             },
             {
               "id": "tax-ch1-e010",
-              "type": "definition",
+              "type": "policy",
               "title": "Distributional effects without explicit race classifications",
               "summary": "Facially race-neutral deductions can have uneven impacts given differences in income and wealth.",
               "details": "The chapter examines how itemizing and homeowner tax benefits can be unevenly distributed. Keep separate: (1) disparities linked to income distribution and (2) differences that may remain among groups with comparable income or wealth. Treat the book’s demographic statistics as historical.",
@@ -629,7 +629,7 @@
             },
             {
               "id": "tax-ch1-e011",
-              "type": "rule",
+              "type": "context",
               "title": "Tax implications in general legal practice",
               "summary": "Tax planning affects property transfers, settlements, business entities, compensation, and family law.",
               "details": "Lawyers must spot when a proposed transaction has tax consequences, even if tax is not their specialty. Legal complexity creates incentives to structure transactions to comply and reduce liability.",
@@ -674,7 +674,7 @@
             },
             {
               "id": "tax-ch1-e015",
-              "type": "example",
+              "type": "history",
               "title": "Evolution from class tax to mass tax",
               "summary": "Civil War income taxes → 1894 tax and Pollock → 1913 amendment → WWI growth → WWII mass tax.",
               "details": "1861 first Civil War income tax; 1894 progressive revival; 1895 Pollock; 1913 Sixteenth Amendment; WWI sharply expanded rates; WWII brought broad population coverage. Later Congress repeatedly revised brackets, rates, and deductions.",
@@ -701,7 +701,7 @@
             },
             {
               "id": "tax-ch1-e017",
-              "type": "definition",
+              "type": "concept",
               "title": "Gross receipts versus gross income",
               "summary": "Gross receipts are cash sales proceeds; inventory gross income generally subtracts cost of goods sold.",
               "details": "For merchandising businesses, gross income from inventory sales means gross profit rather than gross cash receipts. Inventory costs recovered through COGS are not the same as personal deductions.",
@@ -728,7 +728,7 @@
             },
             {
               "id": "tax-ch1-e020",
-              "type": "definition",
+              "type": "concept",
               "title": "Above-the-line and below-the-line",
               "summary": "Above-line reduces gross income to AGI; below-line reduces AGI to taxable income.",
               "details": "These are practitioner shorthand, not formal statutory terms. The distinction matters because AGI influences limits and other tax computations; above-line deductions can be more advantageous.",
@@ -737,7 +737,7 @@
             },
             {
               "id": "tax-ch1-e021",
-              "type": "rule",
+              "type": "concept",
               "title": "Deduction versus credit",
               "summary": "Deduction reduces taxable income; credit reduces tax liability dollar for dollar, subject to its rules.",
               "details": "Approximate value of a marginal deduction = amount × applicable marginal rate (only if fully usable and not crossing rate brackets or phased-out benefits). A nonrefundable credit helps only to extent of eligible tax liability; refundable credits can yield a payment.",
@@ -746,7 +746,7 @@
             },
             {
               "id": "tax-ch1-e022",
-              "type": "definition",
+              "type": "concept",
               "title": "Exclusion, exemption, deduction",
               "summary": "An exclusion is not counted as income; a deduction is subtracted; exemption may describe tax-free taxpayers or receipts.",
               "details": "Gifts under § 102 and certain other receipts are cited as examples of statutory exclusions. An exclusion of $50 and inclusion followed by a usable $50 deduction can have comparable current-year tax-base effects, but other rules may make them differ.",
@@ -764,7 +764,7 @@
             },
             {
               "id": "tax-ch1-e024",
-              "type": "definition",
+              "type": "concept",
               "title": "Marginal vs. average tax rate",
               "summary": "Marginal rate taxes the next dollar; average rate equals tax liability ÷ chosen income measure.",
               "details": "A taxpayer can face a 40% marginal bracket while having an average rate near 23% in the book’s hypothetical $60,000 example. Apply the marginal rate to incremental income or a fully usable deduction within that bracket.",
@@ -773,7 +773,7 @@
             },
             {
               "id": "tax-ch1-e025",
-              "type": "definition",
+              "type": "concept",
               "title": "Statutory vs. effective tax rate",
               "summary": "Statutory reflects legal bracket schedule; effective may account for broader income and phaseouts.",
               "details": "An effective marginal rate can exceed the stated marginal bracket where a refundable credit or benefit is phased out as income rises. Always identify what counts in both numerator (tax) and denominator (income).",
@@ -782,7 +782,7 @@
             },
             {
               "id": "tax-ch1-e026",
-              "type": "rule",
+              "type": "concept",
               "title": "Ordinary income versus capital gain",
               "summary": "Capital gain arises from sale/exchange of capital assets; not every capital gain gets preferential rates.",
               "details": "Capital asset definition (§ 1221) generally includes investment stock but excludes, among other things, inventory and property held mainly for sale to customers. Long-term means held MORE than one year; one year or less is short-term. Preferential rates concern net capital gain after the required netting and other restrictions.",
@@ -800,7 +800,7 @@
             },
             {
               "id": "tax-ch1-e028",
-              "type": "definition",
+              "type": "concept",
               "title": "Business expenses versus losses",
               "summary": "Expenses are ordinary operating costs; losses reflect shortfalls on property/transactions and use different rules.",
               "details": "Section 162 allows ordinary and necessary business expenses subject to statutory limits; § 165 governs important loss deductions. The labels matter because they follow separate legal tests.",
@@ -846,7 +846,7 @@
             },
             {
               "id": "tax-ch1-e033",
-              "type": "definition",
+              "type": "concept",
               "title": "Sole proprietorship and partnerships",
               "summary": "Sole proprietor reports directly; partnerships generally pass taxable income and losses through to partners.",
               "details": "The partnership files an information return but generally does not pay entity-level federal income tax. Owners separately report their distributive shares under partnership rules, not necessarily cash received.",
@@ -855,7 +855,7 @@
             },
             {
               "id": "tax-ch1-e034",
-              "type": "definition",
+              "type": "concept",
               "title": "LLCs, S corporations, C corporations",
               "summary": "Tax treatment depends on classification: pass-through forms differ from C-corporation entity taxation.",
               "details": "The casebook simplifies LLCs as partnerships, but real classification can vary: one-member LLCs may be disregarded, multi-member LLCs often default to partnerships, and eligible LLCs can elect corporate treatment. C corporations generally pay entity-level tax; dividends can be taxed again to shareholders. S corporations generally pass through income under eligibility restrictions.",
@@ -865,7 +865,7 @@
             },
             {
               "id": "tax-ch1-e035",
-              "type": "definition",
+              "type": "concept",
               "title": "Tax treatment of trusts",
               "summary": "Trusts can serve as conduits but may also have their own income-tax liability.",
               "details": "Trustee holds property for beneficiaries; tax depends on income accumulation/distribution and trust classification. Chapter 1 provides only an orientation, not the detailed trust rules.",
@@ -874,7 +874,7 @@
             },
             {
               "id": "tax-ch1-e036",
-              "type": "definition",
+              "type": "concept",
               "title": "Nominal gain versus real gain",
               "summary": "Inflation can produce taxable nominal gains even where purchasing power has not increased.",
               "details": "Illustration: $100 cost grows to $105 with 5% inflation; $5 nominal gain need not represent real economic improvement. Tax basis is generally not inflation-indexed, while brackets and certain dollar thresholds are adjusted under statutory rules.",
@@ -883,7 +883,7 @@
             },
             {
               "id": "tax-ch1-e037",
-              "type": "rule",
+              "type": "concept",
               "title": "Bracket creep and inflation indexing",
               "summary": "Without inflation adjustment, rising nominal income can push taxpayers into higher brackets without real growth.",
               "details": "Congress indexed specified tax brackets and amounts to inflation; the book identifies §§1(f) and 151(f) and use of chained CPI. Indexing is distinct from adjusting a taxpayer’s investment basis for inflation.",
@@ -901,7 +901,7 @@
           "entries": [
             {
               "id": "tax-ch1-e038",
-              "type": "definition",
+              "type": "concept",
               "title": "Conversion of income character",
               "summary": "Recharacterizing ordinary-return activity as eligible long-term capital gain can reduce the applicable rate.",
               "details": "The chapter’s start-up founder example shows value created largely by labor but potentially realized as capital gain on sale of ownership interest. Complex anti-conversion provisions may override simplistic characterizations.",
@@ -910,7 +910,7 @@
             },
             {
               "id": "tax-ch1-e039",
-              "type": "definition",
+              "type": "concept",
               "title": "Deferral of tax",
               "summary": "Delay recognition/payment and keep funds invested in the interim.",
               "details": "Deferral may increase after-tax wealth when other variables are held constant and returns are positive. It is not automatically advantageous when future tax rates differ; compare investments and tax rates across both periods.",
@@ -919,7 +919,7 @@
             },
             {
               "id": "tax-ch1-e040",
-              "type": "definition",
+              "type": "concept",
               "title": "Buy, borrow, die — strategy",
               "summary": "Appreciated investments may grow untaxed, borrowing can provide cash, and death may adjust basis.",
               "details": "The chapter ties nonrealization of appreciation, nontaxable loan proceeds, and §1014 basis step-up for many inherited assets into one strategy. This is a conceptual description subject to limits, exceptions, and future law changes.",
@@ -928,7 +928,7 @@
             },
             {
               "id": "tax-ch1-e041",
-              "type": "rule",
+              "type": "formula",
               "title": "Compound future value",
               "summary": "Future value = present investment × (1 + return)^number of periods.",
               "details": "For an initial $10,000 growing at 10% per year for ten years, book illustration ≈ $25,937 before tax. Distinguish untaxed growth inside a deferral arrangement from after-tax annual returns.",
@@ -937,7 +937,7 @@
             },
             {
               "id": "tax-ch1-e042",
-              "type": "rule",
+              "type": "formula",
               "title": "Present value (discounting)",
               "summary": "Present value = future amount ÷ (1 + discount rate)^periods.",
               "details": "At 10% for 10 years, the multiplier is ≈ 0.3855 (the table rounds to .386). The textbook’s Table 1-5 provides a range of rates and periods, but the formula permits direct calculation.",
@@ -946,7 +946,7 @@
             },
             {
               "id": "tax-ch1-e043",
-              "type": "rule",
+              "type": "formula",
               "title": "After-tax compounding without deferral",
               "summary": "Initial after-tax principal = principal × (1 − tax rate); annual after-tax growth uses return × (1 − tax rate).",
               "details": "The chapter compares an immediate 40% tax and annual taxation of 10% yields with delayed taxation. This is a simplified model that assumes a constant rate and full annual taxation of investment returns.",
@@ -973,7 +973,7 @@
             },
             {
               "id": "tax-ch1-e045",
-              "type": "definition",
+              "type": "concept",
               "title": "Audit and deficiency",
               "summary": "Audit is closer IRS scrutiny; deficiency is an asserted amount of underpaid tax.",
               "details": "The general assessment period discussed by the textbook is three years, subject to major exceptions. Interest typically accrues on underpayments; penalties may also apply. The IRS often resolves disputes administratively.",
@@ -1027,7 +1027,7 @@
           "entries": [
             {
               "id": "tax-ch1-e050",
-              "type": "rule",
+              "type": "context",
               "title": "Start with the Internal Revenue Code",
               "summary": "Federal tax liability must rest on statutory authority; statutory text is the starting point.",
               "details": "Read the controlling provision, definitions, cross-references, and exceptions. Follow regulations, binding case law, and pertinent IRS guidance, while considering how judicial doctrines deal with substance over form.",
@@ -1036,7 +1036,7 @@
             },
             {
               "id": "tax-ch1-e051",
-              "type": "definition",
+              "type": "context",
               "title": "Legislative history and JCT",
               "summary": "Committee reports and Joint Committee on Taxation materials help explain statutory purposes.",
               "details": "Tax-writing committees: House Ways and Means and Senate Finance. JCT staff work on legislative analysis and official revenue estimates; JCT 'blue books' summarize legislation after enactment. These are aids to interpretation, not substitutes for enacted law.",
@@ -1055,7 +1055,7 @@
             },
             {
               "id": "tax-ch1-e053",
-              "type": "definition",
+              "type": "concept",
               "title": "Revenue Rulings and Revenue Procedures",
               "summary": "Rev. Rul. expresses IRS legal position on a fact pattern; Rev. Proc. addresses administration/procedures.",
               "details": "Both are IRS guidance, generally less authoritative than duly issued Treasury regulations and judicial precedent. Their practical importance is substantial, but authority and reliance depend on the specific type and context.",
@@ -1073,7 +1073,7 @@
             },
             {
               "id": "tax-ch1-e055",
-              "type": "definition",
+              "type": "concept",
               "title": "Tax Court decisions and IRS acquiescence",
               "summary": "Tax Court has regular and memorandum decisions; IRS may announce acquiescence or nonacquiescence.",
               "details": "Acquiescence signals internal acceptance of a ruling for similar cases; nonacquiescence signals continued disagreement and possible relitigation. Neither itself reverses binding judicial precedent.",
