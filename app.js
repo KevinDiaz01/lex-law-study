@@ -18,14 +18,14 @@ function mergeData(target, incoming){for(const ic of incoming.courses){let c=tar
   }
 }}
 function load(){try{let stored=JSON.parse(localStorage.getItem(STORAGE));if(valid(stored)){if(!stored.courses.some(c=>c.id==='tax'&&c.topics.some(t=>t.id==='tax-ch1-overview'))){mergeData(stored,{version:1,courses:[LEX_CHAPTER_1]});localStorage.setItem(STORAGE,JSON.stringify(stored))}return stored}}catch(err){console.warn('Using starter data',err)}return clone(seed)}
-let db=load(),courseId='tax',topicId='tax-ch1-overview',view='master',priorView='master',filter='all',query='',study=false,collapsed=new Set(),openCards=new Set(),revealed=new Set(),editorMode='',editId=null,chapterScope='all',formulaScope='all',problemScope='all',problemStatus='all';
+let db=load(),courseId='tax',topicId='tax-ch1-overview',view='master',priorView='master',filter='all',query='',study=false,collapsed=new Set(['admin','bankruptcy']),openCards=new Set(),revealed=new Set(),editorMode='',editId=null,chapterScope='all',formulaScope='all',problemScope='all',problemStatus='all';
 const getCourse=()=>db.courses.find(c=>c.id===courseId);
 const getTopic=()=>getCourse()?.topics.find(t=>t.id===topicId);
 function save(){try{localStorage.setItem(STORAGE,JSON.stringify(db))}catch(err){toast('Storage full or blocked. Export a backup now.')}}
 function toast(msg){$('notice').textContent=msg;$('notice').hidden=false;clearTimeout(toast.timer);toast.timer=setTimeout(()=>$('notice').hidden=true,4500)}
 const allEntries=()=>db.courses.flatMap(c=>c.topics.flatMap(t=>t.entries.map(e=>({course:c,topic:t,entry:e}))));
-function navCourse(cid){courseId=cid;const c=getCourse();topicId=c?.topics?.[0]?.id||'';view='master';query='';$('search').value='';filter='all';openCards.clear();revealed.clear();$('sidebar').classList.remove('open');render()}
-function navigate(cid,tid,mode='read',eid){courseId=cid;topicId=tid;view=mode;query='';$('search').value='';filter='all';openCards.clear();revealed.clear();if(eid)openCards.add(eid);$('sidebar').classList.remove('open');render();if(eid){requestAnimationFrame(()=>$('entry-'+eid)?.scrollIntoView({behavior:'smooth',block:'center'}))}}
+function navCourse(cid){collapsed.delete(cid);for(const other of db.courses)if(other.id!==cid)collapsed.add(other.id);courseId=cid;const c=getCourse();topicId=c?.topics?.[0]?.id||'';view='master';query='';$('search').value='';filter='all';openCards.clear();revealed.clear();$('sidebar').classList.remove('open');render()}
+function navigate(cid,tid,mode='read',eid){collapsed.delete(cid);courseId=cid;topicId=tid;view=mode;query='';$('search').value='';filter='all';openCards.clear();revealed.clear();if(eid)openCards.add(eid);$('sidebar').classList.remove('open');render();if(eid){requestAnimationFrame(()=>$('entry-'+eid)?.scrollIntoView({behavior:'smooth',block:'center'}))}}
 const searchable=e=>[e.title,e.summary,e.details,e.facts,e.issue,e.holding,e.reasoning,e.exam,e.source].join(' ').toLowerCase();
 function renderNav(){let out='';for(const c of db.courses){let m=c.topics.filter(t=>!query||[c.name,t.title,t.description].join(' ').toLowerCase().includes(query)||t.entries.some(e=>searchable(e).includes(query)));if(query&&!m.length&&!(c.formulas||[]).some(f=>JSON.stringify(f).toLowerCase().includes(query))&&!(c.problems||[]).some(p=>JSON.stringify(p).toLowerCase().includes(query)))continue;
 const folded=collapsed.has(c.id)&&!query;
