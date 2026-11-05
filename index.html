@@ -1,51 +1,13 @@
 <!doctype html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>LEX — Law Study Workspace</title>
-  <link rel="stylesheet" href="styles.css?v=outline3" />
-  <link rel="stylesheet" href="minimal.css?v=outline3" />
-</head>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LEX — Law Study Workspace</title><link rel="stylesheet" href="lex-v4.css?v=4.1"></head>
 <body>
-<div id="app">
-  <aside class="sidebar" id="sidebar">
-    <div class="brand"><div class="brandmark">§</div><div><strong>LEX</strong><span>LAW STUDY WORKSPACE</span></div><button id="mobileClose" class="iconbtn mobile-only" aria-label="Close navigation">✕</button></div>
-    <div class="sidebar-search"><span>⌕</span><input id="search" type="search" placeholder="Search the entire workspace..." aria-label="Search study content" /><kbd>/</kbd></div>
-    <div class="sidebar-heading">YOUR COURSES</div>
-    <nav id="navigation" aria-label="Course and topic outline"></nav>
-    <div class="sidebar-bottom">
-      <div class="sync-summary"><span class="sync-indicator" aria-hidden="true"></span><span id="cloudStatus" role="status">Checking published content…</span></div>
-      <details class="sidebar-tools">
-        <summary>Workspace tools <span class="tools-chevron">⌄</span></summary>
-        <div class="tools-body">
-          <button id="addTopic" class="side-action">＋ Add chapter or section</button>
-          <button id="importBtn" class="side-action">↥ Import study content</button>
-          <button id="exportBtn" class="side-action">↧ Export backup</button>
-          <button id="cloudRefresh" class="side-action">↻ Check for updates</button>
-          <button id="cloudPublish" class="side-action cloud-publish">☁ Publish local edits <span id="pendingCount"></span></button>
-          <p class="tools-help">Your changes save in this browser. Use Publish to sync edits to GitHub.</p>
-        </div>
-      </details>
-    </div>
-  </aside>
-  <main class="main">
-    <header class="topbar"><div class="topbar-left"><button id="mobileOpen" class="iconbtn mobile-only" aria-label="Open navigation">☰</button><span class="topbar-title">LEX / STUDY WORKSPACE</span></div><div class="topbar-right"><button id="themeBtn" class="top-action" title="Toggle appearance">☾ <span>Theme</span></button><button id="addEntryTop" class="button primary">＋ New entry</button></div></header>
-    <div class="workspace">
-      <div id="notice" class="notice" role="status" hidden></div>
-      <div class="breadcrumb" id="breadcrumb"></div>
-      <section class="page-title"><div><div class="eyebrow" id="courseLabel"></div><h1 id="topicTitle"></h1><p id="topicSubtitle"></p></div><div class="topic-actions" id="topicActions"><button class="button secondary" id="editTopic">Edit section</button><button class="button primary" id="addEntry">＋ Add content</button></div></section>
-      <nav id="viewTabs" class="view-tabs" aria-label="Study views" hidden></nav>
-      <div id="readToolbar" class="toolbar"><div class="filters" id="filters"><button class="filter active" data-filter="all">All</button><button class="filter" data-filter="rule">Rules</button><button class="filter" data-filter="definition">Definitions</button><button class="filter" data-filter="case">Cases</button><button class="filter" data-filter="example">Examples</button></div><label class="compact-toggle"><input id="studyMode" type="checkbox" /> Hide answers</label></div>
-      <section id="cards" class="cards" aria-live="polite"></section>
-      <footer class="footer">LEX · Read quickly, verify sources, practice intentionally. The 2023 casebook and current-year law may differ; review flagged updates.</footer>
-    </div>
-  </main>
+<header class="site-header"><button class="mobile-menu" id="mobileMenu" aria-label="Open chapter navigation">☰</button><div class="logo">LE<em>X</em></div><nav id="courses" class="course-tabs" aria-label="Choose course"></nav><div class="header-actions"><button id="newSection" title="Add a section">+ Section</button></div></header>
+<div class="content-layout">
+<aside class="sidebar" id="sidebar"><input type="search" class="side-search" id="search" placeholder="Search rules, cases, topics… ( / )" aria-label="Search law"><nav id="outline" aria-label="Chapters and topics"></nav><div class="sidebar-bottom"><div class="side-caption">WORKSPACE</div><div class="side-tools"><button id="publish">☁ Publish local edits</button><button id="backup">↓ Export backup</button><button id="import">↑ Import content</button></div><div class="sync" id="sync">Loading course material…</div></div></aside>
+<main class="main"><div class="reading"><div id="notice" class="notice" role="status" hidden></div><div class="crumb" id="crumb"></div><div class="page-heading"><div><h1 id="title">LEX</h1><p id="subtitle"></p></div><div class="heading-controls"><button id="editSection" hidden>Edit section</button><button id="newEntry" hidden>+ Add rule</button></div></div><div id="body"></div></div></main>
 </div>
-<div id="modal" class="modal-backdrop" hidden><div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-header"><h2 id="modalTitle">Edit content</h2><button id="closeModal" class="iconbtn" aria-label="Close">✕</button></div><form id="editor" class="editor"><div id="editorFields"></div><div class="modal-footer"><button type="button" id="deleteEntry" class="button danger" hidden>Delete</button><span class="grow"></span><button type="button" class="button secondary" id="cancelModal">Cancel</button><button class="button primary" type="submit">Save changes</button></div></form></div></div>
-<input type="file" id="fileImport" accept=".json,application/json" hidden />
-<script src="tax-chapter1-data.js"></script>
-<script src="app.js?v=outline3"></script>
-<script src="cloud-sync.js?v=outline3"></script>
-</body>
-</html>
+<div class="modal-overlay" id="modalOverlay" hidden><div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><h2 id="modalTitle">Edit</h2><form id="editor"><div id="editorFields"></div><div class="modal-buttons"><button type="button" class="danger" id="removeItem" hidden>Delete</button><button type="button" id="cancelEdit">Cancel</button><button type="submit" class="primary">Save locally</button><button type="button" id="closeModal">✕</button></div></form></div></div>
+<input type="file" id="importFile" accept=".json,application/json" hidden>
+<script src="lex-v4.js?v=4.1"></script>
+</body></html>
