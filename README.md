@@ -48,3 +48,22 @@ Publishing is **an explicit action** to avoid accidentally exposing personal mat
 - `.nojekyll`: disables unwanted Jekyll processing
 
 This is a static website; it does not have a server-side login. GitHub write access is used only if you explicitly authenticate while publishing edits. Users who visit the public site without your token can read the published study content but cannot modify the repository.
+
+## Permanent exam-outline content standard
+
+LEX is an **exam-ready law school outline that can also teach material from scratch** when the reader has not completed the assigned casebook pages. It is not a chapter-by-chapter textbook replacement and must not bury exam law beneath history or background.
+
+When updating **any** course, use this hierarchy:
+
+1. **Always visible and prominent:** controlling black-letter rules (with statutory references); **all important definitions** (including basis, AGI, recognition, etc.); elements/tests; exceptions and important qualifications.
+2. **Only cases reproduced as judicial opinions in assigned readings:** prepare a dedicated brief with facts, issue, holding, rule, reasoning, and exam significance. Do **not** create case briefs for a case merely cited or mentioned; place its relevant holding or significance inline as supporting authority.
+3. **Relevant calculations and worked examples:** put them beside the doctrine they illustrate; preserve source facts and mathematical assumptions.
+4. **Exam application and traps:** briefly demonstrate how to spot and apply each rule, and important common distinctions, avoiding unsupported claims. Keep practice-bank problems **unsolved** unless the user asks for solutions.
+5. **Background and context:** retain reading context, historical narrative, and policy explanations, but make these short and **collapsed by default**. They never displace the governing law.
+6. **Current-law accuracy:** warn when authority was overruled, superseded, or is historical/qualified. Distinguish these categories. Explain what rule changed and cite an authoritative source. Do not conflate a case's historical discussion with a binding modern holding.
+7. **Source integrity:** preserve the terminology and scope of the assigned source. Make clear when a note comes from a supplied excerpt versus independent current-law research. Never pretend unseen casebook pages were read or silently invent missing facts.
+8. **Presentation:** compact navigation between courses, chapter/section outline, small colored text tags (not large colored cards); information prioritized by exam value; optional explanations expandable.
+
+For the ongoing course priority, work on Federal Income Taxation first, then Administrative Law, then Bankruptcy & Creditors' Rights. Keep the rule/definition/exam structure consistent across each. Do not delete an existing definition to reduce visual density; collapse background instead.
+
+The website's canonical published content is `content/lex-data.json`; `lex-v4.js` and `lex-v4.css` render the experience. Always preserve existing data, local edit publishing, and unsolved problem status.
