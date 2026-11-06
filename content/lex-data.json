@@ -575,7 +575,7 @@
             },
             {
               "id": "tax-ch1-e005",
-              "type": "concept",
+              "type": "definition",
               "title": "Progressive, proportional, regressive",
               "summary": "Progressive: average rate rises with income; proportional: constant; regressive: falls.",
               "details": "Classify tax systems using AVERAGE TAX RATE, not whether higher-income taxpayers pay more total dollars. The individual federal income tax is generally progressive; payroll and excise taxes often have regressive features.",
@@ -584,7 +584,7 @@
             },
             {
               "id": "tax-ch1-e006",
-              "type": "concept",
+              "type": "definition",
               "title": "Negative income-tax liability",
               "summary": "Refundable credits can produce net payments to an eligible taxpayer.",
               "details": "The casebook describes negative average individual income-tax rates among lower-income quintiles in its 2018 data. Credits such as the EITC are central. Distinguish refundable-credit payments from merely withholding overpayments.",
@@ -656,8 +656,8 @@
             },
             {
               "id": "tax-ch1-e013",
-              "type": "case",
-              "title": "Pollock v. Farmers’ Loan & Trust Co. (1895)",
+              "type": "history",
+              "title": "Historical authority: Pollock v. Farmers' Loan & Trust Co. (1895)",
               "summary": "The Court invalidated the 1894 income tax based on direct-tax apportionment concerns.",
               "details": "Facts: Challenge to federal tax on rents, dividends, and interest. Issue: whether the tax contravened constitutional apportionment requirements for direct taxes. Holding: the Court invalidated the income-tax law. Why it matters: it prompted a constitutional solution—the Sixteenth Amendment. The textbook gives the historical constitutional account.",
               "source": "157 U.S. 429; 158 U.S. 601 (1895)",
@@ -668,7 +668,8 @@
                 "reason": "The Sixteenth Amendment (1913) removed the apportionment obstacle for taxes on income. Pollock is studied to explain why the Amendment was adopted, not as the current rule restricting income taxation.",
                 "authority": "Sixteenth Amendment; Moore v. United States (2024)",
                 "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
-              }
+              },
+              "sourceRole": "Case mentioned or discussed in the textbook; not assigned as a reproduced judicial opinion in the material supplied so far."
             },
             {
               "id": "tax-ch1-e014",
@@ -704,11 +705,13 @@
               "summary": "Gross income starts with a broad inclusion rule: income from whatever source derived, absent an exclusion.",
               "details": "Examples listed by the chapter: wages, salary, interest, dividends and rents. The tax-law concept differs from economic income because Congress excludes some receipts. Verify exclusion provisions before determining the tax base.",
               "source": "IRC § 61; Bankman et al. pp. 11–12",
-              "page": "11–12"
+              "page": "11–12",
+              "examApplication": "When a taxpayer receives a payment, begin with § 61's broad inclusion principle. Determine whether it is an economic gain, then look for a statutory exclusion or other limiting rule.",
+              "examTrap": "Do not assume that a receipt is exempt because it is unusual, punitive, or received outside employment; identify a legal basis for exclusion."
             },
             {
               "id": "tax-ch1-e017",
-              "type": "concept",
+              "type": "definition",
               "title": "Gross receipts versus gross income",
               "summary": "Gross receipts are cash sales proceeds; inventory gross income generally subtracts cost of goods sold.",
               "details": "For merchandising businesses, gross income from inventory sales means gross profit rather than gross cash receipts. Inventory costs recovered through COGS are not the same as personal deductions.",
@@ -722,7 +725,9 @@
               "summary": "Gross income less applicable §62 adjustments/above-the-line deductions = AGI.",
               "details": "AGI is an intermediate statutory measure, NOT the individual’s final tax base. Deductions below AGI, including eligible standard or itemized deductions, take the taxpayer toward taxable income.",
               "source": "IRC § 62; Bankman et al. pp. 13–14",
-              "page": "13–14"
+              "page": "13–14",
+              "examApplication": "Start with gross income and subtract the qualifying deductions identified in § 62 to compute AGI; only afterward consider applicable below-the-line deductions.",
+              "examTrap": "AGI and taxable income are not the same number."
             },
             {
               "id": "tax-ch1-e019",
@@ -735,7 +740,7 @@
             },
             {
               "id": "tax-ch1-e020",
-              "type": "concept",
+              "type": "definition",
               "title": "Above-the-line and below-the-line",
               "summary": "Above-line reduces gross income to AGI; below-line reduces AGI to taxable income.",
               "details": "These are practitioner shorthand, not formal statutory terms. The distinction matters because AGI influences limits and other tax computations; above-line deductions can be more advantageous.",
@@ -744,16 +749,18 @@
             },
             {
               "id": "tax-ch1-e021",
-              "type": "concept",
+              "type": "definition",
               "title": "Deduction versus credit",
               "summary": "Deduction reduces taxable income; credit reduces tax liability dollar for dollar, subject to its rules.",
               "details": "Approximate value of a marginal deduction = amount × applicable marginal rate (only if fully usable and not crossing rate brackets or phased-out benefits). A nonrefundable credit helps only to extent of eligible tax liability; refundable credits can yield a payment.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 15–16",
-              "page": "15–16"
+              "page": "15–16",
+              "examApplication": "Compare a deduction and a credit separately. A deductible dollar generally reduces the amount taxed; an allowed credit reduces the computed tax.",
+              "examTrap": "Do not subtract a credit from taxable income or confuse an exclusion with a deduction."
             },
             {
               "id": "tax-ch1-e022",
-              "type": "concept",
+              "type": "definition",
               "title": "Exclusion, exemption, deduction",
               "summary": "An exclusion is not counted as income; a deduction is subtracted; exemption may describe tax-free taxpayers or receipts.",
               "details": "Gifts under § 102 and certain other receipts are cited as examples of statutory exclusions. An exclusion of $50 and inclusion followed by a usable $50 deduction can have comparable current-year tax-base effects, but other rules may make them differ.",
@@ -767,11 +774,13 @@
               "summary": "Only the income in a higher bracket is taxed at its higher marginal rate.",
               "details": "If hypothetical tax rates are 20% on the first $50,000 and 40% above $50,000, $50,010 taxable income creates $10,004 tax—not 40% of the full $50,010. This is a stylized illustration, not actual federal rate tables.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 16–17",
-              "page": "16–17"
+              "page": "16–17",
+              "examApplication": "Apply each marginal rate only to the taxable income falling inside its bracket.",
+              "examTrap": "Moving into a higher marginal bracket does not cause all previously taxed income to be retaxed at that higher rate."
             },
             {
               "id": "tax-ch1-e024",
-              "type": "concept",
+              "type": "definition",
               "title": "Marginal vs. average tax rate",
               "summary": "Marginal rate taxes the next dollar; average rate equals tax liability ÷ chosen income measure.",
               "details": "A taxpayer can face a 40% marginal bracket while having an average rate near 23% in the book’s hypothetical $60,000 example. Apply the marginal rate to incremental income or a fully usable deduction within that bracket.",
@@ -780,7 +789,7 @@
             },
             {
               "id": "tax-ch1-e025",
-              "type": "concept",
+              "type": "definition",
               "title": "Statutory vs. effective tax rate",
               "summary": "Statutory reflects legal bracket schedule; effective may account for broader income and phaseouts.",
               "details": "An effective marginal rate can exceed the stated marginal bracket where a refundable credit or benefit is phased out as income rises. Always identify what counts in both numerator (tax) and denominator (income).",
@@ -789,7 +798,7 @@
             },
             {
               "id": "tax-ch1-e026",
-              "type": "concept",
+              "type": "definition",
               "title": "Ordinary income versus capital gain",
               "summary": "Capital gain arises from sale/exchange of capital assets; not every capital gain gets preferential rates.",
               "details": "Capital asset definition (§ 1221) generally includes investment stock but excludes, among other things, inventory and property held mainly for sale to customers. Long-term means held MORE than one year; one year or less is short-term. Preferential rates concern net capital gain after the required netting and other restrictions.",
@@ -803,11 +812,13 @@
               "summary": "For individuals, net capital losses generally offset capital gains plus up to $3,000 of ordinary income annually.",
               "details": "The chapter notes loss limitations under §1211. Separate capital losses from business expense deductions under §162 and general losses under §165; carryover and other limits are addressed later.",
               "source": "IRC §§ 1211, 165; Bankman et al. pp. 19–20",
-              "page": "19–20"
+              "page": "19–20",
+              "examApplication": "When a taxpayer sells capital assets at gains and losses, net capital gains and losses before applying the applicable individual capital-loss limit.",
+              "examTrap": "Do not treat a capital loss as an unlimited offset against ordinary income."
             },
             {
               "id": "tax-ch1-e028",
-              "type": "concept",
+              "type": "definition",
               "title": "Business expenses versus losses",
               "summary": "Expenses are ordinary operating costs; losses reflect shortfalls on property/transactions and use different rules.",
               "details": "Section 162 allows ordinary and necessary business expenses subject to statutory limits; § 165 governs important loss deductions. The labels matter because they follow separate legal tests.",
@@ -821,7 +832,9 @@
               "summary": "Cash: generally recognize income when received and expenses when paid; accrual: generally when earned/incurred.",
               "details": "The book illustrates Year 1 services and Year 2 payment. Timing of inclusion and deduction can differ by accounting method and by special limitations. The capital-expenditure requirement applies even to cash-method taxpayers.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 20–21",
-              "page": "20–21"
+              "page": "20–21",
+              "examApplication": "For a timing problem, identify the accounting method and determine when the income or expense enters the tax calculation.",
+              "examTrap": "Do not automatically use payment date for accrual-method taxpayers or invoice date for cash-method taxpayers."
             },
             {
               "id": "tax-ch1-e030",
@@ -836,10 +849,12 @@
               "id": "tax-ch1-e031",
               "type": "definition",
               "title": "Basis and adjusted basis",
-              "summary": "Initial basis generally reflects cost; adjusted basis reflects subsequent permitted increases and decreases.",
+              "summary": "Basis is the taxpayer's tax investment in property (often its cost); adjusted basis reflects required increases and decreases, such as improvements and depreciation.",
               "details": "Improvements generally increase basis; depreciation generally reduces basis. Basis supports cost recovery and the measurement of gain or loss when property is disposed of.",
               "source": "IRC §§ 1012, 1016; Bankman et al. pp. 21–22",
-              "page": "21–22"
+              "page": "21–22",
+              "examApplication": "For a disposition problem, identify the taxpayer's starting basis and any relevant adjustments (for example, capital improvements or depreciation) before computing realized gain or loss. Under the general gain formula, amount realized minus adjusted basis gives realized gain or loss.",
+              "examTrap": "Do not confuse the property's current fair market value with its adjusted tax basis."
             },
             {
               "id": "tax-ch1-e032",
@@ -849,11 +864,13 @@
               "details": "An exchange or sale ordinarily realizes gain. A nonrecognition provision can defer some or all gain. Every recognized gain ordinarily follows a realization event, but not every realized gain is immediately recognized. For §1031 after 2017, qualifying like-kind exchange rules concern real property held for investment or business use—not all exchanges.",
               "source": "IRC §§ 1001, 1031; Bankman et al. p. 22",
               "page": "22",
-              "alert": "Current-law qualification: §1031 is limited to qualifying real-property exchanges; the book’s land-for-apartment illustration requires statutory conditions."
+              "alert": "Current-law qualification: §1031 is limited to qualifying real-property exchanges; the book’s land-for-apartment illustration requires statutory conditions.",
+              "examApplication": "Ask two questions separately: (1) Did a sale or exchange realize a gain or loss? (2) Does current tax law require recognition now, or allow nonrecognition/deferral?",
+              "examTrap": "A realized gain is not always currently recognized as taxable income."
             },
             {
               "id": "tax-ch1-e033",
-              "type": "concept",
+              "type": "definition",
               "title": "Sole proprietorship and partnerships",
               "summary": "Sole proprietor reports directly; partnerships generally pass taxable income and losses through to partners.",
               "details": "The partnership files an information return but generally does not pay entity-level federal income tax. Owners separately report their distributive shares under partnership rules, not necessarily cash received.",
@@ -862,7 +879,7 @@
             },
             {
               "id": "tax-ch1-e034",
-              "type": "concept",
+              "type": "definition",
               "title": "LLCs, S corporations, C corporations",
               "summary": "Tax treatment depends on classification: pass-through forms differ from C-corporation entity taxation.",
               "details": "The casebook simplifies LLCs as partnerships, but real classification can vary: one-member LLCs may be disregarded, multi-member LLCs often default to partnerships, and eligible LLCs can elect corporate treatment. C corporations generally pay entity-level tax; dividends can be taxed again to shareholders. S corporations generally pass through income under eligibility restrictions.",
@@ -872,7 +889,7 @@
             },
             {
               "id": "tax-ch1-e035",
-              "type": "concept",
+              "type": "definition",
               "title": "Tax treatment of trusts",
               "summary": "Trusts can serve as conduits but may also have their own income-tax liability.",
               "details": "Trustee holds property for beneficiaries; tax depends on income accumulation/distribution and trust classification. Chapter 1 provides only an orientation, not the detailed trust rules.",
@@ -881,7 +898,7 @@
             },
             {
               "id": "tax-ch1-e036",
-              "type": "concept",
+              "type": "definition",
               "title": "Nominal gain versus real gain",
               "summary": "Inflation can produce taxable nominal gains even where purchasing power has not increased.",
               "details": "Illustration: $100 cost grows to $105 with 5% inflation; $5 nominal gain need not represent real economic improvement. Tax basis is generally not inflation-indexed, while brackets and certain dollar thresholds are adjusted under statutory rules.",
@@ -908,7 +925,7 @@
           "entries": [
             {
               "id": "tax-ch1-e038",
-              "type": "concept",
+              "type": "definition",
               "title": "Conversion of income character",
               "summary": "Recharacterizing ordinary-return activity as eligible long-term capital gain can reduce the applicable rate.",
               "details": "The chapter’s start-up founder example shows value created largely by labor but potentially realized as capital gain on sale of ownership interest. Complex anti-conversion provisions may override simplistic characterizations.",
@@ -917,7 +934,7 @@
             },
             {
               "id": "tax-ch1-e039",
-              "type": "concept",
+              "type": "definition",
               "title": "Deferral of tax",
               "summary": "Delay recognition/payment and keep funds invested in the interim.",
               "details": "Deferral may increase after-tax wealth when other variables are held constant and returns are positive. It is not automatically advantageous when future tax rates differ; compare investments and tax rates across both periods.",
@@ -980,7 +997,7 @@
             },
             {
               "id": "tax-ch1-e045",
-              "type": "concept",
+              "type": "definition",
               "title": "Audit and deficiency",
               "summary": "Audit is closer IRS scrutiny; deficiency is an asserted amount of underpaid tax.",
               "details": "The general assessment period discussed by the textbook is three years, subject to major exceptions. Interest typically accrues on underpayments; penalties may also apply. The IRS often resolves disputes administratively.",
@@ -1062,7 +1079,7 @@
             },
             {
               "id": "tax-ch1-e053",
-              "type": "concept",
+              "type": "definition",
               "title": "Revenue Rulings and Revenue Procedures",
               "summary": "Rev. Rul. expresses IRS legal position on a fact pattern; Rev. Proc. addresses administration/procedures.",
               "details": "Both are IRS guidance, generally less authoritative than duly issued Treasury regulations and judicial precedent. Their practical importance is substantial, but authority and reliance depend on the specific type and context.",
@@ -1080,7 +1097,7 @@
             },
             {
               "id": "tax-ch1-e055",
-              "type": "concept",
+              "type": "definition",
               "title": "Tax Court decisions and IRS acquiescence",
               "summary": "Tax Court has regular and memorandum decisions; IRS may announce acquiescence or nonacquiescence.",
               "details": "Acquiescence signals internal acceptance of a ruling for similar cases; nonacquiescence signals continued disagreement and possible relitigation. Neither itself reverses binding judicial precedent.",
@@ -1089,8 +1106,8 @@
             },
             {
               "id": "tax-ch1-e056",
-              "type": "case",
-              "title": "Mayo Foundation v. United States (2011)",
+              "type": "context",
+              "title": "Cited authority: Mayo Foundation (2011) — old Chevron framework",
               "summary": "Historical: applied Chevron framework to Treasury regulations.",
               "details": "The textbook uses Mayo to describe the then-prevailing standard. It is useful for historical understanding, but Chevron was overruled in Loper Bright (2024).",
               "source": "562 U.S. 44 (2011); Loper Bright, 603 U.S. 369 (2024)",
@@ -1102,12 +1119,13 @@
                 "reason": "Mayo applied Chevron deference to Treasury regulations. Loper Bright (2024) overruled Chevron's mandatory deference framework. This does not mean every holding previously relying on Chevron was automatically overturned; Mayo is useful for tracing the former approach.",
                 "authority": "Loper Bright Enterprises v. Raimondo (2024)",
                 "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf"
-              }
+              },
+              "sourceRole": "Case mentioned or discussed in the textbook; not assigned as a reproduced judicial opinion in the material supplied so far."
             },
             {
               "id": "tax-ch1-e057",
-              "type": "case",
-              "title": "Eisner v. Macomber (1920)",
+              "type": "context",
+              "title": "Cited authority: Eisner v. Macomber (1920)",
               "summary": "Historical case used to introduce unrealized appreciation and constitutional income questions.",
               "details": "The chapter contrasts unrealized appreciation with income. Subsequent decisions limit simplistic formulations; Moore v. United States (2024) did not decide whether realization is always constitutionally required.",
               "source": "252 U.S. 189 (1920); Moore v. United States, 602 U.S. 572 (2024)",
@@ -1119,11 +1137,65 @@
                 "reason": "Eisner v. Macomber is an important historical decision on realization, but do not treat its broad language as a complete statement of today's constitutional tax law. Moore v. United States (2024) expressly left the general realization requirement unresolved.",
                 "authority": "Moore v. United States (2024)",
                 "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
-              }
+              },
+              "sourceRole": "Case mentioned or discussed in the textbook; not assigned as a reproduced judicial opinion in the material supplied so far."
+            }
+          ]
+        },
+        {
+          "id": "tax-ch2-gross-income",
+          "title": "Chapter 2 — Gross Income: § 61 and Glenshaw Glass",
+          "chapterGroup": "tax-ch2",
+          "description": "Casebook opinion excerpt supplied by the student (pp. 40–42). This is not a substitute for unseen Chapter 2 pages.",
+          "pages": "40–42 (provided excerpt)",
+          "entries": [
+            {
+              "id": "tax-ch2-rule-61",
+              "type": "rule",
+              "title": "Gross income — punitive damages",
+              "summary": "Punitive damage recoveries are generally included in gross income under the broad statutory definition of income, absent an applicable exclusion.",
+              "details": "The Court read § 22(a) of the 1939 Code (predecessor of § 61) broadly: Congress did not restrict gross income to earnings from productive labor, capital, or conventional transactions.",
+              "source": "Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955), excerpt supplied, pp. 40–42",
+              "examApplication": "Determine whether the receipt represents a realized accession to wealth subject to the taxpayer's control. Punitive nature alone is not an exclusion.",
+              "examTrap": "Do not treat punitive damages as automatically untaxed windfalls."
+            },
+            {
+              "id": "tax-ch2-case-glenshaw",
+              "type": "case",
+              "assignedOpinion": true,
+              "title": "Commissioner v. Glenshaw Glass Co.",
+              "page": "40–42",
+              "citation": "348 U.S. 426 (1955)",
+              "summary": "The Supreme Court held that punitive damages recovered in litigation constitute gross income under the broad federal income-tax statute.",
+              "facts": "Glenshaw Glass received a settlement from Hartford-Empire; $324,529.94 was allocated to punitive damages for fraud and antitrust violations, which Glenshaw did not report as income. In the consolidated Goldman Theatres matter, a treble-damages award totaled $375,000: Goldman reported only the $125,000 compensatory portion, excluding the $250,000 punitive balance. The Tax Court and Third Circuit sided with the taxpayers.",
+              "issue": "Are punitive damages for fraud or antitrust violations taxable as gross income under § 22(a) of the 1939 Code, predecessor of § 61?",
+              "holding": "Yes. Punitive damages are gross income. The Supreme Court reversed the favorable decisions below.",
+              "reasoning": "Congress used expansive language — income from whatever source derived — to tax gains unless specifically excluded. Punitive payments are undeniable accessions to wealth, clearly realized, and under the taxpayers' complete dominion. Their punitive source does not alter their status as income. The Court rejected using the narrower Eisner v. Macomber phrasing as a universal test for gross income because that case addressed whether a stock dividend was a realized gain.",
+              "rule": "Undeniable accessions to wealth, clearly realized, and over which taxpayers have complete dominion, generally fall within gross income unless a specific exclusion applies.",
+              "exam": "For unfamiliar receipts, analyze the breadth of § 61 and the Glenshaw Glass accession-to-wealth formulation; separately assess any applicable exclusion. Do not infer that punitive damages are excluded simply because they punish wrongdoing.",
+              "examApplication": "Hypothetical: A business receives $125,000 to compensate lost profit and $250,000 in punitive antitrust damages. Under the opinion's statutory construction, both amounts fall within gross income, absent an applicable exclusion.",
+              "examTrap": "The Court did not hold that every transfer or increase in asset value is necessarily taxable at once; realization and exclusions still matter.",
+              "source": "User-provided reproduced opinion, Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955), pp. 40–42. Case brief summarizes only the supplied excerpt.",
+              "sourceRole": "Reproduced judicial opinion supplied by user — dedicated assigned case brief."
             }
           ]
         }
-      ]
+      ],
+      "lexContentStandard": {
+        "version": 1,
+        "priority": "Exam-first",
+        "requirements": [
+          "Retain every relevant definition, not only statutory rules.",
+          "Black-letter rules, definitions, elements and exceptions must be visible before optional background.",
+          "Dedicate case briefs only to judicial opinions reproduced in assigned readings; treat other case mentions as cited authority.",
+          "For reproduced opinions, cover facts, issue, holding, rule, reasoning and exam use.",
+          "Place calculations and applications with their relevant doctrine.",
+          "Keep historical and policy background compact and collapsed.",
+          "Flag overruled or superseded legal frameworks without conflating them with historical context.",
+          "Do not invent missing textbook facts; distinguish source text from separately researched current law.",
+          "Leave problem prompts unsolved unless requested."
+        ]
+      }
     },
     {
       "id": "admin",
