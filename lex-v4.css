@@ -67,3 +67,52 @@
 .legal-warning-body small{display:block;color:#6b6358;font-size:11px}
 .legal-warning-body a{color:#245a99;font-size:11px;text-decoration:underline}
 @media(max-width:850px){.legal-warning-chip{font-size:9px}}
+
+/* LEX v4.5 — exam-first content hierarchy */
+.exam-home-intro{border-left:3px solid #2769ae;background:#f6f9fd;padding:11px 15px;margin:0 0 25px}
+.exam-home-intro strong{font-size:10px;letter-spacing:.09em;color:#235c9f}
+.exam-home-intro p{font-size:13px;line-height:1.55;color:#465970;margin:5px 0 0}
+.exam-chapter{margin-bottom:36px}
+.exam-topic{margin:12px 0 24px}
+.exam-topic>h3{font-size:14px;line-height:1.45;margin:0;background:#f5f7fa;border-bottom:1px solid #e2e8f0}
+.exam-topic>h3 button{display:block;width:100%;padding:10px 12px;border:0;text-align:left;font-weight:750;background:transparent;color:#244767}
+.exam-topic>h3 button:hover{background:#edf3fb}
+.exam-topic .law-table,.chapter-section .law-table{border-top:0}
+.exam-topic .law-row,.chapter-section .law-row{padding:12px 11px}
+.exam-entry{padding:18px 0;border-bottom:1px solid #e5eaf0}
+.exam-entry .entry-head h3{font-size:17px;margin:8px 0 9px}
+.exam-entry .exam-summary{font-size:14px;line-height:1.7}
+.entry-page{font-size:10px;color:#8492a5;vertical-align:middle}
+.exam-rule{margin:13px 0;background:#edf4fe;border-left:3px solid #3975b7;padding:12px 15px}
+.exam-rule strong,.exam-application strong,.exam-trap strong{font-size:10px;font-weight:850;letter-spacing:.075em}
+.exam-rule strong{color:#285c98}
+.exam-rule p,.exam-application p,.exam-trap p{font-size:13px;line-height:1.63;margin:5px 0 0}
+.exam-application{margin:13px 0;background:#f1f8f5;border-left:3px solid #4c9679;padding:11px 15px}
+.exam-application strong{color:#2b7353}
+.exam-trap{margin:11px 0;background:#fffaf0;border-left:3px solid #d5a255;padding:11px 15px}
+.exam-trap strong{color:#895e1f}
+.exam-detail-part{margin:11px 0}
+.exam-detail-part h4{font-size:12px;color:#354d69;font-weight:800;margin:0 0 4px}
+.exam-detail-part p{font-size:13px;line-height:1.68;margin:0;white-space:pre-wrap}
+.study-explanation{margin:13px 0 5px;padding:10px 12px;border:1px solid #dde5ee;background:#f9fbfd;border-radius:5px}
+.study-explanation summary{font-size:12px;font-weight:750;color:#275d96;cursor:pointer}
+.study-explanation-body{margin-top:13px;border-top:1px solid #dce5ef;padding:4px 4px 0}
+.source-role{display:block;margin:6px 0;font-size:10px;line-height:1.5;color:#6d7f94;font-style:italic}
+.background-fold,.concept-fold{border:1px solid #e2e8ef;border-radius:5px;margin:10px 0;background:#fbfcfd}
+.background-fold summary,.concept-fold summary{padding:10px 13px;cursor:pointer;color:#59697d;font-size:12px;font-weight:650;list-style-position:inside}
+.background-fold summary span,.concept-fold summary span{float:right;font-size:11px;color:#94a1b0}
+.background-fold-body{padding:0 12px 10px;border-top:1px solid #e8edf2}
+.background-fold .law-row,.concept-fold .law-row{background:transparent}
+.topic-extra{margin:20px 0}
+.topic-extra>.entry{padding:14px 17px}
+.topic-extra .entry-background{background:#fff}
+.topic-extra .background-fold-body .entry{margin:0}
+.concept-fold.topic-extra{padding-bottom:2px}
+.related-practice{margin:24px 0;padding:15px 17px;background:#f5f8fc;border:1px solid #e1e7f0;border-radius:5px}
+.related-practice strong{font-size:13px}
+.related-practice p{font-size:12px;color:#5b6b7e;margin:7px 0 10px}
+.section-heading{margin:26px 0 5px;font-size:18px;color:#273a52}
+.detail-group{margin:24px 0;scroll-margin-top:90px}
+.detail-group .section-heading{margin:0 0 5px}
+.section-jumps{margin-bottom:24px}
+@media(max-width:850px){.exam-entry .entry-head h3{font-size:16px}.exam-rule,.exam-trap,.exam-application{padding:10px 12px}}
