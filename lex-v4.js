@@ -60,61 +60,92 @@ function kindLabel(e){return typeLabels[kind(e)]}
 function warningChip(e){const w=e.legalWarning;if(!w)return '';return '<span class="legal-warning-chip warning-'+escapeHTML(w.status)+'" title="Historical legal authority: see explanation">⚠ '+escapeHTML(w.label)+'</span>'}
 function warningDetail(e){const w=e.legalWarning;if(!w)return '';const u=String(w.url||'');const link=/^https:\/\//.test(u)?'<a href="'+escapeHTML(u)+'" target="_blank" rel="noopener noreferrer">Read authority ↗</a>':'';return '<details class="legal-warning"><summary>⚠ '+escapeHTML(w.label)+' — Why is this flagged?</summary><div class="legal-warning-body"><p>'+escapeHTML(w.reason)+'</p><small>Authority: '+escapeHTML(w.authority)+'</small> '+link+'</div></details>'}
 function lawRow(e,tid){return '<button class="law-row" data-entry="'+escapeHTML(e.id)+'" data-topic="'+escapeHTML(tid)+'"><span class="law-name"><span class="type-label label-'+kind(e)+'">'+kindLabel(e)+'</span><span class="law-title">'+escapeHTML(e.title)+'</span>'+warningChip(e)+'</span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↗</span></button>'}
+function isExamEssential(e){return ['rule','definition','case','formula'].includes(e.type)}
+function isBackground(e){return ['policy','context','history'].includes(e.type)}
+function isLearningConcept(e){return ['concept','framework'].includes(e.type)}
+function backgroundRows(entries,tid){if(!entries.length)return '';return '<details class="background-fold"><summary>📖 Background, context & historical development <span>'+entries.length+' notes</span></summary><div class="background-fold-body">'+entries.map(e=>lawRow(e,tid)).join('')+'</div></details>'}
+function sourceTag(e){return e.sourceRole?'<span class="source-role">'+escapeHTML(e.sourceRole)+'</span>':''}
 function renderOverview(){
- const c=current();let html='';
- if(c.concept?.question)html+='<div class="course-context"><strong>What ties this course together?</strong><div>'+escapeHTML(c.concept.question)+'</div></div>';
- if(!c.topics.some(t=>t.entries.length)){html+='<div class="empty">Course content will be added after Tax is complete.</div>'}
+ const c=current();let html='<div class="exam-home-intro"><strong>EXAM OUTLINE</strong><p>Rules and definitions are the priority. Select any item for its explanation, examples, and exam application. Background is optional and collapsed.</p></div>';
+ if(!c.topics.some(t=>t.entries.length))html+='<div class="empty">Course material has not been added yet.</div>';
  for(const g of groups(c)){
-  html+='<section class="chapter-section"><h2><button data-quick="'+escapeHTML(g[0].id)+'">'+escapeHTML(groupTitle(g))+' →</button></h2>';
-  for(const t of g){if(t===g[0]&&g.length>1&&t.title.startsWith('Chapter '))continue;
-   html+='<div class="mini-title">'+escapeHTML(t.title)+'</div>';
-   let entries=t.entries.filter(e=>e.type!=='example');
-   if(entries.length)html+='<div class="law-table">'+entries.map(e=>lawRow(e,t.id)).join('')+'</div>';else html+='<div class="empty">Content pending</div>';
-  }html+='</section>';
+  const first=g[0];html+='<section class="chapter-section exam-chapter"><h2><button data-quick="'+escapeHTML(first.id)+'">'+escapeHTML(groupTitle(g))+' →</button></h2>';
+  for(const t of g){
+   if(t===first&&g.length>1&&t.title.startsWith('Chapter '))continue;
+   html+='<div class="exam-topic"><h3><button data-section="'+escapeHTML(t.id)+'">'+escapeHTML(t.title)+' →</button></h3>';
+   const primary=t.entries.filter(isExamEssential),learning=t.entries.filter(isLearningConcept),background=t.entries.filter(isBackground),examples=t.entries.filter(e=>e.type==='example');
+   if(primary.length)html+='<div class="law-table">'+primary.map(e=>lawRow(e,t.id)).join('')+'</div>';
+   if(learning.length)html+='<details class="concept-fold"><summary>Helpful concepts <span>'+learning.length+'</span></summary>'+learning.map(e=>lawRow(e,t.id)).join('')+'</details>';
+   html+=backgroundRows(background,t.id);
+   if(examples.length)html+='<details class="concept-fold"><summary>Examples <span>'+examples.length+'</span></summary>'+examples.map(e=>lawRow(e,t.id)).join('')+'</details>';
+   if(!t.entries.length)html+='<p class="empty">This section has not been processed yet.</p>';
+   html+='</div>';
+  }
+  html+='</section>';
  }
  $('body').innerHTML=html;
 }
 function renderChapter(){
- const g=groupFor(topic());let html='<div class="course-context">Everything important from this chapter, condensed. Select a rule to see the full explanation.</div>';
+ const g=groupFor(topic());let html='<div class="exam-home-intro"><strong>CHAPTER EXAM MAP</strong><p>Only exam-essential law is displayed by default. Additional explanation and historical context remain available below each section.</p></div>';
  for(const t of g){
   html+='<section class="chapter-section"><h2><button data-section="'+escapeHTML(t.id)+'">'+escapeHTML(t.title)+' →</button></h2>';
-  if(t.entries.length)html+='<div class="law-table">'+t.entries.filter(e=>e.type!=='example').map(e=>lawRow(e,t.id)).join('')+'</div>';
+  const main=t.entries.filter(isExamEssential),learning=t.entries.filter(isLearningConcept),background=t.entries.filter(isBackground);
+  if(main.length)html+='<div class="law-table">'+main.map(e=>lawRow(e,t.id)).join('')+'</div>';
+  if(learning.length)html+='<details class="concept-fold"><summary>Helpful concepts <span>'+learning.length+'</span></summary>'+learning.map(e=>lawRow(e,t.id)).join('')+'</details>';
+  html+=backgroundRows(background,t.id);
+  if(!t.entries.length)html+='<div class="empty">Not yet covered in supplied material.</div>';
+  html+='</section>';
  }$('body').innerHTML=html;
 }
-function entryHtml(e){const details=e.type==='case'?[['Facts',e.facts],['Issue',e.issue],['Holding',e.holding],['Reasoning',e.reasoning],['Exam significance',e.exam],['Other',e.details]]:[['Full explanation / steps / exceptions',e.details]];
- return '<article class="entry" id="entry-'+escapeHTML(e.id)+'"><div class="entry-head"><div><div class="entry-kind type-label label-'+kind(e)+'">'+kindLabel(e)+(e.page?' · p. '+escapeHTML(e.page):'')+'</div><h3>'+escapeHTML(e.title)+' '+warningChip(e)+'</h3></div><button class="edit-btn" data-edit="'+escapeHTML(e.id)+'">Edit</button></div><p>'+escapeHTML(e.summary)+'</p>'+
- warningDetail(e)+ (e.alert?'<div class="notice" style="margin-top:10px">'+escapeHTML(e.alert)+'</div>':'')+
- (details.some(v=>v[1])?'<details><summary>Explanation, elements, and examples</summary><div class="detail-body">'+details.filter(v=>v[1]).map(v=>'<b>'+escapeHTML(v[0])+'</b>'+escapeHTML(v[1])).join('\n\n')+'</div></details>':'')+
- (e.source?'<div class="entry-source">Source: '+escapeHTML(e.source)+'</div>':'')+'</article>';
+function detailPart(label,value){return value?'<section class="exam-detail-part"><h4>'+escapeHTML(label)+'</h4><p>'+escapeHTML(value)+'</p></section>':''}
+function entryHtml(e){
+ const caseOpinion=e.type==='case'&&e.assignedOpinion;
+ let details='';
+ if(caseOpinion){
+   details=detailPart('Facts',e.facts)+detailPart('Legal issue',e.issue)+detailPart('Holding',e.holding)+detailPart('Court reasoning',e.reasoning)+detailPart('Additional context',e.details);
+ }else details=detailPart('Explanation / steps / qualifications',e.details);
+ const extra=e.type==='rule'||e.type==='case'||e.type==='definition'||e.type==='formula';
+ let body='<article class="entry exam-entry '+(isBackground(e)?'entry-background':'')+'" id="entry-'+escapeHTML(e.id)+'"><div class="entry-head"><div><span class="type-label label-'+kind(e)+'">'+(caseOpinion?'ASSIGNED CASE':kindLabel(e))+'</span><span class="entry-page">'+(e.page?'p. '+escapeHTML(e.page):'')+'</span><h3>'+escapeHTML(e.title)+' '+warningChip(e)+'</h3></div><button class="edit-btn" data-edit="'+escapeHTML(e.id)+'">Edit</button></div>';
+ body+='<p class="exam-summary">'+escapeHTML(e.summary)+'</p>';
+ if(caseOpinion&&e.rule)body+='<div class="exam-rule"><strong>RULE FROM THE CASE</strong><p>'+escapeHTML(e.rule)+'</p></div>';
+ if(e.elements)body+=detailPart('Elements / test',e.elements);
+ if(e.exceptions)body+=detailPart('Exceptions / qualifications',e.exceptions);
+ if(e.examApplication)body+='<div class="exam-application"><strong>EXAM APPLICATION</strong><p>'+escapeHTML(e.examApplication)+'</p></div>';
+ if(caseOpinion&&e.exam)body+='<div class="exam-application"><strong>EXAM SIGNIFICANCE</strong><p>'+escapeHTML(e.exam)+'</p></div>';
+ if(e.examTrap)body+='<div class="exam-trap"><strong>WATCH OUT</strong><p>'+escapeHTML(e.examTrap)+'</p></div>';
+ body+=warningDetail(e);
+ if(e.alert)body+='<div class="notice">'+escapeHTML(e.alert)+'</div>';
+ if(details)body+='<details class="study-explanation"><summary>Read '+(caseOpinion?'full case brief':'full explanation')+'</summary><div class="study-explanation-body">'+details+'</div></details>';
+ if(e.source)body+='<div class="entry-source">Source: '+escapeHTML(e.source)+'</div>';
+ if(e.sourceRole)body+=sourceTag(e);
+ return body+'</article>';
 }
 function formulaHtml(f){return '<article class="formula"><strong>'+escapeHTML(f.title)+'</strong><div class="formula-code">'+escapeHTML(f.formula)+'</div><p>'+escapeHTML(f.meaning)+'</p><details><summary>Worked example</summary><p>'+escapeHTML(f.worked)+'</p></details><div class="entry-source">'+escapeHTML(f.source)+'</div></article>'}
 function renderSection(){
  const t=topic();if(!t)return;
  const formulas=(current().formulas||[]).filter(f=>f.topicId===t.id),problems=(current().problems||[]).filter(p=>p.topicId===t.id);
- const groups=[
-  {name:'Black-letter rules',id:'rule',types:['rule']},
-  {name:'Cases & holdings',id:'case',types:['case']},
-  {name:'Definitions',id:'definition',types:['definition']},
-  {name:'Concepts, policy & background',id:'context',types:['concept','policy','context','framework','history']},
-  {name:'Formulas',id:'formula',types:['formula']},
-  {name:'Examples',id:'example',types:['example']}
- ];
+ const law=t.entries.filter(e=>e.type==='rule');
+ const definitions=t.entries.filter(e=>e.type==='definition');
+ const cases=t.entries.filter(e=>e.type==='case'&&e.assignedOpinion);
+ const formulasEntries=t.entries.filter(e=>e.type==='formula');
+ const concepts=t.entries.filter(isLearningConcept);
+ const background=t.entries.filter(isBackground);
+ const other=t.entries.filter(e=>e.type==='example'||e.type==='case'&&!e.assignedOpinion);
  let html='<div class="section-jumps">';
- for(const group of groups){const count=t.entries.filter(e=>group.types.includes(e.type)).length;if(count)html+='<button data-scroll-group="'+group.id+'">'+group.name+' <b>'+count+'</b></button>';}
- html+='</div><div class="mini-title">QUICK REFERENCE</div>';
- for(const group of groups){
-  const entries=t.entries.filter(e=>group.types.includes(e.type));if(!entries.length)continue;
-  html+='<div class="quick-group"><h2>'+group.name+'</h2><div class="law-table">';
-  html+=entries.map(e=>'<button class="law-row" data-scroll="'+escapeHTML(e.id)+'"><span class="law-name"><span class="type-label label-'+kind(e)+'">'+kindLabel(e)+'</span><span class="law-title">'+escapeHTML(e.title)+'</span>'+warningChip(e)+'</span><span class="law-desc">'+escapeHTML(e.summary)+'</span><span class="law-arrow">↓</span></button>').join('');
-  html+='</div></div>';
+ for(const [name,id,count] of [['Rules','rule',law.length],['Definitions','definition',definitions.length],['Assigned cases','case',cases.length],['Formulas','formula',formulasEntries.length+formulas.length],['Background','background',background.length]]){
+  if(count)html+='<button data-scroll-group="'+id+'">'+name+' <b>'+count+'</b></button>';
  }
- if(!t.entries.length)html+='<div class="empty">This section is awaiting its assigned readings.</div>';
- for(const group of groups){
-  const entries=t.entries.filter(e=>group.types.includes(e.type));if(!entries.length)continue;
-  html+='<section class="detail-group" id="group-'+group.id+'"><div class="section-heading">'+group.name+'</div>'+entries.map(entryHtml).join('')+'</section>';
- }
- if(formulas.length)html+='<div class="section-heading" id="group-formulas-reference">Calculations in this section</div>'+formulas.map(formulaHtml).join('');
- if(problems.length)html+='<div class="section-heading">Practice</div><button class="small-btn" data-page="problems" data-focus="'+escapeHTML(t.id)+'">View '+problems.length+' unsolved problems for this topic →</button>';
+ html+='</div>';
+ if(!t.entries.length)html+='<div class="empty">This section has not yet been extracted from your assigned readings.</div>';
+ function group(title,id,entries){if(!entries.length)return '';return '<section class="detail-group" id="group-'+id+'"><h2 class="section-heading">'+title+'</h2>'+entries.map(entryHtml).join('')+'</section>'}
+ html+=group('1. Black-letter law','rule',law);
+ html+=group('2. Essential definitions','definition',definitions);
+ html+=group('3. Assigned judicial opinions','case',cases);
+ if(formulasEntries.length||formulas.length)html+='<section class="detail-group" id="group-formula"><h2 class="section-heading">4. Calculations & formulas</h2>'+formulasEntries.map(entryHtml).join('')+formulas.map(formulaHtml).join('')+'</section>';
+ if(concepts.length)html+='<details class="concept-fold topic-extra"><summary>Further concepts / course framework <span>'+concepts.length+'</span></summary>'+concepts.map(entryHtml).join('')+'</details>';
+ if(other.length)html+='<details class="concept-fold topic-extra"><summary>Examples and supporting references <span>'+other.length+'</span></summary>'+other.map(entryHtml).join('')+'</details>';
+ if(background.length)html+='<details class="background-fold topic-extra" id="group-background"><summary>📖 Optional reading background, policy & history <span>'+background.length+'</span></summary><div class="background-fold-body">'+background.map(entryHtml).join('')+'</div></details>';
+ if(problems.length)html+='<div class="related-practice"><strong>Practice for this topic</strong><p>'+problems.length+' unsolved questions, kept separate until you want to work through them.</p><button class="small-btn" data-page="problems" data-focus="'+escapeHTML(t.id)+'">Open '+problems.length+' questions →</button></div>';
  $('body').innerHTML=html;
 }
 function renderFormulas(){const c=current(),a=c.formulas||[];let html='';for(const g of groups(c)){const list=a.filter(f=>g.some(t=>t.id===f.topicId));if(!list.length)continue;html+='<section class="chapter-section"><h2>'+escapeHTML(groupTitle(g))+'</h2>'+list.map(formulaHtml).join('')+'</section>'} $('body').innerHTML=html||'<div class="empty">No formulas have been added yet.</div>'}
@@ -133,7 +164,7 @@ function unique(){return 'lex-'+Date.now().toString(36)+'-'+Math.random().toStri
 function field(name,key,value,large=false){return '<label class="form-field">'+escapeHTML(name)+(large?'<textarea name="'+key+'">'+escapeHTML(value||'')+'</textarea>':'<input name="'+key+'" value="'+escapeHTML(value||'')+'">')+'</label>'}
 function editor(mode,id=null){
  editTarget={mode,id};const c=current(),t=topic();let obj=null,body='';
- if(mode==='entry'){obj=t?.entries.find(e=>e.id===id)||{};body='<label class="form-field">Type<select name="type">'+['rule','case','definition','concept','policy','context','framework','history','formula','example'].map(v=>'<option value="'+v+'" '+(obj.type===v?'selected':'')+'>'+v+'</option>').join('')+'</select></label>'+field('Title','title',obj.title)+field('Short summary / holding','summary',obj.summary,true)+field('Full explanation','details',obj.details,true)+field('Facts (cases)','facts',obj.facts,true)+field('Issue','issue',obj.issue,true)+field('Holding','holding',obj.holding,true)+field('Reasoning','reasoning',obj.reasoning,true)+field('Exam significance','exam',obj.exam,true)+field('Source','source',obj.source)}
+ if(mode==='entry'){obj=t?.entries.find(e=>e.id===id)||{};body='<label class="form-field">Type<select name="type">'+['rule','case','definition','concept','policy','context','framework','history','formula','example'].map(v=>'<option value="'+v+'" '+(obj.type===v?'selected':'')+'>'+v+'</option>').join('')+'</select></label>'+field('Title','title',obj.title)+field('Short summary / holding','summary',obj.summary,true)+field('Full explanation / background (optional)','details',obj.details,true)+field('Exam application','examApplication',obj.examApplication,true)+field('Exam trap / qualification','examTrap',obj.examTrap,true)+field('Elements or tests','elements',obj.elements,true)+field('Exceptions','exceptions',obj.exceptions,true)+field('Case rule (assigned opinions)','rule',obj.rule,true)+field('Facts (cases)','facts',obj.facts,true)+field('Issue','issue',obj.issue,true)+field('Holding','holding',obj.holding,true)+field('Reasoning','reasoning',obj.reasoning,true)+field('Exam significance','exam',obj.exam,true)+field('Source','source',obj.source)}
  else if(mode==='problem'){obj=c.problems?.find(p=>p.id===id)||{};body=field('Title','title',obj.title)+field('Problem text (unsolved)','prompt',obj.prompt,true)+field('Source','source',obj.source)+field('Your notes','notes',obj.notes,true)+'<label class="form-field">Section<select name="topicId">'+c.topics.map(t=>'<option value="'+escapeHTML(t.id)+'" '+(obj.topicId===t.id?'selected':'')+'>'+escapeHTML(t.title)+'</option>').join('')+'</select></label>'}
  else if(mode==='topic'){obj=t||{};body=field('Section title','title',obj.title)+field('Description','description',obj.description,true)}
  $('modalTitle').textContent=(id?'Edit ':'Add ')+(mode==='entry'?'rule / case':mode==='problem'?'problem':'section');
@@ -143,7 +174,7 @@ function editor(mode,id=null){
 function closeEditor(){$('modalOverlay').hidden=true;editTarget=null}
 function submitEdit(ev){ev.preventDefault();if(!editTarget)return;let form=new FormData($('editor')),v=n=>String(form.get(n)||'').trim();let {mode,id}=editTarget,c=current(),t=topic();
  if(!v('title'))return note('A title is required.');
- if(mode==='entry'){let e=t.entries.find(e=>e.id===id);const fields=['title','summary','details','facts','issue','holding','reasoning','exam','source'];let change={id:e?.id||unique(),type:v('type')};for(const f of fields)change[f]=v(f);if(e)Object.assign(e,change);else t.entries.push(change);record({kind:'upsertEntry',cid:c.id,tid:t.id,entry:change});}
+ if(mode==='entry'){let e=t.entries.find(e=>e.id===id);const fields=['title','summary','details','facts','issue','holding','reasoning','exam','source','examApplication','examTrap','elements','exceptions','rule'];let change={id:e?.id||unique(),type:v('type')};for(const f of fields)change[f]=v(f);if(e)Object.assign(e,change);else t.entries.push(change);record({kind:'upsertEntry',cid:c.id,tid:t.id,entry:change});}
  else if(mode==='problem'){c.problems??=[];let p=c.problems.find(p=>p.id===id);const change={id:p?.id||unique(),title:v('title'),prompt:v('prompt'),source:v('source'),notes:v('notes'),topicId:v('topicId'),status:p?.status||'Not attempted',kind:p?.kind||'User-added problem'};if(p)Object.assign(p,change);else c.problems.push(change);record({kind:'upsertProblem',cid:c.id,problem:change})}
  else if(mode==='topic'){t.title=v('title');t.description=v('description');record({kind:'upsertTopic',cid:c.id,topic:copy(t)})}
  closeEditor();render();note('Saved in this browser. Publish changes to sync to GitHub.')}
