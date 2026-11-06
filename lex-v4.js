@@ -123,7 +123,7 @@ function entryHtml(e){
 function formulaHtml(f){return '<article class="formula"><strong>'+escapeHTML(f.title)+'</strong><div class="formula-code">'+escapeHTML(f.formula)+'</div><p>'+escapeHTML(f.meaning)+'</p><details><summary>Worked example</summary><p>'+escapeHTML(f.worked)+'</p></details><div class="entry-source">'+escapeHTML(f.source)+'</div></article>'}
 function renderSection(){
  const t=topic();if(!t)return;
- const formulas=(current().formulas||[]).filter(f=>f.topicId===t.id),problems=(current().problems||[]).filter(p=>p.topicId===t.id);
+ const formulas=(current().formulas||[]).filter(f=>f.topicId===t.id),problems=(current().problems||[]).filter(p=>p.topicId===t.id),updates=(current().updates||[]).filter(u=>u.topicId===t.id);
  const law=t.entries.filter(e=>e.type==='rule');
  const definitions=t.entries.filter(e=>e.type==='definition');
  const cases=t.entries.filter(e=>e.type==='case'&&e.assignedOpinion);
@@ -136,6 +136,11 @@ function renderSection(){
   if(count)html+='<button data-scroll-group="'+id+'">'+name+' <b>'+count+'</b></button>';
  }
  html+='</div>';
+ if(updates.length){
+   html+='<details class="current-law-updates"><summary>⚠ '+updates.length+' current-law updates affecting this section — check exam year</summary><div>';
+   for(const u of updates){html+='<section><strong>'+escapeHTML(u.title)+'</strong><p><b>Textbook:</b> '+escapeHTML(u.book)+'</p><p><b>Updated rule:</b> '+escapeHTML(u.current)+'</p>'+(String(u.source||'').startsWith('https://')?'<a href="'+escapeHTML(u.source)+'" target="_blank" rel="noopener noreferrer">Source ↗</a>':'')+'</section>'}
+   html+='</div></details>';
+ }
  if(!t.entries.length)html+='<div class="empty">This section has not yet been extracted from your assigned readings.</div>';
  function group(title,id,entries){if(!entries.length)return '';return '<section class="detail-group" id="group-'+id+'"><h2 class="section-heading">'+title+'</h2>'+entries.map(entryHtml).join('')+'</section>'}
  html+=group('1. Black-letter law','rule',law);
@@ -164,7 +169,7 @@ function unique(){return 'lex-'+Date.now().toString(36)+'-'+Math.random().toStri
 function field(name,key,value,large=false){return '<label class="form-field">'+escapeHTML(name)+(large?'<textarea name="'+key+'">'+escapeHTML(value||'')+'</textarea>':'<input name="'+key+'" value="'+escapeHTML(value||'')+'">')+'</label>'}
 function editor(mode,id=null){
  editTarget={mode,id};const c=current(),t=topic();let obj=null,body='';
- if(mode==='entry'){obj=t?.entries.find(e=>e.id===id)||{};body='<label class="form-field">Type<select name="type">'+['rule','case','definition','concept','policy','context','framework','history','formula','example'].map(v=>'<option value="'+v+'" '+(obj.type===v?'selected':'')+'>'+v+'</option>').join('')+'</select></label>'+field('Title','title',obj.title)+field('Short summary / holding','summary',obj.summary,true)+field('Full explanation / background (optional)','details',obj.details,true)+field('Exam application','examApplication',obj.examApplication,true)+field('Exam trap / qualification','examTrap',obj.examTrap,true)+field('Elements or tests','elements',obj.elements,true)+field('Exceptions','exceptions',obj.exceptions,true)+field('Case rule (assigned opinions)','rule',obj.rule,true)+field('Facts (cases)','facts',obj.facts,true)+field('Issue','issue',obj.issue,true)+field('Holding','holding',obj.holding,true)+field('Reasoning','reasoning',obj.reasoning,true)+field('Exam significance','exam',obj.exam,true)+field('Source','source',obj.source)}
+ if(mode==='entry'){obj=t?.entries.find(e=>e.id===id)||{};body='<label class="form-field">Type<select name="type">'+['rule','case','definition','concept','policy','context','framework','history','formula','example'].map(v=>'<option value="'+v+'" '+(obj.type===v?'selected':'')+'>'+v+'</option>').join('')+'</select></label>'+field('Title','title',obj.title)+field('Short summary / holding','summary',obj.summary,true)+field('Full explanation / background (optional)','details',obj.details,true)+field('Exam application','examApplication',obj.examApplication,true)+field('Exam trap / qualification','examTrap',obj.examTrap,true)+field('Elements or tests','elements',obj.elements,true)+field('Exceptions','exceptions',obj.exceptions,true)+field('Case rule (assigned opinions)','rule',obj.rule,true)+'<label class="form-field assigned-checkbox"><input type="checkbox" name="assignedOpinion" value="yes" '+(obj.assignedOpinion?'checked':'')+'> Reproduced judicial opinion in assigned readings</label>'+field('Facts (cases)','facts',obj.facts,true)+field('Issue','issue',obj.issue,true)+field('Holding','holding',obj.holding,true)+field('Reasoning','reasoning',obj.reasoning,true)+field('Exam significance','exam',obj.exam,true)+field('Source','source',obj.source)}
  else if(mode==='problem'){obj=c.problems?.find(p=>p.id===id)||{};body=field('Title','title',obj.title)+field('Problem text (unsolved)','prompt',obj.prompt,true)+field('Source','source',obj.source)+field('Your notes','notes',obj.notes,true)+'<label class="form-field">Section<select name="topicId">'+c.topics.map(t=>'<option value="'+escapeHTML(t.id)+'" '+(obj.topicId===t.id?'selected':'')+'>'+escapeHTML(t.title)+'</option>').join('')+'</select></label>'}
  else if(mode==='topic'){obj=t||{};body=field('Section title','title',obj.title)+field('Description','description',obj.description,true)}
  $('modalTitle').textContent=(id?'Edit ':'Add ')+(mode==='entry'?'rule / case':mode==='problem'?'problem':'section');
@@ -174,7 +179,7 @@ function editor(mode,id=null){
 function closeEditor(){$('modalOverlay').hidden=true;editTarget=null}
 function submitEdit(ev){ev.preventDefault();if(!editTarget)return;let form=new FormData($('editor')),v=n=>String(form.get(n)||'').trim();let {mode,id}=editTarget,c=current(),t=topic();
  if(!v('title'))return note('A title is required.');
- if(mode==='entry'){let e=t.entries.find(e=>e.id===id);const fields=['title','summary','details','facts','issue','holding','reasoning','exam','source','examApplication','examTrap','elements','exceptions','rule'];let change={id:e?.id||unique(),type:v('type')};for(const f of fields)change[f]=v(f);if(e)Object.assign(e,change);else t.entries.push(change);record({kind:'upsertEntry',cid:c.id,tid:t.id,entry:change});}
+ if(mode==='entry'){let e=t.entries.find(e=>e.id===id);const fields=['title','summary','details','facts','issue','holding','reasoning','exam','source','examApplication','examTrap','elements','exceptions','rule'];let change={id:e?.id||unique(),type:v('type'),assignedOpinion:v('type')==='case'&&v('assignedOpinion')==='yes'};for(const f of fields)change[f]=v(f);if(e)Object.assign(e,change);else t.entries.push(change);record({kind:'upsertEntry',cid:c.id,tid:t.id,entry:change});}
  else if(mode==='problem'){c.problems??=[];let p=c.problems.find(p=>p.id===id);const change={id:p?.id||unique(),title:v('title'),prompt:v('prompt'),source:v('source'),notes:v('notes'),topicId:v('topicId'),status:p?.status||'Not attempted',kind:p?.kind||'User-added problem'};if(p)Object.assign(p,change);else c.problems.push(change);record({kind:'upsertProblem',cid:c.id,problem:change})}
  else if(mode==='topic'){t.title=v('title');t.description=v('description');record({kind:'upsertTopic',cid:c.id,topic:copy(t)})}
  closeEditor();render();note('Saved in this browser. Publish changes to sync to GitHub.')}
