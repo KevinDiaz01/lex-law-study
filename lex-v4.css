@@ -116,3 +116,15 @@
 .detail-group .section-heading{margin:0 0 5px}
 .section-jumps{margin-bottom:24px}
 @media(max-width:850px){.exam-entry .entry-head h3{font-size:16px}.exam-rule,.exam-trap,.exam-application{padding:10px 12px}}
+
+/* Supporting source and verification controls */
+.current-law-updates{margin:0 0 21px;border:1px solid #dfc089;border-radius:5px;background:#fffaf0}
+.current-law-updates summary{cursor:pointer;padding:12px 14px;font-weight:800;font-size:12px;color:#82591f}
+.current-law-updates>div{border-top:1px solid #eadac1;padding:5px 14px 13px}
+.current-law-updates section{padding:12px 0;border-bottom:1px solid #f0e5d6}
+.current-law-updates section:last-child{border-bottom:0}
+.current-law-updates section>strong{font-size:12px}
+.current-law-updates p{font-size:12px;line-height:1.55;margin:5px 0}
+.current-law-updates a{font-size:11px;color:#285c97}
+.assigned-checkbox{display:flex;gap:9px;align-items:center;background:#f3f7fc;padding:10px;font-size:12px}
+.assigned-checkbox input{width:auto!important;margin:0!important;accent-color:#245da6}
