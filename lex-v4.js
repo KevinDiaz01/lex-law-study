@@ -47,8 +47,8 @@ function renderSidebar(){
   const id=g[0].chapterGroup||g[0].id,opened=showChapter.has(id),active=groupFor(topic())===g;
   html+='<div class="chapter-group"><button class="side-chapter '+(active&&page==='chapter'?'active':'')+'" data-chapter="'+escapeHTML(g[0].id)+'"><span>'+escapeHTML(groupTitle(g))+'</span><span>'+(opened?'−':'+')+'</span></button>';
   if(opened){html+='<button class="side-link chapter-shortcut" data-quick="'+escapeHTML(g[0].id)+'">Chapter rule map</button>';
-   for(const t of g){if(t===g[0]&&g.length>1&&t.title.startsWith('Chapter '))continue;
-    html+='<button class="side-section '+(page==='section'&&sectionId===t.id?'active':'')+'" data-section="'+escapeHTML(t.id)+'">'+escapeHTML(t.title)+'</button>';}
+   for(const t of g){const isIntro=t===g[0]&&g.length>1&&t.title.startsWith('Chapter ');
+    html+='<button class="side-section '+(page==='section'&&sectionId===t.id?'active':'')+'" data-section="'+escapeHTML(t.id)+'">'+escapeHTML(isIntro?'Foundations — Key Terms':t.title)+'</button>';}
   }html+='</div>';
  }
  html+='<div class="side-caption">REFERENCE</div><button class="side-link '+(page==='formulas'?'active':'')+'" data-page="formulas">All formulas & calculations</button><button class="side-link '+(page==='problems'?'active':'')+'" data-page="problems">Unsolved problems ('+(c.problems?.length||0)+')</button>';
@@ -71,8 +71,8 @@ function renderOverview(){
  for(const g of groups(c)){
   const first=g[0];html+='<section class="chapter-section exam-chapter"><h2><button data-quick="'+escapeHTML(first.id)+'">'+escapeHTML(groupTitle(g))+' →</button></h2>';
   for(const t of g){
-   if(t===first&&g.length>1&&t.title.startsWith('Chapter '))continue;
-   html+='<div class="exam-topic"><h3><button data-section="'+escapeHTML(t.id)+'">'+escapeHTML(t.title)+' →</button></h3>';
+   const isIntro=t===first&&g.length>1&&t.title.startsWith('Chapter ');
+   html+='<div class="exam-topic"><h3><button data-section="'+escapeHTML(t.id)+'">'+escapeHTML(isIntro?'Foundations — Key Terms':t.title)+' →</button></h3>';
    const primary=t.entries.filter(isExamEssential),learning=t.entries.filter(isLearningConcept),background=t.entries.filter(isBackground),examples=t.entries.filter(e=>e.type==='example');
    if(primary.length)html+='<div class="law-table">'+primary.map(e=>lawRow(e,t.id)).join('')+'</div>';
    if(learning.length)html+='<details class="concept-fold"><summary>Helpful concepts <span>'+learning.length+'</span></summary>'+learning.map(e=>lawRow(e,t.id)).join('')+'</details>';
