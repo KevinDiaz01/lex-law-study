@@ -1033,7 +1033,9 @@
               "summary": "What is taxed? How much? When? At what rate? And who pays?",
               "details": "Use the entire course as one conceptual pipeline. The tax base identifies taxable income; timing determines the year; character and filing status influence rates; entity classification identifies the taxpayer; compliance rules determine reporting and dispute procedures. Source: conceptual synthesis of Chapter 1.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 1–33",
-              "page": "1–33"
+              "page": "1–33",
+              "legalExplanation": "Organize federal income-tax analysis in a sequence: (1) identify the taxpayer and receipts; (2) classify includible gross income and exclusions under §61 and related provisions; (3) calculate above-the-line adjustments under §62 and taxable income under §63; (4) determine character and timing; (5) apply progressive rate schedules and credits; and (6) reconcile payments and consider compliance requirements. This is a study map drawn from Chapter 1, not a single statutory test.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e002",
@@ -1043,7 +1045,9 @@
               "details": "Tax is not ordinarily imposed on all cash received. Begin with gross income, account for AGI deductions and additional deductions, apply rates to taxable income, then apply eligible credits and payments.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 11–15",
               "page": "11–15",
-              "laymanExplanation": "The tax base is the amount the government uses to figure out your tax. Think of it as the number the tax rate is applied to."
+              "laymanExplanation": "The tax base is the amount the government uses to figure out your tax. Think of it as the number the tax rate is applied to.",
+              "legalExplanation": "A tax base is the amount to which rates are applied. Under the personal federal income tax, taxable income is the relevant base, after inclusions, exclusions and legally allowable deductions have been determined. Do not confuse this tax base with gross receipts or economic income.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e003",
@@ -1052,7 +1056,9 @@
               "summary": "Gross income → AGI → taxable income → preliminary tax → credits → tax due/refund.",
               "details": "1. Determine inclusions and exclusions. 2. Gross income less adjustments/above-the-line deductions = AGI. 3. AGI less applicable below-the-line deductions = taxable income (subject to other statutory adjustments). 4. Apply tax rates and relevant special computations. 5. Apply tax credits. 6. Compare liability with withholding/estimated payments.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 11–16, 28",
-              "page": "11–16, 28"
+              "page": "11–16, 28",
+              "legalExplanation": "For an individual, start with gross income under §61 and exclusions, then subtract §62 above-the-line deductions to determine AGI. Under §63, subtract the applicable standard deduction or allowable itemized deductions and other applicable adjustments to arrive at taxable income. Apply rates and special computations, then credits, prepayments and withholding to find the final liability or refund. Each subtraction requires statutory eligibility.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             }
           ]
         },
@@ -1070,7 +1076,9 @@
               "summary": "Taxation allocates the financial burdens of government and reflects social-policy choices.",
               "details": "The chapter frames taxation as part of the social contract: how costs should be shared and how much taxpayers should retain. The tax base and deductions embody value judgments as well as revenue needs.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 1–2",
-              "page": "1–2"
+              "page": "1–2",
+              "legalExplanation": "The casebook treats taxation as a way to share the costs of collective government activity. This is social and political background, not a rule authorizing a particular tax. Policy choices shape tax bases, rates, credits, and the distribution of burdens; statutory enactment is required to impose the actual income tax.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e005",
@@ -1080,7 +1088,9 @@
               "details": "Classify tax systems using AVERAGE TAX RATE, not whether higher-income taxpayers pay more total dollars. The individual federal income tax is generally progressive; payroll and excise taxes often have regressive features.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 3–5, 16–17",
               "page": "3–5, 16–17",
-              "laymanExplanation": "Progressive means higher earners pay a higher percentage on average. Proportional means everyone pays the same percentage. Regressive means lower earners pay a higher percentage of their income."
+              "laymanExplanation": "Progressive means higher earners pay a higher percentage on average. Proportional means everyone pays the same percentage. Regressive means lower earners pay a higher percentage of their income.",
+              "legalExplanation": "A tax system is called progressive, proportional or regressive by examining average tax rates as income increases. Progressive means the tax/income ratio rises; proportional means the ratio is constant; regressive means the ratio falls. Larger total dollar payments by wealthy taxpayers alone do not prove that a tax is progressive. The reading uses historical CBO 2018 distributional data to contrast income, payroll and excise taxes.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e006",
@@ -1090,7 +1100,9 @@
               "details": "The casebook describes negative average individual income-tax rates among lower-income quintiles in its 2018 data. Credits such as the EITC are central. Distinguish refundable-credit payments from merely withholding overpayments.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 3–5, 15",
               "page": "3–5, 15",
-              "laymanExplanation": "Sometimes tax credits are worth more than the income tax you owe. If the credit is refundable, the government may pay you the difference."
+              "laymanExplanation": "Sometimes tax credits are worth more than the income tax you owe. If the credit is refundable, the government may pay you the difference.",
+              "legalExplanation": "Refundable credits can exceed a taxpayer's income-tax liability and create a net government payment. The earned income tax credit is an example in the reading. Negative net income-tax liability differs from simply receiving back excess wages withheld from a positive tax bill. It does not necessarily mean negative tax liability across every federal tax category.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e007",
@@ -1099,7 +1111,9 @@
               "summary": "The casebook uses FY 2021 revenue and 2018 tax-burden data as historical illustrations.",
               "details": "FY 2021: individual income tax 51%; corporate income tax 9%; payroll/social insurance 32% of total federal revenues (source Table 1-1). In 2018 the individual income-tax average rate ranged from −12% in the lowest quintile to 15.4% in the top quintile (Table 1-2). These are dated snapshots, not current estimates.",
               "source": "Bankman et al., Tables 1-1 through 1-3 (historical data)",
-              "page": "3–6"
+              "page": "3–6",
+              "legalExplanation": "Table 1-1 reports 2021 federal revenue: individual income taxes $2,044 billion (51%), corporate income taxes $372 billion (9%), payroll/social-insurance $1,314 billion (32%), excise $75 billion (2%), estate/gift $27 billion (1%), other $214 billion (5%), total $4,046 billion. Table 1-2 reports 2018 average individual-income-tax rates of −12.0%, −2.1%, 2.2%, 5.9% and 15.4% across ascending quintiles; overall federal average tax rates were 0.0%, 8.1%, 12.8%, 16.7% and 24.4%. Table 1-3 shows the top quintile's pretax-income share grew from 46.0% in 1980 to 55.2% in 2018. These figures illustrate historical distribution; they are not 2026 rates.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e008",
@@ -1108,7 +1122,9 @@
               "summary": "Income effect: need to replace lost disposable income; substitution: after-tax incentives change choices.",
               "details": "Income tax may cause someone to work more to replace lost take-home pay (income effect) or work less because leisure becomes relatively attractive (substitution effect). Theory alone does not identify which dominates for a particular taxpayer.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 6–7",
-              "page": "6–7"
+              "page": "6–7",
+              "legalExplanation": "An income effect arises because tax reduces disposable resources, potentially inducing someone to earn more to restore their spending power. A substitution effect arises because tax changes relative returns: taxable work may become less attractive relative to untaxed leisure or nonmarket activity. These forces can move labor supply in opposite directions; the casebook warns that theory alone does not determine the net result.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e009",
@@ -1117,7 +1133,9 @@
               "summary": "Deductions, exclusions, and credits can subsidize activities through the tax system.",
               "details": "For example, homeowner and charitable tax provisions may encourage particular spending. A $6 million government grant and a $6 million tax reduction may confer similar benefits even though framed differently in political debate.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 7–8",
-              "page": "7–8"
+              "page": "7–8",
+              "legalExplanation": "Tax preferences can be understood as implicit subsidies because deductions, exclusions, and credits reduce the tax paid by favored activities. The source compares a $6 million direct subsidy with an equivalent tax reduction for a firm owing $10 million: both may leave a $4 million net payment, given the assumed facts. Distinguish this policy analogy from the legal calculation of a particular deduction.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e010",
@@ -1126,7 +1144,9 @@
               "summary": "Facially race-neutral deductions can have uneven impacts given differences in income and wealth.",
               "details": "The chapter examines how itemizing and homeowner tax benefits can be unevenly distributed. Keep separate: (1) disparities linked to income distribution and (2) differences that may remain among groups with comparable income or wealth. Treat the book’s demographic statistics as historical.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 8–9",
-              "page": "8–9"
+              "page": "8–9",
+              "legalExplanation": "Formally facially neutral provisions can generate disparate benefits when income, homeownership or itemization patterns differ across groups. The reading distinguishes (1) differences produced through the distribution of income and wealth and (2) possible differential effects at similar income levels. Its demographic figures describe dated empirical observations and are not legal eligibility elements.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e011",
@@ -1135,7 +1155,9 @@
               "summary": "Tax planning affects property transfers, settlements, business entities, compensation, and family law.",
               "details": "Lawyers must spot when a proposed transaction has tax consequences, even if tax is not their specialty. Legal complexity creates incentives to structure transactions to comply and reduce liability.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 6",
-              "page": "6"
+              "page": "6",
+              "legalExplanation": "The reading emphasizes tax issue-spotting for attorneys across practice areas: property sales, leases and financing, divorce settlements, entity choice, compensation structures and damages settlements may trigger income-tax consequences. This is practical professional context, not a governing rule.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "class1-def-quintile",
@@ -1160,18 +1182,6 @@
               "page": "7–8",
               "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 7–8",
               "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
-            },
-            {
-              "id": "class1-def-average-tax-rate",
-              "type": "definition",
-              "title": "Average tax rate for distribution comparisons",
-              "summary": "Tax owed divided by income measures the average burden; changes in the percentage across higher-income groups distinguish progressive, proportional, and regressive systems.",
-              "details": "For a distributional analysis, calculate average tax liability as a share of the chosen income measure; the denominator and types of tax included change the result. The reading compares individual income, payroll, corporate and excise taxes using historical 2018 quintile data.",
-              "laymanExplanation": "A person paying $10,000 in tax on $100,000 income has a 10% average tax rate. Check the share of income paid, not just the number of dollars.",
-              "legalExplanation": "For a distributional analysis, calculate average tax liability as a share of the chosen income measure; the denominator and types of tax included change the result. The reading compares individual income, payroll, corporate and excise taxes using historical 2018 quintile data.",
-              "page": "4–5",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 4–5",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             }
           ]
         },
@@ -1190,7 +1200,9 @@
               "details": "Before the modern income tax, the federal government depended heavily on tariffs and excise taxes. Both affect prices and burden distribution differently from individual income taxes.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 9–10",
               "page": "9–10",
-              "laymanExplanation": "Tariffs are taxes on goods brought in from abroad. Excise taxes target particular goods or activities, such as fuel."
+              "laymanExplanation": "Tariffs are taxes on goods brought in from abroad. Excise taxes target particular goods or activities, such as fuel.",
+              "legalExplanation": "Tariffs are taxes on cross-border trade in goods. Excise taxes generally fall on specified goods or activities. The federal government historically relied heavily on tariffs and excises before the permanent modern individual income tax.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e013",
@@ -1207,7 +1219,8 @@
                 "authority": "Sixteenth Amendment; Moore v. United States (2024)",
                 "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
               },
-              "sourceRole": "Case mentioned or discussed in the textbook; not assigned as a reproduced judicial opinion in the material supplied so far."
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "legalExplanation": "The Supreme Court treated the 1894 tax on rents, dividends and interest as violating direct-tax apportionment requirements and invalidated the law after finding the provisions inseverable. This is historical constitutional context. The Sixteenth Amendment subsequently permitted unapportioned federal income taxes, so Pollock's apportionment objection is not a current general bar to income taxation. This case is cited/discussed in text, not reproduced as an assigned judicial opinion."
             },
             {
               "id": "tax-ch1-e014",
@@ -1217,7 +1230,9 @@
               "details": "It responded to the direct-tax obstacle identified in Pollock and enabled the modern federal income tax. The definition of income and the limits of congressional taxing power remain subjects of doctrine and litigation.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 10",
               "page": "10",
-              "laymanExplanation": "The Sixteenth Amendment lets Congress impose federal income taxes without dividing the tax bill among states according to population."
+              "laymanExplanation": "The Sixteenth Amendment lets Congress impose federal income taxes without dividing the tax bill among states according to population.",
+              "legalExplanation": "The Sixteenth Amendment provides Congress power to lay and collect taxes on income from whatever source derived without apportionment among states or regard to census enumeration. It does not independently specify every includible receipt or eliminate statutory exclusions, which must be analyzed under the Code.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e015",
@@ -1226,7 +1241,9 @@
               "summary": "Civil War income taxes → 1894 tax and Pollock → 1913 amendment → WWI growth → WWII mass tax.",
               "details": "1861 first Civil War income tax; 1894 progressive revival; 1895 Pollock; 1913 Sixteenth Amendment; WWI sharply expanded rates; WWII brought broad population coverage. Later Congress repeatedly revised brackets, rates, and deductions.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 9–11",
-              "page": "9–11"
+              "page": "9–11",
+              "legalExplanation": "The reading traces the Civil War tax, repeal and tariff reliance, the 1894 income tax and 1895 Pollock decision, the Sixteenth Amendment of 1913, high wartime rates, and the World War II expansion from a narrow 'class tax' to a broader 'mass tax.' These developments are useful background, not tax rates to use for today's calculations.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             }
           ]
         },
@@ -1247,7 +1264,9 @@
               "page": "11–12",
               "examApplication": "When a taxpayer receives a payment, begin with § 61's broad inclusion principle. Determine whether it is an economic gain, then look for a statutory exclusion or other limiting rule.",
               "examTrap": "Do not assume that a receipt is exempt because it is unusual, punitive, or received outside employment; identify a legal basis for exclusion.",
-              "laymanExplanation": "Start by assuming that money or other valuable things you receive may count as income. Then check whether a specific tax-law rule says otherwise."
+              "laymanExplanation": "Start by assuming that money or other valuable things you receive may count as income. Then check whether a specific tax-law rule says otherwise.",
+              "legalExplanation": "Section 61(a) broadly defines gross income as all income from whatever source derived and provides a nonexclusive list. Wages, interest, dividends and rents are examples. Other Code provisions govern special inclusions and exclusions, and neither economic intuition nor a descriptive label alone determines statutory taxability. Examine the specific facts and any applicable exclusion.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e017",
@@ -1257,7 +1276,9 @@
               "details": "For merchandising businesses, gross income from inventory sales means gross profit rather than gross cash receipts. Inventory costs recovered through COGS are not the same as personal deductions.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 12–13",
               "page": "12–13",
-              "laymanExplanation": "A shop might collect $100 selling something it bought for $70. The $100 is gross receipts; after subtracting the item's cost, its gross profit is $30."
+              "laymanExplanation": "A shop might collect $100 selling something it bought for $70. The $100 is gross receipts; after subtracting the item's cost, its gross profit is $30.",
+              "legalExplanation": "Gross receipts are the entire amount a business takes in from sales, while for inventory sales the merchandise cost is recovered in determining gross income. The textbook's two $20 hammers yield $40 gross receipts, but $24 cost of goods sold, leaving $16 gross profit/inventory gross income. Separate COGS from operating-expense deductions.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e018",
@@ -1269,7 +1290,9 @@
               "page": "13–14",
               "examApplication": "Start with gross income and subtract the qualifying deductions identified in § 62 to compute AGI; only afterward consider applicable below-the-line deductions.",
               "examTrap": "AGI and taxable income are not the same number.",
-              "laymanExplanation": "AGI is an intermediate number on the way to taxable income: take gross income and subtract certain deductions that the law lets you take before the next stage."
+              "laymanExplanation": "AGI is an intermediate number on the way to taxable income: take gross income and subtract certain deductions that the law lets you take before the next stage.",
+              "legalExplanation": "Adjusted gross income under §62 generally equals gross income less specified deductions that are allowed in arriving at AGI. The source calls AGI a 'way station'; it is used for subsequent tax calculations and limitations, not generally the final tax base. Only qualifying statutory items belong above the line.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e019",
@@ -1279,7 +1302,9 @@
               "details": "Conceptual sequence: AGI, then allowed below-the-line deductions (normally the standard deduction OR itemized deductions, plus other relevant statutory amounts). A taxpayer generally does not claim both standard and itemized deductions.",
               "source": "IRC § 63; Bankman et al. pp. 13–15",
               "page": "13–15",
-              "laymanExplanation": "Taxable income is the amount left after the deductions the law allows. It's the number used to apply the income-tax rates."
+              "laymanExplanation": "Taxable income is the amount left after the deductions the law allows. It's the number used to apply the income-tax rates.",
+              "legalExplanation": "Under §63, taxable income for individuals generally begins with gross income less legally allowable deductions, commonly computed from AGI minus the appropriate standard or itemized deductions. Additional provisions, limitations and special rules affect the amount. The resulting taxable income is the base to which income-tax rate schedules are applied before credits.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e020",
@@ -1289,7 +1314,9 @@
               "details": "These are practitioner shorthand, not formal statutory terms. The distinction matters because AGI influences limits and other tax computations; above-line deductions can be more advantageous.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 13–14",
               "page": "13–14",
-              "laymanExplanation": "Above-the-line deductions are taken before AGI is calculated. Below-the-line deductions generally come afterward, when going from AGI to taxable income."
+              "laymanExplanation": "Above-the-line deductions are taken before AGI is calculated. Below-the-line deductions generally come afterward, when going from AGI to taxable income.",
+              "legalExplanation": "Above-the-line and below-the-line are practical shorthand for deductions taken respectively before and after calculation of AGI. They do not appear as controlling Code labels. Above-the-line deductions generally remain available regardless of itemizing; many below-the-line personal deductions depend on itemization and statutory thresholds.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e021",
@@ -1301,7 +1328,9 @@
               "page": "15–16",
               "examApplication": "Compare a deduction and a credit separately. A deductible dollar generally reduces the amount taxed; an allowed credit reduces the computed tax.",
               "examTrap": "Do not subtract a credit from taxable income or confuse an exclusion with a deduction.",
-              "laymanExplanation": "A deduction reduces how much income gets taxed. A credit reduces the tax bill itself. A $1,000 credit usually saves more than a $1,000 deduction."
+              "laymanExplanation": "A deduction reduces how much income gets taxed. A credit reduces the tax bill itself. A $1,000 credit usually saves more than a $1,000 deduction.",
+              "legalExplanation": "A deduction subtracts an allowed amount from the tax base, so its incremental tax saving ordinarily depends on the relevant marginal tax rate. A credit reduces computed tax directly, dollar for dollar as permitted. A $100 deduction at a 37% marginal rate may save $37, while a fully usable $100 credit reduces tax by $100. The source distinguishes refundable and nonrefundable credits.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e022",
@@ -1311,7 +1340,9 @@
               "details": "Gifts under § 102 and certain other receipts are cited as examples of statutory exclusions. An exclusion of $50 and inclusion followed by a usable $50 deduction can have comparable current-year tax-base effects, but other rules may make them differ.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 15–16",
               "page": "15–16",
-              "laymanExplanation": "An exclusion keeps something out of income in the first place. A deduction subtracts an allowed amount later. 'Exemption' is a separate tax-law term whose meaning depends on the provision."
+              "laymanExplanation": "An exclusion keeps something out of income in the first place. A deduction subtracts an allowed amount later. 'Exemption' is a separate tax-law term whose meaning depends on the provision.",
+              "legalExplanation": "An exclusion removes an item from gross income. A deduction subtracts an allowable expense or amount after inclusion. 'Exemption' can be used informally for tax-favored status, but may also denote a specific statutory mechanism. Assuming equal deductibility and no collateral effects, excluding $50 and deducting the same $50 after inclusion can produce the same liability; whether they do depends on applicable limits.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e023",
@@ -1323,7 +1354,9 @@
               "page": "16–17",
               "examApplication": "Apply each marginal rate only to the taxable income falling inside its bracket.",
               "examTrap": "Moving into a higher marginal bracket does not cause all previously taxed income to be retaxed at that higher rate.",
-              "laymanExplanation": "Only the part of your income that falls inside a higher tax bracket gets that bracket's higher rate—not your entire income."
+              "laymanExplanation": "Only the part of your income that falls inside a higher tax bracket gets that bracket's higher rate—not your entire income.",
+              "legalExplanation": "Progressive rates are applied marginally: divide taxable income among brackets and multiply each layer by its own rate. In the book's artificial two-rate illustration, $50,010 of taxable income yields $50,000 × 20% + $10 × 40% = $10,004; $60,000 yields $14,000. Neither example is a federal rate schedule for 2026.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e024",
@@ -1333,7 +1366,9 @@
               "details": "A taxpayer can face a 40% marginal bracket while having an average rate near 23% in the book’s hypothetical $60,000 example. Apply the marginal rate to incremental income or a fully usable deduction within that bracket.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 17–18",
               "page": "17–18",
-              "laymanExplanation": "Your marginal rate tells you the rate on your next dollar of taxable income. Your average rate is your total tax divided by an appropriate income measure."
+              "laymanExplanation": "Your marginal rate tells you the rate on your next dollar of taxable income. Your average rate is your total tax divided by an appropriate income measure.",
+              "legalExplanation": "The marginal rate is the rate affecting the taxpayer's next taxable dollar; the average rate is total tax divided by a stated measure of income. Using the casebook's hypothetical, tax is $14,000 on $60,000 taxable income under 20%/40% brackets: average rate 23.33%, marginal rate 40%. A deduction affecting only the top bracket generally saves its amount multiplied by the marginal rate.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e025",
@@ -1343,7 +1378,9 @@
               "details": "An effective marginal rate can exceed the stated marginal bracket where a refundable credit or benefit is phased out as income rises. Always identify what counts in both numerator (tax) and denominator (income).",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 17–18",
               "page": "17–18",
-              "laymanExplanation": "The statutory rate is the percentage stated in the tax brackets. The effective rate tries to show what tax actually costs after other rules such as credits and phaseouts."
+              "laymanExplanation": "The statutory rate is the percentage stated in the tax brackets. The effective rate tries to show what tax actually costs after other rules such as credits and phaseouts.",
+              "legalExplanation": "A statutory rate comes from the rate structure enacted in the Code. 'Effective' can refer to a broader measure of actual tax burden, including a denominator based on economic rather than taxable income, or an effective marginal burden including lost benefits during credit phaseouts. Always specify the denominator and which taxes/benefits are counted.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e026",
@@ -1353,7 +1390,9 @@
               "details": "Capital asset definition (§ 1221) generally includes investment stock but excludes, among other things, inventory and property held mainly for sale to customers. Long-term means held MORE than one year; one year or less is short-term. Preferential rates concern net capital gain after the required netting and other restrictions.",
               "source": "IRC §§ 64, 1221, 1222; Bankman et al. pp. 19–20",
               "page": "19–20",
-              "laymanExplanation": "Paychecks and many business earnings are ordinary income. Profits from selling certain investments may be capital gains, which can be taxed differently."
+              "laymanExplanation": "Paychecks and many business earnings are ordinary income. Profits from selling certain investments may be capital gains, which can be taxed differently.",
+              "legalExplanation": "Ordinary income includes gains or receipts not receiving special capital-gain treatment. Under §§1221–1222, a capital gain generally arises from sale or exchange of a capital asset, but preferential treatment depends on holding period and statutory net capital gain. Short-term gains generally enter ordinary rate computation; merely labeling gain 'capital' does not guarantee a reduced rate.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e027",
@@ -1365,7 +1404,9 @@
               "page": "19–20",
               "examApplication": "When a taxpayer sells capital assets at gains and losses, net capital gains and losses before applying the applicable individual capital-loss limit.",
               "examTrap": "Do not treat a capital loss as an unlimited offset against ordinary income.",
-              "laymanExplanation": "Losing money on investments doesn't mean you can always subtract the entire loss from your salary. Tax law places limits on capital losses."
+              "laymanExplanation": "Losing money on investments doesn't mean you can always subtract the entire loss from your salary. Tax law places limits on capital losses.",
+              "legalExplanation": "Section 1211 generally limits capital loss use: individual net capital losses may offset capital gains, plus no more than $3,000 of other income in a year ($1,500 for married filing separately), with carryovers under related rules. Distinguish capital-loss netting from trade/business deductions under §162 and other loss deductions under §165.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e028",
@@ -1375,7 +1416,9 @@
               "details": "Section 162 allows ordinary and necessary business expenses subject to statutory limits; § 165 governs important loss deductions. The labels matter because they follow separate legal tests.",
               "source": "IRC §§ 162, 165",
               "page": "20",
-              "laymanExplanation": "An expense is money spent to operate a business. A loss can arise when a property or transaction ends up worth less than its tax cost; different deduction rules apply."
+              "laymanExplanation": "An expense is money spent to operate a business. A loss can arise when a property or transaction ends up worth less than its tax cost; different deduction rules apply.",
+              "legalExplanation": "Section 162 permits deductions for ordinary and necessary business expenses, subject to limits. Section 165 addresses certain losses, including those from dispositions and other qualifying events. A periodic cost of operating a business and an economic loss on property may both reduce income but have distinct legal predicates and limitations.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e029",
@@ -1387,7 +1430,9 @@
               "page": "20–21",
               "examApplication": "For a timing problem, identify the accounting method and determine when the income or expense enters the tax calculation.",
               "examTrap": "Do not automatically use payment date for accrual-method taxpayers or invoice date for cash-method taxpayers.",
-              "laymanExplanation": "Under the cash method, payment timing generally matters. Under the accrual method, earning the income or incurring the expense generally matters—even when cash moves later."
+              "laymanExplanation": "Under the cash method, payment timing generally matters. Under the accrual method, earning the income or incurring the expense generally matters—even when cash moves later.",
+              "legalExplanation": "Under the cash method, an item generally enters income when actually or constructively received and a deduction generally follows payment, subject to restrictions. Under the accrual method, income is generally included when earned and liabilities may be deducted when the relevant all-events and economic-performance tests are met. The casebook's accountant performs $500 work in Year 1 but is paid Year 2: cash treatment generally points to Year 2; accrual to Year 1, if requirements are satisfied.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e030",
@@ -1397,7 +1442,9 @@
               "details": "Land basis is usually recovered on disposition; depreciable machinery generally receives cost recovery over time, subject to statutory accelerated-depreciation/expensing provisions. Do not treat every cash purchase as a current deduction.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 20–22",
               "page": "20–22",
-              "laymanExplanation": "Buying office supplies and buying a building are treated differently. The building usually has to be capitalized, with its cost recovered over time or on sale rather than all at once."
+              "laymanExplanation": "Buying office supplies and buying a building are treated differently. The building usually has to be capitalized, with its cost recovered over time or on sale rather than all at once.",
+              "legalExplanation": "Capital expenditures acquire or improve assets whose costs generally are recovered through basis, depreciation or later disposition, rather than automatically as current §162 expenses. The source contrasts $400,000 of land (normally retained in basis) with $50,000 tractor and $100,000 machinery (potentially recoverable under depreciation rules). Special expensing provisions can modify timing.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e031",
@@ -1409,7 +1456,9 @@
               "page": "21–22",
               "examApplication": "For a disposition problem, identify the taxpayer's starting basis and any relevant adjustments (for example, capital improvements or depreciation) before computing realized gain or loss. Under the general gain formula, amount realized minus adjusted basis gives realized gain or loss.",
               "examTrap": "Do not confuse the property's current fair market value with its adjusted tax basis.",
-              "laymanExplanation": "Basis is the tax system's record of what you invested in an asset. Buy something for $100 and improve it for $20: the adjusted basis may be $120, before other adjustments."
+              "laymanExplanation": "Basis is the tax system's record of what you invested in an asset. Buy something for $100 and improve it for $20: the adjusted basis may be $120, before other adjustments.",
+              "legalExplanation": "Basis generally begins with acquisition cost under §1012; adjusted basis reflects applicable increases, such as qualifying capital improvements, and reductions, such as depreciation allowed or allowable, under §1016. Under §1001 the amount realized on a disposition is compared to adjusted basis to determine realized gain or loss. The source uses basis to prevent recovery of capital from being taxed as new income.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e032",
@@ -1422,7 +1471,9 @@
               "alert": "Current-law qualification: §1031 is limited to qualifying real-property exchanges; the book’s land-for-apartment illustration requires statutory conditions.",
               "examApplication": "Ask two questions separately: (1) Did a sale or exchange realize a gain or loss? (2) Does current tax law require recognition now, or allow nonrecognition/deferral?",
               "examTrap": "A realized gain is not always currently recognized as taxable income.",
-              "laymanExplanation": "Realization is when something happens, like a sale, that turns a paper gain into a tax event. Recognition asks whether the tax law actually makes you report that gain now."
+              "laymanExplanation": "Realization is when something happens, like a sale, that turns a paper gain into a tax event. Recognition asks whether the tax law actually makes you report that gain now.",
+              "legalExplanation": "Realization refers to a taxable-event trigger such as disposition; mere market appreciation normally remains unrealized. Recognition determines whether realized gain or loss is currently taken into account after statutory nonrecognition rules. The book gives $1 million-basis land worth $5 million, later exchanged for a $5 million apartment building: $4 million realized gain, potentially deferred under §1031 if the exchange qualifies. Since 2018 §1031 applies to eligible real-property exchanges, subject to detailed conditions; not all swaps are tax-free.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e033",
@@ -1432,7 +1483,9 @@
               "details": "The partnership files an information return but generally does not pay entity-level federal income tax. Owners separately report their distributive shares under partnership rules, not necessarily cash received.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 22–23",
               "page": "22–23",
-              "laymanExplanation": "A sole proprietor and a partner generally report business income through individual returns, though partnerships have their own reporting rules."
+              "laymanExplanation": "A sole proprietor and a partner generally report business income through individual returns, though partnerships have their own reporting rules.",
+              "legalExplanation": "For a sole proprietor, business receipts and deductions generally enter the owner's federal income-tax calculation directly. Partnerships file informational returns and generally pass distributive shares of tax items to partners rather than paying the regular entity-level income tax. Reporting is not necessarily postponed until cash is distributed.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e034",
@@ -1443,7 +1496,9 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 22–23",
               "page": "22–23",
               "alert": "Textbook simplification: do not assume every LLC is taxed as a partnership.",
-              "laymanExplanation": "Different business forms can lead to different tax bills. A corporation may pay tax itself, while some LLCs and S corporations pass income through to owners."
+              "laymanExplanation": "Different business forms can lead to different tax bills. A corporation may pay tax itself, while some LLCs and S corporations pass income through to owners.",
+              "legalExplanation": "A C corporation generally pays income tax as a separate legal entity, and distributed earnings may be taxed again to shareholders. An S corporation generally passes income through to eligible owners, subject to entity-type and eligibility constraints. The casebook treats LLCs as partnership analogues for introductory purposes; in practice the federal classification depends on membership and elections.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e035",
@@ -1453,7 +1508,9 @@
               "details": "Trustee holds property for beneficiaries; tax depends on income accumulation/distribution and trust classification. Chapter 1 provides only an orientation, not the detailed trust rules.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 23",
               "page": "23",
-              "laymanExplanation": "A trust holds and manages assets for beneficiaries. Depending on its rules and distributions, tax may be paid by the trust or by beneficiaries."
+              "laymanExplanation": "A trust holds and manages assets for beneficiaries. Depending on its rules and distributions, tax may be paid by the trust or by beneficiaries.",
+              "legalExplanation": "A trustee holds and administers assets for beneficiaries. Depending on the trust category, distribution and accumulation, income may be taxed to the trust or its beneficiaries. Chapter 1 gives only a conceptual introduction and does not supply full Subchapter J rules.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e036",
@@ -1463,16 +1520,20 @@
               "details": "Illustration: $100 cost grows to $105 with 5% inflation; $5 nominal gain need not represent real economic improvement. Tax basis is generally not inflation-indexed, while brackets and certain dollar thresholds are adjusted under statutory rules.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 23–24",
               "page": "23–24",
-              "laymanExplanation": "If something rises in price only because everything has become more expensive, your paper profit may not represent a real increase in purchasing power."
+              "laymanExplanation": "If something rises in price only because everything has become more expensive, your paper profit may not represent a real increase in purchasing power.",
+              "legalExplanation": "Nominal gain is measured in dollars without adjusting for changes in purchasing power; real gain measures inflation-adjusted improvement. In the example, an asset bought for $100 and sold for $105 after 5% inflation has $5 nominal gain but essentially no real purchasing-power gain. Federal income-tax basis is not generally indexed simply because prices rose.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e037",
-              "type": "concept",
+              "type": "definition",
               "title": "Bracket creep and inflation indexing",
               "summary": "Without inflation adjustment, rising nominal income can push taxpayers into higher brackets without real growth.",
               "details": "Congress indexed specified tax brackets and amounts to inflation; the book identifies §§1(f) and 151(f) and use of chained CPI. Indexing is distinct from adjusting a taxpayer’s investment basis for inflation.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 24",
-              "page": "24"
+              "page": "24",
+              "legalExplanation": "Bracket creep occurs when nominal income rises with inflation, potentially pushing taxpayers into higher rate brackets despite unchanged real purchasing power. The book explains inflation indexing of brackets and certain dollar amounts and the shift to chained CPI. This is separate from (generally unavailable) inflation indexing of property tax basis.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "class1-def-cost-of-goods",
@@ -1604,18 +1665,6 @@
               "legalExplanation": "The reading describes C corporations as separate taxpayers, distinct from pass-through partnerships and S corporations. A corporation's retained income can raise share value but a shareholder generally does not realize gain from price appreciation until a disposition.",
               "page": "23",
               "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 23",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
-            },
-            {
-              "id": "class1-def-bracket-creep",
-              "type": "definition",
-              "title": "Bracket creep and inflation indexing",
-              "summary": "Without indexing, higher nominal wages can move someone into more heavily taxed brackets even if purchasing power does not rise.",
-              "details": "The book explains statutory adjustments to brackets and standard deductions for inflation, including the chained CPI approach. Do not confuse inflation-indexed rate brackets with inflation-indexed property basis; basis is generally not adjusted merely for inflation.",
-              "laymanExplanation": "Your paycheck could rise just because prices rose. Without updating brackets, you might pay a higher percentage even though you aren't actually better off.",
-              "legalExplanation": "The book explains statutory adjustments to brackets and standard deductions for inflation, including the chained CPI approach. Do not confuse inflation-indexed rate brackets with inflation-indexed property basis; basis is generally not adjusted merely for inflation.",
-              "page": "23–24",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 23–24",
               "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             }
           ]
