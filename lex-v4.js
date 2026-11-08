@@ -33,10 +33,10 @@ function render(){
  const c=current();if(!c)return;
  $('courses').innerHTML=db.courses.map(x=>'<button class="course-tab '+(x.id===c.id?'active':'')+'" data-course="'+escapeHTML(x.id)+'">'+escapeHTML(x.name)+'</button>').join('');
  renderSidebar();
- const titles={overview:'Course Overview',chapter:groupTitle(groupFor(topic())),section:topic()?.title||'Section',formulas:'Calculation Reference',problems:'Problem Bank',search:'Search results'};
+ const titles={overview:'Exam Outline',chapter:groupTitle(groupFor(topic())),section:topic()?.title||'Section',formulas:'Calculation Reference',problems:'Problem Bank',search:'Search results'};
  $('crumb').textContent=c.name+' / '+(titles[page]||'');
  $('title').textContent=titles[page]||'';
- $('subtitle').textContent={overview:'All the important law, arranged by chapter and topic.',chapter:'Condensed rules for the entire chapter. Click any rule to jump to the explanation.',section:'Rules first. Expand for detailed reasoning and examples.',formulas:'The formulas used throughout this course.',problems:'Unsolved assigned and practice questions.',search:'Search your courses and legal materials.'}[page];
+ $('subtitle').textContent={overview:'Roadmap → chapter → topic → rule. Expand only what you want to read.',chapter:'Condensed rules for the entire chapter. Click any rule to jump to the explanation.',section:'Rules first. Expand for detailed reasoning and examples.',formulas:'The formulas used throughout this course.',problems:'Unsolved assigned and practice questions.',search:'Search your courses and legal materials.'}[page];
  $('editSection').hidden=page!=='section';$('newEntry').hidden=page==='overview'||page==='search';$('newEntry').textContent=page==='problems'?'+ Add problem':'+ Add rule';
  if(page==='overview')renderOverview();else if(page==='chapter')renderChapter();else if(page==='section')renderSection();else if(page==='formulas')renderFormulas();else if(page==='problems')renderProblems();else renderSearch();
  updateSync();
@@ -65,23 +65,62 @@ function isBackground(e){return ['policy','context','history'].includes(e.type)}
 function isLearningConcept(e){return ['concept','framework'].includes(e.type)}
 function backgroundRows(entries,tid){if(!entries.length)return '';return '<details class="background-fold"><summary>📖 Background, context & historical development <span>'+entries.length+' notes</span></summary><div class="background-fold-body">'+entries.map(e=>lawRow(e,tid)).join('')+'</div></details>'}
 function sourceTag(e){return e.sourceRole?'<span class="source-role">'+escapeHTML(e.sourceRole)+'</span>':''}
+
+function outlineEntry(e){
+ const assigned=e.type==='case'&&e.assignedOpinion;
+ const type=assigned?'ASSIGNED CASE':kindLabel(e);
+ let more='';
+ if(assigned){
+   more+=detailPart('Rule / holding',e.rule||e.holding);
+   more+=detailPart('Facts',e.facts)+detailPart('Issue',e.issue)+detailPart('Holding',e.holding)+detailPart('Reasoning',e.reasoning)+detailPart('Exam significance',e.exam);
+ }else{
+   more+=detailPart('Elements / test',e.elements)+detailPart('Exceptions',e.exceptions);
+ }
+ if(e.examApplication)more+='<div class="exam-application"><strong>HOW TO APPLY IT</strong><p>'+escapeHTML(e.examApplication)+'</p></div>';
+ if(e.examTrap)more+='<div class="exam-trap"><strong>EXAM TRAP</strong><p>'+escapeHTML(e.examTrap)+'</p></div>';
+ if(e.details)more+='<details class="study-explanation"><summary>More explanation</summary><div class="study-explanation-body">'+detailPart('Textbook explanation',e.details)+'</div></details>';
+ more+=warningDetail(e);
+ if(e.alert)more+='<div class="notice">'+escapeHTML(e.alert)+'</div>';
+ if(e.source)more+='<p class="entry-source">Source: '+escapeHTML(e.source)+'</p>';
+ return '<details class="outline-entry" id="entry-'+escapeHTML(e.id)+'"><summary><span class="outline-entry-text"><span class="type-label label-'+kind(e)+'">'+type+'</span><strong>'+escapeHTML(e.title)+'</strong>'+warningChip(e)+'<small>'+escapeHTML(e.summary)+'</small></span><span class="outline-chevron">⌄</span></summary><div class="outline-entry-body"><button class="edit-btn outline-edit" data-edit="'+escapeHTML(e.id)+'">✎ Edit entry</button>'+more+'</div></details>';
+}
+function outlineFormula(f){
+ return '<details class="outline-entry formula-outline"><summary><span class="outline-entry-text"><span class="type-label label-formula">FORMULA</span><strong>'+escapeHTML(f.title)+'</strong><small>'+escapeHTML(f.formula)+'</small></span><span class="outline-chevron">⌄</span></summary><div class="outline-entry-body"><div class="formula-code">'+escapeHTML(f.formula)+'</div><p>'+escapeHTML(f.meaning)+'</p><details class="study-explanation"><summary>Worked illustration</summary><p>'+escapeHTML(f.worked)+'</p></details><p class="entry-source">'+escapeHTML(f.source)+'</p></div></details>';
+}
+function outlineSection(t,c,isFoundation){
+ const list=t.entries||[],required=list.filter(isExamEssential),concepts=list.filter(isLearningConcept),background=list.filter(isBackground),examples=list.filter(e=>e.type==='example');
+ const formulas=(c.formulas||[]).filter(f=>f.topicId===t.id);
+ const related=(c.problems||[]).filter(p=>p.topicId===t.id);
+ const updates=(c.updates||[]).filter(u=>u.topicId===t.id);
+ let html='<details class="outline-section" id="outline-section-'+escapeHTML(t.id)+'"><summary><span class="outline-section-title">'+escapeHTML(isFoundation?'Foundations — Key Terms':t.title)+'</span><span class="outline-meta">'+required.length+' essential items</span><span class="outline-chevron">⌄</span></summary><div class="outline-section-body">';
+ if(required.length)html+=required.map(outlineEntry).join('');
+ if(formulas.length)html+='<div class="outline-subheading">Calculations</div>'+formulas.map(outlineFormula).join('');
+ if(concepts.length)html+='<details class="outline-optional"><summary>Additional concepts <span>'+concepts.length+'</span></summary><div>'+concepts.map(outlineEntry).join('')+'</div></details>';
+ if(examples.length)html+='<details class="outline-optional"><summary>Examples <span>'+examples.length+'</span></summary><div>'+examples.map(outlineEntry).join('')+'</div></details>';
+ if(background.length)html+='<details class="outline-optional"><summary>Background, policy & history <span>'+background.length+'</span></summary><div>'+background.map(outlineEntry).join('')+'</div></details>';
+ if(updates.length){html+='<details class="outline-optional outline-updates"><summary>⚠ Current-law notes <span>'+updates.length+'</span></summary><div>';
+  for(const u of updates)html+='<div class="outline-update"><strong>'+escapeHTML(u.title)+'</strong><p>Textbook: '+escapeHTML(u.book)+'</p><p>Updated: '+escapeHTML(u.current)+'</p>'+(String(u.source||'').startsWith('https://')?'<a href="'+escapeHTML(u.source)+'" target="_blank" rel="noopener noreferrer">Source ↗</a>':'')+'</div>';
+  html+='</div></details>';
+ }
+ if(related.length)html+='<button class="outline-problems" data-page="problems" data-focus="'+escapeHTML(t.id)+'">▤ '+related.length+' unsolved practice questions →</button>';
+ if(!list.length&&!formulas.length)html+='<p class="outline-empty">Content not yet added for this topic.</p>';
+ return html+'</div></details>';
+}
 function renderOverview(){
- const c=current();let html='<div class="exam-home-intro"><strong>EXAM OUTLINE</strong><p>Rules and definitions are the priority. Select any item for its explanation, examples, and exam application. Background is optional and collapsed.</p></div>';
- if(!c.topics.some(t=>t.entries.length))html+='<div class="empty">Course material has not been added yet.</div>';
- for(const g of groups(c)){
-  const first=g[0];html+='<section class="chapter-section exam-chapter"><h2><button data-quick="'+escapeHTML(first.id)+'">'+escapeHTML(groupTitle(g))+' →</button></h2>';
-  for(const t of g){
-   const isIntro=t===first&&g.length>1&&t.title.startsWith('Chapter ');
-   html+='<div class="exam-topic"><h3><button data-section="'+escapeHTML(t.id)+'">'+escapeHTML(isIntro?'Foundations — Key Terms':t.title)+' →</button></h3>';
-   const primary=t.entries.filter(isExamEssential),learning=t.entries.filter(isLearningConcept),background=t.entries.filter(isBackground),examples=t.entries.filter(e=>e.type==='example');
-   if(primary.length)html+='<div class="law-table">'+primary.map(e=>lawRow(e,t.id)).join('')+'</div>';
-   if(learning.length)html+='<details class="concept-fold"><summary>Helpful concepts <span>'+learning.length+'</span></summary>'+learning.map(e=>lawRow(e,t.id)).join('')+'</details>';
-   html+=backgroundRows(background,t.id);
-   if(examples.length)html+='<details class="concept-fold"><summary>Examples <span>'+examples.length+'</span></summary>'+examples.map(e=>lawRow(e,t.id)).join('')+'</details>';
-   if(!t.entries.length)html+='<p class="empty">This section has not been processed yet.</p>';
-   html+='</div>';
-  }
-  html+='</section>';
+ const c=current(),chapters=groups(c);
+ let html='<div class="outline-top"><div class="outline-top-label">STUDY ROADMAP</div><div class="roadmap-track">';
+ for(let i=0;i<chapters.length;i++){
+   const ch=chapters[i],id=ch[0].chapterGroup||ch[0].id;
+   const n=ch.reduce((acc,t)=>acc+(t.entries||[]).length,0);
+   html+='<button class="roadmap-stop" data-roadmap="'+escapeHTML(id)+'"><span class="roadmap-number">'+(i+1)+'</span><span><strong>'+escapeHTML(groupTitle(ch))+'</strong><small>'+(n?n+' outline items':'Not added yet')+'</small></span><span class="roadmap-arrow">→</span></button>';
+ }
+ html+='</div><p class="roadmap-hint">Select a chapter in the roadmap, then expand only the topic or rule you want to study.</p></div>';
+ html+='<div class="outline-header"><h2>Course outline</h2><div class="outline-controls"><button data-outline-action="expand">Expand chapters</button><button data-outline-action="collapse">Collapse all</button></div></div>';
+ for(let i=0;i<chapters.length;i++){
+  const ch=chapters[i],id=ch[0].chapterGroup||ch[0].id,n=ch.reduce((acc,t)=>acc+(t.entries||[]).length,0);
+  html+='<details class="outline-chapter" id="outline-chapter-'+escapeHTML(id)+'" '+(i===0?'open':'')+'><summary><span class="chapter-index">'+String(i+1).padStart(2,'0')+'</span><span class="chapter-heading"><strong>'+escapeHTML(groupTitle(ch))+'</strong><small>'+n+' items · '+ch.length+' sections</small></span><span class="outline-chevron">⌄</span></summary><div class="outline-chapter-body">';
+  for(const t of ch)html+=outlineSection(t,c,t===ch[0]&&ch.length>1&&t.title.startsWith('Chapter '));
+  html+='</div></details>';
  }
  $('body').innerHTML=html;
 }
@@ -196,7 +235,7 @@ function exportBackup(){let b=new Blob([JSON.stringify(db,null,2)],{type:'applic
 function loadBackup(e){const f=e.target.files?.[0];e.target.value='';if(!f)return;f.text().then(s=>{let data=JSON.parse(s);if(!valid(data))throw Error('Invalid backup');if(!confirm('Merge this backup with your current content?'))return;pending.push({kind:'merge',data});db=overlay(db,[{kind:'merge',data}]);save();render();note('Backup merged; publish when ready.')}).catch(err=>note('Import failed: '+err.message))}
 $('courses').onclick=e=>{let x=e.target.closest('[data-course]');if(x)chooseCourse(x.dataset.course)};
 $('outline').onclick=e=>{let x=e.target.closest('button');if(!x)return;if(x.dataset.page)openPage(x.dataset.page);else if(x.dataset.quick){sectionId=x.dataset.quick;openPage('chapter')}else if(x.dataset.chapter){const t=current().topics.find(t=>t.id===x.dataset.chapter);const id=t.chapterGroup||t.id;if(showChapter.has(id))showChapter.delete(id);else showChapter.add(id);sectionId=t.id;render()}else if(x.dataset.section)openPage('section',x.dataset.section)};
-$('body').onclick=e=>{let x=e.target.closest('button');if(!x)return;if(x.dataset.entry){openPage('section',x.dataset.topic);jump(x.dataset.entry)}else if(x.dataset.scroll)jump(x.dataset.scroll);else if(x.dataset.scrollGroup)document.getElementById('group-'+x.dataset.scrollGroup)?.scrollIntoView({behavior:'smooth',block:'start'});else if(x.dataset.section)openPage('section',x.dataset.section);else if(x.dataset.quick)openPage('chapter',x.dataset.quick);else if(x.dataset.edit)editor('entry',x.dataset.edit);else if(x.dataset.editProblem)editor('problem',x.dataset.editProblem);else if(x.dataset.page){problemFilter=x.dataset.focus||'all';openPage(x.dataset.page)}else if(x.dataset.searchEntry){courseId=x.dataset.searchCourse;sectionId=x.dataset.searchSection;openPage('section');jump(x.dataset.searchEntry)}};
+$('body').onclick=e=>{let x=e.target.closest('button');if(!x)return;if(x.dataset.roadmap){const el=document.getElementById('outline-chapter-'+x.dataset.roadmap);if(el){el.open=true;el.scrollIntoView({behavior:'smooth',block:'start'})}}else if(x.dataset.outlineAction){const target=x.dataset.outlineAction==='expand';document.querySelectorAll('.outline-chapter').forEach(el=>el.open=target);if(!target)document.querySelectorAll('.outline-section,.outline-entry,.outline-optional').forEach(el=>el.open=false)}else if(x.dataset.entry){openPage('section',x.dataset.topic);jump(x.dataset.entry)}else if(x.dataset.scroll)jump(x.dataset.scroll);else if(x.dataset.scrollGroup)document.getElementById('group-'+x.dataset.scrollGroup)?.scrollIntoView({behavior:'smooth',block:'start'});else if(x.dataset.section)openPage('section',x.dataset.section);else if(x.dataset.quick)openPage('chapter',x.dataset.quick);else if(x.dataset.edit)editor('entry',x.dataset.edit);else if(x.dataset.editProblem)editor('problem',x.dataset.editProblem);else if(x.dataset.page){problemFilter=x.dataset.focus||'all';openPage(x.dataset.page)}else if(x.dataset.searchEntry){courseId=x.dataset.searchCourse;sectionId=x.dataset.searchSection;openPage('section');jump(x.dataset.searchEntry)}};
 $('body').onchange=e=>{const x=e.target;if(x.id==='problemFilter'){problemFilter=x.value;renderProblems()}else if(x.dataset.problemStatus){let p=current().problems.find(p=>p.id===x.dataset.problemStatus);if(p){p.status=x.value;record({kind:'problemStatus',cid:courseId,id:p.id,status:p.status})}}};
 $('search').oninput=e=>{search=e.target.value;page='search';render()};
 $('editSection').onclick=()=>editor('topic',sectionId);
