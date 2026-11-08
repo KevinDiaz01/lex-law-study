@@ -3738,8 +3738,8 @@
         {
           "id": "tax-ch3-b-gifts",
           "chapterGroup": "tax-ch3",
-          "title": "B. Gifts — §102 and United States v. Harris",
-          "description": "Syllabus handout, Chapter 3, The Private Sphere and the Public Sphere, pp. 154–161. Only the supplied Gifts excerpt is incorporated; other Chapter 3 sections have not been provided.",
+          "title": "B. Gifts — §102 and Commissioner v. Duberstein",
+          "description": "The textbook's Week 3 pp.119–134, plus separately assigned Harris opinion (pp.154–161) kept distinct.",
           "entries": [
             {
               "id": "tax3-gift-rule",
@@ -3763,7 +3763,7 @@
               "page": "155, 157, 159",
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 155, 157, 159.",
               "examApplication": "Look to correspondence, conduct, returns, relationship circumstances, timing, and whether transfers were tied to particular services. A donor's gift-tax return is relevant but may not settle intent.",
-              "examTrap": "Duberstein is CITED within the reproduced Harris opinion; no separate Duberstein opinion was supplied in this handout, so it is supporting authority here—not a separate assigned case brief.",
+              "examTrap": "Duberstein now has a dedicated assigned case brief because the Court's opinion is reproduced in Week 3 pp123–129. Under Duberstein, a gift turns on donor motive—not simply labels.",
               "laymanExplanation": "To decide whether something is a gift, ask what the person giving it meant to do. Were they being generous, or paying for something?"
             },
             {
@@ -3840,9 +3840,10 @@
               "rule": "The §102(a) gift inquiry focuses on the transferor's motive under Duberstein; ambiguous civil tax classifications and failures to prove knowledge of a known duty can defeat criminal willfulness. Harris does not conclusively exempt all personal-relationship transfers from civil income tax.",
               "exam": "When facing gifts-versus-income questions, analyze donor motive and any quid pro quo. If the hypothetical asks for criminal liability, separately analyze proof of willfulness and clarity of the legal duty. Do not equate absence of criminal liability with a holding that the amount was necessarily a civil-tax gift.",
               "examApplication": "A wealthy individual gives recurring money and jewelry to a longtime romantic partner. Assess affection, potential payment for services, donor statements and gift returns. Then, if the recipient failed to file a return, explain why the government must independently show a known tax duty and intentional violation.",
-              "examTrap": "The court vacated criminal convictions; it did not decide the broad civil question that all such transfers are gifts. Duberstein is a cited case, not a separately reproduced case opinion in this upload.",
+              "examTrap": "Harris reversed criminal convictions, not all potential civil tax liabilities. Pair with assigned Duberstein (pp123–129) and §102(c) when relevant.",
               "sourceRole": "Dedicated assigned-case brief based on the reproduced judicial opinion in the handout.",
-              "laymanExplanation": "Two women received substantial money from a wealthy man. The court threw out their criminal tax convictions because the government had not adequately shown the necessary criminal tax violations; it did not say every romantic gift is tax-free."
+              "laymanExplanation": "Two women received substantial money from a wealthy man. The court threw out their criminal tax convictions because the government had not adequately shown the necessary criminal tax violations; it did not say every romantic gift is tax-free.",
+              "sourceWeek": "Week 3 — separate Harris opinion handout pp154–161."
             },
             {
               "id": "tax3-flaum",
@@ -3862,11 +3863,208 @@
               "details": "The first handout page (printed p. 154) includes a question about whether §83 changes analysis of a business-motivated transfer. This is a prompt and supporting reference, not an assigned judicial opinion or a developed §83 treatment in the excerpt.",
               "page": "154",
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154."
+            },
+            {
+              "id": "tax3-w3-gifts102",
+              "type": "rule",
+              "title": "IRC §102(a) — recipient exclusion for genuine gifts and bequests",
+              "summary": "Property acquired by gift, bequest, devise or inheritance is generally excluded from the recipient's income.",
+              "laymanExplanation": "If your parent gives you a real present out of love, you normally do not pay income tax just for receiving it.",
+              "legalExplanation": "§102(a) excludes qualifying gifts and inheritances. However, §102 does not turn compensation into a gift merely by label. The casebook contrasts Donna giving Edward $30,000 as a gift (recipient excludes, donor no deduction) with wages for personal services. Gift-tax matters are separate.",
+              "details": "§102(a) excludes qualifying gifts and inheritances. However, §102 does not turn compensation into a gift merely by label. The casebook contrasts Donna giving Edward $30,000 as a gift (recipient excludes, donor no deduction) with wages for personal services. Gift-tax matters are separate.",
+              "page": "120–123",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 120–123",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134",
+              "examApplication": "Donna earns $100,000, gives adult son Edward $30,000 out of affection. She has no ordinary personal deduction, and Edward excludes the gift."
+            },
+            {
+              "id": "tax3-w3-donor-intent",
+              "type": "definition",
+              "title": "Detached and disinterested generosity / donor's motive",
+              "summary": "The giver's purpose is the central inquiry: generosity and affection favor gift status; expected business return or compensation weighs against.",
+              "laymanExplanation": "A Cadillac called a present may really be payment if it rewards someone for profitable customer leads.",
+              "legalExplanation": "Duberstein applies §102's colloquial gift concept to total factual circumstances. Detached/disinterested refers to absence of a commercial exchange, not the donor's indifference. No rigid test substitutes for determining the transferor's intention.",
+              "details": "Duberstein applies §102's colloquial gift concept to total factual circumstances. Detached/disinterested refers to absence of a commercial exchange, not the donor's indifference. No rigid test substitutes for determining the transferor's intention.",
+              "page": "123–130",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 123–130",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-duberstein-rule",
+              "type": "rule",
+              "title": "Duberstein — gift is a fact-sensitive classification",
+              "summary": "Gift status under §102 is determined from the overall facts and the transferor's motivation, not merely voluntariness, wording, or formal obligations.",
+              "laymanExplanation": "Someone can willingly hand you money and still be paying for a job you did.",
+              "legalExplanation": "A gift need not follow a legal obligation, but absence of legal duty is not conclusive. The donor's intended economic benefit, the recipient's services, contemporaneous correspondence, business deductibility, and surrounding relationships matter. Appellate review generally respects factual findings absent clear error.",
+              "details": "A gift need not follow a legal obligation, but absence of legal duty is not conclusive. The donor's intended economic benefit, the recipient's services, contemporaneous correspondence, business deductibility, and surrounding relationships matter. Appellate review generally respects factual findings absent clear error.",
+              "page": "123–129",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 123–129",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-employeegifts",
+              "type": "rule",
+              "title": "IRC §102(c) — employer transfers to employees",
+              "summary": "An employer's transfer to or for the benefit of an employee generally cannot qualify for the §102(a) gift exclusion.",
+              "laymanExplanation": "A company generally cannot make your bonus tax-free just by saying it is a gift.",
+              "legalExplanation": "The 1986 statutory enactment of §102(c) generally overrode the historical Stanton outcome from the consolidated Duberstein case. Specific other exclusions, such as qualifying §74(c) achievement awards, may apply.",
+              "details": "The 1986 statutory enactment of §102(c) generally overrode the historical Stanton outcome from the consolidated Duberstein case. Specific other exclusions, such as qualifying §74(c) achievement awards, may apply.",
+              "page": "129–130",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 129–130",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134",
+              "legalWarning": {
+                "status": "superseded",
+                "label": "STANTON RULE SUPERSEDED",
+                "reason": "Congress added §102(c) in 1986 and generally disallowed employer-to-employee gift exclusion, unlike the historical outcome following remand.",
+                "authority": "IRC §102(c)"
+              },
+              "examTrap": "Do not use Stanton's 1960-era treatment as present-day law for employer bonuses."
+            },
+            {
+              "id": "tax3-w3-tips",
+              "type": "rule",
+              "title": "Tips and service-related gratuities are taxable",
+              "summary": "Ordinary gratuities received for services are compensation under §61 and Reg. §1.61-2(a)(1).",
+              "laymanExplanation": "A waiter getting a tip has earned money even if a customer gives it voluntarily.",
+              "legalExplanation": "The casebook discusses restaurant tips, clergyman marriage fees and casino gaming gratuities. The referenced McCormick and Olk decisions appear only as citations; they are not independently reproduced opinions.",
+              "details": "The casebook discusses restaurant tips, clergyman marriage fees and casino gaming gratuities. The referenced McCormick and Olk decisions appear only as citations; they are not independently reproduced opinions.",
+              "page": "131",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 131",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-prizes",
+              "type": "rule",
+              "title": "IRC §74 — prizes and awards",
+              "summary": "Most prizes and awards are gross income unless a specific statutory exception is satisfied.",
+              "laymanExplanation": "Winning a car or cash in a contest is normally taxable.",
+              "legalExplanation": "§74 includes prizes and awards, with statutory exceptions for certain qualifying donated prizes, and eligible employee achievement awards under §74(c). The receiving taxpayer must establish the conditions for an applicable exception.",
+              "details": "§74 includes prizes and awards, with statutory exceptions for certain qualifying donated prizes, and eligible employee achievement awards under §74(c). The receiving taxpayer must establish the conditions for an applicable exception.",
+              "page": "131",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 131",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-scholarships",
+              "type": "rule",
+              "title": "IRC §117 — qualified scholarship amounts",
+              "summary": "Qualified scholarship funds for degree candidates used for tuition, mandatory fees and required educational materials can be excluded, but service compensation is generally taxable.",
+              "laymanExplanation": "A tuition scholarship may be tax-free; pay for teaching or research is usually taxable compensation.",
+              "legalExplanation": "§117's statutory scholarship exclusion is limited to specified educational costs for eligible degree candidates. Amounts received as consideration for services (subject to exceptions elsewhere in statute) are generally not excluded by §117.",
+              "details": "§117's statutory scholarship exclusion is limited to specified educational costs for eligible degree candidates. Amounts received as consideration for services (subject to exceptions elsewhere in statute) are generally not excluded by §117.",
+              "page": "131–132",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 131–132",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-bequest",
+              "type": "rule",
+              "title": "Bequests versus payment for prior services",
+              "summary": "A true inheritance is ordinarily excluded; testamentary property promised as consideration for services can be taxable income.",
+              "laymanExplanation": "If a lawyer works for free in exchange for a promise of money in a will, the later will payment can be taxable compensation.",
+              "legalExplanation": "The casebook contrasts Wolder (contractually promised bequest for services treated as income), McDonald (appreciation bequest excludable) and Lyeth (will contest proceeds deemed bequest). Those are supporting references only; no separate opinions reproduced in assigned pp111–134.",
+              "details": "The casebook contrasts Wolder (contractually promised bequest for services treated as income), McDonald (appreciation bequest excludable) and Lyeth (will contest proceeds deemed bequest). Those are supporting references only; no separate opinions reproduced in assigned pp111–134.",
+              "page": "132",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 132",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-welfare",
+              "type": "definition",
+              "title": "General welfare exclusion",
+              "summary": "Some need-based welfare, disaster and victim-relief benefits are administratively treated as outside gross income.",
+              "laymanExplanation": "Certain government aid payments do not go on your income-tax return even though they give you cash or help.",
+              "legalExplanation": "The source contrasts general-welfare administrative treatment of qualifying relief with unemployment benefits now included under §85. TANF assistance with work requirements can raise characterization issues, and IRS Notice 99-3 states conditions under which TANF assistance remains welfare rather than wages.",
+              "details": "The source contrasts general-welfare administrative treatment of qualifying relief with unemployment benefits now included under §85. TANF assistance with work requirements can raise characterization issues, and IRS Notice 99-3 states conditions under which TANF assistance remains welfare rather than wages.",
+              "page": "132–133",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 132–133",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-unemployment",
+              "type": "rule",
+              "title": "IRC §85 — unemployment compensation",
+              "summary": "Unemployment benefits are generally taxable income under §85 absent a specific tax-year exception.",
+              "laymanExplanation": "Unlike some welfare payments, unemployment checks normally go in taxable income.",
+              "legalExplanation": "The casebook notes an exceptional temporary 2020 COVID-era exclusion; current general treatment is inclusion under §85 rather than a §102 gift.",
+              "details": "The casebook notes an exceptional temporary 2020 COVID-era exclusion; current general treatment is inclusion under §85 rather than a §102 gift.",
+              "page": "132–133",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 132–133",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-socialsecurity",
+              "type": "rule",
+              "title": "IRC §86 — taxable portion of Social Security benefits",
+              "summary": "Depending on combined income, zero to 85% of Social Security benefits can be included in gross income.",
+              "laymanExplanation": "A person receiving Social Security may owe tax on part of those benefits, not on all of them in every case.",
+              "legalExplanation": "The casebook outlines a statutory combined-income analysis using AGI, tax-exempt interest and one-half of benefits, with joint-filer threshold amounts $32,000 and $44,000. The full piecewise formula is in §86, and the 85% figure is a maximum portion included, not the rate charged on those benefits.",
+              "details": "The casebook outlines a statutory combined-income analysis using AGI, tax-exempt interest and one-half of benefits, with joint-filer threshold amounts $32,000 and $44,000. The full piecewise formula is in §86, and the 85% figure is a maximum portion included, not the rate charged on those benefits.",
+              "page": "133–134",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 133–134",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134",
+              "examTrap": "85% inclusion is NOT an 85% tax rate; the actual rate depends on taxable-income brackets."
+            },
+            {
+              "id": "tax3-w3-donee-donor",
+              "type": "definition",
+              "title": "Donor versus donee income tax consequences",
+              "summary": "The donor's tax and deduction are separate from the donee's gift exclusion.",
+              "laymanExplanation": "When someone gives their adult child $30,000 as a true gift, neither a tax deduction for the parent nor income for the child automatically results.",
+              "legalExplanation": "In the source's Donna–Edward example, Donna still has $100,000 of earned income with no personal deduction for a $30,000 transfer, while Edward excludes the $30,000 under §102. This is distinct from transfer tax considerations.",
+              "details": "In the source's Donna–Edward example, Donna still has $100,000 of earned income with no personal deduction for a $30,000 transfer, while Edward excludes the $30,000 under §102. This is distinct from transfer tax considerations.",
+              "page": "121–123",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 121–123",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-businessgift",
+              "type": "definition",
+              "title": "Business gift versus compensation",
+              "summary": "A business-motivated transfer can be a genuine gift, but payment intended to reward or induce services is normally income.",
+              "laymanExplanation": "A store might send a thank-you present, but paying someone for new customers is compensation even if it comes wrapped as a gift.",
+              "legalExplanation": "Under Duberstein, business purpose, deduction, and corporate identity are evidence but not automatic legal bars to §102. The notes discuss §274(b)'s $25 business-gift deduction cap as a separate, payor-side rule.",
+              "details": "Under Duberstein, business purpose, deduction, and corporate identity are evidence but not automatic legal bars to §102. The notes discuss §274(b)'s $25 business-gift deduction cap as a separate, payor-side rule.",
+              "page": "126–131",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 126–131",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-policygift",
+              "type": "context",
+              "title": "Why the Code excludes gifts despite economic enrichment",
+              "summary": "Privacy, family unit treatment, and administrative burden motivate gift exclusions.",
+              "laymanExplanation": "Gifts make people richer, but checking every birthday gift would be intrusive and impractical.",
+              "legalExplanation": "The source contrasts Haig–Simons broad economic income with §102's statutory exclusion and debates alternatives that might tax the recipient, allow donor deduction, both or neither.",
+              "details": "The source contrasts Haig–Simons broad economic income with §102's statutory exclusion and debates alternatives that might tax the recipient, allow donor deduction, both or neither.",
+              "page": "119–123",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 3 pp. 119–123",
+              "sourceRole": "Syllabus-assigned Chapter 3, pp111–134"
+            },
+            {
+              "id": "tax3-w3-case-duberstein",
+              "type": "case",
+              "assignedOpinion": true,
+              "title": "Commissioner v. Duberstein (with Stanton v. United States)",
+              "citation": "363 U.S. 278 (1960)",
+              "page": "123–129",
+              "summary": "The Supreme Court sustained the Tax Court's finding that Duberstein's Cadillac was business remuneration, and remanded Stanton for clearer factfinding.",
+              "laymanExplanation": "A businessman got a Cadillac after sending useful leads to another business. The Court said calling it a gift wasn't enough. Another payment called a 'gratuity' needed clearer factfinding.",
+              "facts": "Duberstein gave business acquaintance Berman information about possible customers. Berman insisted on gifting a Cadillac to thank him; the donor's company treated it as a business deduction. Duberstein said he never intended compensation. Separately, a church-related corporation awarded departing employee Stanton a $20,000 payment called a gratuity in appreciation of his years of service; the trial court made only a conclusory gift finding.",
+              "issue": "What makes a transfer a 'gift' excluded by §102(a), and how should appellate courts review trial-level findings about motive?",
+              "holding": "Duberstein: The Supreme Court reversed the Sixth Circuit and reinstated the Tax Court's permissible factual determination that the Cadillac was payment for business services, not a gift. Stanton: The Second Circuit judgment was vacated and the matter remanded for adequate findings; the Supreme Court did not hold categorically that his gratuity was a gift.",
+              "reasoning": "The statutory gift concept relies on the transferor's dominant purpose, not simply voluntariness or lack of duty. Detached/disinterested generosity suggests gift; remuneration or hoped-for economic benefit suggests income. Business deduction and corporate status matter but are not conclusive. The decision largely places the question with the factfinder, with limited appellate reversal for clear error.",
+              "rule": "For §102(a), examine the transferor's actual intention and whole factual record: affection or detached generosity versus anticipated business benefit or services. Neither labels nor voluntary payment decide by themselves.",
+              "exam": "Analyze donor intent, services, quid pro quo, reimbursement, business records, and the limits on appellate factual review. Apply §102(c) separately for post-1986 employer-to-employee transfers.",
+              "examApplication": "A supplier sends a car to a consultant who found customers for the supplier. Assess business motives despite references to a gift; if employment relationship exists, add §102(c).",
+              "examTrap": "The Court did not announce all corporate transfers are income or all personal transfers are gifts. Stanton's historical ultimate classification is limited by later §102(c).",
+              "source": "Bankman et al., 19th ed., reproduced Supreme Court opinion, assigned Week 3 printed pp.123–129.",
+              "sourceRole": "Opinion reproduced in syllabus-assigned textbook excerpt — dedicated case brief."
             }
           ],
           "studyWeek": "Week 3",
-          "assignedPages": "Separately assigned Harris opinion handout (printed pp.111–134)",
-          "assignmentSource": "Week 3 — Harris opinion handout; not an authorization to extract full textbook pp.111–134."
+          "assignedPages": "119–134; Harris separate handout",
+          "assignmentSource": "Week 3 syllabus: Chapter 3 pp111–134 + assigned Harris handout"
         },
         {
           "id": "tax-ch3-a-value",
