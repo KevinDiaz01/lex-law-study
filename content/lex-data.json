@@ -532,6 +532,13 @@
           "current": "Beginning with amounts paid or incurred after 2025, §274(o) generally disallows specified employer deductions for §119 meals, subject to exceptions. Do not confuse employer deduction with employee §119 exclusion.",
           "source": "https://uscode.house.gov/us/usc/119-121/t26/s274/",
           "topicId": "tax-ch2-c"
+        },
+        {
+          "title": "Post-Gaylor Establishment Clause methodology",
+          "book": "The separately supplied 2019 Gaylor opinion analyzes §107(2) using contemporaneous Lemon-related Establishment Clause doctrine.",
+          "current": "Kennedy v. Bremerton (2022) rejected the Lemon/endorsement approach in favor of historical practices and understandings. The §107(2) statutory exclusion and Gaylor's ultimate result should not be conflated with the historical test it applied.",
+          "source": "https://www.law.cornell.edu/supremecourt/text/21-418",
+          "topicId": "tax-ch2-c"
         }
       ],
       "topics": [
@@ -1157,44 +1164,6 @@
           ]
         },
         {
-          "id": "tax-ch2-gross-income",
-          "title": "Chapter 2 — Gross Income: § 61 and Glenshaw Glass",
-          "chapterGroup": "tax-ch2",
-          "description": "Casebook opinion excerpt supplied by the student (pp. 40–42). This is not a substitute for unseen Chapter 2 pages.",
-          "pages": "40–42 (provided excerpt)",
-          "entries": [
-            {
-              "id": "tax-ch2-rule-61",
-              "type": "rule",
-              "title": "Gross income — punitive damages",
-              "summary": "Punitive damage recoveries are generally included in gross income under the broad statutory definition of income, absent an applicable exclusion.",
-              "details": "The Court read § 22(a) of the 1939 Code (predecessor of § 61) broadly: Congress did not restrict gross income to earnings from productive labor, capital, or conventional transactions.",
-              "source": "Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955), excerpt supplied, pp. 40–42",
-              "examApplication": "Determine whether the receipt represents a realized accession to wealth subject to the taxpayer's control. Punitive nature alone is not an exclusion.",
-              "examTrap": "Do not treat punitive damages as automatically untaxed windfalls."
-            },
-            {
-              "id": "tax-ch2-case-glenshaw",
-              "type": "case",
-              "assignedOpinion": true,
-              "title": "Commissioner v. Glenshaw Glass Co.",
-              "page": "40–42",
-              "citation": "348 U.S. 426 (1955)",
-              "summary": "The Supreme Court held that punitive damages recovered in litigation constitute gross income under the broad federal income-tax statute.",
-              "facts": "Glenshaw Glass received a settlement from Hartford-Empire; $324,529.94 was allocated to punitive damages for fraud and antitrust violations, which Glenshaw did not report as income. In the consolidated Goldman Theatres matter, a treble-damages award totaled $375,000: Goldman reported only the $125,000 compensatory portion, excluding the $250,000 punitive balance. The Tax Court and Third Circuit sided with the taxpayers.",
-              "issue": "Are punitive damages for fraud or antitrust violations taxable as gross income under § 22(a) of the 1939 Code, predecessor of § 61?",
-              "holding": "Yes. Punitive damages are gross income. The Supreme Court reversed the favorable decisions below.",
-              "reasoning": "Congress used expansive language — income from whatever source derived — to tax gains unless specifically excluded. Punitive payments are undeniable accessions to wealth, clearly realized, and under the taxpayers' complete dominion. Their punitive source does not alter their status as income. The Court rejected using the narrower Eisner v. Macomber phrasing as a universal test for gross income because that case addressed whether a stock dividend was a realized gain.",
-              "rule": "Undeniable accessions to wealth, clearly realized, and over which taxpayers have complete dominion, generally fall within gross income unless a specific exclusion applies.",
-              "exam": "For unfamiliar receipts, analyze the breadth of § 61 and the Glenshaw Glass accession-to-wealth formulation; separately assess any applicable exclusion. Do not infer that punitive damages are excluded simply because they punish wrongdoing.",
-              "examApplication": "Hypothetical: A business receives $125,000 to compensate lost profit and $250,000 in punitive antitrust damages. Under the opinion's statutory construction, both amounts fall within gross income, absent an applicable exclusion.",
-              "examTrap": "The Court did not hold that every transfer or increase in asset value is necessarily taxable at once; realization and exclusions still matter.",
-              "source": "User-provided reproduced opinion, Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955), pp. 40–42. Case brief summarizes only the supplied excerpt.",
-              "sourceRole": "Reproduced judicial opinion supplied by user — dedicated assigned case brief."
-            }
-          ]
-        },
-        {
           "id": "tax-ch2-a",
           "title": "A. Why Tax Income?",
           "description": "Ability-to-pay rationale and competing tax bases.",
@@ -1366,6 +1335,35 @@
                 "reason": "Glenshaw Glass rejected treating Macomber's phrase as a universal definition of gross income.",
                 "authority": "Commissioner v. Glenshaw Glass, 348 U.S. 426 (1955)"
               }
+            },
+            {
+              "id": "tax-ch2-rule-61",
+              "type": "rule",
+              "title": "Gross income — punitive damages",
+              "summary": "Punitive damage recoveries are generally included in gross income under the broad statutory definition of income, absent an applicable exclusion.",
+              "details": "The Court read § 22(a) of the 1939 Code (predecessor of § 61) broadly: Congress did not restrict gross income to earnings from productive labor, capital, or conventional transactions.",
+              "source": "Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955), excerpt supplied, pp. 40–42",
+              "examApplication": "Determine whether the receipt represents a realized accession to wealth subject to the taxpayer's control. Punitive nature alone is not an exclusion.",
+              "examTrap": "Do not treat punitive damages as automatically untaxed windfalls."
+            },
+            {
+              "id": "tax-ch2-case-glenshaw",
+              "type": "case",
+              "assignedOpinion": true,
+              "title": "Commissioner v. Glenshaw Glass Co.",
+              "page": "40–42",
+              "citation": "348 U.S. 426 (1955)",
+              "summary": "The Supreme Court held that punitive damages recovered in litigation constitute gross income under the broad federal income-tax statute.",
+              "facts": "Glenshaw Glass received a settlement from Hartford-Empire; $324,529.94 was allocated to punitive damages for fraud and antitrust violations, which Glenshaw did not report as income. In the consolidated Goldman Theatres matter, a treble-damages award totaled $375,000: Goldman reported only the $125,000 compensatory portion, excluding the $250,000 punitive balance. The Tax Court and Third Circuit sided with the taxpayers.",
+              "issue": "Are punitive damages for fraud or antitrust violations taxable as gross income under § 22(a) of the 1939 Code, predecessor of § 61?",
+              "holding": "Yes. Punitive damages are gross income. The Supreme Court reversed the favorable decisions below.",
+              "reasoning": "Congress used expansive language — income from whatever source derived — to tax gains unless specifically excluded. Punitive payments are undeniable accessions to wealth, clearly realized, and under the taxpayers' complete dominion. Their punitive source does not alter their status as income. The Court rejected using the narrower Eisner v. Macomber phrasing as a universal test for gross income because that case addressed whether a stock dividend was a realized gain.",
+              "rule": "Undeniable accessions to wealth, clearly realized, and over which taxpayers have complete dominion, generally fall within gross income unless a specific exclusion applies.",
+              "exam": "For unfamiliar receipts, analyze the breadth of § 61 and the Glenshaw Glass accession-to-wealth formulation; separately assess any applicable exclusion. Do not infer that punitive damages are excluded simply because they punish wrongdoing.",
+              "examApplication": "Hypothetical: A business receives $125,000 to compensate lost profit and $250,000 in punitive antitrust damages. Under the opinion's statutory construction, both amounts fall within gross income, absent an applicable exclusion.",
+              "examTrap": "The Court did not hold that every transfer or increase in asset value is necessarily taxable at once; realization and exclusions still matter.",
+              "source": "User-provided reproduced opinion, Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955), pp. 40–42. Case brief summarizes only the supplied excerpt.",
+              "sourceRole": "Reproduced judicial opinion supplied by user — dedicated assigned case brief."
             }
           ]
         },
@@ -1592,6 +1590,44 @@
               "details": "Google employer meals, frequent flyer miles, business entertainment, and valuation debates are optional policy context.",
               "page": "54",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 54"
+            },
+            {
+              "id": "tax2-c16",
+              "type": "rule",
+              "title": "IRC §107 — Ministers' housing exclusion",
+              "summary": "Qualifying ministers may exclude specified employer-furnished parsonage rental value or eligible housing allowance, within statutory limits.",
+              "details": "§107(1) excludes the rental value of a furnished parsonage provided as compensation. §107(2) excludes a qualifying designated housing allowance used for the home, limited by fair rental value including furnishings, related property and utilities. IRS guidance also limits allowance exclusion to the amount designated in advance and actually spent. Housing allowance generally remains subject to self-employment tax.",
+              "page": "Supplemental opinion",
+              "source": "IRC §107; IRS Ministers' Compensation and Housing Allowance FAQ; Gaylor v. Mnuchin (assigned PDF)",
+              "elements": "Compare the housing allowance officially designated in advance, the amount actually used to provide a home, and the home's fair rental value with furnishings and utilities; subject to qualifications.",
+              "examTrap": "Distinguish income-tax exclusion from self-employment tax treatment and §107(1) furnished housing from §107(2) cash allowances."
+            },
+            {
+              "id": "tax2-case-gaylor",
+              "type": "case",
+              "assignedOpinion": true,
+              "title": "Gaylor v. Mnuchin",
+              "citation": "919 F.3d 420 (7th Cir. 2019)",
+              "summary": "The Seventh Circuit held §107(2)'s clergy housing-allowance exclusion did not violate the Establishment Clause, reversing the district court.",
+              "facts": "Freedom From Religion Foundation employees and their organization challenged the income-tax exclusion for qualifying clergy housing allowances under IRC §107(2). A district court ruled the exemption unconstitutional; the government and religious organizations appealed.",
+              "issue": "Did §107(2)'s tax exclusion for clergy housing allowances violate the First Amendment's Establishment Clause, and did the challengers have standing?",
+              "holding": "The plaintiffs had standing, but §107(2) did not violate the Establishment Clause. The Seventh Circuit reversed the district court's judgment.",
+              "reasoning": "The court examined the historical tradition of religious tax accommodations, comparable housing exclusions in the Code, secular administrative convenience, denominational neutrality, and avoiding excessive entanglement. Applying then-prevailing Establishment Clause reasoning, including Lemon-related analysis and historical practices, it found the exemption constitutionally permissible.",
+              "rule": "A legislative tax accommodation for religious housing does not inherently violate the Establishment Clause; Gaylor upheld §107(2) based on its statutory context, religious neutrality, and historical practice.",
+              "exam": "If challenged tax exclusion for clergy housing, identify §107(2), address standing, apply constitutional limits and distinguish the Seventh Circuit's holding from later Supreme Court changes to Establishment Clause methodology.",
+              "examApplication": "Analyze whether a qualified minister's designated housing allowance is excluded under §107(2) and, separately, whether the statute itself survives Establishment Clause scrutiny.",
+              "examTrap": "Gaylor remains an important decision, but do not apply the old Lemon test as the current governing Establishment Clause framework following Kennedy v. Bremerton (2022).",
+              "details": "This opinion was provided separately as an 18-page Federal Reporter PDF. Its excerpt includes the Federal Reporter headnotes and surrounding cases; the dedicated brief is only for Gaylor v. Mnuchin, not adjacent cases printed on the same pages.",
+              "source": "User-supplied Gaylor opinion (1).pdf, 919 F.3d 420–437 (7th Cir. 2019)",
+              "sourceRole": "Reproduced assigned judicial opinion supplied as a separate PDF",
+              "page": "PDF pp. 1–18",
+              "legalWarning": {
+                "status": "historical-caution",
+                "label": "METHOD UPDATED AFTER 2019",
+                "reason": "Gaylor's result upholding §107(2) should be distinguished from its use of Lemon-era Establishment Clause analysis. Kennedy v. Bremerton School District (2022) stated that courts should use historical practices and understandings instead of Lemon and the endorsement test.",
+                "authority": "Kennedy v. Bremerton Sch. Dist., 597 U.S. 507 (2022)",
+                "url": "https://www.law.cornell.edu/supremecourt/text/21-418"
+              }
             }
           ]
         },
