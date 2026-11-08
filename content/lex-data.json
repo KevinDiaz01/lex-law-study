@@ -874,6 +874,16 @@
           "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 101–102 (paraphrased for concise practice; not answered)",
           "status": "Not attempted",
           "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-mckenney-clark",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "Clark vs. McKenney — tax malpractice settlement",
+          "prompt": "Compare an accountant's reimbursement of taxes that a taxpayer truly overpaid because of a filing mistake (Clark) with an $800,000 malpractice settlement following taxes owed on an ESOP arrangement the taxpayers actually entered (government's McKenney brief). What was the government's theory of inclusion? Which facts matter for distinguishing the sources, and why is the 2018 document not a court holding? Do not assume the party's position necessarily prevailed.",
+          "source": "Assigned 'McKenny brief handout (1).pdf' (PDF pp. 2–5) and previously assigned Clark opinion; unsolved synthesis question.",
+          "status": "Not attempted",
+          "kind": "Syllabus handout comparison — unsolved"
         }
       ],
       "updates": [
@@ -939,6 +949,13 @@
           "current": "Kennedy v. Bremerton (2022) rejected the Lemon/endorsement approach in favor of historical practices and understandings. The §107(2) statutory exclusion and Gaylor's ultimate result should not be conflated with the historical test it applied.",
           "source": "https://www.law.cornell.edu/supremecourt/text/21-418",
           "topicId": "tax-ch2-c"
+        },
+        {
+          "title": "Outcome after the assigned 2018 McKenney government brief (independently verified)",
+          "book": "Assigned five-page handout: government's Sept. 6, 2018 opening appeal brief arguing the accountants' $800,000 settlement should be taxable. The handout does not include the court's opinion.",
+          "current": "The Eleventh Circuit's Sept. 1, 2020 opinion reversed summary judgment for the taxpayers on exclusion of the $800,000. Assuming without deciding that Clark was correctly decided and could apply to transaction-structuring malpractice, the taxpayers failed to prove entitlement to an exclusion or its amount. This is supplemental research, NOT part of the attached 2018 advocacy excerpt.",
+          "source": "https://law.justia.com/cases/federal/appellate-courts/ca11/18-10810/18-10810-2020-09-01.html",
+          "topicId": "tax-ch2-d"
         }
       ],
       "topics": [
@@ -2157,7 +2174,7 @@
               "type": "case",
               "title": "Clark v. Commissioner",
               "summary": "The Board ruled for the taxpayer: the $19,941.10 reimbursement compensated for a loss rather than yielding taxable income.",
-              "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.",
+              "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.\n\nRelated syllabus handout: The government's 2018 McKenney appellate brief distinguishes Clark's unnecessary tax overpayment from reimbursement of legally owed tax. The 2020 Eleventh Circuit opinion is separately identified as follow-up research; do not confuse the brief with a court opinion.",
               "page": "74–75",
               "source": "Clark v. Commissioner, 40 B.T.A. 333 (1939), assigned excerpt pp. 74–75",
               "assignedOpinion": true,
@@ -2201,6 +2218,49 @@
               "details": "The text uses this to illustrate how tax rules define the relevant transaction and may leave some economic inequities.",
               "page": "76",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 76"
+            },
+            {
+              "id": "tax-supp-mckenney-actual-tax",
+              "type": "definition",
+              "title": "Actual tax liability versus tax overpayment",
+              "summary": "An actual tax liability is tax legally owed on the transactions undertaken; an overpayment is tax paid beyond that liability. Do not equate a potentially better tax strategy with an overpayment.",
+              "details": "In the government's 2018 McKenney brief, the McKenneys agreed with the IRS in a closing agreement that they owed approximately $2.2 million additional taxes for 2000–2005. They later obtained an $800,000 settlement from their accounting firm. The government argued that this recovered part of taxes actually owed, not tax they had overpaid through erroneous return preparation. The brief distinguishes an actual historical transaction from hypothetical, more favorable tax planning; these are the government's arguments, not the court's decision.",
+              "examApplication": "Compare Clark: Did the accountant cause payment beyond the taxpayer's actual legally correct tax, or did the taxpayer pay tax actually owed on the chosen transaction and later receive money from the accountant?",
+              "examTrap": "Tax that could have been avoided through a different transaction is not automatically an overpayment of tax actually owed. Keep the party's argument separate from a judicial holding.",
+              "page": "Appellate brief pp. 21–24",
+              "source": "Assigned 'McKenny brief handout (1).pdf', five pages: government's redacted opening brief, Eleventh Circuit No. 18-10810, filed Sept. 6, 2018 (original appellate-brief pp. 21–24). This is government advocacy, not a judicial opinion.",
+              "sourceRole": "Definition and exam distinction derived from the government's assigned brief, not an attributed court holding."
+            },
+            {
+              "id": "tax-supp-mckenney-thirdparty",
+              "type": "rule",
+              "title": "Old Colony principle — third-party payment of a taxpayer's tax",
+              "summary": "When another party pays a taxpayer's legally owed federal income tax on the taxpayer's behalf as a benefit, the discharge of that liability can constitute taxable income.",
+              "details": "The government's McKenney brief invoked Old Colony Trust Co. v. Commissioner, 279 U.S. 716 (1929), to argue that an accountant's settlement effectively reimbursing valid tax obligations should be included under §61. The handout does not reproduce the Old Colony judicial opinion, so Old Colony remains supporting cited authority, not a dedicated case brief. Whether a particular damages recovery is taxable also requires analysis of what the payment replaces.",
+              "examApplication": "Identify the underlying taxpayer liability and what a third-party payment actually reimburses. Contrast legal discharge or reimbursement of taxes owed with replacement of an amount paid unnecessarily because of a negligent filing choice.",
+              "examTrap": "Do not apply Old Colony automatically to all malpractice recoveries; Clark's actual-overpayment facts and the nature of the claimed loss may matter.",
+              "page": "Appellate brief p. 22",
+              "source": "Assigned 'McKenny brief handout (1).pdf', five pages: government's redacted opening brief, Eleventh Circuit No. 18-10810, filed Sept. 6, 2018 (original appellate-brief pp. 21–24). This is government advocacy, not a judicial opinion.",
+              "sourceRole": "Legal principle cited in the government's assigned brief; the case opinion is not reproduced in the handout."
+            },
+            {
+              "id": "tax-supp-mckenney-brief",
+              "type": "context",
+              "title": "Assigned supplemental advocacy — United States' brief in McKenney",
+              "summary": "The government argued an $800,000 accountant-malpractice settlement was taxable because it reimbursed valid tax liabilities, unlike the excess tax payment in Clark.",
+              "details": "DOCUMENT TYPE: Government's redacted opening appellate brief filed September 6, 2018, not a judicial opinion.\n\nFACTS AS ARGUED: Joseph and Amy McKenney used S corporations owned by an ESOP to structure consulting and dealership income. After examination, they signed a closing agreement accepting an IRS determination concerning an abusive ESOP transaction and acknowledged approximately $2.2 million in additional taxes for 2000–2005. They later settled malpractice claims against Grant Thornton for $800,000.\n\nGOVERNMENT'S POSITION: The $800,000 replaced part of tax liabilities the taxpayers actually owed, and thus was income under §61 and Old Colony Trust. It distinguished Clark because Clark involved an accountant reimbursing tax actually overpaid. It also argued that tax consequences should follow transactions actually entered, not hypothetical restructuring that would have saved tax.\n\nLIMITATION: These are arguments made by one litigant. The excerpt does not contain judicial findings or a court's holding. A 2020 court decision is separately linked in the current-law notes.",
+              "examApplication": "Exam comparison: Clark taxpayer overpaid due to erroneous filing advice; McKenney taxpayers' accountant advised transaction design and the government treated the additional tax on that actual transaction as legally owed. Explain why that difference matters for characterizing the settlement, while keeping the source's advocacy status clear.",
+              "examTrap": "Never cite the 2018 brief itself as the Eleventh Circuit's holding. The brief includes one party's characterization of the facts and the law.",
+              "page": "Government's brief pp. 21–24; PDF pp. 1–5",
+              "source": "Assigned 'McKenny brief handout (1).pdf', five pages: government's redacted opening brief, Eleventh Circuit No. 18-10810, filed Sept. 6, 2018 (original appellate-brief pp. 21–24). This is government advocacy, not a judicial opinion.",
+              "sourceRole": "Assigned appellate advocacy excerpt — NOT a reproduced judicial opinion.",
+              "legalWarning": {
+                "status": "historical-caution",
+                "label": "PARTY BRIEF — NOT A HOLDING",
+                "reason": "This PDF contains the government's September 2018 advocacy, not an appellate decision. The Eleventh Circuit later ruled in September 2020; its outcome appears as separately researched follow-up, not as content of the assigned handout.",
+                "authority": "McKenney v. United States, No. 18-10810 (11th Cir. Sept. 1, 2020)",
+                "url": "https://law.justia.com/cases/federal/appellate-courts/ca11/18-10810/18-10810-2020-09-01.html"
+              }
             }
           ]
         },
