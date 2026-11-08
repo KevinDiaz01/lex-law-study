@@ -28,7 +28,7 @@ function groups(c){const map=new Map();for(const t of c.topics){let id=t.chapter
 function groupFor(t){return groups(current()).find(g=>g.some(q=>q.id===t?.id))||[]}
 function groupTitle(g){return g[0]?.title||'Chapter'}
 function openPage(p,s=null){page=p;if(s!==null)sectionId=s;search='';$('search').value='';$('sidebar').classList.remove('open');render();window.scrollTo({top:0,behavior:'instant'})}
-function chooseCourse(id){courseId=id;sectionId=current()?.topics[0]?.id||null;showChapter=new Set(groups(current()).map(g=>g[0].chapterGroup||g[0].id));openPage('overview')}
+function chooseCourse(id){courseId=id;sectionId=current()?.topics[0]?.id||null;showChapter=new Set();openPage('overview')}
 function render(){
  const c=current();if(!c)return;
  $('courses').innerHTML=db.courses.map(x=>'<button class="course-tab '+(x.id===c.id?'active':'')+'" data-course="'+escapeHTML(x.id)+'">'+escapeHTML(x.name)+'</button>').join('');
@@ -36,7 +36,7 @@ function render(){
  const titles={overview:'Exam Outline',chapter:groupTitle(groupFor(topic())),section:topic()?.title||'Section',formulas:'Calculation Reference',problems:'Problem Bank',search:'Search results'};
  $('crumb').textContent=c.name+' / '+(titles[page]||'');
  $('title').textContent=titles[page]||'';
- $('subtitle').textContent={overview:'Roadmap → chapter → topic → rule. Expand only what you want to read.',chapter:'Condensed rules for the entire chapter. Click any rule to jump to the explanation.',section:'Rules first. Expand for detailed reasoning and examples.',formulas:'The formulas used throughout this course.',problems:'Unsolved assigned and practice questions.',search:'Search your courses and legal materials.'}[page];
+ $('subtitle').textContent={overview:'Use the roadmap, expand a section, and read only what you need.',chapter:'Condensed rules for the entire chapter. Click any rule to jump to the explanation.',section:'Rules first. Expand for detailed reasoning and examples.',formulas:'The formulas used throughout this course.',problems:'Unsolved assigned and practice questions.',search:'Search your courses and legal materials.'}[page];
  $('editSection').hidden=page!=='section';$('newEntry').hidden=page==='overview'||page==='search';$('newEntry').textContent=page==='problems'?'+ Add problem':'+ Add rule';
  if(page==='overview')renderOverview();else if(page==='chapter')renderChapter();else if(page==='section')renderSection();else if(page==='formulas')renderFormulas();else if(page==='problems')renderProblems();else renderSearch();
  updateSync();
@@ -253,6 +253,6 @@ async function boot(){
  try{
   const r=await fetch('./'+contentPath+'?v='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const raw=await r.json();if(!valid(raw))throw Error('Invalid published data');db=overlay(raw,pending);
  }catch(e){const stored=JSON.parse(localStorage.getItem(STORAGE)||'null');if(valid(stored))db=stored;else{$('notice').hidden=false;$('notice').textContent='Unable to load published course data: '+e.message;return}}
- sectionId=current()?.topics[0]?.id||null;showChapter=new Set(groups(current()).map(g=>g[0].chapterGroup||g[0].id));save();render();
+ sectionId=current()?.topics[0]?.id||null;showChapter=new Set();save();render();
 }
 boot();
