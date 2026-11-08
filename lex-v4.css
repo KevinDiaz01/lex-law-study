@@ -212,3 +212,7 @@ details[open]>summary>.outline-chevron{transform:rotate(180deg)}
 .formula-worked-steps{white-space:pre-line!important;line-height:1.9!important;font-size:13px!important;margin:0!important}
 .formula-outline .formula-code{margin:10px 0 15px;font-weight:800}
 .formula-outline .layman-explanation{margin-top:3px}
+
+/* Chapter 2 week assignment, printed textbook page whitelist */
+.outline-week{font-size:10px;font-weight:750;white-space:nowrap;color:#2f628c;background:#eef5fa;border:1px solid #dceaf6;padding:4px 7px;border-radius:4px}
+@media(max-width:800px){.outline-week{white-space:normal;line-height:1.3;padding:3px 5px}.outline-section>summary{flex-wrap:wrap}.outline-section-title{min-width:56%;flex:1}}
