@@ -108,6 +108,7 @@ function outlineSection(t,c,isFoundation){
  const related=(c.problems||[]).filter(p=>p.topicId===t.id);
  const updates=(c.updates||[]).filter(u=>u.topicId===t.id);
  let html='<details class="outline-section" id="outline-section-'+escapeHTML(t.id)+'"><summary><span class="outline-section-title">'+escapeHTML(isFoundation?'Foundations — Key Terms':t.title)+'</span>'+(t.studyWeek?'<span class="outline-week">'+escapeHTML(t.studyWeek)+' · pp. '+escapeHTML(t.assignedPages||'')+'</span>':'')+'<span class="outline-meta">'+required.length+' essential items</span><span class="outline-chevron">⌄</span></summary><div class="outline-section-body">';
+ if(t.coverageWarning)html+='<div class="outline-source-gap">⚠ '+escapeHTML(t.coverageWarning)+'</div>';
  if(required.length)html+=required.map(outlineEntry).join('');
  if(formulas.length)html+='<div class="outline-subheading">Calculations</div>'+formulas.map(outlineFormula).join('');
  if(concepts.length)html+='<details class="outline-optional"><summary>Additional concepts <span>'+concepts.length+'</span></summary><div>'+concepts.map(outlineEntry).join('')+'</div></details>';
