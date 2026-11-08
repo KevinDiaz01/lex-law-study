@@ -261,8 +261,10 @@
           "title": "Haig–Simons income",
           "formula": "Y = C + ΔW (consumption + change in wealth)",
           "meaning": "Economic definition of personal income, distinct from statutory taxable income.",
-          "worked": "C=$11,000, net worth changes by −$1,000, so Y=$10,000. Borrowing $1,000 finances the excess consumption, not additional economic income.",
-          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 37–38"
+          "worked": "Step 1: Annual consumption C = $11,000. Step 2: Net worth decreases by $1,000 because of use of old savings or new borrowing: ΔW = −$1,000. Step 3: Y = C + ΔW = $11,000 − $1,000 = $10,000. Step 4: This is the same economic income as spending $9,000 while increasing net savings by $1,000.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 37–38",
+          "laymanExplanation": "An economy-wide concept, not statutory taxable income.",
+          "sourceRole": "Assigned textbook example or separately labeled illustrative calculation"
         },
         {
           "id": "tax2f-income-savings",
@@ -271,8 +273,10 @@
           "title": "Income as consumption plus saving",
           "formula": "Y = C + S",
           "meaning": "An alternate shorthand when saving measures the period's change in net worth.",
-          "worked": "If spending $9,000 and adding $1,000 to savings, income is $10,000.",
-          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 37"
+          "worked": "Step 1: Consumption = $9,000. Step 2: Net saving during the year = $1,000. Step 3: Y = C + S = $9,000 + $1,000 = $10,000. Step 4: Do not count borrowed money as additional economic income without considering the liability.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 37",
+          "laymanExplanation": "Income is split between spending and saving.",
+          "sourceRole": "Assigned textbook example or separately labeled illustrative calculation"
         },
         {
           "id": "tax2f-gross-benefit",
@@ -281,8 +285,10 @@
           "title": "Valuation of noncash remuneration",
           "formula": "Generally include FMV of property or services received for services rendered",
           "meaning": "Treas. Reg. §1.61-2(d)(1) generally measures in-kind compensation by FMV.",
-          "worked": "A carpenter provides renovations to a lawyer in exchange for a will: identify the fair market value of what was exchanged and any matching consequences.",
-          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 46"
+          "worked": "Step 1: Identify the property or services received in exchange for services rendered. Step 2: Determine a supportable fair market value under Reg. §1.61-2(d)(1). Step 3: Include the relevant compensation amount unless an applicable exclusion or specific valuation rule applies. Step 4: Analyze any additional expense or basis consequences independently. The reading provides this barter scenario without a numerical dollar amount.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 46",
+          "laymanExplanation": "A legal service traded for home repairs can be taxable even though neither party hands over cash.",
+          "sourceRole": "Assigned textbook example or separately labeled illustrative calculation"
         },
         {
           "id": "tax2f-stock-basis",
@@ -291,8 +297,10 @@
           "title": "Gain and per-share basis allocation",
           "formula": "Allocated basis = acquisition cost × (shares sold ÷ shares acquired); gain = proceeds − allocated basis",
           "meaning": "Useful for identical shares originally acquired as one block.",
-          "worked": "Purchase 100 shares for $1,000. Sell 40 for $700. Basis = $400; realized gain = $300.",
-          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68"
+          "worked": "Step 1: Original investment = $1,000 for 100 shares. Step 2: Allocated basis for 40 = $1,000 × (40 ÷ 100) = $400. Step 3: Sale proceeds = $700. Step 4: Realized gain = $700 − $400 = $300. Recognition and character remain separate questions.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68",
+          "laymanExplanation": "When selling 40 of 100 identical shares, subtract only the purchase cost belonging to those 40.",
+          "sourceRole": "Assigned textbook example or separately labeled illustrative calculation"
         },
         {
           "id": "tax2f-land-basis",
@@ -301,8 +309,10 @@
           "title": "Relative-value allocation of land basis",
           "formula": "Allocated basis = total basis × (relative FMV of portion at acquisition ÷ total FMV at acquisition)",
           "meaning": "Where land portions differ in value, allocate tax basis reasonably rather than by area alone.",
-          "worked": "Whole land cost $1,000; wooded part represents 45% of total original value. Basis of wooded land $450. Sell for $700 → $250 gain.",
-          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68–69"
+          "worked": "Step 1: Purchase entire property for $1,000. Step 2: Experts place 45% of purchase-date value on the wooded tract ($450 of the original total basis). Step 3: Allocate $450 basis to the wooded tract. Step 4: Sale price $700 − allocated basis $450 = $250 realized gain.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68–69",
+          "laymanExplanation": "Two kinds of land can have different values; don't divide their cost just by acreage.",
+          "sourceRole": "Assigned textbook example or separately labeled illustrative calculation"
         },
         {
           "id": "tax2f-inaja",
@@ -311,8 +321,10 @@
           "title": "Inaja basis-reduction illustration",
           "formula": "Remaining basis = initial basis − payment treated as return of capital",
           "meaning": "Used only when legally appropriate and apportionment to disposed rights is impracticable.",
-          "worked": "Inaja: property original cost $61,000; net settlement $49,000 treated as capital recovery. Remaining basis conceptually $12,000, absent other adjustments.",
-          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69–70"
+          "worked": "Step 1: Entire property original basis = $61,000. Step 2: Settlement = $50,000; settlement costs = $1,000; net receipt = $49,000. Step 3: Court found basis allocation to the affected rights wholly impracticable and net receipt lower than entire property basis. Step 4: Treat the $49,000 as return of capital, reducing property basis conceptually to $61,000 − $49,000 = $12,000, absent other adjustments. Step 5: Ordinary partial-sale allocation remains the general rule; Inaja is a narrow exception.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69–70",
+          "laymanExplanation": "The court treated the city settlement as repayment of investment, not a taxable profit, because no sensible partial-basis calculation was possible.",
+          "sourceRole": "Assigned textbook example or separately labeled illustrative calculation"
         },
         {
           "id": "tax2f-wager2026",
@@ -321,8 +333,10 @@
           "title": "2026 wagering loss limitation",
           "formula": "Allowable loss deduction = min(90% × wagering losses, wagering gains)",
           "meaning": "The §165(d) tax-year-2026 statutory change supersedes the textbook's earlier full-offset example.",
-          "worked": "If wagering gains total $1,000 and losses $1,000, the statutory limit permits at most $900 loss deduction in 2026, subject to individual itemizing/other applicable rules.",
-          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 71–73 + 2026 current law"
+          "worked": "Step 1: Suppose 2026 wagering gains = $1,000 and wagering losses = $1,000. Step 2: Compute 90% × losses = .90 × $1,000 = $900. Step 3: Compare with gains $1,000 and take the smaller: max allowable §165(d) deduction = $900. Step 4: Net of $1,000 winnings and $900 loss deduction is $100 before other relevant tax rules. Assess itemizing and year-specific restrictions. Source of the changed limitation: IRC §165(d), as amended for taxable years after 2025.",
+          "source": "Tax casebook pp.71–73 (historical background) + CURRENT 26 U.S.C. §165(d), Public Law 119-21 §70114 (2025); IRS IRB 2026-19.",
+          "laymanExplanation": "This is a 2026 CURRENT-LAW annotation, not the older calculation in the casebook.",
+          "sourceRole": "Independent 2026 current-law annotation"
         },
         {
           "id": "tax2f-property-damages",
@@ -331,8 +345,10 @@
           "title": "Compensation for damaged business property",
           "formula": "Potential realized gain = recovery proceeds − adjusted basis (before §1033 relief)",
           "meaning": "Consider property basis and qualifying nonrecognition for reinvestment.",
-          "worked": "Destroyed building with adjusted basis $600,000; insurance recovery $700,000. Potential $100,000 gain absent §1033 nonrecognition.",
-          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78"
+          "worked": "Step 1: Recovery = $700,000 for destroyed building. Step 2: Adjusted basis of building = $600,000. Step 3: Potential realized gain = $700,000 − $600,000 = $100,000. Step 4: Determine whether §1033 allows qualifying nonrecognition when property is replaced within statutory conditions.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78",
+          "laymanExplanation": "You don't treat an entire property-insurance check as profit; first recover the property's tax cost.",
+          "sourceRole": "Assigned textbook example or separately labeled illustrative calculation"
         },
         {
           "id": "tax2f-housing",
@@ -341,8 +357,10 @@
           "title": "§107 minister housing allowance limits",
           "formula": "Excludable housing allowance = min(designated allowance, actual qualifying housing expenses, fair rental value including furnishings/utilities)",
           "meaning": "IRS conditions and current statutory limits apply; distinguish from self-employment tax treatment.",
-          "worked": "If designated $30,000, actual housing costs $28,000, and FMV cap $25,000, the income-tax exclusion generally cannot exceed $25,000, subject to all qualifications.",
-          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. Gaylor PDF; IRC §107 and IRS guidance"
+          "worked": "Step 1: Hypothetical minister's officially designated housing allowance = $30,000. Step 2: Actual eligible housing expenses = $28,000. Step 3: Fair rental value cap, including furnishings and utilities = $25,000. Step 4: Potential income-tax exclusion is limited to the lowest amount: $25,000 (subject to qualifications). Step 5: Separately address possible self-employment tax treatment.",
+          "source": "Separately assigned Gaylor v. Mnuchin opinion and IRC §107; numerical worked example constructed for study, not from casebook pp.35–102.",
+          "laymanExplanation": "This example illustrates the separately assigned Gaylor handout and §107; the source does not supply the numbers.",
+          "sourceRole": "Assigned textbook example or separately labeled illustrative calculation"
         },
         {
           "id": "tax2f-home121",
@@ -351,8 +369,10 @@
           "title": "Principal residence sale gain",
           "formula": "Potential taxable gain = max(0, realized gain − permissible §121 exclusion)",
           "meaning": "After computing gain, determine use/ownership tests, $250,000/$500,000 cap, and frequency limitations.",
-          "worked": "Basis $100,000; sale proceeds $400,000; gain $300,000. If a single filer qualifies for $250,000 exclusion, taxable gain $50,000.",
-          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 100–101"
+          "worked": "Step 1: Amount realized from home sale = $400,000. Step 2: Adjusted basis = $100,000. Step 3: Realized gain = $400,000 − $100,000 = $300,000. Step 4: Assuming a qualifying single filer, §121 exclusion cap = $250,000. Step 5: Taxable gain = max(0, $300,000 − $250,000) = $50,000.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 100–101",
+          "laymanExplanation": "Compute the profit first, then the portion the home-sale exclusion lets you subtract.",
+          "sourceRole": "Assigned textbook example or separately labeled illustrative calculation"
         }
       ],
       "problems": [
