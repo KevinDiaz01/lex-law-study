@@ -3867,6 +3867,162 @@
           "studyWeek": "Week 3",
           "assignedPages": "Separately assigned Harris opinion handout (printed pp.111–134)",
           "assignmentSource": "Week 3 — Harris opinion handout; not an authorization to extract full textbook pp.111–134."
+        },
+        {
+          "id": "tax-ch3-a-value",
+          "chapterGroup": "tax-ch3",
+          "entries": [
+            {
+              "id": "tax3-w3-imputed",
+              "type": "definition",
+              "title": "Imputed income",
+              "summary": "Nonmarket value derived from one's own work or use of one's own property is generally not taxable.",
+              "laymanExplanation": "Fixing your own car saves you money, but you do not report imagined mechanic wages.",
+              "legalExplanation": "The source distinguishes imputed income from market exchange. The primary categories are self-provided household labor and the rental value of living in owner-occupied housing. This economic benefit ordinarily is not included under §61.",
+              "details": "The source distinguishes imputed income from market exchange. The primary categories are self-provided household labor and the rental value of living in owner-occupied housing. This economic benefit ordinarily is not included under §61.",
+              "page": "112–114",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 112–114",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            },
+            {
+              "id": "tax3-w3-psychic",
+              "type": "definition",
+              "title": "Psychic income",
+              "summary": "Subjective happiness or pleasure is not measured as taxable income.",
+              "laymanExplanation": "Enjoying a sunset or an extra vacation week does not create a separate tax charge.",
+              "legalExplanation": "Psychic income reflects subjective satisfaction or enjoyment, unlike market-measurable consumption. The source explains that taxing leisure would be intrusive and administratively impracticable.",
+              "details": "Psychic income reflects subjective satisfaction or enjoyment, unlike market-measurable consumption. The source explains that taxing leisure would be intrusive and administratively impracticable.",
+              "page": "114–116",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 114–116",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            },
+            {
+              "id": "tax3-w3-inkind",
+              "type": "definition",
+              "title": "In-kind income",
+              "summary": "Property or services received as market compensation generally constitute income, despite the absence of cash.",
+              "laymanExplanation": "A lawyer who gets house painting in exchange for legal work may have taxable income even though no money changes hands.",
+              "legalExplanation": "Gross income under §61 includes income realized in money, property, or services. Noncash employer benefits may be excluded under specific statutes such as §§119 and 132.",
+              "details": "Gross income under §61 includes income realized in money, property, or services. Noncash employer benefits may be excluded under specific statutes such as §§119 and 132.",
+              "page": "114–116",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 114–116",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            },
+            {
+              "id": "tax3-w3-privatepublic",
+              "type": "definition",
+              "title": "Private sphere versus public sphere",
+              "summary": "Private transactions generally occur within the household; public transactions involve market exchanges with others.",
+              "laymanExplanation": "Babysitting your own child is different from providing childcare to a stranger in exchange for repairs.",
+              "legalExplanation": "The source distinguishes market-based labor and property exchanges from household and self-provision activity. Tax consequences can differ sharply even where the economic benefit is similar.",
+              "details": "The source distinguishes market-based labor and property exchanges from household and self-provision activity. Tax consequences can differ sharply even where the economic benefit is similar.",
+              "page": "111–112",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 111–112",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            },
+            {
+              "id": "tax3-w3-ownerhome",
+              "type": "definition",
+              "title": "Imputed rental value of a home",
+              "summary": "An owner-occupant benefits by not paying rent to another landlord; that hypothetical rent is not ordinarily taxed.",
+              "laymanExplanation": "If you live in the house you own, the IRS does not normally charge you income tax on imagined rent to yourself.",
+              "legalExplanation": "The source compares investing $1 million in bonds and paying rent with buying a home to occupy. Bond interest is taxable; owner-occupied housing value is not included as imputed rent. This creates an asymmetric tax preference.",
+              "details": "The source compares investing $1 million in bonds and paying rent with buying a home to occupy. Bond interest is taxable; owner-occupied housing value is not included as imputed rent. This creates an asymmetric tax preference.",
+              "page": "113–114",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 113–114",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            },
+            {
+              "id": "tax3-w3-barter",
+              "type": "rule",
+              "title": "Barter and reciprocal services are generally included in gross income",
+              "summary": "When two people trade valuable services, each generally has income equal to the fair market value received.",
+              "laymanExplanation": "A babysitter trades $100 in childcare for $100 of painting; both may have $100 of income.",
+              "legalExplanation": "Under Reg. §1.61-2(d)(1), services paid for with property or other services are generally valued at FMV. Self-service without a negotiated market exchange is treated differently; personal consumption costs typically are not deductible.",
+              "details": "Under Reg. §1.61-2(d)(1), services paid for with property or other services are generally valued at FMV. Self-service without a negotiated market exchange is treated differently; personal consumption costs typically are not deductible.",
+              "page": "115–117",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 115–117",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            },
+            {
+              "id": "tax3-w3-rev7924",
+              "type": "rule",
+              "title": "Revenue Ruling 79-24 — reciprocal services and art-for-rent",
+              "summary": "Both sides of taxable barter transactions include the fair market value of services, property, or rental use received.",
+              "laymanExplanation": "A lawyer swaps legal work for painting; an artist exchanges artwork for apartment rent. Both sides receive taxable value.",
+              "legalExplanation": "The assigned revenue ruling applies §61 and Reg. §1.61-2(d)(1). Situation 1: legal and painting services are exchanged; each includes FMV received. Situation 2: the apartment owner includes FMV of art and the artist includes rental value. It is an IRS ruling, not a judicial opinion.",
+              "details": "The assigned revenue ruling applies §61 and Reg. §1.61-2(d)(1). Situation 1: legal and painting services are exchanged; each includes FMV received. Situation 2: the apartment owner includes FMV of art and the artist includes rental value. It is an IRS ruling, not a judicial opinion.",
+              "page": "116–117",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 116–117",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            },
+            {
+              "id": "tax3-w3-barterreport",
+              "type": "definition",
+              "title": "Barter exchange reporting — §6045",
+              "summary": "Organized barter exchanges may have information-reporting duties; casual swaps of similar services on a noncommercial basis receive separate treatment.",
+              "laymanExplanation": "A service-credit trade club may report its members' trades to the IRS; informal neighbors helping each other can be different.",
+              "legalExplanation": "The source cites §6045 and Reg. §1.6045-1(a)(4), which excludes arrangements solely for informal noncommercial exchange of similar services from the defined reporting barter exchange. Reporting and inclusion are separate questions.",
+              "details": "The source cites §6045 and Reg. §1.6045-1(a)(4), which excludes arrangements solely for informal noncommercial exchange of similar services from the defined reporting barter exchange. Reporting and inclusion are separate questions.",
+              "page": "117–118",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 117–118",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            },
+            {
+              "id": "tax3-w3-implicit",
+              "type": "definition",
+              "title": "Implicit tax and tax capitalization",
+              "summary": "Tax-favored investments can command higher prices and lower pretax yields as investors compete for tax savings.",
+              "laymanExplanation": "You might accept a 6% tax-free municipal bond return instead of a 10% taxable bond return; the yield difference is the hidden cost of the break.",
+              "legalExplanation": "The source uses §103 municipal bonds to demonstrate implicit taxation and tax capitalization. A 10% taxable return versus 6% tax-free comparable return implies 40% reduced yield by this simplified comparison. This is not a tax payment to the Treasury.",
+              "details": "The source uses §103 municipal bonds to demonstrate implicit taxation and tax capitalization. A 10% taxable return versus 6% tax-free comparable return implies 40% reduced yield by this simplified comparison. This is not a tax payment to the Treasury.",
+              "page": "118–119",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 118–119",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134",
+              "examApplication": "Implicit tax = (10% − 6%)/10% = 40%; assume comparable risk, maturity and market pricing."
+            },
+            {
+              "id": "tax3-w3-substitute",
+              "type": "definition",
+              "title": "Substitute taxation",
+              "summary": "Tax law may limit the payor's deductions rather than directly including a hard-to-value benefit in the recipient's income.",
+              "laymanExplanation": "Instead of tracking every free lunch an employee eats, the law might deny some of the employer's expense deduction.",
+              "legalExplanation": "The source uses consumer furniture assembly and employer-provided meals to illustrate compensating for untaxed private or fringe benefits by taxing an easier-to-observe side of the exchange. This is a policy design mechanism, not a generally applicable statutory inclusion test.",
+              "details": "The source uses consumer furniture assembly and employer-provided meals to illustrate compensating for untaxed private or fringe benefits by taxing an easier-to-observe side of the exchange. This is a policy design mechanism, not a generally applicable statutory inclusion test.",
+              "page": "119",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 119",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            },
+            {
+              "id": "tax3-w3-vacation",
+              "type": "concept",
+              "title": "Added leisure versus added compensation",
+              "summary": "Equal annual salaries generally produce equal reported wage income even when one worker receives more vacation days.",
+              "laymanExplanation": "Two workers earn $60,000, but one has an extra week off. The salary is the same for income-tax calculation.",
+              "legalExplanation": "Paid leisure changes effective hourly pay, but tax law generally does not separately impute a taxable dollar value for foregone possible work during additional vacation days.",
+              "details": "Paid leisure changes effective hourly pay, but tax law generally does not separately impute a taxable dollar value for foregone possible work during additional vacation days.",
+              "page": "115–116",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 115–116",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            },
+            {
+              "id": "tax3-w3-privatebackground",
+              "type": "context",
+              "title": "Why private benefits are ignored",
+              "summary": "Privacy, valuation, enforceability and behavioral consequences complicate taxing the private sphere.",
+              "laymanExplanation": "The government does not inspect your home repairs or measure your happiness, even though those can make you better off.",
+              "legalExplanation": "The book emphasizes stay-at-home labor, self-provision, owner-occupied housing, and tax preference effects. This is supplementary policy rather than an exam rule.",
+              "details": "The book emphasizes stay-at-home labor, self-provision, owner-occupied housing, and tax preference effects. This is supplementary policy rather than an exam rule.",
+              "page": "111–119",
+              "source": "Bankman et al., 19th ed., Week 3 assigned pp. 111–119",
+              "sourceRole": "Week 3 syllabus-assigned printed pp.111–134"
+            }
+          ],
+          "title": "A. Value Outside the Marketplace",
+          "description": "Imputed income, in-kind barter, implicit and substitute taxation",
+          "studyWeek": "Week 3",
+          "assignedPages": "111–119",
+          "assignmentSource": "Syllabus Week 3 printed pp. 111–119"
         }
       ],
       "lexContentStandard": {
