@@ -26,7 +26,7 @@ function current(){return db.courses.find(c=>c.id===courseId)||db.courses[0]}
 function topic(){return current()?.topics.find(t=>t.id===sectionId)}
 function groups(c){const map=new Map();for(const t of c.topics){let id=t.chapterGroup||t.id;if(!map.has(id))map.set(id,[]);map.get(id).push(t)}return [...map.values()]}
 function groupFor(t){return groups(current()).find(g=>g.some(q=>q.id===t?.id))||[]}
-function groupTitle(g){return g[0]?.title||'Chapter'}
+function groupTitle(g){if(g[0]?.chapterGroup==='tax-ch2')return 'Chapter 2 — The Why and the What of Taxing Income';return g[0]?.title||'Chapter'}
 function openPage(p,s=null){page=p;if(s!==null)sectionId=s;search='';$('search').value='';$('sidebar').classList.remove('open');render();window.scrollTo({top:0,behavior:'instant'})}
 function chooseCourse(id){courseId=id;sectionId=current()?.topics[0]?.id||null;showChapter=new Set();openPage('overview')}
 function render(){
