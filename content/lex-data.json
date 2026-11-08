@@ -1036,7 +1036,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 1–33",
               "page": "1–33",
               "legalExplanation": "Organize federal income-tax analysis in a sequence: (1) identify the taxpayer and receipts; (2) classify includible gross income and exclusions under §61 and related provisions; (3) calculate above-the-line adjustments under §62 and taxable income under §63; (4) determine character and timing; (5) apply progressive rate schedules and credits; and (6) reconcile payments and consider compliance requirements. This is a study map drawn from Chapter 1, not a single statutory test.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "On a tax exam, ask five big questions: what did the person get, who should pay tax on it, when does the tax event happen, what rate applies, and what adjustments or credits change the final bill?"
             },
             {
               "id": "tax-ch1-e002",
@@ -1059,7 +1060,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 11–16, 28",
               "page": "11–16, 28",
               "legalExplanation": "For an individual, start with gross income under §61 and exclusions, then subtract §62 above-the-line deductions to determine AGI. Under §63, subtract the applicable standard deduction or allowable itemized deductions and other applicable adjustments to arrive at taxable income. Apply rates and special computations, then credits, prepayments and withholding to find the final liability or refund. Each subtraction requires statutory eligibility.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "Think of a funnel. Start with money and benefits counted as income, subtract allowed deductions, apply tax rates, then subtract credits and amounts already paid."
             }
           ]
         },
@@ -1079,7 +1081,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 1–2",
               "page": "1–2",
               "legalExplanation": "The casebook treats taxation as a way to share the costs of collective government activity. This is social and political background, not a rule authorizing a particular tax. Policy choices shape tax bases, rates, credits, and the distribution of burdens; statutory enactment is required to impose the actual income tax.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "Taxes pay for things society does together. The political disagreement is about how much each person should contribute."
             },
             {
               "id": "tax-ch1-e005",
@@ -1116,7 +1119,8 @@
               "source": "Bankman et al., Tables 1-1 through 1-3 (historical data)",
               "page": "3–6",
               "legalExplanation": "Table 1-1 reports 2021 federal revenue: individual income taxes $2,044 billion (51%), corporate income taxes $372 billion (9%), payroll/social-insurance $1,314 billion (32%), excise $75 billion (2%), estate/gift $27 billion (1%), other $214 billion (5%), total $4,046 billion. Table 1-2 reports 2018 average individual-income-tax rates of −12.0%, −2.1%, 2.2%, 5.9% and 15.4% across ascending quintiles; overall federal average tax rates were 0.0%, 8.1%, 12.8%, 16.7% and 24.4%. Table 1-3 shows the top quintile's pretax-income share grew from 46.0% in 1980 to 55.2% in 2018. These figures illustrate historical distribution; they are not 2026 rates.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "The old tables show where federal tax money came from and how much different income groups paid. They're snapshots of past years, not tax rates to use on today's return."
             },
             {
               "id": "tax-ch1-e008",
@@ -1127,7 +1131,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 6–7",
               "page": "6–7",
               "legalExplanation": "An income effect arises because tax reduces disposable resources, potentially inducing someone to earn more to restore their spending power. A substitution effect arises because tax changes relative returns: taxable work may become less attractive relative to untaxed leisure or nonmarket activity. These forces can move labor supply in opposite directions; the casebook warns that theory alone does not determine the net result.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "A tax might make someone work more because they need to replace lost income, or work less because keeping free time now feels better than earning taxed wages. Both can happen."
             },
             {
               "id": "tax-ch1-e009",
@@ -1138,7 +1143,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 7–8",
               "page": "7–8",
               "legalExplanation": "Tax preferences can be understood as implicit subsidies because deductions, exclusions, and credits reduce the tax paid by favored activities. The source compares a $6 million direct subsidy with an equivalent tax reduction for a firm owing $10 million: both may leave a $4 million net payment, given the assumed facts. Distinguish this policy analogy from the legal calculation of a particular deduction.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "Instead of giving people a cash grant to encourage something, the government can lower their tax bill if they do it. That tax break changes incentives."
             },
             {
               "id": "tax-ch1-e010",
@@ -1149,7 +1155,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 8–9",
               "page": "8–9",
               "legalExplanation": "Formally facially neutral provisions can generate disparate benefits when income, homeownership or itemization patterns differ across groups. The reading distinguishes (1) differences produced through the distribution of income and wealth and (2) possible differential effects at similar income levels. Its demographic figures describe dated empirical observations and are not legal eligibility elements.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "A tax rule doesn't need to name a racial group to have different average effects across groups. Existing differences in income, housing and wealth can affect who benefits."
             },
             {
               "id": "tax-ch1-e011",
@@ -1160,7 +1167,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 6",
               "page": "6",
               "legalExplanation": "The reading emphasizes tax issue-spotting for attorneys across practice areas: property sales, leases and financing, divorce settlements, entity choice, compensation structures and damages settlements may trigger income-tax consequences. This is practical professional context, not a governing rule.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "Even when you're not a tax lawyer, your client's divorce, settlement, property sale, business formation or job contract might have tax consequences worth spotting."
             },
             {
               "id": "class1-def-quintile",
@@ -1223,7 +1231,8 @@
                 "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
               },
               "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
-              "legalExplanation": "The Supreme Court treated the 1894 tax on rents, dividends and interest as violating direct-tax apportionment requirements and invalidated the law after finding the provisions inseverable. This is historical constitutional context. The Sixteenth Amendment subsequently permitted unapportioned federal income taxes, so Pollock's apportionment objection is not a current general bar to income taxation. This case is cited/discussed in text, not reproduced as an assigned judicial opinion."
+              "legalExplanation": "The Supreme Court treated the 1894 tax on rents, dividends and interest as violating direct-tax apportionment requirements and invalidated the law after finding the provisions inseverable. This is historical constitutional context. The Sixteenth Amendment subsequently permitted unapportioned federal income taxes, so Pollock's apportionment objection is not a current general bar to income taxation. This case is cited/discussed in text, not reproduced as an assigned judicial opinion.",
+              "laymanExplanation": "The Supreme Court once blocked a federal income tax because of constitutional apportionment rules. The Sixteenth Amendment later removed that obstacle for taxes on income."
             },
             {
               "id": "tax-ch1-e014",
@@ -1254,7 +1263,8 @@
                 "reason": "The 2023 casebook predicted that the 37% top individual bracket would revert to 39.6% in 2026. Congress made the existing seven individual rates, including 37%, permanent in Public Law 119-21 (2025). Treat historical tax-rate figures as examples, not current schedules.",
                 "authority": "IRS Rev. Proc. 2025-32, I.R.B. 2025-45; Pub. L. 119-21",
                 "url": "https://www.irs.gov/irb/2025-45_IRB"
-              }
+              },
+              "laymanExplanation": "At first, the federal income tax mostly targeted wealthy people. After World War II it covered a much broader part of the population."
             }
           ]
         },
@@ -1553,7 +1563,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 24",
               "page": "24",
               "legalExplanation": "Bracket creep occurs when nominal income rises with inflation, potentially pushing taxpayers into higher rate brackets despite unchanged real purchasing power. The book explains inflation indexing of brackets and certain dollar amounts and the shift to chained CPI. This is separate from (generally unavailable) inflation indexing of property tax basis.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "If inflation doubles your paycheck but also doubles all prices, you aren't necessarily better off. Tax brackets need to adjust too, or your rate could rise without any real income growth."
             },
             {
               "id": "class1-def-cost-of-goods",
@@ -1750,7 +1761,8 @@
               "source": "IRC §1014; Bankman et al. p. 25",
               "page": "25",
               "legalExplanation": "The 'buy, borrow, die' strategy links appreciation without sale (no ordinary realization), cash borrowing secured by appreciated assets (loan proceeds generally offset by genuine repayment obligation), and basis rules for qualifying inherited property under §1014. The reading describes a possible step-up in basis at death and the resulting effect on built-in gain. Special exceptions and alternative regimes may limit the outcome.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "The idea is to hold investments while they appreciate, borrow against them instead of selling, and potentially pass them on at death with a tax basis adjustment. Important legal limits still apply."
             },
             {
               "id": "tax-ch1-e041",
@@ -1916,7 +1928,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 30–31",
               "page": "30–31",
               "legalExplanation": "Federal income-tax liability begins with enacted Code provisions. Statutory definitions, cross-references and exclusions should be reviewed first; then applicable regulations, judicial decisions and published IRS guidance. The reading stresses that courts also use substance-over-form reasoning and law-like doctrines where statutory language is incomplete or susceptible to manipulation.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "When a tax question comes up, start with the Internal Revenue Code. Then look at the detailed regulations, court opinions and IRS guidance that help explain it."
             },
             {
               "id": "tax-ch1-e051",
@@ -1927,7 +1940,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 31",
               "page": "31",
               "legalExplanation": "Legislative history can help interpret uncertain provisions. House Ways and Means and Senate Finance committee reports may explain complex drafting compromises; Joint Committee on Taxation staff assists and prepares revenue estimates and 'blue books' summarizing enacted laws. These explanatory documents are not themselves statutes.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "laymanExplanation": "Congress writes tax statutes, but committee reports and JCT explanations can tell you what lawmakers were trying to accomplish. They explain the law; they aren't laws themselves."
             },
             {
               "id": "tax-ch1-e052",
@@ -1998,7 +2012,8 @@
                 "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf"
               },
               "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
-              "legalExplanation": "Mayo Foundation (2011) was cited by the casebook as applying Chevron-style agency deference to Treasury tax regulations. The subsequent Loper Bright Enterprises v. Raimondo (2024) decision overruled that mandatory deference framework. The case is mentioned here as an example, not reproduced as an assigned judicial opinion, so it belongs in supporting doctrine with an updated-law warning."
+              "legalExplanation": "Mayo Foundation (2011) was cited by the casebook as applying Chevron-style agency deference to Treasury tax regulations. The subsequent Loper Bright Enterprises v. Raimondo (2024) decision overruled that mandatory deference framework. The case is mentioned here as an example, not reproduced as an assigned judicial opinion, so it belongs in supporting doctrine with an updated-law warning.",
+              "laymanExplanation": "The textbook describes a time when judges often deferred to reasonable Treasury interpretations of unclear statutes. The Supreme Court changed that approach in 2024, so don't memorize the old standard as current law."
             },
             {
               "id": "tax-ch1-e057",
@@ -2017,7 +2032,8 @@
                 "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
               },
               "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
-              "legalExplanation": "Eisner v. Macomber (1920) is referenced as a historical example concerning realization of gains and constitutional conceptions of income. Its narrow income-from-capital-or-labor phrase is not a complete current definition, as later discussed in Glenshaw Glass. Modern constitutional realization questions also require careful attention to holdings and unresolved issues; this is a supporting citation in Chapter 1, not a reproduced assigned opinion."
+              "legalExplanation": "Eisner v. Macomber (1920) is referenced as a historical example concerning realization of gains and constitutional conceptions of income. Its narrow income-from-capital-or-labor phrase is not a complete current definition, as later discussed in Glenshaw Glass. Modern constitutional realization questions also require careful attention to holdings and unresolved issues; this is a supporting citation in Chapter 1, not a reproduced assigned opinion.",
+              "laymanExplanation": "This older case used a narrower way of defining income. It's mentioned to explain how income-tax doctrine developed, but its wording should not replace the broader modern approach."
             },
             {
               "id": "class1-def-substance-form",
