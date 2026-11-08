@@ -1042,7 +1042,8 @@
               "summary": "The amount to which the tax-rate structure applies; for individuals, generally taxable income.",
               "details": "Tax is not ordinarily imposed on all cash received. Begin with gross income, account for AGI deductions and additional deductions, apply rates to taxable income, then apply eligible credits and payments.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 11–15",
-              "page": "11–15"
+              "page": "11–15",
+              "laymanExplanation": "The tax base is the amount the government uses to figure out your tax. Think of it as the number the tax rate is applied to."
             },
             {
               "id": "tax-ch1-e003",
@@ -1078,7 +1079,8 @@
               "summary": "Progressive: average rate rises with income; proportional: constant; regressive: falls.",
               "details": "Classify tax systems using AVERAGE TAX RATE, not whether higher-income taxpayers pay more total dollars. The individual federal income tax is generally progressive; payroll and excise taxes often have regressive features.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 3–5, 16–17",
-              "page": "3–5, 16–17"
+              "page": "3–5, 16–17",
+              "laymanExplanation": "Progressive means higher earners pay a higher percentage on average. Proportional means everyone pays the same percentage. Regressive means lower earners pay a higher percentage of their income."
             },
             {
               "id": "tax-ch1-e006",
@@ -1087,7 +1089,8 @@
               "summary": "Refundable credits can produce net payments to an eligible taxpayer.",
               "details": "The casebook describes negative average individual income-tax rates among lower-income quintiles in its 2018 data. Credits such as the EITC are central. Distinguish refundable-credit payments from merely withholding overpayments.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 3–5, 15",
-              "page": "3–5, 15"
+              "page": "3–5, 15",
+              "laymanExplanation": "Sometimes tax credits are worth more than the income tax you owe. If the credit is refundable, the government may pay you the difference."
             },
             {
               "id": "tax-ch1-e007",
@@ -1150,7 +1153,8 @@
               "summary": "Tariffs tax cross-border goods; excise taxes target particular products or services.",
               "details": "Before the modern income tax, the federal government depended heavily on tariffs and excise taxes. Both affect prices and burden distribution differently from individual income taxes.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 9–10",
-              "page": "9–10"
+              "page": "9–10",
+              "laymanExplanation": "Tariffs are taxes on goods brought in from abroad. Excise taxes target particular goods or activities, such as fuel."
             },
             {
               "id": "tax-ch1-e013",
@@ -1176,7 +1180,8 @@
               "summary": "Congress may tax incomes from any source without apportionment among the states.",
               "details": "It responded to the direct-tax obstacle identified in Pollock and enabled the modern federal income tax. The definition of income and the limits of congressional taxing power remain subjects of doctrine and litigation.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 10",
-              "page": "10"
+              "page": "10",
+              "laymanExplanation": "The Sixteenth Amendment lets Congress impose federal income taxes without dividing the tax bill among states according to population."
             },
             {
               "id": "tax-ch1-e015",
@@ -1205,7 +1210,8 @@
               "source": "IRC § 61; Bankman et al. pp. 11–12",
               "page": "11–12",
               "examApplication": "When a taxpayer receives a payment, begin with § 61's broad inclusion principle. Determine whether it is an economic gain, then look for a statutory exclusion or other limiting rule.",
-              "examTrap": "Do not assume that a receipt is exempt because it is unusual, punitive, or received outside employment; identify a legal basis for exclusion."
+              "examTrap": "Do not assume that a receipt is exempt because it is unusual, punitive, or received outside employment; identify a legal basis for exclusion.",
+              "laymanExplanation": "Start by assuming that money or other valuable things you receive may count as income. Then check whether a specific tax-law rule says otherwise."
             },
             {
               "id": "tax-ch1-e017",
@@ -1214,7 +1220,8 @@
               "summary": "Gross receipts are cash sales proceeds; inventory gross income generally subtracts cost of goods sold.",
               "details": "For merchandising businesses, gross income from inventory sales means gross profit rather than gross cash receipts. Inventory costs recovered through COGS are not the same as personal deductions.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 12–13",
-              "page": "12–13"
+              "page": "12–13",
+              "laymanExplanation": "A shop might collect $100 selling something it bought for $70. The $100 is gross receipts; after subtracting the item's cost, its gross profit is $30."
             },
             {
               "id": "tax-ch1-e018",
@@ -1225,7 +1232,8 @@
               "source": "IRC § 62; Bankman et al. pp. 13–14",
               "page": "13–14",
               "examApplication": "Start with gross income and subtract the qualifying deductions identified in § 62 to compute AGI; only afterward consider applicable below-the-line deductions.",
-              "examTrap": "AGI and taxable income are not the same number."
+              "examTrap": "AGI and taxable income are not the same number.",
+              "laymanExplanation": "AGI is an intermediate number on the way to taxable income: take gross income and subtract certain deductions that the law lets you take before the next stage."
             },
             {
               "id": "tax-ch1-e019",
@@ -1234,7 +1242,8 @@
               "summary": "Taxable income is the tax base after permissible deductions from gross income/AGI.",
               "details": "Conceptual sequence: AGI, then allowed below-the-line deductions (normally the standard deduction OR itemized deductions, plus other relevant statutory amounts). A taxpayer generally does not claim both standard and itemized deductions.",
               "source": "IRC § 63; Bankman et al. pp. 13–15",
-              "page": "13–15"
+              "page": "13–15",
+              "laymanExplanation": "Taxable income is the amount left after the deductions the law allows. It's the number used to apply the income-tax rates."
             },
             {
               "id": "tax-ch1-e020",
@@ -1243,7 +1252,8 @@
               "summary": "Above-line reduces gross income to AGI; below-line reduces AGI to taxable income.",
               "details": "These are practitioner shorthand, not formal statutory terms. The distinction matters because AGI influences limits and other tax computations; above-line deductions can be more advantageous.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 13–14",
-              "page": "13–14"
+              "page": "13–14",
+              "laymanExplanation": "Above-the-line deductions are taken before AGI is calculated. Below-the-line deductions generally come afterward, when going from AGI to taxable income."
             },
             {
               "id": "tax-ch1-e021",
@@ -1254,7 +1264,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 15–16",
               "page": "15–16",
               "examApplication": "Compare a deduction and a credit separately. A deductible dollar generally reduces the amount taxed; an allowed credit reduces the computed tax.",
-              "examTrap": "Do not subtract a credit from taxable income or confuse an exclusion with a deduction."
+              "examTrap": "Do not subtract a credit from taxable income or confuse an exclusion with a deduction.",
+              "laymanExplanation": "A deduction reduces how much income gets taxed. A credit reduces the tax bill itself. A $1,000 credit usually saves more than a $1,000 deduction."
             },
             {
               "id": "tax-ch1-e022",
@@ -1263,7 +1274,8 @@
               "summary": "An exclusion is not counted as income; a deduction is subtracted; exemption may describe tax-free taxpayers or receipts.",
               "details": "Gifts under § 102 and certain other receipts are cited as examples of statutory exclusions. An exclusion of $50 and inclusion followed by a usable $50 deduction can have comparable current-year tax-base effects, but other rules may make them differ.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 15–16",
-              "page": "15–16"
+              "page": "15–16",
+              "laymanExplanation": "An exclusion keeps something out of income in the first place. A deduction subtracts an allowed amount later. 'Exemption' is a separate tax-law term whose meaning depends on the provision."
             },
             {
               "id": "tax-ch1-e023",
@@ -1274,7 +1286,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 16–17",
               "page": "16–17",
               "examApplication": "Apply each marginal rate only to the taxable income falling inside its bracket.",
-              "examTrap": "Moving into a higher marginal bracket does not cause all previously taxed income to be retaxed at that higher rate."
+              "examTrap": "Moving into a higher marginal bracket does not cause all previously taxed income to be retaxed at that higher rate.",
+              "laymanExplanation": "Only the part of your income that falls inside a higher tax bracket gets that bracket's higher rate—not your entire income."
             },
             {
               "id": "tax-ch1-e024",
@@ -1283,7 +1296,8 @@
               "summary": "Marginal rate taxes the next dollar; average rate equals tax liability ÷ chosen income measure.",
               "details": "A taxpayer can face a 40% marginal bracket while having an average rate near 23% in the book’s hypothetical $60,000 example. Apply the marginal rate to incremental income or a fully usable deduction within that bracket.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 17–18",
-              "page": "17–18"
+              "page": "17–18",
+              "laymanExplanation": "Your marginal rate tells you the rate on your next dollar of taxable income. Your average rate is your total tax divided by an appropriate income measure."
             },
             {
               "id": "tax-ch1-e025",
@@ -1292,7 +1306,8 @@
               "summary": "Statutory reflects legal bracket schedule; effective may account for broader income and phaseouts.",
               "details": "An effective marginal rate can exceed the stated marginal bracket where a refundable credit or benefit is phased out as income rises. Always identify what counts in both numerator (tax) and denominator (income).",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 17–18",
-              "page": "17–18"
+              "page": "17–18",
+              "laymanExplanation": "The statutory rate is the percentage stated in the tax brackets. The effective rate tries to show what tax actually costs after other rules such as credits and phaseouts."
             },
             {
               "id": "tax-ch1-e026",
@@ -1301,7 +1316,8 @@
               "summary": "Capital gain arises from sale/exchange of capital assets; not every capital gain gets preferential rates.",
               "details": "Capital asset definition (§ 1221) generally includes investment stock but excludes, among other things, inventory and property held mainly for sale to customers. Long-term means held MORE than one year; one year or less is short-term. Preferential rates concern net capital gain after the required netting and other restrictions.",
               "source": "IRC §§ 64, 1221, 1222; Bankman et al. pp. 19–20",
-              "page": "19–20"
+              "page": "19–20",
+              "laymanExplanation": "Paychecks and many business earnings are ordinary income. Profits from selling certain investments may be capital gains, which can be taxed differently."
             },
             {
               "id": "tax-ch1-e027",
@@ -1312,7 +1328,8 @@
               "source": "IRC §§ 1211, 165; Bankman et al. pp. 19–20",
               "page": "19–20",
               "examApplication": "When a taxpayer sells capital assets at gains and losses, net capital gains and losses before applying the applicable individual capital-loss limit.",
-              "examTrap": "Do not treat a capital loss as an unlimited offset against ordinary income."
+              "examTrap": "Do not treat a capital loss as an unlimited offset against ordinary income.",
+              "laymanExplanation": "Losing money on investments doesn't mean you can always subtract the entire loss from your salary. Tax law places limits on capital losses."
             },
             {
               "id": "tax-ch1-e028",
@@ -1321,7 +1338,8 @@
               "summary": "Expenses are ordinary operating costs; losses reflect shortfalls on property/transactions and use different rules.",
               "details": "Section 162 allows ordinary and necessary business expenses subject to statutory limits; § 165 governs important loss deductions. The labels matter because they follow separate legal tests.",
               "source": "IRC §§ 162, 165",
-              "page": "20"
+              "page": "20",
+              "laymanExplanation": "An expense is money spent to operate a business. A loss can arise when a property or transaction ends up worth less than its tax cost; different deduction rules apply."
             },
             {
               "id": "tax-ch1-e029",
@@ -1332,7 +1350,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 20–21",
               "page": "20–21",
               "examApplication": "For a timing problem, identify the accounting method and determine when the income or expense enters the tax calculation.",
-              "examTrap": "Do not automatically use payment date for accrual-method taxpayers or invoice date for cash-method taxpayers."
+              "examTrap": "Do not automatically use payment date for accrual-method taxpayers or invoice date for cash-method taxpayers.",
+              "laymanExplanation": "Under the cash method, payment timing generally matters. Under the accrual method, earning the income or incurring the expense generally matters—even when cash moves later."
             },
             {
               "id": "tax-ch1-e030",
@@ -1341,7 +1360,8 @@
               "summary": "A long-lived asset’s acquisition cost ordinarily cannot simply be expensed immediately.",
               "details": "Land basis is usually recovered on disposition; depreciable machinery generally receives cost recovery over time, subject to statutory accelerated-depreciation/expensing provisions. Do not treat every cash purchase as a current deduction.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 20–22",
-              "page": "20–22"
+              "page": "20–22",
+              "laymanExplanation": "Buying office supplies and buying a building are treated differently. The building usually has to be capitalized, with its cost recovered over time or on sale rather than all at once."
             },
             {
               "id": "tax-ch1-e031",
@@ -1352,7 +1372,8 @@
               "source": "IRC §§ 1012, 1016; Bankman et al. pp. 21–22",
               "page": "21–22",
               "examApplication": "For a disposition problem, identify the taxpayer's starting basis and any relevant adjustments (for example, capital improvements or depreciation) before computing realized gain or loss. Under the general gain formula, amount realized minus adjusted basis gives realized gain or loss.",
-              "examTrap": "Do not confuse the property's current fair market value with its adjusted tax basis."
+              "examTrap": "Do not confuse the property's current fair market value with its adjusted tax basis.",
+              "laymanExplanation": "Basis is the tax system's record of what you invested in an asset. Buy something for $100 and improve it for $20: the adjusted basis may be $120, before other adjustments."
             },
             {
               "id": "tax-ch1-e032",
@@ -1364,7 +1385,8 @@
               "page": "22",
               "alert": "Current-law qualification: §1031 is limited to qualifying real-property exchanges; the book’s land-for-apartment illustration requires statutory conditions.",
               "examApplication": "Ask two questions separately: (1) Did a sale or exchange realize a gain or loss? (2) Does current tax law require recognition now, or allow nonrecognition/deferral?",
-              "examTrap": "A realized gain is not always currently recognized as taxable income."
+              "examTrap": "A realized gain is not always currently recognized as taxable income.",
+              "laymanExplanation": "Realization is when something happens, like a sale, that turns a paper gain into a tax event. Recognition asks whether the tax law actually makes you report that gain now."
             },
             {
               "id": "tax-ch1-e033",
@@ -1373,7 +1395,8 @@
               "summary": "Sole proprietor reports directly; partnerships generally pass taxable income and losses through to partners.",
               "details": "The partnership files an information return but generally does not pay entity-level federal income tax. Owners separately report their distributive shares under partnership rules, not necessarily cash received.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 22–23",
-              "page": "22–23"
+              "page": "22–23",
+              "laymanExplanation": "A sole proprietor and a partner generally report business income through individual returns, though partnerships have their own reporting rules."
             },
             {
               "id": "tax-ch1-e034",
@@ -1383,7 +1406,8 @@
               "details": "The casebook simplifies LLCs as partnerships, but real classification can vary: one-member LLCs may be disregarded, multi-member LLCs often default to partnerships, and eligible LLCs can elect corporate treatment. C corporations generally pay entity-level tax; dividends can be taxed again to shareholders. S corporations generally pass through income under eligibility restrictions.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 22–23",
               "page": "22–23",
-              "alert": "Textbook simplification: do not assume every LLC is taxed as a partnership."
+              "alert": "Textbook simplification: do not assume every LLC is taxed as a partnership.",
+              "laymanExplanation": "Different business forms can lead to different tax bills. A corporation may pay tax itself, while some LLCs and S corporations pass income through to owners."
             },
             {
               "id": "tax-ch1-e035",
@@ -1392,7 +1416,8 @@
               "summary": "Trusts can serve as conduits but may also have their own income-tax liability.",
               "details": "Trustee holds property for beneficiaries; tax depends on income accumulation/distribution and trust classification. Chapter 1 provides only an orientation, not the detailed trust rules.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 23",
-              "page": "23"
+              "page": "23",
+              "laymanExplanation": "A trust holds and manages assets for beneficiaries. Depending on its rules and distributions, tax may be paid by the trust or by beneficiaries."
             },
             {
               "id": "tax-ch1-e036",
@@ -1401,7 +1426,8 @@
               "summary": "Inflation can produce taxable nominal gains even where purchasing power has not increased.",
               "details": "Illustration: $100 cost grows to $105 with 5% inflation; $5 nominal gain need not represent real economic improvement. Tax basis is generally not inflation-indexed, while brackets and certain dollar thresholds are adjusted under statutory rules.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 23–24",
-              "page": "23–24"
+              "page": "23–24",
+              "laymanExplanation": "If something rises in price only because everything has become more expensive, your paper profit may not represent a real increase in purchasing power."
             },
             {
               "id": "tax-ch1-e037",
@@ -1428,7 +1454,8 @@
               "summary": "Recharacterizing ordinary-return activity as eligible long-term capital gain can reduce the applicable rate.",
               "details": "The chapter’s start-up founder example shows value created largely by labor but potentially realized as capital gain on sale of ownership interest. Complex anti-conversion provisions may override simplistic characterizations.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 24–25",
-              "page": "24–25"
+              "page": "24–25",
+              "laymanExplanation": "Tax planning sometimes tries to change the legal category of income—for example, whether a gain is ordinary or capital—because different categories may have different rates."
             },
             {
               "id": "tax-ch1-e039",
@@ -1437,7 +1464,8 @@
               "summary": "Delay recognition/payment and keep funds invested in the interim.",
               "details": "Deferral may increase after-tax wealth when other variables are held constant and returns are positive. It is not automatically advantageous when future tax rates differ; compare investments and tax rates across both periods.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 25–26",
-              "page": "25–26"
+              "page": "25–26",
+              "laymanExplanation": "Paying tax later can be valuable because you get more time to use or invest the money before paying it."
             },
             {
               "id": "tax-ch1-e040",
@@ -1455,7 +1483,8 @@
               "summary": "Future value = present investment × (1 + return)^number of periods.",
               "details": "For an initial $10,000 growing at 10% per year for ten years, book illustration ≈ $25,937 before tax. Distinguish untaxed growth inside a deferral arrangement from after-tax annual returns.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 26–27",
-              "page": "26–27"
+              "page": "26–27",
+              "laymanExplanation": "Future value estimates how much an investment grows when each period's earnings stay invested and earn more earnings."
             },
             {
               "id": "tax-ch1-e042",
@@ -1464,7 +1493,8 @@
               "summary": "Present value = future amount ÷ (1 + discount rate)^periods.",
               "details": "At 10% for 10 years, the multiplier is ≈ 0.3855 (the table rounds to .386). The textbook’s Table 1-5 provides a range of rates and periods, but the formula permits direct calculation.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 26–27",
-              "page": "26–27"
+              "page": "26–27",
+              "laymanExplanation": "Present value asks how much money today is equivalent to a larger amount promised in the future."
             },
             {
               "id": "tax-ch1-e043",
@@ -1473,7 +1503,8 @@
               "summary": "Initial after-tax principal = principal × (1 − tax rate); annual after-tax growth uses return × (1 − tax rate).",
               "details": "The chapter compares an immediate 40% tax and annual taxation of 10% yields with delayed taxation. This is a simplified model that assumes a constant rate and full annual taxation of investment returns.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 26",
-              "page": "26"
+              "page": "26",
+              "laymanExplanation": "If taxes are collected from investment earnings every year, less money remains invested and compounding may be reduced."
             }
           ]
         },
@@ -1491,7 +1522,8 @@
               "summary": "Taxpayers calculate liability; withholding and estimated payments are credited toward that liability.",
               "details": "The IRS administers returns, matching, audits, and collections. After computing tax and credits, compare tax owed against taxes already paid to determine remaining balance or refund.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 28",
-              "page": "28"
+              "page": "28",
+              "laymanExplanation": "You usually calculate and report your own tax on a return. Withholding and estimated tax payments reduce what remains to pay, or may create a refund."
             },
             {
               "id": "tax-ch1-e045",
@@ -1500,7 +1532,8 @@
               "summary": "Audit is closer IRS scrutiny; deficiency is an asserted amount of underpaid tax.",
               "details": "The general assessment period discussed by the textbook is three years, subject to major exceptions. Interest typically accrues on underpayments; penalties may also apply. The IRS often resolves disputes administratively.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 28–29",
-              "page": "28–29"
+              "page": "28–29",
+              "laymanExplanation": "An audit is an IRS check of your return. A deficiency is the additional tax the IRS says you owe."
             },
             {
               "id": "tax-ch1-e046",
@@ -1509,7 +1542,8 @@
               "summary": "Tax Court generally permits qualifying prepayment deficiency challenges; refund suits generally follow payment.",
               "details": "Tax Court: no jury, specialist judges, appeal to regional circuit. Federal district court: refund litigation after payment, jury potentially available, regional circuit appeal. Court of Federal Claims: refund litigation after payment, Federal Circuit appeal. Procedural requirements and deadlines are important and not fully covered in the introductory summary.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 29",
-              "page": "29"
+              "page": "29",
+              "laymanExplanation": "The court you use for a tax dispute matters. Some cases can be contested in Tax Court before paying the proposed deficiency; refund cases generally involve paying first."
             },
             {
               "id": "tax-ch1-e047",
@@ -1518,7 +1552,8 @@
               "summary": "The casebook describes a 20% penalty for specified negligence/substantial-understatement underpayments.",
               "details": "The chapter notes substantial authority, adequate disclosure/reasonable basis, and reasonable-cause/good-faith rules that may limit penalties. Multiple overlapping 20% grounds generally do not simply stack. Check current §6662/§6664 and exact facts.",
               "source": "IRC §§ 6662, 6664; Bankman et al. pp. 29–30",
-              "page": "29–30"
+              "page": "29–30",
+              "laymanExplanation": "Tax mistakes can trigger civil penalties, not just extra tax. The applicable penalty and possible defenses depend on what went wrong."
             },
             {
               "id": "tax-ch1-e048",
@@ -1527,7 +1562,8 @@
               "summary": "The chapter lists monthly filing/payment penalties and a 75% civil-fraud penalty.",
               "details": "As a basic introductory reference: failure to file is generally 5% per month up to 25%; failure to pay generally 0.5% per month up to 25%, with statutory interactions and exceptions. Civil fraud generally can produce a 75% penalty on the fraud portion. Actual computation depends on relevant rules and dates.",
               "source": "IRC §§ 6651, 6663; Bankman et al. p. 30",
-              "page": "30"
+              "page": "30",
+              "laymanExplanation": "Filing late, paying late, and deliberately committing fraud are different violations with different penalties."
             },
             {
               "id": "tax-ch1-e049",
@@ -1536,7 +1572,8 @@
               "summary": "Willful tax evasion can create felony exposure in addition to civil sanctions.",
               "details": "The casebook contrasts civil and criminal enforcement and describes a six-year limitations period for specified tax offenses. Criminal liability requires the relevant statutory elements and mental state.",
               "source": "IRC §7201; Bankman et al. p. 30",
-              "page": "30"
+              "page": "30",
+              "laymanExplanation": "Criminal tax evasion is more than getting a tax number wrong: it involves intentional conduct to evade tax under the governing criminal requirements."
             }
           ]
         },
@@ -1573,7 +1610,8 @@
               "details": "The textbook discusses Mayo (2011) and Chevron deference as the then-governing doctrine. CURRENT-LAW UPDATE: Loper Bright (2024) overruled Chevron; courts independently interpret law under the APA. A delegation to an agency can remain legally relevant; the old automatic ambiguity-triggered Chevron rule is not current.",
               "source": "IRC §7805; Mayo Foundation v. United States (2011); Loper Bright v. Raimondo (2024)",
               "page": "31–32",
-              "alert": "OUTDATED IN CASEBOOK: Chevron deference was overruled in 2024."
+              "alert": "OUTDATED IN CASEBOOK: Chevron deference was overruled in 2024.",
+              "laymanExplanation": "Treasury regulations are detailed rules issued by Treasury that help explain how the Internal Revenue Code operates."
             },
             {
               "id": "tax-ch1-e053",
@@ -1582,7 +1620,8 @@
               "summary": "Rev. Rul. expresses IRS legal position on a fact pattern; Rev. Proc. addresses administration/procedures.",
               "details": "Both are IRS guidance, generally less authoritative than duly issued Treasury regulations and judicial precedent. Their practical importance is substantial, but authority and reliance depend on the specific type and context.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 32",
-              "page": "32"
+              "page": "32",
+              "laymanExplanation": "Revenue rulings explain the IRS's position on how law applies to facts. Revenue procedures generally explain processes and administrative rules."
             },
             {
               "id": "tax-ch1-e054",
@@ -1591,7 +1630,8 @@
               "summary": "IRS written advice to a particular taxpayer generally may not be cited as precedent by others.",
               "details": "PLRs can reveal the Service’s likely approach but do not create general binding law. Distinguished from published Revenue Rulings.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 32–33",
-              "page": "32–33"
+              "page": "32–33",
+              "laymanExplanation": "A private letter ruling is the IRS answering a particular taxpayer's question. Other taxpayers generally cannot treat that letter as binding precedent."
             },
             {
               "id": "tax-ch1-e055",
@@ -1600,7 +1640,8 @@
               "summary": "Tax Court has regular and memorandum decisions; IRS may announce acquiescence or nonacquiescence.",
               "details": "Acquiescence signals internal acceptance of a ruling for similar cases; nonacquiescence signals continued disagreement and possible relitigation. Neither itself reverses binding judicial precedent.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 33",
-              "page": "33"
+              "page": "33",
+              "laymanExplanation": "Tax Court decisions interpret tax law. The IRS may say whether it accepts a particular decision's reasoning for similar cases."
             },
             {
               "id": "tax-ch1-e056",
@@ -1653,7 +1694,8 @@
               "summary": "A principle for allocating tax burdens based on a taxpayer's economic capacity, rather than equal dollar charges.",
               "details": "Income is a practical but imperfect proxy; ability to pay need not equal immediate cash liquidity. A broader endowment concept would consider earnings potential, but is generally not taxed.",
               "page": "36",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 36"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 36",
+              "laymanExplanation": "The basic fairness idea is that someone with greater financial resources may reasonably be expected to contribute more in taxes."
             },
             {
               "id": "tax2-a02",
@@ -1662,7 +1704,8 @@
               "summary": "A fixed dollar amount charged to each person, without regard to earnings, wealth, or spending.",
               "details": "The reading uses it to contrast economic efficiency with perceived unfairness. The 2022 $17,500 example is historical, not an actual tax.",
               "page": "35",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 35"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 35",
+              "laymanExplanation": "Imagine everyone owes the same $10,000 tax regardless of income. Easy to calculate, but extremely hard on people who earn little."
             },
             {
               "id": "tax2-a03",
@@ -1671,7 +1714,8 @@
               "summary": "The economic amount or activity used to measure and calculate tax; examples include income, consumption, and wealth.",
               "details": "Choosing a base determines which economic opportunities or transactions get taxed; income may not capture leisure or untapped earning capacity.",
               "page": "36",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 36"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 36",
+              "laymanExplanation": "Taxing wages, spending, and wealth are different ways to pick what gets measured before a tax rate is applied."
             },
             {
               "id": "tax2-a04",
@@ -1680,7 +1724,8 @@
               "summary": "A person's potential hourly earning capacity, even if they choose not to exercise it.",
               "details": "Dora and Felix each earn $52,000 annually, but work 50 and 10 hours per week respectively. An income tax sees the same pay, not the opportunity cost of differing leisure.",
               "page": "36",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 36"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 36",
+              "laymanExplanation": "Two people may earn the same paycheck, but one works far fewer hours. Their ability to earn per hour can differ even if income tax treats their earnings alike."
             },
             {
               "id": "tax2-a05",
@@ -1690,7 +1735,8 @@
               "details": "Broader economic benchmark than statutory gross income: includes appreciation in wealth even where realization-based tax rules may defer inclusion.",
               "page": "37",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 37",
-              "elements": "Y = C + ΔW, where C = market value of consumption and ΔW = change in net worth."
+              "elements": "Y = C + ΔW, where C = market value of consumption and ΔW = change in net worth.",
+              "laymanExplanation": "This economist's definition says your income is what you consume plus how much richer you became during the period. It's broader than what today's tax return necessarily counts."
             },
             {
               "id": "tax2-a06",
@@ -1699,7 +1745,8 @@
               "summary": "Income = consumption + saving, equivalently consumption + change in net worth.",
               "details": "If wages are $10,000, consumption $9,000 and saving $1,000, then Y=$10,000. If consumption is $11,000 and borrowing increases by $1,000, change in net worth is −$1,000 and Y remains $10,000.",
               "page": "37",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 37"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 37",
+              "laymanExplanation": "If you spent $9,000 and saved another $1,000, the formula says you had $10,000 of economic income. Saving and spending are two destinations for income."
             },
             {
               "id": "tax2-a07",
@@ -1708,7 +1755,8 @@
               "summary": "A levy measured by resources used for consumption rather than those saved and invested.",
               "details": "A cash-flow version can generally be understood as income with a deduction for saving and inclusion when saved/borrowed funds are used for consumption.",
               "page": "38",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 38"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 38",
+              "laymanExplanation": "A consumption tax focuses on what you use or spend, rather than taxing money simply because you earned and saved it."
             },
             {
               "id": "tax2-a08",
@@ -1717,7 +1765,8 @@
               "summary": "Economic value generated by goods or services one provides to oneself, such as living in one's own home or performing unpaid household services.",
               "details": "The textbook discusses why ordinary income-tax administration largely ignores much imputed income, despite economic similarities to market transactions.",
               "page": "38",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 38"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 38",
+              "laymanExplanation": "If you fix your own house rather than paying someone else, you receive something valuable without getting paid money. Economists can view that unpaid benefit as income."
             },
             {
               "id": "tax2-a09",
@@ -1745,7 +1794,8 @@
               "page": "39",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 39",
               "examApplication": "For any receipt, identify the actual benefit, who controls it, whether it is realized, and any asserted Code exclusion.",
-              "examTrap": "The absence of a specific item in §61's illustrative list does NOT establish exclusion."
+              "examTrap": "The absence of a specific item in §61's illustrative list does NOT establish exclusion.",
+              "laymanExplanation": "When something valuable comes in, the starting point is that it counts as income. You need a legal reason to leave it out."
             },
             {
               "id": "tax2-b02",
@@ -1754,7 +1804,8 @@
               "summary": "An unexpected economic gain not necessarily earned through labor or investment.",
               "details": "A windfall can still be taxable. The textbook contrasts a narrow early formulation of income with Glenshaw Glass and later found-property cases.",
               "page": "40",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 40"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 40",
+              "laymanExplanation": "A windfall is money or value you unexpectedly receive, like money found in a piano. Unexpected does not mean tax-free."
             },
             {
               "id": "tax2-b03",
@@ -1764,7 +1815,8 @@
               "details": "This is the landmark framework derived from the reproduced Glenshaw Glass opinion; punitive damages generally qualify as taxable gross income.",
               "page": "42",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 42",
-              "examTrap": "Do not universalize Eisner v. Macomber's older income-from-capital-or-labor phrase."
+              "examTrap": "Do not universalize Eisner v. Macomber's older income-from-capital-or-labor phrase.",
+              "laymanExplanation": "The Court's basic idea: if you genuinely gain wealth, actually receive or realize it, and control it, you're generally dealing with income."
             },
             {
               "id": "tax2-case-cesarini",
@@ -1787,7 +1839,8 @@
               "examApplication": {
                 "source": "Cesarini v. United States, 296 F. Supp. 3 (N.D. Ohio 1969), reproduced in assigned Chapter 2 pp. 43–45",
                 "page": "43–45"
-              }
+              },
+              "laymanExplanation": "A couple found cash hidden inside a used piano years after buying it. The court treated the money as taxable when it became theirs to keep, rather than as a tax-free surprise."
             },
             {
               "id": "tax2-b04",
@@ -1796,7 +1849,8 @@
               "summary": "Found money or property that may generate gross income when reduced to undisputed possession.",
               "details": "Treas. Reg. §1.61-14(a), relied upon in Cesarini, includes treasure trove at its U.S.-currency value in the year of undisputed possession.",
               "page": "45",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 45"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 45",
+              "laymanExplanation": "Treasure trove means valuable property or money someone finds. Once the finder has undisputed possession, its value can be taxable."
             },
             {
               "id": "tax2-b05",
@@ -1821,7 +1875,8 @@
               "details": "The Court read § 22(a) of the 1939 Code (predecessor of § 61) broadly: Congress did not restrict gross income to earnings from productive labor, capital, or conventional transactions.",
               "source": "Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955), excerpt supplied, pp. 40–42",
               "examApplication": "Determine whether the receipt represents a realized accession to wealth subject to the taxpayer's control. Punitive nature alone is not an exclusion.",
-              "examTrap": "Do not treat punitive damages as automatically untaxed windfalls."
+              "examTrap": "Do not treat punitive damages as automatically untaxed windfalls.",
+              "laymanExplanation": "A lawsuit payout does not become tax-free simply because it punishes the defendant. Punitive damages can count as income."
             },
             {
               "id": "tax-ch2-case-glenshaw",
@@ -1840,7 +1895,8 @@
               "examApplication": "Hypothetical: A business receives $125,000 to compensate lost profit and $250,000 in punitive antitrust damages. Under the opinion's statutory construction, both amounts fall within gross income, absent an applicable exclusion.",
               "examTrap": "The Court did not hold that every transfer or increase in asset value is necessarily taxable at once; realization and exclusions still matter.",
               "source": "User-provided reproduced opinion, Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955), pp. 40–42. Case brief summarizes only the supplied excerpt.",
-              "sourceRole": "Reproduced judicial opinion supplied by user — dedicated assigned case brief."
+              "sourceRole": "Reproduced judicial opinion supplied by user — dedicated assigned case brief.",
+              "laymanExplanation": "Two companies kept the punitive part of lawsuit recoveries off their tax returns. The Supreme Court said those payments still increased their wealth and were taxable."
             }
           ]
         },
@@ -1858,7 +1914,8 @@
               "details": "Treas. Reg. §1.61-1(a). When services are paid for with property, generally include the fair market value of property received as compensation under Reg. §1.61-2(d)(1).",
               "page": "46",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 46",
-              "examApplication": "A lawyer performs services in exchange for renovations. Analyze the fair market value of services/property received rather than treating the barter as tax-free."
+              "examApplication": "A lawyer performs services in exchange for renovations. Analyze the fair market value of services/property received rather than treating the barter as tax-free.",
+              "laymanExplanation": "Getting paid with groceries, services, a car, or other property doesn't automatically avoid income tax. The value of what you receive can still be pay."
             },
             {
               "id": "tax2-c02",
@@ -1867,7 +1924,8 @@
               "summary": "Compensation or other employee benefit received without cash, or at a below-market price.",
               "details": "Includes employer meals, lodging, insurance, discounts, travel, parking and access to facilities. Analyze inclusion under §61 and any specific exclusions.",
               "page": "59",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 59"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 59",
+              "laymanExplanation": "A fringe benefit is a perk from your employer in addition to ordinary wages—like free meals or travel."
             },
             {
               "id": "tax2-c03",
@@ -1876,7 +1934,8 @@
               "summary": "Value property or services would command in an arm's-length market transaction.",
               "details": "General benchmark for valuing taxable noncash fringe benefits under Reg. §1.61-21(b), potentially subject to special valuation methods.",
               "page": "61",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 61"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 61",
+              "laymanExplanation": "Fair market value is roughly the price a willing buyer and seller would agree on in an ordinary market deal."
             },
             {
               "id": "tax2-c04",
@@ -1887,7 +1946,8 @@
               "page": "52",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 52",
               "elements": "(1) Meals furnished by/on behalf of employer; (2) for employer's convenience; (3) on employer's business premises; (4) qualifying employee/family recipient.",
-              "examTrap": "Cash allowances are not necessarily meals furnished. Distinguish paid cash from food furnished."
+              "examTrap": "Cash allowances are not necessarily meals furnished. Distinguish paid cash from food furnished.",
+              "laymanExplanation": "Free meals at work can be tax-free when the employer provides them for genuine work-related reasons at the workplace, not just as extra pay."
             },
             {
               "id": "tax2-c05",
@@ -1898,7 +1958,8 @@
               "page": "52",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 52",
               "elements": "(1) Lodging furnished by/on behalf of employer; (2) employer convenience; (3) business premises; (4) employee required to accept as condition of employment.",
-              "examTrap": "Being provided free housing does not itself prove the employer-convenience or employment-condition requirements."
+              "examTrap": "Being provided free housing does not itself prove the employer-convenience or employment-condition requirements.",
+              "laymanExplanation": "Free housing from your employer may be tax-free only if it is provided for work reasons, at the workplace, and you must live there to perform the job."
             },
             {
               "id": "tax2-case-benaglia",
@@ -1933,7 +1994,8 @@
                   "reason": "Benaglia is an assigned historical opinion; Congress later codified a more specific rule in §119 (1954). Apply §119 on current-law exams.",
                   "authority": "IRC §119"
                 }
-              }
+              },
+              "laymanExplanation": "A hotel manager had to stay at the hotel to do his job. The court viewed the meals and room as provided for the employer's needs, not as ordinary extra pay. Modern exams apply the statute, §119."
             },
             {
               "id": "tax2-case-gotcher",
@@ -1956,7 +2018,8 @@
               "examApplication": {
                 "source": "United States v. Gotcher, 401 F.2d 118 (5th Cir. 1968), reproduced at pp. 56–59",
                 "page": "56–59"
-              }
+              },
+              "laymanExplanation": "A car dealer's company-funded factory trip mainly served the business, but the spouse's vacation-like trip benefited her personally. The court treated them differently."
             },
             {
               "id": "tax2-c06",
@@ -1965,7 +2028,8 @@
               "summary": "Qualifying services provided to employees that cause no substantial additional cost may be excludable.",
               "details": "Example: an otherwise empty seat for an airline employee on a flight, subject to employer's line-of-business and nondiscrimination rules.",
               "page": "60",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60",
+              "laymanExplanation": "If letting an employee use a spare airline seat costs the airline almost nothing extra, the perk may fit a special tax exclusion."
             },
             {
               "id": "tax2-c07",
@@ -1974,7 +2038,8 @@
               "summary": "Employee discounts on goods or services ordinarily sold in the employer's line of business may qualify for exclusion within statutory limits.",
               "details": "Line-of-business and nondiscrimination restrictions apply to this benefit category.",
               "page": "60",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60",
+              "laymanExplanation": "Employees sometimes get tax-favored discounts on the goods or services their employer normally sells, up to legal limits."
             },
             {
               "id": "tax2-c08",
@@ -1983,7 +2048,8 @@
               "summary": "An employee may exclude an employment-related benefit that would be deductible as a business expense if the employee had paid for it.",
               "details": "Examples from reading: qualifying business use of a company automobile and industry subscriptions.",
               "page": "60",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60",
+              "laymanExplanation": "If the employer pays for something you'd properly deduct as a business expense yourself, the perk may be excluded as a working-condition fringe."
             },
             {
               "id": "tax2-c09",
@@ -1992,7 +2058,8 @@
               "summary": "Benefits so small in value or infrequent that accounting is unreasonable or administratively impracticable can be excluded.",
               "details": "Separate rules address certain eating facilities; this category is not a blanket exclusion for recurring valuable perks.",
               "page": "60",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60",
+              "laymanExplanation": "Tiny or occasional workplace perks may not be worth tracking for tax purposes; major recurring perks aren't automatically 'de minimis.'"
             },
             {
               "id": "tax2-c10",
@@ -2001,7 +2068,8 @@
               "summary": "Qualified transportation fringes, retirement-planning services and certain on-premises athletic facilities may qualify for specific exclusions.",
               "details": "Different statutory limitations and eligible recipients apply; do not assume every benefit can be extended tax-free to family members.",
               "page": "60",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60",
+              "laymanExplanation": "Tax law has additional special rules for certain transit benefits, retirement-planning help, and on-premises gyms."
             },
             {
               "id": "tax2-c11",
@@ -2010,7 +2078,8 @@
               "summary": "A qualifying cafeteria plan allows an employee to choose between taxable cash and specified tax-favored benefits without automatic taxation solely because cash was available.",
               "details": "Without statutory protection, the constructive-receipt doctrine could tax the available cash choice. Coverage and nondiscrimination limitations apply.",
               "page": "62",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 62"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 62",
+              "laymanExplanation": "A cafeteria plan lets workers choose among specified benefits and cash without making all the qualified benefit choices taxable just because cash was available."
             },
             {
               "id": "tax2-c12",
@@ -2019,7 +2088,8 @@
               "summary": "Tax doctrine potentially treating income as received when unrestrictedly made available despite the taxpayer's choice not to take it.",
               "details": "The chapter references this doctrine to explain why §125 cafeteria plans need express statutory authorization; full timing rules occur later.",
               "page": "62",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 62"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 62",
+              "laymanExplanation": "You can't always avoid income tax by refusing money that's already available to you. Tax law may treat it as received anyway."
             },
             {
               "id": "tax2-c13",
@@ -2028,7 +2098,8 @@
               "summary": "Certain cafeteria-plan amounts designated for eligible expenses may be forfeited if not used within permitted periods.",
               "details": "The chapter illustrates the planning burden; specific carryover and grace-period exceptions should be checked under current plan rules.",
               "page": "62",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 62"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 62",
+              "laymanExplanation": "Some benefits money must be spent on eligible expenses within set time limits, or you may lose unused amounts, subject to plan exceptions."
             },
             {
               "id": "tax2-c14",
@@ -2037,7 +2108,8 @@
               "summary": "Qualifying employer-paid health insurance and certain reimbursements for medical care can be excluded under specific statutes.",
               "details": "The text describes employer-paid medical insurance, medical expense reimbursements, and the role of §125 health FSA arrangements; verify specific statutory requirements.",
               "page": "63",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 63"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 63",
+              "laymanExplanation": "Employer medical insurance and certain medical reimbursements often receive favorable tax treatment under special rules."
             },
             {
               "id": "tax2-case-turner",
@@ -2057,7 +2129,8 @@
               "examApplication": {
                 "source": "Turner v. Commissioner, 13 T.C.M. 462 (1954), reproduced in assigned Chapter 2 pp. 64–67",
                 "page": "64–67"
-              }
+              },
+              "laymanExplanation": "Someone won expensive travel tickets they couldn't easily sell. The court did not simply use the full ticket price; it looked at what the benefit was realistically worth."
             },
             {
               "id": "tax2-c15",
@@ -2077,7 +2150,8 @@
               "page": "Supplemental opinion",
               "source": "IRC §107; IRS Ministers' Compensation and Housing Allowance FAQ; Gaylor v. Mnuchin (assigned PDF)",
               "elements": "Compare the housing allowance officially designated in advance, the amount actually used to provide a home, and the home's fair rental value with furnishings and utilities; subject to qualifications.",
-              "examTrap": "Distinguish income-tax exclusion from self-employment tax treatment and §107(1) furnished housing from §107(2) cash allowances."
+              "examTrap": "Distinguish income-tax exclusion from self-employment tax treatment and §107(1) furnished housing from §107(2) cash allowances.",
+              "laymanExplanation": "A qualifying minister may be able to exclude certain employer-provided housing or a designated housing allowance from income tax, within limits."
             },
             {
               "id": "tax2-case-gaylor",
@@ -2104,7 +2178,8 @@
                 "reason": "Gaylor's result upholding §107(2) should be distinguished from its use of Lemon-era Establishment Clause analysis. Kennedy v. Bremerton School District (2022) stated that courts should use historical practices and understandings instead of Lemon and the endorsement test.",
                 "authority": "Kennedy v. Bremerton Sch. Dist., 597 U.S. 507 (2022)",
                 "url": "https://www.law.cornell.edu/supremecourt/text/21-418"
-              }
+              },
+              "laymanExplanation": "A group challenged a tax break for clergy housing. The appeals court said that the statutory exclusion was constitutional; later Supreme Court cases changed the test courts use for these church-and-state disputes."
             }
           ]
         },
@@ -2122,7 +2197,8 @@
               "details": "Repayment of the same $500 loan principal, or sale of $500-basis stock for $500, produces no gain. Distinguish receipts representing earnings from recoveries of investment.",
               "page": "68",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68",
-              "examTrap": "Gross proceeds are not automatically the same as taxable gain."
+              "examTrap": "Gross proceeds are not automatically the same as taxable gain.",
+              "laymanExplanation": "Getting back money you already invested is not a new profit. If you lend $500 and receive $500 back, that principal repayment is not income."
             },
             {
               "id": "tax2-d02",
@@ -2131,7 +2207,8 @@
               "summary": "A taxpayer's unrecovered tax investment in an asset, ordinarily its cost, subject to statutory adjustments.",
               "details": "Basis prevents taxing recovery of one's own investment as though it were income. Reference §§ 1011, 1012, 1016 as developed in the course.",
               "page": "68",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68",
+              "laymanExplanation": "Your basis is your tax 'starting cost' in property. It matters because you usually pay tax on profit above that cost, not the whole sale price."
             },
             {
               "id": "tax2-d03",
@@ -2140,7 +2217,8 @@
               "summary": "Consideration received on disposition of property, measured under the governing realization rules.",
               "details": "In a simple cash sale, amount realized is sale proceeds; gain is amount realized minus adjusted basis, subject to transaction-specific rules.",
               "page": "68",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68",
+              "laymanExplanation": "Amount realized is what you get when you sell property, before subtracting the property's tax basis to figure out gain."
             },
             {
               "id": "tax2-d04",
@@ -2150,7 +2228,8 @@
               "details": "Simple example: sell stock for $700 with allocated adjusted basis $400 → $300 realized gain. The character and recognition of the result require additional analysis.",
               "page": "68",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68",
-              "examApplication": "Always identify adjusted basis before measuring gain, and separate gain amount from recognition and characterization."
+              "examApplication": "Always identify adjusted basis before measuring gain, and separate gain amount from recognition and characterization.",
+              "laymanExplanation": "Sell something for $700 with $400 in basis: the difference, $300, is your realized gain."
             },
             {
               "id": "tax2-d05",
@@ -2159,7 +2238,8 @@
               "summary": "When an asset or acquired block of property is partly disposed of, reasonably apportion cost basis among the interests disposed of.",
               "details": "For 100 shares acquired for $1,000, 40 identical shares have $400 allocated basis. For nonuniform land, allocate by relative value rather than acreage alone where appropriate.",
               "page": "69",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69",
+              "laymanExplanation": "If you sell only part of something, you have to work out how much of your original purchase cost belongs to the part sold."
             },
             {
               "id": "tax2-d06",
@@ -2168,7 +2248,8 @@
               "summary": "The assignment of a portion of total cost to property or rights separately sold or disposed of.",
               "details": "The book contrasts homogeneous stock with wooded and tillable acreage. An impossible/impracticable allocation may warrant special treatment under Inaja.",
               "page": "69",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69",
+              "laymanExplanation": "You can't always divide a property's basis simply by the number of acres or shares; what each portion was worth may matter."
             },
             {
               "id": "tax2-case-inaja",
@@ -2191,7 +2272,8 @@
               "examApplication": {
                 "source": "Inaja Land Co. v. Commissioner, 9 T.C. 727 (1947), excerpt reproduced pp. 69–70",
                 "page": "69–70"
-              }
+              },
+              "laymanExplanation": "A landowner was paid for damage and easement rights. The court allowed the payment to reduce property basis because nobody could reasonably assign a precise cost to the rights surrendered."
             },
             {
               "id": "tax2-d07",
@@ -2209,7 +2291,8 @@
                 "reason": "The book states gambling losses are deductible up to gambling winnings; for taxable years beginning after December 31, 2025, Pub. L. 119-21 changed §165(d) to a 90% allowable-loss formula capped by winnings.",
                 "authority": "IRC §165(d); IRS IRB 2026-19",
                 "url": "https://uscode.house.gov/us/usc/t26/s165/"
-              }
+              },
+              "laymanExplanation": "For tax year 2026, the book's old rule for gambling losses changed: even if you lose as much as you win, you may not be able to deduct all of the losses."
             },
             {
               "id": "tax2-d08",
@@ -2218,7 +2301,8 @@
               "summary": "Rules that allow losses or deductions to offset only income in a specified category, rather than income generally.",
               "details": "Chapter examples: wagering losses (§165(d)), capital losses (§1211), passive losses (§469), hobby-related limits (§183), investment interest (§163(d)).",
               "page": "72",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 72"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 72",
+              "laymanExplanation": "Some losses can only be used against gains of the same kind. Picture separate baskets for different categories of tax items."
             },
             {
               "id": "tax2-d09",
@@ -2227,7 +2311,8 @@
               "summary": "A grouping concept used in determining amounts won and lost during a related gambling session.",
               "details": "The text distinguishes in-session netting from separately incurred losses, particularly for nonprofessional taxpayers who itemize.",
               "page": "72",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 72"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 72",
+              "laymanExplanation": "A gambling session means a defined period of betting. The way wins and losses are grouped can affect tax calculations."
             },
             {
               "id": "tax2-case-clark",
@@ -2250,7 +2335,8 @@
                 "label": "OLD REASONING NO LONGER LAW",
                 "reason": "The reading expressly states Clark's 'derived from capital or labor' rationale is no longer good law after Glenshaw Glass, though its narrow reimbursement holding remains.",
                 "authority": "Glenshaw Glass; textbook's Current Legal Status of Clark note"
-              }
+              },
+              "laymanExplanation": "An accountant's mistake caused a taxpayer to pay more tax than legally necessary. The accountant paid him back. The court treated that reimbursement as making him whole, not extra income."
             },
             {
               "id": "tax2-d10",
@@ -2259,7 +2345,8 @@
               "summary": "Receipt that restores a prior economic loss rather than adding new net wealth, potentially raising tax-benefit and basis questions.",
               "details": "The text compares Clark's tax overpayment to an asset having recoverable basis; treatment may depend on whether an earlier deduction was taken.",
               "page": "75",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 75"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 75",
+              "laymanExplanation": "If you lose $100 and later get that same $100 back, you may simply be recovering what you lost rather than making a new profit. The exact tax result depends on earlier deductions and the type of loss."
             },
             {
               "id": "tax2-d11",
@@ -2268,7 +2355,8 @@
               "summary": "A later recovery may be included in income to the extent an earlier deduction reduced tax.",
               "details": "Introduced through the lost-pay-envelope hypothetical and addressed in more detail in a later chapter.",
               "page": "77",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 77"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 77",
+              "laymanExplanation": "If a loss reduced your taxes last year and you later get that money back, the recovery may have to be included in income to undo the earlier tax advantage."
             },
             {
               "id": "tax2-d12",
@@ -2289,7 +2377,8 @@
               "examTrap": "Tax that could have been avoided through a different transaction is not automatically an overpayment of tax actually owed. Keep the party's argument separate from a judicial holding.",
               "page": "Appellate brief pp. 21–24",
               "source": "Assigned 'McKenny brief handout (1).pdf', five pages: government's redacted opening brief, Eleventh Circuit No. 18-10810, filed Sept. 6, 2018 (original appellate-brief pp. 21–24). This is government advocacy, not a judicial opinion.",
-              "sourceRole": "Definition and exam distinction derived from the government's assigned brief, not an attributed court holding."
+              "sourceRole": "Definition and exam distinction derived from the government's assigned brief, not an attributed court holding.",
+              "laymanExplanation": "There is a difference between paying too much tax by mistake and paying the correct tax on a deal that turned out to be a bad tax-saving idea."
             },
             {
               "id": "tax-supp-mckenney-thirdparty",
@@ -2301,7 +2390,8 @@
               "examTrap": "Do not apply Old Colony automatically to all malpractice recoveries; Clark's actual-overpayment facts and the nature of the claimed loss may matter.",
               "page": "Appellate brief p. 22",
               "source": "Assigned 'McKenny brief handout (1).pdf', five pages: government's redacted opening brief, Eleventh Circuit No. 18-10810, filed Sept. 6, 2018 (original appellate-brief pp. 21–24). This is government advocacy, not a judicial opinion.",
-              "sourceRole": "Legal principle cited in the government's assigned brief; the case opinion is not reproduced in the handout."
+              "sourceRole": "Legal principle cited in the government's assigned brief; the case opinion is not reproduced in the handout.",
+              "laymanExplanation": "If your employer or another person pays a tax bill you actually owe for you, that can be the same as receiving money to pay it yourself."
             },
             {
               "id": "tax-supp-mckenney-brief",
@@ -2337,7 +2427,8 @@
               "summary": "Amounts recovered to replace profits that would have been taxable are generally included in income.",
               "details": "Settlement or insurance proceeds can be analyzed by what they replace; punitive damages also generally fall within §61.",
               "page": "78",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78",
+              "laymanExplanation": "If a business gets money to replace profits it missed out on, the payment is generally treated much like the profits would have been."
             },
             {
               "id": "tax2-e02",
@@ -2346,7 +2437,8 @@
               "summary": "Recovery for damaged or destroyed property generally produces gain to the extent proceeds exceed adjusted basis; §1033 may permit qualifying deferral.",
               "details": "Example from reading: $700,000 recovery for a building with $600,000 basis results in $100,000 gain absent qualifying nonrecognition.",
               "page": "78",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78",
+              "laymanExplanation": "If a destroyed building had $600,000 of tax basis and you receive $700,000 for it, the extra $100,000 can be gain, unless another rule postpones recognizing it."
             },
             {
               "id": "tax2-e03",
@@ -2355,7 +2447,8 @@
               "summary": "Qualifying proceeds from destroyed or condemned business/investment property may receive nonrecognition when reinvested in eligible replacement property under statutory conditions.",
               "details": "The reading uses it for compensation for a destroyed building; examine detailed replacement requirements in statutory text.",
               "page": "78",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78",
+              "laymanExplanation": "When qualifying property is destroyed or taken and you use the proceeds to buy suitable replacement property, tax law may let you delay reporting the gain."
             },
             {
               "id": "tax2-e04",
@@ -2365,7 +2458,8 @@
               "details": "Applies to qualifying damages whether recovered by suit or agreement and in lump-sum or periodic form; the causal link to physical injury/sickness is critical.",
               "page": "79",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79",
-              "examTrap": "Nonphysical injury, reputational harm, or ordinary emotional distress does not by itself satisfy §104(a)(2). Punitive damages remain taxable."
+              "examTrap": "Nonphysical injury, reputational harm, or ordinary emotional distress does not by itself satisfy §104(a)(2). Punitive damages remain taxable.",
+              "laymanExplanation": "Money received as damages because of a physical injury or physical sickness can be tax-free, but punitive damages and many purely emotional-distress awards are different."
             },
             {
               "id": "tax2-e05",
@@ -2374,7 +2468,8 @@
               "summary": "Compensatory damages replace an identified loss; punitive damages are imposed as punishment or deterrence.",
               "details": "For tax consequences examine the origin and purpose of payment, any statutory exclusion, and whether a return of capital is involved.",
               "page": "79",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79",
+              "laymanExplanation": "Compensatory damages aim to repay a loss. Punitive damages are an additional amount meant to punish the wrongdoer."
             },
             {
               "id": "tax2-e06",
@@ -2383,7 +2478,8 @@
               "summary": "The factual and legal nature of the underlying claim that gives rise to damages.",
               "details": "Distinguish recoveries for lost profits, destroyed property, physical personal injury, and reputation/emotional harms.",
               "page": "79",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79",
+              "laymanExplanation": "To classify lawsuit money for tax purposes, ask: 'What was this payment really for?' Lost wages, damaged property, and physical injury can have different tax outcomes."
             },
             {
               "id": "tax2-case-murphy",
@@ -2418,7 +2514,8 @@
                   "reason": "The chapter discusses Murphy I, an earlier opinion withdrawn on rehearing. Murphy II is the operative appellate decision excerpted here.",
                   "authority": "Murphy v. IRS, 493 F.3d 170 (D.C. Cir. 2007)"
                 }
-              }
+              },
+              "laymanExplanation": "A whistleblower received damages for emotional harm and damage to reputation, not physical injury. The appeals court ruled the money was taxable and that Congress could tax it."
             },
             {
               "id": "tax2-e07",
@@ -2427,7 +2524,8 @@
               "summary": "The Constitution requires certain direct federal taxes to be apportioned by population among states, subject to the Sixteenth Amendment for income taxes.",
               "details": "Murphy II discusses Article I and distinguishes taxes on property ownership from taxes on transactions or activities.",
               "page": "85",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 85"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 85",
+              "laymanExplanation": "For some taxes, the Constitution requires each state's tax share to follow its population. Federal income taxes have an important constitutional exception."
             },
             {
               "id": "tax2-e08",
@@ -2436,7 +2534,8 @@
               "summary": "Congress has broad Article I power to lay taxes; direct taxes require apportionment except to the extent the Sixteenth Amendment permits unapportioned income taxes.",
               "details": "The reproduced Murphy II excerpt reasons that taxing its award can be an excise on a transaction, satisfying the constitutional framework.",
               "page": "85",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 85"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 85",
+              "laymanExplanation": "Congress has broad power to tax, but constitutional limits can affect particular taxes. The classification of the tax matters."
             },
             {
               "id": "tax2-case-perez",
@@ -2453,7 +2552,8 @@
               "reasoning": "Perez voluntarily agreed to the procedures in exchange for compensation; the clinic did not pay damages for a wrong or compensable injury. The regulation's removal of the formal tort-rights requirement did not turn voluntary contractual services payments into damages.",
               "rule": "§104(a)(2) requires qualifying damages on account of personal physical injury/sickness; compensation under a bargained-for voluntary services contract is not automatically damages.",
               "exam": "Distinguish contract compensation for voluntarily undergone procedures from a recovery for a legally compensable physical injury.",
-              "examApplication": "Distinguish contract compensation for voluntarily undergone procedures from a recovery for a legally compensable physical injury."
+              "examApplication": "Distinguish contract compensation for voluntarily undergone procedures from a recovery for a legally compensable physical injury.",
+              "laymanExplanation": "A woman was paid to go through an egg-retrieval process. The court said this was payment under a voluntary contract, not tax-free injury damages."
             },
             {
               "id": "tax2-e09",
@@ -2462,7 +2562,8 @@
               "summary": "A legal settlement that pays qualified damages over time rather than as a single lump sum.",
               "details": "The textbook explains that qualifying periodic payments for physical injuries may receive special tax treatment, creating a timing advantage.",
               "page": "94",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 94"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 94",
+              "laymanExplanation": "A structured settlement pays lawsuit compensation over time instead of in a single check."
             },
             {
               "id": "tax2-e10",
@@ -2471,7 +2572,8 @@
               "summary": "Under §104(a)(2), qualifying physical-injury damages may be excludable whether paid in a lump sum or periodic payments.",
               "details": "Structured settlements require careful analysis of entitlement and economic control; the reading highlights favorable treatment of certain deferred-payment components.",
               "page": "94",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 94"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 94",
+              "laymanExplanation": "Qualifying physical-injury compensation may remain excluded even when paid in installments, subject to the applicable rules."
             },
             {
               "id": "tax2-e11",
@@ -2498,7 +2600,8 @@
               "details": "James v. United States is referenced for the general principle: receipt without consensual recognition of an obligation to repay and without restriction can be taxable.",
               "page": "96",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 96",
-              "examTrap": "Illegal character of income does not remove it from §61."
+              "examTrap": "Illegal character of income does not remove it from §61.",
+              "laymanExplanation": "You don't get an income-tax exemption because the money came from something illegal. Stolen or embezzled money can be taxable."
             },
             {
               "id": "tax2-f02",
@@ -2507,7 +2610,8 @@
               "summary": "A taxpayer's practical dominion over funds, without an acknowledged limitation or consensual obligation to repay, may support current inclusion.",
               "details": "The source compares typical embezzlement proceeds against loans or prompt secured repayment arrangements.",
               "page": "97",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97",
+              "laymanExplanation": "If you receive money and can use it as your own without accepting a genuine duty to return it, tax law may treat you as having income right now."
             },
             {
               "id": "tax2-f03",
@@ -2516,7 +2620,8 @@
               "summary": "A recognized duty to return money, relevant to whether receipt is a taxable accession to wealth or nonincome borrowing.",
               "details": "Do not mistake a purely subjective intention to repay for a legally and factually supported borrowing obligation.",
               "page": "97",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97",
+              "laymanExplanation": "Borrowing money usually isn't income because you have a real obligation to pay it back. An empty promise to repay may not be enough."
             },
             {
               "id": "tax2-case-gilbert",
@@ -2539,7 +2644,8 @@
               "examApplication": {
                 "source": "Gilbert v. Commissioner, 552 F.2d 478 (2d Cir. 1977), reproduced pp. 96–98",
                 "page": "96–98"
-              }
+              },
+              "laymanExplanation": "A company executive took money without permission but promptly gave real security and acknowledged repayment. The court treated those unusual facts differently from ordinary embezzlement."
             },
             {
               "id": "tax2-f04",
@@ -2567,7 +2673,8 @@
               "page": "100",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 100",
               "elements": "Ownership and principal residence use: generally 2 of the 5 years before sale. Standard cap: $250,000; qualifying MFJ cap: $500,000.",
-              "examTrap": "A vacation property does not qualify merely because it is owned for two years; the principal-residence use requirement matters."
+              "examTrap": "A vacation property does not qualify merely because it is owned for two years; the principal-residence use requirement matters.",
+              "laymanExplanation": "When you sell your main home, the law may let you leave a large portion of the profit out of income tax if you meet ownership and living-in-the-home requirements."
             },
             {
               "id": "tax2-g02",
@@ -2576,7 +2683,8 @@
               "summary": "A $500,000 exclusion for qualifying married joint filers generally requires meeting joint-return, use, ownership and other statutory requirements.",
               "details": "The reading notes that both spouses must satisfy the use test, while the ownership condition can be satisfied under the statutory joint-filer rules.",
               "page": "101",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 101"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 101",
+              "laymanExplanation": "A married couple filing jointly may qualify for a higher home-sale exclusion, but they must satisfy extra conditions."
             },
             {
               "id": "tax2-g03",
@@ -2585,7 +2693,8 @@
               "summary": "A taxpayer generally cannot claim the full §121 exclusion if it was used on a different sale within the preceding two years.",
               "details": "The reading discusses reduced exclusions when sales arise from qualifying changes in employment, health, or certain unforeseen circumstances.",
               "page": "101",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 101"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 101",
+              "laymanExplanation": "You generally cannot use the full main-home sale exclusion every year. The law usually requires a two-year gap, with some exceptions."
             },
             {
               "id": "tax2-g04",
@@ -2594,7 +2703,8 @@
               "summary": "The home that serves as the taxpayer's main residence for purposes of §121's use requirement.",
               "details": "This characterization is factual and distinct from owning a secondary home or investment property.",
               "page": "100",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 100"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 100",
+              "laymanExplanation": "Your principal residence is the place that actually functions as your main home, not just any house you own."
             },
             {
               "id": "tax2-g05",
@@ -2604,7 +2714,8 @@
               "details": "Textbook example: single taxpayer's $100,000-basis residence sold for $400,000; realized gain $300,000, $250,000 excluded, $50,000 taxable (assuming full eligibility).",
               "page": "101",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 101",
-              "examApplication": "Compute realized gain first, then determine §121 eligibility and exclusion limit."
+              "examApplication": "Compute realized gain first, then determine §121 eligibility and exclusion limit.",
+              "laymanExplanation": "First calculate profit from selling your home. Then subtract the part the law lets you exclude. The remaining amount may be taxable."
             },
             {
               "id": "tax2-g06",
@@ -2639,7 +2750,8 @@
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 155–157.",
               "elements": "(1) Identify a transfer of property or money; (2) determine whether it was a genuine gift under the transferor-intent standard; (3) distinguish consideration, services, legal or moral obligation, or anticipated economic benefit. Civil tax consequences are separate from criminal willfulness.",
               "examApplication": "In a fact pattern involving periodic transfers from a wealthy individual to a romantic partner, discuss what motivated the transfer and what the recipient understood; do not assume the payments are gifts or wages based on the relationship alone.",
-              "examTrap": "§102(a) addresses the recipient's income; potential donor-side gift-tax issues are separate. The Harris opinion did NOT definitively decide the civil tax treatment of every payment in such a relationship."
+              "examTrap": "§102(a) addresses the recipient's income; potential donor-side gift-tax issues are separate. The Harris opinion did NOT definitively decide the civil tax treatment of every payment in such a relationship.",
+              "laymanExplanation": "If someone genuinely gives you money or property as a gift, you generally don't include its value in income. But payment for work isn't made a gift just by calling it one."
             },
             {
               "id": "tax3-donor-intent",
@@ -2650,7 +2762,8 @@
               "page": "155, 157, 159",
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 155, 157, 159.",
               "examApplication": "Look to correspondence, conduct, returns, relationship circumstances, timing, and whether transfers were tied to particular services. A donor's gift-tax return is relevant but may not settle intent.",
-              "examTrap": "Duberstein is CITED within the reproduced Harris opinion; no separate Duberstein opinion was supplied in this handout, so it is supporting authority here—not a separate assigned case brief."
+              "examTrap": "Duberstein is CITED within the reproduced Harris opinion; no separate Duberstein opinion was supplied in this handout, so it is supporting authority here—not a separate assigned case brief.",
+              "laymanExplanation": "To decide whether something is a gift, ask what the person giving it meant to do. Were they being generous, or paying for something?"
             },
             {
               "id": "tax3-gift-v-pay",
@@ -2661,7 +2774,8 @@
               "page": "155–160",
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 155–160.",
               "examApplication": "Suppose one payment is tied to a specific contractual service and another is an unrestricted present motivated by personal affection. Identify donor intent separately for each transfer.",
-              "examTrap": "Neither 'romantic relationship' nor 'regular payment' alone supplies a conclusive answer."
+              "examTrap": "Neither 'romantic relationship' nor 'regular payment' alone supplies a conclusive answer.",
+              "laymanExplanation": "A friend sending birthday money is different from someone paying you to provide a service. The reason for the transfer matters more than its label."
             },
             {
               "id": "tax3-willfulness",
@@ -2672,7 +2786,8 @@
               "page": "154–160",
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154–160.",
               "examApplication": "Distinguish whether money is income for civil tax purposes from whether the recipient knowingly violated a clear legal duty and could be criminally convicted.",
-              "examTrap": "Uncertainty sufficient to prevent criminal conviction does not automatically mean the disputed receipt is an excluded gift."
+              "examTrap": "Uncertainty sufficient to prevent criminal conviction does not automatically mean the disputed receipt is an excluded gift.",
+              "laymanExplanation": "Criminal tax law generally requires more than a wrong return. The prosecution must prove the person intentionally violated a tax duty they knew they had."
             },
             {
               "id": "tax3-burden",
@@ -2683,7 +2798,8 @@
               "page": "154–160",
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154–160.",
               "examApplication": "When a question asks whether a tax charge can support criminal sanctions, discuss donor intent, taxpayer knowledge, and legal clarity separately from the likely civil treatment.",
-              "examTrap": "Do not transform a reversal for insufficient criminal proof into a positive civil tax holding."
+              "examTrap": "Do not transform a reversal for insufficient criminal proof into a positive civil tax holding.",
+              "laymanExplanation": "A civil tax disagreement and a criminal tax prosecution have different stakes. Proving someone deliberately committed a crime is harder than disputing a tax bill."
             },
             {
               "id": "tax3-section-2501",
@@ -2693,7 +2809,8 @@
               "details": "The opinion frames the transfers as potentially involving donor-side gift-tax consequences or donee-side income-tax obligations; the criminal cases concerned alleged income-tax violations by the two recipients. Amounts, exemptions, exclusions and liabilities require separate gift-tax statutory analysis.",
               "page": "154–155",
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154–155.",
-              "examTrap": "The fact that an amount is outside the donee's gross income does not mean 'no tax issues exist'; it may implicate donor-side gift-tax rules."
+              "examTrap": "The fact that an amount is outside the donee's gross income does not mean 'no tax issues exist'; it may implicate donor-side gift-tax rules.",
+              "laymanExplanation": "A true gift usually isn't income for the person who receives it, but the person giving it may face separate gift-tax rules."
             },
             {
               "id": "tax3-letters",
@@ -2723,7 +2840,8 @@
               "exam": "When facing gifts-versus-income questions, analyze donor motive and any quid pro quo. If the hypothetical asks for criminal liability, separately analyze proof of willfulness and clarity of the legal duty. Do not equate absence of criminal liability with a holding that the amount was necessarily a civil-tax gift.",
               "examApplication": "A wealthy individual gives recurring money and jewelry to a longtime romantic partner. Assess affection, potential payment for services, donor statements and gift returns. Then, if the recipient failed to file a return, explain why the government must independently show a known tax duty and intentional violation.",
               "examTrap": "The court vacated criminal convictions; it did not decide the broad civil question that all such transfers are gifts. Duberstein is a cited case, not a separately reproduced case opinion in this upload.",
-              "sourceRole": "Dedicated assigned-case brief based on the reproduced judicial opinion in the handout."
+              "sourceRole": "Dedicated assigned-case brief based on the reproduced judicial opinion in the handout.",
+              "laymanExplanation": "Two women received substantial money from a wealthy man. The court threw out their criminal tax convictions because the government had not adequately shown the necessary criminal tax violations; it did not say every romantic gift is tax-free."
             },
             {
               "id": "tax3-flaum",
