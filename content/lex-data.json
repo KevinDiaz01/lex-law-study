@@ -98,8 +98,8 @@
           "title": "Taxable-income pipeline",
           "formula": "Gross income − above-line deductions = AGI; AGI − applicable below-line deductions = taxable income",
           "meaning": "Gross income inclusions/exclusions are determined first. Above-line amounts depend on §62; below-line amounts depend on §63 and other rules.",
-          "worked": "Start with wages, business gross profit and other included receipts, then identify permitted adjustments and the larger applicable standard/itemized deduction.",
-          "source": "Bankman et al., 19th ed., pp. 11–15",
+          "worked": "Step 1: Classify receipts under §61 and statutory exclusions to obtain gross income. Step 2: Subtract deductions allowed under §62 (above AGI) to compute AGI. Step 3: Identify allowed standard or itemized deductions under §63 and other relevant deductions/adjustments to compute taxable income. Step 4: Apply marginal rates to taxable income. Step 5: Reduce preliminary tax by eligible credits and subtract withholding/estimated payments. This is the structural sequence from pp. 11–16; no universal dollar deduction applies to every taxpayer.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 11–15",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -108,8 +108,8 @@
           "title": "Gross profit from inventory",
           "formula": "Gross profit = sales receipts − cost of goods sold",
           "meaning": "COGS is recovered in measuring gross income from inventory sales.",
-          "worked": "Textbook: 2 hammers × $20 = $40 gross receipts; 2 × $12 = $24 COGS; $16 gross profit.",
-          "source": "Bankman et al., 19th ed., pp. 12–13",
+          "worked": "Step 1: Sell two hammers at $20 each → gross receipts = 2 × $20 = $40. Step 2: Their purchase cost is $12 each → cost of goods sold = 2 × $12 = $24. Step 3: Gross profit from inventory sales = $40 − $24 = $16. The $40 of cash receipts is not itself the $16 gross income from these inventory sales.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 12–13",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -118,8 +118,8 @@
           "title": "Deduction tax saving",
           "formula": "Approximate tax saving = usable deduction × marginal tax rate",
           "meaning": "This shortcut assumes deduction is fully allowed and does not cross brackets or affect phaseouts.",
-          "worked": "Textbook: a $50 incremental itemized deduction at 33% marginal rate saves $16.50.",
-          "source": "Bankman et al., 19th ed., pp. 14–16",
+          "worked": "Historical casebook assumptions only: Step 1: Single taxpayer has $13,000 of potentially qualifying mortgage interest and a $12,950 standard deduction. Step 2: Incremental itemized amount over the standard deduction is $13,000 − $12,950 = $50, assuming no other itemized deductions. Step 3: At an illustrative 33% marginal rate, additional savings = $50 × .33 = $16.50. For an actual 2026 return, use 2026 statutory amounts, eligibility and itemizing rules instead.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 14–16",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -128,8 +128,8 @@
           "title": "Tax credit offset",
           "formula": "Tax after nonrefundable credit = max(0, preliminary tax − usable credit)",
           "meaning": "Refundable credits can exceed liability and generate a refund; nonrefundable credits generally cannot.",
-          "worked": "Textbook contrasts a $100 credit against a $100 deduction.",
-          "source": "Bankman et al., 19th ed., pp. 15–16",
+          "worked": "Step 1: Consider a taxpayer with at least $100 tax liability. Step 2: A fully usable $100 nonrefundable credit reduces that liability directly by $100. Step 3: A $100 deduction at a hypothetical 37% marginal bracket generally saves only $100 × .37 = $37. Step 4: A refundable credit may yield a refund beyond tax liability, subject to its own law.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 15–16",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -138,8 +138,8 @@
           "title": "Average tax rate",
           "formula": "Average tax rate = tax liability ÷ specified measure of income",
           "meaning": "Specify taxable income versus economic income; negative liabilities possible with refundable credits.",
-          "worked": "Textbook hypothetical: $14,000 tax / $60,000 taxable income = 23.33% average rate.",
-          "source": "Bankman et al., 19th ed., pp. 16–18",
+          "worked": "Step 1: Under the casebook's hypothetical brackets, tax on $60,000 is $50,000 × .20 + $10,000 × .40 = $14,000. Step 2: Divide tax by taxable income: $14,000 ÷ $60,000 = 0.2333 = 23.33% average statutory rate. Step 3: The marginal rate on the next dollar is 40%. Be clear whether an effective-rate question uses taxable income or a broader economic-income denominator.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 16–18",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -148,8 +148,8 @@
           "title": "Layered marginal bracket",
           "formula": "Total tax = Σ (income in each bracket × its rate)",
           "meaning": "A higher bracket applies only to the slice of taxable income falling in it.",
-          "worked": "Textbook hypothetical: 20% × $50,000 + 40% × $10,000 = $14,000 on $60,000.",
-          "source": "Bankman et al., 19th ed., pp. 16–17",
+          "worked": "These are invented sample rates in the casebook, not 2026 federal brackets. Step 1: First $50,000 × 20% = $10,000. Step 2: Remaining $10,000 (if taxable income is $60,000) × 40% = $4,000. Step 3: Total tax = $14,000. If income rises from $50,000 to $50,010, tax = $10,000 + ($10 × .40) = $10,004, not $50,010 × 40%.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 16–17",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -158,8 +158,8 @@
           "title": "After-tax marginal earnings",
           "formula": "After-tax extra earnings ≈ extra pay × (1 − marginal rate)",
           "meaning": "Assumes extra amount remains within relevant bracket and excludes other taxes/phaseouts.",
-          "worked": "Textbook hypothetical: $10,000 × (1 − 25%) = $7,500.",
-          "source": "Bankman et al., 19th ed., pp. 18–19",
+          "worked": "Under the book's simplified 25% marginal-rate assumption: Step 1: Additional weekend earnings = $10,000. Step 2: Income tax on those extra earnings = $10,000 × 25% = $2,500. Step 3: After-tax additional pay = $10,000 − $2,500 = $7,500. Ignore other taxes, benefit phaseouts and bracket changes for this textbook hypothetical.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 18–19",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -168,8 +168,8 @@
           "title": "Tax gross-up of charitable cost",
           "formula": "Net cash cost of usable deduction ≈ gift − gift × marginal rate",
           "meaning": "Only applies when deductible and incrementally useful.",
-          "worked": "Textbook compares $1,000 gifts at 15% versus 30% rates.",
-          "source": "Bankman et al., 19th ed., pp. 18",
+          "worked": "The book's charitable-gift illustration assumes full incremental deductibility. Step 1: At 15% marginal tax, savings on a $1,000 gift = $150; net after-tax cost = $1,000 − $150 = $850. Step 2: At 30%, savings = $300; net cost = $700. Step 3: If the deduction does not exceed the taxpayer's standard deduction or other constraints apply, the marginal savings can be smaller or zero.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 18",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -178,8 +178,8 @@
           "title": "Adjusted basis",
           "formula": "Adjusted basis = initial basis + capital improvements − prior basis reductions",
           "meaning": "General conceptual expression; include depreciation and other adjustments under the Code.",
-          "worked": "A capital asset is not necessarily deductible when bought; basis matters for future cost recovery.",
-          "source": "Bankman et al., 19th ed., pp. 21–22",
+          "worked": "Step 1: Begin with historical cost basis, usually acquisition cost. Step 2: Add capital investments or improvements: initial $100 + qualifying $20 improvement = $120. Step 3: Deduct relevant depreciation/basis reductions: if $5 applies, adjusted basis = $115. Step 4: If sale proceeds are $150, potential realized gain = $150 − $115 = $35. This is a newly worked illustration of the book's §§1012/1016 concepts, not a quotation of a numerical fact pattern.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 21–22",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -188,8 +188,8 @@
           "title": "Realized gain or loss",
           "formula": "Realized gain/loss = amount realized − adjusted basis",
           "meaning": "Recognition of realized gain may be delayed or excluded under a separate statute.",
-          "worked": "Textbook illustration: land worth $5m with $1m basis exchanged for property worth $5m → $4m realized gain; §1031 may defer if requirements met.",
-          "source": "Bankman et al., 19th ed., pp. 22",
+          "worked": "Step 1: Taxpayer buys unimproved investment land for $1,000,000 (basis). Step 2: Its value increases to $5,000,000 while held: $4,000,000 economic gain, ordinarily unrealized. Step 3: Exchange land for an apartment building worth $5,000,000: realized gain = $5,000,000 − $1,000,000 = $4,000,000. Step 4: Separately test §1031 real-property, use, exchange and other requirements; if qualified, recognition may be deferred. Do not assume every swap qualifies.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 22",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -198,8 +198,8 @@
           "title": "Simple nominal versus real gain",
           "formula": "Nominal gain = proceeds − historical basis; real purchasing-power gain adjusts for inflation",
           "meaning": "Tax law does not generally inflation-adjust investment basis.",
-          "worked": "Textbook: buy at $100, sell at $105 after 5% inflation → $5 nominal gain but ~0 real gain.",
-          "source": "Bankman et al., 19th ed., pp. 23–24",
+          "worked": "Step 1: Original nominal cost basis = $100. Step 2: Property sells for $105 after a year with 5% inflation. Step 3: Nominal gain = $105 − $100 = $5. Step 4: Inflation-adjusted original purchasing-power cost ≈ $100 × 1.05 = $105, leaving approximately $0 real gain. Under the reading's general historical-cost principle, tax basis is not automatically increased for inflation.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 23–24",
           "topicId": "tax-ch1-c",
           "chapterGroup": "tax-ch1"
         },
@@ -208,8 +208,8 @@
           "title": "Compound future value",
           "formula": "FV = PV × (1 + r)^n",
           "meaning": "PV initial investment; r return per period; n number of periods.",
-          "worked": "Textbook: $10,000 × (1.10)^10 ≈ $25,937.42.",
-          "source": "Bankman et al., 19th ed., pp. 25–27",
+          "worked": "Step 1: PV = $10,000, r = 10% = .10, n = 10. Step 2: FV = $10,000 × (1.10)^10. Step 3: (1.10)^10 ≈ 2.59374246. Step 4: FV ≈ $25,937.42. Under the book's simplified retirement deferral example, 40% tax at withdrawal leaves about $25,937.42 × .60 = $15,562.45.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 25–27",
           "topicId": "tax-ch1-d",
           "chapterGroup": "tax-ch1"
         },
@@ -218,8 +218,8 @@
           "title": "Present value",
           "formula": "PV = FV ÷ (1 + r)^n",
           "meaning": "Discount rate r and number of periods n must match.",
-          "worked": "Textbook Table 1-5: 10 years at 10% ≈ .386 multiplier; $10,000 in 10 years ≈ $3,855.43 today (table rounds to $3,860).",
-          "source": "Bankman et al., 19th ed., pp. 26–27",
+          "worked": "Step 1: FV = $10,000 in 10 years, rate = .10, periods = 10. Step 2: PV = $10,000 ÷ (1.10)^10 ≈ $3,855.43. Step 3: The chapter's Table 1-5 gives a rounded 0.386 present-value multiplier; $10,000 × .386 = $3,860. Differences come from rounding, not different rules.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 26–27",
           "topicId": "tax-ch1-d",
           "chapterGroup": "tax-ch1"
         },
@@ -228,18 +228,19 @@
           "title": "Deferral versus current taxation",
           "formula": "Deferral: P(1+r)^n(1−t_end); current tax: P(1−t_now)[1+r(1−t_annual)]^n",
           "meaning": "The source assumes constant tax rates, ordinary annual taxation of earnings, and equal pre-tax returns.",
-          "worked": "10 years: $10,000 deferred at 10%, 40% retirement tax ≈ $15,562; current 40% tax plus annual after-tax 6% ≈ $10,745.",
-          "source": "Bankman et al., 19th ed., pp. 25–26",
+          "worked": "Model assumptions: $10,000 gross investment, 10% annual return, 40% tax (both today and at withdrawal), no intervening taxes on qualified deferral. WITH DEFERRAL, n=10: $10,000 × 1.10^10 = $25,937.42 before withdrawal; × .60 ≈ $15,562.45 after tax. NO DEFERRAL: $10,000 × .60 = $6,000 initially; annual net growth = 10% × .60 = 6%; $6,000 × 1.06^10 ≈ $10,745.09. At 20 years: deferred ≈ $40,365 and current-taxed ≈ $19,243, rounded as in the book. A change in future tax rates can change the ranking.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 25–27",
           "topicId": "tax-ch1-d",
-          "chapterGroup": "tax-ch1"
+          "chapterGroup": "tax-ch1",
+          "laymanExplanation": "With deferral you invest the entire $10,000 first and pay tax later; without deferral you invest only $6,000 and keep paying tax on growth, so compounding is smaller."
         },
         {
           "id": "tax-ch1-f15",
           "title": "Penalty percentages (introductory)",
           "formula": "Illustrative accuracy-related penalty = 20% × relevant underpayment; civil fraud = 75% × fraudulent portion",
           "meaning": "Penalties require legal predicates, bases, exceptions, and interaction rules; do not use formula alone.",
-          "worked": "Textbook introduces these percentages in its compliance overview.",
-          "source": "Bankman et al., 19th ed., pp. 29–30",
+          "worked": "Step 1: Determine if §6662 negligence or substantial-understatement standards apply to a particular portion of underpayment. Step 2: If applicable and no defense defeats it, multiply that portion by 20%. Step 3: If §6663 fraud is proven for a portion, separately consider 75% × the fraud-attributable underpayment under the statutory interaction rules. This is only a percentage illustration; defenses, penalty interactions and proof requirements are essential.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 29–30",
           "topicId": "tax-ch1-e",
           "chapterGroup": "tax-ch1"
         },
@@ -248,8 +249,8 @@
           "title": "Refund / balance due",
           "formula": "Tax due after credits − withholding/estimated payments = remaining balance (if positive) or refund (if negative)",
           "meaning": "Eligibility, refundable credits, additional taxes, and payment credit details must be included in a full return.",
-          "worked": "Self-assessment and prepayments are reconciled when filing the annual return.",
-          "source": "Bankman et al., 19th ed., pp. 28",
+          "worked": "Step 1: Determine final tax after lawful credits. Step 2: Add withholding and estimated payments already paid. Step 3: Subtract prepayments from final tax. Example invented to illustrate the book's sequence: liability $8,000 − prepayments $9,000 = −$1,000, normally a $1,000 overpayment/refund; liability $8,000 − $6,000 prepayments = $2,000 balance due. Other refundable credits or offsets can change the result.",
+          "source": "Class 1, Bankman et al. (19th ed.), syllabus-assigned Ch. 1 printed pp. 28",
           "topicId": "tax-ch1-e",
           "chapterGroup": "tax-ch1"
         },
@@ -965,7 +966,7 @@
           "title": "2026 state and local tax limit",
           "book": "The casebook states a $10,000 SALT itemized-deduction cap since 2017.",
           "current": "For 2026, generally $40,400 (half for MFS), with income-based phase-down and a floor; check statutory and IRS details.",
-          "source": "https://www.irs.gov/publications/p505",
+          "source": "https://www.irs.gov/forms-pubs/correction-to-state-and-local-income-tax-deduction-amount-in-the-2026-form-1040-es",
           "topicId": "tax-ch1-c"
         },
         {
@@ -1246,7 +1247,14 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 9–11",
               "page": "9–11",
               "legalExplanation": "The reading traces the Civil War tax, repeal and tariff reliance, the 1894 income tax and 1895 Pollock decision, the Sixteenth Amendment of 1913, high wartime rates, and the World War II expansion from a narrow 'class tax' to a broader 'mass tax.' These developments are useful background, not tax rates to use for today's calculations.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "legalWarning": {
+                "status": "superseded",
+                "label": "2026 PROJECTION OUTDATED",
+                "reason": "The 2023 casebook predicted that the 37% top individual bracket would revert to 39.6% in 2026. Congress made the existing seven individual rates, including 37%, permanent in Public Law 119-21 (2025). Treat historical tax-rate figures as examples, not current schedules.",
+                "authority": "IRS Rev. Proc. 2025-32, I.R.B. 2025-45; Pub. L. 119-21",
+                "url": "https://www.irs.gov/irb/2025-45_IRB"
+              }
             }
           ]
         },
@@ -1569,7 +1577,14 @@
               "legalExplanation": "In computing taxable income, compare the allowed standard deduction with allowable itemized deductions. Itemized amounts are useful only insofar as they exceed the standard deduction. The 2022 thresholds and $10,000 state/local tax deduction cap in the printed source are historical, not 2026 limits. Special rules apply to filing status and other categories.",
               "page": "14–15",
               "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33",
+              "legalWarning": {
+                "status": "historical-caution",
+                "label": "USE CURRENT TAX-YEAR LIMITS",
+                "reason": "The textbook uses 2022 standard deduction and SALT limit figures. 2026 limits differ: for 2026, the regular standard deduction is $16,100 for single filers, $32,200 for joint filers; the general SALT cap is $40,400, subject to income-based reduction and other statutory conditions.",
+                "authority": "IRS 2026 inflation adjustment guidance and 2026 Form 1040-ES correction",
+                "url": "https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers"
+              }
             },
             {
               "id": "class1-def-standard-deduction",
@@ -1581,7 +1596,14 @@
               "legalExplanation": "The standard deduction depends on filing status, tax year, and special eligibility rules. The 2022 standard deduction amounts quoted in the 2023 casebook are dated. Determine the applicable year before computing liability.",
               "page": "14–15",
               "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33",
+              "legalWarning": {
+                "status": "historical-caution",
+                "label": "USE CURRENT TAX-YEAR LIMITS",
+                "reason": "The textbook uses 2022 standard deduction and SALT limit figures. 2026 limits differ: for 2026, the regular standard deduction is $16,100 for single filers, $32,200 for joint filers; the general SALT cap is $40,400, subject to income-based reduction and other statutory conditions.",
+                "authority": "IRS 2026 inflation adjustment guidance and 2026 Form 1040-ES correction",
+                "url": "https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers"
+              }
             },
             {
               "id": "class1-def-itemized",
@@ -1593,7 +1615,14 @@
               "legalExplanation": "Typical examples in the reading include qualified mortgage interest, charitable contributions, certain medical expenses, and certain state/local taxes. The amount legally deductible depends on the tax year, category limits, income limits, and whether the taxpayer itemizes. The reading's $13,000 mortgage-interest example uses a historical $12,950 standard deduction.",
               "page": "14–15",
               "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33",
+              "legalWarning": {
+                "status": "historical-caution",
+                "label": "USE CURRENT TAX-YEAR LIMITS",
+                "reason": "The textbook uses 2022 standard deduction and SALT limit figures. 2026 limits differ: for 2026, the regular standard deduction is $16,100 for single filers, $32,200 for joint filers; the general SALT cap is $40,400, subject to income-based reduction and other statutory conditions.",
+                "authority": "IRS 2026 inflation adjustment guidance and 2026 Form 1040-ES correction",
+                "url": "https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers"
+              }
             },
             {
               "id": "class1-def-refundable-credit",
