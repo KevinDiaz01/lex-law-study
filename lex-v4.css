@@ -207,3 +207,8 @@ details[open]>summary>.outline-chevron{transform:rotate(180deg)}
 .lawyer-explanation-body .exam-detail-part{margin:12px 0}
 .lawyer-explanation-body .exam-detail-part:first-child{margin-top:0}
 @media(max-width:740px){.layman-explanation{padding:10px 11px}.lawyer-explanation-body{padding:10px}}
+
+/* Class 1: show each step in a separate line when a formula is expanded */
+.formula-worked-steps{white-space:pre-line!important;line-height:1.9!important;font-size:13px!important;margin:0!important}
+.formula-outline .formula-code{margin:10px 0 15px;font-weight:800}
+.formula-outline .layman-explanation{margin-top:3px}
