@@ -1017,6 +1017,13 @@
           "current": "The Eleventh Circuit's Sept. 1, 2020 opinion reversed summary judgment for the taxpayers on exclusion of the $800,000. Assuming without deciding that Clark was correctly decided and could apply to transaction-structuring malpractice, the taxpayers failed to prove entitlement to an exclusion or its amount. This is supplemental research, NOT part of the attached 2018 advocacy excerpt.",
           "source": "https://law.justia.com/cases/federal/appellate-courts/ca11/18-10810/18-10810-2020-09-01.html",
           "topicId": "tax-ch2-d"
+        },
+        {
+          "title": "2026 miscellaneous itemized deductions",
+          "book": "In a Chapter 1 note, the 2023 casebook describes the 2018–2025 suspension of §67 miscellaneous itemized deductions, including many unreimbursed employee expenses.",
+          "current": "Public Law 119-21 (2025) made the disallowance of miscellaneous itemized deductions subject to the former 2% floor permanent beginning with 2026 tax years, with specific educator-expense treatment. Do not assume the suspended category returned in 2026.",
+          "source": "https://uscode.house.gov/us/usc/t26/s67/",
+          "topicId": "tax-ch1-c"
         }
       ],
       "topics": [
@@ -1921,15 +1928,16 @@
           "entries": [
             {
               "id": "tax-ch1-e050",
-              "type": "context",
-              "title": "Start with the Internal Revenue Code",
-              "summary": "Federal tax liability must rest on statutory authority; statutory text is the starting point.",
+              "type": "rule",
+              "title": "Statutory authority — start with the Internal Revenue Code",
+              "summary": "Federal income taxes require statutory authority. Begin with Code text and then review applicable regulations, cases, and administrative guidance.",
               "details": "Read the controlling provision, definitions, cross-references, and exceptions. Follow regulations, binding case law, and pertinent IRS guidance, while considering how judicial doctrines deal with substance over form.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 30–31",
               "page": "30–31",
               "legalExplanation": "Federal income-tax liability begins with enacted Code provisions. Statutory definitions, cross-references and exclusions should be reviewed first; then applicable regulations, judicial decisions and published IRS guidance. The reading stresses that courts also use substance-over-form reasoning and law-like doctrines where statutory language is incomplete or susceptible to manipulation.",
               "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
-              "laymanExplanation": "When a tax question comes up, start with the Internal Revenue Code. Then look at the detailed regulations, court opinions and IRS guidance that help explain it."
+              "laymanExplanation": "When a tax question comes up, start with the Internal Revenue Code. Then look at the detailed regulations, court opinions and IRS guidance that help explain it.",
+              "examApplication": "When researching a tax question, cite the applicable Code section first; analyze its definitions and exceptions before turning to Treasury regulations and cases."
             },
             {
               "id": "tax-ch1-e051",
@@ -2001,7 +2009,7 @@
               "title": "Cited authority: Mayo Foundation (2011) — old Chevron framework",
               "summary": "Historical: applied Chevron framework to Treasury regulations.",
               "details": "The textbook uses Mayo to describe the then-prevailing standard. It is useful for historical understanding, but Chevron was overruled in Loper Bright (2024).",
-              "source": "562 U.S. 44 (2011); Loper Bright, 603 U.S. 369 (2024)",
+              "source": "Assigned textbook p. 32 (Mayo citation only); current-law note: Loper Bright (2024).",
               "page": "32",
               "alert": "Historical doctrinal treatment; not a statement of the current Chevron standard.",
               "legalWarning": {
@@ -2011,7 +2019,7 @@
                 "authority": "Loper Bright Enterprises v. Raimondo (2024)",
                 "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf"
               },
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Case cited or discussed in assigned Chapter 1; no reproduced opinion, so not a dedicated case brief.",
               "legalExplanation": "Mayo Foundation (2011) was cited by the casebook as applying Chevron-style agency deference to Treasury tax regulations. The subsequent Loper Bright Enterprises v. Raimondo (2024) decision overruled that mandatory deference framework. The case is mentioned here as an example, not reproduced as an assigned judicial opinion, so it belongs in supporting doctrine with an updated-law warning.",
               "laymanExplanation": "The textbook describes a time when judges often deferred to reasonable Treasury interpretations of unclear statutes. The Supreme Court changed that approach in 2024, so don't memorize the old standard as current law."
             },
@@ -2021,7 +2029,7 @@
               "title": "Cited authority: Eisner v. Macomber (1920)",
               "summary": "Historical case used to introduce unrealized appreciation and constitutional income questions.",
               "details": "The chapter contrasts unrealized appreciation with income. Subsequent decisions limit simplistic formulations; Moore v. United States (2024) did not decide whether realization is always constitutionally required.",
-              "source": "252 U.S. 189 (1920); Moore v. United States, 602 U.S. 572 (2024)",
+              "source": "Assigned textbook p. 12 (Eisner reference only); modern-law annotation: Moore (2024).",
               "page": "12",
               "alert": "Do not treat the casebook’s brief historical description as a complete modern constitutional rule.",
               "legalWarning": {
@@ -2031,7 +2039,7 @@
                 "authority": "Moore v. United States (2024)",
                 "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
               },
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Case cited or discussed in assigned Chapter 1; no reproduced opinion, so not a dedicated case brief.",
               "legalExplanation": "Eisner v. Macomber (1920) is referenced as a historical example concerning realization of gains and constitutional conceptions of income. Its narrow income-from-capital-or-labor phrase is not a complete current definition, as later discussed in Glenshaw Glass. Modern constitutional realization questions also require careful attention to holdings and unresolved issues; this is a supporting citation in Chapter 1, not a reproduced assigned opinion.",
               "laymanExplanation": "This older case used a narrower way of defining income. It's mentioned to explain how income-tax doctrine developed, but its wording should not replace the broader modern approach."
             },
@@ -3283,7 +3291,19 @@
           "Do not invent missing textbook facts; distinguish source text from separately researched current law.",
           "Leave problem prompts unsolved unless requested."
         ]
-      }
+      },
+      "coverage": [
+        {
+          "course": "tax",
+          "classNumber": 1,
+          "syllabusWeek": "Week 1 (Aug. 25 & 27)",
+          "assignedPrintedPages": "1–33",
+          "source": "User-provided full Chapter 1 text, 2026-11-08, 19th ed.",
+          "status": "extracted",
+          "sourcePolicy": "Only assigned pp. 1–33; post-publication law updates explicitly separate.",
+          "updated": "2026-11-08"
+        }
+      ]
     },
     {
       "id": "admin",
