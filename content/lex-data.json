@@ -2172,6 +2172,34 @@
           "current": "Public Law 119-21 (2025) made the disallowance of miscellaneous itemized deductions subject to the former 2% floor permanent beginning with 2026 tax years, with specific educator-expense treatment. Do not assume the suspended category returned in 2026.",
           "source": "https://uscode.house.gov/us/usc/t26/s67/",
           "topicId": "tax-ch1-c"
+        },
+        {
+          "title": "Section 168(k) bonus depreciation — 2025 law update",
+          "topicId": "tax-ch4-a-timing",
+          "book": "The 2023 assigned book discusses bonus depreciation declining year by year beginning in 2023.",
+          "current": "IRS Notice 2026-11 confirms permanent 100% bonus depreciation for eligible property acquired after Jan.19,2025 under P.L.119-21, subject to terms. This is outside textbook current-law verification; source pp163–164 remain historical.",
+          "source": "https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-the-additional-first-year-depreciation-deduction-amended-as-part-of-the-one-big-beautiful-bill"
+        },
+        {
+          "title": "Section 448 2026 inflation adjusted cash-method limit",
+          "topicId": "tax-ch4-b-methods",
+          "book": "The casebook gives historical $25m §448 gross-receipts threshold.",
+          "current": "The 2026 §448(c) inflation adjusted test is $32m average annual gross receipts for the three prior taxable years, subject to aggregation/exception rules.",
+          "source": "https://www.irs.gov/irb/2025-45_IRB"
+        },
+        {
+          "title": "Moore (2024) and the constitutional realization question",
+          "topicId": "tax-ch4-c-modern",
+          "book": "The 2023 casebook debates whether realization is constitutionally necessary and analyzes Macomber and modern realization doctrine.",
+          "current": "Moore (2024) held that shareholders can be taxed on undistributed income realized by an entity and attributed to them in a pass-through-style tax, but expressly reserved whether realization is always constitutionally required. NOT a reproduced syllabus opinion.",
+          "source": "https://www.supremecourt.gov/opinions/23pdf/22-800_jg6o.pdf"
+        },
+        {
+          "title": "Retirement required minimum distributions after SECURE 2.0",
+          "topicId": "tax-ch4-h-retirement",
+          "book": "The 2023 casebook uses an old 70½ required-distribution age.",
+          "current": "Current IRS guidance describes age 73 and age 75 cohorts under SECURE 2.0, plus designated Roth account distinctions; test year of birth and account type.",
+          "source": "https://www.irs.gov/irb/2026-06_IRB"
         }
       ],
       "topics": [
@@ -5624,11 +5652,11 @@
             }
           ],
           "title": "C. Marriage & Divorce — Support, Alimony & Bad Debts",
-          "description": "Alimony, child support, and Diez-Arguelles within the supplied pages; Week 4 continues beyond this source.",
+          "description": "Support, alimony, and bad-debt basis from Chapter 3 pp150–153; p154 not provided.",
           "studyWeek": "Week 4",
           "assignedPages": "150–153 (partial)",
           "assignmentSource": "Syllabus Week 4 pages 134–165; only visible supplied excerpt through p153 processed.",
-          "coverageWarning": "Week 4 assigned pages 154–165 have not been verified in this upload, so they have not been extracted."
+          "coverageWarning": "Chapter 3 printed p154 remains unprovided. The separately uploaded Chapter 4 starts p155 and has been covered under Week 4."
         },
         {
           "id": "tax-ch4-a-timing",
@@ -5875,7 +5903,7 @@
               "title": "IRC §448 — limits on who may use the cash method",
               "summary": "Certain entities must use accrual accounting once statutory conditions and inflation-indexed gross-receipts tests apply.",
               "laymanExplanation": "Big corporations may not be allowed to wait until customers pay to count earnings.",
-              "legalExplanation": "The assigned book quotes a historical $25 million gross receipts example. Check actual tax-year threshold, corporation/partnership status, qualified personal-service corporation exceptions and other requirements. Do not reuse the old figure as a 2026 threshold.",
+              "legalExplanation": "The assigned book quotes a historical $25 million gross receipts example. Check actual tax-year threshold, corporation/partnership status, qualified personal-service corporation exceptions and other requirements. Do not reuse the old figure as a 2026 threshold. CURRENT-LAW ANNOTATION (independently verified): IRS Rev. Proc. 2025-32 gives the §448(c) gross-receipts test of $32 million for taxable years beginning in 2026, averaged over three prior years, subject to aggregation and other requirements.",
               "details": "The assigned book quotes a historical $25 million gross receipts example. Check actual tax-year threshold, corporation/partnership status, qualified personal-service corporation exceptions and other requirements. Do not reuse the old figure as a 2026 threshold.",
               "page": "166–167",
               "studyWeek": "Week 5",
@@ -5883,9 +5911,10 @@
               "sourceRole": "Textbook's assigned passage (not notes from any unassigned pages)",
               "legalWarning": {
                 "status": "historical-caution",
-                "label": "HISTORIC THRESHOLD",
-                "reason": "The casebook mentions a $25m §448 gross-receipts test, which is a historic amount. Check inflation-indexed threshold for the tax year at issue.",
-                "authority": "IRC §448(c); IRS inflation adjustments"
+                "label": "2026: $32M TEST",
+                "reason": "The book's $25 million is the unadjusted statutory base. For 2026, the IRS inflation-adjusted §448(c) threshold is $32 million.",
+                "authority": "IRS Rev. Proc. 2025-32; IRS 2025-45 IRB",
+                "url": "https://www.irs.gov/irb/2025-45_IRB"
               }
             },
             {
@@ -6263,7 +6292,14 @@
               "page": "199–211",
               "studyWeek": "Week 5",
               "source": "Federal Income Taxation (19th ed.), syllabus Week 5 textbook pp. 199–211",
-              "sourceRole": "Assigned excerpt, excludes textbook pp192–195"
+              "sourceRole": "Assigned excerpt, excludes textbook pp192–195",
+              "legalWarning": {
+                "status": "qualified",
+                "label": "MOORE (2024) UPDATE",
+                "reason": "In Moore v. United States (2024), the Supreme Court upheld attribution to shareholders of realized, undistributed corporate income in a narrow pass-through-style setting, but expressly did NOT decide whether realization is constitutionally required for all income taxes. This post-textbook court decision is a current-law annotation, not an assigned opinion to brief.",
+                "authority": "Moore v. United States, 602 U.S. 572 (2024)",
+                "url": "https://www.supremecourt.gov/opinions/23pdf/22-800_jg6o.pdf"
+              }
             },
             {
               "id": "tax4-case-woodsam",
@@ -6939,7 +6975,7 @@
               "title": "Required minimum distributions — modern age differs from casebook",
               "summary": "Qualified retirement accounts generally require distributions by statutory ages and schedules; exact age depends on birth year and account type.",
               "laymanExplanation": "You usually cannot leave pretax retirement money growing untaxed forever; at some point you must withdraw minimum amounts.",
-              "legalExplanation": "The 2023 casebook describes an old 70½-year threshold. Subsequent statutory amendments raise applicable ages in many cases and set different Roth treatment. Use governing tax-year and birth-year rules rather than outdated casebook age.",
+              "legalExplanation": "The 2023 casebook describes an old 70½-year threshold. Subsequent statutory amendments raise applicable ages in many cases and set different Roth treatment. Use governing tax-year and birth-year rules rather than outdated casebook age. CURRENT-LAW ANNOTATION: SECURE 2.0 generally sets an age-73 required beginning age for covered individuals who reach age 73 before 2033 and age 75 for covered later cohorts; plan, Roth and retirement exceptions affect exact dates.",
               "details": "The 2023 casebook describes an old 70½-year threshold. Subsequent statutory amendments raise applicable ages in many cases and set different Roth treatment. Use governing tax-year and birth-year rules rather than outdated casebook age.",
               "page": "256",
               "studyWeek": "Week 6",
@@ -6947,9 +6983,10 @@
               "sourceRole": "Chapter 4 syllabus-assigned reading",
               "legalWarning": {
                 "status": "superseded",
-                "label": "OLD RMD AGE",
-                "reason": "The casebook's 70½ required-distribution age is outdated for many retirement accounts; later SECURE Act / SECURE 2.0 changes apply.",
-                "authority": "IRC §401(a)(9); SECURE Act 2019; SECURE 2.0 2022"
+                "label": "RMD AGE UPDATED",
+                "reason": "The assigned book's 70½ RMD age is historical. Under SECURE 2.0, applicable ages generally are 73 for covered participants attaining age 73 before 2033, and 75 for specified later cohorts, with account-type and other rules.",
+                "authority": "IRS IRB 2026-06; SECURE 2.0",
+                "url": "https://www.irs.gov/irb/2026-06_IRB"
               }
             },
             {
@@ -7035,11 +7072,35 @@
           "studyWeek": "Week 4",
           "syllabusWeek": "Week 4 (Sept. 15 & 17)",
           "assignedPrintedPages": "134–165",
-          "extractedPages": "134–153 (through notes following p153)",
-          "missingPages": "154–165 (not present in a verifiably paginated source segment)",
-          "scope": "Gift basis and death transfers pp134–141; questions p141; marriage/divorce pp141–147, problems p147, later pp147–153. Source does not establish coverage through p165.",
-          "source": "User-provided 2026-11-08 pasted Chapter 3 textbook text",
-          "status": "partial",
+          "extractedPages": "Chapter 3 pp134–153; Chapter 4 pp155–165",
+          "missingPages": "Chapter 3 printed p154 not supplied in verified text",
+          "scope": "Week 4 printed pp134–165, except unprovided Chapter 3 p154; included p141 questions/p147 problems",
+          "source": "User's 2026-11-08 Chapter 3 and Chapter 4 complete-page pasted exports",
+          "status": "partial — p154 still missing",
+          "updated": "2026-11-08"
+        },
+        {
+          "studyWeek": "Week 5",
+          "syllabusWeek": "Week 5 (Sept.22 & 24)",
+          "assignedPrintedPages": "165–191; 196–219",
+          "extractedPages": "Chapter 4 pp165–191 and pp196–219",
+          "excludedPages": "192–195 deliberately skipped (not on syllabus)",
+          "pendingHandouts": "Ford Motor Co. handout; Nonrecognition handout not in this textbook export",
+          "scope": "B/C/D Chapter 4 timing, accounting, realization and like-kind exchange",
+          "source": "Pasted text(20261108-232824).txt (printed Chapter 4 pp155–257)",
+          "status": "textbook complete; handouts pending",
+          "updated": "2026-11-08"
+        },
+        {
+          "studyWeek": "Week 6",
+          "syllabusWeek": "Week 6 (Sept.29 & Oct.1)",
+          "assignedPrintedPages": "219–245 (problem p245); 245–257",
+          "extractedPages": "Chapter 4 printed pp219–257",
+          "excludedPages": "None in Week6 (p219 shared with Week5, deduplicated)",
+          "pendingHandouts": "Stock option handout not included in current textbook export",
+          "scope": "Open transactions, constructive receipt, deferred compensation, qualified retirement plans",
+          "source": "Pasted text(20261108-232824).txt (printed Chapter 4 pp155–257)",
+          "status": "textbook complete; stock-option handout pending",
           "updated": "2026-11-08"
         }
       ]
