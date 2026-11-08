@@ -4550,6 +4550,119 @@
           "studyWeek": "Week 4",
           "assignedPages": "141–150",
           "assignmentSource": "Professor's Week 4 syllabus: printed pp134–165; this batch contains the indicated excerpt only"
+        },
+        {
+          "id": "tax-ch3-c-support",
+          "chapterGroup": "tax-ch3",
+          "entries": [
+            {
+              "id": "tax3-w4-supportnew",
+              "type": "rule",
+              "title": "Post-2018 alimony generally is neither deductible nor included",
+              "summary": "Under divorce or separation agreements executed after 2018, qualifying alimony payments generally are not deducted by the payor or included by the recipient.",
+              "laymanExplanation": "After a 2019 divorce, a person paying support generally cannot reduce income tax because of that alimony, and the former spouse receiving it generally doesn't report it as taxable income.",
+              "legalExplanation": "The Tax Cuts and Jobs Act repealed the former alimony deduction/inclusion system for divorce/separation instruments executed after December 31, 2018. Certain qualifying modifications to pre-2019 instruments also may adopt the new treatment. Statutory year and instrument date are essential; the book's general statement must not be overextended to every old decree.",
+              "details": "The Tax Cuts and Jobs Act repealed the former alimony deduction/inclusion system for divorce/separation instruments executed after December 31, 2018. Certain qualifying modifications to pre-2019 instruments also may adopt the new treatment. Statutory year and instrument date are essential; the book's general statement must not be overextended to every old decree.",
+              "page": "150–151",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 4 assigned pp. 150–151",
+              "sourceRole": "Week 4, provided textbook excerpt",
+              "examTrap": "Do not apply post-2018 alimony treatment automatically to an unmodified pre-2019 divorce instrument."
+            },
+            {
+              "id": "tax3-w4-oldalimony",
+              "type": "context",
+              "title": "Historic pre-2019 alimony system",
+              "summary": "Under the prior regime, qualifying alimony generally was deducted by the payor and included by the recipient.",
+              "laymanExplanation": "The old law used to shift tax liability from the person paying alimony to the person receiving it; a 2017 change generally ended that for newer agreements.",
+              "legalExplanation": "The casebook contrasts the former §71/§215 arrangement with post-2018 treatment. The effective-date rule depends on when the divorce/separation instrument was executed and whether a later modification expressly invokes the new law.",
+              "details": "The casebook contrasts the former §71/§215 arrangement with post-2018 treatment. The effective-date rule depends on when the divorce/separation instrument was executed and whether a later modification expressly invokes the new law.",
+              "page": "150–151",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 4 assigned pp. 150–151",
+              "sourceRole": "Week 4, provided textbook excerpt",
+              "legalWarning": {
+                "status": "superseded",
+                "label": "OLD ALIMONY TAX RULE",
+                "reason": "The 2017 tax reform changed alimony deduction/inclusion treatment generally for instruments executed after December 31, 2018.",
+                "authority": "TCJA 2017; IRC §§61, 71, 215 (as applicable by year)"
+              }
+            },
+            {
+              "id": "tax3-w4-childsupport",
+              "type": "rule",
+              "title": "Child-support payments are not deductible or taxable to recipient",
+              "summary": "Ordinary child support is not deductible by the payor and is not included as income by the recipient.",
+              "laymanExplanation": "If a parent pays $10,000 in child support, it generally isn't a tax deduction for the parent or taxable income for the other parent.",
+              "legalExplanation": "The source draws a consistent distinction between child support and pre-2019 alimony. Child support is generally a personal obligation; nonpayment does not automatically create a deductible tax loss for the custodial parent.",
+              "details": "The source draws a consistent distinction between child support and pre-2019 alimony. Child support is generally a personal obligation; nonpayment does not automatically create a deductible tax loss for the custodial parent.",
+              "page": "151–152",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 4 assigned pp. 151–152",
+              "sourceRole": "Week 4, provided textbook excerpt"
+            },
+            {
+              "id": "tax3-w4-nonbusinessbaddebt",
+              "type": "rule",
+              "title": "IRC §166(d) — nonbusiness bad-debt deduction requires tax basis",
+              "summary": "Nonbusiness bad debts may be deductible as short-term capital losses only when wholly worthless and when the taxpayer has basis in the debt.",
+              "laymanExplanation": "Someone not paying you a promised amount doesn't always mean you can deduct that amount from taxes. You first need a tax investment or other basis in the debt.",
+              "legalExplanation": "The assigned Diez-Arguelles excerpt applies §166(b),(d): a taxpayer cannot deduct the uncollected child-support obligation when the taxpayer has no basis in that receivable. Expenditures for supporting one's own children do not automatically create a basis in a former spouse's support obligation.",
+              "details": "The assigned Diez-Arguelles excerpt applies §166(b),(d): a taxpayer cannot deduct the uncollected child-support obligation when the taxpayer has no basis in that receivable. Expenditures for supporting one's own children do not automatically create a basis in a former spouse's support obligation.",
+              "page": "151–153",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 4 assigned pp. 151–153",
+              "sourceRole": "Week 4, provided textbook excerpt",
+              "examTrap": "A legally enforceable support claim is not automatically a deductible 'bad debt' without basis."
+            },
+            {
+              "id": "tax3-w4-baddebtbasis",
+              "type": "definition",
+              "title": "Basis in a receivable / unpaid obligation",
+              "summary": "To deduct a debt as worthless, the taxpayer ordinarily must have invested tax basis in the debt rather than a mere unpaid expectation.",
+              "laymanExplanation": "If you were promised $5,000 but never actually paid tax on or invested $5,000 in the receivable, you might have zero deductible basis.",
+              "legalExplanation": "Section 166(b) measures deduction by adjusted basis. A support arrearage can be legally collectible but still carry no tax basis to the obligee. The source compares paid money, actual lending and merely unrealized expected support.",
+              "details": "Section 166(b) measures deduction by adjusted basis. A support arrearage can be legally collectible but still carry no tax basis to the obligee. The source compares paid money, actual lending and merely unrealized expected support.",
+              "page": "151–153",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 4 assigned pp. 151–153",
+              "sourceRole": "Week 4, provided textbook excerpt"
+            },
+            {
+              "id": "tax3-w4-childpolicy",
+              "type": "context",
+              "title": "Unpaid child support and equitable-tax concerns",
+              "summary": "The court acknowledged economic hardship but declined to create a deduction without statutory authorization.",
+              "laymanExplanation": "Not getting promised child-support money makes life harder, but a judge cannot invent a tax write-off just because the outcome feels unfair.",
+              "legalExplanation": "The source discusses Perry as an additional supporting case and asks whether a tax deduction would target needy parents effectively. Perry is cited, not reproduced as an assigned opinion in this upload.",
+              "details": "The source discusses Perry as an additional supporting case and asks whether a tax deduction would target needy parents effectively. Perry is cited, not reproduced as an assigned opinion in this upload.",
+              "page": "152–153",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 4 assigned pp. 152–153",
+              "sourceRole": "Week 4, provided textbook excerpt"
+            },
+            {
+              "id": "tax3-w4-case-diez",
+              "type": "case",
+              "title": "Diez-Arguelles v. Commissioner",
+              "summary": "The Tax Court rejected a bad-debt deduction for unpaid child support because the parent had no tax basis in the unpaid obligation.",
+              "laymanExplanation": "A parent never received the child support her ex-husband legally owed. The court said that missing money was not a deductible bad debt because she had no tax basis in it.",
+              "legalExplanation": "Opinion excerpt reproduced in assigned Chapter 3 pp151–152.",
+              "details": "Opinion excerpt reproduced in assigned Chapter 3 pp151–152.",
+              "page": "151–152",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 4 assigned pp. 151–152",
+              "sourceRole": "Week 4, provided textbook excerpt",
+              "assignedOpinion": true,
+              "citation": "48 T.C.M. 496 (1984)",
+              "facts": "Christina Diez-Arguelles divorced Kevin Baxter and was owed $300 monthly child support. He failed to make payments, leaving $4,325 arrears through 1978 and another $3,000 in 1979. Christina and her husband supported the children themselves and claimed the unpaid sums as bad-debt losses, despite repeated unsuccessful collection attempts and court orders.",
+              "issue": "Could the custodial parent deduct unpaid child-support arrears as nonbusiness bad debts under §166(d) despite having no tax basis in the expected support payments?",
+              "holding": "No. The Tax Court rejected the deductions because the taxpayer had no basis in the overdue child-support obligations.",
+              "reasoning": "A nonbusiness bad-debt deduction under §166(d) also requires adjusted basis under §166(b). The taxpayer did not loan money to Baxter or include the promised child-support amounts in taxable income and could not create basis merely by paying the children's ongoing household expenses. A state court judgment did not by itself establish a federal tax basis.",
+              "rule": "Nonbusiness bad-debt loss deductions require actual adjusted basis in the debt; unreceived child-support obligations cannot be deducted merely because they are legally owed and uncollectible.",
+              "exam": "Identify a debt, whether it became wholly worthless, and importantly whether the claimant has adjusted basis. Distinguish a loaned and later defaulted amount from unreceived personal-support payments.",
+              "examApplication": "Parent is owed $7,325 in past-due child support and has no basis in the claim: §166(d) generally provides no deduction for the unpaid amount.",
+              "examTrap": "A court order and actual household expenses do not automatically create basis in unpaid child support."
+            }
+          ],
+          "title": "C. Marriage & Divorce — Support, Alimony & Bad Debts",
+          "description": "Current alimony/child support and reproduced Diez-Arguelles decision; source ends after notes following printed p153.",
+          "studyWeek": "Week 4",
+          "assignedPages": "150–153 (possibly continuing on 154; not verifiable)",
+          "assignmentSource": "Syllabus Week 4 pages 134–165; only visible supplied excerpt through p153 processed."
         }
       ],
       "lexContentStandard": {
