@@ -4570,7 +4570,8 @@
               "details": "Kritzik wrote Harris affectionate letters and described gifts. The court held the letters were relevant to Harris's good-faith belief about his purpose and therefore should not have been excluded as hearsay solely because the letters might be false. This is a supporting evidentiary point in the Tax opinion, not the central gift definition.",
               "page": "156–157",
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 156–157.",
-              "examApplication": "A taxpayer's beliefs and the words communicated to them can matter to criminal willfulness, even when the exact objective truth of the statements is disputed."
+              "examApplication": "A taxpayer's beliefs and the words communicated to them can matter to criminal willfulness, even when the exact objective truth of the statements is disputed.",
+              "laymanExplanation": "The donor wrote letters calling the transfers gifts. Even if those words were disputed, the recipient might reasonably believe them, which matters when deciding whether she knowingly committed a tax crime."
             },
             {
               "id": "tax3-harris-opinion",
@@ -4602,7 +4603,8 @@
               "details": "The concurrence stresses individualized donor intent under Duberstein and warns that some payments may be compensation for services even within a sustained personal relationship. He joined the judgment because the record was insufficient and the legal standards were uncertain.",
               "page": "160–161",
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 160–161.",
-              "examTrap": "This is a concurrence, not a majority holding establishing a bright-line taxable or exempt category."
+              "examTrap": "This is a concurrence, not a majority holding establishing a bright-line taxable or exempt category.",
+              "laymanExplanation": "One judge agreed the criminal convictions had to go but warned not to assume that every gift between romantic partners is tax-free. Each transfer still needs a look at why it was given."
             },
             {
               "id": "tax3-section-83",
@@ -4611,7 +4613,8 @@
               "summary": "The handout's preceding note mentions §83 for property transferred in connection with services.",
               "details": "The first handout page (printed p. 154) includes a question about whether §83 changes analysis of a business-motivated transfer. This is a prompt and supporting reference, not an assigned judicial opinion or a developed §83 treatment in the excerpt.",
               "page": "154",
-              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154."
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154.",
+              "laymanExplanation": "If property is given in return for work, separate tax provisions may apply to compensation paid with property. The reading mentions this as an extra issue, not a full lesson on §83."
             }
           ],
           "title": "B. Assigned Harris Handout — Gifts & Criminal Tax Liability",
