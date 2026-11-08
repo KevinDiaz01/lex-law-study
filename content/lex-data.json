@@ -252,6 +252,106 @@
           "source": "Bankman et al., 19th ed., pp. 28",
           "topicId": "tax-ch1-e",
           "chapterGroup": "tax-ch1"
+        },
+        {
+          "id": "tax2f-haig",
+          "topicId": "tax-ch2-a",
+          "chapterGroup": "tax-ch2",
+          "title": "Haig–Simons income",
+          "formula": "Y = C + ΔW (consumption + change in wealth)",
+          "meaning": "Economic definition of personal income, distinct from statutory taxable income.",
+          "worked": "C=$11,000, net worth changes by −$1,000, so Y=$10,000. Borrowing $1,000 finances the excess consumption, not additional economic income.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 37–38"
+        },
+        {
+          "id": "tax2f-income-savings",
+          "topicId": "tax-ch2-a",
+          "chapterGroup": "tax-ch2",
+          "title": "Income as consumption plus saving",
+          "formula": "Y = C + S",
+          "meaning": "An alternate shorthand when saving measures the period's change in net worth.",
+          "worked": "If spending $9,000 and adding $1,000 to savings, income is $10,000.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 37"
+        },
+        {
+          "id": "tax2f-gross-benefit",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "Valuation of noncash remuneration",
+          "formula": "Generally include FMV of property or services received for services rendered",
+          "meaning": "Treas. Reg. §1.61-2(d)(1) generally measures in-kind compensation by FMV.",
+          "worked": "A carpenter provides renovations to a lawyer in exchange for a will: identify the fair market value of what was exchanged and any matching consequences.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 46"
+        },
+        {
+          "id": "tax2f-stock-basis",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "Gain and per-share basis allocation",
+          "formula": "Allocated basis = acquisition cost × (shares sold ÷ shares acquired); gain = proceeds − allocated basis",
+          "meaning": "Useful for identical shares originally acquired as one block.",
+          "worked": "Purchase 100 shares for $1,000. Sell 40 for $700. Basis = $400; realized gain = $300.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68"
+        },
+        {
+          "id": "tax2f-land-basis",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "Relative-value allocation of land basis",
+          "formula": "Allocated basis = total basis × (relative FMV of portion at acquisition ÷ total FMV at acquisition)",
+          "meaning": "Where land portions differ in value, allocate tax basis reasonably rather than by area alone.",
+          "worked": "Whole land cost $1,000; wooded part represents 45% of total original value. Basis of wooded land $450. Sell for $700 → $250 gain.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68–69"
+        },
+        {
+          "id": "tax2f-inaja",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "Inaja basis-reduction illustration",
+          "formula": "Remaining basis = initial basis − payment treated as return of capital",
+          "meaning": "Used only when legally appropriate and apportionment to disposed rights is impracticable.",
+          "worked": "Inaja: property original cost $61,000; net settlement $49,000 treated as capital recovery. Remaining basis conceptually $12,000, absent other adjustments.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69–70"
+        },
+        {
+          "id": "tax2f-wager2026",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "2026 wagering loss limitation",
+          "formula": "Allowable loss deduction = min(90% × wagering losses, wagering gains)",
+          "meaning": "The §165(d) tax-year-2026 statutory change supersedes the textbook's earlier full-offset example.",
+          "worked": "If wagering gains total $1,000 and losses $1,000, the statutory limit permits at most $900 loss deduction in 2026, subject to individual itemizing/other applicable rules.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 71–73 + 2026 current law"
+        },
+        {
+          "id": "tax2f-property-damages",
+          "topicId": "tax-ch2-e",
+          "chapterGroup": "tax-ch2",
+          "title": "Compensation for damaged business property",
+          "formula": "Potential realized gain = recovery proceeds − adjusted basis (before §1033 relief)",
+          "meaning": "Consider property basis and qualifying nonrecognition for reinvestment.",
+          "worked": "Destroyed building with adjusted basis $600,000; insurance recovery $700,000. Potential $100,000 gain absent §1033 nonrecognition.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78"
+        },
+        {
+          "id": "tax2f-housing",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "§107 minister housing allowance limits",
+          "formula": "Excludable housing allowance = min(designated allowance, actual qualifying housing expenses, fair rental value including furnishings/utilities)",
+          "meaning": "IRS conditions and current statutory limits apply; distinguish from self-employment tax treatment.",
+          "worked": "If designated $30,000, actual housing costs $28,000, and FMV cap $25,000, the income-tax exclusion generally cannot exceed $25,000, subject to all qualifications.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. Gaylor PDF; IRC §107 and IRS guidance"
+        },
+        {
+          "id": "tax2f-home121",
+          "topicId": "tax-ch2-g",
+          "chapterGroup": "tax-ch2",
+          "title": "Principal residence sale gain",
+          "formula": "Potential taxable gain = max(0, realized gain − permissible §121 exclusion)",
+          "meaning": "After computing gain, determine use/ownership tests, $250,000/$500,000 cap, and frequency limitations.",
+          "worked": "Basis $100,000; sale proceeds $400,000; gain $300,000. If a single filer qualifies for $250,000 exclusion, taxable gain $50,000.",
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 100–101"
         }
       ],
       "problems": [
@@ -474,6 +574,306 @@
           "kind": "Illustration converted to an unsolved exercise",
           "status": "Not attempted",
           "notes": ""
+        },
+        {
+          "id": "tax2p-a01",
+          "topicId": "tax-ch2-a",
+          "chapterGroup": "tax-ch2",
+          "title": "Dora and Felix: earning capacity",
+          "prompt": "Dora works fifty hours and Felix ten hours to earn the same weekly pay. Which taxpayer has greater ability to pay? How do income, leisure, and wage rate affect the answer?",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 36 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-a02",
+          "topicId": "tax-ch2-a",
+          "chapterGroup": "tax-ch2",
+          "title": "Consumption beyond income",
+          "prompt": "A taxpayer earns $10,000 but consumes $11,000 financed partly through borrowing or savings. Apply the Haig–Simons income identities and explain the relationship among income, consumption, and wealth.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 37–38 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-a03",
+          "topicId": "tax-ch2-a",
+          "chapterGroup": "tax-ch2",
+          "title": "Income versus consumption tax",
+          "prompt": "Explain how income and consumption tax bases differ in their treatment of saving and investment returns, and how a cash-flow consumption tax might operate.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 38 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-b01",
+          "topicId": "tax-ch2-b",
+          "chapterGroup": "tax-ch2",
+          "title": "Why Glenshaw Glass matters",
+          "prompt": "Explain why Glenshaw Glass's broad conception of gross income matters beyond taxation of punitive damages, and how it changes the understanding of Eisner v. Macomber.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 42–43 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-b02",
+          "topicId": "tax-ch2-b",
+          "chapterGroup": "tax-ch2",
+          "title": "Found property and inclusion",
+          "prompt": "Compare a taxpayer who finds money inside a purchased item with one who discovers an ordinary gift. Discuss §61, treasure trove, and timing of income recognition.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 44–46 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-b03",
+          "topicId": "tax-ch2-b",
+          "chapterGroup": "tax-ch2",
+          "title": "Treasures from hunting and salvage",
+          "prompt": "Should commercial fishers or salvors include the value of valuable catches or recovered treasure when first reduced to their possession, even before selling it? Address regulatory language and administrability.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 46 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-c01",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "Benaglia: employer's convenience",
+          "prompt": "Analyze whether free hotel meals and lodging genuinely serve an employer's convenience and why the value of the benefit to the employee could matter.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 51 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-c02",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "Section 119 cash allowances",
+          "prompt": "Compare free meals provided by an employer with cash allowances used to purchase meals. Identify the §119 statutory requirements and concerns.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 52–53 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-c03",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "Section 119 business premises",
+          "prompt": "A hotel places a manager in employer-provided lodging across the street; a different worker stays far from work. Which arrangements satisfy §119 and why?",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 53–54 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-c04",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "Tech company meals",
+          "prompt": "Are complimentary regular meals at a tech company's headquarters excluded under §119? Evaluate employer convenience, business premises, and compensation concerns.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 54–56 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-c05",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "Gotcher: classify business and vacation",
+          "prompt": "A dealer and spouse take an expense-paid foreign trip. Distinguish business-directed portions of the trip from personal benefits to each traveler.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 56–59 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-c06",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "Employee fringe restrictions",
+          "prompt": "Why does §132 restrict no-additional-cost services and employee discounts by business line and impose nondiscrimination limitations?",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 60–61 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-c07",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "Cafeteria plan and constructive receipt",
+          "prompt": "An employee may choose cash or qualifying medical/dependent-care benefits. Explain §125's significance and potential constructive receipt issues.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 61–63 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-c08",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "Turner ticket valuation",
+          "prompt": "A prizewinner receives restricted, nontransferable travel tickets with a retail price much higher than personal value. What value belongs in income, and what evidence matters?",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 65–67 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-c09",
+          "topicId": "tax-ch2-c",
+          "chapterGroup": "tax-ch2",
+          "title": "Noncash game show prize valuation",
+          "prompt": "A game-show participant wins a car with different sticker, dealer and resale values. What information and valuation principles should a tax advisor consider?",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 68 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-d01",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "Part-sale of dissimilar land",
+          "prompt": "A taxpayer buys acreage with separately valued wooded and tillable portions, then sells wooded acres. Allocate basis and determine gain.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 68 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-d02",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "Inaja settlement larger than basis",
+          "prompt": "How would the tax consequences change if Inaja received a capital settlement above its overall property basis? What happens to basis and later-sale gain?",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 70–71 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-d03",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "Income versus capital recovery",
+          "prompt": "The city pays a landowner an up-front amount instead of annual payments for a property-related arrangement. Determine whether character as income or return of capital can change and why.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 71 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-d04",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "Gambling sessions and deduction",
+          "prompt": "A gambler wins money in one session and loses money in another. Compare the textbook's historical rules with the changed 2026 loss limit and any itemizing consequences.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 71–73 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-d05",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "Clark: negligent tax advice",
+          "prompt": "Three taxpayers have identical income but one is correctly advised, one overpays tax and receives reimbursement, and the third overpays without reimbursement. What is the strongest treatment under Clark?",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 75–76 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-d06",
+          "topicId": "tax-ch2-d",
+          "chapterGroup": "tax-ch2",
+          "title": "Lost paycheck and later recovery",
+          "prompt": "A taxpayer loses a paycheck and finds it a year later. Compare consequences when the earlier loss was deductible versus nondeductible and how the tax-benefit idea applies.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 77–78 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-e01",
+          "topicId": "tax-ch2-e",
+          "chapterGroup": "tax-ch2",
+          "title": "Property damage with replacement",
+          "prompt": "A business receives $700,000 for a building with $600,000 basis, then uses the proceeds to buy a replacement. Calculate potential gain and analyze §1033.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 78 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-e02",
+          "topicId": "tax-ch2-e",
+          "chapterGroup": "tax-ch2",
+          "title": "Physical versus nonphysical injury",
+          "prompt": "Compare recoveries for car-accident physical injury, libel, and emotional distress. Which ones can fall within §104(a)(2), and what else matters?",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 79 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-e03",
+          "topicId": "tax-ch2-e",
+          "chapterGroup": "tax-ch2",
+          "title": "Murphy constitutional analysis",
+          "prompt": "Explain why Murphy II held nonphysical-injury damages taxable under §61 and why the tax did not fail the direct-tax apportionment requirement.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 80–88 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-e04",
+          "topicId": "tax-ch2-e",
+          "chapterGroup": "tax-ch2",
+          "title": "Perez contractual compensation",
+          "prompt": "A person voluntarily receives money to undergo a painful medical procedure. Is the payment for physical injury damages or taxable contractual compensation? Apply Perez.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 90–94 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-e05",
+          "topicId": "tax-ch2-e",
+          "chapterGroup": "tax-ch2",
+          "title": "Structured settlement options",
+          "prompt": "Compare a qualifying physical-injury lump-sum payment with an equivalent arrangement of deferred periodic payments, including the income-tax consequences the reading explores.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 94–95 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-f01",
+          "topicId": "tax-ch2-f",
+          "chapterGroup": "tax-ch2",
+          "title": "Embezzlement versus loan",
+          "prompt": "Distinguish typical embezzlement receipts from money borrowed with a recognized duty to repay. Which facts mattered in Gilbert?",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 96–98 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-f02",
+          "topicId": "tax-ch2-f",
+          "chapterGroup": "tax-ch2",
+          "title": "Restitution promises",
+          "prompt": "A corporate employee takes company money without consent and soon promises repayment. Are subjective good intentions alone enough to avoid taxation?",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 98–99 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-g01",
+          "topicId": "tax-ch2-g",
+          "chapterGroup": "tax-ch2",
+          "title": "Home gain exclusion computation",
+          "prompt": "A single filer sells a $100,000-basis principal residence for $400,000. Determine gain, eligibility tests, exclusion and remaining taxable amount.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 100–101 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
+        },
+        {
+          "id": "tax2p-g02",
+          "topicId": "tax-ch2-g",
+          "chapterGroup": "tax-ch2",
+          "title": "Second home-sale exclusion",
+          "prompt": "A homeowner sells one principal residence at a gain and seeks a second §121 exclusion the following year after moving for work. Analyze the two-year frequency rule and exceptions.",
+          "source": "Assigned Chapter 2 notes/questions or hypothetical, p. 101–102 (paraphrased for concise practice; not answered)",
+          "status": "Not attempted",
+          "kind": "Textbook question — unsolved"
         }
       ],
       "updates": [
