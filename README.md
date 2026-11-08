@@ -86,3 +86,13 @@ The website's canonical published content is `content/lex-data.json`; `lex-v4.js
 ## Dual-explanation rule (layperson + legal)
 
 Use two layers for **every complex or unfamiliar exam-relevant doctrine**, while preserving the compact expandable outline. On opening an entry, show a short **IN PLAIN ENGLISH** explanation that teaches the idea intuitively without compromising legal accuracy. Keep a separate **Legal explanation** with precise statutory language, test, requirements, exceptions, factual distinctions, relevant case reasoning and citations. A plain-English explanation supplements, and must never replace or contradict, the legal explanation. Where a supplied passage does not support a detail, do not invent it: distinguish independently researched law or leave a gap. Apply the same standard to important definitions, assigned cases, formulas, and applications. Never turn plain-language teaching examples into claimed quotes from the casebook. Preserve both editable fields (`laymanExplanation`, `legalExplanation`) and use existing verified `details` as the lawyer-level explanation where appropriate. For reproduced court opinions, the full assigned case brief itself is the formal legal layer.
+
+## Verified Tax syllabus coverage (Weeks 1–3)
+
+- **Week 1:** Chapter 1 printed pp. 1–33.
+- **Week 2:** Chapter 2 printed pp. 35–68, §132 Questions 1–8 on printed pp. 64–65, and separately assigned *Gaylor* handout.
+- **Week 3:** Chapter 2 printed pp. 68–77 (including the four-part hypothetical on p. 77) and pp. 78–102, plus separately assigned *McKenney* government-brief handout and *Harris* opinion handout (printed pp. 111–134 in the separate assigned material).
+- **Deliberately excluded:** the separately titled *Squire v. Capoeman* opinion begins at the bottom of textbook p. 102 but its substantive excerpt continues on **unassigned** pp. 103–108. Do not create a dedicated *Squire* case brief or extract those subsequent pages until the syllabus independently assigns them. The brief mention on assigned p. 102 is not the full assigned opinion.
+- A full chapter upload can contain more pages than assigned. In the 2026-11-08 Chapter 2 text, content beyond assigned p.102 is outside the import scope.
+
+Both Week 2 and Week 3 use the same Chapter 2 textbook file, and printed p.68 overlaps. Deduplicate that overlap rather than importing twice. All separately researched legal developments (for example amended 2026 wagering-loss limits) must be clearly marked as **current-law updates**, not as statements from the 2023 casebook.
