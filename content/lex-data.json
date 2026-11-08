@@ -2419,23 +2419,20 @@
               "title": "Cesarini v. United States",
               "summary": "Yes. Found cash is taxable as treasure trove in the year reduced to undisputed possession; the taxpayers were not entitled to their claimed refund.",
               "details": "Assigned excerpt: the reproduced court opinion, not merely an incidental citation.",
-              "page": "43",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 43",
+              "page": "43–45",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 43–45.",
               "assignedOpinion": true,
-              "facts": "A couple bought a used piano in 1957 for about $15. In 1964, they found $4,467 in old currency inside it and initially included that amount in gross income. They filed an amended return claiming a refund.",
-              "issue": "Does cash discovered inside a purchased piano constitute taxable gross income, and in what year?",
-              "holding": "Yes. Found cash is taxable as treasure trove in the year reduced to undisputed possession; the taxpayers were not entitled to their claimed refund.",
-              "reasoning": "§61 and Treas. Reg. §§1.61-1(a) and 1.61-14(a) broadly include gains from any source. The found cash was not covered by an exclusion; it was not an excludable gift under §102 simply because §61 did not list treasure trove.",
-              "rule": "For found cash or other treasure, identify when the finder obtains undisputed possession, determine its value, and include it in gross income absent an exclusion.",
-              "exam": {
-                "source": "Cesarini v. United States, 296 F. Supp. 3 (N.D. Ohio 1969), reproduced in assigned Chapter 2 pp. 43–45",
-                "page": "43–45"
-              },
-              "examApplication": {
-                "source": "Cesarini v. United States, 296 F. Supp. 3 (N.D. Ohio 1969), reproduced in assigned Chapter 2 pp. 43–45",
-                "page": "43–45"
-              },
-              "laymanExplanation": "A couple found cash hidden inside a used piano years after buying it. The court treated the money as taxable when it became theirs to keep, rather than as a tax-free surprise."
+              "facts": "The Cesarinis bought a used piano in 1957 for around $15. While cleaning it in 1964 they found $4,467 of old currency, exchanged it at a bank and reported it as income. They then filed an amended return omitting the found money, claiming a $836.51 refund.",
+              "issue": "Is money found in a purchased piano includible in gross income, and in which taxable year?",
+              "holding": "Yes. The $4,467 of treasure trove was gross income for 1964, the year the taxpayers reduced it to undisputed possession. Their refund claim failed.",
+              "reasoning": "§61 includes income from whatever source derived without limiting inclusion to enumerated examples; no §102 gift exclusion covers the found currency. Treas. Reg. §1.61-14(a) expressly includes treasure trove at U.S. currency value in the year of undisputed possession. §74's treatment of prizes did not implicitly exempt treasure trove.",
+              "rule": "Treasure trove is included in gross income at its U.S.-currency value for the taxable year in which it is reduced to undisputed possession (Reg. §1.61-14(a)).",
+              "exam": "Identify receipt of value, whether it is really a gift, when possession becomes undisputed, the measured amount and the tax year.",
+              "examApplication": "Identify receipt of value, whether it is really a gift, when possession becomes undisputed, the measured amount and the tax year.",
+              "laymanExplanation": "A couple found cash hidden inside a used piano years after buying it. The court treated the money as taxable when it became theirs to keep, rather than as a tax-free surprise.",
+              "examTrap": "The fact that found money is not separately enumerated in §61 does not make it excluded; no donor made a §102 gift.",
+              "citation": "296 F. Supp. 3 (N.D. Ohio 1969), aff'd 428 F.2d 812 (6th Cir. 1970)",
+              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)"
             },
             {
               "id": "tax2-b04",
@@ -2481,16 +2478,16 @@
               "page": "40–42",
               "citation": "348 U.S. 426 (1955)",
               "summary": "The Supreme Court held that punitive damages recovered in litigation constitute gross income under the broad federal income-tax statute.",
-              "facts": "Glenshaw Glass received a settlement from Hartford-Empire; $324,529.94 was allocated to punitive damages for fraud and antitrust violations, which Glenshaw did not report as income. In the consolidated Goldman Theatres matter, a treble-damages award totaled $375,000: Goldman reported only the $125,000 compensatory portion, excluding the $250,000 punitive balance. The Tax Court and Third Circuit sided with the taxpayers.",
-              "issue": "Are punitive damages for fraud or antitrust violations taxable as gross income under § 22(a) of the 1939 Code, predecessor of § 61?",
-              "holding": "Yes. Punitive damages are gross income. The Supreme Court reversed the favorable decisions below.",
-              "reasoning": "Congress used expansive language — income from whatever source derived — to tax gains unless specifically excluded. Punitive payments are undeniable accessions to wealth, clearly realized, and under the taxpayers' complete dominion. Their punitive source does not alter their status as income. The Court rejected using the narrower Eisner v. Macomber phrasing as a universal test for gross income because that case addressed whether a stock dividend was a realized gain.",
-              "rule": "Undeniable accessions to wealth, clearly realized, and over which taxpayers have complete dominion, generally fall within gross income unless a specific exclusion applies.",
-              "exam": "For unfamiliar receipts, analyze the breadth of § 61 and the Glenshaw Glass accession-to-wealth formulation; separately assess any applicable exclusion. Do not infer that punitive damages are excluded simply because they punish wrongdoing.",
-              "examApplication": "Hypothetical: A business receives $125,000 to compensate lost profit and $250,000 in punitive antitrust damages. Under the opinion's statutory construction, both amounts fall within gross income, absent an applicable exclusion.",
-              "examTrap": "The Court did not hold that every transfer or increase in asset value is necessarily taxable at once; realization and exclusions still matter.",
-              "source": "User-provided reproduced opinion, Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955), pp. 40–42. Case brief summarizes only the supplied excerpt.",
-              "sourceRole": "Reproduced judicial opinion supplied by user — dedicated assigned case brief.",
+              "facts": "Two consolidated taxpayer cases. Glenshaw Glass settled litigation with Hartford-Empire for about $800,000; $324,529.94 was attributable to punitive damages for fraud/antitrust violations, which it excluded from income. William Goldman Theatres recovered $375,000 in antitrust treble damages: it reported the $125,000 representing lost profits but excluded the remaining $250,000 punitive portion. The Tax Court and Third Circuit ruled for both taxpayers.",
+              "issue": "Whether punitive damages received for fraud or antitrust violations are included in gross income under §22(a) of the 1939 Code (predecessor of §61).",
+              "holding": "Yes. Punitive damages are gross income. The Supreme Court reversed the judgments favoring the taxpayers.",
+              "reasoning": "Congress used expansive language to reach gains from any source. The old Eisner v. Macomber 'derived from capital or labor' phrasing was useful for a stock-dividend realization question but was not a universal test. Both punitive awards conferred realized wealth the taxpayers controlled. Taxing compensatory damages but not accompanying punitive amounts would be unjustified without statutory exclusion.",
+              "rule": "Gross income broadly includes undeniable accessions to wealth, clearly realized, over which taxpayers have complete dominion; punitive character does not create an exemption.",
+              "exam": "For any unusual receipt ask (1) accession to wealth, (2) realization, (3) dominion, (4) statutory exception. Punitive recoveries do not escape merely because they punish a wrongdoer.",
+              "examApplication": "For any unusual receipt ask (1) accession to wealth, (2) realization, (3) dominion, (4) statutory exception. Punitive recoveries do not escape merely because they punish a wrongdoer.",
+              "examTrap": "A cited old definition in Macomber cannot be treated as today's exhaustive gross-income test. Different physical-injury exclusions for compensatory damages must be considered independently.",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 40–42.",
+              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)",
               "laymanExplanation": "Two companies kept the punitive part of lawsuit recoveries off their tax returns. The Supreme Court said those payments still increased their wealth and were taxable."
             },
             {
@@ -2577,35 +2574,20 @@
               "title": "Benaglia v. Commissioner",
               "summary": "The Board held the meals and lodging were not income where provided solely for the employer's convenience rather than compensation.",
               "details": "Assigned excerpt: the reproduced court opinion, not merely an incidental citation.",
-              "page": "48",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 48",
+              "page": "48–51",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 48–51.",
               "assignedOpinion": true,
-              "facts": "Benaglia managed Hawaiian resort hotels and, with his wife, lived and ate at a hotel for work. The Commissioner added $7,845 annually as FMV of room and board.",
-              "issue": "Whether employer-provided lodging and meals were taxable compensation when necessary for the hotel manager's duties.",
-              "holding": "The Board held the meals and lodging were not income where provided solely for the employer's convenience rather than compensation.",
-              "reasoning": "The hotel manager's continuous presence was practically necessary to perform the job. The dissent argued the employment contract made meals and rooms compensation and they had economic value. Congress later adopted a specific statutory rule in §119.",
-              "rule": "Apply today's §119 tests to a hotel manager or similar worker; use Benaglia for the historical development of the convenience-of-employer principle.",
-              "exam": {
-                "source": "Benaglia v. Commissioner, 36 B.T.A. 838 (1937), reproduced at pp. 48–51",
-                "page": "48–51",
-                "legalWarning": {
-                  "status": "superseded",
-                  "label": "STATUTORY RULE NOW CONTROLS",
-                  "reason": "Benaglia is an assigned historical opinion; Congress later codified a more specific rule in §119 (1954). Apply §119 on current-law exams.",
-                  "authority": "IRC §119"
-                }
-              },
-              "examApplication": {
-                "source": "Benaglia v. Commissioner, 36 B.T.A. 838 (1937), reproduced at pp. 48–51",
-                "page": "48–51",
-                "legalWarning": {
-                  "status": "superseded",
-                  "label": "STATUTORY RULE NOW CONTROLS",
-                  "reason": "Benaglia is an assigned historical opinion; Congress later codified a more specific rule in §119 (1954). Apply §119 on current-law exams.",
-                  "authority": "IRC §119"
-                }
-              },
-              "laymanExplanation": "A hotel manager had to stay at the hotel to do his job. The court viewed the meals and room as provided for the employer's needs, not as ordinary extra pay. Modern exams apply the statute, §119."
+              "facts": "Benaglia managed several Hawaiian resort hotels, had to remain available for guests' unexpected needs, and lived with his wife in a hotel suite with meals furnished by his employer. The Commissioner added $7,845 annually as the fair value of rooms and meals. The majority saw the accommodations as indispensable to management; a dissent emphasized Benaglia's employment letter expressly included meals and housing as part of the offered terms.",
+              "issue": "Were the employer-provided hotel room and meals taxable compensation to the manager or excluded because furnished for the employer's convenience?",
+              "holding": "The Board of Tax Appeals held the meals and lodging were not included in income under the employer-convenience doctrine on its findings; the Commissioner's determination was reversed.",
+              "reasoning": "The majority found the manager's presence necessary at all hours and the benefits furnished solely to allow performance of his obligations. Judge Arnold's dissent viewed the benefits as promised compensation with real value. Congress later enacted §119 in 1954; today's statutory elements govern meals and lodging.",
+              "rule": "Historical employer-convenience holding: benefits furnished as job necessities rather than compensation were excluded on the majority's facts. Modern analysis requires applying §119(a)'s statutory conditions.",
+              "exam": "For meals analyze employer convenience and business premises. For lodging add the requirement that acceptance is a condition of employment; compare the majority and dissent's factual approaches.",
+              "examApplication": "For meals analyze employer convenience and business premises. For lodging add the requirement that acceptance is a condition of employment; compare the majority and dissent's factual approaches.",
+              "laymanExplanation": "A hotel manager had to stay at the hotel to do his job. The court viewed the meals and room as provided for the employer's needs, not as ordinary extra pay. Modern exams apply the statute, §119.",
+              "examTrap": "Benaglia is an assigned judicial excerpt but its common-law approach was superseded by §119; even an employment letter calling something a 'benefit' does not settle statutory treatment.",
+              "citation": "36 B.T.A. 838 (1937)",
+              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)"
             },
             {
               "id": "tax2-case-gotcher",
@@ -2613,23 +2595,20 @@
               "title": "United States v. Gotcher",
               "summary": "The business-purpose portion of the husband's trip was not income; his wife's vacation-oriented trip provided a taxable personal economic benefit.",
               "details": "Assigned excerpt: the reproduced court opinion, not merely an incidental citation.",
-              "page": "56",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 56",
+              "page": "56–58",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 56–58.",
               "assignedOpinion": true,
-              "facts": "A Volkswagen dealer and his wife took a twelve-day trip to Germany funded principally by Volkswagen. The dealer toured facilities and met with relevant personnel; his wife's trip had a more personal vacation character.",
-              "issue": "Whether the expense-paid trip was income to the dealer and his spouse under §61.",
-              "holding": "The business-purpose portion of the husband's trip was not income; his wife's vacation-oriented trip provided a taxable personal economic benefit.",
-              "reasoning": "Economic gain and primary benefit to the payor matter. The record suggested the husband effectively had to attend to advance dealership interests, while the wife largely enjoyed a vacation.",
-              "rule": "Separate who benefits from employer-sponsored travel, business purpose, and personal consumption; analyze spouses separately.",
-              "exam": {
-                "source": "United States v. Gotcher, 401 F.2d 118 (5th Cir. 1968), reproduced at pp. 56–59",
-                "page": "56–59"
-              },
-              "examApplication": {
-                "source": "United States v. Gotcher, 401 F.2d 118 (5th Cir. 1968), reproduced at pp. 56–59",
-                "page": "56–59"
-              },
-              "laymanExplanation": "A car dealer's company-funded factory trip mainly served the business, but the spouse's vacation-like trip benefited her personally. The court treated them differently."
+              "facts": "Mr. and Mrs. Gotcher took a twelve-day Volkswagen-funded tour of Germany. The total cost was $1,372.30, split equally for tax-allocation purposes between the spouses at $686.15 each. Volkswagen arranged the itinerary to persuade potential U.S. dealers to invest; Mr. Gotcher was evaluating a dealership interest, while Mrs. Gotcher did not join the substantive business tours.",
+              "issue": "Does a corporate-sponsored foreign tour produce gross income to an invited potential dealer and to the accompanying spouse?",
+              "holding": "The Fifth Circuit excluded the husband's $686.15 trip expense from income because the travel primarily benefited Volkswagen and his personal gain was incidental, but included the $686.15 attributable to the wife's primarily vacation-like trip.",
+              "reasoning": "§61 broadly reaches economic gain; however, when travel primarily serves the payor's real business interest, and the recipient lacks personal dominion over spending and itinerary, incidental enjoyment does not make it income under this court's analysis. The wife's trip had no comparable substantive business role.",
+              "rule": "Under Gotcher's facts, a mainly payor-benefiting business trip with only incidental personal enjoyment was not gross income; a spouse's personal vacation benefit could be included.",
+              "exam": "Separate each traveler and trip component; analyze primary business purpose, actual control over travel and funds, incidental versus personal benefit, and §61.",
+              "examApplication": "Separate each traveler and trip component; analyze primary business purpose, actual control over travel and funds, incidental versus personal benefit, and §61.",
+              "laymanExplanation": "A car dealer's company-funded factory trip mainly served the business, but the spouse's vacation-like trip benefited her personally. The court treated them differently.",
+              "examTrap": "Do not infer all employer-sponsored vacations are nontaxable or that every business purpose alone eliminates all personal benefit income.",
+              "citation": "401 F.2d 118 (5th Cir. 1968)",
+              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)"
             },
             {
               "id": "tax2-c06",
@@ -2727,20 +2706,20 @@
               "title": "Turner v. Commissioner",
               "summary": "The court used an amount lower than the stated retail ticket value, recognizing valuation difficulty for the particular benefit.",
               "details": "Assigned excerpt: the reproduced court opinion, not merely an incidental citation.",
-              "page": "64",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 64",
+              "page": "65–67",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 65–67.",
               "assignedOpinion": true,
-              "facts": "Reginald Turner answered questions on a radio program and won two restricted, nontransferable first-class steamship tickets. Their retail price was $2,220. The couple reported $520. They exchanged the tickets plus $12.50 for four tourist-class tickets and took a family trip.",
-              "issue": "What amount of gross income must the winning couple include for restricted cruise tickets awarded as a prize?",
-              "holding": "The court valued the prize at $1,400, below the $2,220 retail price and above the $520 reported.",
-              "reasoning": "The first-class tickets were restricted, nontransferable and not ordinarily something the taxpayers would purchase. Their economic value was less than retail, though the taxpayers did obtain substantial vacation benefits.",
-              "rule": "Taxable noncash prizes are included at an appropriate value; restrictions and practical marketability can affect valuation.",
-              "exam": "Distinguish taxable receipt from proper valuation; describe the factual basis for adjusting retail FMV where prize transferability and actual use are constrained.",
-              "examApplication": {
-                "source": "Turner v. Commissioner, 13 T.C.M. 462 (1954), reproduced in assigned Chapter 2 pp. 64–67",
-                "page": "64–67"
-              },
-              "laymanExplanation": "Someone won expensive travel tickets they couldn't easily sell. The court did not simply use the full ticket price; it looked at what the benefit was realistically worth."
+              "facts": "Reginald Turner won two restricted nontransferable first-class steamship tickets by answering radio-program questions. Their retail price was $2,220; the Turners reported $520. They exchanged their tickets plus $12.50 for four tourist-class tickets to Rio de Janeiro and vacationed with their sons.",
+              "issue": "What amount must the taxpayer include as gross income from winning restricted cruise tickets whose market ticket price exceeds what the tickets are worth to the winner?",
+              "holding": "The Tax Court included $1,400 of income from the prize—between the $520 reported and the Commissioner's $2,220 retail valuation.",
+              "reasoning": "The tickets were not transferable or readily saleable and were a luxury the recipients otherwise would not have bought, so retail price overstated actual value; nevertheless the family obtained real travel, food and vacation benefits. The court made a pragmatic factual valuation based on limited evidence.",
+              "rule": "A valuable noncash prize is included in income, but unusual transfer restrictions and marketability may affect valuation; precise amounts can be fact-dependent.",
+              "exam": "Identify a taxable award first, then consider sticker value, restrictions on resale, available alternatives and reliable valuation evidence.",
+              "examApplication": "Identify a taxable award first, then consider sticker value, restrictions on resale, available alternatives and reliable valuation evidence.",
+              "laymanExplanation": "Someone won expensive travel tickets they couldn't easily sell. The court did not simply use the full ticket price; it looked at what the benefit was realistically worth.",
+              "examTrap": "Turner's case-specific valuation does not establish a universal rule that subjective personal value always overrides objective market value.",
+              "citation": "13 T.C.M. 462 (1954)",
+              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)"
             },
             {
               "id": "tax2-c15",
@@ -2921,23 +2900,20 @@
               "title": "Inaja Land Co. v. Commissioner",
               "summary": "The Tax Court treated the net $49,000 as a tax-free return of capital reducing the property's basis, because reliably allocating basis to the affected property rights was impracticable and the payment was below total basis.",
               "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.",
-              "page": "69",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69",
+              "page": "69–70",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 69–70.",
               "assignedOpinion": true,
-              "facts": "The taxpayer bought 1,236 acres and water rights for $61,000. The City of Los Angeles caused flooding and sediment damage, then paid $50,000 for easements and release of claims; legal costs were $1,000, producing a net $49,000 receipt.",
-              "issue": "Was the $49,000 payment taxable income or return of capital, and must basis be allocated to the easements?",
-              "holding": "The Tax Court treated the net $49,000 as a tax-free return of capital reducing the property's basis, because reliably allocating basis to the affected property rights was impracticable and the payment was below total basis.",
-              "reasoning": "The payment compensated for property rights and damage, not lost profits. Ordinarily a partial sale requires cost allocation, but a gain cannot be calculated on conjecture unsupported by ascertainable facts.",
-              "rule": "Identify the character of a settlement; if paid for property rights, attempt reasonable basis allocation. Only if allocation is truly impracticable analyze the Inaja exception and reduce remaining basis.",
-              "exam": {
-                "source": "Inaja Land Co. v. Commissioner, 9 T.C. 727 (1947), excerpt reproduced pp. 69–70",
-                "page": "69–70"
-              },
-              "examApplication": {
-                "source": "Inaja Land Co. v. Commissioner, 9 T.C. 727 (1947), excerpt reproduced pp. 69–70",
-                "page": "69–70"
-              },
-              "laymanExplanation": "A landowner was paid for damage and easement rights. The court allowed the payment to reduce property basis because nobody could reasonably assign a precise cost to the rights surrendered."
+              "facts": "Inaja paid $61,000 for land, fishing-club rights and related water interests. Los Angeles diverted contaminated water into the river, causing damage. The city paid $50,000 for a perpetual easement and release of claims; after $1,000 in legal costs, net recovery was $49,000.",
+              "issue": "Was the $49,000 ordinary income for lost profits, or a capital recovery from surrender of land-related rights, and how should basis be allocated when the easement cannot be measured reasonably?",
+              "holding": "The Tax Court treated the entire $49,000 as a return of capital reducing basis, rather than taxable income, because it was for easements/property damage and basis apportionment was wholly impracticable.",
+              "reasoning": "The record did not support lost-profits compensation. Ordinarily the taxpayer allocates cost to property rights disposed of, but uncertain boundaries, river flow and extent of damage prevented a factual cost allocation. Gain cannot rest on pure conjecture; because the payment was below original basis, the court allowed it to reduce basis.",
+              "rule": "Ordinarily allocate basis on a partial disposition; if allocation is wholly impracticable and a capital recovery is below total property basis, treat it as return of capital reducing remaining basis rather than recognize conjectural gain.",
+              "exam": "Determine what damages replace; first attempt defensible allocation to rights sold. Only if truly impracticable consider Inaja-style basis reduction. Capital recoveries above adjusted basis can generate gain.",
+              "examApplication": "Determine what damages replace; first attempt defensible allocation to rights sold. Only if truly impracticable consider Inaja-style basis reduction. Capital recoveries above adjusted basis can generate gain.",
+              "laymanExplanation": "A landowner was paid for damage and easement rights. The court allowed the payment to reduce property basis because nobody could reasonably assign a precise cost to the rights surrendered.",
+              "examTrap": "Inaja is a limited exception to normal partial-sale basis allocation, not blanket exclusion for every easement or settlement.",
+              "citation": "9 T.C. 727 (1947)",
+              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)"
             },
             {
               "id": "tax2-d07",
@@ -2984,23 +2960,26 @@
               "title": "Clark v. Commissioner",
               "summary": "The Board ruled for the taxpayer: the $19,941.10 reimbursement compensated for a loss rather than yielding taxable income.",
               "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.\n\nRelated syllabus handout: The government's 2018 McKenney appellate brief distinguishes Clark's unnecessary tax overpayment from reimbursement of legally owed tax. The 2020 Eleventh Circuit opinion is separately identified as follow-up research; do not confuse the brief with a court opinion.",
-              "page": "74–75",
-              "source": "Clark v. Commissioner, 40 B.T.A. 333 (1939), assigned excerpt pp. 74–75",
+              "page": "73–75",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 73–75.",
               "assignedOpinion": true,
-              "facts": "Tax counsel negligently prepared the taxpayer's joint return. He paid more federal income tax than he would have owed using a properly advised separate-return election. Counsel reimbursed $19,941.10, representing that excess tax expense; the IRS asserted the reimbursement was gross income.",
-              "issue": "Is reimbursement of a non-deductible overpayment caused by counsel's negligence taxable income?",
-              "holding": "The Board ruled for the taxpayer: the $19,941.10 reimbursement compensated for a loss rather than yielding taxable income.",
-              "reasoning": "The taxpayer paid his own tax; counsel did not discharge an existing liability for him. The court treated reimbursement as restoration of a lost amount. Its reliance on the narrow old capital/labor definition is outdated, but the textbook says the limited holding survives.",
-              "rule": "A reimbursement restoring nondeducted, unnecessarily lost capital may be excluded under Clark's narrow facts; distinguish payments for loss of an expected tax saving or normal business-transacting costs.",
-              "exam": "Ask whether the payment merely replaces an excess amount actually paid because of negligent preparation, and whether any deduction previously created a tax benefit.",
-              "examApplication": "Ask whether the payment merely replaces an excess amount actually paid because of negligent preparation, and whether any deduction previously created a tax benefit.",
+              "facts": "For 1932, Clark's tax adviser mistakenly prepared a joint return and improperly handled capital losses. Had the adviser correctly compared separate returns, the combined tax would have been $19,941.10 less. Clark had paid the resulting tax due on the filed joint return; the adviser reimbursed him that $19,941.10 in 1934, which IRS sought to include.",
+              "issue": "Was reimbursement by a negligent adviser of avoidable taxes actually paid taxable gross income, rather than restoration of a loss?",
+              "holding": "No, on the specific facts. The Board of Tax Appeals held the $19,941.10 was a reimbursement for an unrecovered economic loss, not income.",
+              "reasoning": "Clark, not the adviser, paid the taxes. The payment restored the harm from erroneous advice rather than a third party directly discharging his tax debt. The source's explanatory note makes clear that the old capital/labor rationale is obsolete after Glenshaw Glass, while the narrow Clark reimbursement holding remains relevant where excess tax was actually paid rather than merely a better transaction hypothetically foregone.",
+              "rule": "On Clark's narrow facts, reimbursement of an unnecessary tax overpayment caused by malpractice can be treated as return of lost capital, where no prior deduction for the overpayment produced a tax benefit.",
+              "exam": "Distinguish actual excess tax paid (Clark) from a settlement for tax legally owed on a poorly planned transaction (McKenney government's brief); assess whether an earlier deduction existed.",
+              "examApplication": "Distinguish actual excess tax paid (Clark) from a settlement for tax legally owed on a poorly planned transaction (McKenney government's brief); assess whether an earlier deduction existed.",
               "legalWarning": {
                 "status": "historical-caution",
                 "label": "OLD REASONING NO LONGER LAW",
                 "reason": "The reading expressly states Clark's 'derived from capital or labor' rationale is no longer good law after Glenshaw Glass, though its narrow reimbursement holding remains.",
                 "authority": "Glenshaw Glass; textbook's Current Legal Status of Clark note"
               },
-              "laymanExplanation": "An accountant's mistake caused a taxpayer to pay more tax than legally necessary. The accountant paid him back. The court treated that reimbursement as making him whole, not extra income."
+              "laymanExplanation": "An accountant's mistake caused a taxpayer to pay more tax than legally necessary. The accountant paid him back. The court treated that reimbursement as making him whole, not extra income.",
+              "examTrap": "Clark's old 'derived from capital or labor' justification is no longer governing law. Do not classify all accountant-malpractice settlements as excluded.",
+              "citation": "40 B.T.A. 333 (1939)",
+              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)"
             },
             {
               "id": "tax2-d10",
@@ -3178,35 +3157,20 @@
               "title": "Murphy v. United States (Murphy II)",
               "summary": "The D.C. Circuit held the award did not fall within §104(a)(2)'s physical-injury exclusion, was included in §61 gross income, and could constitutionally be taxed; the judgment was affirmed.",
               "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.",
-              "page": "80",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 80",
+              "page": "80–88",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 80–88.",
               "assignedOpinion": true,
-              "facts": "Murphy received damages for emotional distress and harm to reputation after whistleblower complaints. Her recovery was not attributable to personal physical injury.",
-              "issue": "Whether emotional-distress/reputational damages are excluded by §104(a)(2), included by §61, and constitutionally taxable.",
-              "holding": "The D.C. Circuit held the award did not fall within §104(a)(2)'s physical-injury exclusion, was included in §61 gross income, and could constitutionally be taxed; the judgment was affirmed.",
-              "reasoning": "The 1996 statutory revision restricted the exclusion to physical injuries or sickness. Congress could tax this recovery through its Article I power; the tax was characterized as an excise on a transaction rather than an unapportioned direct ownership tax.",
-              "rule": "Analyze the injury's actual physical nature, the §104 statutory text, and whether the receipt replaces taxable income or falls within a specific exclusion. Do not cite the superseded earlier Murphy I opinion as controlling.",
-              "exam": {
-                "source": "Murphy v. United States, 493 F.3d 170 (D.C. Cir. 2007) (Murphy II), excerpt reproduced pp. 80–88",
-                "page": "80–88",
-                "legalWarning": {
-                  "status": "historical-caution",
-                  "label": "DISTINGUISH MURPHY I",
-                  "reason": "The chapter discusses Murphy I, an earlier opinion withdrawn on rehearing. Murphy II is the operative appellate decision excerpted here.",
-                  "authority": "Murphy v. IRS, 493 F.3d 170 (D.C. Cir. 2007)"
-                }
-              },
-              "examApplication": {
-                "source": "Murphy v. United States, 493 F.3d 170 (D.C. Cir. 2007) (Murphy II), excerpt reproduced pp. 80–88",
-                "page": "80–88",
-                "legalWarning": {
-                  "status": "historical-caution",
-                  "label": "DISTINGUISH MURPHY I",
-                  "reason": "The chapter discusses Murphy I, an earlier opinion withdrawn on rehearing. Murphy II is the operative appellate decision excerpted here.",
-                  "authority": "Murphy v. IRS, 493 F.3d 170 (D.C. Cir. 2007)"
-                }
-              },
-              "laymanExplanation": "A whistleblower received damages for emotional harm and damage to reputation, not physical injury. The appeals court ruled the money was taxable and that Congress could tax it."
+              "facts": "Marrita Murphy recovered damages through an administrative whistleblower case against a former employer, including awards for emotional distress and reputational injury. She sought a refund of the income tax paid on those nonphysical-injury damages. On rehearing, the D.C. Circuit considered both the statute and Congress's taxing power.",
+              "issue": "Does §104(a)(2) exclude damages for emotional distress or reputational harm without a qualifying physical injury? If not, does §61 include those damages and may Congress constitutionally tax them?",
+              "holding": "On rehearing, the D.C. Circuit held the nonphysical-injury recovery was not excluded by §104(a)(2), fell within gross income under §61, and was constitutionally taxable; the taxpayer's challenge failed.",
+              "reasoning": "The 1996 amendment ties the §104(a)(2) exclusion to physical injury or physical sickness, and reputational/emotional harm alone does not qualify. The court read §61 broadly and reasoned the tax on the award was an excise on receipt/transaction rather than an unapportioned direct tax on property ownership. The prior Murphy I decision was vacated.",
+              "rule": "Nonphysical personal-injury damages are generally included under §61 absent another exclusion; §104(a)(2) is limited to qualifying physical injury/sickness damages (other than punitive), and Murphy II sustained taxation of its award as an excise.",
+              "exam": "Separate statutory analysis (§104, §61) from constitutional analysis (direct tax/apportionment). Do not substitute historical Murphy I for the rehearing holding.",
+              "examApplication": "Separate statutory analysis (§104, §61) from constitutional analysis (direct tax/apportionment). Do not substitute historical Murphy I for the rehearing holding.",
+              "laymanExplanation": "A whistleblower received damages for emotional harm and damage to reputation, not physical injury. The appeals court ruled the money was taxable and that Congress could tax it.",
+              "examTrap": "Emotional distress is not automatically a qualifying 'physical injury' solely because it causes bodily symptoms; analyze the precise statutory/regulatory conditions.",
+              "citation": "493 F.3d 170 (D.C. Cir. 2007)",
+              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)"
             },
             {
               "id": "tax2-e07",
@@ -3234,17 +3198,20 @@
               "title": "Perez v. Commissioner",
               "summary": "No. The payments were taxable compensation, not excludable damages for personal physical injury.",
               "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.",
-              "page": "90–94",
-              "source": "Perez v. Commissioner, 144 T.C. 51 (2015), reproduced pp. 90–94",
+              "page": "89–94",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 89–94.",
               "assignedOpinion": true,
-              "facts": "Perez underwent painful injections and egg retrieval procedures under contracts that paid her $20,000 for compliance with the procedure. The contracts disclaimed payment for eggs and allocated medical risks to Perez.",
-              "issue": "Does contractual compensation for undergoing a voluntary painful medical procedure count as excludable damages on account of personal physical injuries under §104(a)(2)?",
-              "holding": "No. The payments were taxable compensation, not excludable damages for personal physical injury.",
-              "reasoning": "Perez voluntarily agreed to the procedures in exchange for compensation; the clinic did not pay damages for a wrong or compensable injury. The regulation's removal of the formal tort-rights requirement did not turn voluntary contractual services payments into damages.",
-              "rule": "§104(a)(2) requires qualifying damages on account of personal physical injury/sickness; compensation under a bargained-for voluntary services contract is not automatically damages.",
-              "exam": "Distinguish contract compensation for voluntarily undergone procedures from a recovery for a legally compensable physical injury.",
-              "examApplication": "Distinguish contract compensation for voluntarily undergone procedures from a recovery for a legally compensable physical injury.",
-              "laymanExplanation": "A woman was paid to go through an egg-retrieval process. The court said this was payment under a voluntary contract, not tax-free injury damages."
+              "facts": "Perez agreed with a fertility clinic to undergo hormone injections, medical monitoring, and multiple egg retrieval procedures to supply her eggs for others. She received $20,000 under written arrangements for undergoing the process, which involved pain, risk and physical intervention.",
+              "issue": "Were contractual payments for willingly undergoing egg-donation retrieval processes excludable 'damages' received on account of physical injury under §104(a)(2)?",
+              "holding": "No. The Tax Court held the $20,000 was taxable compensation, not qualifying personal physical-injury damages.",
+              "reasoning": "Perez voluntarily agreed to medical procedures in return for payment. Although they caused physical pain and risk, the clinic did not compensate a wrongful injury through damages; it paid consideration for contractually agreed actions. The post-1996 regulation's removal of a 'tort or tort-type' formal claim requirement did not make all compensation for painful activities damages.",
+              "rule": "Contract payments for voluntary services or procedures do not become §104(a)(2) injury damages merely because the services are physically invasive or painful.",
+              "exam": "Distinguish a settlement for a compensable physical injury from contractual pay for willingly performing a physically difficult activity.",
+              "examApplication": "Distinguish a settlement for a compensable physical injury from contractual pay for willingly performing a physically difficult activity.",
+              "laymanExplanation": "A woman was paid to go through an egg-retrieval process. The court said this was payment under a voluntary contract, not tax-free injury damages.",
+              "examTrap": "Pain alone does not show damages; identify the legal source and character of the payment.",
+              "citation": "144 T.C. 51 (2015)",
+              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)"
             },
             {
               "id": "tax2-e09",
@@ -3360,23 +3327,20 @@
               "title": "Gilbert v. Commissioner",
               "summary": "The Second Circuit reversed the Tax Court; under its unusual facts, the withdrawals were not income when acquired.",
               "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.",
-              "page": "96",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 96",
+              "page": "95–99",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 95–99.",
               "assignedOpinion": true,
-              "facts": "Gilbert, a corporation president and principal shareholder, withdrew nearly $1.96 million in company funds without advance authorization to meet stock-purchase margin calls. Shortly afterward, he gave demand promissory notes and secured them with assets exceeding the debt's value; the corporate board accepted the security but did not ratify his initial actions.",
-              "issue": "Were Gilbert's unauthorized withdrawals taxable embezzlement income when he intended and secured prompt repayment?",
-              "holding": "The Second Circuit reversed the Tax Court; under its unusual facts, the withdrawals were not income when acquired.",
-              "reasoning": "Unlike typical embezzlement, Gilbert recognized repayment obligations, reasonably expected to repay, believed the withdrawals would be approved, and promptly delivered adequate collateral. These facts distinguished James and Buff.",
-              "rule": "Carefully compare initial intent, recognized debt, prompt security, reasonable repayment ability, and corporation's response. Do not treat a general post hoc promise to repay as enough.",
-              "exam": {
-                "source": "Gilbert v. Commissioner, 552 F.2d 478 (2d Cir. 1977), reproduced pp. 96–98",
-                "page": "96–98"
-              },
-              "examApplication": {
-                "source": "Gilbert v. Commissioner, 552 F.2d 478 (2d Cir. 1977), reproduced pp. 96–98",
-                "page": "96–98"
-              },
-              "laymanExplanation": "A company executive took money without permission but promptly gave real security and acknowledged repayment. The court treated those unusual facts differently from ordinary embezzlement."
+              "facts": "Gilbert, president of Bruce corporation, caused unauthorized withdrawals totaling $1,958,000 for stock margin calls, repaid $5,000 and executed notes for $1,953,000. He promptly disclosed the withdrawals to certain officers and counsel and gave Bruce security over assets then worth more than the money owed. The board accepted the collateral but refused to ratify the withdrawals; later repayment efforts collapsed.",
+              "issue": "Did these unauthorized corporate withdrawals constitute taxable embezzlement income under James despite a recognized repayment duty and prompt overcollateralization?",
+              "holding": "The Second Circuit reversed the Tax Court. On these unusual facts, Gilbert did not realize taxable income when he withdrew the funds because they functioned as a genuinely secured obligation to repay.",
+              "reasoning": "Gilbert intended to return the funds, believed corporate approval would follow, promptly informed officers and counsel, issued demand notes, and subjected assets exceeding the liability to creditor control. The court distinguished typical embezzlement, where there is no contemporaneous consensual recognition of repayment obligation or restrictions on use.",
+              "rule": "James does not automatically make every unauthorized withdrawal income; a narrow exception may apply where genuine contemporaneous repayment obligation, reasonable expectation of repayment, anticipated consent and prompt adequate security are shown.",
+              "exam": "Compare a conventional unsecured theft/embezzlement with Gilbert's immediate secured loan-like transaction; identify consent, intent, collateral, timing and actual freedom to use funds.",
+              "examApplication": "Compare a conventional unsecured theft/embezzlement with Gilbert's immediate secured loan-like transaction; identify consent, intent, collateral, timing and actual freedom to use funds.",
+              "laymanExplanation": "A company executive took money without permission but promptly gave real security and acknowledged repayment. The court treated those unusual facts differently from ordinary embezzlement.",
+              "examTrap": "A belated note or subjective promise to repay stolen money is not enough to create Gilbert's exceptional result.",
+              "citation": "552 F.2d 478 (2d Cir. 1977)",
+              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)"
             },
             {
               "id": "tax2-f04",
