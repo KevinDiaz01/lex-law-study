@@ -87,11 +87,14 @@ The website's canonical published content is `content/lex-data.json`; `lex-v4.js
 
 Use two layers for **every complex or unfamiliar exam-relevant doctrine**, while preserving the compact expandable outline. On opening an entry, show a short **IN PLAIN ENGLISH** explanation that teaches the idea intuitively without compromising legal accuracy. Keep a separate **Legal explanation** with precise statutory language, test, requirements, exceptions, factual distinctions, relevant case reasoning and citations. A plain-English explanation supplements, and must never replace or contradict, the legal explanation. Where a supplied passage does not support a detail, do not invent it: distinguish independently researched law or leave a gap. Apply the same standard to important definitions, assigned cases, formulas, and applications. Never turn plain-language teaching examples into claimed quotes from the casebook. Preserve both editable fields (`laymanExplanation`, `legalExplanation`) and use existing verified `details` as the lawyer-level explanation where appropriate. For reproduced court opinions, the full assigned case brief itself is the formal legal layer.
 
-## Verified Tax syllabus coverage (Weeks 1–3)
+## Verified Tax syllabus coverage (Weeks 1–4)
 
 - **Week 1:** Chapter 1 printed pp. 1–33.
 - **Week 2:** Chapter 2 printed pp. 35–68, §132 Questions 1–8 on printed pp. 64–65, and separately assigned *Gaylor* handout.
-- **Week 3:** Chapter 2 printed pp. 68–77 (including the four-part hypothetical on p. 77) and pp. 78–102, plus separately assigned *McKenney* government-brief handout and *Harris* opinion handout (printed pp. 111–134 in the separate assigned material).
+- **Week 3:** Chapter 2 printed pp. 68–77 (including the four-part hypothetical on p. 77) and pp. 78–102, plus separately assigned *McKenney* government-brief handout and *Harris* opinion handout (separately provided pp. 154–161), and textbook Chapter 3 printed pp. 111–134.
+
+- **Week 4:** Chapter 3 pp. 134–141 (including questions on p. 141); pp. 141–147 (including problems on p. 147); pp. 147–165. The user's 2026-11-08 Chapter 3 paste contains substantive text through around p. 153 and notes following it, but it does **not** establish contents of pp.154–165. Week 4 remains **partial** until those pages are provided and verified.
+- The assigned *Harris* judicial opinion comes from the **separate handout pp.154–161** and is preserved, alongside the now-reproduced *Commissioner v. Duberstein* opinion in textbook pp.123–129. They are distinct assigned sources. The chapter also reproduces *Taft v. Bowers*, *United States v. Davis*, *Farid-Es-Sultaneh*, and *Diez-Arguelles* in the currently supplied Week 4 excerpt.
 - **Deliberately excluded:** the separately titled *Squire v. Capoeman* opinion begins at the bottom of textbook p. 102 but its substantive excerpt continues on **unassigned** pp. 103–108. Do not create a dedicated *Squire* case brief or extract those subsequent pages until the syllabus independently assigns them. The brief mention on assigned p. 102 is not the full assigned opinion.
 - A full chapter upload can contain more pages than assigned. In the 2026-11-08 Chapter 2 text, content beyond assigned p.102 is outside the import scope.
 
