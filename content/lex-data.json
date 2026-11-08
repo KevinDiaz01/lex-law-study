@@ -1136,6 +1136,42 @@
               "details": "Lawyers must spot when a proposed transaction has tax consequences, even if tax is not their specialty. Legal complexity creates incentives to structure transactions to comply and reduce liability.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 6",
               "page": "6"
+            },
+            {
+              "id": "class1-def-quintile",
+              "type": "definition",
+              "title": "Quintile and average tax burden",
+              "summary": "A quintile is one of five equal-sized groups sorted by income; the reading compares average tax rates across income quintiles.",
+              "details": "The 2018 CBO table groups households by income fifths and compares tax burdens across tax types; it is historical empirical evidence, not a tax statute.",
+              "laymanExplanation": "A quintile is just 20% of the people after you line them up by income. Comparing five groups helps show who carries more tax.",
+              "legalExplanation": "The 2018 CBO table groups households by income fifths and compares tax burdens across tax types; it is historical empirical evidence, not a tax statute.",
+              "page": "4–6",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 4–6",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-tax-expenditure",
+              "type": "definition",
+              "title": "Tax expenditure",
+              "summary": "A statutory tax preference, such as a deduction, exclusion, or credit, that can subsidize behavior through foregone tax revenue.",
+              "details": "The reading compares a $6 million direct government grant with a $6 million reduction in a taxpayer's bill. Similar net economic benefits can look different politically and be administered differently.",
+              "laymanExplanation": "A tax break can work a lot like the government giving someone money. Instead of sending a check, it lets the person keep more of what they would otherwise owe.",
+              "legalExplanation": "The reading compares a $6 million direct government grant with a $6 million reduction in a taxpayer's bill. Similar net economic benefits can look different politically and be administered differently.",
+              "page": "7–8",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 7–8",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-average-tax-rate",
+              "type": "definition",
+              "title": "Average tax rate for distribution comparisons",
+              "summary": "Tax owed divided by income measures the average burden; changes in the percentage across higher-income groups distinguish progressive, proportional, and regressive systems.",
+              "details": "For a distributional analysis, calculate average tax liability as a share of the chosen income measure; the denominator and types of tax included change the result. The reading compares individual income, payroll, corporate and excise taxes using historical 2018 quintile data.",
+              "laymanExplanation": "A person paying $10,000 in tax on $100,000 income has a 10% average tax rate. Check the share of income paid, not just the number of dollars.",
+              "legalExplanation": "For a distributional analysis, calculate average tax liability as a share of the chosen income measure; the denominator and types of tax included change the result. The reading compares individual income, payroll, corporate and excise taxes using historical 2018 quintile data.",
+              "page": "4–5",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 4–5",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             }
           ]
         },
@@ -1437,6 +1473,150 @@
               "details": "Congress indexed specified tax brackets and amounts to inflation; the book identifies §§1(f) and 151(f) and use of chained CPI. Indexing is distinct from adjusting a taxpayer’s investment basis for inflation.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 24",
               "page": "24"
+            },
+            {
+              "id": "class1-def-cost-of-goods",
+              "type": "definition",
+              "title": "Cost of goods sold (COGS)",
+              "summary": "The inventory cost recovered before a seller determines gross income from selling merchandise.",
+              "details": "In inventory transactions, gross income from sales is generally gross receipts minus properly measured cost of goods sold. COGS is conceptually distinct from an ordinary personal itemized deduction. In the textbook's example, two $20 hammers costing $12 each yield $40 receipts − $24 inventory cost = $16 gross income.",
+              "laymanExplanation": "When a shop sells something, it doesn't make a profit on all the cash it collects. It first subtracts what it paid for the product.",
+              "legalExplanation": "In inventory transactions, gross income from sales is generally gross receipts minus properly measured cost of goods sold. COGS is conceptually distinct from an ordinary personal itemized deduction. In the textbook's example, two $20 hammers costing $12 each yield $40 receipts − $24 inventory cost = $16 gross income.",
+              "page": "12–13",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 12–13",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-rule-standard-itemized",
+              "type": "rule",
+              "title": "Standard deduction or itemized deductions — §63",
+              "summary": "Eligible individuals generally reduce AGI using the applicable standard deduction OR allowable itemized deductions, subject to statutory limitations; they cannot simply add both.",
+              "details": "In computing taxable income, compare the allowed standard deduction with allowable itemized deductions. Itemized amounts are useful only insofar as they exceed the standard deduction. The 2022 thresholds and $10,000 state/local tax deduction cap in the printed source are historical, not 2026 limits. Special rules apply to filing status and other categories.",
+              "laymanExplanation": "You normally get to choose one: take a fixed deduction provided by law, or add up qualifying itemized expenses. Choose whichever actually saves more, subject to the law.",
+              "legalExplanation": "In computing taxable income, compare the allowed standard deduction with allowable itemized deductions. Itemized amounts are useful only insofar as they exceed the standard deduction. The 2022 thresholds and $10,000 state/local tax deduction cap in the printed source are historical, not 2026 limits. Special rules apply to filing status and other categories.",
+              "page": "14–15",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-standard-deduction",
+              "type": "definition",
+              "title": "Standard deduction",
+              "summary": "An amount allowed under §63 that reduces taxable income without proving a full set of itemized expenses.",
+              "details": "The standard deduction depends on filing status, tax year, and special eligibility rules. The 2022 standard deduction amounts quoted in the 2023 casebook are dated. Determine the applicable year before computing liability.",
+              "laymanExplanation": "It's a default amount the government lets many taxpayers subtract instead of keeping receipts for every eligible itemized expense.",
+              "legalExplanation": "The standard deduction depends on filing status, tax year, and special eligibility rules. The 2022 standard deduction amounts quoted in the 2023 casebook are dated. Determine the applicable year before computing liability.",
+              "page": "14–15",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-itemized",
+              "type": "definition",
+              "title": "Itemized deduction",
+              "summary": "A separately allowed deductible expense that an individual claims instead of using the standard deduction, subject to applicable statutory limits.",
+              "details": "Typical examples in the reading include qualified mortgage interest, charitable contributions, certain medical expenses, and certain state/local taxes. The amount legally deductible depends on the tax year, category limits, income limits, and whether the taxpayer itemizes. The reading's $13,000 mortgage-interest example uses a historical $12,950 standard deduction.",
+              "laymanExplanation": "Itemizing means listing eligible costs one by one. It's usually only worthwhile if the allowed total beats your standard deduction.",
+              "legalExplanation": "Typical examples in the reading include qualified mortgage interest, charitable contributions, certain medical expenses, and certain state/local taxes. The amount legally deductible depends on the tax year, category limits, income limits, and whether the taxpayer itemizes. The reading's $13,000 mortgage-interest example uses a historical $12,950 standard deduction.",
+              "page": "14–15",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-refundable-credit",
+              "type": "definition",
+              "title": "Refundable versus nonrefundable tax credits",
+              "summary": "A nonrefundable credit generally offsets income tax owed; a refundable credit can generate a payment in excess of that liability if its statutory conditions are met.",
+              "details": "After finding preliminary liability, credits reduce tax. The book uses the EITC as an example of a refundable credit that may yield negative net income-tax liability; a nonrefundable credit generally does not produce a payment beyond the applicable tax.",
+              "laymanExplanation": "A nonrefundable credit can bring your tax bill down to zero. A refundable credit may also pay you the difference if it's larger than the tax you owe.",
+              "legalExplanation": "After finding preliminary liability, credits reduce tax. The book uses the EITC as an example of a refundable credit that may yield negative net income-tax liability; a nonrefundable credit generally does not produce a payment beyond the applicable tax.",
+              "page": "15–16",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 15–16",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-capital-asset",
+              "type": "definition",
+              "title": "Capital asset — §1221",
+              "summary": "Property treated as a capital asset under §1221, subject to statutory exclusions such as inventory held primarily for sale to customers.",
+              "details": "Capital status is a threshold issue for determining capital gain or loss character. Investor-held stocks generally can qualify; inventory held for ordinary customer sales generally does not. Having something valuable or long-lived does not by itself establish capital-asset treatment.",
+              "laymanExplanation": "Stocks you buy as investments are often capital assets. The products a business keeps on shelves to sell customers generally aren't.",
+              "legalExplanation": "Capital status is a threshold issue for determining capital gain or loss character. Investor-held stocks generally can qualify; inventory held for ordinary customer sales generally does not. Having something valuable or long-lived does not by itself establish capital-asset treatment.",
+              "page": "19–20",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 19–20",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-holding-period",
+              "type": "definition",
+              "title": "Short-term versus long-term holding period",
+              "summary": "Capital gain or loss on a capital asset held for more than one year is generally long-term; one year or less is short-term.",
+              "details": "§1222 distinguishes short-term and long-term gains and losses. Preferential rates generally depend on net capital gain after statutory netting, not simply the word 'capital' on any disposition. Keep separate the property's character and the period held.",
+              "laymanExplanation": "Sell an investment after six months and it's normally short-term; sell it after more than a year and it's generally long-term.",
+              "legalExplanation": "§1222 distinguishes short-term and long-term gains and losses. Preferential rates generally depend on net capital gain after statutory netting, not simply the word 'capital' on any disposition. Keep separate the property's character and the period held.",
+              "page": "19–20",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 19–20",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-net-capital-gain",
+              "type": "definition",
+              "title": "Net capital gain",
+              "summary": "A technical amount relevant to preferential tax rates, determined through the statutory netting of long-term capital gain and specified losses.",
+              "details": "Not every capital gain receives the reduced tax rates. The reading explains that 'net capital gain' depends on net long-term capital gain in excess of net short-term capital loss after applying statutory netting provisions. Review §1222 before calculating preferential treatment.",
+              "laymanExplanation": "Just because you sold an investment at a profit doesn't automatically mean the special low tax rate applies. You have to look at the type of gain, how long you held it, and other capital losses.",
+              "legalExplanation": "Not every capital gain receives the reduced tax rates. The reading explains that 'net capital gain' depends on net long-term capital gain in excess of net short-term capital loss after applying statutory netting provisions. Review §1222 before calculating preferential treatment.",
+              "page": "19–20",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 19–20",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-depreciation",
+              "type": "definition",
+              "title": "Depreciation and cost recovery",
+              "summary": "A system for recovering the cost of eligible long-lived business property through deductions over time, subject to statutory acceleration and expensing rules.",
+              "details": "The reading contrasts nondepreciable land, whose cost is ordinarily recovered upon disposition, with a business tractor or manufacturing machine, which generally has depreciation/cost-recovery deductions. Allowed or allowable depreciation generally reduces adjusted basis; §§167–168 address major cost-recovery rules.",
+              "laymanExplanation": "A business machine lasts for years, so tax law often spreads its cost across multiple years instead of subtracting the entire purchase price immediately.",
+              "legalExplanation": "The reading contrasts nondepreciable land, whose cost is ordinarily recovered upon disposition, with a business tractor or manufacturing machine, which generally has depreciation/cost-recovery deductions. Allowed or allowable depreciation generally reduces adjusted basis; §§167–168 address major cost-recovery rules.",
+              "page": "21–22",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 21–22",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-pass-through",
+              "type": "definition",
+              "title": "Pass-through taxation",
+              "summary": "Business income and certain losses are generally reported by owners rather than taxed at the partnership or S-corporation entity level.",
+              "details": "Partnerships file information returns but generally pass income or loss through to partners for federal income-tax purposes. Eligible S corporations also pass items through under their own rules. Owner inclusion may occur even before cash is distributed.",
+              "laymanExplanation": "The business calculates its earnings, but the owners—not the business itself—typically report those earnings on their own taxes.",
+              "legalExplanation": "Partnerships file information returns but generally pass income or loss through to partners for federal income-tax purposes. Eligible S corporations also pass items through under their own rules. Owner inclusion may occur even before cash is distributed.",
+              "page": "22–23",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 22–23",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-double-tax",
+              "type": "definition",
+              "title": "Corporate double taxation",
+              "summary": "A C corporation generally pays income tax at the entity level, and shareholders may pay tax again when it distributes dividends.",
+              "details": "The reading describes C corporations as separate taxpayers, distinct from pass-through partnerships and S corporations. A corporation's retained income can raise share value but a shareholder generally does not realize gain from price appreciation until a disposition.",
+              "laymanExplanation": "A corporation may pay tax on its profit, then its owners may pay another tax when it sends them that profit as dividends.",
+              "legalExplanation": "The reading describes C corporations as separate taxpayers, distinct from pass-through partnerships and S corporations. A corporation's retained income can raise share value but a shareholder generally does not realize gain from price appreciation until a disposition.",
+              "page": "23",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 23",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-bracket-creep",
+              "type": "definition",
+              "title": "Bracket creep and inflation indexing",
+              "summary": "Without indexing, higher nominal wages can move someone into more heavily taxed brackets even if purchasing power does not rise.",
+              "details": "The book explains statutory adjustments to brackets and standard deductions for inflation, including the chained CPI approach. Do not confuse inflation-indexed rate brackets with inflation-indexed property basis; basis is generally not adjusted merely for inflation.",
+              "laymanExplanation": "Your paycheck could rise just because prices rose. Without updating brackets, you might pay a higher percentage even though you aren't actually better off.",
+              "legalExplanation": "The book explains statutory adjustments to brackets and standard deductions for inflation, including the chained CPI approach. Do not confuse inflation-indexed rate brackets with inflation-indexed property basis; basis is generally not adjusted merely for inflation.",
+              "page": "23–24",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 23–24",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             }
           ]
         },
@@ -1574,6 +1754,30 @@
               "source": "IRC §7201; Bankman et al. p. 30",
               "page": "30",
               "laymanExplanation": "Criminal tax evasion is more than getting a tax number wrong: it involves intentional conduct to evade tax under the governing criminal requirements."
+            },
+            {
+              "id": "class1-def-underpayment-deficiency",
+              "type": "definition",
+              "title": "Tax underpayment, deficiency, and assessment",
+              "summary": "An underpayment concerns unpaid tax; a deficiency is a statutorily defined additional liability asserted through deficiency procedures; assessment formally records the IRS's tax claim.",
+              "details": "For exam purposes identify the proposed deficiency, assessment, possible administrative review, interest and payment procedure. The Chapter 1 introductory discussion simplifies these distinctions; full statutory definitions and notice procedures appear elsewhere in the Code.",
+              "laymanExplanation": "A deficiency notice means the IRS believes you owe more than your return showed. Assessment is the government's formal recording of a tax amount for collection.",
+              "legalExplanation": "For exam purposes identify the proposed deficiency, assessment, possible administrative review, interest and payment procedure. The Chapter 1 introductory discussion simplifies these distinctions; full statutory definitions and notice procedures appear elsewhere in the Code.",
+              "page": "28–29",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 28–29",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-substantial-understatement",
+              "type": "definition",
+              "title": "Substantial understatement and penalty defenses",
+              "summary": "A substantial understatement may trigger §6662 accuracy-related penalties, but the Code recognizes specified substantial-authority, disclosure, and reasonable-cause rules.",
+              "details": "The textbook introduces a 20% accuracy-related penalty and identifies circumstances relevant to reducing the understatement or qualifying for reasonable-cause/good-faith protection. Tax year, taxpayer type, applicable authority, reasonable basis, and disclosure must be assessed before deciding penalty liability.",
+              "laymanExplanation": "Making a big tax mistake can carry an extra penalty. But the law may treat a reasonable, disclosed position differently from careless reporting.",
+              "legalExplanation": "The textbook introduces a 20% accuracy-related penalty and identifies circumstances relevant to reducing the understatement or qualifying for reasonable-cause/good-faith protection. Tax year, taxpayer type, applicable authority, reasonable basis, and disclosure must be assessed before deciding penalty liability.",
+              "page": "29–30",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 29–30",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             }
           ]
         },
@@ -1678,6 +1882,54 @@
                 "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
               },
               "sourceRole": "Case mentioned or discussed in the textbook; not assigned as a reproduced judicial opinion in the material supplied so far."
+            },
+            {
+              "id": "class1-def-substance-form",
+              "type": "definition",
+              "title": "Substance over form",
+              "summary": "A judicial interpretive principle that evaluates the real economic substance of a transaction rather than relying solely on its legal label or paperwork.",
+              "details": "The source emphasizes that courts can disregard arrangements whose form complies with literal words but whose substance conflicts with the operation of tax law. Do not treat it as permission to ignore clear statutory terms; identify the governing rule and why the underlying economic arrangement matters.",
+              "laymanExplanation": "Calling a payment a 'loan' or a 'gift' doesn't automatically make it one. Tax law can look at what actually happened.",
+              "legalExplanation": "The source emphasizes that courts can disregard arrangements whose form complies with literal words but whose substance conflicts with the operation of tax law. Do not treat it as permission to ignore clear statutory terms; identify the governing rule and why the underlying economic arrangement matters.",
+              "page": "30–31",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 30–31",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-jct",
+              "type": "definition",
+              "title": "Joint Committee on Taxation (JCT) and 'blue books'",
+              "summary": "Congressional tax-policy staff who assist with drafting, estimate revenue effects and summarize enacted tax legislation.",
+              "details": "The Joint Committee staff works with House Ways and Means and Senate Finance committees. Their official revenue estimates commonly address a 10-year horizon, and explanatory 'blue books' are informative but are not enacted tax law.",
+              "laymanExplanation": "JCT experts help Congress calculate how much a proposed tax change would raise or cost, and publish useful explanations afterward.",
+              "legalExplanation": "The Joint Committee staff works with House Ways and Means and Senate Finance committees. Their official revenue estimates commonly address a 10-year horizon, and explanatory 'blue books' are informative but are not enacted tax law.",
+              "page": "31",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 31",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-regulations-citation",
+              "type": "definition",
+              "title": "Reading Treasury regulation citations",
+              "summary": "Income-tax Treasury regulations typically use a section number beginning '1.' followed by the related Code section; other subject areas use different title prefixes.",
+              "details": "The source gives Reg. §1.170-1 (charitable contributions) and estate-tax Reg. §20.2041-1 as examples. It also discusses proposed regulations, Federal Register publication and comments under the Administrative Procedure Act.",
+              "laymanExplanation": "When you see Reg. §1.170-1, the number 170 tells you it relates to Code §170. The '1.' signals the income-tax regulation series.",
+              "legalExplanation": "The source gives Reg. §1.170-1 (charitable contributions) and estate-tax Reg. §20.2041-1 as examples. It also discusses proposed regulations, Federal Register publication and comments under the Administrative Procedure Act.",
+              "page": "31–32",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 31–32",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+            },
+            {
+              "id": "class1-def-golsen",
+              "type": "definition",
+              "title": "Golsen rule (Tax Court appellate precedent)",
+              "summary": "The Tax Court generally follows the controlling precedent of the court of appeals to which a particular case would be appealed.",
+              "details": "The casebook notes that when the Tax Court disagrees with an appellate circuit's rule, it generally still follows that circuit for a case appealable there. Golsen v. Commissioner is cited in a note, not reproduced as an assigned judicial opinion; no separate case brief is appropriate.",
+              "laymanExplanation": "Even if Tax Court judges would prefer a different interpretation, they generally follow the appeals court whose jurisdiction covers that taxpayer's case.",
+              "legalExplanation": "The casebook notes that when the Tax Court disagrees with an appellate circuit's rule, it generally still follows that circuit for a case appealable there. Golsen v. Commissioner is cited in a note, not reproduced as an assigned judicial opinion; no separate case brief is appropriate.",
+              "page": "33",
+              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 33",
+              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             }
           ]
         },
