@@ -4519,7 +4519,7 @@
             }
           ],
           "studyWeek": "Week 3",
-          "assignedPages": "119–134; Harris separate handout",
+          "assignedPages": "119–134",
           "assignmentSource": "Week 3 syllabus: Chapter 3 pp111–134 + assigned Harris handout"
         },
         {
@@ -4616,7 +4616,7 @@
           ],
           "title": "B. Assigned Harris Handout — Gifts & Criminal Tax Liability",
           "studyWeek": "Week 3",
-          "assignedPages": "Harris separate handout pp154–161",
+          "assignedPages": "154–161 (handout)",
           "assignmentSource": "Separate Harris handout, explicitly assigned Week 3; not textbook pp111–134",
           "description": "Criminal tax liability, donor-intent evidence and the separately assigned Harris judicial opinion"
         },
@@ -5057,10 +5057,11 @@
             }
           ],
           "title": "C. Marriage & Divorce — Support, Alimony & Bad Debts",
-          "description": "Current alimony/child support and reproduced Diez-Arguelles decision; source ends after notes following printed p153.",
+          "description": "Alimony, child support, and Diez-Arguelles within the supplied pages; Week 4 continues beyond this source.",
           "studyWeek": "Week 4",
-          "assignedPages": "150–153 (possibly continuing on 154; not verifiable)",
-          "assignmentSource": "Syllabus Week 4 pages 134–165; only visible supplied excerpt through p153 processed."
+          "assignedPages": "150–153 (partial)",
+          "assignmentSource": "Syllabus Week 4 pages 134–165; only visible supplied excerpt through p153 processed.",
+          "coverageWarning": "Week 4 assigned pages 154–165 have not been verified in this upload, so they have not been extracted."
         }
       ],
       "lexContentStandard": {
