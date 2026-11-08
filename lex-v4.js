@@ -66,19 +66,32 @@ function isLearningConcept(e){return ['concept','framework'].includes(e.type)}
 function backgroundRows(entries,tid){if(!entries.length)return '';return '<details class="background-fold"><summary>📖 Background, context & historical development <span>'+entries.length+' notes</span></summary><div class="background-fold-body">'+entries.map(e=>lawRow(e,tid)).join('')+'</div></details>'}
 function sourceTag(e){return e.sourceRole?'<span class="source-role">'+escapeHTML(e.sourceRole)+'</span>':''}
 
+
+function explanationPair(e){
+ let html='';
+ if(e.laymanExplanation){
+  html+='<div class="layman-explanation"><strong>IN PLAIN ENGLISH</strong><p>'+escapeHTML(e.laymanExplanation)+'</p></div>';
+ }
+ const legal=e.legalExplanation||e.details;
+ if(legal){
+  html+='<details class="lawyer-explanation"><summary>Legal explanation <span>· precise doctrine and qualifications</span></summary><div class="lawyer-explanation-body"><p>'+escapeHTML(legal)+'</p></div></details>';
+ }
+ return html;
+}
 function outlineEntry(e){
  const assigned=e.type==='case'&&e.assignedOpinion;
  const type=assigned?'ASSIGNED CASE':kindLabel(e);
- let more='';
+ let more=explanationPair(e);
  if(assigned){
-   more+=detailPart('Rule / holding',e.rule||e.holding);
-   more+=detailPart('Facts',e.facts)+detailPart('Issue',e.issue)+detailPart('Holding',e.holding)+detailPart('Reasoning',e.reasoning)+detailPart('Exam significance',e.exam);
+  more+='<details class="lawyer-explanation case-full-brief"><summary>Full assigned case brief <span>· facts, issue, holding, reasoning</span></summary><div class="lawyer-explanation-body">';
+  more+=detailPart('Rule / holding',e.rule||e.holding);
+  more+=detailPart('Facts',e.facts)+detailPart('Issue',e.issue)+detailPart('Holding',e.holding)+detailPart('Reasoning',e.reasoning)+detailPart('Exam significance',e.exam);
+  more+='</div></details>';
  }else{
-   more+=detailPart('Elements / test',e.elements)+detailPart('Exceptions',e.exceptions);
+  more+=detailPart('Elements / test',e.elements)+detailPart('Exceptions',e.exceptions);
  }
  if(e.examApplication)more+='<div class="exam-application"><strong>HOW TO APPLY IT</strong><p>'+escapeHTML(e.examApplication)+'</p></div>';
  if(e.examTrap)more+='<div class="exam-trap"><strong>EXAM TRAP</strong><p>'+escapeHTML(e.examTrap)+'</p></div>';
- if(e.details)more+='<details class="study-explanation"><summary>More explanation</summary><div class="study-explanation-body">'+detailPart('Textbook explanation',e.details)+'</div></details>';
  more+=warningDetail(e);
  if(e.alert)more+='<div class="notice">'+escapeHTML(e.alert)+'</div>';
  if(e.source)more+='<p class="entry-source">Source: '+escapeHTML(e.source)+'</p>';
@@ -146,6 +159,7 @@ function entryHtml(e){
  const extra=e.type==='rule'||e.type==='case'||e.type==='definition'||e.type==='formula';
  let body='<article class="entry exam-entry '+(isBackground(e)?'entry-background':'')+'" id="entry-'+escapeHTML(e.id)+'"><div class="entry-head"><div><span class="type-label label-'+kind(e)+'">'+(caseOpinion?'ASSIGNED CASE':kindLabel(e))+'</span><span class="entry-page">'+(e.page?'p. '+escapeHTML(e.page):'')+'</span><h3>'+escapeHTML(e.title)+' '+warningChip(e)+'</h3></div><button class="edit-btn" data-edit="'+escapeHTML(e.id)+'">Edit</button></div>';
  body+='<p class="exam-summary">'+escapeHTML(e.summary)+'</p>';
+ body+=explanationPair(e);
  if(caseOpinion&&e.rule)body+='<div class="exam-rule"><strong>RULE FROM THE CASE</strong><p>'+escapeHTML(e.rule)+'</p></div>';
  if(e.elements)body+=detailPart('Elements / test',e.elements);
  if(e.exceptions)body+=detailPart('Exceptions / qualifications',e.exceptions);
@@ -154,7 +168,7 @@ function entryHtml(e){
  if(e.examTrap)body+='<div class="exam-trap"><strong>WATCH OUT</strong><p>'+escapeHTML(e.examTrap)+'</p></div>';
  body+=warningDetail(e);
  if(e.alert)body+='<div class="notice">'+escapeHTML(e.alert)+'</div>';
- if(details)body+='<details class="study-explanation"><summary>Read '+(caseOpinion?'full case brief':'full explanation')+'</summary><div class="study-explanation-body">'+details+'</div></details>';
+ if(caseOpinion&&details)body+='<details class="lawyer-explanation case-full-brief"><summary>Full assigned case brief</summary><div class="lawyer-explanation-body">'+details+'</div></details>';
  if(e.source)body+='<div class="entry-source">Source: '+escapeHTML(e.source)+'</div>';
  if(e.sourceRole)body+=sourceTag(e);
  return body+'</article>';
@@ -208,7 +222,7 @@ function unique(){return 'lex-'+Date.now().toString(36)+'-'+Math.random().toStri
 function field(name,key,value,large=false){return '<label class="form-field">'+escapeHTML(name)+(large?'<textarea name="'+key+'">'+escapeHTML(value||'')+'</textarea>':'<input name="'+key+'" value="'+escapeHTML(value||'')+'">')+'</label>'}
 function editor(mode,id=null){
  editTarget={mode,id};const c=current(),t=topic();let obj=null,body='';
- if(mode==='entry'){obj=t?.entries.find(e=>e.id===id)||{};body='<label class="form-field">Type<select name="type">'+['rule','case','definition','concept','policy','context','framework','history','formula','example'].map(v=>'<option value="'+v+'" '+(obj.type===v?'selected':'')+'>'+v+'</option>').join('')+'</select></label>'+field('Title','title',obj.title)+field('Short summary / holding','summary',obj.summary,true)+field('Full explanation / background (optional)','details',obj.details,true)+field('Exam application','examApplication',obj.examApplication,true)+field('Exam trap / qualification','examTrap',obj.examTrap,true)+field('Elements or tests','elements',obj.elements,true)+field('Exceptions','exceptions',obj.exceptions,true)+field('Case rule (assigned opinions)','rule',obj.rule,true)+'<label class="form-field assigned-checkbox"><input type="checkbox" name="assignedOpinion" value="yes" '+(obj.assignedOpinion?'checked':'')+'> Reproduced judicial opinion in assigned readings</label>'+field('Facts (cases)','facts',obj.facts,true)+field('Issue','issue',obj.issue,true)+field('Holding','holding',obj.holding,true)+field('Reasoning','reasoning',obj.reasoning,true)+field('Exam significance','exam',obj.exam,true)+field('Source','source',obj.source)}
+ if(mode==='entry'){obj=t?.entries.find(e=>e.id===id)||{};body='<label class="form-field">Type<select name="type">'+['rule','case','definition','concept','policy','context','framework','history','formula','example'].map(v=>'<option value="'+v+'" '+(obj.type===v?'selected':'')+'>'+v+'</option>').join('')+'</select></label>'+field('Title','title',obj.title)+field('Short summary / holding','summary',obj.summary,true)+field('Plain-English explanation (simple, intuitive)','laymanExplanation',obj.laymanExplanation,true)+field('Lawyer explanation (precise legal doctrine)','legalExplanation',obj.legalExplanation,true)+field('Full explanation / background (optional)','details',obj.details,true)+field('Exam application','examApplication',obj.examApplication,true)+field('Exam trap / qualification','examTrap',obj.examTrap,true)+field('Elements or tests','elements',obj.elements,true)+field('Exceptions','exceptions',obj.exceptions,true)+field('Case rule (assigned opinions)','rule',obj.rule,true)+'<label class="form-field assigned-checkbox"><input type="checkbox" name="assignedOpinion" value="yes" '+(obj.assignedOpinion?'checked':'')+'> Reproduced judicial opinion in assigned readings</label>'+field('Facts (cases)','facts',obj.facts,true)+field('Issue','issue',obj.issue,true)+field('Holding','holding',obj.holding,true)+field('Reasoning','reasoning',obj.reasoning,true)+field('Exam significance','exam',obj.exam,true)+field('Source','source',obj.source)}
  else if(mode==='problem'){obj=c.problems?.find(p=>p.id===id)||{};body=field('Title','title',obj.title)+field('Problem text (unsolved)','prompt',obj.prompt,true)+field('Source','source',obj.source)+field('Your notes','notes',obj.notes,true)+'<label class="form-field">Section<select name="topicId">'+c.topics.map(t=>'<option value="'+escapeHTML(t.id)+'" '+(obj.topicId===t.id?'selected':'')+'>'+escapeHTML(t.title)+'</option>').join('')+'</select></label>'}
  else if(mode==='topic'){obj=t||{};body=field('Section title','title',obj.title)+field('Description','description',obj.description,true)}
  $('modalTitle').textContent=(id?'Edit ':'Add ')+(mode==='entry'?'rule / case':mode==='problem'?'problem':'section');
@@ -218,7 +232,7 @@ function editor(mode,id=null){
 function closeEditor(){$('modalOverlay').hidden=true;editTarget=null}
 function submitEdit(ev){ev.preventDefault();if(!editTarget)return;let form=new FormData($('editor')),v=n=>String(form.get(n)||'').trim();let {mode,id}=editTarget,c=current(),t=topic();
  if(!v('title'))return note('A title is required.');
- if(mode==='entry'){let e=t.entries.find(e=>e.id===id);const fields=['title','summary','details','facts','issue','holding','reasoning','exam','source','examApplication','examTrap','elements','exceptions','rule'];let change={id:e?.id||unique(),type:v('type'),assignedOpinion:v('type')==='case'&&v('assignedOpinion')==='yes'};for(const f of fields)change[f]=v(f);if(e)Object.assign(e,change);else t.entries.push(change);record({kind:'upsertEntry',cid:c.id,tid:t.id,entry:change});}
+ if(mode==='entry'){let e=t.entries.find(e=>e.id===id);const fields=['title','summary','laymanExplanation','legalExplanation','details','facts','issue','holding','reasoning','exam','source','examApplication','examTrap','elements','exceptions','rule'];let change={id:e?.id||unique(),type:v('type'),assignedOpinion:v('type')==='case'&&v('assignedOpinion')==='yes'};for(const f of fields)change[f]=v(f);if(e)Object.assign(e,change);else t.entries.push(change);record({kind:'upsertEntry',cid:c.id,tid:t.id,entry:change});}
  else if(mode==='problem'){c.problems??=[];let p=c.problems.find(p=>p.id===id);const change={id:p?.id||unique(),title:v('title'),prompt:v('prompt'),source:v('source'),notes:v('notes'),topicId:v('topicId'),status:p?.status||'Not attempted',kind:p?.kind||'User-added problem'};if(p)Object.assign(p,change);else c.problems.push(change);record({kind:'upsertProblem',cid:c.id,problem:change})}
  else if(mode==='topic'){t.title=v('title');t.description=v('description');record({kind:'upsertTopic',cid:c.id,topic:copy(t)})}
  closeEditor();render();note('Saved in this browser. Publish changes to sync to GitHub.')}
