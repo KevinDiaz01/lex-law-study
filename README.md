@@ -67,3 +67,18 @@ When updating **any** course, use this hierarchy:
 For the ongoing course priority, work on Federal Income Taxation first, then Administrative Law, then Bankruptcy & Creditors' Rights. Keep the rule/definition/exam structure consistent across each. Do not delete an existing definition to reduce visual density; collapse background instead.
 
 The website's canonical published content is `content/lex-data.json`; `lex-v4.js` and `lex-v4.css` render the experience. Always preserve existing data, local edit publishing, and unsolved problem status.
+
+## Syllabus-only extraction rule
+
+**Hard requirement:** The syllabus is the authoritative whitelist of permitted source pages. When the student uploads an entire book or a long scan, **NEVER** automatically make notes from all uploaded pages. Only create or update LEX notes, case briefs, definitions, formulas and practice prompts for page ranges, problems, statutes, and separately assigned handouts explicitly on the course syllabus (including professor updates to it).
+
+**Required workflow for each course and batch:**
+1. Find the course's actual syllabus/assignment list and identify its assigned *printed textbook page* ranges, not simply PDF viewer page indices. Preserve section-specific assigned questions and opinion handouts.
+2. Match the printed book page numbers against pages in the uploaded complete PDFs/scan; independently verify page numbering when covers/front matter cause an offset. A source file's inclusion does **not** authorize extraction beyond the syllabus.
+3. Process only the intersection between uploaded source pages and assigned syllabus pages. If the requested page or assigned supplement is missing/illegible, mark it missing; do not substitute nearby unassigned chapters or invent its contents.
+4. Assigned case briefs require the *opinion itself* reproduced in an assigned selection or separately supplied opinion handout. A passing citation does not qualify. Distinguish litigant briefs/arguments from judicial holdings.
+5. Extract all relevant definitions, governing rules, statutory elements and exceptions, professor-assigned calculations and practice problems from the assigned pages; do not filter out important definitions merely to keep the outline short. Keep problems unsolved and background collapsed.
+6. Record precise source page ranges and which syllabus assignment each new note belongs to, and deduplicate overlapping page ranges. Clearly distinguish law updates sourced independently from notes extracted from the syllabus's assigned pages; current-law status updates can be attached as narrowly scoped warning annotations, not notes covering unassigned textbook material.
+7. Process class-by-class, preserve existing LEX content and the roadmap/expandable outlines. Before committing, verify every new entry's assigned source page belongs to the syllabus whitelist, and report any gaps.
+
+**Never infer that a full book upload expands the assigned reading.** Do not summarize or import unassigned book pages, including pages adjacent to assigned ranges. If page assignments are missing or not verifiable, stop extraction for that unverified segment rather than guessing.
