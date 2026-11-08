@@ -97,8 +97,10 @@ function outlineEntry(e){
  if(e.source)more+='<p class="entry-source">Source: '+escapeHTML(e.source)+'</p>';
  return '<details class="outline-entry" id="entry-'+escapeHTML(e.id)+'"><summary><span class="outline-entry-text"><span class="type-label label-'+kind(e)+'">'+type+'</span><strong>'+escapeHTML(e.title)+'</strong>'+warningChip(e)+'<small>'+escapeHTML(e.summary)+'</small></span><span class="outline-chevron">⌄</span></summary><div class="outline-entry-body"><button class="edit-btn outline-edit" data-edit="'+escapeHTML(e.id)+'">✎ Edit entry</button>'+more+'</div></details>';
 }
+function formulaSteps(f){return escapeHTML(String(f.worked||'').replace(/\s*(Step\s+\d+:)/g,'\n$1').trim())}
 function outlineFormula(f){
- return '<details class="outline-entry formula-outline"><summary><span class="outline-entry-text"><span class="type-label label-formula">FORMULA</span><strong>'+escapeHTML(f.title)+'</strong><small>'+escapeHTML(f.formula)+'</small></span><span class="outline-chevron">⌄</span></summary><div class="outline-entry-body"><div class="formula-code">'+escapeHTML(f.formula)+'</div><p>'+escapeHTML(f.meaning)+'</p><details class="study-explanation"><summary>Worked illustration</summary><p>'+escapeHTML(f.worked)+'</p></details><p class="entry-source">'+escapeHTML(f.source)+'</p></div></details>';
+ const layman=f.laymanExplanation||f.meaning||'';
+ return '<details class="outline-entry formula-outline"><summary><span class="outline-entry-text"><span class="type-label label-formula">FORMULA</span><strong>'+escapeHTML(f.title)+'</strong><small>'+escapeHTML(f.formula)+'</small></span><span class="outline-chevron">⌄</span></summary><div class="outline-entry-body"><div class="layman-explanation"><strong>IN PLAIN ENGLISH</strong><p>'+escapeHTML(layman)+'</p></div><div class="formula-code">'+escapeHTML(f.formula)+'</div><details class="lawyer-explanation"><summary>Step-by-step calculation <span>· textbook assumptions and math</span></summary><div class="lawyer-explanation-body"><p class="formula-worked-steps">'+formulaSteps(f)+'</p></div></details><p class="entry-source">Source: '+escapeHTML(f.source)+'</p></div></details>';
 }
 function outlineSection(t,c,isFoundation){
  const list=t.entries||[],required=list.filter(isExamEssential),concepts=list.filter(isLearningConcept),background=list.filter(isBackground),examples=list.filter(e=>e.type==='example');
@@ -173,7 +175,7 @@ function entryHtml(e){
  if(e.sourceRole)body+=sourceTag(e);
  return body+'</article>';
 }
-function formulaHtml(f){return '<article class="formula"><strong>'+escapeHTML(f.title)+'</strong><div class="formula-code">'+escapeHTML(f.formula)+'</div><p>'+escapeHTML(f.meaning)+'</p><details><summary>Worked example</summary><p>'+escapeHTML(f.worked)+'</p></details><div class="entry-source">'+escapeHTML(f.source)+'</div></article>'}
+function formulaHtml(f){return '<article class="formula"><strong>'+escapeHTML(f.title)+'</strong><div class="formula-code">'+escapeHTML(f.formula)+'</div><p>'+escapeHTML(f.laymanExplanation||f.meaning)+'</p><details class="lawyer-explanation"><summary>Step-by-step calculation</summary><div class="lawyer-explanation-body"><p class="formula-worked-steps">'+formulaSteps(f)+'</p></div></details><div class="entry-source">'+escapeHTML(f.source)+'</div></article>'}
 function renderSection(){
  const t=topic();if(!t)return;
  const formulas=(current().formulas||[]).filter(f=>f.topicId===t.id),problems=(current().problems||[]).filter(p=>p.topicId===t.id),updates=(current().updates||[]).filter(u=>u.topicId===t.id);
