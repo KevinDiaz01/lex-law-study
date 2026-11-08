@@ -193,3 +193,17 @@ details[open]>summary>.outline-chevron{transform:rotate(180deg)}
 .outline-update a{font-size:11px;color:#24649e}
 .outline-empty{font-size:12px;color:#8290a2;margin:11px}
 @media(max-width:740px){.outline-header{align-items:flex-start;flex-direction:column}.roadmap-stop{min-width:100%;max-width:none}.outline-chapter>summary{padding:14px 11px}.outline-chapter-body{padding:5px 9px}.outline-section-body{padding-left:7px}.outline-meta{font-size:10px}.outline-entry>summary{padding:12px 5px}}
+
+/* v4.10 — two reading depths, without another navigation page */
+.layman-explanation{background:#f5f8fc;border-left:3px solid #7ba1ce;border-radius:0 5px 5px 0;padding:11px 14px;margin:8px 0 14px;clear:both}
+.layman-explanation strong{display:block;color:#315e8e;font-size:10px;letter-spacing:.075em;font-weight:850}
+.layman-explanation p{margin:6px 0 0!important;font-size:13px;line-height:1.7;color:#283d54}
+.lawyer-explanation{margin:9px 0 16px;border:1px solid #dde5ee;border-radius:6px;background:#fff;clear:both}
+.lawyer-explanation>summary{padding:10px 13px;color:#385b7f;font-size:12px;font-weight:750;cursor:pointer;list-style-position:inside}
+.lawyer-explanation>summary:hover{background:#f8fafc}
+.lawyer-explanation>summary span{color:#8b98a8;font-size:11px;font-weight:400;margin-left:4px}
+.lawyer-explanation-body{padding:11px 14px 14px;border-top:1px solid #e7ecf2;color:#384c62}
+.lawyer-explanation-body>p{font-size:13px;line-height:1.73;white-space:pre-wrap;margin:0}
+.lawyer-explanation-body .exam-detail-part{margin:12px 0}
+.lawyer-explanation-body .exam-detail-part:first-child{margin-top:0}
+@media(max-width:740px){.layman-explanation{padding:10px 11px}.lawyer-explanation-body{padding:10px}}
