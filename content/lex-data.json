@@ -1090,7 +1090,9 @@
               "page": "3–5, 16–17",
               "laymanExplanation": "Progressive means higher earners pay a higher percentage on average. Proportional means everyone pays the same percentage. Regressive means lower earners pay a higher percentage of their income.",
               "legalExplanation": "A tax system is called progressive, proportional or regressive by examining average tax rates as income increases. Progressive means the tax/income ratio rises; proportional means the ratio is constant; regressive means the ratio falls. Larger total dollar payments by wealthy taxpayers alone do not prove that a tax is progressive. The reading uses historical CBO 2018 distributional data to contrast income, payroll and excise taxes.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Compare the average rate at low, middle and high income. Does the percentage of income paid rise, stay constant, or fall? Do not rely on dollar liability alone.",
+              "examTrap": "A taxpayer can pay more dollars at a lower average tax rate. Progressivity depends on percentages."
             },
             {
               "id": "tax-ch1-e006",
@@ -1232,7 +1234,8 @@
               "page": "10",
               "laymanExplanation": "The Sixteenth Amendment lets Congress impose federal income taxes without dividing the tax bill among states according to population.",
               "legalExplanation": "The Sixteenth Amendment provides Congress power to lay and collect taxes on income from whatever source derived without apportionment among states or regard to census enumeration. It does not independently specify every includible receipt or eliminate statutory exclusions, which must be analyzed under the Code.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examTrap": "The amendment removes the apportionment barrier for income taxes; it does not tell you all items are included in taxable income."
             },
             {
               "id": "tax-ch1-e015",
@@ -1278,7 +1281,9 @@
               "page": "12–13",
               "laymanExplanation": "A shop might collect $100 selling something it bought for $70. The $100 is gross receipts; after subtracting the item's cost, its gross profit is $30.",
               "legalExplanation": "Gross receipts are the entire amount a business takes in from sales, while for inventory sales the merchandise cost is recovered in determining gross income. The textbook's two $20 hammers yield $40 gross receipts, but $24 cost of goods sold, leaving $16 gross profit/inventory gross income. Separate COGS from operating-expense deductions.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Calculate gross receipts and cost of goods sold separately. For two hammers at $20 sales price and $12 cost each, 2×$20=$40 receipts; 2×$12=$24 COGS; gross profit=$16.",
+              "examTrap": "Gross receipts and taxable income are not interchangeable; COGS differs from a personal below-the-line deduction."
             },
             {
               "id": "tax-ch1-e018",
@@ -1304,7 +1309,9 @@
               "page": "13–15",
               "laymanExplanation": "Taxable income is the amount left after the deductions the law allows. It's the number used to apply the income-tax rates.",
               "legalExplanation": "Under §63, taxable income for individuals generally begins with gross income less legally allowable deductions, commonly computed from AGI minus the appropriate standard or itemized deductions. Additional provisions, limitations and special rules affect the amount. The resulting taxable income is the base to which income-tax rate schedules are applied before credits.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Ask whether a payment is included in gross income, whether a deduction is above or below AGI, whether itemizing beats the standard deduction, and whether a credit is available.",
+              "examTrap": "Do not double-claim standard and itemized deductions. Use figures for the specified tax year, not 2022 amounts in an old example."
             },
             {
               "id": "tax-ch1-e020",
@@ -1326,8 +1333,8 @@
               "details": "Approximate value of a marginal deduction = amount × applicable marginal rate (only if fully usable and not crossing rate brackets or phased-out benefits). A nonrefundable credit helps only to extent of eligible tax liability; refundable credits can yield a payment.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 15–16",
               "page": "15–16",
-              "examApplication": "Compare a deduction and a credit separately. A deductible dollar generally reduces the amount taxed; an allowed credit reduces the computed tax.",
-              "examTrap": "Do not subtract a credit from taxable income or confuse an exclusion with a deduction.",
+              "examApplication": "When given a $1,000 deduction at 30%, approximate the tax benefit as $300; a fully usable $1,000 tax credit can reduce the bill by $1,000. Check deductibility, limitations and phaseouts.",
+              "examTrap": "A tax credit is not multiplied by the marginal tax rate the way a deduction typically is.",
               "laymanExplanation": "A deduction reduces how much income gets taxed. A credit reduces the tax bill itself. A $1,000 credit usually saves more than a $1,000 deduction.",
               "legalExplanation": "A deduction subtracts an allowed amount from the tax base, so its incremental tax saving ordinarily depends on the relevant marginal tax rate. A credit reduces computed tax directly, dollar for dollar as permitted. A $100 deduction at a 37% marginal rate may save $37, while a fully usable $100 credit reduces tax by $100. The source distinguishes refundable and nonrefundable credits.",
               "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
@@ -1353,7 +1360,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 16–17",
               "page": "16–17",
               "examApplication": "Apply each marginal rate only to the taxable income falling inside its bracket.",
-              "examTrap": "Moving into a higher marginal bracket does not cause all previously taxed income to be retaxed at that higher rate.",
+              "examTrap": "Moving into a higher bracket does not retroactively subject all lower-bracket income to that higher rate.",
               "laymanExplanation": "Only the part of your income that falls inside a higher tax bracket gets that bracket's higher rate—not your entire income.",
               "legalExplanation": "Progressive rates are applied marginally: divide taxable income among brackets and multiply each layer by its own rate. In the book's artificial two-rate illustration, $50,010 of taxable income yields $50,000 × 20% + $10 × 40% = $10,004; $60,000 yields $14,000. Neither example is a federal rate schedule for 2026.",
               "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
@@ -1368,7 +1375,8 @@
               "page": "17–18",
               "laymanExplanation": "Your marginal rate tells you the rate on your next dollar of taxable income. Your average rate is your total tax divided by an appropriate income measure.",
               "legalExplanation": "The marginal rate is the rate affecting the taxpayer's next taxable dollar; the average rate is total tax divided by a stated measure of income. Using the casebook's hypothetical, tax is $14,000 on $60,000 taxable income under 20%/40% brackets: average rate 23.33%, marginal rate 40%. A deduction affecting only the top bracket generally saves its amount multiplied by the marginal rate.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Use the chapter's hypothetical: tax=$50,000×20%+$10,000×40%=$14,000; average=$14,000/$60,000=23.33%; marginal=40%."
             },
             {
               "id": "tax-ch1-e025",
@@ -1380,7 +1388,8 @@
               "page": "17–18",
               "laymanExplanation": "The statutory rate is the percentage stated in the tax brackets. The effective rate tries to show what tax actually costs after other rules such as credits and phaseouts.",
               "legalExplanation": "A statutory rate comes from the rate structure enacted in the Code. 'Effective' can refer to a broader measure of actual tax burden, including a denominator based on economic rather than taxable income, or an effective marginal burden including lost benefits during credit phaseouts. Always specify the denominator and which taxes/benefits are counted.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "If a credit is phased out by $0.20 per extra $1 of earnings, add the phaseout effect to the statutory incremental burden to find an effective marginal rate, where appropriate."
             },
             {
               "id": "tax-ch1-e026",
@@ -1392,7 +1401,9 @@
               "page": "19–20",
               "laymanExplanation": "Paychecks and many business earnings are ordinary income. Profits from selling certain investments may be capital gains, which can be taxed differently.",
               "legalExplanation": "Ordinary income includes gains or receipts not receiving special capital-gain treatment. Under §§1221–1222, a capital gain generally arises from sale or exchange of a capital asset, but preferential treatment depends on holding period and statutory net capital gain. Short-term gains generally enter ordinary rate computation; merely labeling gain 'capital' does not guarantee a reduced rate.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Classify the asset under §1221, compute realized gain, determine holding period, net capital gain/losses, then identify which portion gets special rates.",
+              "examTrap": "Capital gain is not always long-term, and not all capital gain qualifies for preferential rates."
             },
             {
               "id": "tax-ch1-e027",
@@ -1428,8 +1439,8 @@
               "details": "The book illustrates Year 1 services and Year 2 payment. Timing of inclusion and deduction can differ by accounting method and by special limitations. The capital-expenditure requirement applies even to cash-method taxpayers.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 20–21",
               "page": "20–21",
-              "examApplication": "For a timing problem, identify the accounting method and determine when the income or expense enters the tax calculation.",
-              "examTrap": "Do not automatically use payment date for accrual-method taxpayers or invoice date for cash-method taxpayers.",
+              "examApplication": "For services performed Year 1 but billed and paid Year 2, cash method generally uses Year 2; accrual method generally points to Year 1 if all applicable conditions are met.",
+              "examTrap": "The cash method does not let you deduct land or machinery immediately merely because you paid cash.",
               "laymanExplanation": "Under the cash method, payment timing generally matters. Under the accrual method, earning the income or incurring the expense generally matters—even when cash moves later.",
               "legalExplanation": "Under the cash method, an item generally enters income when actually or constructively received and a deduction generally follows payment, subject to restrictions. Under the accrual method, income is generally included when earned and liabilities may be deducted when the relevant all-events and economic-performance tests are met. The casebook's accountant performs $500 work in Year 1 but is paid Year 2: cash treatment generally points to Year 2; accrual to Year 1, if requirements are satisfied.",
               "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
@@ -1444,7 +1455,8 @@
               "page": "20–22",
               "laymanExplanation": "Buying office supplies and buying a building are treated differently. The building usually has to be capitalized, with its cost recovered over time or on sale rather than all at once.",
               "legalExplanation": "Capital expenditures acquire or improve assets whose costs generally are recovered through basis, depreciation or later disposition, rather than automatically as current §162 expenses. The source contrasts $400,000 of land (normally retained in basis) with $50,000 tractor and $100,000 machinery (potentially recoverable under depreciation rules). Special expensing provisions can modify timing.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Buying land for $400,000 or machinery for $100,000 is not automatically a current deductible expense. Determine capitalization, depreciation and any statutory expensing election."
             },
             {
               "id": "tax-ch1-e031",
@@ -1454,8 +1466,8 @@
               "details": "Improvements generally increase basis; depreciation generally reduces basis. Basis supports cost recovery and the measurement of gain or loss when property is disposed of.",
               "source": "IRC §§ 1012, 1016; Bankman et al. pp. 21–22",
               "page": "21–22",
-              "examApplication": "For a disposition problem, identify the taxpayer's starting basis and any relevant adjustments (for example, capital improvements or depreciation) before computing realized gain or loss. Under the general gain formula, amount realized minus adjusted basis gives realized gain or loss.",
-              "examTrap": "Do not confuse the property's current fair market value with its adjusted tax basis.",
+              "examApplication": "Purchase an asset for $100, improve it by $20, take $5 depreciation: adjusted basis=$100+$20−$5=$115 (assuming all adjustments apply). A $150 sale would yield $35 realized gain before special rules.",
+              "examTrap": "Depreciation can reduce adjusted basis even when the asset's market price has increased.",
               "laymanExplanation": "Basis is the tax system's record of what you invested in an asset. Buy something for $100 and improve it for $20: the adjusted basis may be $120, before other adjustments.",
               "legalExplanation": "Basis generally begins with acquisition cost under §1012; adjusted basis reflects applicable increases, such as qualifying capital improvements, and reductions, such as depreciation allowed or allowable, under §1016. Under §1001 the amount realized on a disposition is compared to adjusted basis to determine realized gain or loss. The source uses basis to prevent recovery of capital from being taxed as new income.",
               "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
@@ -1469,8 +1481,8 @@
               "source": "IRC §§ 1001, 1031; Bankman et al. p. 22",
               "page": "22",
               "alert": "Current-law qualification: §1031 is limited to qualifying real-property exchanges; the book’s land-for-apartment illustration requires statutory conditions.",
-              "examApplication": "Ask two questions separately: (1) Did a sale or exchange realize a gain or loss? (2) Does current tax law require recognition now, or allow nonrecognition/deferral?",
-              "examTrap": "A realized gain is not always currently recognized as taxable income.",
+              "examApplication": "Buy land for $1m, exchange it once worth $5m for like-kind rental property. First determine the $4m realized gain; only then consider §1031 nonrecognition and conditions.",
+              "examTrap": "Realized does not automatically equal recognized; §1031 requires qualifying real property held for business/investment.",
               "laymanExplanation": "Realization is when something happens, like a sale, that turns a paper gain into a tax event. Recognition asks whether the tax law actually makes you report that gain now.",
               "legalExplanation": "Realization refers to a taxable-event trigger such as disposition; mere market appreciation normally remains unrealized. Recognition determines whether realized gain or loss is currently taken into account after statutory nonrecognition rules. The book gives $1 million-basis land worth $5 million, later exchanged for a $5 million apartment building: $4 million realized gain, potentially deferred under §1031 if the exchange qualifies. Since 2018 §1031 applies to eligible real-property exchanges, subject to detailed conditions; not all swaps are tax-free.",
               "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
@@ -1684,7 +1696,9 @@
               "details": "The chapter’s start-up founder example shows value created largely by labor but potentially realized as capital gain on sale of ownership interest. Complex anti-conversion provisions may override simplistic characterizations.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 24–25",
               "page": "24–25",
-              "laymanExplanation": "Tax planning sometimes tries to change the legal category of income—for example, whether a gain is ordinary or capital—because different categories may have different rates."
+              "laymanExplanation": "Tax planning sometimes tries to change the legal category of income—for example, whether a gain is ordinary or capital—because different categories may have different rates.",
+              "legalExplanation": "Conversion refers to tax planning that transforms what would economically look like a return to labor or other ordinary-income activity into receipts treated as capital gain, potentially qualifying for different rates. The reading's founder who builds a company with personal labor and later sells shares illustrates the motivation. The proper classification depends on statutory character rules and transaction facts.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e039",
@@ -1694,7 +1708,9 @@
               "details": "Deferral may increase after-tax wealth when other variables are held constant and returns are positive. It is not automatically advantageous when future tax rates differ; compare investments and tax rates across both periods.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 25–26",
               "page": "25–26",
-              "laymanExplanation": "Paying tax later can be valuable because you get more time to use or invest the money before paying it."
+              "laymanExplanation": "Paying tax later can be valuable because you get more time to use or invest the money before paying it.",
+              "legalExplanation": "Tax deferral postpones current recognition or payment so funds remain available to earn returns. The source distinguishes deferral of an asset's appreciated gain until sale, and tax-favored retirement investment where contributions and earnings can accumulate before later taxation. A constant tax rate and positive return favor deferral in the simplified model, but changing rates or returns may change the comparison.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e040",
@@ -1703,7 +1719,9 @@
               "summary": "Appreciated investments may grow untaxed, borrowing can provide cash, and death may adjust basis.",
               "details": "The chapter ties nonrealization of appreciation, nontaxable loan proceeds, and §1014 basis step-up for many inherited assets into one strategy. This is a conceptual description subject to limits, exceptions, and future law changes.",
               "source": "IRC §1014; Bankman et al. p. 25",
-              "page": "25"
+              "page": "25",
+              "legalExplanation": "The 'buy, borrow, die' strategy links appreciation without sale (no ordinary realization), cash borrowing secured by appreciated assets (loan proceeds generally offset by genuine repayment obligation), and basis rules for qualifying inherited property under §1014. The reading describes a possible step-up in basis at death and the resulting effect on built-in gain. Special exceptions and alternative regimes may limit the outcome.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e041",
@@ -1713,7 +1731,9 @@
               "details": "For an initial $10,000 growing at 10% per year for ten years, book illustration ≈ $25,937 before tax. Distinguish untaxed growth inside a deferral arrangement from after-tax annual returns.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 26–27",
               "page": "26–27",
-              "laymanExplanation": "Future value estimates how much an investment grows when each period's earnings stay invested and earn more earnings."
+              "laymanExplanation": "Future value estimates how much an investment grows when each period's earnings stay invested and earn more earnings.",
+              "legalExplanation": "Compound growth uses FV = PV × (1 + r)^n for constant annual rate r and n years. The reading's retirement example: $10,000 × (1.10)^10 ≈ $25,937, before the 40% withdrawal tax under the simplified deferral assumptions. The formula assumes returns reinvested and constant periodic interest.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e042",
@@ -1723,7 +1743,9 @@
               "details": "At 10% for 10 years, the multiplier is ≈ 0.3855 (the table rounds to .386). The textbook’s Table 1-5 provides a range of rates and periods, but the formula permits direct calculation.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 26–27",
               "page": "26–27",
-              "laymanExplanation": "Present value asks how much money today is equivalent to a larger amount promised in the future."
+              "laymanExplanation": "Present value asks how much money today is equivalent to a larger amount promised in the future.",
+              "legalExplanation": "Discount future cash with PV = FV/(1+r)^n. Table 1-5 gives the present-value factor 0.386 for 10 years at 10%; a $10,000 future receipt therefore has a rounded present value of $3,860, versus the direct-calculation result of approximately $3,855.43. The book's factors are approximations and do not create a legal tax rule.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e043",
@@ -1733,7 +1755,11 @@
               "details": "The chapter compares an immediate 40% tax and annual taxation of 10% yields with delayed taxation. This is a simplified model that assumes a constant rate and full annual taxation of investment returns.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 26",
               "page": "26",
-              "laymanExplanation": "If taxes are collected from investment earnings every year, less money remains invested and compounding may be reduced."
+              "laymanExplanation": "If taxes are collected from investment earnings every year, less money remains invested and compounding may be reduced.",
+              "legalExplanation": "Under the textbook's simplified model with $10,000 gross funds, a 40% immediate tax leaves $6,000 to invest; 10% interest taxed annually at 40% leaves a 6% after-tax growth rate. Ten-year result = $6,000(1.06)^10 ≈ $10,745. By contrast, prefunded deferral permits $10,000(1.10)^10(0.60) ≈ $15,562 after the tax paid at withdrawal. Twenty-year results are approximately $19,243 without deferral and $40,365 with deferral. These are fixed-rate comparisons only.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Compute both after-tax terminal amounts at 10 and 20 years using the source's 10% return and 40% tax assumptions; compare, then discuss how a different future rate changes the result.",
+              "examTrap": "Deferred tax at a higher future marginal rate may negate the modeled advantage."
             }
           ]
         },
@@ -1752,7 +1778,9 @@
               "details": "The IRS administers returns, matching, audits, and collections. After computing tax and credits, compare tax owed against taxes already paid to determine remaining balance or refund.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 28",
               "page": "28",
-              "laymanExplanation": "You usually calculate and report your own tax on a return. Withholding and estimated tax payments reduce what remains to pay, or may create a refund."
+              "laymanExplanation": "You usually calculate and report your own tax on a return. Withholding and estimated tax payments reduce what remains to pay, or may create a refund.",
+              "legalExplanation": "The personal federal income tax primarily uses annual self-assessment: the taxpayer determines income and deductions, files the return, and compares computed liability with withholding and estimated tax installments already paid. Excess prepayments generally result in a refund; an underpayment results in tax due. Separate filing and information-reporting obligations support IRS enforcement.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e045",
@@ -1762,7 +1790,9 @@
               "details": "The general assessment period discussed by the textbook is three years, subject to major exceptions. Interest typically accrues on underpayments; penalties may also apply. The IRS often resolves disputes administratively.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 28–29",
               "page": "28–29",
-              "laymanExplanation": "An audit is an IRS check of your return. A deficiency is the additional tax the IRS says you owe."
+              "laymanExplanation": "An audit is an IRS check of your return. A deficiency is the additional tax the IRS says you owe.",
+              "legalExplanation": "An audit is a closer IRS examination of a return. The textbook introduces a general three-year period for the IRS to assert a deficiency, with statutory exceptions including certain omitted income and false or fraudulent returns. An underpayment may accrue statutory interest separately from civil penalties; the actual interest rate is set under Code provisions rather than remaining fixed at one percentage.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e046",
@@ -1772,7 +1802,11 @@
               "details": "Tax Court: no jury, specialist judges, appeal to regional circuit. Federal district court: refund litigation after payment, jury potentially available, regional circuit appeal. Court of Federal Claims: refund litigation after payment, Federal Circuit appeal. Procedural requirements and deadlines are important and not fully covered in the introductory summary.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 29",
               "page": "29",
-              "laymanExplanation": "The court you use for a tax dispute matters. Some cases can be contested in Tax Court before paying the proposed deficiency; refund cases generally involve paying first."
+              "laymanExplanation": "The court you use for a tax dispute matters. Some cases can be contested in Tax Court before paying the proposed deficiency; refund cases generally involve paying first.",
+              "legalExplanation": "Tax Court offers a common prepayment deficiency forum for eligible taxpayers with a valid notice and timely petition; it conducts bench trials with specialized tax judges and appeals usually to the appropriate geographic circuit. In contrast, ordinary refund suits in district courts and the Court of Federal Claims generally require paying and satisfying refund-claim prerequisites. District court may have a jury; Court of Federal Claims appeals to the Federal Circuit. These are introductory comparisons and do not replace procedural statutes.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Choose Tax Court for an appropriate prepayment deficiency challenge, or a paid-refund forum after meeting jurisdictional and claim prerequisites. Explain court/jury/appeal differences.",
+              "examTrap": "A refund case and a deficiency petition have different payment, jurisdictional and timing requirements."
             },
             {
               "id": "tax-ch1-e047",
@@ -1782,7 +1816,10 @@
               "details": "The chapter notes substantial authority, adequate disclosure/reasonable basis, and reasonable-cause/good-faith rules that may limit penalties. Multiple overlapping 20% grounds generally do not simply stack. Check current §6662/§6664 and exact facts.",
               "source": "IRC §§ 6662, 6664; Bankman et al. pp. 29–30",
               "page": "29–30",
-              "laymanExplanation": "Tax mistakes can trigger civil penalties, not just extra tax. The applicable penalty and possible defenses depend on what went wrong."
+              "laymanExplanation": "Tax mistakes can trigger civil penalties, not just extra tax. The applicable penalty and possible defenses depend on what went wrong.",
+              "legalExplanation": "Under §6662, negligence and substantial-understatement grounds can produce a 20% accuracy-related penalty on the portion of underpayment attributable to the specified ground. The reading discusses reduction based on substantial authority or adequately disclosed positions with reasonable basis and potentially reasonable-cause/good-faith protection under §6664. The same portion of an underpayment does not automatically incur multiple 20% penalties for overlapping grounds.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Identify the statutory penalty ground and potentially qualifying substantial-authority, disclosure or reasonable-cause defense; do not merely multiply any error by 20%."
             },
             {
               "id": "tax-ch1-e048",
@@ -1792,7 +1829,9 @@
               "details": "As a basic introductory reference: failure to file is generally 5% per month up to 25%; failure to pay generally 0.5% per month up to 25%, with statutory interactions and exceptions. Civil fraud generally can produce a 75% penalty on the fraud portion. Actual computation depends on relevant rules and dates.",
               "source": "IRC §§ 6651, 6663; Bankman et al. p. 30",
               "page": "30",
-              "laymanExplanation": "Filing late, paying late, and deliberately committing fraud are different violations with different penalties."
+              "laymanExplanation": "Filing late, paying late, and deliberately committing fraud are different violations with different penalties.",
+              "legalExplanation": "The textbook introduces generally applicable late-filing penalties of 5% per month (up to 25%) and late-payment penalties of 0.5% per month (up to 25%), subject to statutory adjustment and interaction. Fraud-related civil penalties can reach 75% of the tax underpayment attributable to fraud. Identify the precise taxable event, deadline, return status and statutory exceptions before performing a penalty calculation.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e049",
@@ -1802,7 +1841,9 @@
               "details": "The casebook contrasts civil and criminal enforcement and describes a six-year limitations period for specified tax offenses. Criminal liability requires the relevant statutory elements and mental state.",
               "source": "IRC §7201; Bankman et al. p. 30",
               "page": "30",
-              "laymanExplanation": "Criminal tax evasion is more than getting a tax number wrong: it involves intentional conduct to evade tax under the governing criminal requirements."
+              "laymanExplanation": "Criminal tax evasion is more than getting a tax number wrong: it involves intentional conduct to evade tax under the governing criminal requirements.",
+              "legalExplanation": "Federal criminal tax evasion under §7201 requires willful attempted evasion or defeat of a tax imposed under the Code or its payment; the source describes criminal sanctions and a six-year criminal limitations period for specified offenses. Criminal tax liability has distinct intent and proof requirements beyond ordinary civil deficiency or negligence.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "class1-def-underpayment-deficiency",
@@ -1844,7 +1885,9 @@
               "summary": "Federal tax liability must rest on statutory authority; statutory text is the starting point.",
               "details": "Read the controlling provision, definitions, cross-references, and exceptions. Follow regulations, binding case law, and pertinent IRS guidance, while considering how judicial doctrines deal with substance over form.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 30–31",
-              "page": "30–31"
+              "page": "30–31",
+              "legalExplanation": "Federal income-tax liability begins with enacted Code provisions. Statutory definitions, cross-references and exclusions should be reviewed first; then applicable regulations, judicial decisions and published IRS guidance. The reading stresses that courts also use substance-over-form reasoning and law-like doctrines where statutory language is incomplete or susceptible to manipulation.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e051",
@@ -1853,7 +1896,9 @@
               "summary": "Committee reports and Joint Committee on Taxation materials help explain statutory purposes.",
               "details": "Tax-writing committees: House Ways and Means and Senate Finance. JCT staff work on legislative analysis and official revenue estimates; JCT 'blue books' summarize legislation after enactment. These are aids to interpretation, not substitutes for enacted law.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 31",
-              "page": "31"
+              "page": "31",
+              "legalExplanation": "Legislative history can help interpret uncertain provisions. House Ways and Means and Senate Finance committee reports may explain complex drafting compromises; Joint Committee on Taxation staff assists and prepares revenue estimates and 'blue books' summarizing enacted laws. These explanatory documents are not themselves statutes.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e052",
@@ -1864,7 +1909,11 @@
               "source": "IRC §7805; Mayo Foundation v. United States (2011); Loper Bright v. Raimondo (2024)",
               "page": "31–32",
               "alert": "OUTDATED IN CASEBOOK: Chevron deference was overruled in 2024.",
-              "laymanExplanation": "Treasury regulations are detailed rules issued by Treasury that help explain how the Internal Revenue Code operates."
+              "laymanExplanation": "Treasury regulations are detailed rules issued by Treasury that help explain how the Internal Revenue Code operates.",
+              "legalExplanation": "Section 7805 authorizes Treasury to issue regulations for Code enforcement, and particular provisions may specifically delegate regulatory tasks. Income-tax regulations generally use the '1.' number series and proposed regulations ordinarily undergo applicable notice-and-comment procedures. The casebook's description of Chevron deference after Mayo reflects the doctrine as it stood in 2011; the Supreme Court's Loper Bright decision (2024) overruled Chevron's mandatory ambiguity-based deference, while statutory delegations may still matter.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Start with a Code section, then the regulation, then relevant binding case law; if Chevron is invoked from the casebook, state that Loper Bright later changed judicial interpretive deference.",
+              "examTrap": "Do not write that a court must follow any reasonable Treasury interpretation simply because the statute is ambiguous; that is the overruled Chevron approach."
             },
             {
               "id": "tax-ch1-e053",
@@ -1874,7 +1923,10 @@
               "details": "Both are IRS guidance, generally less authoritative than duly issued Treasury regulations and judicial precedent. Their practical importance is substantial, but authority and reliance depend on the specific type and context.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 32",
               "page": "32",
-              "laymanExplanation": "Revenue rulings explain the IRS's position on how law applies to facts. Revenue procedures generally explain processes and administrative rules."
+              "laymanExplanation": "Revenue rulings explain the IRS's position on how law applies to facts. Revenue procedures generally explain processes and administrative rules.",
+              "legalExplanation": "Revenue Rulings express the IRS's published position on how a law applies to a given set of facts; Revenue Procedures describe IRS administrative practices and processes. They are important to practitioners but do not have the same status as Code text or properly promulgated Treasury regulations.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "examApplication": "Classify the source of guidance in a tax research question. Do not treat an unpublished PLR as general binding authority."
             },
             {
               "id": "tax-ch1-e054",
@@ -1884,7 +1936,9 @@
               "details": "PLRs can reveal the Service’s likely approach but do not create general binding law. Distinguished from published Revenue Rulings.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 32–33",
               "page": "32–33",
-              "laymanExplanation": "A private letter ruling is the IRS answering a particular taxpayer's question. Other taxpayers generally cannot treat that letter as binding precedent."
+              "laymanExplanation": "A private letter ruling is the IRS answering a particular taxpayer's question. Other taxpayers generally cannot treat that letter as binding precedent.",
+              "legalExplanation": "A PLR responds to a specific taxpayer's factual ruling request. Although letter rulings may illuminate IRS analysis, under §6110(k)(3) a written determination generally cannot be used or cited as precedent by other taxpayers. The reading differentiates PLRs from public Revenue Rulings stating an IRS position with broader applicability.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e055",
@@ -1894,7 +1948,9 @@
               "details": "Acquiescence signals internal acceptance of a ruling for similar cases; nonacquiescence signals continued disagreement and possible relitigation. Neither itself reverses binding judicial precedent.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 33",
               "page": "33",
-              "laymanExplanation": "Tax Court decisions interpret tax law. The IRS may say whether it accepts a particular decision's reasoning for similar cases."
+              "laymanExplanation": "Tax Court decisions interpret tax law. The IRS may say whether it accepts a particular decision's reasoning for similar cases.",
+              "legalExplanation": "The Tax Court publishes regular opinions and memorandum decisions, and the IRS sometimes announces whether it acquiesces or nonacquiesces in adverse opinions. Acquiescence indicates an administrative willingness to follow the decision in similar matters; nonacquiescence indicates disagreement and possible relitigation, subject to binding appellate rulings. The source's Golsen footnote explains the importance of the circuit of appeal.",
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e056",
@@ -1912,7 +1968,8 @@
                 "authority": "Loper Bright Enterprises v. Raimondo (2024)",
                 "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf"
               },
-              "sourceRole": "Case mentioned or discussed in the textbook; not assigned as a reproduced judicial opinion in the material supplied so far."
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "legalExplanation": "Mayo Foundation (2011) was cited by the casebook as applying Chevron-style agency deference to Treasury tax regulations. The subsequent Loper Bright Enterprises v. Raimondo (2024) decision overruled that mandatory deference framework. The case is mentioned here as an example, not reproduced as an assigned judicial opinion, so it belongs in supporting doctrine with an updated-law warning."
             },
             {
               "id": "tax-ch1-e057",
@@ -1930,7 +1987,8 @@
                 "authority": "Moore v. United States (2024)",
                 "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
               },
-              "sourceRole": "Case mentioned or discussed in the textbook; not assigned as a reproduced judicial opinion in the material supplied so far."
+              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "legalExplanation": "Eisner v. Macomber (1920) is referenced as a historical example concerning realization of gains and constitutional conceptions of income. Its narrow income-from-capital-or-labor phrase is not a complete current definition, as later discussed in Glenshaw Glass. Modern constitutional realization questions also require careful attention to holdings and unresolved issues; this is a supporting citation in Chapter 1, not a reproduced assigned opinion."
             },
             {
               "id": "class1-def-substance-form",
