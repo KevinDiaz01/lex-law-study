@@ -72,7 +72,7 @@ function explanationPair(e){
  if(e.laymanExplanation){
   html+='<div class="layman-explanation"><strong>IN PLAIN ENGLISH</strong><p>'+escapeHTML(e.laymanExplanation)+'</p></div>';
  }
- const legal=e.legalExplanation||e.details;
+ const legal=e.legalExplanation||(e.type==='case'&&e.assignedOpinion?'':e.details);
  if(legal){
   html+='<details class="lawyer-explanation"><summary>Legal explanation <span>· precise doctrine and qualifications</span></summary><div class="lawyer-explanation-body"><p>'+escapeHTML(legal)+'</p></div></details>';
  }
