@@ -518,6 +518,20 @@
           "current": "§1031 nonrecognition applies only to qualifying like-kind real property held for business/investment, subject to detailed statutory conditions.",
           "source": "https://www.irs.gov/publications/p544",
           "topicId": "tax-ch1-c"
+        },
+        {
+          "title": "2026 gambling-loss deduction under §165(d)",
+          "book": "Chapter 2 describes deducting wagering losses up to the amount of winnings.",
+          "current": "For tax years beginning after 2025, allowable wagering loss deduction is limited to 90% of wagering losses and cannot exceed wagering gains; apply year-specific individual rules.",
+          "source": "https://www.irs.gov/irb/2026-19_IRB",
+          "topicId": "tax-ch2-d"
+        },
+        {
+          "title": "2026 employer meals deduction versus employee exclusion",
+          "book": "Chapter 2 discusses employer cafeteria deductions historically, alongside §119 exclusions for employee gross income.",
+          "current": "Beginning with amounts paid or incurred after 2025, §274(o) generally disallows specified employer deductions for §119 meals, subject to exceptions. Do not confuse employer deduction with employee §119 exclusion.",
+          "source": "https://uscode.house.gov/us/usc/119-121/t26/s274/",
+          "topicId": "tax-ch2-c"
         }
       ],
       "topics": [
@@ -1559,15 +1573,12 @@
               "page": "64",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 64",
               "assignedOpinion": true,
-              "facts": "An employee received round-trip steamship tickets as a prize or employment-related benefit rather than cash. Evidence raised competing ticket prices and the recipient's circumstances.",
-              "issue": "How should the includible value of noncash travel benefits be determined when the taxpayer would not pay retail price?",
-              "holding": "The court used an amount lower than the stated retail ticket value, recognizing valuation difficulty for the particular benefit.",
-              "reasoning": "Economic value and fair market valuation of noncash compensation may require fact-sensitive estimation; the court considered the taxpayer's circumstances rather than mechanically adopting a retail sticker price.",
-              "rule": "For noncash benefits, identify an objectively supportable FMV while explaining valuation uncertainty and relevant restrictions.",
-              "exam": {
-                "source": "Turner v. Commissioner, 13 T.C.M. 462 (1954), reproduced in assigned Chapter 2 pp. 64–67",
-                "page": "64–67"
-              },
+              "facts": "Reginald Turner answered questions on a radio program and won two restricted, nontransferable first-class steamship tickets. Their retail price was $2,220. The couple reported $520. They exchanged the tickets plus $12.50 for four tourist-class tickets and took a family trip.",
+              "issue": "What amount of gross income must the winning couple include for restricted cruise tickets awarded as a prize?",
+              "holding": "The court valued the prize at $1,400, below the $2,220 retail price and above the $520 reported.",
+              "reasoning": "The first-class tickets were restricted, nontransferable and not ordinarily something the taxpayers would purchase. Their economic value was less than retail, though the taxpayers did obtain substantial vacation benefits.",
+              "rule": "Taxable noncash prizes are included at an appropriate value; restrictions and practical marketability can affect valuation.",
+              "exam": "Distinguish taxable receipt from proper valuation; describe the factual basis for adjusting retail FMV where prize transferability and actual use are constrained.",
               "examApplication": {
                 "source": "Turner v. Commissioner, 13 T.C.M. 462 (1954), reproduced in assigned Chapter 2 pp. 64–67",
                 "page": "64–67"
@@ -1581,6 +1592,478 @@
               "details": "Google employer meals, frequent flyer miles, business entertainment, and valuation debates are optional policy context.",
               "page": "54",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 54"
+            }
+          ]
+        },
+        {
+          "id": "tax-ch2-d",
+          "title": "D. Recovery of Capital",
+          "description": "Basis and capital-recovery doctrine, wagering losses and reimbursements.",
+          "chapterGroup": "tax-ch2",
+          "entries": [
+            {
+              "id": "tax2-d01",
+              "type": "rule",
+              "title": "Return of invested capital is not gross income",
+              "summary": "Amounts that merely return a taxpayer's capital (tax basis) are not income; gain generally arises only beyond the taxpayer's recoverable basis.",
+              "details": "Repayment of the same $500 loan principal, or sale of $500-basis stock for $500, produces no gain. Distinguish receipts representing earnings from recoveries of investment.",
+              "page": "68",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68",
+              "examTrap": "Gross proceeds are not automatically the same as taxable gain."
+            },
+            {
+              "id": "tax2-d02",
+              "type": "definition",
+              "title": "Basis",
+              "summary": "A taxpayer's unrecovered tax investment in an asset, ordinarily its cost, subject to statutory adjustments.",
+              "details": "Basis prevents taxing recovery of one's own investment as though it were income. Reference §§ 1011, 1012, 1016 as developed in the course.",
+              "page": "68",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68"
+            },
+            {
+              "id": "tax2-d03",
+              "type": "definition",
+              "title": "Amount realized",
+              "summary": "Consideration received on disposition of property, measured under the governing realization rules.",
+              "details": "In a simple cash sale, amount realized is sale proceeds; gain is amount realized minus adjusted basis, subject to transaction-specific rules.",
+              "page": "68",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68"
+            },
+            {
+              "id": "tax2-d04",
+              "type": "formula",
+              "title": "Realized gain or loss from disposition",
+              "summary": "Realized gain (loss) = amount realized − adjusted basis.",
+              "details": "Simple example: sell stock for $700 with allocated adjusted basis $400 → $300 realized gain. The character and recognition of the result require additional analysis.",
+              "page": "68",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68",
+              "examApplication": "Always identify adjusted basis before measuring gain, and separate gain amount from recognition and characterization."
+            },
+            {
+              "id": "tax2-d05",
+              "type": "rule",
+              "title": "Allocate basis when part of property is sold",
+              "summary": "When an asset or acquired block of property is partly disposed of, reasonably apportion cost basis among the interests disposed of.",
+              "details": "For 100 shares acquired for $1,000, 40 identical shares have $400 allocated basis. For nonuniform land, allocate by relative value rather than acreage alone where appropriate.",
+              "page": "69",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69"
+            },
+            {
+              "id": "tax2-d06",
+              "type": "definition",
+              "title": "Basis allocation",
+              "summary": "The assignment of a portion of total cost to property or rights separately sold or disposed of.",
+              "details": "The book contrasts homogeneous stock with wooded and tillable acreage. An impossible/impracticable allocation may warrant special treatment under Inaja.",
+              "page": "69",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69"
+            },
+            {
+              "id": "tax2-case-inaja",
+              "type": "case",
+              "title": "Inaja Land Co. v. Commissioner",
+              "summary": "The Tax Court treated the net $49,000 as a tax-free return of capital reducing the property's basis, because reliably allocating basis to the affected property rights was impracticable and the payment was below total basis.",
+              "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.",
+              "page": "69",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69",
+              "assignedOpinion": true,
+              "facts": "The taxpayer bought 1,236 acres and water rights for $61,000. The City of Los Angeles caused flooding and sediment damage, then paid $50,000 for easements and release of claims; legal costs were $1,000, producing a net $49,000 receipt.",
+              "issue": "Was the $49,000 payment taxable income or return of capital, and must basis be allocated to the easements?",
+              "holding": "The Tax Court treated the net $49,000 as a tax-free return of capital reducing the property's basis, because reliably allocating basis to the affected property rights was impracticable and the payment was below total basis.",
+              "reasoning": "The payment compensated for property rights and damage, not lost profits. Ordinarily a partial sale requires cost allocation, but a gain cannot be calculated on conjecture unsupported by ascertainable facts.",
+              "rule": "Identify the character of a settlement; if paid for property rights, attempt reasonable basis allocation. Only if allocation is truly impracticable analyze the Inaja exception and reduce remaining basis.",
+              "exam": {
+                "source": "Inaja Land Co. v. Commissioner, 9 T.C. 727 (1947), excerpt reproduced pp. 69–70",
+                "page": "69–70"
+              },
+              "examApplication": {
+                "source": "Inaja Land Co. v. Commissioner, 9 T.C. 727 (1947), excerpt reproduced pp. 69–70",
+                "page": "69–70"
+              }
+            },
+            {
+              "id": "tax2-d07",
+              "type": "rule",
+              "title": "IRC §165(d) — Wagering losses (2026)",
+              "summary": "For 2026 taxable years, wagering-loss deduction equals at most 90% of wagering losses, capped by wagering gains.",
+              "details": "The casebook describes an older loss-to-gains offset. Current §165(d), effective 2026, limits the deduction to the lesser of 90% of losses or gambling gains. The book's discussion of sessions and nonprofessional itemizing requires attention to applicable-year facts.",
+              "page": "72",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 72",
+              "elements": "Allowable wagering loss deduction = min(90% × total wagering losses, total wagering gains), subject to other applicable rules.",
+              "examTrap": "Do not use the textbook's pre-2026 full-loss offset for a 2026 tax-year problem without checking the test's assigned law.",
+              "legalWarning": {
+                "status": "superseded",
+                "label": "2026 STATUTE CHANGED",
+                "reason": "The book states gambling losses are deductible up to gambling winnings; for taxable years beginning after December 31, 2025, Pub. L. 119-21 changed §165(d) to a 90% allowable-loss formula capped by winnings.",
+                "authority": "IRC §165(d); IRS IRB 2026-19",
+                "url": "https://uscode.house.gov/us/usc/t26/s165/"
+              }
+            },
+            {
+              "id": "tax2-d08",
+              "type": "definition",
+              "title": "Basketing / scheduling rules",
+              "summary": "Rules that allow losses or deductions to offset only income in a specified category, rather than income generally.",
+              "details": "Chapter examples: wagering losses (§165(d)), capital losses (§1211), passive losses (§469), hobby-related limits (§183), investment interest (§163(d)).",
+              "page": "72",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 72"
+            },
+            {
+              "id": "tax2-d09",
+              "type": "definition",
+              "title": "Gambling session",
+              "summary": "A grouping concept used in determining amounts won and lost during a related gambling session.",
+              "details": "The text distinguishes in-session netting from separately incurred losses, particularly for nonprofessional taxpayers who itemize.",
+              "page": "72",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 72"
+            },
+            {
+              "id": "tax2-case-clark",
+              "type": "case",
+              "title": "Clark v. Commissioner",
+              "summary": "The Board ruled for the taxpayer: the $19,941.10 reimbursement compensated for a loss rather than yielding taxable income.",
+              "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.",
+              "page": "74–75",
+              "source": "Clark v. Commissioner, 40 B.T.A. 333 (1939), assigned excerpt pp. 74–75",
+              "assignedOpinion": true,
+              "facts": "Tax counsel negligently prepared the taxpayer's joint return. He paid more federal income tax than he would have owed using a properly advised separate-return election. Counsel reimbursed $19,941.10, representing that excess tax expense; the IRS asserted the reimbursement was gross income.",
+              "issue": "Is reimbursement of a non-deductible overpayment caused by counsel's negligence taxable income?",
+              "holding": "The Board ruled for the taxpayer: the $19,941.10 reimbursement compensated for a loss rather than yielding taxable income.",
+              "reasoning": "The taxpayer paid his own tax; counsel did not discharge an existing liability for him. The court treated reimbursement as restoration of a lost amount. Its reliance on the narrow old capital/labor definition is outdated, but the textbook says the limited holding survives.",
+              "rule": "A reimbursement restoring nondeducted, unnecessarily lost capital may be excluded under Clark's narrow facts; distinguish payments for loss of an expected tax saving or normal business-transacting costs.",
+              "exam": "Ask whether the payment merely replaces an excess amount actually paid because of negligent preparation, and whether any deduction previously created a tax benefit.",
+              "examApplication": "Ask whether the payment merely replaces an excess amount actually paid because of negligent preparation, and whether any deduction previously created a tax benefit.",
+              "legalWarning": {
+                "status": "historical-caution",
+                "label": "OLD REASONING NO LONGER LAW",
+                "reason": "The reading expressly states Clark's 'derived from capital or labor' rationale is no longer good law after Glenshaw Glass, though its narrow reimbursement holding remains.",
+                "authority": "Glenshaw Glass; textbook's Current Legal Status of Clark note"
+              }
+            },
+            {
+              "id": "tax2-d10",
+              "type": "definition",
+              "title": "Recovery of loss",
+              "summary": "Receipt that restores a prior economic loss rather than adding new net wealth, potentially raising tax-benefit and basis questions.",
+              "details": "The text compares Clark's tax overpayment to an asset having recoverable basis; treatment may depend on whether an earlier deduction was taken.",
+              "page": "75",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 75"
+            },
+            {
+              "id": "tax2-d11",
+              "type": "definition",
+              "title": "Tax benefit doctrine (preview)",
+              "summary": "A later recovery may be included in income to the extent an earlier deduction reduced tax.",
+              "details": "Introduced through the lost-pay-envelope hypothetical and addressed in more detail in a later chapter.",
+              "page": "77",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 77"
+            },
+            {
+              "id": "tax2-d12",
+              "type": "context",
+              "title": "Clark fairness paradox",
+              "summary": "One reimbursed overpayer is better off than an uncompensated overpayer, but merely equal to a taxpayer who never overpaid.",
+              "details": "The text uses this to illustrate how tax rules define the relevant transaction and may leave some economic inequities.",
+              "page": "76",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 76"
+            }
+          ]
+        },
+        {
+          "id": "tax-ch2-e",
+          "title": "E. Personal & Business Injury Recoveries",
+          "description": "Character of damages, §104(a)(2), deferred settlements and constitutional questions.",
+          "chapterGroup": "tax-ch2",
+          "entries": [
+            {
+              "id": "tax2-e01",
+              "type": "rule",
+              "title": "Business lost-profit damages are income",
+              "summary": "Amounts recovered to replace profits that would have been taxable are generally included in income.",
+              "details": "Settlement or insurance proceeds can be analyzed by what they replace; punitive damages also generally fall within §61.",
+              "page": "78",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78"
+            },
+            {
+              "id": "tax2-e02",
+              "type": "rule",
+              "title": "Damages for destroyed business property — basis recovery",
+              "summary": "Recovery for damaged or destroyed property generally produces gain to the extent proceeds exceed adjusted basis; §1033 may permit qualifying deferral.",
+              "details": "Example from reading: $700,000 recovery for a building with $600,000 basis results in $100,000 gain absent qualifying nonrecognition.",
+              "page": "78",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78"
+            },
+            {
+              "id": "tax2-e03",
+              "type": "rule",
+              "title": "IRC §1033 — Involuntary conversions",
+              "summary": "Qualifying proceeds from destroyed or condemned business/investment property may receive nonrecognition when reinvested in eligible replacement property under statutory conditions.",
+              "details": "The reading uses it for compensation for a destroyed building; examine detailed replacement requirements in statutory text.",
+              "page": "78",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78"
+            },
+            {
+              "id": "tax2-e04",
+              "type": "rule",
+              "title": "IRC §104(a)(2) — Physical injury or sickness damages",
+              "summary": "Qualifying damages (other than punitive damages) received on account of personal physical injuries or physical sickness are excluded from gross income.",
+              "details": "Applies to qualifying damages whether recovered by suit or agreement and in lump-sum or periodic form; the causal link to physical injury/sickness is critical.",
+              "page": "79",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79",
+              "examTrap": "Nonphysical injury, reputational harm, or ordinary emotional distress does not by itself satisfy §104(a)(2). Punitive damages remain taxable."
+            },
+            {
+              "id": "tax2-e05",
+              "type": "definition",
+              "title": "Compensatory versus punitive damages",
+              "summary": "Compensatory damages replace an identified loss; punitive damages are imposed as punishment or deterrence.",
+              "details": "For tax consequences examine the origin and purpose of payment, any statutory exclusion, and whether a return of capital is involved.",
+              "page": "79",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79"
+            },
+            {
+              "id": "tax2-e06",
+              "type": "definition",
+              "title": "Origin of the claim",
+              "summary": "The factual and legal nature of the underlying claim that gives rise to damages.",
+              "details": "Distinguish recoveries for lost profits, destroyed property, physical personal injury, and reputation/emotional harms.",
+              "page": "79",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79"
+            },
+            {
+              "id": "tax2-case-murphy",
+              "type": "case",
+              "title": "Murphy v. United States (Murphy II)",
+              "summary": "The D.C. Circuit held the award did not fall within §104(a)(2)'s physical-injury exclusion, was included in §61 gross income, and could constitutionally be taxed; the judgment was affirmed.",
+              "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.",
+              "page": "80",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 80",
+              "assignedOpinion": true,
+              "facts": "Murphy received damages for emotional distress and harm to reputation after whistleblower complaints. Her recovery was not attributable to personal physical injury.",
+              "issue": "Whether emotional-distress/reputational damages are excluded by §104(a)(2), included by §61, and constitutionally taxable.",
+              "holding": "The D.C. Circuit held the award did not fall within §104(a)(2)'s physical-injury exclusion, was included in §61 gross income, and could constitutionally be taxed; the judgment was affirmed.",
+              "reasoning": "The 1996 statutory revision restricted the exclusion to physical injuries or sickness. Congress could tax this recovery through its Article I power; the tax was characterized as an excise on a transaction rather than an unapportioned direct ownership tax.",
+              "rule": "Analyze the injury's actual physical nature, the §104 statutory text, and whether the receipt replaces taxable income or falls within a specific exclusion. Do not cite the superseded earlier Murphy I opinion as controlling.",
+              "exam": {
+                "source": "Murphy v. United States, 493 F.3d 170 (D.C. Cir. 2007) (Murphy II), excerpt reproduced pp. 80–88",
+                "page": "80–88",
+                "legalWarning": {
+                  "status": "historical-caution",
+                  "label": "DISTINGUISH MURPHY I",
+                  "reason": "The chapter discusses Murphy I, an earlier opinion withdrawn on rehearing. Murphy II is the operative appellate decision excerpted here.",
+                  "authority": "Murphy v. IRS, 493 F.3d 170 (D.C. Cir. 2007)"
+                }
+              },
+              "examApplication": {
+                "source": "Murphy v. United States, 493 F.3d 170 (D.C. Cir. 2007) (Murphy II), excerpt reproduced pp. 80–88",
+                "page": "80–88",
+                "legalWarning": {
+                  "status": "historical-caution",
+                  "label": "DISTINGUISH MURPHY I",
+                  "reason": "The chapter discusses Murphy I, an earlier opinion withdrawn on rehearing. Murphy II is the operative appellate decision excerpted here.",
+                  "authority": "Murphy v. IRS, 493 F.3d 170 (D.C. Cir. 2007)"
+                }
+              }
+            },
+            {
+              "id": "tax2-e07",
+              "type": "definition",
+              "title": "Direct tax and apportionment",
+              "summary": "The Constitution requires certain direct federal taxes to be apportioned by population among states, subject to the Sixteenth Amendment for income taxes.",
+              "details": "Murphy II discusses Article I and distinguishes taxes on property ownership from taxes on transactions or activities.",
+              "page": "85",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 85"
+            },
+            {
+              "id": "tax2-e08",
+              "type": "rule",
+              "title": "Article I taxing power and constitutional limits",
+              "summary": "Congress has broad Article I power to lay taxes; direct taxes require apportionment except to the extent the Sixteenth Amendment permits unapportioned income taxes.",
+              "details": "The reproduced Murphy II excerpt reasons that taxing its award can be an excise on a transaction, satisfying the constitutional framework.",
+              "page": "85",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 85"
+            },
+            {
+              "id": "tax2-case-perez",
+              "type": "case",
+              "title": "Perez v. Commissioner",
+              "summary": "No. The payments were taxable compensation, not excludable damages for personal physical injury.",
+              "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.",
+              "page": "90–94",
+              "source": "Perez v. Commissioner, 144 T.C. 51 (2015), reproduced pp. 90–94",
+              "assignedOpinion": true,
+              "facts": "Perez underwent painful injections and egg retrieval procedures under contracts that paid her $20,000 for compliance with the procedure. The contracts disclaimed payment for eggs and allocated medical risks to Perez.",
+              "issue": "Does contractual compensation for undergoing a voluntary painful medical procedure count as excludable damages on account of personal physical injuries under §104(a)(2)?",
+              "holding": "No. The payments were taxable compensation, not excludable damages for personal physical injury.",
+              "reasoning": "Perez voluntarily agreed to the procedures in exchange for compensation; the clinic did not pay damages for a wrong or compensable injury. The regulation's removal of the formal tort-rights requirement did not turn voluntary contractual services payments into damages.",
+              "rule": "§104(a)(2) requires qualifying damages on account of personal physical injury/sickness; compensation under a bargained-for voluntary services contract is not automatically damages.",
+              "exam": "Distinguish contract compensation for voluntarily undergone procedures from a recovery for a legally compensable physical injury.",
+              "examApplication": "Distinguish contract compensation for voluntarily undergone procedures from a recovery for a legally compensable physical injury."
+            },
+            {
+              "id": "tax2-e09",
+              "type": "definition",
+              "title": "Structured settlement",
+              "summary": "A legal settlement that pays qualified damages over time rather than as a single lump sum.",
+              "details": "The textbook explains that qualifying periodic payments for physical injuries may receive special tax treatment, creating a timing advantage.",
+              "page": "94",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 94"
+            },
+            {
+              "id": "tax2-e10",
+              "type": "rule",
+              "title": "Periodic payments for personal physical injury",
+              "summary": "Under §104(a)(2), qualifying physical-injury damages may be excludable whether paid in a lump sum or periodic payments.",
+              "details": "Structured settlements require careful analysis of entitlement and economic control; the reading highlights favorable treatment of certain deferred-payment components.",
+              "page": "94",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 94"
+            },
+            {
+              "id": "tax2-e11",
+              "type": "policy",
+              "title": "Policy rationale for physical injury exclusion",
+              "summary": "Compensation arguably restores lost physical well-being rather than creating a net economic gain.",
+              "details": "The text contrasts physical with emotional/reputational injuries and asks why nominally similar compensation can be taxed differently.",
+              "page": "79",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79"
+            }
+          ]
+        },
+        {
+          "id": "tax-ch2-f",
+          "title": "F. Illegal Income",
+          "description": "Taxability of unlawful gains, claims of right and restitution.",
+          "chapterGroup": "tax-ch2",
+          "entries": [
+            {
+              "id": "tax2-f01",
+              "type": "rule",
+              "title": "Illegal proceeds may be taxable gross income",
+              "summary": "Unlawful gains can constitute gross income under §61, even if the recipient may later be required to repay them.",
+              "details": "James v. United States is referenced for the general principle: receipt without consensual recognition of an obligation to repay and without restriction can be taxable.",
+              "page": "96",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 96",
+              "examTrap": "Illegal character of income does not remove it from §61."
+            },
+            {
+              "id": "tax2-f02",
+              "type": "definition",
+              "title": "Claim of right",
+              "summary": "A taxpayer's practical dominion over funds, without an acknowledged limitation or consensual obligation to repay, may support current inclusion.",
+              "details": "The source compares typical embezzlement proceeds against loans or prompt secured repayment arrangements.",
+              "page": "97",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97"
+            },
+            {
+              "id": "tax2-f03",
+              "type": "definition",
+              "title": "Obligation to repay",
+              "summary": "A recognized duty to return money, relevant to whether receipt is a taxable accession to wealth or nonincome borrowing.",
+              "details": "Do not mistake a purely subjective intention to repay for a legally and factually supported borrowing obligation.",
+              "page": "97",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97"
+            },
+            {
+              "id": "tax2-case-gilbert",
+              "type": "case",
+              "title": "Gilbert v. Commissioner",
+              "summary": "The Second Circuit reversed the Tax Court; under its unusual facts, the withdrawals were not income when acquired.",
+              "details": "The supplied text reproduces a judicial opinion, so this is a dedicated case brief.",
+              "page": "96",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 96",
+              "assignedOpinion": true,
+              "facts": "Gilbert, a corporation president and principal shareholder, withdrew nearly $1.96 million in company funds without advance authorization to meet stock-purchase margin calls. Shortly afterward, he gave demand promissory notes and secured them with assets exceeding the debt's value; the corporate board accepted the security but did not ratify his initial actions.",
+              "issue": "Were Gilbert's unauthorized withdrawals taxable embezzlement income when he intended and secured prompt repayment?",
+              "holding": "The Second Circuit reversed the Tax Court; under its unusual facts, the withdrawals were not income when acquired.",
+              "reasoning": "Unlike typical embezzlement, Gilbert recognized repayment obligations, reasonably expected to repay, believed the withdrawals would be approved, and promptly delivered adequate collateral. These facts distinguished James and Buff.",
+              "rule": "Carefully compare initial intent, recognized debt, prompt security, reasonable repayment ability, and corporation's response. Do not treat a general post hoc promise to repay as enough.",
+              "exam": {
+                "source": "Gilbert v. Commissioner, 552 F.2d 478 (2d Cir. 1977), reproduced pp. 96–98",
+                "page": "96–98"
+              },
+              "examApplication": {
+                "source": "Gilbert v. Commissioner, 552 F.2d 478 (2d Cir. 1977), reproduced pp. 96–98",
+                "page": "96–98"
+              }
+            },
+            {
+              "id": "tax2-f04",
+              "type": "context",
+              "title": "James v. United States (supporting citation)",
+              "summary": "The textbook cites James for the general taxability of embezzled funds.",
+              "details": "James is referenced within Gilbert; it is not a separately reproduced assigned opinion in the supplied pages.",
+              "page": "97",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97"
+            }
+          ]
+        },
+        {
+          "id": "tax-ch2-g",
+          "title": "G. Gain on Sale of a Home",
+          "description": "Section 121 home-sale gain exclusion and limitations.",
+          "chapterGroup": "tax-ch2",
+          "entries": [
+            {
+              "id": "tax2-g01",
+              "type": "rule",
+              "title": "IRC §121 — Principal residence exclusion",
+              "summary": "A qualifying taxpayer may exclude up to $250,000 of gain on sale of a principal residence, or generally $500,000 for qualifying joint filers.",
+              "details": "General rule: taxpayer owned and used the property as principal residence for at least two years during the five-year period ending at sale; subject to frequency, filing and other conditions.",
+              "page": "100",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 100",
+              "elements": "Ownership and principal residence use: generally 2 of the 5 years before sale. Standard cap: $250,000; qualifying MFJ cap: $500,000.",
+              "examTrap": "A vacation property does not qualify merely because it is owned for two years; the principal-residence use requirement matters."
+            },
+            {
+              "id": "tax2-g02",
+              "type": "rule",
+              "title": "IRC §121 — Joint-return conditions",
+              "summary": "A $500,000 exclusion for qualifying married joint filers generally requires meeting joint-return, use, ownership and other statutory requirements.",
+              "details": "The reading notes that both spouses must satisfy the use test, while the ownership condition can be satisfied under the statutory joint-filer rules.",
+              "page": "101",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 101"
+            },
+            {
+              "id": "tax2-g03",
+              "type": "rule",
+              "title": "IRC §121 — Once-every-two-years limit",
+              "summary": "A taxpayer generally cannot claim the full §121 exclusion if it was used on a different sale within the preceding two years.",
+              "details": "The reading discusses reduced exclusions when sales arise from qualifying changes in employment, health, or certain unforeseen circumstances.",
+              "page": "101",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 101"
+            },
+            {
+              "id": "tax2-g04",
+              "type": "definition",
+              "title": "Principal residence",
+              "summary": "The home that serves as the taxpayer's main residence for purposes of §121's use requirement.",
+              "details": "This characterization is factual and distinct from owning a secondary home or investment property.",
+              "page": "100",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 100"
+            },
+            {
+              "id": "tax2-g05",
+              "type": "formula",
+              "title": "Taxable gain after §121 exclusion",
+              "summary": "Taxable gain = max(0, realized home-sale gain − allowable §121 exclusion).",
+              "details": "Textbook example: single taxpayer's $100,000-basis residence sold for $400,000; realized gain $300,000, $250,000 excluded, $50,000 taxable (assuming full eligibility).",
+              "page": "101",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 101",
+              "examApplication": "Compute realized gain first, then determine §121 eligibility and exclusion limit."
+            },
+            {
+              "id": "tax2-g06",
+              "type": "history",
+              "title": "Pre-1997 home-sale gain rules",
+              "summary": "Former §1034 allowed rollover-style gain deferral on reinvestment in another home; prior §121 had a one-time older-taxpayer exclusion.",
+              "details": "These rules are repealed and appear in the reading only to explain the current §121 regime.",
+              "page": "102",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 102",
+              "legalWarning": {
+                "status": "superseded",
+                "label": "REPEALED PRE-1997 LAW",
+                "reason": "The old §1034 rollover provision and previous one-time home-sale exclusion were superseded by the 1997 enactment of current §121.",
+                "authority": "Taxpayer Relief Act of 1997; IRC §121"
+              }
             }
           ]
         }
