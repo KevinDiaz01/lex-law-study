@@ -884,6 +884,66 @@
           "source": "Assigned 'McKenny brief handout (1).pdf' (PDF pp. 2–5) and previously assigned Clark opinion; unsolved synthesis question.",
           "status": "Not attempted",
           "kind": "Syllabus handout comparison — unsolved"
+        },
+        {
+          "id": "tax3p-private-public",
+          "topicId": "tax-ch3-b-gifts",
+          "chapterGroup": "tax-ch3",
+          "title": "The private sphere and tax classification",
+          "prompt": "Explain why classifying intimate-relationship payments as gifts or taxable income creates administrability and privacy problems. Relate the concerns to the transferor-intent standard.",
+          "source": "Harris handout, Chapter 3 Gifts, printed p. 161; study question paraphrased, deliberately unsolved.",
+          "status": "Not attempted",
+          "kind": "Syllabus handout — unsolved"
+        },
+        {
+          "id": "tax3p-stakes",
+          "topicId": "tax-ch3-b-gifts",
+          "chapterGroup": "tax-ch3",
+          "title": "Whose tax changes if a transfer is a gift?",
+          "prompt": "Compare donee income-tax inclusion with possible donor gift-tax consequences when a transfer is classified as a gift rather than income.",
+          "source": "Harris handout, Chapter 3 Gifts, printed p. 161; study question paraphrased, deliberately unsolved.",
+          "status": "Not attempted",
+          "kind": "Syllabus handout — unsolved"
+        },
+        {
+          "id": "tax3p-criminal-civil",
+          "topicId": "tax-ch3-b-gifts",
+          "chapterGroup": "tax-ch3",
+          "title": "Could the result differ in a civil case?",
+          "prompt": "In Harris, the court dismissed criminal indictments. Could a similar payment still be taxable in a civil assessment? Identify the different proof and willfulness questions.",
+          "source": "Harris handout, Chapter 3 Gifts, printed p. 161; study question paraphrased, deliberately unsolved.",
+          "status": "Not attempted",
+          "kind": "Syllabus handout — unsolved"
+        },
+        {
+          "id": "tax3p-marriage",
+          "topicId": "tax-ch3-b-gifts",
+          "chapterGroup": "tax-ch3",
+          "title": "Would marriage change the tax analysis?",
+          "prompt": "Using the handout's question, consider how marriage between a donor and recipient could affect the tax classification of their transfers; identify relevant statutory issues without presuming the answer from Harris alone.",
+          "source": "Harris handout, Chapter 3 Gifts, printed p. 161; study question paraphrased, deliberately unsolved.",
+          "status": "Not attempted",
+          "kind": "Syllabus handout — unsolved"
+        },
+        {
+          "id": "tax3p-evidence",
+          "topicId": "tax-ch3-b-gifts",
+          "chapterGroup": "tax-ch3",
+          "title": "Conley and Harris: compare proof",
+          "prompt": "Why was Conley's conviction unsupported by evidence of donor intent, and why did the exclusion of Kritzik's letters matter to Harris's good-faith defense?",
+          "source": "Harris handout, Chapter 3 Gifts, printed p. -5; study question paraphrased, deliberately unsolved.",
+          "status": "Not attempted",
+          "kind": "Syllabus handout — unsolved"
+        },
+        {
+          "id": "tax3p-duberstein",
+          "topicId": "tax-ch3-b-gifts",
+          "chapterGroup": "tax-ch3",
+          "title": "Distinguish a gift from payment for services",
+          "prompt": "Compare a transfer motivated by affection with a transfer explicitly linked to services. Identify donor intent and discuss why a long-term relationship alone does not settle the tax classification.",
+          "source": "Harris handout, Chapter 3 Gifts, printed p. -5; study question paraphrased, deliberately unsolved.",
+          "status": "Not attempted",
+          "kind": "Syllabus handout — unsolved"
         }
       ],
       "updates": [
@@ -2560,6 +2620,129 @@
                 "reason": "The old §1034 rollover provision and previous one-time home-sale exclusion were superseded by the 1997 enactment of current §121.",
                 "authority": "Taxpayer Relief Act of 1997; IRC §121"
               }
+            }
+          ]
+        },
+        {
+          "id": "tax-ch3-b-gifts",
+          "chapterGroup": "tax-ch3",
+          "title": "B. Gifts — §102 and United States v. Harris",
+          "description": "Syllabus handout, Chapter 3, The Private Sphere and the Public Sphere, pp. 154–161. Only the supplied Gifts excerpt is incorporated; other Chapter 3 sections have not been provided.",
+          "entries": [
+            {
+              "id": "tax3-gift-rule",
+              "type": "rule",
+              "title": "IRC §102(a) — gifts excluded from recipient's gross income",
+              "summary": "The value of property acquired by gift is generally excluded from the recipient's gross income.",
+              "details": "The court explains that gross income under §61 does not include gifts under §102(a). But calling a transfer a 'gift' or having a personal relationship is not decisive. Analyze the donor's actual intent and whether the transfer instead compensates for services or another economic exchange.",
+              "page": "155–157",
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 155–157.",
+              "elements": "(1) Identify a transfer of property or money; (2) determine whether it was a genuine gift under the transferor-intent standard; (3) distinguish consideration, services, legal or moral obligation, or anticipated economic benefit. Civil tax consequences are separate from criminal willfulness.",
+              "examApplication": "In a fact pattern involving periodic transfers from a wealthy individual to a romantic partner, discuss what motivated the transfer and what the recipient understood; do not assume the payments are gifts or wages based on the relationship alone.",
+              "examTrap": "§102(a) addresses the recipient's income; potential donor-side gift-tax issues are separate. The Harris opinion did NOT definitively decide the civil tax treatment of every payment in such a relationship."
+            },
+            {
+              "id": "tax3-donor-intent",
+              "type": "definition",
+              "title": "Donor's intent / transferor's intent",
+              "summary": "In determining whether a transfer qualifies as a gift, the transferor's purpose is the critical consideration.",
+              "details": "Harris quotes and applies the framework from Commissioner v. Duberstein (1960): gifts may arise from detached and disinterested generosity or impulses such as affection; transfers driven by compensation for services, legal or moral duty, or anticipated business benefit may be income. Apply the facts, not a rigid categorical rule.",
+              "page": "155, 157, 159",
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 155, 157, 159.",
+              "examApplication": "Look to correspondence, conduct, returns, relationship circumstances, timing, and whether transfers were tied to particular services. A donor's gift-tax return is relevant but may not settle intent.",
+              "examTrap": "Duberstein is CITED within the reproduced Harris opinion; no separate Duberstein opinion was supplied in this handout, so it is supporting authority here—not a separate assigned case brief."
+            },
+            {
+              "id": "tax3-gift-v-pay",
+              "type": "definition",
+              "title": "Gift versus compensation for services",
+              "summary": "A gift reflects the transferor's donative motive; compensation is paid for services, duties, or anticipated economic return.",
+              "details": "Harris discusses financial and property transfers in a long-term romantic relationship and warns against treating all such payments as necessarily taxable compensation or necessarily gifts. Specific payments for specified services may be different from support and gifts motivated by affection.",
+              "page": "155–160",
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 155–160.",
+              "examApplication": "Suppose one payment is tied to a specific contractual service and another is an unrestricted present motivated by personal affection. Identify donor intent separately for each transfer.",
+              "examTrap": "Neither 'romantic relationship' nor 'regular payment' alone supplies a conclusive answer."
+            },
+            {
+              "id": "tax3-willfulness",
+              "type": "definition",
+              "title": "Criminal tax willfulness",
+              "summary": "A criminal tax conviction for willful nonpayment or nonfiling requires proof of a voluntary, intentional violation of a known legal duty.",
+              "details": "Harris involves §§7201 and 7203. In the criminal setting, the prosecution must prove the relevant criminal elements, including willfulness, beyond a reasonable doubt. A genuinely unsettled legal duty and a good-faith belief may defeat willfulness even if tax treatment could be contested in civil proceedings.",
+              "page": "154–160",
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154–160.",
+              "examApplication": "Distinguish whether money is income for civil tax purposes from whether the recipient knowingly violated a clear legal duty and could be criminally convicted.",
+              "examTrap": "Uncertainty sufficient to prevent criminal conviction does not automatically mean the disputed receipt is an excluded gift."
+            },
+            {
+              "id": "tax3-burden",
+              "type": "definition",
+              "title": "Criminal burden of proof versus civil tax determination",
+              "summary": "The government must establish the charged criminal tax offense beyond a reasonable doubt; civil taxability is a different question.",
+              "details": "In Harris, the court found the donor's purpose inadequately proved as to Conley and serious uncertainty about the tax classification as to Harris. The court stressed that the criminal law must provide fair warning before it may punish willful nonfiling or evasion.",
+              "page": "154–160",
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154–160.",
+              "examApplication": "When a question asks whether a tax charge can support criminal sanctions, discuss donor intent, taxpayer knowledge, and legal clarity separately from the likely civil treatment.",
+              "examTrap": "Do not transform a reversal for insufficient criminal proof into a positive civil tax holding."
+            },
+            {
+              "id": "tax3-section-2501",
+              "type": "definition",
+              "title": "Donor-side gift tax versus donee income tax",
+              "summary": "Federal gift tax generally concerns transfers by a donor; §102(a) addresses whether the recipient includes the gift as income.",
+              "details": "The opinion frames the transfers as potentially involving donor-side gift-tax consequences or donee-side income-tax obligations; the criminal cases concerned alleged income-tax violations by the two recipients. Amounts, exemptions, exclusions and liabilities require separate gift-tax statutory analysis.",
+              "page": "154–155",
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154–155.",
+              "examTrap": "The fact that an amount is outside the donee's gross income does not mean 'no tax issues exist'; it may implicate donor-side gift-tax rules."
+            },
+            {
+              "id": "tax3-letters",
+              "type": "concept",
+              "title": "Letters offered to show belief, not necessarily their truth",
+              "summary": "A communication can be relevant to the recipient's state of mind without being offered as proof that its factual claims are true.",
+              "details": "Kritzik wrote Harris affectionate letters and described gifts. The court held the letters were relevant to Harris's good-faith belief about his purpose and therefore should not have been excluded as hearsay solely because the letters might be false. This is a supporting evidentiary point in the Tax opinion, not the central gift definition.",
+              "page": "156–157",
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 156–157.",
+              "examApplication": "A taxpayer's beliefs and the words communicated to them can matter to criminal willfulness, even when the exact objective truth of the statements is disputed."
+            },
+            {
+              "id": "tax3-harris-opinion",
+              "type": "case",
+              "title": "United States v. Harris (7th Cir. 1991)",
+              "summary": "The Seventh Circuit reversed the convictions of Harris and Conley and ordered dismissal of their indictments; the government had not shown the criminal tax duty and willfulness needed for convictions.",
+              "details": "This is a reproduced judicial opinion in the assigned handout, not merely a citation. The handout also includes a separate concurrence by Judge Flaum expressing concern about an overly categorical approach to payments between romantic partners.",
+              "page": "154–161",
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reproduced opinion 'United States v. Harris,' 942 F.2d 1125, at printed pp. 154–160; Judge Flaum's concurrence and notes through p. 161.",
+              "assignedOpinion": true,
+              "citation": "942 F.2d 1125 (7th Cir. 1991)",
+              "facts": "David Kritzik, a wealthy widower, gave Leigh Ann Conley and Lynnette Harris (twin sisters) substantial amounts of money and property during personal relationships. The government alleged they should have reported the transfers as taxable income; both were convicted in separate criminal trials. Conley's prosecution relied on inferences about the donor's intent. Harris attempted to introduce Kritzik's letters describing affection and gifts, but the district court excluded them.",
+              "issue": "Could the government sustain criminal tax convictions treating these transfers as taxable income when it had not proved donor intent, when Harris's evidence of her good-faith belief was excluded, and when relevant gift-versus-income law did not clearly establish criminal liability?",
+              "holding": "No. Conley's conviction was reversed because the government had not sufficiently shown Kritzik's intent and her knowledge. Harris's conviction was reversed because relevant letters should have been admitted to show good-faith belief and because the unclear tax law did not give fair warning sufficient for a willful criminal violation. The court ordered dismissal of both indictments.",
+              "reasoning": "Applying Duberstein, the court identified the transferor's intent as central to the gift inquiry. Gift-tax returns did not establish the nature of all transfers to Conley. For Harris, affectionate letters could affect her belief even if not true, and their exclusion denied evidence central to willfulness. Prior civil Tax Court cases indicated noncriminal gift treatment in comparable personal relationships; the law was too unclear for criminal sanctions. The opinion did not establish a categorical civil tax exemption for transfers between lovers. Judge Flaum concurred in the judgment but criticized the majority's broad language and favored case-by-case donor-intent analysis.",
+              "rule": "The §102(a) gift inquiry focuses on the transferor's motive under Duberstein; ambiguous civil tax classifications and failures to prove knowledge of a known duty can defeat criminal willfulness. Harris does not conclusively exempt all personal-relationship transfers from civil income tax.",
+              "exam": "When facing gifts-versus-income questions, analyze donor motive and any quid pro quo. If the hypothetical asks for criminal liability, separately analyze proof of willfulness and clarity of the legal duty. Do not equate absence of criminal liability with a holding that the amount was necessarily a civil-tax gift.",
+              "examApplication": "A wealthy individual gives recurring money and jewelry to a longtime romantic partner. Assess affection, potential payment for services, donor statements and gift returns. Then, if the recipient failed to file a return, explain why the government must independently show a known tax duty and intentional violation.",
+              "examTrap": "The court vacated criminal convictions; it did not decide the broad civil question that all such transfers are gifts. Duberstein is a cited case, not a separately reproduced case opinion in this upload.",
+              "sourceRole": "Dedicated assigned-case brief based on the reproduced judicial opinion in the handout."
+            },
+            {
+              "id": "tax3-flaum",
+              "type": "context",
+              "title": "Judge Flaum's concurrence — avoid a categorical gift rule",
+              "summary": "Judge Flaum agreed criminal convictions should fall but objected to treating all long-term romantic transfers as categorically exempt.",
+              "details": "The concurrence stresses individualized donor intent under Duberstein and warns that some payments may be compensation for services even within a sustained personal relationship. He joined the judgment because the record was insufficient and the legal standards were uncertain.",
+              "page": "160–161",
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 160–161.",
+              "examTrap": "This is a concurrence, not a majority holding establishing a bright-line taxable or exempt category."
+            },
+            {
+              "id": "tax3-section-83",
+              "type": "context",
+              "title": "Section 83 mentioned in the prefatory Duberstein note",
+              "summary": "The handout's preceding note mentions §83 for property transferred in connection with services.",
+              "details": "The first handout page (printed p. 154) includes a question about whether §83 changes analysis of a business-motivated transfer. This is a prompt and supporting reference, not an assigned judicial opinion or a developed §83 treatment in the excerpt.",
+              "page": "154",
+              "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154."
             }
           ]
         }
