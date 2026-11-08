@@ -2188,8 +2188,47 @@
               "details": "The chapter asks whether taxes should also measure leisure, wage capacity, valuation, administrability, and fairness.",
               "page": "35",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 35"
+            },
+            {
+              "id": "tax2-new-marginal-utility",
+              "type": "definition",
+              "title": "Declining marginal utility of income",
+              "summary": "The welfare value of one additional dollar generally decreases as an individual's wealth rises.",
+              "laymanExplanation": "An extra $100 may matter a lot to someone struggling to pay rent, but much less to a billionaire.",
+              "legalExplanation": "The casebook offers declining marginal utility as a potential normative rationale for progressive rates. It is a policy/economic proposition rather than a statutory element or judicial test.",
+              "details": "The casebook offers declining marginal utility as a potential normative rationale for progressive rates. It is a policy/economic proposition rather than a statutory element or judicial test.",
+              "page": "36",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 36; Week 2 syllabus-assigned.",
+              "sourceRole": "Week 2 — assigned textbook Chapter 2"
+            },
+            {
+              "id": "tax2-new-economic-savings",
+              "type": "definition",
+              "title": "Saving and change in net worth",
+              "summary": "In the Haig–Simons model, saving reflects the period's change in net wealth, including assets minus liabilities.",
+              "laymanExplanation": "If you earn $10,000, spend $11,000, and borrow $1,000, you're not $11,000 richer—the new debt reduces your wealth.",
+              "legalExplanation": "Economic income is defined as consumption plus net change in wealth: Y = C + ΔW. The source illustrates wage income of $10,000, consumption of $9,000 and savings of $1,000; or consumption $11,000 and net worth change −$1,000. This broad economic concept differs from statutory tax inclusions.",
+              "details": "Economic income is defined as consumption plus net change in wealth: Y = C + ΔW. The source illustrates wage income of $10,000, consumption of $9,000 and savings of $1,000; or consumption $11,000 and net worth change −$1,000. This broad economic concept differs from statutory tax inclusions.",
+              "page": "37–38",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 37–38; Week 2 syllabus-assigned.",
+              "sourceRole": "Week 2 — assigned textbook Chapter 2"
+            },
+            {
+              "id": "tax2-new-cashflow-consumption",
+              "type": "definition",
+              "title": "Cash-flow consumption tax",
+              "summary": "A tax system that deducts savings and includes withdrawals from savings or borrowing used for current consumption.",
+              "laymanExplanation": "You could save your paycheck without paying consumption tax on the saved part, then face tax when you spend those resources later.",
+              "legalExplanation": "The reading attributes the cash-flow consumption-tax design to William Andrews's 1974 analysis. Its taxable consumption base is conceptually calculated from income less net saving, including relevant dissaving and borrowing to finance consumption; rates may still be progressive.",
+              "details": "The reading attributes the cash-flow consumption-tax design to William Andrews's 1974 analysis. Its taxable consumption base is conceptually calculated from income less net saving, including relevant dissaving and borrowing to finance consumption; rates may still be progressive.",
+              "page": "38",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 38; Week 2 syllabus-assigned.",
+              "sourceRole": "Week 2 — assigned textbook Chapter 2"
             }
-          ]
+          ],
+          "studyWeek": "Week 2",
+          "assignedPages": "35–38",
+          "assignmentSource": "Tax syllabus: Week 2, Chapter 2 pp. 35–68"
         },
         {
           "id": "tax-ch2-b",
@@ -2309,8 +2348,23 @@
               "source": "User-provided reproduced opinion, Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955), pp. 40–42. Case brief summarizes only the supplied excerpt.",
               "sourceRole": "Reproduced judicial opinion supplied by user — dedicated assigned case brief.",
               "laymanExplanation": "Two companies kept the punitive part of lawsuit recoveries off their tax returns. The Supreme Court said those payments still increased their wealth and were taxable."
+            },
+            {
+              "id": "tax2-new-barter",
+              "type": "definition",
+              "title": "Barter / in-kind payment",
+              "summary": "Compensation received as property or services instead of cash can still be included in gross income.",
+              "laymanExplanation": "If a lawyer writes a will in exchange for a carpenter fixing the lawyer's kitchen, being paid with labor instead of money doesn't automatically make either side tax-free.",
+              "legalExplanation": "Under §61(a) and Treas. Reg. §1.61-1(a), gross income may be realized in money, property or services. Reg. §1.61-2(d)(1) ordinarily values property received for services at FMV. The Atticus Finch produce example and home-repair barter illustrate the legal point.",
+              "details": "Under §61(a) and Treas. Reg. §1.61-1(a), gross income may be realized in money, property or services. Reg. §1.61-2(d)(1) ordinarily values property received for services at FMV. The Atticus Finch produce example and home-repair barter illustrate the legal point.",
+              "page": "39, 46–47",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 39, 46–47; Week 2 syllabus-assigned.",
+              "sourceRole": "Week 2 — assigned textbook Chapter 2"
             }
-          ]
+          ],
+          "studyWeek": "Week 2",
+          "assignedPages": "39–46",
+          "assignmentSource": "Tax syllabus: Week 2, Chapter 2 pp. 35–68"
         },
         {
           "id": "tax-ch2-c",
@@ -2592,8 +2646,62 @@
                 "url": "https://www.law.cornell.edu/supremecourt/text/21-418"
               },
               "laymanExplanation": "A group challenged a tax break for clergy housing. The appeals court said that the statutory exclusion was constitutional; later Supreme Court cases changed the test courts use for these church-and-state disputes."
+            },
+            {
+              "id": "tax2-new-132-line",
+              "type": "rule",
+              "title": "IRC §132 — line-of-business and discrimination limits",
+              "summary": "No-additional-cost services and qualified employee discounts have line-of-business and, for highly compensated employees, nondiscrimination requirements.",
+              "laymanExplanation": "A store's discount or airline's free standby seat may be tax-free under special conditions, but a big perk reserved only for top executives may fail the rules.",
+              "legalExplanation": "Review §132(b)–(c) and §132(j): no-additional-cost services generally relate to services sold to customers in the employer's line of business; qualified discounts are limited by statutory caps; special restrictions apply to highly compensated employees where benefits favor them. Analyze each classification separately.",
+              "details": "Review §132(b)–(c) and §132(j): no-additional-cost services generally relate to services sold to customers in the employer's line of business; qualified discounts are limited by statutory caps; special restrictions apply to highly compensated employees where benefits favor them. Analyze each classification separately.",
+              "page": "59–61",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 59–61; Week 2 syllabus-assigned.",
+              "sourceRole": "Week 2 — assigned textbook Chapter 2",
+              "examTrap": "Do not assume a discount from any unrelated line of business or offered only to officers always qualifies."
+            },
+            {
+              "id": "tax2-new-frequentflyer",
+              "type": "concept",
+              "title": "Frequent-flyer rewards on business travel — IRS nonassertion policy",
+              "summary": "Announcement 2002-18 states the IRS ordinarily will not assert underpayment solely because of personal use of frequent-flyer miles or similar in-kind promotional benefits attributable to business/official travel, with stated exceptions.",
+              "laymanExplanation": "If your employer pays for work trips and you later use the airline miles for a vacation, the IRS generally doesn't pursue tax on that personal use under its announced policy. Cash conversions and compensation are different.",
+              "legalExplanation": "The source discusses the administrative difficulty of valuing and tracking miles. IRS Announcement 2002-18 describes a nonassertion practice for promotional benefits from business travel. It does NOT cover benefits converted to cash, compensation delivered in miles, or tax-avoidance schemes; distinguish administrative enforcement policy from a blanket statutory exemption.",
+              "details": "The source discusses the administrative difficulty of valuing and tracking miles. IRS Announcement 2002-18 describes a nonassertion practice for promotional benefits from business travel. It does NOT cover benefits converted to cash, compensation delivered in miles, or tax-avoidance schemes; distinguish administrative enforcement policy from a blanket statutory exemption.",
+              "page": "62–64",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 62–64; Week 2 syllabus-assigned.",
+              "sourceRole": "Week 2 — assigned textbook Chapter 2",
+              "examTrap": "This is an announced IRS nonassertion policy, not a general §132 exclusion for all points or cash conversions."
+            },
+            {
+              "id": "tax2-new-haverly",
+              "type": "concept",
+              "title": "Unsolicited samples and Haverly — cited authority only",
+              "summary": "The textbook uses Haverly to illustrate inclusion when a recipient claims a charitable deduction for unsolicited materials previously treated as untaxed.",
+              "laymanExplanation": "A principal gets free sample textbooks; simply receiving them isn't treated the same as selling them. But donating them and claiming their value as a deduction can change the tax analysis.",
+              "legalExplanation": "The book describes administrative treatment of unsolicited publisher sample books and cites Haverly v. United States, 513 F.2d 224 (7th Cir. 1975), for inclusion when the recipient donates such books and claims a charitable deduction. Haverly is only discussed/cited, not reproduced as an assigned judicial opinion.",
+              "details": "The book describes administrative treatment of unsolicited publisher sample books and cites Haverly v. United States, 513 F.2d 224 (7th Cir. 1975), for inclusion when the recipient donates such books and claims a charitable deduction. Haverly is only discussed/cited, not reproduced as an assigned judicial opinion.",
+              "page": "64",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 64; Week 2 syllabus-assigned.",
+              "sourceRole": "Week 2 — assigned textbook Chapter 2",
+              "examTrap": "Do not create a dedicated Haverly case brief from this incidental citation."
+            },
+            {
+              "id": "tax2-new-nondiscrimination",
+              "type": "definition",
+              "title": "Nondiscrimination requirement for excluded fringes",
+              "summary": "Some fringe-benefit exclusions disallow favorable treatment for highly compensated employees if benefit eligibility or use unfairly favors that group.",
+              "laymanExplanation": "An employer can't necessarily make an executive-only discount tax-free just by calling it an employee perk.",
+              "legalExplanation": "For §132 no-additional-cost services and qualified employee discounts, assess statutory nondiscrimination restrictions and definitions; different categories of fringe benefits have different rules. The employer's uniform availability to employees is factually important for some benefits.",
+              "details": "For §132 no-additional-cost services and qualified employee discounts, assess statutory nondiscrimination restrictions and definitions; different categories of fringe benefits have different rules. The employer's uniform availability to employees is factually important for some benefits.",
+              "page": "60–61",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 60–61; Week 2 syllabus-assigned.",
+              "sourceRole": "Week 2 — assigned textbook Chapter 2"
             }
-          ]
+          ],
+          "studyWeek": "Week 2",
+          "assignedPages": "46–68",
+          "assignmentSource": "Tax syllabus: Week 2, Chapter 2 pp. 35–68"
         },
         {
           "id": "tax-ch2-d",
@@ -2823,8 +2931,35 @@
                 "authority": "McKenney v. United States, No. 18-10810 (11th Cir. Sept. 1, 2020)",
                 "url": "https://law.justia.com/cases/federal/appellate-courts/ca11/18-10810/18-10810-2020-09-01.html"
               }
+            },
+            {
+              "id": "tax2-new-capital-recovery",
+              "type": "definition",
+              "title": "Recovery of capital versus return on capital",
+              "summary": "Getting original investment back is generally not income; earnings or proceeds beyond recoverable basis may be income.",
+              "laymanExplanation": "Lending someone $500 and being repaid $500 isn't a $500 profit. Extra interest is a separate gain.",
+              "legalExplanation": "The general recovery-of-capital principle distinguishes return of one's tax investment from income earned on it. Under gain computations, amount realized is reduced by allocated/adjusted basis, with separate treatment for dividends, rents, interest and other returns.",
+              "details": "The general recovery-of-capital principle distinguishes return of one's tax investment from income earned on it. Under gain computations, amount realized is reduced by allocated/adjusted basis, with separate treatment for dividends, rents, interest and other returns.",
+              "page": "68–69",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 68–69; Week 3 syllabus-assigned.",
+              "sourceRole": "Week 3 — assigned textbook Chapter 2"
+            },
+            {
+              "id": "tax2-new-gambling-2022",
+              "type": "context",
+              "title": "Textbook's pre-2026 wagering-loss rule — historical",
+              "summary": "The casebook describes the prior §165(d) limit of wagering losses up to gambling winnings; the statutory limit for 2026 differs.",
+              "laymanExplanation": "The pages you sent discuss the old rule. Keep it to understand the assigned reading, but don't use it blindly for a 2026 taxable-year calculation.",
+              "legalExplanation": "The reading (pp. 71–73) discusses gambling sessions, itemized wagering-loss deduction and category-specific limitations under the then-prevailing §165(d). This is historical textbook analysis. Current-law notes separately explain the subsequent 2026 90% limitation. Do not silently rewrite the book's historical statement.",
+              "details": "The reading (pp. 71–73) discusses gambling sessions, itemized wagering-loss deduction and category-specific limitations under the then-prevailing §165(d). This is historical textbook analysis. Current-law notes separately explain the subsequent 2026 90% limitation. Do not silently rewrite the book's historical statement.",
+              "page": "71–73",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 71–73; Week 3 syllabus-assigned.",
+              "sourceRole": "Week 3 — assigned textbook Chapter 2"
             }
-          ]
+          ],
+          "studyWeek": "Week 3",
+          "assignedPages": "68–77",
+          "assignmentSource": "Tax syllabus: Week 3, Chapter 2 pp. 68–102"
         },
         {
           "id": "tax-ch2-e",
@@ -2995,8 +3130,48 @@
               "details": "The text contrasts physical with emotional/reputational injuries and asks why nominally similar compensation can be taxed differently.",
               "page": "79",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79"
+            },
+            {
+              "id": "tax2-new-personal-damages-rule",
+              "type": "rule",
+              "title": "IRC §104(a)(2) — distinguish physical and nonphysical injury awards",
+              "summary": "Qualifying physical-injury damages may be excluded; damages for purely nonphysical harm generally do not qualify under §104(a)(2).",
+              "laymanExplanation": "Money for a broken leg may qualify for a tax exclusion. Money for damage to your reputation usually doesn't qualify simply because it was emotionally painful.",
+              "legalExplanation": "The 1996 amendment limits §104(a)(2) to damages received on account of personal physical injuries or physical sickness (other than punitive damages). The award's purpose and causation matter. The reading's Murphy II and Perez opinions emphasize statutory text and the nature of the claim.",
+              "details": "The 1996 amendment limits §104(a)(2) to damages received on account of personal physical injuries or physical sickness (other than punitive damages). The award's purpose and causation matter. The reading's Murphy II and Perez opinions emphasize statutory text and the nature of the claim.",
+              "page": "78–94",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 78–94; Week 3 syllabus-assigned.",
+              "sourceRole": "Week 3 — assigned textbook Chapter 2",
+              "examTrap": "The word 'injury' by itself isn't enough; determine whether the source of the payment is a qualifying physical injury or sickness."
+            },
+            {
+              "id": "tax2-new-tortdamages",
+              "type": "definition",
+              "title": "Damages received on account of injury",
+              "summary": "For §104, whether damages were received 'on account of' a qualifying injury is a causal question, not merely a label on a settlement.",
+              "laymanExplanation": "Ask what the check is actually paying for. Is it compensation because the person was physically injured, or payment for something else?",
+              "legalExplanation": "The text analyzes compensation for lost business profits, harm to property, physical personal injury, emotional distress, reputational harm and voluntary contractual bodily services. Their tax treatments differ because the origin and reason for payment differ.",
+              "details": "The text analyzes compensation for lost business profits, harm to property, physical personal injury, emotional distress, reputational harm and voluntary contractual bodily services. Their tax treatments differ because the origin and reason for payment differ.",
+              "page": "79–94",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 79–94; Week 3 syllabus-assigned.",
+              "sourceRole": "Week 3 — assigned textbook Chapter 2"
+            },
+            {
+              "id": "tax2-new-structured",
+              "type": "definition",
+              "title": "Qualified structured settlement / periodic payments",
+              "summary": "A qualifying personal physical-injury settlement may pay amounts over time, with §104(a)(2) addressing qualifying periodic awards.",
+              "laymanExplanation": "Instead of one check today, an injured person might get monthly payments for years. The tax outcome depends on the nature of the damages and how the deal is structured.",
+              "legalExplanation": "The reading describes structured settlements as periodic damage payments with favorable treatment under §104(a)(2) for qualifying physical injury or sickness. Contractual control, the purchaser or assignee's role, and payment design can affect tax consequences. Distinguish this from taxable investment income earned after an unrestricted lump-sum payment.",
+              "details": "The reading describes structured settlements as periodic damage payments with favorable treatment under §104(a)(2) for qualifying physical injury or sickness. Contractual control, the purchaser or assignee's role, and payment design can affect tax consequences. Distinguish this from taxable investment income earned after an unrestricted lump-sum payment.",
+              "page": "94–95",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 94–95; Week 3 syllabus-assigned.",
+              "sourceRole": "Week 3 — assigned textbook Chapter 2"
             }
-          ]
+          ],
+          "studyWeek": "Week 3",
+          "assignedPages": "78–95",
+          "assignmentSource": "Tax syllabus: Week 3, Chapter 2 pp. 68–102"
         },
         {
           "id": "tax-ch2-f",
@@ -3067,8 +3242,23 @@
               "details": "James is referenced within Gilbert; it is not a separately reproduced assigned opinion in the supplied pages.",
               "page": "97",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97"
+            },
+            {
+              "id": "tax2-new-james-support",
+              "type": "context",
+              "title": "James and Wilcox — supporting historical authorities",
+              "summary": "The textbook explains that James v. United States overruled Wilcox's prior exclusion of embezzlement receipts; they are citations in the Gilbert notes, not reproduced opinions.",
+              "laymanExplanation": "Stolen money can count as taxable income. Older Supreme Court decisions disagreed, but the later rule generally includes embezzled proceeds.",
+              "legalExplanation": "The book notes that James v. United States, 366 U.S. 213 (1961), displaced Commissioner v. Wilcox, 327 U.S. 404 (1946), which had excluded embezzled money based on an obligation to restore it. Gilbert distinguishes certain secured withdrawals from typical embezzlement. No extra case briefs should be generated for James or Wilcox.",
+              "details": "The book notes that James v. United States, 366 U.S. 213 (1961), displaced Commissioner v. Wilcox, 327 U.S. 404 (1946), which had excluded embezzled money based on an obligation to restore it. Gilbert distinguishes certain secured withdrawals from typical embezzlement. No extra case briefs should be generated for James or Wilcox.",
+              "page": "98–100",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 98–100; Week 3 syllabus-assigned.",
+              "sourceRole": "Week 3 — assigned textbook Chapter 2"
             }
-          ]
+          ],
+          "studyWeek": "Week 3",
+          "assignedPages": "95–100",
+          "assignmentSource": "Tax syllabus: Week 3, Chapter 2 pp. 68–102"
         },
         {
           "id": "tax-ch2-g",
@@ -3143,8 +3333,36 @@
                 "reason": "The old §1034 rollover provision and previous one-time home-sale exclusion were superseded by the 1997 enactment of current §121.",
                 "authority": "Taxpayer Relief Act of 1997; IRC §121"
               }
+            },
+            {
+              "id": "tax2-new-121-reduced",
+              "type": "rule",
+              "title": "IRC §121(c) — reduced exclusion for qualifying early home sales",
+              "summary": "When a taxpayer fails the ordinary ownership/use or frequency rules, a reduced maximum exclusion may apply for qualifying employment, health or unforeseen-circumstance reasons.",
+              "laymanExplanation": "If you must move for a new job after living in your home only one year, you might still exclude part of the profit rather than losing the entire break.",
+              "legalExplanation": "The reading illustrates a single taxpayer transferred to a new office after one year who may qualify for a proportional $125,000 ceiling instead of the full $250,000. §121(c) requires identifying the qualifying reason and determining a statutory reduced amount; do not assume every early sale qualifies.",
+              "details": "The reading illustrates a single taxpayer transferred to a new office after one year who may qualify for a proportional $125,000 ceiling instead of the full $250,000. §121(c) requires identifying the qualifying reason and determining a statutory reduced amount; do not assume every early sale qualifies.",
+              "page": "101–102",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 101–102; Week 3 syllabus-assigned.",
+              "sourceRole": "Week 3 — assigned textbook Chapter 2",
+              "examApplication": "For eligible single filer using a main home one year, the book gives a $125,000 reduced cap (half of $250,000) for a qualifying job transfer, not a generally unrestricted exclusion."
+            },
+            {
+              "id": "tax2-new-121-survivor",
+              "type": "rule",
+              "title": "IRC §121(b)(4) — qualifying surviving spouse",
+              "summary": "A surviving spouse may qualify for the $500,000 home-sale gain limit for a sale within two years of the other spouse's death, if statutory requirements are met.",
+              "laymanExplanation": "If someone's spouse dies, they may still have a limited period to use the higher married-couple home-sale exclusion when selling the house.",
+              "legalExplanation": "The source notes §121(b)(4), which permits a qualifying surviving spouse to receive a $500,000 limit for a sale within two years after the spouse's death when requisite ownership/use and other conditions are met.",
+              "details": "The source notes §121(b)(4), which permits a qualifying surviving spouse to receive a $500,000 limit for a sale within two years after the spouse's death when requisite ownership/use and other conditions are met.",
+              "page": "101",
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 101; Week 3 syllabus-assigned.",
+              "sourceRole": "Week 3 — assigned textbook Chapter 2"
             }
-          ]
+          ],
+          "studyWeek": "Week 3",
+          "assignedPages": "100–102",
+          "assignmentSource": "Tax syllabus: Week 3, Chapter 2 pp. 68–102"
         },
         {
           "id": "tax-ch3-b-gifts",
@@ -3301,6 +3519,24 @@
           "source": "User-provided full Chapter 1 text, 2026-11-08, 19th ed.",
           "status": "extracted",
           "sourcePolicy": "Only assigned pp. 1–33; post-publication law updates explicitly separate.",
+          "updated": "2026-11-08"
+        },
+        {
+          "studyWeek": "Week 2",
+          "syllabusWeek": "Week 2 (Sept. 1 & 3)",
+          "assignedPrintedPages": "35–68",
+          "source": "Casebook pasted text: Chapter 2 (2026-11-08), printed pp.35–68",
+          "scope": "A–C; §132 Questions 1–8 pp.64–65; Turner pp.65–68; Gaylor separate syllabus handout",
+          "status": "extracted",
+          "updated": "2026-11-08"
+        },
+        {
+          "studyWeek": "Week 3",
+          "syllabusWeek": "Week 3 (Sept. 8 & 10)",
+          "assignedPrintedPages": "68–102",
+          "source": "Same casebook pasted text, printed pp.68–102",
+          "scope": "D–G incl. p77 lost pay envelope hypothetical; separately assigned McKenney/Harris handouts already indexed",
+          "status": "extracted",
           "updated": "2026-11-08"
         }
       ]
