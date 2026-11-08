@@ -1207,7 +1207,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 1–33",
               "page": "1–33",
               "legalExplanation": "Organize federal income-tax analysis in a sequence: (1) identify the taxpayer and receipts; (2) classify includible gross income and exclusions under §61 and related provisions; (3) calculate above-the-line adjustments under §62 and taxable income under §63; (4) determine character and timing; (5) apply progressive rate schedules and credits; and (6) reconcile payments and consider compliance requirements. This is a study map drawn from Chapter 1, not a single statutory test.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "On a tax exam, ask five big questions: what did the person get, who should pay tax on it, when does the tax event happen, what rate applies, and what adjustments or credits change the final bill?"
             },
             {
@@ -1220,7 +1220,7 @@
               "page": "11–15",
               "laymanExplanation": "The tax base is the amount the government uses to figure out your tax. Think of it as the number the tax rate is applied to.",
               "legalExplanation": "A tax base is the amount to which rates are applied. Under the personal federal income tax, taxable income is the relevant base, after inclusions, exclusions and legally allowable deductions have been determined. Do not confuse this tax base with gross receipts or economic income.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e003",
@@ -1231,10 +1231,13 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 11–16, 28",
               "page": "11–16, 28",
               "legalExplanation": "For an individual, start with gross income under §61 and exclusions, then subtract §62 above-the-line deductions to determine AGI. Under §63, subtract the applicable standard deduction or allowable itemized deductions and other applicable adjustments to arrive at taxable income. Apply rates and special computations, then credits, prepayments and withholding to find the final liability or refund. Each subtraction requires statutory eligibility.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "Think of a funnel. Start with money and benefits counted as income, subtract allowed deductions, apply tax rates, then subtract credits and amounts already paid."
             }
-          ]
+          ],
+          "studyWeek": "Week 1",
+          "assignedPages": "1–2",
+          "assignmentSource": "Tax syllabus: Week 1, Chapter 1 pp. 1–33"
         },
         {
           "id": "tax-ch1-a",
@@ -1252,7 +1255,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 1–2",
               "page": "1–2",
               "legalExplanation": "The casebook treats taxation as a way to share the costs of collective government activity. This is social and political background, not a rule authorizing a particular tax. Policy choices shape tax bases, rates, credits, and the distribution of burdens; statutory enactment is required to impose the actual income tax.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "Taxes pay for things society does together. The political disagreement is about how much each person should contribute."
             },
             {
@@ -1265,7 +1268,7 @@
               "page": "3–5, 16–17",
               "laymanExplanation": "Progressive means higher earners pay a higher percentage on average. Proportional means everyone pays the same percentage. Regressive means lower earners pay a higher percentage of their income.",
               "legalExplanation": "A tax system is called progressive, proportional or regressive by examining average tax rates as income increases. Progressive means the tax/income ratio rises; proportional means the ratio is constant; regressive means the ratio falls. Larger total dollar payments by wealthy taxpayers alone do not prove that a tax is progressive. The reading uses historical CBO 2018 distributional data to contrast income, payroll and excise taxes.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Compare the average rate at low, middle and high income. Does the percentage of income paid rise, stay constant, or fall? Do not rely on dollar liability alone.",
               "examTrap": "A taxpayer can pay more dollars at a lower average tax rate. Progressivity depends on percentages."
             },
@@ -1279,7 +1282,7 @@
               "page": "3–5, 15",
               "laymanExplanation": "Sometimes tax credits are worth more than the income tax you owe. If the credit is refundable, the government may pay you the difference.",
               "legalExplanation": "Refundable credits can exceed a taxpayer's income-tax liability and create a net government payment. The earned income tax credit is an example in the reading. Negative net income-tax liability differs from simply receiving back excess wages withheld from a positive tax bill. It does not necessarily mean negative tax liability across every federal tax category.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e007",
@@ -1290,7 +1293,7 @@
               "source": "Bankman et al., Tables 1-1 through 1-3 (historical data)",
               "page": "3–6",
               "legalExplanation": "Table 1-1 reports 2021 federal revenue: individual income taxes $2,044 billion (51%), corporate income taxes $372 billion (9%), payroll/social-insurance $1,314 billion (32%), excise $75 billion (2%), estate/gift $27 billion (1%), other $214 billion (5%), total $4,046 billion. Table 1-2 reports 2018 average individual-income-tax rates of −12.0%, −2.1%, 2.2%, 5.9% and 15.4% across ascending quintiles; overall federal average tax rates were 0.0%, 8.1%, 12.8%, 16.7% and 24.4%. Table 1-3 shows the top quintile's pretax-income share grew from 46.0% in 1980 to 55.2% in 2018. These figures illustrate historical distribution; they are not 2026 rates.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "The old tables show where federal tax money came from and how much different income groups paid. They're snapshots of past years, not tax rates to use on today's return."
             },
             {
@@ -1302,7 +1305,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 6–7",
               "page": "6–7",
               "legalExplanation": "An income effect arises because tax reduces disposable resources, potentially inducing someone to earn more to restore their spending power. A substitution effect arises because tax changes relative returns: taxable work may become less attractive relative to untaxed leisure or nonmarket activity. These forces can move labor supply in opposite directions; the casebook warns that theory alone does not determine the net result.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "A tax might make someone work more because they need to replace lost income, or work less because keeping free time now feels better than earning taxed wages. Both can happen."
             },
             {
@@ -1314,7 +1317,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 7–8",
               "page": "7–8",
               "legalExplanation": "Tax preferences can be understood as implicit subsidies because deductions, exclusions, and credits reduce the tax paid by favored activities. The source compares a $6 million direct subsidy with an equivalent tax reduction for a firm owing $10 million: both may leave a $4 million net payment, given the assumed facts. Distinguish this policy analogy from the legal calculation of a particular deduction.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "Instead of giving people a cash grant to encourage something, the government can lower their tax bill if they do it. That tax break changes incentives."
             },
             {
@@ -1326,7 +1329,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 8–9",
               "page": "8–9",
               "legalExplanation": "Formally facially neutral provisions can generate disparate benefits when income, homeownership or itemization patterns differ across groups. The reading distinguishes (1) differences produced through the distribution of income and wealth and (2) possible differential effects at similar income levels. Its demographic figures describe dated empirical observations and are not legal eligibility elements.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "A tax rule doesn't need to name a racial group to have different average effects across groups. Existing differences in income, housing and wealth can affect who benefits."
             },
             {
@@ -1338,7 +1341,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 6",
               "page": "6",
               "legalExplanation": "The reading emphasizes tax issue-spotting for attorneys across practice areas: property sales, leases and financing, divorce settlements, entity choice, compensation structures and damages settlements may trigger income-tax consequences. This is practical professional context, not a governing rule.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "Even when you're not a tax lawyer, your client's divorce, settlement, property sale, business formation or job contract might have tax consequences worth spotting."
             },
             {
@@ -1350,8 +1353,8 @@
               "laymanExplanation": "A quintile is just 20% of the people after you line them up by income. Comparing five groups helps show who carries more tax.",
               "legalExplanation": "The 2018 CBO table groups households by income fifths and compares tax burdens across tax types; it is historical empirical evidence, not a tax statute.",
               "page": "4–6",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 4–6",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 4–6",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-tax-expenditure",
@@ -1362,10 +1365,13 @@
               "laymanExplanation": "A tax break can work a lot like the government giving someone money. Instead of sending a check, it lets the person keep more of what they would otherwise owe.",
               "legalExplanation": "The reading compares a $6 million direct government grant with a $6 million reduction in a taxpayer's bill. Similar net economic benefits can look different politically and be administered differently.",
               "page": "7–8",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 7–8",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 7–8",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             }
-          ]
+          ],
+          "studyWeek": "Week 1",
+          "assignedPages": "1–9",
+          "assignmentSource": "Tax syllabus: Week 1, Chapter 1 pp. 1–33"
         },
         {
           "id": "tax-ch1-b",
@@ -1384,7 +1390,7 @@
               "page": "9–10",
               "laymanExplanation": "Tariffs are taxes on goods brought in from abroad. Excise taxes target particular goods or activities, such as fuel.",
               "legalExplanation": "Tariffs are taxes on cross-border trade in goods. Excise taxes generally fall on specified goods or activities. The federal government historically relied heavily on tariffs and excises before the permanent modern individual income tax.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e013",
@@ -1401,7 +1407,7 @@
                 "authority": "Sixteenth Amendment; Moore v. United States (2024)",
                 "url": "https://www.law.cornell.edu/supremecourt/text/22-800_2024-06-20"
               },
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "legalExplanation": "The Supreme Court treated the 1894 tax on rents, dividends and interest as violating direct-tax apportionment requirements and invalidated the law after finding the provisions inseverable. This is historical constitutional context. The Sixteenth Amendment subsequently permitted unapportioned federal income taxes, so Pollock's apportionment objection is not a current general bar to income taxation. This case is cited/discussed in text, not reproduced as an assigned judicial opinion.",
               "laymanExplanation": "The Supreme Court once blocked a federal income tax because of constitutional apportionment rules. The Sixteenth Amendment later removed that obstacle for taxes on income."
             },
@@ -1415,7 +1421,7 @@
               "page": "10",
               "laymanExplanation": "The Sixteenth Amendment lets Congress impose federal income taxes without dividing the tax bill among states according to population.",
               "legalExplanation": "The Sixteenth Amendment provides Congress power to lay and collect taxes on income from whatever source derived without apportionment among states or regard to census enumeration. It does not independently specify every includible receipt or eliminate statutory exclusions, which must be analyzed under the Code.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examTrap": "The amendment removes the apportionment barrier for income taxes; it does not tell you all items are included in taxable income."
             },
             {
@@ -1427,7 +1433,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 9–11",
               "page": "9–11",
               "legalExplanation": "The reading traces the Civil War tax, repeal and tariff reliance, the 1894 income tax and 1895 Pollock decision, the Sixteenth Amendment of 1913, high wartime rates, and the World War II expansion from a narrow 'class tax' to a broader 'mass tax.' These developments are useful background, not tax rates to use for today's calculations.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "legalWarning": {
                 "status": "superseded",
                 "label": "2026 PROJECTION OUTDATED",
@@ -1437,7 +1443,10 @@
               },
               "laymanExplanation": "At first, the federal income tax mostly targeted wealthy people. After World War II it covered a much broader part of the population."
             }
-          ]
+          ],
+          "studyWeek": "Week 1",
+          "assignedPages": "9–11",
+          "assignmentSource": "Tax syllabus: Week 1, Chapter 1 pp. 1–33"
         },
         {
           "id": "tax-ch1-c",
@@ -1458,7 +1467,7 @@
               "examTrap": "Do not assume that a receipt is exempt because it is unusual, punitive, or received outside employment; identify a legal basis for exclusion.",
               "laymanExplanation": "Start by assuming that money or other valuable things you receive may count as income. Then check whether a specific tax-law rule says otherwise.",
               "legalExplanation": "Section 61(a) broadly defines gross income as all income from whatever source derived and provides a nonexclusive list. Wages, interest, dividends and rents are examples. Other Code provisions govern special inclusions and exclusions, and neither economic intuition nor a descriptive label alone determines statutory taxability. Examine the specific facts and any applicable exclusion.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e017",
@@ -1470,7 +1479,7 @@
               "page": "12–13",
               "laymanExplanation": "A shop might collect $100 selling something it bought for $70. The $100 is gross receipts; after subtracting the item's cost, its gross profit is $30.",
               "legalExplanation": "Gross receipts are the entire amount a business takes in from sales, while for inventory sales the merchandise cost is recovered in determining gross income. The textbook's two $20 hammers yield $40 gross receipts, but $24 cost of goods sold, leaving $16 gross profit/inventory gross income. Separate COGS from operating-expense deductions.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Calculate gross receipts and cost of goods sold separately. For two hammers at $20 sales price and $12 cost each, 2×$20=$40 receipts; 2×$12=$24 COGS; gross profit=$16.",
               "examTrap": "Gross receipts and taxable income are not interchangeable; COGS differs from a personal below-the-line deduction."
             },
@@ -1486,7 +1495,7 @@
               "examTrap": "AGI and taxable income are not the same number.",
               "laymanExplanation": "AGI is an intermediate number on the way to taxable income: take gross income and subtract certain deductions that the law lets you take before the next stage.",
               "legalExplanation": "Adjusted gross income under §62 generally equals gross income less specified deductions that are allowed in arriving at AGI. The source calls AGI a 'way station'; it is used for subsequent tax calculations and limitations, not generally the final tax base. Only qualifying statutory items belong above the line.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e019",
@@ -1498,7 +1507,7 @@
               "page": "13–15",
               "laymanExplanation": "Taxable income is the amount left after the deductions the law allows. It's the number used to apply the income-tax rates.",
               "legalExplanation": "Under §63, taxable income for individuals generally begins with gross income less legally allowable deductions, commonly computed from AGI minus the appropriate standard or itemized deductions. Additional provisions, limitations and special rules affect the amount. The resulting taxable income is the base to which income-tax rate schedules are applied before credits.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Ask whether a payment is included in gross income, whether a deduction is above or below AGI, whether itemizing beats the standard deduction, and whether a credit is available.",
               "examTrap": "Do not double-claim standard and itemized deductions. Use figures for the specified tax year, not 2022 amounts in an old example."
             },
@@ -1512,7 +1521,7 @@
               "page": "13–14",
               "laymanExplanation": "Above-the-line deductions are taken before AGI is calculated. Below-the-line deductions generally come afterward, when going from AGI to taxable income.",
               "legalExplanation": "Above-the-line and below-the-line are practical shorthand for deductions taken respectively before and after calculation of AGI. They do not appear as controlling Code labels. Above-the-line deductions generally remain available regardless of itemizing; many below-the-line personal deductions depend on itemization and statutory thresholds.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e021",
@@ -1526,7 +1535,7 @@
               "examTrap": "A tax credit is not multiplied by the marginal tax rate the way a deduction typically is.",
               "laymanExplanation": "A deduction reduces how much income gets taxed. A credit reduces the tax bill itself. A $1,000 credit usually saves more than a $1,000 deduction.",
               "legalExplanation": "A deduction subtracts an allowed amount from the tax base, so its incremental tax saving ordinarily depends on the relevant marginal tax rate. A credit reduces computed tax directly, dollar for dollar as permitted. A $100 deduction at a 37% marginal rate may save $37, while a fully usable $100 credit reduces tax by $100. The source distinguishes refundable and nonrefundable credits.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e022",
@@ -1538,7 +1547,7 @@
               "page": "15–16",
               "laymanExplanation": "An exclusion keeps something out of income in the first place. A deduction subtracts an allowed amount later. 'Exemption' is a separate tax-law term whose meaning depends on the provision.",
               "legalExplanation": "An exclusion removes an item from gross income. A deduction subtracts an allowable expense or amount after inclusion. 'Exemption' can be used informally for tax-favored status, but may also denote a specific statutory mechanism. Assuming equal deductibility and no collateral effects, excluding $50 and deducting the same $50 after inclusion can produce the same liability; whether they do depends on applicable limits.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e023",
@@ -1552,7 +1561,7 @@
               "examTrap": "Moving into a higher bracket does not retroactively subject all lower-bracket income to that higher rate.",
               "laymanExplanation": "Only the part of your income that falls inside a higher tax bracket gets that bracket's higher rate—not your entire income.",
               "legalExplanation": "Progressive rates are applied marginally: divide taxable income among brackets and multiply each layer by its own rate. In the book's artificial two-rate illustration, $50,010 of taxable income yields $50,000 × 20% + $10 × 40% = $10,004; $60,000 yields $14,000. Neither example is a federal rate schedule for 2026.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e024",
@@ -1564,7 +1573,7 @@
               "page": "17–18",
               "laymanExplanation": "Your marginal rate tells you the rate on your next dollar of taxable income. Your average rate is your total tax divided by an appropriate income measure.",
               "legalExplanation": "The marginal rate is the rate affecting the taxpayer's next taxable dollar; the average rate is total tax divided by a stated measure of income. Using the casebook's hypothetical, tax is $14,000 on $60,000 taxable income under 20%/40% brackets: average rate 23.33%, marginal rate 40%. A deduction affecting only the top bracket generally saves its amount multiplied by the marginal rate.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Use the chapter's hypothetical: tax=$50,000×20%+$10,000×40%=$14,000; average=$14,000/$60,000=23.33%; marginal=40%."
             },
             {
@@ -1577,7 +1586,7 @@
               "page": "17–18",
               "laymanExplanation": "The statutory rate is the percentage stated in the tax brackets. The effective rate tries to show what tax actually costs after other rules such as credits and phaseouts.",
               "legalExplanation": "A statutory rate comes from the rate structure enacted in the Code. 'Effective' can refer to a broader measure of actual tax burden, including a denominator based on economic rather than taxable income, or an effective marginal burden including lost benefits during credit phaseouts. Always specify the denominator and which taxes/benefits are counted.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "If a credit is phased out by $0.20 per extra $1 of earnings, add the phaseout effect to the statutory incremental burden to find an effective marginal rate, where appropriate."
             },
             {
@@ -1590,7 +1599,7 @@
               "page": "19–20",
               "laymanExplanation": "Paychecks and many business earnings are ordinary income. Profits from selling certain investments may be capital gains, which can be taxed differently.",
               "legalExplanation": "Ordinary income includes gains or receipts not receiving special capital-gain treatment. Under §§1221–1222, a capital gain generally arises from sale or exchange of a capital asset, but preferential treatment depends on holding period and statutory net capital gain. Short-term gains generally enter ordinary rate computation; merely labeling gain 'capital' does not guarantee a reduced rate.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Classify the asset under §1221, compute realized gain, determine holding period, net capital gain/losses, then identify which portion gets special rates.",
               "examTrap": "Capital gain is not always long-term, and not all capital gain qualifies for preferential rates."
             },
@@ -1606,7 +1615,7 @@
               "examTrap": "Do not treat a capital loss as an unlimited offset against ordinary income.",
               "laymanExplanation": "Losing money on investments doesn't mean you can always subtract the entire loss from your salary. Tax law places limits on capital losses.",
               "legalExplanation": "Section 1211 generally limits capital loss use: individual net capital losses may offset capital gains, plus no more than $3,000 of other income in a year ($1,500 for married filing separately), with carryovers under related rules. Distinguish capital-loss netting from trade/business deductions under §162 and other loss deductions under §165.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e028",
@@ -1618,7 +1627,7 @@
               "page": "20",
               "laymanExplanation": "An expense is money spent to operate a business. A loss can arise when a property or transaction ends up worth less than its tax cost; different deduction rules apply.",
               "legalExplanation": "Section 162 permits deductions for ordinary and necessary business expenses, subject to limits. Section 165 addresses certain losses, including those from dispositions and other qualifying events. A periodic cost of operating a business and an economic loss on property may both reduce income but have distinct legal predicates and limitations.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e029",
@@ -1632,7 +1641,7 @@
               "examTrap": "The cash method does not let you deduct land or machinery immediately merely because you paid cash.",
               "laymanExplanation": "Under the cash method, payment timing generally matters. Under the accrual method, earning the income or incurring the expense generally matters—even when cash moves later.",
               "legalExplanation": "Under the cash method, an item generally enters income when actually or constructively received and a deduction generally follows payment, subject to restrictions. Under the accrual method, income is generally included when earned and liabilities may be deducted when the relevant all-events and economic-performance tests are met. The casebook's accountant performs $500 work in Year 1 but is paid Year 2: cash treatment generally points to Year 2; accrual to Year 1, if requirements are satisfied.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e030",
@@ -1644,7 +1653,7 @@
               "page": "20–22",
               "laymanExplanation": "Buying office supplies and buying a building are treated differently. The building usually has to be capitalized, with its cost recovered over time or on sale rather than all at once.",
               "legalExplanation": "Capital expenditures acquire or improve assets whose costs generally are recovered through basis, depreciation or later disposition, rather than automatically as current §162 expenses. The source contrasts $400,000 of land (normally retained in basis) with $50,000 tractor and $100,000 machinery (potentially recoverable under depreciation rules). Special expensing provisions can modify timing.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Buying land for $400,000 or machinery for $100,000 is not automatically a current deductible expense. Determine capitalization, depreciation and any statutory expensing election."
             },
             {
@@ -1659,7 +1668,7 @@
               "examTrap": "Depreciation can reduce adjusted basis even when the asset's market price has increased.",
               "laymanExplanation": "Basis is the tax system's record of what you invested in an asset. Buy something for $100 and improve it for $20: the adjusted basis may be $120, before other adjustments.",
               "legalExplanation": "Basis generally begins with acquisition cost under §1012; adjusted basis reflects applicable increases, such as qualifying capital improvements, and reductions, such as depreciation allowed or allowable, under §1016. Under §1001 the amount realized on a disposition is compared to adjusted basis to determine realized gain or loss. The source uses basis to prevent recovery of capital from being taxed as new income.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e032",
@@ -1674,7 +1683,7 @@
               "examTrap": "Realized does not automatically equal recognized; §1031 requires qualifying real property held for business/investment.",
               "laymanExplanation": "Realization is when something happens, like a sale, that turns a paper gain into a tax event. Recognition asks whether the tax law actually makes you report that gain now.",
               "legalExplanation": "Realization refers to a taxable-event trigger such as disposition; mere market appreciation normally remains unrealized. Recognition determines whether realized gain or loss is currently taken into account after statutory nonrecognition rules. The book gives $1 million-basis land worth $5 million, later exchanged for a $5 million apartment building: $4 million realized gain, potentially deferred under §1031 if the exchange qualifies. Since 2018 §1031 applies to eligible real-property exchanges, subject to detailed conditions; not all swaps are tax-free.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e033",
@@ -1686,7 +1695,7 @@
               "page": "22–23",
               "laymanExplanation": "A sole proprietor and a partner generally report business income through individual returns, though partnerships have their own reporting rules.",
               "legalExplanation": "For a sole proprietor, business receipts and deductions generally enter the owner's federal income-tax calculation directly. Partnerships file informational returns and generally pass distributive shares of tax items to partners rather than paying the regular entity-level income tax. Reporting is not necessarily postponed until cash is distributed.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e034",
@@ -1699,7 +1708,7 @@
               "alert": "Textbook simplification: do not assume every LLC is taxed as a partnership.",
               "laymanExplanation": "Different business forms can lead to different tax bills. A corporation may pay tax itself, while some LLCs and S corporations pass income through to owners.",
               "legalExplanation": "A C corporation generally pays income tax as a separate legal entity, and distributed earnings may be taxed again to shareholders. An S corporation generally passes income through to eligible owners, subject to entity-type and eligibility constraints. The casebook treats LLCs as partnership analogues for introductory purposes; in practice the federal classification depends on membership and elections.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e035",
@@ -1711,7 +1720,7 @@
               "page": "23",
               "laymanExplanation": "A trust holds and manages assets for beneficiaries. Depending on its rules and distributions, tax may be paid by the trust or by beneficiaries.",
               "legalExplanation": "A trustee holds and administers assets for beneficiaries. Depending on the trust category, distribution and accumulation, income may be taxed to the trust or its beneficiaries. Chapter 1 gives only a conceptual introduction and does not supply full Subchapter J rules.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e036",
@@ -1723,7 +1732,7 @@
               "page": "23–24",
               "laymanExplanation": "If something rises in price only because everything has become more expensive, your paper profit may not represent a real increase in purchasing power.",
               "legalExplanation": "Nominal gain is measured in dollars without adjusting for changes in purchasing power; real gain measures inflation-adjusted improvement. In the example, an asset bought for $100 and sold for $105 after 5% inflation has $5 nominal gain but essentially no real purchasing-power gain. Federal income-tax basis is not generally indexed simply because prices rose.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e037",
@@ -1734,7 +1743,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 24",
               "page": "24",
               "legalExplanation": "Bracket creep occurs when nominal income rises with inflation, potentially pushing taxpayers into higher rate brackets despite unchanged real purchasing power. The book explains inflation indexing of brackets and certain dollar amounts and the shift to chained CPI. This is separate from (generally unavailable) inflation indexing of property tax basis.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "If inflation doubles your paycheck but also doubles all prices, you aren't necessarily better off. Tax brackets need to adjust too, or your rate could rise without any real income growth."
             },
             {
@@ -1746,8 +1755,8 @@
               "laymanExplanation": "When a shop sells something, it doesn't make a profit on all the cash it collects. It first subtracts what it paid for the product.",
               "legalExplanation": "In inventory transactions, gross income from sales is generally gross receipts minus properly measured cost of goods sold. COGS is conceptually distinct from an ordinary personal itemized deduction. In the textbook's example, two $20 hammers costing $12 each yield $40 receipts − $24 inventory cost = $16 gross income.",
               "page": "12–13",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 12–13",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 12–13",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-rule-standard-itemized",
@@ -1758,8 +1767,8 @@
               "laymanExplanation": "You normally get to choose one: take a fixed deduction provided by law, or add up qualifying itemized expenses. Choose whichever actually saves more, subject to the law.",
               "legalExplanation": "In computing taxable income, compare the allowed standard deduction with allowable itemized deductions. Itemized amounts are useful only insofar as they exceed the standard deduction. The 2022 thresholds and $10,000 state/local tax deduction cap in the printed source are historical, not 2026 limits. Special rules apply to filing status and other categories.",
               "page": "14–15",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33",
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33",
               "legalWarning": {
                 "status": "historical-caution",
                 "label": "USE CURRENT TAX-YEAR LIMITS",
@@ -1777,8 +1786,8 @@
               "laymanExplanation": "It's a default amount the government lets many taxpayers subtract instead of keeping receipts for every eligible itemized expense.",
               "legalExplanation": "The standard deduction depends on filing status, tax year, and special eligibility rules. The 2022 standard deduction amounts quoted in the 2023 casebook are dated. Determine the applicable year before computing liability.",
               "page": "14–15",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33",
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33",
               "legalWarning": {
                 "status": "historical-caution",
                 "label": "USE CURRENT TAX-YEAR LIMITS",
@@ -1796,8 +1805,8 @@
               "laymanExplanation": "Itemizing means listing eligible costs one by one. It's usually only worthwhile if the allowed total beats your standard deduction.",
               "legalExplanation": "Typical examples in the reading include qualified mortgage interest, charitable contributions, certain medical expenses, and certain state/local taxes. The amount legally deductible depends on the tax year, category limits, income limits, and whether the taxpayer itemizes. The reading's $13,000 mortgage-interest example uses a historical $12,950 standard deduction.",
               "page": "14–15",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33",
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 14–15",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33",
               "legalWarning": {
                 "status": "historical-caution",
                 "label": "USE CURRENT TAX-YEAR LIMITS",
@@ -1815,8 +1824,8 @@
               "laymanExplanation": "A nonrefundable credit can bring your tax bill down to zero. A refundable credit may also pay you the difference if it's larger than the tax you owe.",
               "legalExplanation": "After finding preliminary liability, credits reduce tax. The book uses the EITC as an example of a refundable credit that may yield negative net income-tax liability; a nonrefundable credit generally does not produce a payment beyond the applicable tax.",
               "page": "15–16",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 15–16",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 15–16",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-capital-asset",
@@ -1827,8 +1836,8 @@
               "laymanExplanation": "Stocks you buy as investments are often capital assets. The products a business keeps on shelves to sell customers generally aren't.",
               "legalExplanation": "Capital status is a threshold issue for determining capital gain or loss character. Investor-held stocks generally can qualify; inventory held for ordinary customer sales generally does not. Having something valuable or long-lived does not by itself establish capital-asset treatment.",
               "page": "19–20",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 19–20",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 19–20",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-holding-period",
@@ -1839,8 +1848,8 @@
               "laymanExplanation": "Sell an investment after six months and it's normally short-term; sell it after more than a year and it's generally long-term.",
               "legalExplanation": "§1222 distinguishes short-term and long-term gains and losses. Preferential rates generally depend on net capital gain after statutory netting, not simply the word 'capital' on any disposition. Keep separate the property's character and the period held.",
               "page": "19–20",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 19–20",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 19–20",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-net-capital-gain",
@@ -1851,8 +1860,8 @@
               "laymanExplanation": "Just because you sold an investment at a profit doesn't automatically mean the special low tax rate applies. You have to look at the type of gain, how long you held it, and other capital losses.",
               "legalExplanation": "Not every capital gain receives the reduced tax rates. The reading explains that 'net capital gain' depends on net long-term capital gain in excess of net short-term capital loss after applying statutory netting provisions. Review §1222 before calculating preferential treatment.",
               "page": "19–20",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 19–20",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 19–20",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-depreciation",
@@ -1863,8 +1872,8 @@
               "laymanExplanation": "A business machine lasts for years, so tax law often spreads its cost across multiple years instead of subtracting the entire purchase price immediately.",
               "legalExplanation": "The reading contrasts nondepreciable land, whose cost is ordinarily recovered upon disposition, with a business tractor or manufacturing machine, which generally has depreciation/cost-recovery deductions. Allowed or allowable depreciation generally reduces adjusted basis; §§167–168 address major cost-recovery rules.",
               "page": "21–22",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 21–22",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 21–22",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-pass-through",
@@ -1875,8 +1884,8 @@
               "laymanExplanation": "The business calculates its earnings, but the owners—not the business itself—typically report those earnings on their own taxes.",
               "legalExplanation": "Partnerships file information returns but generally pass income or loss through to partners for federal income-tax purposes. Eligible S corporations also pass items through under their own rules. Owner inclusion may occur even before cash is distributed.",
               "page": "22–23",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 22–23",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 22–23",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-double-tax",
@@ -1887,10 +1896,13 @@
               "laymanExplanation": "A corporation may pay tax on its profit, then its owners may pay another tax when it sends them that profit as dividends.",
               "legalExplanation": "The reading describes C corporations as separate taxpayers, distinct from pass-through partnerships and S corporations. A corporation's retained income can raise share value but a shareholder generally does not realize gain from price appreciation until a disposition.",
               "page": "23",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 23",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 23",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             }
-          ]
+          ],
+          "studyWeek": "Week 1",
+          "assignedPages": "11–24",
+          "assignmentSource": "Tax syllabus: Week 1, Chapter 1 pp. 1–33"
         },
         {
           "id": "tax-ch1-d",
@@ -1909,7 +1921,7 @@
               "page": "24–25",
               "laymanExplanation": "Tax planning sometimes tries to change the legal category of income—for example, whether a gain is ordinary or capital—because different categories may have different rates.",
               "legalExplanation": "Conversion refers to tax planning that transforms what would economically look like a return to labor or other ordinary-income activity into receipts treated as capital gain, potentially qualifying for different rates. The reading's founder who builds a company with personal labor and later sells shares illustrates the motivation. The proper classification depends on statutory character rules and transaction facts.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e039",
@@ -1921,7 +1933,7 @@
               "page": "25–26",
               "laymanExplanation": "Paying tax later can be valuable because you get more time to use or invest the money before paying it.",
               "legalExplanation": "Tax deferral postpones current recognition or payment so funds remain available to earn returns. The source distinguishes deferral of an asset's appreciated gain until sale, and tax-favored retirement investment where contributions and earnings can accumulate before later taxation. A constant tax rate and positive return favor deferral in the simplified model, but changing rates or returns may change the comparison.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e040",
@@ -1932,7 +1944,7 @@
               "source": "IRC §1014; Bankman et al. p. 25",
               "page": "25",
               "legalExplanation": "The 'buy, borrow, die' strategy links appreciation without sale (no ordinary realization), cash borrowing secured by appreciated assets (loan proceeds generally offset by genuine repayment obligation), and basis rules for qualifying inherited property under §1014. The reading describes a possible step-up in basis at death and the resulting effect on built-in gain. Special exceptions and alternative regimes may limit the outcome.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "The idea is to hold investments while they appreciate, borrow against them instead of selling, and potentially pass them on at death with a tax basis adjustment. Important legal limits still apply."
             },
             {
@@ -1945,7 +1957,7 @@
               "page": "26–27",
               "laymanExplanation": "Future value estimates how much an investment grows when each period's earnings stay invested and earn more earnings.",
               "legalExplanation": "Compound growth uses FV = PV × (1 + r)^n for constant annual rate r and n years. The reading's retirement example: $10,000 × (1.10)^10 ≈ $25,937, before the 40% withdrawal tax under the simplified deferral assumptions. The formula assumes returns reinvested and constant periodic interest.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e042",
@@ -1957,7 +1969,7 @@
               "page": "26–27",
               "laymanExplanation": "Present value asks how much money today is equivalent to a larger amount promised in the future.",
               "legalExplanation": "Discount future cash with PV = FV/(1+r)^n. Table 1-5 gives the present-value factor 0.386 for 10 years at 10%; a $10,000 future receipt therefore has a rounded present value of $3,860, versus the direct-calculation result of approximately $3,855.43. The book's factors are approximations and do not create a legal tax rule.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e043",
@@ -1969,11 +1981,14 @@
               "page": "26",
               "laymanExplanation": "If taxes are collected from investment earnings every year, less money remains invested and compounding may be reduced.",
               "legalExplanation": "Under the textbook's simplified model with $10,000 gross funds, a 40% immediate tax leaves $6,000 to invest; 10% interest taxed annually at 40% leaves a 6% after-tax growth rate. Ten-year result = $6,000(1.06)^10 ≈ $10,745. By contrast, prefunded deferral permits $10,000(1.10)^10(0.60) ≈ $15,562 after the tax paid at withdrawal. Twenty-year results are approximately $19,243 without deferral and $40,365 with deferral. These are fixed-rate comparisons only.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Compute both after-tax terminal amounts at 10 and 20 years using the source's 10% return and 40% tax assumptions; compare, then discuss how a different future rate changes the result.",
               "examTrap": "Deferred tax at a higher future marginal rate may negate the modeled advantage."
             }
-          ]
+          ],
+          "studyWeek": "Week 1",
+          "assignedPages": "24–28",
+          "assignmentSource": "Tax syllabus: Week 1, Chapter 1 pp. 1–33"
         },
         {
           "id": "tax-ch1-e",
@@ -1992,7 +2007,7 @@
               "page": "28",
               "laymanExplanation": "You usually calculate and report your own tax on a return. Withholding and estimated tax payments reduce what remains to pay, or may create a refund.",
               "legalExplanation": "The personal federal income tax primarily uses annual self-assessment: the taxpayer determines income and deductions, files the return, and compares computed liability with withholding and estimated tax installments already paid. Excess prepayments generally result in a refund; an underpayment results in tax due. Separate filing and information-reporting obligations support IRS enforcement.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e045",
@@ -2004,7 +2019,7 @@
               "page": "28–29",
               "laymanExplanation": "An audit is an IRS check of your return. A deficiency is the additional tax the IRS says you owe.",
               "legalExplanation": "An audit is a closer IRS examination of a return. The textbook introduces a general three-year period for the IRS to assert a deficiency, with statutory exceptions including certain omitted income and false or fraudulent returns. An underpayment may accrue statutory interest separately from civil penalties; the actual interest rate is set under Code provisions rather than remaining fixed at one percentage.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e046",
@@ -2016,7 +2031,7 @@
               "page": "29",
               "laymanExplanation": "The court you use for a tax dispute matters. Some cases can be contested in Tax Court before paying the proposed deficiency; refund cases generally involve paying first.",
               "legalExplanation": "Tax Court offers a common prepayment deficiency forum for eligible taxpayers with a valid notice and timely petition; it conducts bench trials with specialized tax judges and appeals usually to the appropriate geographic circuit. In contrast, ordinary refund suits in district courts and the Court of Federal Claims generally require paying and satisfying refund-claim prerequisites. District court may have a jury; Court of Federal Claims appeals to the Federal Circuit. These are introductory comparisons and do not replace procedural statutes.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Choose Tax Court for an appropriate prepayment deficiency challenge, or a paid-refund forum after meeting jurisdictional and claim prerequisites. Explain court/jury/appeal differences.",
               "examTrap": "A refund case and a deficiency petition have different payment, jurisdictional and timing requirements."
             },
@@ -2030,7 +2045,7 @@
               "page": "29–30",
               "laymanExplanation": "Tax mistakes can trigger civil penalties, not just extra tax. The applicable penalty and possible defenses depend on what went wrong.",
               "legalExplanation": "Under §6662, negligence and substantial-understatement grounds can produce a 20% accuracy-related penalty on the portion of underpayment attributable to the specified ground. The reading discusses reduction based on substantial authority or adequately disclosed positions with reasonable basis and potentially reasonable-cause/good-faith protection under §6664. The same portion of an underpayment does not automatically incur multiple 20% penalties for overlapping grounds.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Identify the statutory penalty ground and potentially qualifying substantial-authority, disclosure or reasonable-cause defense; do not merely multiply any error by 20%."
             },
             {
@@ -2043,7 +2058,7 @@
               "page": "30",
               "laymanExplanation": "Filing late, paying late, and deliberately committing fraud are different violations with different penalties.",
               "legalExplanation": "The textbook introduces generally applicable late-filing penalties of 5% per month (up to 25%) and late-payment penalties of 0.5% per month (up to 25%), subject to statutory adjustment and interaction. Fraud-related civil penalties can reach 75% of the tax underpayment attributable to fraud. Identify the precise taxable event, deadline, return status and statutory exceptions before performing a penalty calculation.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e049",
@@ -2055,7 +2070,7 @@
               "page": "30",
               "laymanExplanation": "Criminal tax evasion is more than getting a tax number wrong: it involves intentional conduct to evade tax under the governing criminal requirements.",
               "legalExplanation": "Federal criminal tax evasion under §7201 requires willful attempted evasion or defeat of a tax imposed under the Code or its payment; the source describes criminal sanctions and a six-year criminal limitations period for specified offenses. Criminal tax liability has distinct intent and proof requirements beyond ordinary civil deficiency or negligence.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "class1-def-underpayment-deficiency",
@@ -2066,8 +2081,8 @@
               "laymanExplanation": "A deficiency notice means the IRS believes you owe more than your return showed. Assessment is the government's formal recording of a tax amount for collection.",
               "legalExplanation": "For exam purposes identify the proposed deficiency, assessment, possible administrative review, interest and payment procedure. The Chapter 1 introductory discussion simplifies these distinctions; full statutory definitions and notice procedures appear elsewhere in the Code.",
               "page": "28–29",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 28–29",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 28–29",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-substantial-understatement",
@@ -2078,10 +2093,13 @@
               "laymanExplanation": "Making a big tax mistake can carry an extra penalty. But the law may treat a reasonable, disclosed position differently from careless reporting.",
               "legalExplanation": "The textbook introduces a 20% accuracy-related penalty and identifies circumstances relevant to reducing the understatement or qualifying for reasonable-cause/good-faith protection. Tax year, taxpayer type, applicable authority, reasonable basis, and disclosure must be assessed before deciding penalty liability.",
               "page": "29–30",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 29–30",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 29–30",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             }
-          ]
+          ],
+          "studyWeek": "Week 1",
+          "assignedPages": "28–30",
+          "assignmentSource": "Tax syllabus: Week 1, Chapter 1 pp. 1–33"
         },
         {
           "id": "tax-ch1-f",
@@ -2099,7 +2117,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 30–31",
               "page": "30–31",
               "legalExplanation": "Federal income-tax liability begins with enacted Code provisions. Statutory definitions, cross-references and exclusions should be reviewed first; then applicable regulations, judicial decisions and published IRS guidance. The reading stresses that courts also use substance-over-form reasoning and law-like doctrines where statutory language is incomplete or susceptible to manipulation.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "When a tax question comes up, start with the Internal Revenue Code. Then look at the detailed regulations, court opinions and IRS guidance that help explain it.",
               "examApplication": "When researching a tax question, cite the applicable Code section first; analyze its definitions and exceptions before turning to Treasury regulations and cases."
             },
@@ -2112,7 +2130,7 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), pp. 31",
               "page": "31",
               "legalExplanation": "Legislative history can help interpret uncertain provisions. House Ways and Means and Senate Finance committee reports may explain complex drafting compromises; Joint Committee on Taxation staff assists and prepares revenue estimates and 'blue books' summarizing enacted laws. These explanatory documents are not themselves statutes.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "laymanExplanation": "Congress writes tax statutes, but committee reports and JCT explanations can tell you what lawmakers were trying to accomplish. They explain the law; they aren't laws themselves."
             },
             {
@@ -2126,7 +2144,7 @@
               "alert": "OUTDATED IN CASEBOOK: Chevron deference was overruled in 2024.",
               "laymanExplanation": "Treasury regulations are detailed rules issued by Treasury that help explain how the Internal Revenue Code operates.",
               "legalExplanation": "Section 7805 authorizes Treasury to issue regulations for Code enforcement, and particular provisions may specifically delegate regulatory tasks. Income-tax regulations generally use the '1.' number series and proposed regulations ordinarily undergo applicable notice-and-comment procedures. The casebook's description of Chevron deference after Mayo reflects the doctrine as it stood in 2011; the Supreme Court's Loper Bright decision (2024) overruled Chevron's mandatory ambiguity-based deference, while statutory delegations may still matter.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Start with a Code section, then the regulation, then relevant binding case law; if Chevron is invoked from the casebook, state that Loper Bright later changed judicial interpretive deference.",
               "examTrap": "Do not write that a court must follow any reasonable Treasury interpretation simply because the statute is ambiguous; that is the overruled Chevron approach."
             },
@@ -2140,7 +2158,7 @@
               "page": "32",
               "laymanExplanation": "Revenue rulings explain the IRS's position on how law applies to facts. Revenue procedures generally explain processes and administrative rules.",
               "legalExplanation": "Revenue Rulings express the IRS's published position on how a law applies to a given set of facts; Revenue Procedures describe IRS administrative practices and processes. They are important to practitioners but do not have the same status as Code text or properly promulgated Treasury regulations.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)",
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)",
               "examApplication": "Classify the source of guidance in a tax research question. Do not treat an unpublished PLR as general binding authority."
             },
             {
@@ -2153,7 +2171,7 @@
               "page": "32–33",
               "laymanExplanation": "A private letter ruling is the IRS answering a particular taxpayer's question. Other taxpayers generally cannot treat that letter as binding precedent.",
               "legalExplanation": "A PLR responds to a specific taxpayer's factual ruling request. Although letter rulings may illuminate IRS analysis, under §6110(k)(3) a written determination generally cannot be used or cited as precedent by other taxpayers. The reading differentiates PLRs from public Revenue Rulings stating an IRS position with broader applicability.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e055",
@@ -2165,7 +2183,7 @@
               "page": "33",
               "laymanExplanation": "Tax Court decisions interpret tax law. The IRS may say whether it accepts a particular decision's reasoning for similar cases.",
               "legalExplanation": "The Tax Court publishes regular opinions and memorandum decisions, and the IRS sometimes announces whether it acquiesces or nonacquiesces in adverse opinions. Acquiescence indicates an administrative willingness to follow the decision in similar matters; nonacquiescence indicates disagreement and possible relitigation, subject to binding appellate rulings. The source's Golsen footnote explains the importance of the circuit of appeal.",
-              "sourceRole": "Class 1 / syllabus Week 1 (assigned textbook pages 1–33)"
+              "sourceRole": "Week 1 / syllabus Week 1 (assigned textbook pages 1–33)"
             },
             {
               "id": "tax-ch1-e056",
@@ -2216,8 +2234,8 @@
               "laymanExplanation": "Calling a payment a 'loan' or a 'gift' doesn't automatically make it one. Tax law can look at what actually happened.",
               "legalExplanation": "The source emphasizes that courts can disregard arrangements whose form complies with literal words but whose substance conflicts with the operation of tax law. Do not treat it as permission to ignore clear statutory terms; identify the governing rule and why the underlying economic arrangement matters.",
               "page": "30–31",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 30–31",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 30–31",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-jct",
@@ -2228,8 +2246,8 @@
               "laymanExplanation": "JCT experts help Congress calculate how much a proposed tax change would raise or cost, and publish useful explanations afterward.",
               "legalExplanation": "The Joint Committee staff works with House Ways and Means and Senate Finance committees. Their official revenue estimates commonly address a 10-year horizon, and explanatory 'blue books' are informative but are not enacted tax law.",
               "page": "31",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 31",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 31",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-regulations-citation",
@@ -2240,8 +2258,8 @@
               "laymanExplanation": "When you see Reg. §1.170-1, the number 170 tells you it relates to Code §170. The '1.' signals the income-tax regulation series.",
               "legalExplanation": "The source gives Reg. §1.170-1 (charitable contributions) and estate-tax Reg. §20.2041-1 as examples. It also discusses proposed regulations, Federal Register publication and comments under the Administrative Procedure Act.",
               "page": "31–32",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 31–32",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 31–32",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             },
             {
               "id": "class1-def-golsen",
@@ -2252,10 +2270,13 @@
               "laymanExplanation": "Even if Tax Court judges would prefer a different interpretation, they generally follow the appeals court whose jurisdiction covers that taxpayer's case.",
               "legalExplanation": "The casebook notes that when the Tax Court disagrees with an appellate circuit's rule, it generally still follows that circuit for a case appealable there. Golsen v. Commissioner is cited in a note, not reproduced as an assigned judicial opinion; no separate case brief is appropriate.",
               "page": "33",
-              "source": "Assigned Class 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 33",
-              "sourceRole": "Class 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
+              "source": "Assigned Week 1, Bankman/Shaviro/Stark/Scharff, Federal Income Taxation, 19th ed., Ch. 1, printed pp. 33",
+              "sourceRole": "Week 1 (Week 1) — syllabus-assigned casebook pp. 1–33"
             }
-          ]
+          ],
+          "studyWeek": "Week 1",
+          "assignedPages": "30–33",
+          "assignmentSource": "Tax syllabus: Week 1, Chapter 1 pp. 1–33"
         },
         {
           "id": "tax-ch2-a",
@@ -2273,7 +2294,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 36",
               "laymanExplanation": "The basic fairness idea is that someone with greater financial resources may reasonably be expected to contribute more in taxes.",
               "legalExplanation": "Ability to pay is an economic and normative principle: persons with greater welfare-relevant resources may be asked to bear greater tax burdens. The book explains why liquidity is imperfect: taxing only liquid compensation could incentivize payment in illiquid art or land. Income is used as an administrable proxy, not an exhaustive measurement of capacity.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-a02",
@@ -2285,7 +2307,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 35",
               "laymanExplanation": "Imagine everyone owes the same $10,000 tax regardless of income. Easy to calculate, but extremely hard on people who earn little.",
               "legalExplanation": "A head or capitation tax imposes a fixed amount per person, irrespective of income, work hours, consumption or personal circumstances. The textbook's $17,500-per-person figure is a stylized 2022 revenue-equivalence illustration, not existing tax law. It may avoid some behavioral distortions but imposes severe burden on people without resources.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-a03",
@@ -2297,7 +2320,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 36",
               "laymanExplanation": "Taxing wages, spending, and wealth are different ways to pick what gets measured before a tax rate is applied.",
               "legalExplanation": "A tax base specifies what is measured before statutory rates are applied. A progressive income tax bases burden largely on income; a consumption tax on use of resources; and a wealth tax on assets. These are indirect proxies for taxable capacity rather than direct observation of potential earnings.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-a04",
@@ -2309,7 +2333,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 36",
               "laymanExplanation": "Two people may earn the same paycheck, but one works far fewer hours. Their ability to earn per hour can differ even if income tax treats their earnings alike.",
               "legalExplanation": "The source compares Dora earning $1,000 in 50 hours ($20/hour) and Felix earning the same $1,000 in 10 hours ($100/hour). Their wages and ordinary income-tax measures coincide even though Felix retains much more leisure and has higher labor-market earning capacity. Endowment or wage-rate taxation is offered as a theoretical alternative, not a current tax requirement.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-a05",
@@ -2322,7 +2347,8 @@
               "elements": "Y = C + ΔW, where C = market value of consumption and ΔW = change in net worth.",
               "laymanExplanation": "This economist's definition says your income is what you consume plus how much richer you became during the period. It's broader than what today's tax return necessarily counts.",
               "legalExplanation": "Haig–Simons economic income is the sum of the market value of consumption plus the period's change in wealth (Y = C + ΔW), equivalent in a simplified setting to consumption plus saving. The definition measures unrealized appreciation and nonmarket consumption more broadly than the Internal Revenue Code's chosen recognition and exclusion rules; do not equate it with §61 gross income.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-a06",
@@ -2334,7 +2360,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 37",
               "laymanExplanation": "If you spent $9,000 and saved another $1,000, the formula says you had $10,000 of economic income. Saving and spending are two destinations for income.",
               "legalExplanation": "The two equivalent simplified equations are Y=C+S and Y=C+ΔW, where S represents saving and ΔW change in net worth. Book example: $10,000 wages, $9,000 consumption, $1,000 added savings → Y=$10,000. If consumption is $11,000 financed by a $1,000 loan or past saving, ΔW=−$1,000, and Y remains $10,000.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-a07",
@@ -2346,7 +2373,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 38",
               "laymanExplanation": "A consumption tax focuses on what you use or spend, rather than taxing money simply because you earned and saved it.",
               "legalExplanation": "A consumption tax measures the value consumed over the tax period, not all earnings as they accrue. The source discusses the 'cash-flow' design in which new savings are deductible and using saved or borrowed resources to finance consumption increases the tax base. Economic incentive differences largely involve investment returns and delay of spending.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-a08",
@@ -2358,7 +2386,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 38",
               "laymanExplanation": "If you fix your own house rather than paying someone else, you receive something valuable without getting paid money. Economists can view that unpaid benefit as income.",
               "legalExplanation": "Imputed income is the market-equivalent value of consuming one's own goods, services or leisure (living in an owner-occupied home, housework, self-care). These activities increase welfare but generally do not create the observable market transactions used by ordinary income-tax administration, making inclusion both difficult to value and politically contentious.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-a09",
@@ -2370,7 +2399,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 35",
               "legalExplanation": "The casebook contrasts simplicity and neutrality of a flat head tax with ability-to-pay values, potential declines in marginal utility of income, and imperfections of earned income as a proxy for welfare. This is policy background, not an operative rule about what taxpayers must include.",
               "examTrap": "",
-              "laymanExplanation": "A flat tax per person would be simple, but someone with little or no income might not be able to pay it. An income-based system tries to share the burden more fairly."
+              "laymanExplanation": "A flat tax per person would be simple, but someone with little or no income might not be able to pay it. An income-based system tries to share the burden more fairly.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-new-marginal-utility",
@@ -2382,7 +2412,8 @@
               "details": "The casebook offers declining marginal utility as a potential normative rationale for progressive rates. It is a policy/economic proposition rather than a statutory element or judicial test.",
               "page": "36",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 36; Week 2 syllabus-assigned.",
-              "sourceRole": "Week 2 — assigned textbook Chapter 2"
+              "sourceRole": "Week 2 — assigned textbook Chapter 2",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-new-economic-savings",
@@ -2394,7 +2425,8 @@
               "details": "Economic income is defined as consumption plus net change in wealth: Y = C + ΔW. The source illustrates wage income of $10,000, consumption of $9,000 and savings of $1,000; or consumption $11,000 and net worth change −$1,000. This broad economic concept differs from statutory tax inclusions.",
               "page": "37–38",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 37–38; Week 2 syllabus-assigned.",
-              "sourceRole": "Week 2 — assigned textbook Chapter 2"
+              "sourceRole": "Week 2 — assigned textbook Chapter 2",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-new-cashflow-consumption",
@@ -2406,7 +2438,8 @@
               "details": "The reading attributes the cash-flow consumption-tax design to William Andrews's 1974 analysis. Its taxable consumption base is conceptually calculated from income less net saving, including relevant dissaving and borrowing to finance consumption; rates may still be progressive.",
               "page": "38",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 38; Week 2 syllabus-assigned.",
-              "sourceRole": "Week 2 — assigned textbook Chapter 2"
+              "sourceRole": "Week 2 — assigned textbook Chapter 2",
+              "studyWeek": "Week 2"
             }
           ],
           "studyWeek": "Week 2",
@@ -2430,7 +2463,8 @@
               "examApplication": "For any receipt, identify the actual benefit, who controls it, whether it is realized, and any asserted Code exclusion.",
               "examTrap": "The absence of a specific item in §61's illustrative list does NOT establish exclusion.",
               "laymanExplanation": "When something valuable comes in, the starting point is that it counts as income. You need a legal reason to leave it out.",
-              "legalExplanation": "Section 61(a)'s gross-income definition is deliberately open ended and includes, without limiting inclusion to the examples listed, all income from whatever source derived unless some statutory or other applicable exclusion exists. Its broad reading is central to Glenshaw Glass and Cesarini. Separate legal characterization and timing of receipt from valuation and exclusions."
+              "legalExplanation": "Section 61(a)'s gross-income definition is deliberately open ended and includes, without limiting inclusion to the examples listed, all income from whatever source derived unless some statutory or other applicable exclusion exists. Its broad reading is central to Glenshaw Glass and Cesarini. Separate legal characterization and timing of receipt from valuation and exclusions.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-b02",
@@ -2442,7 +2476,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 40",
               "laymanExplanation": "A windfall is money or value you unexpectedly receive, like money found in a piano. Unexpected does not mean tax-free.",
               "legalExplanation": "A windfall is a gain that arrives unexpectedly without necessarily being paid for labor or investment. The fact it is unearned does not itself create a §102 gift: donative intent requires a real donor. The book uses punitive damages and treasure trove to illustrate Congress's broad inclusion principle.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-b03",
@@ -2454,7 +2489,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 42",
               "examTrap": "Do not universalize Eisner v. Macomber's older income-from-capital-or-labor phrase.",
               "laymanExplanation": "The Court's basic idea: if you genuinely gain wealth, actually receive or realize it, and control it, you're generally dealing with income.",
-              "legalExplanation": "Glenshaw Glass rejected treating Eisner v. Macomber's older capital-and-labor phrasing as a universal definition of income. It identified clearly realized, undeniable accessions to wealth under the taxpayer's complete dominion as included under §61's predecessor; the listed statutory exclusions remain relevant."
+              "legalExplanation": "Glenshaw Glass rejected treating Eisner v. Macomber's older capital-and-labor phrasing as a universal definition of income. It identified clearly realized, undeniable accessions to wealth under the taxpayer's complete dominion as included under §61's predecessor; the listed statutory exclusions remain relevant.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-case-cesarini",
@@ -2475,7 +2511,8 @@
               "laymanExplanation": "A couple found cash hidden inside a used piano years after buying it. The court treated the money as taxable when it became theirs to keep, rather than as a tax-free surprise.",
               "examTrap": "The fact that found money is not separately enumerated in §61 does not make it excluded; no donor made a §102 gift.",
               "citation": "296 F. Supp. 3 (N.D. Ohio 1969), aff'd 428 F.2d 812 (6th Cir. 1970)",
-              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)"
+              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-b04",
@@ -2487,7 +2524,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 45",
               "laymanExplanation": "Treasure trove means valuable property or money someone finds. Once the finder has undisputed possession, its value can be taxable.",
               "legalExplanation": "Treas. Reg. §1.61-14(a) states that treasure trove constitutes gross income at its value in U.S. currency in the taxable year it is reduced to undisputed possession. Cesarini applies that regulation to money discovered inside a used piano years after purchase; the old auction price of the piano did not render the found currency a nontaxable gift.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-b05",
@@ -2505,7 +2543,8 @@
               },
               "legalExplanation": "The old Eisner v. Macomber stock-dividend case is cited in the Chapter 2 introduction and rejected in Glenshaw Glass as an all-purpose definition of gross income. Macomber is a supporting historical reference here rather than a separately reproduced assigned judicial opinion.",
               "examTrap": "",
-              "laymanExplanation": "The textbook discusses this older case to show how the definition of income changed. It is not one of the complete court opinions you're assigned to brief here."
+              "laymanExplanation": "The textbook discusses this older case to show how the definition of income changed. It is not one of the complete court opinions you're assigned to brief here.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax-ch2-rule-61",
@@ -2517,7 +2556,8 @@
               "examApplication": "Determine whether the receipt represents a realized accession to wealth subject to the taxpayer's control. Punitive nature alone is not an exclusion.",
               "examTrap": "Do not treat punitive damages as automatically untaxed windfalls.",
               "laymanExplanation": "A lawsuit payout does not become tax-free simply because it punishes the defendant. Punitive damages can count as income.",
-              "legalExplanation": "The consolidated Glenshaw Glass cases concerned extra punitive sums received after fraud/antitrust litigation. The Supreme Court held those payments fell within the predecessor of §61, even though the lower courts had exempted the punitive component. Their punitive origin does not remove the economic accession to wealth; independently consider any specifically applicable exclusions."
+              "legalExplanation": "The consolidated Glenshaw Glass cases concerned extra punitive sums received after fraud/antitrust litigation. The Supreme Court held those payments fell within the predecessor of §61, even though the lower courts had exempted the punitive component. Their punitive origin does not remove the economic accession to wealth; independently consider any specifically applicable exclusions.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax-ch2-case-glenshaw",
@@ -2537,7 +2577,8 @@
               "examTrap": "A cited old definition in Macomber cannot be treated as today's exhaustive gross-income test. Different physical-injury exclusions for compensatory damages must be considered independently.",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), reproduced judicial opinion, Chapter 2 pp. 40–42.",
               "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)",
-              "laymanExplanation": "Two companies kept the punitive part of lawsuit recoveries off their tax returns. The Supreme Court said those payments still increased their wealth and were taxable."
+              "laymanExplanation": "Two companies kept the punitive part of lawsuit recoveries off their tax returns. The Supreme Court said those payments still increased their wealth and were taxable.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-new-barter",
@@ -2549,7 +2590,8 @@
               "details": "Under §61(a) and Treas. Reg. §1.61-1(a), gross income may be realized in money, property or services. Reg. §1.61-2(d)(1) ordinarily values property received for services at FMV. The Atticus Finch produce example and home-repair barter illustrate the legal point.",
               "page": "39, 46–47",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 39, 46–47; Week 2 syllabus-assigned.",
-              "sourceRole": "Week 2 — assigned textbook Chapter 2"
+              "sourceRole": "Week 2 — assigned textbook Chapter 2",
+              "studyWeek": "Week 2"
             }
           ],
           "studyWeek": "Week 2",
@@ -2573,7 +2615,8 @@
               "examApplication": "A lawyer performs services in exchange for renovations. Analyze the fair market value of services/property received rather than treating the barter as tax-free.",
               "laymanExplanation": "Getting paid with groceries, services, a car, or other property doesn't automatically avoid income tax. The value of what you receive can still be pay.",
               "legalExplanation": "Section 61 and Treas. Reg. §§1.61-1(a), 1.61-2(d)(1) generally include noncash compensation at market value. A taxpaying lawyer who receives carpentry services in exchange for legal services cannot assume the exchange avoids taxable compensation. Business versus personal use and credible valuation are additional fact issues.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c02",
@@ -2585,7 +2628,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 59",
               "laymanExplanation": "A fringe benefit is a perk from your employer in addition to ordinary wages—like free meals or travel.",
               "legalExplanation": "Fringe benefits are employer-provided goods, services or financial advantages, often substituted for cash wages. §61 initially covers economic benefits; §§119, 132 and related provisions provide category-specific exclusions. Identify the recipient, employer, actual benefit and any statutory limits before invoking an exclusion.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c03",
@@ -2597,7 +2641,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 61",
               "laymanExplanation": "Fair market value is roughly the price a willing buyer and seller would agree on in an ordinary market deal.",
               "legalExplanation": "Fair market value generally refers to the value in an arm's-length exchange, taking into account applicable market conditions and restrictions. Noncash compensation is ordinarily measured by FMV; Turner illustrates valuation uncertainty when prize tickets cannot be transferred, while the note contrasting Rooney cautions against wholly subjective preference measures.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c04",
@@ -2610,7 +2655,8 @@
               "elements": "(1) Meals furnished by/on behalf of employer; (2) for employer's convenience; (3) on employer's business premises; (4) qualifying employee/family recipient.",
               "examTrap": "Cash allowances are not necessarily meals furnished. Distinguish paid cash from food furnished.",
               "laymanExplanation": "Free meals at work can be tax-free when the employer provides them for genuine work-related reasons at the workplace, not just as extra pay.",
-              "legalExplanation": "Section 119(a)(1) excludes the value of meals furnished by/on behalf of the employer to an employee, spouse or dependents for the employer's convenience, but only if provided on the employer's business premises. Cash allowances to buy one's own meals are not themselves qualifying 'furnished' meals (Kowalski discussed in text). Need evaluate bona fide work conditions, not a label in the contract."
+              "legalExplanation": "Section 119(a)(1) excludes the value of meals furnished by/on behalf of the employer to an employee, spouse or dependents for the employer's convenience, but only if provided on the employer's business premises. Cash allowances to buy one's own meals are not themselves qualifying 'furnished' meals (Kowalski discussed in text). Need evaluate bona fide work conditions, not a label in the contract.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c05",
@@ -2623,7 +2669,8 @@
               "elements": "(1) Lodging furnished by/on behalf of employer; (2) employer convenience; (3) business premises; (4) employee required to accept as condition of employment.",
               "examTrap": "Being provided free housing does not itself prove the employer-convenience or employment-condition requirements.",
               "laymanExplanation": "Free housing from your employer may be tax-free only if it is provided for work reasons, at the workplace, and you must live there to perform the job.",
-              "legalExplanation": "Section 119(a)(2) excludes lodging furnished by/on behalf of employer to employee, spouse or dependents where lodging is on the employer's business premises, for employer convenience, AND the employee must accept lodging as a condition of employment. Benaglia is the historical precursor; §119 now supplies the actual tests. Location cases in the notes show 'business premises' is fact-sensitive."
+              "legalExplanation": "Section 119(a)(2) excludes lodging furnished by/on behalf of employer to employee, spouse or dependents where lodging is on the employer's business premises, for employer convenience, AND the employee must accept lodging as a condition of employment. Benaglia is the historical precursor; §119 now supplies the actual tests. Location cases in the notes show 'business premises' is fact-sensitive.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-case-benaglia",
@@ -2644,7 +2691,8 @@
               "laymanExplanation": "A hotel manager had to stay at the hotel to do his job. The court viewed the meals and room as provided for the employer's needs, not as ordinary extra pay. Modern exams apply the statute, §119.",
               "examTrap": "Benaglia is an assigned judicial excerpt but its common-law approach was superseded by §119; even an employment letter calling something a 'benefit' does not settle statutory treatment.",
               "citation": "36 B.T.A. 838 (1937)",
-              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)"
+              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-case-gotcher",
@@ -2665,7 +2713,8 @@
               "laymanExplanation": "A car dealer's company-funded factory trip mainly served the business, but the spouse's vacation-like trip benefited her personally. The court treated them differently.",
               "examTrap": "Do not infer all employer-sponsored vacations are nontaxable or that every business purpose alone eliminates all personal benefit income.",
               "citation": "401 F.2d 118 (5th Cir. 1968)",
-              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)"
+              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c06",
@@ -2677,7 +2726,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60",
               "laymanExplanation": "If letting an employee use a spare airline seat costs the airline almost nothing extra, the perk may fit a special tax exclusion.",
               "legalExplanation": "Under §132(b), an eligible employee may exclude a service offered for sale to customers in the employer's line of business when the employer incurs no substantial additional cost (including forgone revenue) by providing it. A standby seat that otherwise would go unused may qualify, but reserved seats or benefits given preferentially to highly compensated employees require extra analysis.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c07",
@@ -2689,7 +2739,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60",
               "laymanExplanation": "Employees sometimes get tax-favored discounts on the goods or services their employer normally sells, up to legal limits.",
               "legalExplanation": "Section 132(c) allows qualifying employee discounts within different statutory limits for goods and services sold in the employee's line of business; the notes focus on employer profit margins, cost floors and officer-only availability. Apply the statutory limitations rather than assuming all employee discounts are excluded.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c08",
@@ -2701,7 +2752,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60",
               "laymanExplanation": "If the employer pays for something you'd properly deduct as a business expense yourself, the perk may be excluded as a working-condition fringe.",
               "legalExplanation": "A working-condition fringe under §132(d) is a benefit that, if purchased by the employee, would meet the conditions for a deduction under §162 or §167. Distinguish genuine business expenses from personal consumption or compensation, and consider substantiation where relevant.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c09",
@@ -2713,7 +2765,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60",
               "laymanExplanation": "Tiny or occasional workplace perks may not be worth tracking for tax purposes; major recurring perks aren't automatically 'de minimis.'",
               "legalExplanation": "A de minimis fringe under §132(e) is occasional and small enough that recording/valuing it would be unreasonable or administratively impracticable. The category includes certain modest snacks or amenities, but does not excuse recurring substantial or cash-equivalent benefits merely because employees call them perks.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c10",
@@ -2725,7 +2778,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 60",
               "laymanExplanation": "Tax law has additional special rules for certain transit benefits, retirement-planning help, and on-premises gyms.",
               "legalExplanation": "Section 132 recognizes separate qualified categories including qualified transportation fringes, certain retirement-planning services and on-premises athletic facilities. Each has its own eligibility, recipient, dollar and facility requirements; the source's eight assigned questions test how to identify the correct category rather than apply a generic exclusion.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c11",
@@ -2737,7 +2791,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 62",
               "laymanExplanation": "A cafeteria plan lets workers choose among specified benefits and cash without making all the qualified benefit choices taxable just because cash was available.",
               "legalExplanation": "Section 125 authorizes an eligible cafeteria plan allowing choice of cash versus specified excludable benefits without immediately taxing cash forgone under constructive-receipt rules. Qualified benefits, nondiscrimination, annual elections and use-it-or-lose-it constraints depend on the type of plan and applicable regulations.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c12",
@@ -2749,7 +2804,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 62",
               "laymanExplanation": "You can't always avoid income tax by refusing money that's already available to you. Tax law may treat it as received anyway.",
               "legalExplanation": "Under the constructive-receipt doctrine, a cash-method taxpayer may be treated as receiving money that is made available without substantial restrictions even if not physically drawn. The reading uses this doctrine to explain why a §125 election to take nontaxable benefits instead of available cash requires a specific statutory exception.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c13",
@@ -2761,7 +2817,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 62",
               "laymanExplanation": "Some benefits money must be spent on eligible expenses within set time limits, or you may lose unused amounts, subject to plan exceptions.",
               "legalExplanation": "The reading discusses annual cafeteria-plan elections and forfeiture of unused designated dependent-care or health expenses, with specified exceptions for qualifying life-event changes. Do not present the casebook's simplified 'cannot carry over' statement as universally applicable to every modern FSA, which may have permitted grace periods/carryovers under current rules.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c14",
@@ -2773,7 +2830,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 63",
               "laymanExplanation": "Employer medical insurance and certain medical reimbursements often receive favorable tax treatment under special rules.",
               "legalExplanation": "Sections 105 and 106 generally confer exclusions for qualifying employer-provided accident/health plan coverage and specified payments/reimbursements, while dependent-care and cafeteria-plan treatment involves §§125/129. The Chapter 2 discussion contrasts this major tax-favored form of compensation with ordinary wages.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-case-turner",
@@ -2794,7 +2852,8 @@
               "laymanExplanation": "Someone won expensive travel tickets they couldn't easily sell. The court did not simply use the full ticket price; it looked at what the benefit was realistically worth.",
               "examTrap": "Turner's case-specific valuation does not establish a universal rule that subjective personal value always overrides objective market value.",
               "citation": "13 T.C.M. 462 (1954)",
-              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)"
+              "sourceRole": "Week 2 assigned judicial opinion (reproduced in textbook)",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c15",
@@ -2806,7 +2865,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 54",
               "legalExplanation": "Noncash fringe benefits raise three policy concerns: fair treatment relative to cash wages, how to value employee benefit when employer purpose or transfer restrictions matter, and practical IRS administration/enforcement. The tech-firm meal article and frequent-flyer nonassertion policy are optional illustrations rather than categorical statutes.",
               "examTrap": "",
-              "laymanExplanation": "Tax-free work perks might be fair or unfair depending on what employees get. They're also hard for the IRS to value and monitor."
+              "laymanExplanation": "Tax-free work perks might be fair or unfair depending on what employees get. They're also hard for the IRS to value and monitor.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-c16",
@@ -2818,7 +2878,9 @@
               "source": "IRC §107; IRS Ministers' Compensation and Housing Allowance FAQ; Gaylor v. Mnuchin (assigned PDF)",
               "elements": "Compare the housing allowance officially designated in advance, the amount actually used to provide a home, and the home's fair rental value with furnishings and utilities; subject to qualifications.",
               "examTrap": "Distinguish income-tax exclusion from self-employment tax treatment and §107(1) furnished housing from §107(2) cash allowances.",
-              "laymanExplanation": "A qualifying minister may be able to exclude certain employer-provided housing or a designated housing allowance from income tax, within limits."
+              "laymanExplanation": "A qualifying minister may be able to exclude certain employer-provided housing or a designated housing allowance from income tax, within limits.",
+              "studyWeek": "Week 2",
+              "sourceWeek": "Week 2 — separately assigned Gaylor handout"
             },
             {
               "id": "tax2-case-gaylor",
@@ -2846,7 +2908,9 @@
                 "authority": "Kennedy v. Bremerton Sch. Dist., 597 U.S. 507 (2022)",
                 "url": "https://www.law.cornell.edu/supremecourt/text/21-418"
               },
-              "laymanExplanation": "A group challenged a tax break for clergy housing. The appeals court said that the statutory exclusion was constitutional; later Supreme Court cases changed the test courts use for these church-and-state disputes."
+              "laymanExplanation": "A group challenged a tax break for clergy housing. The appeals court said that the statutory exclusion was constitutional; later Supreme Court cases changed the test courts use for these church-and-state disputes.",
+              "studyWeek": "Week 2",
+              "sourceWeek": "Week 2 — separately assigned Gaylor handout"
             },
             {
               "id": "tax2-new-132-line",
@@ -2859,7 +2923,8 @@
               "page": "59–61",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 59–61; Week 2 syllabus-assigned.",
               "sourceRole": "Week 2 — assigned textbook Chapter 2",
-              "examTrap": "Do not assume a discount from any unrelated line of business or offered only to officers always qualifies."
+              "examTrap": "Do not assume a discount from any unrelated line of business or offered only to officers always qualifies.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-new-frequentflyer",
@@ -2872,7 +2937,8 @@
               "page": "62–64",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 62–64; Week 2 syllabus-assigned.",
               "sourceRole": "Week 2 — assigned textbook Chapter 2",
-              "examTrap": "This is an announced IRS nonassertion policy, not a general §132 exclusion for all points or cash conversions."
+              "examTrap": "This is an announced IRS nonassertion policy, not a general §132 exclusion for all points or cash conversions.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-new-haverly",
@@ -2885,7 +2951,8 @@
               "page": "64",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 64; Week 2 syllabus-assigned.",
               "sourceRole": "Week 2 — assigned textbook Chapter 2",
-              "examTrap": "Do not create a dedicated Haverly case brief from this incidental citation."
+              "examTrap": "Do not create a dedicated Haverly case brief from this incidental citation.",
+              "studyWeek": "Week 2"
             },
             {
               "id": "tax2-new-nondiscrimination",
@@ -2897,7 +2964,8 @@
               "details": "For §132 no-additional-cost services and qualified employee discounts, assess statutory nondiscrimination restrictions and definitions; different categories of fringe benefits have different rules. The employer's uniform availability to employees is factually important for some benefits.",
               "page": "60–61",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 60–61; Week 2 syllabus-assigned.",
-              "sourceRole": "Week 2 — assigned textbook Chapter 2"
+              "sourceRole": "Week 2 — assigned textbook Chapter 2",
+              "studyWeek": "Week 2"
             }
           ],
           "studyWeek": "Week 2",
@@ -2920,7 +2988,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68",
               "examTrap": "Gross proceeds are not automatically the same as taxable gain.",
               "laymanExplanation": "Getting back money you already invested is not a new profit. If you lend $500 and receive $500 back, that principal repayment is not income.",
-              "legalExplanation": "The recovery-of-capital principle prevents taxing repayment of one's original economic investment as if it were profit. Buying stock for $500 and reselling at $500 yields no gain; receiving $500 loan principal back is not interest income. Determine basis and amount realized for a property disposition."
+              "legalExplanation": "The recovery-of-capital principle prevents taxing repayment of one's original economic investment as if it were profit. Buying stock for $500 and reselling at $500 yields no gain; receiving $500 loan principal back is not interest income. Determine basis and amount realized for a property disposition.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d02",
@@ -2932,7 +3001,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68",
               "laymanExplanation": "Your basis is your tax 'starting cost' in property. It matters because you usually pay tax on profit above that cost, not the whole sale price.",
               "legalExplanation": "Basis is a taxpayer's tax investment in an asset, normally initial cost under §1012, adjusted as law requires. Basis is allocated when only part of a larger asset is disposed of. Inaja addresses the rare situation where allocating basis to surrendered rights is wholly impracticable.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d03",
@@ -2944,7 +3014,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 68",
               "laymanExplanation": "Amount realized is what you get when you sell property, before subtracting the property's tax basis to figure out gain.",
               "legalExplanation": "Amount realized includes the cash and other consideration received on a property disposition under §1001, before subtracting adjusted basis. For a simple cash sale, proceeds minus allocated basis equals realized gain/loss. Do not confuse taxable income with raw sale proceeds.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d04",
@@ -2957,7 +3028,8 @@
               "examApplication": "Always identify adjusted basis before measuring gain, and separate gain amount from recognition and characterization.",
               "laymanExplanation": "Sell something for $700 with $400 in basis: the difference, $300, is your realized gain.",
               "legalExplanation": "Under §1001 the basic computation is amount realized minus adjusted basis. Example: 100 homogeneous shares purchased for $1,000; sell 40 shares for $700. Allocated basis=$400; realized gain=$300. Characterization, recognition and limitations are separate questions.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d05",
@@ -2969,7 +3041,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69",
               "laymanExplanation": "If you sell only part of something, you have to work out how much of your original purchase cost belongs to the part sold.",
               "legalExplanation": "Reg. §1.61-6 generally requires equitable allocation of cost or basis when part of property is sold. Identical shares may support per-unit allocation; dissimilar parcels of land require attention to relative values at acquisition. Inaja is a narrow exception where exact apportionment cannot reasonably be made.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d06",
@@ -2981,7 +3054,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 69",
               "laymanExplanation": "You can't always divide a property's basis simply by the number of acres or shares; what each portion was worth may matter.",
               "legalExplanation": "Basis allocation attributes part of total investment cost to the assets or rights disposed of. On a $1,000 land purchase with originally valued wooded acres at $450 and remaining acres $550, selling wooded acres for $700 gives $250 gain. Do not use raw acreage if one portion is materially more valuable per acre.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-case-inaja",
@@ -3002,7 +3076,8 @@
               "laymanExplanation": "A landowner was paid for damage and easement rights. The court allowed the payment to reduce property basis because nobody could reasonably assign a precise cost to the rights surrendered.",
               "examTrap": "Inaja is a limited exception to normal partial-sale basis allocation, not blanket exclusion for every easement or settlement.",
               "citation": "9 T.C. 727 (1947)",
-              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)"
+              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d07",
@@ -3022,7 +3097,8 @@
                 "url": "https://uscode.house.gov/us/usc/t26/s165/"
               },
               "laymanExplanation": "For tax year 2026, the book's old rule for gambling losses changed: even if you lose as much as you win, you may not be able to deduct all of the losses.",
-              "legalExplanation": "Current-law annotation: for 2026 tax years, §165(d) as amended limits gambling loss deductions to 90% of qualifying losses, no greater than winnings; other itemization and tax rules may apply. The printed casebook gives the pre-2026 'up to winnings' rule and explains session netting. Keep the 2026 amendment clearly identified as later law."
+              "legalExplanation": "Current-law annotation: for 2026 tax years, §165(d) as amended limits gambling loss deductions to 90% of qualifying losses, no greater than winnings; other itemization and tax rules may apply. The printed casebook gives the pre-2026 'up to winnings' rule and explains session netting. Keep the 2026 amendment clearly identified as later law.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d08",
@@ -3034,7 +3110,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 72",
               "laymanExplanation": "Some losses can only be used against gains of the same kind. Picture separate baskets for different categories of tax items.",
               "legalExplanation": "A 'basket' rule limits deductions or losses to income from a defined category. The reading contrasts gambling losses under §165(d), capital losses under §1211, passive activity losses under §469, hobby limits under §183, and investment-interest limitations under §163(d). Each basket has its own mechanics.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d09",
@@ -3046,7 +3123,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 72",
               "laymanExplanation": "A gambling session means a defined period of betting. The way wins and losses are grouped can affect tax calculations.",
               "legalExplanation": "The text describes how gambling gains and losses may be accounted for by session and tax year, rather than treating every single wager in isolation. The correct tax consequences also depend on gambler status, deduction rules and tax year; do not assume gross wins are always offset by all gross losses.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-case-clark",
@@ -3073,7 +3151,8 @@
               "laymanExplanation": "An accountant's mistake caused a taxpayer to pay more tax than legally necessary. The accountant paid him back. The court treated that reimbursement as making him whole, not extra income.",
               "examTrap": "Clark's old 'derived from capital or labor' justification is no longer governing law. Do not classify all accountant-malpractice settlements as excluded.",
               "citation": "40 B.T.A. 333 (1939)",
-              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)"
+              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d10",
@@ -3085,7 +3164,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 75",
               "laymanExplanation": "If you lose $100 and later get that same $100 back, you may simply be recovering what you lost rather than making a new profit. The exact tax result depends on earlier deductions and the type of loss.",
               "legalExplanation": "When a payment restores a prior loss, analyze whether it is genuinely replacing lost capital or taxable earnings, whether an original basis existed, and whether a past deduction yielded a tax benefit. Clark applies narrowly to an unnecessary tax payment caused by erroneous tax-filing advice.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d11",
@@ -3097,7 +3177,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 77",
               "laymanExplanation": "If a loss reduced your taxes last year and you later get that money back, the recovery may have to be included in income to undo the earlier tax advantage.",
               "legalExplanation": "The tax benefit doctrine generally requires attention to whether an earlier deduction reduced tax and whether recovery in a later year is inconsistent with the circumstances supporting that deduction. The p.77 lost-envelope hypothetical is a preview; full doctrinal development appears later in the course.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-d12",
@@ -3109,7 +3190,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 76",
               "legalExplanation": "Clark's note compares an overpayer who received compensation (Akira), a similarly situated unreimbursed overpayer (Benito), and a taxpayer who was correctly advised (Cora). Whether the recovery is excluded depends on the choice of baseline. This is normative analysis, not a simple mechanical statutory rule.",
               "examTrap": "",
-              "laymanExplanation": "If an accountant repays someone who overpaid taxes, that person is now better off than someone whose accountant never repays them—but only as well off as someone whose taxes were done correctly in the first place."
+              "laymanExplanation": "If an accountant repays someone who overpaid taxes, that person is now better off than someone whose accountant never repays them—but only as well off as someone whose taxes were done correctly in the first place.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax-supp-mckenney-actual-tax",
@@ -3122,7 +3204,9 @@
               "page": "Appellate brief pp. 21–24",
               "source": "Assigned 'McKenny brief handout (1).pdf', five pages: government's redacted opening brief, Eleventh Circuit No. 18-10810, filed Sept. 6, 2018 (original appellate-brief pp. 21–24). This is government advocacy, not a judicial opinion.",
               "sourceRole": "Definition and exam distinction derived from the government's assigned brief, not an attributed court holding.",
-              "laymanExplanation": "There is a difference between paying too much tax by mistake and paying the correct tax on a deal that turned out to be a bad tax-saving idea."
+              "laymanExplanation": "There is a difference between paying too much tax by mistake and paying the correct tax on a deal that turned out to be a bad tax-saving idea.",
+              "studyWeek": "Week 3",
+              "sourceWeek": "Week 3 — separately assigned McKenney government brief"
             },
             {
               "id": "tax-supp-mckenney-thirdparty",
@@ -3135,7 +3219,9 @@
               "page": "Appellate brief p. 22",
               "source": "Assigned 'McKenny brief handout (1).pdf', five pages: government's redacted opening brief, Eleventh Circuit No. 18-10810, filed Sept. 6, 2018 (original appellate-brief pp. 21–24). This is government advocacy, not a judicial opinion.",
               "sourceRole": "Legal principle cited in the government's assigned brief; the case opinion is not reproduced in the handout.",
-              "laymanExplanation": "If your employer or another person pays a tax bill you actually owe for you, that can be the same as receiving money to pay it yourself."
+              "laymanExplanation": "If your employer or another person pays a tax bill you actually owe for you, that can be the same as receiving money to pay it yourself.",
+              "studyWeek": "Week 3",
+              "sourceWeek": "Week 3 — separately assigned McKenney government brief"
             },
             {
               "id": "tax-supp-mckenney-brief",
@@ -3155,7 +3241,9 @@
                 "authority": "McKenney v. United States, No. 18-10810 (11th Cir. Sept. 1, 2020)",
                 "url": "https://law.justia.com/cases/federal/appellate-courts/ca11/18-10810/18-10810-2020-09-01.html"
               },
-              "laymanExplanation": "This is the government's side of an argument in an appeal. It is not the judge's decision. The government says that getting reimbursed for taxes someone truly owed is different from getting back taxes paid unnecessarily."
+              "laymanExplanation": "This is the government's side of an argument in an appeal. It is not the judge's decision. The government says that getting reimbursed for taxes someone truly owed is different from getting back taxes paid unnecessarily.",
+              "studyWeek": "Week 3",
+              "sourceWeek": "Week 3 — separately assigned McKenney government brief"
             },
             {
               "id": "tax2-new-capital-recovery",
@@ -3167,7 +3255,8 @@
               "details": "The general recovery-of-capital principle distinguishes return of one's tax investment from income earned on it. Under gain computations, amount realized is reduced by allocated/adjusted basis, with separate treatment for dividends, rents, interest and other returns.",
               "page": "68–69",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 68–69; Week 3 syllabus-assigned.",
-              "sourceRole": "Week 3 — assigned textbook Chapter 2"
+              "sourceRole": "Week 3 — assigned textbook Chapter 2",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-new-gambling-2022",
@@ -3179,7 +3268,8 @@
               "details": "The reading (pp. 71–73) discusses gambling sessions, itemized wagering-loss deduction and category-specific limitations under the then-prevailing §165(d). This is historical textbook analysis. Current-law notes separately explain the subsequent 2026 90% limitation. Do not silently rewrite the book's historical statement.",
               "page": "71–73",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 71–73; Week 3 syllabus-assigned.",
-              "sourceRole": "Week 3 — assigned textbook Chapter 2"
+              "sourceRole": "Week 3 — assigned textbook Chapter 2",
+              "studyWeek": "Week 3"
             }
           ],
           "studyWeek": "Week 3",
@@ -3202,7 +3292,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78",
               "laymanExplanation": "If a business gets money to replace profits it missed out on, the payment is generally treated much like the profits would have been.",
               "legalExplanation": "Damages replacing taxable business profits are generally income just as the underlying lost earnings would have been. The reading treats the recovery when received as income and distinguishes it from compensation for destruction of an asset with recoverable basis.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-e02",
@@ -3214,7 +3305,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78",
               "laymanExplanation": "If a destroyed building had $600,000 of tax basis and you receive $700,000 for it, the extra $100,000 can be gain, unless another rule postpones recognizing it.",
               "legalExplanation": "Damages for damaged or destroyed business property can be a capital recovery; measure any gain by amount recovered minus applicable adjusted basis. The source's building example: $700,000 received for an asset with $600,000 basis creates potential $100,000 realized gain, before testing §1033 deferral.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-e03",
@@ -3226,7 +3318,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 78",
               "laymanExplanation": "When qualifying property is destroyed or taken and you use the proceeds to buy suitable replacement property, tax law may let you delay reporting the gain.",
               "legalExplanation": "Section 1033 provides nonrecognition rules for certain involuntary conversions of business/investment property into money when statutorily qualifying replacement property is obtained within the relevant time and conditions. The text illustrates replacement of a destroyed building; do not assume merely receiving insurance is automatically exempt.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-e04",
@@ -3238,7 +3331,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79",
               "examTrap": "Nonphysical injury, reputational harm, or ordinary emotional distress does not by itself satisfy §104(a)(2). Punitive damages remain taxable.",
               "laymanExplanation": "Money received as damages because of a physical injury or physical sickness can be tax-free, but punitive damages and many purely emotional-distress awards are different.",
-              "legalExplanation": "Section 104(a)(2) excludes qualifying damages received on account of personal physical injuries or physical sickness, other than punitive damages. The 1996 change restricted the exclusion and raised the question of nonphysical distress. Murphy II and Perez teach that the causal nature and legal source of payment matter more than whether a person suffered distress or pain."
+              "legalExplanation": "Section 104(a)(2) excludes qualifying damages received on account of personal physical injuries or physical sickness, other than punitive damages. The 1996 change restricted the exclusion and raised the question of nonphysical distress. Murphy II and Perez teach that the causal nature and legal source of payment matter more than whether a person suffered distress or pain.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-e05",
@@ -3250,7 +3344,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79",
               "laymanExplanation": "Compensatory damages aim to repay a loss. Punitive damages are an additional amount meant to punish the wrongdoer.",
               "legalExplanation": "Compensatory damages restore or substitute for a specified loss, such as lost profits or personal injury; punitive damages add punishment/deterrence beyond compensation. Taxation depends on what is replaced and statutory exclusions; Glenshaw Glass includes punitive amounts absent exclusion, and §104(a)(2) expressly carves punitive amounts out.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-e06",
@@ -3262,7 +3357,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79",
               "laymanExplanation": "To classify lawsuit money for tax purposes, ask: 'What was this payment really for?' Lost wages, damaged property, and physical injury can have different tax outcomes.",
               "legalExplanation": "The 'origin of the claim' looks at the actual right, injury or event for which damages were paid to classify tax consequences. A payment replacing wages or business profits, property value, physical pain and suffering, and reputational damage can be governed by different inclusion and basis rules.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-case-murphy",
@@ -3283,7 +3379,8 @@
               "laymanExplanation": "A whistleblower received damages for emotional harm and damage to reputation, not physical injury. The appeals court ruled the money was taxable and that Congress could tax it.",
               "examTrap": "Emotional distress is not automatically a qualifying 'physical injury' solely because it causes bodily symptoms; analyze the precise statutory/regulatory conditions.",
               "citation": "493 F.3d 170 (D.C. Cir. 2007)",
-              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)"
+              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-e07",
@@ -3295,7 +3392,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 85",
               "laymanExplanation": "For some taxes, the Constitution requires each state's tax share to follow its population. Federal income taxes have an important constitutional exception.",
               "legalExplanation": "Article I requires certain direct taxes to be apportioned among states by population, while the Sixteenth Amendment removes apportionment for taxes on incomes. Murphy II distinguished a direct tax on owned property from an excise on a transaction or activity and sustained the tax on its damages award.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-e08",
@@ -3307,7 +3405,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 85",
               "laymanExplanation": "Congress has broad power to tax, but constitutional limits can affect particular taxes. The classification of the tax matters.",
               "legalExplanation": "Congress has broad powers under Article I to impose income, excise and other taxes, subject to constitutional limitations. Murphy II reasoned the specific tax on receipt of nonphysical-injury damages was a constitutionally permissible excise, even when the taxpayer argued the amount was not income within the Sixteenth Amendment's meaning.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-case-perez",
@@ -3328,7 +3427,8 @@
               "laymanExplanation": "A woman was paid to go through an egg-retrieval process. The court said this was payment under a voluntary contract, not tax-free injury damages.",
               "examTrap": "Pain alone does not show damages; identify the legal source and character of the payment.",
               "citation": "144 T.C. 51 (2015)",
-              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)"
+              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-e09",
@@ -3340,7 +3440,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 94",
               "laymanExplanation": "A structured settlement pays lawsuit compensation over time instead of in a single check.",
               "legalExplanation": "A structured settlement spreads payments for an injury claim across time, often funded through an annuity or obligation of an assignee. The timing and character of the recovery, and the claimant's rights to immediate cash, affect tax analysis. The book focuses on qualifying physical-injury payments under §104(a)(2).",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-e10",
@@ -3352,7 +3453,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 94",
               "laymanExplanation": "Qualifying physical-injury compensation may remain excluded even when paid in installments, subject to the applicable rules.",
               "legalExplanation": "A qualifying personal physical-injury recovery can be excludable under §104(a)(2) whether received all at once or in periodic payments, assuming the statutory conditions are satisfied. The source contrasts immediate lump-sum funds invested by the claimant with fixed structured payments administered through a settlement vehicle.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-e11",
@@ -3364,7 +3466,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 79",
               "legalExplanation": "The book contrasts compensatory recovery for physical injury with nonphysical harm. If an award restores a person's situation after an accident, an exclusion might seem fair, but comparison against someone equally injured without an award can suggest the opposite. This is policy rationale, not a substitute for §104's text.",
               "examTrap": "",
-              "laymanExplanation": "Should injury compensation be tax-free because it only repairs what you lost? The book compares someone who is paid damages with someone who suffers the same injury but gets nothing."
+              "laymanExplanation": "Should injury compensation be tax-free because it only repairs what you lost? The book compares someone who is paid damages with someone who suffers the same injury but gets nothing.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-new-personal-damages-rule",
@@ -3377,7 +3480,8 @@
               "page": "78–94",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 78–94; Week 3 syllabus-assigned.",
               "sourceRole": "Week 3 — assigned textbook Chapter 2",
-              "examTrap": "The word 'injury' by itself isn't enough; determine whether the source of the payment is a qualifying physical injury or sickness."
+              "examTrap": "The word 'injury' by itself isn't enough; determine whether the source of the payment is a qualifying physical injury or sickness.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-new-tortdamages",
@@ -3389,7 +3493,8 @@
               "details": "The text analyzes compensation for lost business profits, harm to property, physical personal injury, emotional distress, reputational harm and voluntary contractual bodily services. Their tax treatments differ because the origin and reason for payment differ.",
               "page": "79–94",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 79–94; Week 3 syllabus-assigned.",
-              "sourceRole": "Week 3 — assigned textbook Chapter 2"
+              "sourceRole": "Week 3 — assigned textbook Chapter 2",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-new-structured",
@@ -3401,7 +3506,8 @@
               "details": "The reading describes structured settlements as periodic damage payments with favorable treatment under §104(a)(2) for qualifying physical injury or sickness. Contractual control, the purchaser or assignee's role, and payment design can affect tax consequences. Distinguish this from taxable investment income earned after an unrestricted lump-sum payment.",
               "page": "94–95",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 94–95; Week 3 syllabus-assigned.",
-              "sourceRole": "Week 3 — assigned textbook Chapter 2"
+              "sourceRole": "Week 3 — assigned textbook Chapter 2",
+              "studyWeek": "Week 3"
             }
           ],
           "studyWeek": "Week 3",
@@ -3424,7 +3530,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 96",
               "examTrap": "Illegal character of income does not remove it from §61.",
               "laymanExplanation": "You don't get an income-tax exemption because the money came from something illegal. Stolen or embezzled money can be taxable.",
-              "legalExplanation": "Illegal gain is not outside §61 solely because obtaining it was unlawful. James v. United States is cited for treating embezzlement proceeds as income when the recipient acquires funds without consensual repayment obligation or meaningful restrictions. The later possibility of restitution does not itself erase current inclusion."
+              "legalExplanation": "Illegal gain is not outside §61 solely because obtaining it was unlawful. James v. United States is cited for treating embezzlement proceeds as income when the recipient acquires funds without consensual repayment obligation or meaningful restrictions. The later possibility of restitution does not itself erase current inclusion.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-f02",
@@ -3436,7 +3543,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97",
               "laymanExplanation": "If you receive money and can use it as your own without accepting a genuine duty to return it, tax law may treat you as having income right now.",
               "legalExplanation": "Under the claim-of-right principle, receipt of money under a claim of free use and without consensual acknowledgment of a repayment obligation may count as current income even when the taxpayer might later have to restore it. Compare genuine borrowing with theft or embezzlement.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-f03",
@@ -3448,7 +3556,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97",
               "laymanExplanation": "Borrowing money usually isn't income because you have a real obligation to pay it back. An empty promise to repay may not be enough.",
               "legalExplanation": "A loan principal normally does not enrich the borrower because a genuine corresponding liability to repay arises. Gilbert's exceptional result turned on immediate secured obligations, reasonable expectation of repayment, contemporaneous notice and restrictions on use; an after-the-fact promise does not settle taxability.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-case-gilbert",
@@ -3469,7 +3578,8 @@
               "laymanExplanation": "A company executive took money without permission but promptly gave real security and acknowledged repayment. The court treated those unusual facts differently from ordinary embezzlement.",
               "examTrap": "A belated note or subjective promise to repay stolen money is not enough to create Gilbert's exceptional result.",
               "citation": "552 F.2d 478 (2d Cir. 1977)",
-              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)"
+              "sourceRole": "Week 3 assigned judicial opinion (reproduced in textbook)",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-f04",
@@ -3481,7 +3591,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 97",
               "legalExplanation": "James v. United States is mentioned in Gilbert for the rule that embezzled money can constitute income. Wilcox, earlier excluding such receipts because of a duty to restore them, was overruled by James; the chapter's reference cases should remain supporting citations, not dedicated opinion briefs.",
               "examTrap": "",
-              "laymanExplanation": "The law generally taxes money stolen or embezzled, even if the thief has to repay it later. This cited Supreme Court case helps explain that point."
+              "laymanExplanation": "The law generally taxes money stolen or embezzled, even if the thief has to repay it later. This cited Supreme Court case helps explain that point.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-new-james-support",
@@ -3493,7 +3604,8 @@
               "details": "The book notes that James v. United States, 366 U.S. 213 (1961), displaced Commissioner v. Wilcox, 327 U.S. 404 (1946), which had excluded embezzled money based on an obligation to restore it. Gilbert distinguishes certain secured withdrawals from typical embezzlement. No extra case briefs should be generated for James or Wilcox.",
               "page": "98–100",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 98–100; Week 3 syllabus-assigned.",
-              "sourceRole": "Week 3 — assigned textbook Chapter 2"
+              "sourceRole": "Week 3 — assigned textbook Chapter 2",
+              "studyWeek": "Week 3"
             }
           ],
           "studyWeek": "Week 3",
@@ -3517,7 +3629,8 @@
               "elements": "Ownership and principal residence use: generally 2 of the 5 years before sale. Standard cap: $250,000; qualifying MFJ cap: $500,000.",
               "examTrap": "A vacation property does not qualify merely because it is owned for two years; the principal-residence use requirement matters.",
               "laymanExplanation": "When you sell your main home, the law may let you leave a large portion of the profit out of income tax if you meet ownership and living-in-the-home requirements.",
-              "legalExplanation": "Section 121(a) generally requires both ownership and use of a home as a principal residence for periods totaling at least 2 years during the 5 years before sale. The ordinary gain exclusion is capped at $250,000 for qualifying individual filers. Analyze whether the use and ownership tests were met and whether other special rules apply."
+              "legalExplanation": "Section 121(a) generally requires both ownership and use of a home as a principal residence for periods totaling at least 2 years during the 5 years before sale. The ordinary gain exclusion is capped at $250,000 for qualifying individual filers. Analyze whether the use and ownership tests were met and whether other special rules apply.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-g02",
@@ -3529,7 +3642,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 101",
               "laymanExplanation": "A married couple filing jointly may qualify for a higher home-sale exclusion, but they must satisfy extra conditions.",
               "legalExplanation": "Section 121(b)(2) allows up to $500,000 exclusion for qualifying married joint filers, generally requiring that either spouse meet ownership conditions and both meet use requirements plus other conditions. The source separately mentions surviving-spouse treatment under §121(b)(4).",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-g03",
@@ -3541,7 +3655,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 101",
               "laymanExplanation": "You generally cannot use the full main-home sale exclusion every year. The law usually requires a two-year gap, with some exceptions.",
               "legalExplanation": "Section 121 generally prevents an eligible taxpayer from using the full exclusion for another residence sale within the preceding 2 years. Section 121(c) can allow a reduced exclusion for certain moves involving work, health or unforeseen circumstances. Calculate the appropriate tax-year cap and exceptions.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-g04",
@@ -3553,7 +3668,8 @@
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, p. 100",
               "laymanExplanation": "Your principal residence is the place that actually functions as your main home, not just any house you own.",
               "legalExplanation": "Principal residence means the property used as the taxpayer's main home, not merely any owned property, for purposes of §121. Facts about actual residence and occupancy matter, and vacation or investment properties do not qualify just because they appreciate.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-g05",
@@ -3566,7 +3682,8 @@
               "examApplication": "Compute realized gain first, then determine §121 eligibility and exclusion limit.",
               "laymanExplanation": "First calculate profit from selling your home. Then subtract the part the law lets you exclude. The remaining amount may be taxable.",
               "legalExplanation": "For an eligible principal-residence sale, first calculate realized gain as amount realized less adjusted basis, then subtract the exclusion allowed under §121, keeping taxable gain no lower than zero. Book example: sale $400,000, basis $100,000 → $300,000 realized gain; single-filer $250,000 exclusion → $50,000 taxable.",
-              "examTrap": ""
+              "examTrap": "",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-g06",
@@ -3583,7 +3700,8 @@
                 "authority": "Taxpayer Relief Act of 1997; IRC §121"
               },
               "legalExplanation": "Before 1997, a repealed §1034 rollover rule and older one-time §121 exclusion treated qualifying home sales differently. The current regime derives from Congress's 1997 redesign; these are purely historical notes, not controlling exam computations.",
-              "laymanExplanation": "There used to be different rules for selling your house. The old system was repealed and replaced in 1997, so it is background rather than an exam rule today."
+              "laymanExplanation": "There used to be different rules for selling your house. The old system was repealed and replaced in 1997, so it is background rather than an exam rule today.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-new-121-reduced",
@@ -3596,7 +3714,8 @@
               "page": "101–102",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 101–102; Week 3 syllabus-assigned.",
               "sourceRole": "Week 3 — assigned textbook Chapter 2",
-              "examApplication": "For eligible single filer using a main home one year, the book gives a $125,000 reduced cap (half of $250,000) for a qualifying job transfer, not a generally unrestricted exclusion."
+              "examApplication": "For eligible single filer using a main home one year, the book gives a $125,000 reduced cap (half of $250,000) for a qualifying job transfer, not a generally unrestricted exclusion.",
+              "studyWeek": "Week 3"
             },
             {
               "id": "tax2-new-121-survivor",
@@ -3608,7 +3727,8 @@
               "details": "The source notes §121(b)(4), which permits a qualifying surviving spouse to receive a $500,000 limit for a sale within two years after the spouse's death when requisite ownership/use and other conditions are met.",
               "page": "101",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Chapter 2, textbook pp. 101; Week 3 syllabus-assigned.",
-              "sourceRole": "Week 3 — assigned textbook Chapter 2"
+              "sourceRole": "Week 3 — assigned textbook Chapter 2",
+              "studyWeek": "Week 3"
             }
           ],
           "studyWeek": "Week 3",
@@ -3743,7 +3863,10 @@
               "page": "154",
               "source": "Assigned 'Harris handout (2).pdf', scanned casebook excerpt, Chapter 3: The Private Sphere and the Public Sphere, printed pp. 154–161. Reference pages: 154."
             }
-          ]
+          ],
+          "studyWeek": "Week 3",
+          "assignedPages": "Separately assigned Harris opinion handout (printed pp.111–134)",
+          "assignmentSource": "Week 3 — Harris opinion handout; not an authorization to extract full textbook pp.111–134."
         }
       ],
       "lexContentStandard": {
@@ -3764,13 +3887,14 @@
       "coverage": [
         {
           "course": "tax",
-          "classNumber": 1,
           "syllabusWeek": "Week 1 (Aug. 25 & 27)",
           "assignedPrintedPages": "1–33",
           "source": "User-provided full Chapter 1 text, 2026-11-08, 19th ed.",
           "status": "extracted",
           "sourcePolicy": "Only assigned pp. 1–33; post-publication law updates explicitly separate.",
-          "updated": "2026-11-08"
+          "updated": "2026-11-08",
+          "studyWeek": "Week 1",
+          "scope": "Week 1 Chapter 1, pp.1–33"
         },
         {
           "studyWeek": "Week 2",
