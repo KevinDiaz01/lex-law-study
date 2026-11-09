@@ -106,3 +106,10 @@ Use two layers for **every complex or unfamiliar exam-relevant doctrine**, while
 - A full chapter upload can contain more pages than assigned. In the 2026-11-08 Chapter 2 text, content beyond assigned p.102 is outside the import scope.
 
 Both Week 2 and Week 3 use the same Chapter 2 textbook file, and printed p.68 overlaps. Deduplicate that overlap rather than importing twice. All separately researched legal developments (for example amended 2026 wagering-loss limits) must be clearly marked as **current-law updates**, not as statements from the 2023 casebook.
+
+### Week 7 — Chapter 6 assigned excerpt (2026-11-09)
+
+- Chapter 6 pp.323–340 **only** (Rate structure, Lucas v. Earl, Poe v. Seaborn, Blair v. Commissioner, Helvering v. Horst and assigned Problem 2 on pp.338–339). Four judicial opinions reproduced in full within assigned page range received dedicated case briefs.
+- The first lines of Helvering v. Eubank appear on p.340, but the opinion and Heim v. Fitzpatrick continue on unassigned pp.341 onward: **no full brief or later-page notes** were imported from that material. Likewise, later Chapter 6 filing status/EITC/CTC sections are beyond the assignment and are not extracted.
+- Syllabus Week 7 textbook pp.259–321 and pp.323–340 are now covered. Printed p.322 is not part of the Week 7 assignment. The **separate Tufts certiorari petition handout is still pending**.
+- All Chapter 6 questions remain unsolved, especially five-part **Problem 2 on pp.338–339**. The 2022 single-filer marginal brackets are marked historical and used only to illustrate calculations; additional numerical examples are labeled constructed where the text did not provide numbers. No current 2026 tax bracket has been silently substituted.
