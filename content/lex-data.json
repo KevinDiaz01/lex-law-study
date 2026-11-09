@@ -2872,6 +2872,20 @@
           "book": "The 2023 casebook uses an old 70½ required-distribution age.",
           "current": "Current IRS guidance describes age 73 and age 75 cohorts under SECURE 2.0, plus designated Roth account distinctions; test year of birth and account type.",
           "source": "https://www.irs.gov/irb/2026-06_IRB"
+        },
+        {
+          "title": "Student loan CODI exclusion — 2026 §108(f)(5) amendment",
+          "topicId": "tax-ch5-b-codi",
+          "book": "The assigned 2023 textbook describes a broad §108(f)(5) student-loan discharge income exclusion applicable in tax years 2021–2025.",
+          "current": "P.L.119-21 amended §108(f)(5) for post-2025 discharges to specified death/total and permanent disability cases, including an SSN-on-return condition; service-based exceptions elsewhere in §108(f) may still apply. Do not apply 2021–25 broad rule to ordinary 2026 income-driven forgiveness.",
+          "source": "https://www.law.cornell.edu/uscode/text/26/108"
+        },
+        {
+          "title": "Qualified principal-residence mortgage CODI exclusion — 2026 date",
+          "topicId": "tax-ch5-b-codi",
+          "book": "The casebook states that certain qualified principal-residence loan discharges could qualify for §108 exclusion through 2025.",
+          "current": "§108(a)(1)(E) generally requires discharge before Jan.1,2026 or a written arrangement entered into before that date; §108(h) imposes substantive limitations and basis reduction.",
+          "source": "https://www.law.cornell.edu/uscode/text/26/108"
         }
       ],
       "topics": [
@@ -7918,7 +7932,7 @@
               "title": "Student-loan discharge — §108(f), distinguish tax years",
               "summary": "Specific qualifying student-loan forgiveness may be excluded; the broad 2021–2025 temporary exclusion did not continue unchanged into 2026.",
               "laymanExplanation": "Some student-loan forgiveness is tax-free, but the reason and year of cancellation matter.",
-              "legalExplanation": "The 2023 textbook describes §108(f)(2) service conditions and an additional broadly applicable exclusion only for 2021–2025 under the then-current law. CURRENT LAW: Pub. L. 119-21 amended §108(f)(5) for discharges after 2025 to specified death/total permanent disability categories. Other §108(f) exclusions and applicable state tax rules must be examined separately.",
+              "legalExplanation": "The 2023 textbook describes §108(f)(2) service conditions and an additional broadly applicable exclusion only for 2021–2025 under the then-current law. CURRENT LAW: Pub. L. 119-21 amended §108(f)(5) for discharges after 2025 to specified death/total permanent disability categories. Other §108(f) exclusions and applicable state tax rules must be examined separately. CURRENT LAW detail: §108(f)(5)(C) imposes an SSN-on-return condition for the specified post-2025 death/total-permanent-disability exclusion. Do not confuse the broader 2021–2025 tax rule with 2026 IDR forgiveness.",
               "details": "The 2023 textbook describes §108(f)(2) service conditions and an additional broadly applicable exclusion only for 2021–2025 under the then-current law. CURRENT LAW: Pub. L. 119-21 amended §108(f)(5) for discharges after 2025 to specified death/total permanent disability categories. Other §108(f) exclusions and applicable state tax rules must be examined separately.",
               "page": "265",
               "studyWeek": "Week 7",
@@ -7927,7 +7941,7 @@
               "legalWarning": {
                 "status": "superseded",
                 "label": "2026 STUDENT-LOAN LAW",
-                "reason": "The textbook's broad 2021–2025 discharge exclusion is historical. P.L.119-21 amended §108(f)(5) for discharges after Dec.31,2025, returning to specified death/total-permanent-disability treatment; other §108(f) relief may remain.",
+                "reason": "The textbook's broad 2021–2025 discharge exclusion is historical. P.L.119-21 amended §108(f)(5) for discharges after Dec.31,2025, returning to specified death/total-permanent-disability treatment; other §108(f) relief may remain. The newer death/disability exception has statutory SSN-on-return requirements.",
                 "authority": "26 U.S.C. §108(f)(5); Pub. L.119-21 §70119",
                 "url": "https://www.law.cornell.edu/uscode/text/26/108"
               }
@@ -8215,7 +8229,8 @@
           "studyWeek": "Week 7",
           "assignedPages": "275–290",
           "description": "Debt basis, nonrecourse obligations, amount realized, depreciation, Tufts opinion.",
-          "assignmentSource": "Tax Week 7 syllabus assigned pp259–321; Tufts cert-petition separate handout not provided"
+          "assignmentSource": "Tax Week 7 syllabus assigned pp259–321; Tufts cert-petition separate handout not provided",
+          "coverageWarning": "The assigned Tufts certiorari-petition handout is separate from the reproduced Tufts Supreme Court opinion in pp.282–288; that handout has not been provided."
         },
         {
           "id": "tax-ch5-c-special",
@@ -8978,7 +8993,8 @@
           "studyWeek": "Week 7",
           "assignedPages": "318–321",
           "description": "Short-against-box, hedges, collars, statutory deemed realization and open questions.",
-          "assignmentSource": "Week 7 assigned 19th-ed casebook pp259–321; remaining pp323–340 not yet supplied"
+          "assignmentSource": "Week 7 assigned 19th-ed casebook pp259–321; remaining pp323–340 not yet supplied",
+          "coverageWarning": "Week 7 continues with assigned textbook pp.323–340, including Problem 2 on pp.338–339. Those pages are not in this uploaded excerpt; they have not been imported."
         }
       ],
       "lexContentStandard": {
@@ -9060,6 +9076,18 @@
           "source": "Pasted text(20261108-232824).txt (printed Chapter 4 pp155–257)",
           "status": "textbook complete; stock-option handout pending",
           "updated": "2026-11-08"
+        },
+        {
+          "studyWeek": "Week 7",
+          "syllabusWeek": "Week 7 (Oct. 6 & 8, 2026)",
+          "assignedPrintedPages": "259–290; 290–321; 323–340; Problem 2 pp.338–339",
+          "extractedPages": "Chapter 5 pp.259–321 inclusive (every printed-page marker present)",
+          "missingPages": "Textbook pp.323–340, including Problem 2 pp.338–339",
+          "pendingHandouts": "Tufts certiorari petition handout (not in uploaded CaseBook Connect export)",
+          "source": "Pasted text(20261109-222500).txt, Federal Income Taxation 19th ed., Chapter 5",
+          "scope": "Debt and income; life insurance; annuities; income splitting; §1259 (provided pages only)",
+          "status": "partial — uploaded pp259–321 complete; remainder of Week 7 pending",
+          "updated": "2026-11-09"
         }
       ]
     },
