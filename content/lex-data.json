@@ -16203,7 +16203,7 @@
               "sourceRole": "Syllabus assigned user-provided textbook excerpt"
             },
             {
-              "id": "tax10-subsidy",
+              "id": "tax10-charity-subsidy",
               "type": "concept",
               "title": "Charitable tax expenditure and donor control",
               "summary": "A charity deduction subsidizes organizations chosen by private donors instead of public budgeting.",
@@ -16817,7 +16817,7 @@
               "sourceRole": "Syllabus assigned textbook pages"
             },
             {
-              "id": "tax10-ability",
+              "id": "tax10-salt-ability",
               "type": "concept",
               "title": "SALT ability-to-pay versus subsidy rationales",
               "summary": "Deduction may reflect involuntary taxes or subsidize state services; opponents note local benefits and uneven distribution.",
