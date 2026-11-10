@@ -121,3 +121,13 @@ Both Week 2 and Week 3 use the same Chapter 2 textbook file, and printed p.68 ov
 - Week 9 assigned pp.394–433, Problems 2–4 p.433, pp.433–457 and separate home-office/vacation-home problem set. Only pp.394–412 extracted; pp.413–457, p.433 problems and handout NOT extracted.
 - Reproduced Revenue Ruling 2004-18 classified as administrative guidance, not a case; INDOPCO mentioned in text but no reproduced opinion, therefore no case brief. Roof-shingle and Tammy blog prompts remain unsolved in Problem Bank.
 - Current-law notes distinguish textbook's 2022–24 domestic R&D amortization from new §174A treatment beginning in 2025, bonus depreciation changes in 2025, and historical thresholds. Any constructed math examples labeled as such.
+
+### Chapter 8 Tax Shelters — Week 9 partial (Nov. 9, 2026)
+
+- Uploaded `Pasted text(20261110-002540).txt` contains sequential printed Chapter 8 pp. **413–443**. Week 9 assigned pp. **413–457**, so pp. **444–457 remain missing**. Chapter 7 pp.394–412 were completed in the prior update; syllabus Problems 2–4 on p.433 are included in this new upload.
+- Dedicated opinion-excerpt briefs: **Gregory v. Helvering** (Second Circuit and Supreme Court assigned passages), **Knetsch v. United States**, and **Winn-Dixie Stores, Inc. v. Commissioner**. **Goldstein** is discussed/cited only, therefore is contextual doctrine and not independently briefed.
+- Chapter 8 outline emphasizes substance over form, §7701(o), original tax-shelter typology, §469 passive activity losses, §163(d) investment interest, §465 at-risk limits, §§264 and 265 interest restrictions, AMT, and advisor standards.
+- All assigned questions remain unsolved; **Problems 2–4 on p.433** retain Stan's two variations, Jamie's four subparts, and Rafael's multi-year nonrecourse restaurant facts. Additional problem 5 also preserved unsolved.
+- Historical/current-law warnings: prior corporate AMT repeal does **not** describe the 15% corporate AMT enacted in 2022 for years beginning after 2022; original Circular 230 §10.35 covered-opinion requirement was replaced by written advice §10.37 in 2014. Historic 2022 individual AMT dollar thresholds flagged.
+- Note math discrepancy within reproduced Knetsch excerpt: '$294,540 paid less $203,000 loans' gives $91,540, but opinion claims $91,570. The separate $4,000 initial payment plus two years' interest totals $294,570, yielding $91,570. Do not silently overwrite the original text.
+- Separate **home-office and vacation-home problem set** remains outstanding; don't invent any questions from it.
