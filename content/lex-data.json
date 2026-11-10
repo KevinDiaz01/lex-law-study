@@ -14675,6 +14675,116 @@
           "description": "Origin of claim determines deductible legal expense rather than potential economic consequences.",
           "assignmentSource": "Fall 2026 Tax syllabus Week 10: Week 9 assigned 433–457; Week 10 assigned 457–484 and 484–500. Source: Pasted text(20261110-003725).txt.",
           "coverageWarning": "The upload reaches Gilmore and notes through printed p.499; printed p.500 was not explicitly verified. Week 10 also assigns separate travel/entertainment and hobby-loss handouts, not supplied here."
+        },
+        {
+          "id": "tax-ch10-overview",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "A. Personal Deductions — Framework",
+          "studyWeek": "Week 11",
+          "assignedPages": "501–503",
+          "description": "Personal versus income-producing spending; itemization, standard deduction and tax-subsidy policy",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 11, Chapter 10 pp.501–503"
+        },
+        {
+          "id": "tax-ch10-casualty",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "B. Casualty and Theft Losses — §165",
+          "studyWeek": "Week 11",
+          "assignedPages": "502–503",
+          "description": "Personal casualty losses, disaster restrictions and historical versus current rules",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 11, Chapter 10 pp.502–503"
+        },
+        {
+          "id": "tax-ch10-medical",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "C. Medical Expense Rules — §213",
+          "studyWeek": "Week 11",
+          "assignedPages": "503–505",
+          "description": "Medical expense 7.5% AGI floor, FSA/HSA, diagnosis/treatment tests, insurance and travel",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 11, Chapter 10 pp.503–505"
+        },
+        {
+          "id": "tax-ch10-medical-cases",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "C. Personal/Medical Border — Taylor and Ochs",
+          "studyWeek": "Week 11",
+          "assignedPages": "505–510",
+          "description": "Distinguish medical treatment from personal and family consumption; two assigned opinions",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 11, Chapter 10 pp.505–510"
+        },
+        {
+          "id": "tax-ch10-medical-borders",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "C. Medical Boundaries, Reproductive Care & PLR",
+          "studyWeek": "Week 11",
+          "assignedPages": "510–516",
+          "description": "Cosmetic procedures, assisted reproduction, PLR 202114001, third-party medical care, and policy",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 11, Chapter 10 pp.510–516"
+        },
+        {
+          "id": "tax-ch10-charity-core",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "D. Charitable Deduction — §170 Mechanics",
+          "studyWeek": "Week 11",
+          "assignedPages": "516–520",
+          "description": "Eligible organizations, AGI ceilings, cash versus appreciated property, equity implications",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 11, Chapter 10 pp.516–520"
+        },
+        {
+          "id": "tax-ch10-charity-benefit",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "D. Charitable Benefits, Valuation and Ottawa Silica",
+          "studyWeek": "Week 11",
+          "assignedPages": "520–527",
+          "description": "Quid pro quo, Ottawa Silica, donors receiving benefits, appraisals, substantiation",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 11, Chapter 10 pp.520–527"
+        },
+        {
+          "id": "tax-ch10-nonprofits",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "D. Tax-Exempt Entities and Bob Jones University",
+          "studyWeek": "Week 11",
+          "assignedPages": "527–539",
+          "description": "501(c)(3), private foundations, UBIT, public policy, private inurement",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 11, Chapter 10 pp.527–539"
+        },
+        {
+          "id": "tax-ch10-interest",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "E. Personal Interest, Mortgage Debt and Tracing",
+          "studyWeek": "Week 12",
+          "assignedPages": "539–543",
+          "description": "§163(h) qualified residence debt, tracing, policy and student loan interest",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 12, Chapter 10 pp.539–543"
+        },
+        {
+          "id": "tax-ch10-salt",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "F. State and Local Taxes — §164",
+          "studyWeek": "Week 12",
+          "assignedPages": "543–545",
+          "description": "SALT income/sales/property deductions, caps, pass-through workarounds and subsidies",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 12, Chapter 10 pp.543–545"
+        },
+        {
+          "id": "tax-ch10-exemptions",
+          "chapterGroup": "tax-ch10",
+          "entries": [],
+          "title": "G. Personal Exemptions and Dependents",
+          "studyWeek": "Week 12",
+          "assignedPages": "545–546",
+          "description": "§151 personal exemption history, zero exemption in 2026, §152 dependents",
+          "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 12, Chapter 10 pp.545–546"
         }
       ],
       "lexContentStandard": {
@@ -14802,6 +14912,30 @@
           "scope": "Childcare, education, commuting, travel, meals, §274, legal fees; commuting Problems 7–9 on p.484 unsolved; Gilmore Notes and Questions through p.500.",
           "status": "assigned textbook complete; separate travel/entertainment and hobby loss handouts pending",
           "source": "Pasted text(20261110-010011).txt (Chapter 9 printed pp.445–500; first confirmed p.500 in this branch)"
+        },
+        {
+          "studyWeek": "Week 11",
+          "syllabusWeek": "Week 11 (Nov. 3 & 5)",
+          "assignedPrintedPages": "501–503; Casualty loss handout; 503–539",
+          "extractedPages": "Chapter 10 pp.501–539 (source continues through p546)",
+          "missingPages": "None of assigned Chapter 10 textbook pages pp501–539",
+          "pendingHandouts": "Casualty loss handout (separate, not provided)",
+          "scope": "Personal/itemized deductions; casualty, medical, charitable donations, public-policy limits and nonprofit exemption",
+          "source": "User pasted Federal Income Taxation 19th ed., Chapter 10 pp.501–546",
+          "status": "assigned textbook complete; separate casualty loss handout pending",
+          "updated": "2026-11-09"
+        },
+        {
+          "studyWeek": "Week 12",
+          "syllabusWeek": "Week 12 (Nov. 10 & 12)",
+          "assignedPrintedPages": "539–546; 547–574",
+          "extractedPages": "Chapter 10 pp.539–546 only",
+          "missingPages": "Syllabus pp.547–574 (next chapter) not yet supplied in this batch",
+          "pendingHandouts": "None identified for Week 12 in syllabus",
+          "scope": "Personal mortgage and consumer interest deductions, SALT, personal exemptions; next capital gains readings pending",
+          "source": "User pasted Federal Income Taxation 19th ed., Chapter 10 pp.501–546",
+          "status": "partial — Chapter 10 complete, pp547–574 pending",
+          "updated": "2026-11-09"
         }
       ]
     },
