@@ -16893,6 +16893,86 @@
           "assignedPages": "545–546",
           "description": "§151 personal exemption history, zero exemption in 2026, §152 dependents",
           "assignmentSource": "Fall 2026 Federal Income Taxation syllabus: Week 12, Chapter 10 pp.545–546"
+        },
+        {
+          "id": "tax-ch11-framework",
+          "chapterGroup": "tax-ch11",
+          "entries": [],
+          "title": "A. Capital Gains & Losses — Framework",
+          "studyWeek": "Week 12",
+          "assignedPages": "547–550",
+          "description": "§1222 short/long netting; §1(h) preferential rates; §1211(b) $3,000 net loss; Schedule D",
+          "assignmentSource": "Fall 2026 Federal Income Taxation Week 12: Chapter 11 pp.547–574"
+        },
+        {
+          "id": "tax-ch11-capital-asset",
+          "chapterGroup": "tax-ch11",
+          "entries": [],
+          "title": "B. What Counts as a Capital Asset?",
+          "studyWeek": "Week 12",
+          "assignedPages": "550–551",
+          "description": "§1221 inclusion/exclusions, §1231 business property, §1244, §166, musical works",
+          "assignmentSource": "Fall 2026 Federal Income Taxation Week 12: Chapter 11 pp.547–574"
+        },
+        {
+          "id": "tax-ch11-policy",
+          "chapterGroup": "tax-ch11",
+          "entries": [],
+          "title": "C. Why Favor Capital Gains and Limit Losses?",
+          "studyWeek": "Week 12",
+          "assignedPages": "551–554",
+          "description": "Bunching, lock-in, inflation, incentives, corporate double-tax and loss-harvesting policy",
+          "assignmentSource": "Fall 2026 Federal Income Taxation Week 12: Chapter 11 pp.547–574"
+        },
+        {
+          "id": "tax-ch11-dealer",
+          "chapterGroup": "tax-ch11",
+          "entries": [],
+          "title": "D.1. Sale to Customers — Trader vs. Dealer",
+          "studyWeek": "Week 12",
+          "assignedPages": "554–558",
+          "description": "Bielfeldt, §1221(a)(1), customers, §475(f) mark-to-market, dealer investment",
+          "assignmentSource": "Fall 2026 Federal Income Taxation Week 12: Chapter 11 pp.547–574"
+        },
+        {
+          "id": "tax-ch11-realty",
+          "chapterGroup": "tax-ch11",
+          "entries": [],
+          "title": "D.2. Primarily for Sale — Real Estate",
+          "studyWeek": "Week 12",
+          "assignedPages": "558–565",
+          "description": "Biedenharn multi-factor analysis, Malat primarily test, involuntary change in holding intent, Byram",
+          "assignmentSource": "Fall 2026 Federal Income Taxation Week 12: Chapter 11 pp.547–574"
+        },
+        {
+          "id": "tax-ch11-hedging",
+          "chapterGroup": "tax-ch11",
+          "entries": [],
+          "title": "E. Business Hedging — Corn Products",
+          "studyWeek": "Week 12",
+          "assignedPages": "565–570",
+          "description": "Corn futures as price-risk hedge; normal business gains/losses and basic futures mathematics",
+          "assignmentSource": "Fall 2026 Federal Income Taxation Week 12: Chapter 11 pp.547–574"
+        },
+        {
+          "id": "tax-ch11-motive",
+          "chapterGroup": "tax-ch11",
+          "entries": [],
+          "title": "E. Business Motive — Arkansas Best",
+          "studyWeek": "Week 12",
+          "assignedPages": "570–574",
+          "description": "Broad capital-asset definition, statutory exceptions, Corn Products limitation, regulations for hedges",
+          "assignmentSource": "Fall 2026 Federal Income Taxation Week 12: Chapter 11 pp.547–574"
+        },
+        {
+          "id": "tax-ch11-transition",
+          "chapterGroup": "tax-ch11",
+          "entries": [],
+          "title": "F. Ordinary Income Substitution — Introduction Only",
+          "studyWeek": "Week 12",
+          "assignedPages": "574",
+          "description": "Opening only of next section, no case decision or unassigned opinion",
+          "assignmentSource": "Fall 2026 Federal Income Taxation Week 12: Chapter 11 pp.547–574"
         }
       ],
       "lexContentStandard": {
@@ -17036,13 +17116,13 @@
         {
           "studyWeek": "Week 12",
           "syllabusWeek": "Week 12 (Nov. 10 & 12)",
-          "assignedPrintedPages": "539–546; 547–574",
-          "extractedPages": "Chapter 10 pp.539–546 only",
-          "missingPages": "Syllabus pp.547–574 (next chapter) not yet supplied in this batch",
+          "assignedPrintedPages": "539–546 (Chapter 10); 547–574 (Chapter 11)",
+          "extractedPages": "Chapter 10 pp.539–546 plus Chapter 11 pp.547–574 only",
+          "missingPages": "None from Week 12 assigned textbook pages",
           "pendingHandouts": "None identified for Week 12 in syllabus",
-          "scope": "Personal mortgage and consumer interest deductions, SALT, personal exemptions; next capital gains readings pending",
-          "source": "User pasted Federal Income Taxation 19th ed., Chapter 10 pp.501–546",
-          "status": "partial — Chapter 10 complete, pp547–574 pending",
+          "scope": "Personal interest, SALT, exemptions; Chapter 11 net capital gains, loss netting, capital asset, dealer v. trader, real property held for sale, hedging and business-purpose limits",
+          "source": "User pasted Bankman et al. 19th ed. Chapter 10 and Chapter 11 (p547–615 supplied; only p547–574 assigned Week12)",
+          "status": "assigned textbook complete — pending any separately assigned handouts",
           "updated": "2026-11-09"
         }
       ]
