@@ -90,7 +90,11 @@
         {
           "title": "Capital Gains, Filing Status & Earned Income Credit",
           "pages": "547–606; 347–361",
-          "status": "Pending"
+          "status": "Partial",
+          "topicId": "tax-ch11-framework",
+          "coveredPages": "547–574",
+          "remainingPages": "575–606; 347–361",
+          "scopeNote": "Week 12 Chapter11 pp547–574 added. Remaining material stays pending for later syllabus assignments."
         }
       ],
       "formulas": [
@@ -17681,8 +17685,8 @@
               "title": "§1221(a)(3): self-created intellectual property and creator-basis successors",
               "summary": "A creator's copyright, certain patent/invention, artistic composition and similar work generally excluded from capital assets.",
               "laymanExplanation": "When you create a book or song, selling it isn't necessarily like selling investment stock.",
-              "legalExplanation": "§1221(a)(3) excludes listed intellectual property in creator's hands and transferred-basis recipients. Textbook pp550–551 notes separate §1221(b)(3) musical works election and §1235 patent exception, not fully developed until later pages beyond current assignment.",
-              "details": "§1221(a)(3) excludes listed intellectual property in creator's hands and transferred-basis recipients. Textbook pp550–551 notes separate §1221(b)(3) musical works election and §1235 patent exception, not fully developed until later pages beyond current assignment.",
+              "legalExplanation": "§1221(a)(3) excludes specified creative property, inventions and other covered intellectual property in the creator's hands and in transferred-basis successors' hands. The assigned pages pp.550–551 do not develop separate special patent-transfer rules, so no rule for those transactions is added from later pages.",
+              "details": "§1221(a)(3) excludes specified creative property, inventions and other covered intellectual property in the creator's hands and in transferred-basis successors' hands. The assigned pages pp.550–551 do not develop separate special patent-transfer rules, so no rule for those transactions is added from later pages.",
               "page": "550–551",
               "studyWeek": "Week 12",
               "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 12 Chapter 11 pp.550–551",
@@ -18618,7 +18622,7 @@
           "assignedPrintedPages": "539–546 (Chapter 10); 547–574 (Chapter 11)",
           "extractedPages": "Chapter 10 pp.539–546 plus Chapter 11 pp.547–574 only",
           "missingPages": "None from Week 12 assigned textbook pages",
-          "pendingHandouts": "None identified for Week 12 in syllabus",
+          "pendingHandouts": "None specified for Week 12; next assigned readings after p.574 not included in this update",
           "scope": "Personal interest, SALT, exemptions; Chapter 11 net capital gains, loss netting, capital asset, dealer v. trader, real property held for sale, hedging and business-purpose limits",
           "source": "User pasted Bankman et al. 19th ed. Chapter 10 and Chapter 11 (p547–615 supplied; only p547–574 assigned Week12)",
           "status": "assigned textbook complete — pending any separately assigned handouts",
