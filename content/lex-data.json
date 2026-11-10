@@ -10574,10 +10574,9 @@
               "sourceRole": "Syllabus-assigned Chapter 7 textbook excerpt",
               "legalWarning": {
                 "status": "superseded",
-                "label": "2025 R&D LAW CHANGE",
-                "reason": "The casebook's mandatory five-year capitalization for domestic research is superseded for tax years beginning after Dec. 31, 2024: §174A generally allows current domestic R&E deductions. Foreign R&E generally remains amortized 15 years.",
-                "authority": "P.L.119-21 §70302; IRS Rev. Proc. 2026-32",
-                "url": "https://www.irs.gov/irb/2026-39_irb"
+                "label": "POST-2024 §174A CHANGE",
+                "reason": "The 2023 textbook describes mandatory 5-year amortization of domestic research beginning 2022. Under 2025 legislation §174A generally permits current domestic R&E deductions for qualifying tax years beginning after December 31, 2024; distinguish foreign research costs.",
+                "authority": "P.L. 119-21 §70302; IRC §174A"
               }
             },
             {
@@ -10891,8 +10890,8 @@
               "title": "Hobby vs. profit-motivated activity",
               "summary": "Profit motive, continuity and regular operations help distinguish business from recreational pursuit.",
               "laymanExplanation": "A sewing blog that earns some ad money might still be a hobby if pursued mainly for enjoyment.",
-              "legalExplanation": "Groetzinger framework and §183 profit-motive principles inform classification. Amount of revenue and enjoyable nature do not alone determine status.",
-              "details": "Groetzinger framework and §183 profit-motive principles inform classification. Amount of revenue and enjoyable nature do not alone determine status.",
+              "legalExplanation": "The assigned casebook applies the continuous, regular and profit-oriented business test in Groetzinger and raises Tammy's classification and deduction problems. The assigned passage does NOT supply a full §183 examination or determine Tammy's result. §183 is a related statute to assess when studying the assigned problem.",
+              "details": "The assigned casebook applies the continuous, regular and profit-oriented business test in Groetzinger and raises Tammy's classification and deduction problems. The assigned passage does NOT supply a full §183 examination or determine Tammy's result. §183 is a related statute to assess when studying the assigned problem.",
               "page": "391–394",
               "studyWeek": "Week 8",
               "source": "Federal Income Taxation 19th ed., Week 8, assigned printed pp.391–394",
@@ -10924,7 +10923,8 @@
           "studyWeek": "Week 8",
           "assignedPages": "387–394",
           "description": "Continuous regular business, professional gambling, hobby vs investment and Tammy blog",
-          "assignmentSource": "Fall 2026 Tax syllabus, Week 8, Chapter 7 printed pages 387–394"
+          "assignmentSource": "Fall 2026 Tax syllabus, Week 8, Chapter 7 printed pages 387–394",
+          "coverageWarning": "Week 8 textbook pp363–394 are covered; the separately assigned Schitt's Creek video was not provided with this textbook excerpt."
         },
         {
           "id": "tax-ch7-e-special",
@@ -11390,7 +11390,8 @@
           "studyWeek": "Week 9",
           "assignedPages": "410–412",
           "description": "§199A QBI, service-trade and wage/property limits",
-          "assignmentSource": "Fall 2026 Tax syllabus, Week 9, Chapter 7 printed pages 410–412"
+          "assignmentSource": "Fall 2026 Tax syllabus, Week 9, Chapter 7 printed pages 410–412",
+          "coverageWarning": "Only Week 9 pp394–412 have been provided. The syllabus continues to pp433 (Problems 2–4) and pp457, plus a separate home-office/vacation-home problem set."
         }
       ],
       "lexContentStandard": {
