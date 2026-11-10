@@ -1,0 +1,39 @@
+
+/* LEX learning tools: separate presentation layer, content untouched */
+.lex-intro{padding:18px 22px;background:#f4f8ff;border:1px solid #dce7f5;border-left:4px solid #3264ab;border-radius:9px;margin:0 0 22px;line-height:1.65;font-size:13px}
+.lex-intro strong{font-size:15px;color:#234976}.lex-intro p{margin:5px 0 0;color:#55677d}
+.lex-controls{display:flex;gap:14px;align-items:end;flex-wrap:wrap;margin:18px 0}.lex-controls label{display:flex;flex:1 1 230px;flex-direction:column;gap:7px;font-size:12px;font-weight:700;color:#526478}.lex-controls select{height:41px;padding:8px 10px;border:1px solid #d6e0eb;border-radius:7px;background:#fff;color:#263950;max-width:100%}
+.lex-controls button,.lex-actions button,.lex-rate button{padding:10px 14px;border:1px solid #cbd9e9;border-radius:7px;background:#fff;color:#244b7a;font-weight:700;font-size:12px}
+.lex-controls button:hover,.lex-actions button:hover,.lex-rate button:hover{background:#eff5fe}
+.lex-check{display:flex;align-items:center;gap:9px;color:#53657d;font-size:12px;margin:10px 0 20px}
+.lex-study-count{font-size:12px;font-weight:750;color:#637c9b;margin-bottom:10px}
+.lex-study-card{padding:28px;border:1px solid #dce4ef;border-radius:12px;background:#fff;box-shadow:0 5px 24px rgba(28,56,91,.055)}
+.lex-study-card h2{font-size:24px;line-height:1.3;margin:14px 0}.lex-prompt{font-size:14px;color:#5e7188;line-height:1.7}
+.lex-primary{border:0;border-radius:7px;background:#245da4;color:#fff;padding:12px 17px;font-weight:700;font-size:13px;margin-top:14px}
+.lex-primary:hover{background:#174c89}
+.lex-answer{border-top:1px solid #dde7f3;margin-top:22px;padding-top:15px;line-height:1.75;font-size:13px;white-space:pre-wrap;overflow-wrap:anywhere}
+.lex-answer h3{margin:0 0 9px}.lex-answer p{margin:8px 0}
+.lex-rate{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+.lex-rate button:last-child{background:#e9f4ed;border-color:#c3dfc9;color:#23653c}
+.lex-actions{display:flex;gap:9px;flex-wrap:wrap;margin:18px 0}.lex-actions button:last-child{margin-left:auto}
+.lex-attack-section{border-bottom:2px solid #d9e3ef;padding:22px 0 10px;margin:28px 0 6px;color:#233d60;font-size:18px}
+.lex-attack-item{padding:15px 0;border-bottom:1px solid #edf0f4;font-size:13px;line-height:1.65;break-inside:avoid}
+.lex-attack-item p{margin:6px 0;white-space:pre-wrap}
+.lex-attack-title{display:flex;align-items:start;gap:16px;justify-content:space-between}
+.lex-attack-title strong{font-size:14px}.lex-attack-title span{color:#7b8ca0;font-size:11px;max-width:45%;text-align:right}
+.lex-metrics{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:18px 0 30px}
+.lex-metrics>div{background:#f6f9fd;border:1px solid #e2eaf3;padding:15px;border-radius:9px;display:flex;flex-direction:column;gap:7px}
+.lex-metrics strong{font-size:26px;color:#234d81}.lex-metrics span{font-size:11px;color:#65778c}
+.lex-progress-row{padding:14px 0;border-bottom:1px solid #e7edf4;display:flex;align-items:center;gap:20px;justify-content:space-between}
+.lex-progress-row>div:first-child{max-width:65%;display:flex;flex-direction:column;gap:4px;font-size:12px}
+.lex-progress-row>div:first-child span{font-size:11px;color:#6a7b8e}
+.lex-progress-track{flex:0 0 26%;height:7px;background:#e8eef6;border-radius:20px;overflow:hidden}
+.lex-progress-track span{display:block;height:100%;background:#3d72b6;border-radius:20px}
+.lex-note{font-size:12px;line-height:1.7;color:#74849b;margin:20px 0}
+.lex-calc{border:1px solid #e2e8f1;padding:22px;margin:18px 0;border-radius:9px;font-size:13px;line-height:1.65}
+.lex-calc label{display:block;font-size:12px;font-weight:700;color:#51657c;margin:14px 0}
+.lex-scratch{display:block;min-height:115px;width:100%;resize:vertical;margin-top:7px;padding:10px 12px;border:1px solid #d3dfea;border-radius:7px;font-size:13px}
+.lex-calc details{margin-top:15px}.lex-calc summary{cursor:pointer;font-weight:700;color:#22568e}
+.lex-result-count{font-size:12px;color:#667c96;padding:8px 0 18px}
+@media(max-width:720px){.lex-study-card{padding:18px}.lex-metrics{grid-template-columns:repeat(2,minmax(0,1fr))}.lex-attack-title{flex-direction:column;gap:3px}.lex-attack-title span{max-width:100%;text-align:left}.lex-actions button:last-child{margin-left:0}}
+@media print{.site-header,.sidebar,.heading-controls,.lex-controls,.lex-actions,.lex-intro,.lex-check,.lex-rate,.lex-primary{display:none!important}.content-layout{display:block!important}.main{padding:0!important}.reading{max-width:none!important}.lex-attack-item{page-break-inside:avoid}body{color:#111;background:#fff}.lex-attack-section{color:#111}}
