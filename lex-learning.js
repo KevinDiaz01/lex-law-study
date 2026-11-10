@@ -61,6 +61,7 @@
   const act=b.dataset.lex;if(act==='flip')state.flipped=true;else if(act==='prev'){state.index=Math.max(0,state.index-1);state.flipped=false}else if(act==='next'){state.index++;state.flipped=false}else if(act==='source'){const item=choose(scoped())[state.index];if(item){openPage('section',item.t.id);jump(item.e.id);return}}else if(act==='print'){window.print();return}render();
  },true);
  document.addEventListener('change',e=>{if(e.target.id==='lexScope'){state.scope=e.target.value;state.index=0;state.flipped=false;render()}else if(e.target.id==='lexMode'){state.mode=e.target.value;state.index=0;state.flipped=false;render()}else if(e.target.id==='lexWeak'){state.filter=e.target.checked?'weak':'all';state.index=0;state.flipped=false;render()}},true);
+ document.addEventListener('input',e=>{if(e.target.id==='search')state.page=''},true);
  const oldSearch=renderSearch;
  renderSearch=function(){
   const q=search.toLowerCase().trim();if(!q){oldSearch();return}let hits=[];
@@ -68,7 +69,7 @@
   for(const c of db.courses){for(const t of c.topics){for(const e of t.entries||[]){if([c.name,t.title,stringify(e)].join(' ').toLowerCase().includes(q))hits.push({c,t,e})}}}
   const labels=hits.slice(0,200).map(({c,t,e})=>'<button class="search-hit" data-search-course="'+safe(c.id)+'" data-search-section="'+safe(t.id)+'" data-search-entry="'+safe(e.id)+'"><strong>'+safe(e.title)+'</strong><span>'+safe(c.name)+' / '+safe(t.title)+' · '+safe(e.summary||e.rule||e.holding)+'</span></button>').join('');
   const extras=[];for(const c of db.courses){for(const f of c.formulas||[])if(stringify(f).toLowerCase().includes(q))extras.push('<button class="search-hit" data-lexresult-course="'+safe(c.id)+'" data-lexresult="formulas"><strong>Formula · '+safe(f.title)+'</strong><span>'+safe(c.name)+' · '+safe(f.formula)+'</span></button>');for(const p of c.problems||[])if(stringify(p).toLowerCase().includes(q))extras.push('<button class="search-hit" data-lexresult-course="'+safe(c.id)+'" data-lexresult="problems" data-lexresult-section="'+safe(p.topicId)+'"><strong>Problem · '+safe(p.title)+'</strong><span>'+safe(c.name)+' · '+safe(p.source)+'</span></button>')}
-  $('body').innerHTML='<div class="lex-result-count">'+hits.length+' outline results · '+extras.length+' formula/problem results</div>'+labels+extras.slice(0,100).join('')||'<p class="empty">No results.</p>';
+  $('body').innerHTML='<div class="lex-result-count">'+hits.length+' outline results · '+extras.length+' formula/problem results</div>'+(labels+extras.slice(0,100).join('')||'<p class="empty">No results.</p>');
  };
  document.addEventListener('click',e=>{const b=e.target.closest('[data-lexresult]');if(!b)return;e.stopPropagation();courseId=b.dataset.lexresultCourse;if(b.dataset.lexresult==='problems'){problemFilter=b.dataset.lexresultSection||'all';}openPage(b.dataset.lexresult)},true);
  // Keep browser storage for study ratings distinct from editorial changes.
