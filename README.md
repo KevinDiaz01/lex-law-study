@@ -113,3 +113,11 @@ Both Week 2 and Week 3 use the same Chapter 2 textbook file, and printed p.68 ov
 - The first lines of Helvering v. Eubank appear on p.340, but the opinion and Heim v. Fitzpatrick continue on unassigned pp.341 onward: **no full brief or later-page notes** were imported from that material. Likewise, later Chapter 6 filing status/EITC/CTC sections are beyond the assignment and are not extracted.
 - Syllabus Week 7 textbook pp.259–321 and pp.323–340 are now covered. Printed p.322 is not part of the Week 7 assignment. The **separate Tufts certiorari petition handout is still pending**.
 - All Chapter 6 questions remain unsolved, especially five-part **Problem 2 on pp.338–339**. The 2022 single-filer marginal brackets are marked historical and used only to illustrate calculations; additional numerical examples are labeled constructed where the text did not provide numbers. No current 2026 tax bracket has been silently substituted.
+
+### Chapter 7 Tax: Week 8 and Week 9 partial (Nov 9, 2026)
+
+- Source uploaded `Pasted text(20261110-000105).txt`: textbook Chapter 7 printed pp.363–412 inclusive, with each sequential page marker present.
+- Week 8 assigned pp.363–394: included. Four complete, reproduced court opinions briefed (Midland Empire, Welch, Gilliam, Groetzinger). The separately assigned *Schitt's Creek* video was not in the upload.
+- Week 9 assigned pp.394–433, Problems 2–4 p.433, pp.433–457 and separate home-office/vacation-home problem set. Only pp.394–412 extracted; pp.413–457, p.433 problems and handout NOT extracted.
+- Reproduced Revenue Ruling 2004-18 classified as administrative guidance, not a case; INDOPCO mentioned in text but no reproduced opinion, therefore no case brief. Roof-shingle and Tammy blog prompts remain unsolved in Problem Bank.
+- Current-law notes distinguish textbook's 2022–24 domestic R&D amortization from new §174A treatment beginning in 2025, bonus depreciation changes in 2025, and historical thresholds. Any constructed math examples labeled as such.
