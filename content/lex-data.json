@@ -10834,6 +10834,94 @@
           "assignmentSource": "Fall 2026 Tax syllabus, Week 9, Chapter 7 printed pages 401–405"
         },
         {
+          "id": "tax-ch7-depletion",
+          "chapterGroup": "tax-ch7",
+          "entries": [
+            {
+              "id": "tax7-depletion-cost",
+              "type": "rule",
+              "title": "§611 cost depletion",
+              "summary": "Basis allocated by units of minerals sold.",
+              "laymanExplanation": "Like using up a mine's purchase price as minerals are extracted.",
+              "legalExplanation": "The unit-of-production method divides adjusted basis by estimated recoverable units and deducts proportional basis for units sold, subject to statutory limits.",
+              "details": "The unit-of-production method divides adjusted basis by estimated recoverable units and deducts proportional basis for units sold, subject to statutory limits.",
+              "page": "402–403",
+              "studyWeek": "Week 9",
+              "source": "Bankman et al., 19th ed., assigned Week 9 pp.402–403",
+              "sourceRole": "Textbook Chapter 7"
+            },
+            {
+              "id": "tax7-depletion-percentage",
+              "type": "rule",
+              "title": "§613 percentage depletion",
+              "summary": "Specified percentage of gross income from mining, subject to income limit, may exceed basis recovery.",
+              "laymanExplanation": "Tax deduction may continue even after a mine's tax purchase cost has been fully recovered.",
+              "legalExplanation": "Percentage rates vary by resource; subject generally to 50% taxable-income-from-property cap and special limitations. This departs from economic depreciation and can create large incentives.",
+              "details": "Percentage rates vary by resource; subject generally to 50% taxable-income-from-property cap and special limitations. This departs from economic depreciation and can create large incentives.",
+              "page": "403–404",
+              "studyWeek": "Week 9",
+              "source": "Bankman et al., 19th ed., assigned Week 9 pp.403–404",
+              "sourceRole": "Textbook Chapter 7"
+            },
+            {
+              "id": "tax7-depletion-economic-interest",
+              "type": "definition",
+              "title": "Economic interest in mineral deposit",
+              "summary": "Interest through investment with right to income from extraction needed for depletion.",
+              "laymanExplanation": "Owning a financial claim tied to a mine isn't necessarily enough; the relevant economic interest matters.",
+              "legalExplanation": "The reading notes depletion allocation among leaseholders and producers depends on economic interest and who looks to mineral extraction for return.",
+              "details": "The reading notes depletion allocation among leaseholders and producers depends on economic interest and who looks to mineral extraction for return.",
+              "page": "403–404",
+              "studyWeek": "Week 9",
+              "source": "Bankman et al., 19th ed., assigned Week 9 pp.403–404",
+              "sourceRole": "Textbook Chapter 7"
+            },
+            {
+              "id": "tax7-depletion-gross",
+              "type": "definition",
+              "title": "Gross income from mining",
+              "summary": "Statutorily defined income measure for percentage depletion.",
+              "laymanExplanation": "Not every finished product's sales price counts as the mine's raw mineral gross income.",
+              "legalExplanation": "§613(c) defines certain extraction and qualifying processing/transport activity; source discusses Cannelton case as cited authority only, not reproduced opinion.",
+              "details": "§613(c) defines certain extraction and qualifying processing/transport activity; source discusses Cannelton case as cited authority only, not reproduced opinion.",
+              "page": "404",
+              "studyWeek": "Week 9",
+              "source": "Bankman et al., 19th ed., assigned Week 9 pp.404",
+              "sourceRole": "Textbook Chapter 7"
+            },
+            {
+              "id": "tax7-depletion-drill",
+              "type": "rule",
+              "title": "§263(c) intangible drilling/development costs",
+              "summary": "Qualifying oil, gas and geothermal development costs may be deducted currently by election.",
+              "laymanExplanation": "Some costs of drilling a well can be immediately deducted even when creating a long-lived resource.",
+              "legalExplanation": "§263(c) provides current deduction for qualifying intangible drilling and development costs; the text contrasts it with depletion and environmental policy effects.",
+              "details": "§263(c) provides current deduction for qualifying intangible drilling and development costs; the text contrasts it with depletion and environmental policy effects.",
+              "page": "404–405",
+              "studyWeek": "Week 9",
+              "source": "Bankman et al., 19th ed., assigned Week 9 pp.404–405",
+              "sourceRole": "Textbook Chapter 7"
+            },
+            {
+              "id": "tax7-depletion-policy",
+              "type": "context",
+              "title": "Resource extraction tax incentives",
+              "summary": "Accelerated resource deductions affect production incentives and environmental outcomes.",
+              "laymanExplanation": "Tax benefits for drilling could encourage greater fossil-fuel production and lower prices.",
+              "legalExplanation": "The assigned material discusses policy implications of percentage depletion and drilling deductions, not a separate black-letter prohibition.",
+              "details": "The assigned material discusses policy implications of percentage depletion and drilling deductions, not a separate black-letter prohibition.",
+              "page": "404–405",
+              "studyWeek": "Week 9",
+              "source": "Bankman et al., 19th ed., assigned Week 9 pp.404–405",
+              "sourceRole": "Textbook Chapter 7"
+            }
+          ],
+          "title": "I. Depletion and Intangible Drilling Costs",
+          "studyWeek": "Week 9",
+          "assignedPages": "402–405",
+          "description": "Mineral cost depletion, percentage depletion, economic interest and intangible drilling costs; policy tradeoffs"
+        },
+        {
           "id": "tax-ch7-i",
           "chapterGroup": "tax-ch7",
           "entries": [
