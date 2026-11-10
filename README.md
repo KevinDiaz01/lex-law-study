@@ -118,13 +118,13 @@ Both Week 2 and Week 3 use the same Chapter 2 textbook file, and printed p.68 ov
 
 - Source uploaded `Pasted text(20261110-000105).txt`: textbook Chapter 7 printed pp.363–412 inclusive, with each sequential page marker present.
 - Week 8 assigned pp.363–394: included. Four complete, reproduced court opinions briefed (Midland Empire, Welch, Gilliam, Groetzinger). The separately assigned *Schitt's Creek* video was not in the upload.
-- Week 9 assigned pp.394–433, Problems 2–4 p.433, pp.433–457 and separate home-office/vacation-home problem set. Only pp.394–412 extracted; pp.413–457, p.433 problems and handout NOT extracted.
+- Week 9 covers assigned pp.394–457 across Chapters 7–9: Chapter 7 pp394–412, Chapter 8 pp413–443 and Chapter 9 pp445–457; p444 remains unverified between chapters. Problems 2–4 on p433 preserved unsolved; separate home-office/vacation-home handout pending.
 - Reproduced Revenue Ruling 2004-18 classified as administrative guidance, not a case; INDOPCO mentioned in text but no reproduced opinion, therefore no case brief. Roof-shingle and Tammy blog prompts remain unsolved in Problem Bank.
 - Current-law notes distinguish textbook's 2022–24 domestic R&D amortization from new §174A treatment beginning in 2025, bonus depreciation changes in 2025, and historical thresholds. Any constructed math examples labeled as such.
 
 ### Chapter 8 Tax Shelters — Week 9 partial (Nov. 9, 2026)
 
-- Uploaded `Pasted text(20261110-002540).txt` contains sequential printed Chapter 8 pp. **413–443**. Week 9 assigned pp. **413–457**, so pp. **444–457 remain missing**. Chapter 7 pp.394–412 were completed in the prior update; syllabus Problems 2–4 on p.433 are included in this new upload.
+- Uploaded `Pasted text(20261110-002540).txt` contains sequential printed Chapter 8 pp. **413–443**. Week 9 proceeds beyond Chapter 8 into Chapter 9. Chapter 9 pp.445–457 are covered separately; only transitional p.444 remains unverified. Chapter 7 pp.394–412 were completed in the prior update; syllabus Problems 2–4 on p.433 are included in this new upload.
 - Dedicated opinion-excerpt briefs: **Gregory v. Helvering** (Second Circuit and Supreme Court assigned passages), **Knetsch v. United States**, and **Winn-Dixie Stores, Inc. v. Commissioner**. **Goldstein** is discussed/cited only, therefore is contextual doctrine and not independently briefed.
 - Chapter 8 outline emphasizes substance over form, §7701(o), original tax-shelter typology, §469 passive activity losses, §163(d) investment interest, §465 at-risk limits, §§264 and 265 interest restrictions, AMT, and advisor standards.
 - All assigned questions remain unsolved; **Problems 2–4 on p.433** retain Stan's two variations, Jamie's four subparts, and Rafael's multi-year nonrecourse restaurant facts. Additional problem 5 also preserved unsolved.
@@ -134,9 +134,16 @@ Both Week 2 and Week 3 use the same Chapter 2 textbook file, and printed p.68 ov
 
 ### Chapter 9 — Mixed Business and Personal Expenses, Weeks 9–10 (Nov. 9, 2026)
 
-- Uploaded `Pasted text(20261110-003725).txt`: Chapter 9 begins at **printed p.445**, and the exported text reaches the *Gilmore* opinion/notes around **p.499**. Page markers are inconsistent, so **p.500 has NOT been positively verified**. No assumed coverage of an unseen page. Week 9 Chapter 8 **p.444** remains unprovided between previous file (through p443) and this file (starting p445).
-- Assigned Week 9 chapter portion: p445–457 (work clothing, home office, vacation-home §280A rules). Week 10: pp457–484 (childcare, education, commuting and specifically **commuting Problems #7–9 on p484**); pp484–500 (business travel, meals, §274, legal fees) included through verified Gilmore p499.
+- Source `Pasted text(20261110-010011).txt` was independently checked: Chapter 9 contains **every sequential printed page marker p445–500**, including Gilmore Notes and Questions on **p500**. Chapter 8 **p444** is still unverified at the chapter transition.
+- Assigned Week 9 chapter portion: p445–457 (work clothing, home office, vacation-home §280A rules). Week 10: pp457–484 (childcare, education, commuting and specifically **commuting Problems #7–9 on p484**); pp484–500 (business travel, meals, §274, legal fees) included through independently verified Gilmore Notes and Questions p500.
 - **10 reproduced judicial case excerpts** briefed: Pevsner, Popov, Smith, Carroll, Kopaigora, Flowers, Hantzis, Rudolph, Moss, Gilmore. **Rudolph is a Supreme Court dismissal of certiorari as improvidently granted (DIG), not a merits majority holding**. Soliman, Irwin, Sharon, etc. are mentioned contextually only: no dedicated opinion brief for them.
-- **71 outline entries, 16 worked calculations, 57 deliberately unsolved question prompts**. Includes nine commuting scenarios, highlighting syllabus-assigned 7–9; the separately assigned home-office/vacation-home and travel/entertainment and hobby-loss handouts have not been supplied and are not fabricated.
+- **71 outline entries, 16 worked calculations, 57 deliberately unsolved question prompts** (with p500 question references and basis-capitalization analysis corrected in the audit). Includes nine commuting scenarios, highlighting syllabus-assigned 7–9; the separately assigned home-office/vacation-home and travel/entertainment and hobby-loss handouts have not been supplied and are not fabricated.
 - External 2026 current-law updates are marked apart from the casebook: §21 maximum dependent-care credit rate now 50% (eligible expense ceilings unchanged at $3k/$6k); §129 DCAP $7,500 (MFS $3,750); §127 employer education/student-loan payments permanent (2026 $5,250 combined cap); §67(g) employee miscellaneous itemized deduction disallowance extended; IRS simplified qualifying home-office method $5/sq.ft. (max 300) is clearly labeled as extra source, not textbook material.
 - Source exact quoted opinions are not duplicated; all excerpts paraphrased and formal-plus-layman explanations provided. All problem solutions remain hidden/unwritten.
+
+#### Chapter 9 continuation audit (current branch)
+
+- Audited `Pasted text(20261110-010011).txt` against the syllabus and original GitHub LEX data. All 56 printed page markers **445 through 500** present in order, including the final page's Accardo note and Gilmore title-defense basis hypothetical.
+- Repaired Gilmore Notes Q1 all three alternative questions (book repeats '(b)'), Q3 §162 versus §212 comparison, Q4 Accardo variant and Q5 personal-debt lien-on-residence basis hypothetical, all **intentionally unsolved**.
+- Differentiated later district-court basis-capitalization treatment from the reproduced Supreme Court's denial of a current legal-fee deduction. No new separate judicial case brief added for that cited later opinion.
+- Week 10 assigned textbook **pp457–500** marked fully covered; separate travel/entertainment and hobby-loss handouts still pending. Week 9 textbook substantially covered, with only p444 between chapters unverified and home-office/vacation-home handout pending.
