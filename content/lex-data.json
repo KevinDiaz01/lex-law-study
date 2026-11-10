@@ -4852,11 +4852,11 @@
           "chapterGroup": "tax-ch9",
           "studyWeek": "Week 10",
           "page": "499",
-          "title": "Gilmore Notes Q1(a)/(b) — origin versus but-for test",
-          "prompt": "Compare Gilmore origin of underlying claim to mere but-for causation. Should baseline be taxpayer with same assets who never married/divorced? Distinguish subjective motivation to protect stock.",
+          "title": "Gilmore Q1 — origin, comparison taxpayer & primary purpose (all three prompts)",
+          "prompt": "(a) Is Gilmore's origin-of-claim rule different from the 'but for' causal tests discussed for childcare and commuting? (b) Why compare Gilmore to someone with the same business assets who never married or divorced, rather than someone divorced without valuable property at risk? (c) The book prints another '(b)': What was Gilmore's primary reason for spending the money, and would a 'primary purpose' test be better than looking to the claim's origin? Leave all three questions UNSOLVED.",
           "kind": "Assigned Notes and Questions — intentionally UNSOLVED",
           "status": "Not attempted",
-          "source": "Federal Income Taxation 19th ed., Week 10, assigned Chapter 9 pp.499. Prompt paraphrased; no answer supplied."
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 10 Chapter 9 pp.499; assigned Notes and Questions, paraphrased; intentionally UNSOLVED."
         },
         {
           "id": "tax9p-gil2",
@@ -4875,36 +4875,36 @@
           "topicId": "tax-ch9-legal",
           "chapterGroup": "tax-ch9",
           "studyWeek": "Week 10",
-          "page": "499",
-          "title": "Gilmore Notes Q3 — ordinary/necessary vs Gilliam",
-          "prompt": "Compare personal-origin legal dispute in Gilmore to Gilliam's airline-assault defense costs during business travel. What constitutes direct business origin?",
+          "page": "499–500",
+          "title": "Gilmore Q3 — compare strictness with Gilliam under §162",
+          "prompt": "Gilmore asks whether a legal claim originated in profit-seeking activity for §212, while Gilliam addressed whether legal fees after an assault on a business trip were ordinary and directly connected to business for §162. Is Gilmore's origin test more or less stringent than the Gilliam court's test? Explain without solving.",
           "kind": "Assigned Notes and Questions — intentionally UNSOLVED",
           "status": "Not attempted",
-          "source": "Federal Income Taxation 19th ed., Week 10, assigned Chapter 9 pp.499. Prompt paraphrased; no answer supplied."
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 10 Chapter 9 pp.499–500; assigned Notes and Questions, paraphrased; intentionally UNSOLVED."
         },
         {
           "id": "tax9p-gil4",
           "topicId": "tax-ch9-legal",
           "chapterGroup": "tax-ch9",
           "studyWeek": "Week 10",
-          "page": "499",
-          "title": "Gilmore Notes Q4 — Accardo criminal defense assets",
-          "prompt": "Taxpayer criminally prosecuted under racketeering law and successfully acquitted; can he claim defense as §212 conservation of assets? Variation: what if government alleges assets trace directly to enterprise criminal conduct?",
+          "page": "499–500",
+          "title": "Gilmore Q4 — Accardo acquittal and forfeiture hypothetical",
+          "prompt": "Accardo was acquitted in a racketeering prosecution; convicted codefendants' business-related defense expenses could be deductible, while he could not deduct the costs under §162, and his §212 asset-protection argument was rejected because the assets were not traceable to the alleged offense. The notes ask: What if the government had alleged that assets truly were traceable to the alleged racketeering, but Accardo was nevertheless acquitted? Analyze §212's connection to profit-seeking assets, without solving.",
           "kind": "Assigned Notes and Questions — intentionally UNSOLVED",
           "status": "Not attempted",
-          "source": "Federal Income Taxation 19th ed., Week 10, assigned Chapter 9 pp.499. Prompt paraphrased; no answer supplied."
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 10 Chapter 9 pp.499–500; assigned Notes and Questions, paraphrased; intentionally UNSOLVED."
         },
         {
           "id": "tax9p-gil5",
           "topicId": "tax-ch9-legal",
           "chapterGroup": "tax-ch9",
           "studyWeek": "Week 10",
-          "page": "499",
-          "title": "Gilmore Notes Q5 — legal fees added to stock basis",
-          "prompt": "After unsuccessful §212 deduction, can taxpayer capitalize divorce litigation legal fees to basis of contested stock as title-defense costs on later sale? What did notes reveal and what is unresolved?",
+          "page": "500",
+          "title": "Gilmore Q5 — capitalized title-defense fees and personal-debt lien hypothetical",
+          "prompt": "After Gilmore's Supreme Court deduction loss, a later district court permitted adding attorneys' fees actually incurred to defend his contested stock title to the stock's basis. Distinguish current tax deduction and capital addition to basis. Problem: A taxpayer is sued for alleged personal debts, and the claimant places a lien on the taxpayer's personal residence, the taxpayer's only asset. May defense costs be added to the house's basis? Do NOT SOLVE.",
           "kind": "Assigned Notes and Questions — intentionally UNSOLVED",
           "status": "Not attempted",
-          "source": "Federal Income Taxation 19th ed., Week 10, assigned Chapter 9 pp.499. Prompt paraphrased; no answer supplied."
+          "source": "Bankman et al., Federal Income Taxation (19th ed.), Week 10 Chapter 9 pp.500; assigned Notes and Questions, paraphrased; intentionally UNSOLVED."
         }
       ],
       "updates": [
@@ -14633,16 +14633,17 @@
             },
             {
               "id": "tax9-capital",
-              "type": "definition",
-              "title": "Capitalizing title-defense legal costs",
-              "summary": "Some litigation expenses can add to property basis rather than allow current deduction.",
-              "laymanExplanation": "Legal fees actually defending legal title to an asset might be recovered when asset sold.",
-              "legalExplanation": "Gilmore notes subsequent attempt to add divorce-defense attorneys' fees to stock basis; actual treatment depends on whether fees defend/perfect title rather than personal division of marital assets. Notes raise this as a question, not resolved by reproduced opinion.",
-              "details": "Gilmore notes subsequent attempt to add divorce-defense attorneys' fees to stock basis; actual treatment depends on whether fees defend/perfect title rather than personal division of marital assets. Notes raise this as a question, not resolved by reproduced opinion.",
-              "page": "499",
+              "type": "rule",
+              "title": "Title-defense legal fees may be capitalized into property basis",
+              "summary": "A later Gilmore district-court decision allowed capitalization of attorneys’ fees genuinely incurred to defend title; that is a different issue from deducting legal fees currently.",
+              "laymanExplanation": "A divorce lawyer’s bill may not reduce this year's income, but fees actually protecting ownership of stock may instead increase the stock's tax cost. Defending an unrelated personal debt is different.",
+              "legalExplanation": "The assigned Notes and Questions, pp.499–500, describe the later decision Gilmore v. United States, 245 F. Supp. 383 (N.D. Cal. 1965): the district court accepted basis capitalization for qualifying title-defense expenses notwithstanding the marital origin of the dispute. The court distinguished personal litigation expenses that were not in fact primarily incurred to defend title. This is a related decision described in the notes, NOT part of the reproduced Supreme Court holding or a separate assigned opinion brief. The notes ask whether costs of defending a personal-debt lawsuit against a lien on the taxpayer's house could likewise be capitalized; the question remains intentionally unsolved.",
+              "details": "The assigned Notes and Questions, pp.499–500, describe the later decision Gilmore v. United States, 245 F. Supp. 383 (N.D. Cal. 1965): the district court accepted basis capitalization for qualifying title-defense expenses notwithstanding the marital origin of the dispute. The court distinguished personal litigation expenses that were not in fact primarily incurred to defend title. This is a related decision described in the notes, NOT part of the reproduced Supreme Court holding or a separate assigned opinion brief. The notes ask whether costs of defending a personal-debt lawsuit against a lien on the taxpayer's house could likewise be capitalized; the question remains intentionally unsolved.",
+              "page": "499–500",
               "studyWeek": "Week 10",
-              "source": "Bankman et al., Federal Income Taxation (19th ed.), assigned Week 10 Chapter 9 pp.499",
-              "sourceRole": "Syllabus-assigned textbook Chapter 9 source"
+              "source": "Bankman et al., Federal Income Taxation (19th ed.), assigned Week 10 Chapter 9 Notes and Questions pp.499–500",
+              "sourceRole": "Contextual later case discussed in assigned notes, not a separately reproduced opinion",
+              "examTrap": "Do not confuse immediate §212 deductibility with property basis capitalization, and do not assume every lawsuit threatening ownership is a title-defense expenditure."
             },
             {
               "id": "tax9-case-gilmore",
@@ -14783,24 +14784,24 @@
           "studyWeek": "Week 9",
           "syllabusWeek": "Week 9 (Oct. 20 & 22)",
           "assignedPrintedPages": "394–433; Problems #2–4 p433; 433–457; Home office and vacation home problem set",
-          "extractedPages": "Chapter 7 pp394–412; Chapter 8 pp413–443; Chapter 9 pp445–457",
-          "missingPages": "Chapter 8 printed p.444 remains unprovided",
+          "extractedPages": "Chapter 7 pp.394–412; Chapter 8 pp.413–443; Chapter 9 pp.445–457",
+          "missingPages": "Unverified transition page p.444 between Chapter 8's last printed p.443 and Chapter 9's first printed p.445",
           "pendingHandouts": "Home office/vacation home problem set (separate, not in this excerpt)",
           "scope": "Tax deductions, shelters, work clothing, home office and vacation-home rules through p457.",
-          "source": "Pasted text(20261110-000105).txt; Pasted text(20261110-002540).txt; Pasted text(20261110-003725).txt",
-          "status": "textbook partial — only assigned p.444 missing; separate problem set pending",
+          "source": "Pasted text(20261110-000105).txt Chapter 7; Pasted text(20261110-002540).txt Chapter 8; Pasted text(20261110-010011).txt Chapter 9",
+          "status": "textbook substantively covered; unverified p.444 transition; separate home office/vacation home problem set pending",
           "updated": "2026-11-09"
         },
         {
           "studyWeek": "Week 10",
           "syllabusWeek": "Week 10 (Fall 2026)",
           "assignedPrintedPages": "457–484; Problems 7–9 p484; 484–500",
-          "extractedPages": "Chapter 9 p457 through at least p499; p500 marker absent",
-          "missingPages": "Printed p500 coverage not independently confirmed",
-          "pendingHandouts": "Travel/entertainment and Hobby loss handouts (separate)",
-          "scope": "Childcare, education, commuting, travel, meals, §274 and litigation legal fees",
-          "status": "partial — p500 uncertain and separate handouts pending",
-          "source": "Pasted text(20261110-003725).txt"
+          "extractedPages": "Chapter 9 printed pp.457–500 inclusive, all sequential page markers independently verified",
+          "missingPages": "None of the Week 10 syllabus-assigned textbook pp.457–500; separate handouts remain pending",
+          "pendingHandouts": "Travel/entertainment and hobby loss handouts (separate, not in uploaded textbook)",
+          "scope": "Childcare, education, commuting, travel, meals, §274, legal fees; commuting Problems 7–9 on p.484 unsolved; Gilmore Notes and Questions through p.500.",
+          "status": "assigned textbook complete; separate travel/entertainment and hobby loss handouts pending",
+          "source": "Pasted text(20261110-010011).txt (Chapter 9 printed pp.445–500; first confirmed p.500 in this branch)"
         }
       ]
     },
