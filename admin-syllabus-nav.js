@@ -3,7 +3,7 @@
 'use strict';
 (() => {
 const units=[
- {name:'I. Introduction & Constitutional Foundations',caption:'Classes 1–4 · Aug 24–Sep 2',items:[
+ {name:'I. Introduction & Agency Structure',caption:'Classes 1–4 · Aug 24–Sep 2',items:[
   {title:'Role and Structure of Agencies',detail:'Introduction · pp. 1–14',ids:['admin-ch1-introduction']},
   {title:'Appointment of Federal & Inferior Officers',detail:'§ 7.5.1a · pp. 493–510',ids:['admin-appointments-federal']},
   {title:'State Appointments',detail:'§ 7.5.1b · pp. 510–514',ids:['admin-appointments-state']},
@@ -13,26 +13,28 @@ const units=[
   {title:'Legislative Delegation / Nondelegation',detail:'pp. 417–451',match:/nondelegation|legislative delegation/i},
   {title:'Delegation of Adjudicatory Power',detail:'pp. 451–466',match:/adjudicatory power|article iii|seventh amendment/i}
  ]},
- {name:'III. Agency Procedures & Due Process',caption:'Classes 5–8 · Sep 9–21',items:[
-  {title:'Agency Interpretation — Preview',detail:'pp. 595–608',match:/interpretation.*preview/i},
+ {name:'III. Substantive Statutory Checks',caption:'Classes 5–6 · Sep 9–14',items:[
+  {title:'Agency Interpretation — Preview',detail:'pp. 595–608',match:/interpretation.*preview/i}
+ ]},
+ {name:'IV.A–B. Agency Procedures & Due Process',caption:'Classes 5–8 · Sep 9–21',items:[
   {title:'Adjudication vs. Rulemaking',detail:'pp. 69–76',match:/adjudication.*rulemaking|rulemaking.*adjudication/i},
   {title:'Constitutional Due Process',detail:'pp. 17–69',match:/due process|mathews|roth/i}
  ]},
- {name:'IV. Administrative Adjudication',caption:'Classes 8–14 · Sep 21–Oct 12',items:[
+ {name:'IV.C. Administrative Adjudication',caption:'Classes 8–14 · Sep 21–Oct 12',items:[
   {title:'Statutory Hearing Rights',detail:'pp. 77–98',match:/hearing rights|statutory hearing/i},
   {title:'Decisionmakers, Ex Parte Contacts & Bias',detail:'pp. 98–154',match:/ex parte|bias|decisionmakers|administrative judges/i},
   {title:'Pre-Hearing, Evidence & Decisions',detail:'pp. 155–224',match:/pre-hearing|hearing phase|decision phase|stare decisis|estoppel/i}
  ]},
- {name:'V. Administrative Rulemaking',caption:'Classes 14–20 · Oct 12–Nov 2',items:[
+ {name:'IV.C. Administrative Rulemaking',caption:'Classes 14–20 · Oct 12–Nov 2',items:[
   {title:'Rules, Notice & Public Participation',detail:'pp. 225–284',match:/rulemaking|public participation|notice and comment/i},
   {title:'Procedural Regularity & Regulatory Analysis',detail:'pp. 283–344',match:/procedural regularity|regulatory analysis/i},
   {title:'Exemptions, Guidance & Agency Choice',detail:'pp. 355–415',match:/guidance|rulemaking exemption|agency choice|rulemaking petitions|waivers/i}
  ]},
- {name:'VI. Regulatory Reform & Oversight',caption:'Classes 20–22 · Nov 2–9',items:[
+ {name:'V. Regulatory Reform',caption:'Classes 20–22 · Nov 2–9',items:[
   {title:'Legislative and Presidential Controls',detail:'pp. 466–493, 535–551',match:/legislative control|presidential oversight|congressional review/i},
   {title:'Negotiated Rulemaking',detail:'pp. 344–353',match:/negotiated rulemaking/i}
  ]},
- {name:'VII. Judicial Review',caption:'Classes 21–26 · Nov 4–23',items:[
+ {name:'VI. Judicial Review',caption:'Classes 21–26 · Nov 4–23',items:[
   {title:'Review of Facts, Law & Agency Interpretations',detail:'pp. 579–631',match:/scope of review|skidmore|loper bright|major questions|auer/i},
   {title:'Arbitrary & Capricious Review',detail:'pp. 632–668',match:/arbitrary and capricious|state farm|hard look/i},
   {title:'Reviewability & Agency Inaction',detail:'pp. 670–719',match:/reviewability|preclusion|agency inaction/i},
