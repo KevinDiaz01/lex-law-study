@@ -1,0 +1,420 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+  "coverage": {
+    "submittedPages": "466–493",
+    "syllabusAssignment": "Legislative Controls, Chadha and Congressional Review Act; state and other legislative oversight",
+    "status": "Textbook §7.4 imported"
+  },
+  "topics": [
+    {
+      "id": "admin-legislative-federal",
+      "title": "§ 7.4.1 — Federal Legislative Controls, Chadha & CRA (pp. 466–483)",
+      "chapterGroup": "admin-legislative",
+      "description": "Legislative veto; Chadha opinion and separate opinions; rulemaking vetoes; REINS proposals; Congressional Review Act; constitutional limits.",
+      "entries": [
+        {
+          "id": "admin-legislative-checks",
+          "type": "framework",
+          "title": "Legislative control of agencies",
+          "summary": "Legislatures constrain agencies through enabling statutes, amendments, appropriations, confirmation hearings, oversight, and controls on the effect of rules.",
+          "laymanExplanation": "Congress creates agencies and can change their legal instructions, but must observe constitutional limits when interfering with particular agency decisions.",
+          "legalExplanation": "Changing the enabling law or disapproving agency action through ordinary legislation generally requires bicameralism and presentment.",
+          "page": "466",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "examApplication": "Distinguish ordinary lawmaking, informal oversight, rule disapproval, and unconstitutional legislative substitution for agency decisionmaking."
+        },
+        {
+          "id": "admin-legislative-veto",
+          "type": "definition",
+          "title": "Legislative veto",
+          "summary": "A mechanism allowing one or both legislative chambers or a committee to block agency action without full enactment of a new law.",
+          "laymanExplanation": "A legislative veto lets lawmakers stop a rule with an easier vote than passing a bill.",
+          "legalExplanation": "Such devices became common in twentieth-century enabling acts but often violate constitutional lawmaking requirements under Chadha.",
+          "page": "466",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-chadha",
+          "type": "case",
+          "title": "INS v. Chadha, 462 U.S. 919 (1983)",
+          "summary": "Congress's one-house legislative veto of a decision suspending Chadha's deportation was unconstitutional because changing the legal rights of persons outside Congress was legislation requiring bicameralism and presentment.",
+          "laymanExplanation": "The House could not overturn one person's immigration relief by resolution alone; it would have to use the constitutional lawmaking process.",
+          "legalExplanation": "A legislative act with binding external effect must comply with Article I's bicameral and presentment requirements absent an express constitutional exception; statutory veto provisions cannot evade them.",
+          "page": "467",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "assignedOpinion": true,
+          "facts": "After entering the United States on a student visa and overstaying, Chadha was found deportable but received statutory suspension due to extreme hardship. Section 244(c) of the INA allowed either chamber to overturn such relief by resolution. The House voted to veto Chadha's suspension without Senate passage or presentment to the President.",
+          "issue": "Did a one-house resolution reversing the Attorney General's delegated suspension-of-deportation decision comply with constitutional lawmaking requirements?",
+          "holding": "No. The legislative-veto provision was unconstitutional and severable; Chadha's relief remained in effect.",
+          "reasoning": "The House resolution altered legal rights outside Congress and was legislative in purpose and effect, so the constitutional bicameralism-and-presentment sequence was mandatory. Administrative convenience cannot override express structural requirements.",
+          "rule": "When congressional action affects external legal rights in a legislative manner, it generally must pass both Houses and be presented to the President (or satisfy the constitutionally prescribed veto override).",
+          "exam": "Analyze nature and effect of congressional action rather than its title; compare adjudicatory veto with rulemaking veto and separate constitutional validity from severability.",
+          "examApplication": "Ask: Did a chamber or committee make binding policy or reverse legal rights? If yes, was there bicameral passage and presidential presentment? Is an explicit constitutional exception applicable?",
+          "examTrap": "Not all activity by a single House requires presentment; exceptions include separate Senate and House constitutional functions. But a one-house veto of an agency decision generally does."
+        },
+        {
+          "id": "admin-legislative-chadha-powell",
+          "type": "concept",
+          "title": "Chadha — Powell concurrence (narrow adjudication approach)",
+          "summary": "Powell would invalidate the House action because Congress improperly assumed adjudicatory power by deciding the rights of identified individuals, without reaching all legislative vetoes.",
+          "laymanExplanation": "Congress was acting like a court when it singled out named people and revoked their relief.",
+          "legalExplanation": "Powell's separate approach was narrower than Burger's broad bicameralism/presentment holding and was not the governing rationale.",
+          "page": "472",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-chadha-white",
+          "type": "concept",
+          "title": "Chadha — White dissent (functionalist legislative oversight)",
+          "summary": "White argued the legislative veto was a valuable safeguard against runaway delegations; the statute itself had already passed Article I's lawmaking process and Congress could reserve a role in administering that arrangement.",
+          "laymanExplanation": "Congress should be able to keep an efficient check on agencies it empowers, White argued.",
+          "legalExplanation": "He distinguished creating new law from using a review mechanism under already enacted law and warned that banning legislative vetoes undermines democratic accountability.",
+          "page": "473",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-chadha-rehnquist",
+          "type": "concept",
+          "title": "Chadha — Rehnquist severability dissent",
+          "summary": "Rehnquist, joined by White on this issue, contested whether the suspension-of-deportation authority could survive after severing the congressional veto.",
+          "laymanExplanation": "Even if the veto is invalid, should the rest of the law still operate?",
+          "legalExplanation": "This is a separate severability objection, not the majority's constitutional premise.",
+          "page": "476",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-chadha-other",
+          "type": "case",
+          "title": "Consumers Union / Process Gas — rulemaking veto after Chadha",
+          "summary": "The Supreme Court summarily affirmed invalidation of one-house and two-house rulemaking vetoes lacking presentment shortly after Chadha.",
+          "laymanExplanation": "Congress cannot use a concurrent resolution alone to block FTC or FERC rules.",
+          "legalExplanation": "Cases applied Chadha beyond individual deportation adjudication to agency rules.",
+          "page": "476",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "sourceRole": "Discussed in notes, not full opinions"
+        },
+        {
+          "id": "admin-legislative-reins",
+          "type": "concept",
+          "title": "REINS Act proposed affirmative approval",
+          "summary": "Proposed REINS legislation would require congressional approval by joint resolution before certain major agency rules take effect; the reading treats the measure as legislative proposals, not enacted federal law.",
+          "laymanExplanation": "Instead of merely blocking rules, Congress would have to affirmatively approve major rules in the full lawmaking process.",
+          "legalExplanation": "Joint resolutions ordinarily involve House and Senate passage and presidential signature or a veto override. Debate concerns constitutional power and regulatory gridlock.",
+          "page": "477",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "examTrap": "Do not describe the federal REINS proposal in this reading as an operative federal statute."
+        },
+        {
+          "id": "admin-legislative-cra",
+          "type": "rule",
+          "title": "Congressional Review Act (CRA): notice and disapproval",
+          "summary": "The CRA requires submission of most federal agency rules to Congress and GAO; Congress may disapprove by a joint resolution enacted through bicameralism and presentment.",
+          "laymanExplanation": "Agencies send rules to Congress, which can cancel a rule by passing a new law under a fast-track process.",
+          "legalExplanation": "Codified at 5 U.S.C. §§ 801–808; the CRA's joint-resolution mechanism differs from an unconstitutional one-house veto.",
+          "page": "478",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "examApplication": "Check whether a document is a CRA rule, whether it was submitted, whether timing requirements apply, and whether a disapproval resolution was enacted."
+        },
+        {
+          "id": "admin-legislative-cra-major",
+          "type": "rule",
+          "title": "CRA major versus non-major rules and timing",
+          "summary": "Major rules generally are delayed from effectiveness for at least 60 days after submission, while non-major rules may take effect as otherwise specified; expedited legislative review is available.",
+          "laymanExplanation": "Economically significant regulations get an added waiting period before they take effect.",
+          "legalExplanation": "The reading describes a $100 million statutory threshold for major rules and an OIRA determination; distinguish this definition from separate executive-order thresholds.",
+          "page": "478",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-cra-lookback",
+          "type": "rule",
+          "title": "CRA lookback after congressional transitions",
+          "summary": "The CRA extends congressional review into a new congressional term for rules adopted near the end of the preceding term, facilitating disapproval after changes in political control.",
+          "laymanExplanation": "A new Congress and President may cancel some late-issued rules from the previous administration.",
+          "legalExplanation": "The reading describes a final-sixty-working-day lookback and new-term session-day review, subject to detailed statutory computation.",
+          "page": "479",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-cra-history",
+          "type": "history",
+          "title": "CRA use at presidential transitions",
+          "summary": "The casebook reports CRA disapprovals under Bush in 2001, Trump in 2017, and Biden in 2021, often targeting a prior administration's late-issued rules.",
+          "laymanExplanation": "The CRA has been used mainly when a new President is willing to sign Congress's disapproval of predecessor rules.",
+          "legalExplanation": "These figures and examples reflect the textbook's historical account through the period discussed, not a live count through November 2026.",
+          "page": "479",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-cra-scope",
+          "type": "rule",
+          "title": "CRA covers many rules beyond notice-and-comment regulations",
+          "summary": "CRA coverage is not confined to legislative rules issued after notice and comment; the reading includes some interpretive rules and policy statements.",
+          "laymanExplanation": "Even a guidance memo can potentially count as a rule requiring submission to Congress.",
+          "legalExplanation": "The reading notes the broad definition but also debates whether such breadth is sound policy.",
+          "page": "480",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-cra-unsubmitted",
+          "type": "concept",
+          "title": "Unsubmitted CRA rules and GAO interpretations",
+          "summary": "Congressional authorities have treated failure to submit a covered rule as preventing its normal review clock from starting; GAO opinions have sometimes supplied a basis for later congressional review.",
+          "laymanExplanation": "A document that should have been sent to Congress might remain open to challenge long after issuance.",
+          "legalExplanation": "The reading discusses a 2013 CFPB guidance disapproved in 2018 following a GAO determination; the GAO-equivalence practice is not expressly specified in statutory text.",
+          "page": "480",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "examTrap": "Distinguish the text of the CRA from interpretive practices of Congress and GAO."
+        },
+        {
+          "id": "admin-legislative-cra-similar",
+          "type": "rule",
+          "title": "CRA 'substantially the same' prohibition",
+          "summary": "After CRA disapproval, an agency generally cannot issue a new rule that is substantially the same unless authorized by a later law; the precise limits are disputed.",
+          "laymanExplanation": "An agency can't necessarily republish a canceled rule under a different name.",
+          "legalExplanation": "The casebook treats the meaning of 'substantially the same' as unsettled and gives the unemployment-benefit drug-testing example.",
+          "page": "481",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-bowsher-cross",
+          "type": "case",
+          "title": "Bowsher v. Synar — Congress cannot execute laws through a removable agent",
+          "summary": "Congress may not retain dismissal control over an officer assigned executive law-implementation duties; bicameralism and presentment alone would not cure that branch-control violation.",
+          "laymanExplanation": "Congress can pass laws but cannot directly manage execution through an officer it can fire.",
+          "legalExplanation": "The Comptroller General's projected budget-deficit determinations under Gramm-Rudman were executive functions; this case is separately elaborated in the removal reading.",
+          "page": "481",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "sourceRole": "Discussed in legislative-control notes; fuller treatment in § 7.5.2b"
+        },
+        {
+          "id": "admin-legislative-mwaa",
+          "type": "case",
+          "title": "Metropolitan Washington Airports Authority v. CAAN (1991)",
+          "summary": "A congressional review board with veto authority over an airport authority was unconstitutional: its actions were either legislative requiring Article I procedure or executive powers not exercisable by Congress's agent.",
+          "laymanExplanation": "Members of Congress couldn't directly operate a veto board to control a regional airport authority.",
+          "legalExplanation": "The Court used Chadha and Bowsher to reject a congressional committee-like substitute for formal legislation.",
+          "page": "482",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "sourceRole": "Discussed in notes only"
+        },
+        {
+          "id": "admin-legislative-lineitem",
+          "type": "case",
+          "title": "Clinton v. City of New York (1998) — line-item veto",
+          "summary": "The President could not cancel particular expenditures after signing a bill under the Line Item Veto Act; this exceeded the role set by the Presentment Clause.",
+          "laymanExplanation": "A President cannot turn an enacted statute into a different law by canceling selected provisions unilaterally.",
+          "legalExplanation": "The decision rests on Article I's lawmaking process rather than generalized executive supervision.",
+          "page": "482",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "sourceRole": "Discussed in notes only"
+        }
+      ]
+    },
+    {
+      "id": "admin-legislative-states",
+      "title": "§ 7.4.2 — State Legislative Controls (pp. 483–489)",
+      "chapterGroup": "admin-legislative",
+      "description": "State veto clauses and review committees; Wisconsin Martinez and Evers; suspensive veto, state affirmative approval, Madison problem.",
+      "entries": [
+        {
+          "id": "admin-legislative-state-veto",
+          "type": "rule",
+          "title": "State legislative vetoes: state-specific constitutional authority",
+          "summary": "State legislatures use committee or chamber rule disapproval, with divergent judicial results; some state constitutions expressly authorize legislative vetoes.",
+          "laymanExplanation": "A state legislative veto is not automatically judged by the federal Constitution's Chadha result.",
+          "legalExplanation": "Some courts invalidate schemes, others uphold them under local constitutional structure or express clauses; Idaho's Mead is one example.",
+          "page": "483",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "examApplication": "Start with the state constitution: explicit legislative veto clause, separation-of-powers text, judicial doctrine, and nature of veto."
+        },
+        {
+          "id": "admin-legislative-state-suspensive",
+          "type": "definition",
+          "title": "Temporary suspensive veto",
+          "summary": "A state committee may be authorized to suspend an agency rule pending formal legislation, sometimes only for specified defects and limited duration.",
+          "laymanExplanation": "A committee may temporarily freeze a rule while the legislature decides whether to overturn it properly.",
+          "legalExplanation": "Constitutionality may turn on time limits, grounds for suspension, and whether bicameral legislation and executive participation are ultimately required.",
+          "page": "485",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-martinez",
+          "type": "case",
+          "title": "Martinez v. DILHR (Wis. 1992) — temporary committee suspension",
+          "summary": "Wisconsin upheld a legislative committee's temporary suspension of an agency subminimum-wage rule where eventual permanent change required ordinary legislation and safeguards limited committee discretion.",
+          "laymanExplanation": "A temporary rule freeze passed constitutional scrutiny because full lawmaking had to follow for a permanent block.",
+          "legalExplanation": "The court applied a flexible state separation-of-powers approach, stressing that branches may share interests in creating and monitoring agencies.",
+          "page": "485",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "sourceRole": "Detailed summary in notes; full opinion not reproduced",
+          "facts": "Wisconsin's rule review committee suspended a rule authorizing subminimum wages for short-term workers; the agency ignored the suspension, and affected migrant workers sued.",
+          "issue": "Did the statutory committee suspension violate Wisconsin separation-of-powers and lawmaking requirements?",
+          "holding": "No; the suspension procedure was upheld.",
+          "reasoning": "The limited suspension with procedural safeguards preserved legislative/executive balance and required ordinary lawmaking to make the rule's termination permanent.",
+          "rule": "Under the Wisconsin doctrine applied in Martinez, a limited, safeguarded committee suspension may be constitutional.",
+          "examTrap": "This is Wisconsin state-law doctrine, not a holding that a federal committee veto passes Chadha."
+        },
+        {
+          "id": "admin-legislative-evers",
+          "type": "case",
+          "title": "Evers v. Marklein (Wis. 2024) — executive spending veto by committee",
+          "summary": "Wisconsin invalidated a committee's power to block certain agency land purchases after legislative appropriation; a legislative committee cannot indefinitely exercise core executive spending decisions.",
+          "laymanExplanation": "Lawmakers may appropriate funds, but a committee cannot keep a permanent veto over executive implementation of the budget.",
+          "legalExplanation": "The court took a more categorical separation-of-powers approach than Martinez, which it did not discuss.",
+          "page": "486",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "sourceRole": "Discussed in notes, not full opinion",
+          "examApplication": "Contrast temporary rule-suspension and open-ended interference in core executive budget execution."
+        },
+        {
+          "id": "admin-legislative-state-grounds",
+          "type": "concept",
+          "title": "Grounds for legislative objections to state rules",
+          "summary": "Some state schemes limit objections to procedural or substantive illegality; others permit broad policy disapproval, raising delegation and lobbying concerns.",
+          "laymanExplanation": "Committees sometimes can stop only unlawful rules, while others can object simply because they dislike a policy.",
+          "legalExplanation": "The reading questions whether purported legal-only grounds truly restrain political legislators and whether courts should review committee action.",
+          "page": "487",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-mead",
+          "type": "case",
+          "title": "Mead v. Arnell (Idaho 1990) — limit on particular veto",
+          "summary": "An Idaho court upheld a state legislative veto system but invalidated an individual use for failing to find that the rule exceeded the agency's statutory authority as required.",
+          "laymanExplanation": "Even where a state allows the veto device, a committee must stay within its authorized grounds.",
+          "legalExplanation": "The court evaluated not only the structure but whether the veto satisfied its own conditions.",
+          "page": "487",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "sourceRole": "Discussed in notes only"
+        },
+        {
+          "id": "admin-legislative-affirmative-states",
+          "type": "framework",
+          "title": "State affirmative rule approval — WV, FL, Wisconsin",
+          "summary": "Some states require legislative authorization or ratification for specified rule categories, with varying thresholds and ordinary judicial review still possible.",
+          "laymanExplanation": "Some rules aren't binding until state lawmakers affirmatively ratify them.",
+          "legalExplanation": "West Virginia's general legislative-rule authorization, Florida's high-cost-rules ratification, and Wisconsin's cost-triggered system offer different models.",
+          "page": "488",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-state-difference",
+          "type": "concept",
+          "title": "Why state vetoes may differ from federal vetoes",
+          "summary": "Some scholars argue that smaller, part-time state legislatures need stronger oversight tools and that federal rights protections reduce certain dangers, while opponents emphasize separation of powers.",
+          "laymanExplanation": "State lawmakers often have fewer staff and meeting days, which can motivate more streamlined checks on agencies.",
+          "legalExplanation": "This is a policy argument from commentary, not a constitutional rule replacing state text and case law.",
+          "page": "484",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        }
+      ]
+    },
+    {
+      "id": "admin-legislative-other",
+      "title": "§ 7.4.3 — Oversight, Appropriations & Other Controls (pp. 489–493)",
+      "chapterGroup": "admin-legislative",
+      "description": "Investigations, hearings, GAO, ombuds, appropriations and funding riders, constituent casework.",
+      "entries": [
+        {
+          "id": "admin-legislative-committees",
+          "type": "framework",
+          "title": "Oversight committees and administrative supervision",
+          "summary": "Congressional authorizing and appropriations committees, plus specialized oversight committees, monitor agency programs, budgets, rules, and nominations.",
+          "laymanExplanation": "Congress can ask questions, investigate programs, and threaten legislative action without automatically changing a regulation.",
+          "legalExplanation": "At state level, standing joint rules committees often review legality and wisdom of agency regulations; oversight usually differs from a binding legislative veto.",
+          "page": "489",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-hearings",
+          "type": "concept",
+          "title": "Investigations, hearings, and committee subpoenas",
+          "summary": "Legislatures gather information through testimony, reports, investigations, and subpoenas, but executive privilege and separation of powers may limit particular requests.",
+          "laymanExplanation": "Lawmakers can investigate agencies and summon records, but not every demand is automatically valid.",
+          "legalExplanation": "Most conflicts resolve through negotiation; Trump v. Mazars emphasizes balancing legitimate congressional interests against the President's unique institutional position.",
+          "page": "490",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-gao",
+          "type": "definition",
+          "title": "Government Accountability Office (GAO)",
+          "summary": "GAO is a legislative support agency that audits operations and spending and provides evaluation and investigative reports to Congress.",
+          "laymanExplanation": "GAO checks how government programs work and how money is used.",
+          "legalExplanation": "It is headed by the Comptroller General and often receives cooperation despite limits on formal subpoena authority.",
+          "page": "491",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-ombuds",
+          "type": "definition",
+          "title": "Agency ombuds and legislative ombuds",
+          "summary": "Ombuds offices investigate complaints and recommend corrections; many have advisory soft power rather than binding decisionmaking authority.",
+          "laymanExplanation": "An ombuds can help you raise a complaint about an agency without having the power to order a fix.",
+          "legalExplanation": "Some states place ombuds within the legislature; federal agencies often maintain internal ombuds offices.",
+          "page": "491",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        },
+        {
+          "id": "admin-legislative-appropriations",
+          "type": "rule",
+          "title": "Appropriations and limitation riders",
+          "summary": "Congress or state legislatures may direct priorities by funding levels and statutory spending limitations, including prohibitions on using appropriated funds for specified activities.",
+          "laymanExplanation": "Lawmakers can constrain an agency by controlling money even without rewriting the agency's basic charter.",
+          "legalExplanation": "Binding appropriations restrictions differ from politically influential but nonbinding committee-report language.",
+          "page": "491",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "examApplication": "Ask whether the relevant restriction was enacted as law or merely expressed in a report or legislator's statement."
+        },
+        {
+          "id": "admin-legislative-cfpbfund",
+          "type": "case",
+          "title": "CFPB v. Community Financial Services Association (2024) — funding",
+          "summary": "The Supreme Court upheld CFPB's funding drawn through an authorized Federal Reserve mechanism against the Appropriations Clause challenge because it was provided by law.",
+          "laymanExplanation": "Congress can provide a legally authorized funding source other than an annual appropriation bill.",
+          "legalExplanation": "An appropriation may arise from a statute establishing the funding mechanism, even if annual appropriations are not required.",
+          "page": "492",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
+          "sourceRole": "Discussed in notes only",
+          "examTrap": "Do not conflate CFPB's valid funding method with the separate unconstitutional director removal protection in Seila Law."
+        },
+        {
+          "id": "admin-legislative-constituents",
+          "type": "concept",
+          "title": "Legislators' direct constituent contacts",
+          "summary": "Individual lawmakers frequently request agency status updates or assistance for constituents; efforts to affect pending outcomes, especially ex parte, raise fairness concerns.",
+          "laymanExplanation": "A congressional office can help a constituent get an update but should not secretly pressure an adjudicator to decide a case a certain way.",
+          "legalExplanation": "The line between ordinary casework and improper influence depends on the proceeding and applicable procedural constraints.",
+          "page": "492",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493"
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-legislative-problem-fda-chadha",
+      "title": "Drug Labeling Improvements Act — FDA proposal and automatic deemed passage",
+      "topicId": "admin-legislative-federal",
+      "kind": "Assigned textbook problem — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493 (p. 482–483)",
+      "prompt": "Congress revokes FDA's authority to promulgate binding drug-label rules but permits FDA to propose rules after APA § 553 procedures. House and Senate rules automatically deem corresponding approval bills passed after 60 days unless one chamber votes no, after which a bill is sent to the President. Approved rules remain subject to ordinary judicial review. FDA proposes tougher cold-pill warnings; the Senate votes down approval after lobbying. Patient group PSM challenges the process as an unconstitutional one-house veto and argues the rule took effect. House/Senate lawyers rely on Article I, § 5 authority over each chamber's procedures. Discuss constitutionality, requested relief, and policy implications; cf. the cited Rosenberg proposal.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-problem-madison-suspense",
+      "title": "Madison proposal to enact a suspensive legislative veto",
+      "topicId": "admin-legislative-states",
+      "kind": "Assigned textbook problem — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493 (p. 489)",
+      "prompt": "As counsel to a Madison state senator, evaluate the constitutionality and desirability of a proposed temporary committee suspension of agency rules modeled on Wisconsin's pre-2017 provision. Madison's constitution has no express separation-of-powers clause. Identify relevant limits and considerations without supplying a solved conclusion.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ],
+  "formulas": []
+}
