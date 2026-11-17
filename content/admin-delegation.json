@@ -314,27 +314,6 @@
           "legalExplanation": "This is a scholarly method of protecting nondelegation values through statutory interpretation, distinct from constitutional invalidation.",
           "page": "439",
           "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466"
-        },
-        {
-          "id": "admin-delegation-private-meaning",
-          "type": "definition",
-          "title": "Private nondelegation",
-          "summary": "Legislative transfers of binding governmental authority to private actors raise heightened concerns about self-interest, lack of political control, and absence of public-law procedures.",
-          "laymanExplanation": "A private business should not get unchecked lawmaking power over competitors.",
-          "legalExplanation": "Constitutional scrutiny focuses on binding control, conflicts, public supervision, judicial review, and whether governmental officials can reject private proposals.",
-          "page": "447",
-          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466"
-        },
-        {
-          "id": "admin-delegation-cartercoal",
-          "type": "case",
-          "title": "Carter v. Carter Coal Co. (1936) — improper private delegation",
-          "summary": "The Court struck down binding labor rules made by a majority of miners and operators over nonconsenting competitors, emphasizing self-interested private control.",
-          "laymanExplanation": "Businesses and workers cannot be allowed to impose binding terms on others merely by voting among themselves.",
-          "legalExplanation": "The central concern was coercive authority vested in private persons whose interests may oppose those regulated.",
-          "page": "447",
-          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466",
-          "sourceRole": "Case summarized in notes, not full opinion"
         }
       ]
     },
@@ -428,14 +407,25 @@
           "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466"
         },
         {
-          "id": "admin-delegation-state-private",
-          "type": "concept",
-          "title": "State private-delegation scrutiny",
-          "summary": "States may scrutinize private delegations more heavily than public ones, considering conflict of interest and public control.",
-          "laymanExplanation": "A private regulator acting in its own interest can face stricter review.",
-          "legalExplanation": "Texas Boll Weevil supplies an example involving regulatory and assessment power backed by coercive sanctions.",
-          "page": "450",
+          "id": "admin-delegation-private-meaning",
+          "type": "definition",
+          "title": "Private nondelegation",
+          "summary": "Legislative transfers of binding governmental authority to private actors raise heightened concerns about self-interest, lack of political control, and absence of public-law procedures.",
+          "laymanExplanation": "A private business should not get unchecked lawmaking power over competitors.",
+          "legalExplanation": "Constitutional scrutiny focuses on binding control, conflicts, public supervision, judicial review, and whether governmental officials can reject private proposals.",
+          "page": "447",
           "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466"
+        },
+        {
+          "id": "admin-delegation-cartercoal",
+          "type": "case",
+          "title": "Carter v. Carter Coal Co. (1936) — improper private delegation",
+          "summary": "The Court struck down binding labor rules made by a majority of miners and operators over nonconsenting competitors, emphasizing self-interested private control.",
+          "laymanExplanation": "Businesses and workers cannot be allowed to impose binding terms on others merely by voting among themselves.",
+          "legalExplanation": "The central concern was coercive authority vested in private persons whose interests may oppose those regulated.",
+          "page": "447",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466",
+          "sourceRole": "Case summarized in notes, not full opinion"
         },
         {
           "id": "admin-delegation-currin",
@@ -490,6 +480,16 @@
           "laymanExplanation": "Contractors may provide services but should not automatically make sovereign decisions about prosecution or war.",
           "legalExplanation": "The exact boundary of inherently governmental functions is contested; the excerpt mentions detention and prisons as difficult examples.",
           "page": "449",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466"
+        },
+        {
+          "id": "admin-delegation-state-private",
+          "type": "concept",
+          "title": "State private-delegation scrutiny",
+          "summary": "States may scrutinize private delegations more heavily than public ones, considering conflict of interest and public control.",
+          "laymanExplanation": "A private regulator acting in its own interest can face stricter review.",
+          "legalExplanation": "Texas Boll Weevil supplies an example involving regulatory and assessment power backed by coercive sanctions.",
+          "page": "450",
           "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466"
         },
         {
