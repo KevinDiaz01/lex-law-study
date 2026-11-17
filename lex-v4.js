@@ -270,6 +270,29 @@ async function boot(){
  try{
   const r=await fetch('./'+contentPath+'?v='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const raw=await r.json();if(!valid(raw))throw Error('Invalid published data');db=overlay(raw,pending);
  }catch(e){const stored=JSON.parse(localStorage.getItem(STORAGE)||'null');if(valid(stored))db=stored;else{$('notice').hidden=false;$('notice').textContent='Unable to load published course data: '+e.message;return}}
+ // Load separate Administrative Law material without modifying the existing course-data file.
+ // Preserve any user edits: imported entries are added only if their IDs do not already exist.
+ try{
+  const response=await fetch('./content/admin-ch1.json?v=1',{cache:'no-store'});
+  if(response.ok){
+   const supplement=await response.json();
+   if(supplement.version===1&&supplement.courseId==='admin'&&Array.isArray(supplement.topics)){
+    let admin=db.courses.find(c=>c.id==='admin');
+    if(!admin){admin={id:'admin',name:'Administrative Law',topics:[],formulas:[],problems:[]};db.courses.push(admin);}
+    admin.topics=admin.topics.filter(t=>t.id!=='admin-pending'||(t.entries||[]).length);
+    for(const t of supplement.topics){
+     const existing=admin.topics.find(a=>a.id===t.id);
+     if(!existing){admin.topics.push(copy(t));continue;}
+     const ids=new Set((existing.entries||[]).map(e=>e.id));
+     for(const entry of t.entries||[])if(!ids.has(entry.id)){existing.entries.push(copy(entry));ids.add(entry.id);}
+    }
+    admin.problems??=[];
+    const problemIds=new Set(admin.problems.map(p=>p.id));
+    for(const p of supplement.problems||[])if(!problemIds.has(p.id))admin.problems.push(copy(p));
+    admin.formulas??=[];
+   }
+  }
+ }catch(error){console.warn('Admin chapter supplement unavailable',error);}
  sectionId=current()?.topics[0]?.id||null;showChapter=new Set();save();render();
 }
 boot();
