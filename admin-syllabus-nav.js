@@ -4,14 +4,18 @@
 (() => {
 const units=[
  {name:'I. Introduction & Agency Structure',caption:'Classes 1–4 · Aug 24–Sep 2',items:[
-  {title:'Role and Structure of Agencies',detail:'Introduction · pp. 1–14',ids:['admin-ch1-introduction']},
+  {title:'Role and Structure of Agencies',detail:'Introduction · pp. 1–15',ids:['admin-ch1-introduction']},
   {title:'Appointment of Federal & Inferior Officers',detail:'§ 7.5.1a · pp. 493–510',ids:['admin-appointments-federal']},
   {title:'State Appointments',detail:'§ 7.5.1b · pp. 510–514',ids:['admin-appointments-state']},
-  {title:'Removal Power',detail:'pp. 514–534',match:/removal/i}
+  {title:'Removal — Independent Agencies',detail:'§ 7.5.2a · pp. 514–520',ids:['admin-removal-rise']},
+  {title:'Removal — Modern Doctrine',detail:'§ 7.5.2b · pp. 520–534',ids:['admin-removal-modern']}
  ]},
  {name:'II. Delegation of Agency Power',caption:'Classes 3–6 · Aug 31–Sep 14',items:[
-  {title:'Legislative Delegation / Nondelegation',detail:'pp. 417–451',match:/nondelegation|legislative delegation/i},
-  {title:'Delegation of Adjudicatory Power',detail:'pp. 451–466',match:/adjudicatory power|article iii|seventh amendment/i}
+  {title:'Political Branches & Separation of Powers',detail:'§ 7.1 · pp. 417–418',ids:['admin-foundations-political']},
+  {title:'Federal Nondelegation',detail:'§ 7.2.1 · pp. 418–440',ids:['admin-delegation-federal']},
+  {title:'State & Private Delegation',detail:'§§ 7.2.2–7.2.3 · pp. 440–451',ids:['admin-delegation-states']},
+  {title:'Article III — Agency Adjudication',detail:'§ 7.3.1 · pp. 451–454',ids:['admin-adjudication-article3']},
+  {title:'Seventh Amendment — Jarkesy',detail:'§ 7.3.2 · pp. 454–466',ids:['admin-adjudication-jury']}
  ]},
  {name:'III. Substantive Statutory Checks',caption:'Classes 5–6 · Sep 9–14',items:[
   {title:'Agency Interpretation — Preview',detail:'pp. 595–608',match:/interpretation.*preview/i}
@@ -30,8 +34,12 @@ const units=[
   {title:'Procedural Regularity & Regulatory Analysis',detail:'pp. 283–344',match:/procedural regularity|regulatory analysis/i},
   {title:'Exemptions, Guidance & Agency Choice',detail:'pp. 355–415',match:/guidance|rulemaking exemption|agency choice|rulemaking petitions|waivers/i}
  ]},
- {name:'V. Regulatory Reform',caption:'Classes 20–22 · Nov 2–9',items:[
-  {title:'Legislative and Presidential Controls',detail:'pp. 466–493, 535–551',match:/legislative control|presidential oversight|congressional review/i},
+ {name:'V. Regulatory Reform & Political Oversight',caption:'Classes 20–22 · Nov 2–9',items:[
+  {title:'Legislative Veto, Chadha & CRA',detail:'§ 7.4.1 · pp. 466–483',ids:['admin-legislative-federal']},
+  {title:'State Legislative Controls',detail:'§ 7.4.2 · pp. 483–489',ids:['admin-legislative-states']},
+  {title:'Other Legislative Controls',detail:'§ 7.4.3 · pp. 489–493',ids:['admin-legislative-other']},
+  {title:'Presidential Review & OIRA',detail:'§ 7.6 · pp. 535–544',ids:['admin-executive-oira']},
+  {title:'State Executive Oversight',detail:'§ 7.6 · pp. 544–551',ids:['admin-executive-state']},
   {title:'Negotiated Rulemaking',detail:'pp. 344–353',match:/negotiated rulemaking/i}
  ]},
  {name:'VI. Judicial Review',caption:'Classes 21–26 · Nov 4–23',items:[
@@ -48,6 +56,12 @@ groupTitle=function(g){
  if(courseId==='admin'){
   if(g[0]?.chapterGroup==='admin-ch1')return 'Introduction — Role and Structure of Agencies';
   if(g[0]?.chapterGroup==='admin-appointments')return 'Chief Executive’s Appointment Power';
+  if(g[0]?.chapterGroup==='admin-removal')return 'Chief Executive’s Removal Power';
+  if(g[0]?.chapterGroup==='admin-polbranches')return 'Separation of Powers & Political Branches';
+  if(g[0]?.chapterGroup==='admin-delegation')return 'Delegation of Legislative Power';
+  if(g[0]?.chapterGroup==='admin-adjudication-delegation')return 'Delegation of Adjudicatory Power';
+  if(g[0]?.chapterGroup==='admin-legislative')return 'Legislative Control of Agencies';
+  if(g[0]?.chapterGroup==='admin-executive')return 'Executive Oversight & Presidential Review';
  }
  return ogTitle(g);
 };
@@ -59,7 +73,7 @@ renderSidebar=function(){
  html+='<button class="side-link '+(page==='overview'?'active':'')+'" data-page="overview">Master Course Map</button>';
  for(let i=0;i<units.length;i++){
   const unit=units[i],matchIds=unit.items.flatMap(it=>it.ids||[]);
-  const opened=i===0||unit.items.some(it=>(it.ids||[]).includes(sectionId));
+  const opened=i===0||unit.items.some(it=>(it.ids||[]).includes(sectionId)||(!it.ids&&it.match&&available.some(t=>t.id===sectionId&&it.match.test(t.title))));
   html+='<details class="admin-syllabus-unit" '+(opened?'open':'')+'><summary><span class="admin-unit-name">'+esc(unit.name)+'</span><small>'+esc(unit.caption)+'</small></summary><div class="admin-unit-items">';
   for(const it of unit.items){
    let matched=available.filter(t=>((it.ids||[]).includes(t.id)||(!it.ids&&it.match?.test(t.title)))&&!seen.has(t.id));
