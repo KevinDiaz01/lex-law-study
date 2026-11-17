@@ -272,9 +272,9 @@ async function boot(){
  }catch(e){const stored=JSON.parse(localStorage.getItem(STORAGE)||'null');if(valid(stored))db=stored;else{$('notice').hidden=false;$('notice').textContent='Unable to load published course data: '+e.message;return}}
  // Import Admin Law source-based supplements; never overwrite published Tax or Bankruptcy content.
  // Existing entry IDs (including user edits) take priority over imports.
- for(const file of ['admin-ch1.json','admin-appointments.json']){
+ for(const file of ['admin-ch1.json','admin-appointments.json','admin-removal.json','admin-delegation.json','admin-legislative-controls.json','admin-executive-oversight.json','admin-discussion-questions.json']){
   try{
-   const response=await fetch('./content/'+file+'?v=2',{cache:'no-store'});
+   const response=await fetch('./content/'+file+'?v=3',{cache:'no-store'});
    if(!response.ok)throw Error('HTTP '+response.status);
    const supplement=await response.json();
    if(supplement.version!==1||supplement.courseId!=='admin'||!Array.isArray(supplement.topics))continue;
