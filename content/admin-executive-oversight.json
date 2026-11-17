@@ -1,0 +1,387 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+  "coverage": {
+    "submittedPages": "535–551",
+    "syllabusAssignment": "Executive oversight and presidential review of rulemaking",
+    "status": "Textbook § 7.6 supplied; E.O. 12,866 excerpt is the casebook version and amendments must be verified separately for current-law claims"
+  },
+  "topics": [
+    {
+      "id": "admin-executive-oira",
+      "title": "§ 7.6 — Presidential Oversight & E.O. 12,866 (pp. 535–544)",
+      "chapterGroup": "admin-executive",
+      "description": "Executive orders, OIRA/OMB, significant rules, cost-benefit review, Youngstown, Kendall, congressional mandates, 90-day review and White House authority.",
+      "entries": [
+        {
+          "id": "admin-executive-oversight",
+          "type": "framework",
+          "title": "Executive oversight beyond appointment and removal",
+          "summary": "Presidents and governors influence agencies through priorities, executive orders, coordination, OIRA review, and ad hoc White House or executive intervention.",
+          "laymanExplanation": "The President controls agencies in more ways than choosing and firing the leaders.",
+          "legalExplanation": "Executive oversight may be political, supervisory, procedural, or legally binding depending on constitutional and statutory authority.",
+          "page": "535",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "examApplication": "Identify the source of the President's authority and ask whether oversight conflicts with an agency-specific statutory mandate."
+        },
+        {
+          "id": "admin-executive-order",
+          "type": "rule",
+          "title": "Executive orders require legal authority",
+          "summary": "An executive order does not have force of law merely because the President signs it; its binding legal effect depends on constitutional or statutory authority.",
+          "laymanExplanation": "A presidential instruction is not automatically a new law.",
+          "legalExplanation": "Presidents often direct federal officials through orders, but affected persons may challenge actions outside delegated constitutional or statutory powers.",
+          "page": "535",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "examTrap": "Distinguish obedience within the executive branch from enforceable legal authority against private parties."
+        },
+        {
+          "id": "admin-executive-oira",
+          "type": "definition",
+          "title": "OIRA and OMB",
+          "summary": "The Office of Information and Regulatory Affairs (OIRA), within the Office of Management and Budget (OMB), coordinates White House review of significant agency rulemaking and regulatory analysis.",
+          "laymanExplanation": "OIRA checks major agency rules for consistency with legal requirements, cost-benefit goals, and White House priorities.",
+          "legalExplanation": "Presidential review developed under Reagan orders and E.O. 12,866, using centralized planning and coordination.",
+          "page": "535",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-exec12866",
+          "type": "rule",
+          "title": "Executive Order 12,866 — regulatory philosophy",
+          "summary": "The order directs agencies, within legal bounds, to evaluate the costs and benefits of proposed regulations and ordinarily adopt regulations where benefits justify costs.",
+          "laymanExplanation": "Agencies should think through whether the benefits of a significant rule justify its burdens.",
+          "legalExplanation": "E.O. 12,866 emphasizes agency expertise, OIRA coordination, presidential priorities, and assessment of both quantifiable and qualitative benefits.",
+          "page": "536",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "examApplication": "Locate particular order requirements, assess agency statutory duties, and avoid treating the executive order as a source of judicially enforceable individual rights."
+        },
+        {
+          "id": "admin-executive-agencyauthority",
+          "type": "rule",
+          "title": "E.O. 12,866 §§ 2 and 9 — agencies retain legal authority",
+          "summary": "Agencies develop regulations and must comply with their authorizing statutes; the order says it does not displace agencies' duties or responsibilities as authorized by law.",
+          "laymanExplanation": "OIRA oversees rulemaking, but the agency still has legal responsibilities assigned by Congress.",
+          "legalExplanation": "Centralized coordination does not by itself rewrite enabling statutes or allow ignoring a mandatory legal duty.",
+          "page": "536",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-significant",
+          "type": "definition",
+          "title": "E.O. 12,866 § 3(f) — significant regulatory action",
+          "summary": "As presented in the excerpt, significance includes large economic effects, interagency inconsistency, material changes to entitlements or budgets, or novel legal/policy questions.",
+          "laymanExplanation": "An agency rule can be significant because of money, conflicts with another rule, benefit impacts, or a novel issue.",
+          "legalExplanation": "Four criteria trigger potential centralized review; distinguish economically significant rules under § 3(f)(1) from other significant actions under §§ 3(f)(2)-(4).",
+          "page": "536",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "elements": "1. Material economic impact. 2. Serious inconsistency with other agency action. 3. Material budgetary/recipient rights changes. 4. Novel legal or policy questions.",
+          "examTrap": "The excerpt's original $100 million order language is distinguished in the notes from a subsequently revised threshold."
+        },
+        {
+          "id": "admin-executive-econ",
+          "type": "rule",
+          "title": "Economic significance and cost-benefit analysis",
+          "summary": "Under the reading's framework, especially significant economic rules trigger more detailed cost-benefit information submitted to OIRA, if law permits.",
+          "laymanExplanation": "Large-impact rules require more formal economic analysis than many other rules.",
+          "legalExplanation": "The excerpt's original order uses $100 million; casebook notes describe a later $200 million standard in the Executive Order, while CRA's major-rule threshold is separately defined.",
+          "page": "537",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-planning",
+          "type": "rule",
+          "title": "E.O. 12,866 § 4 — regulatory planning",
+          "summary": "Agencies prepare and submit plans of important significant regulatory actions; independent regulatory agencies are included in specified planning provisions.",
+          "laymanExplanation": "Agencies give the White House advance notice of major rules on their agenda.",
+          "legalExplanation": "Planning helps resolve overlaps and conflicts earlier; it is not identical to OIRA review of completed rules.",
+          "page": "537",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "examTrap": "Independent regulatory agencies are covered by the order's planning mechanism but generally excluded from its ordinary centralized rule-review scope in the original excerpt."
+        },
+        {
+          "id": "admin-executive-90days",
+          "type": "rule",
+          "title": "E.O. 12,866 § 6 — review periods and returns",
+          "summary": "OIRA ordinarily completes review within 90 calendar days, with a one-time written-authorized extension of at most 30 days or extensions requested by agency heads; return of a rule requires written explanation.",
+          "laymanExplanation": "OIRA cannot use the ordinary review process as an open-ended hold without following the specified rules.",
+          "legalExplanation": "The order also directs disclosures of certain OIRA communications with outsiders and government stakeholders.",
+          "page": "538",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "elements": "Baseline 90 days; up to 30 more with required approval; further extensions at agency head request.",
+          "examApplication": "If review creates delays, check the legal deadline and whether extension procedures were followed."
+        },
+        {
+          "id": "admin-executive-resolution",
+          "type": "rule",
+          "title": "E.O. 12,866 § 7 — conflict resolution",
+          "summary": "Unresolved disagreements between agency heads or between OMB and an agency are elevated to the President or requested Vice President, subject to applicable law.",
+          "laymanExplanation": "A major agency-White House impasse goes to top executive leadership for resolution.",
+          "legalExplanation": "The order also protects substantive agency statutory authority under § 9.",
+          "page": "538",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-nojr",
+          "type": "rule",
+          "title": "E.O. 12,866 § 10 — no independently enforceable private rights",
+          "summary": "The order states it is internal government management guidance and creates no enforceable substantive or procedural benefit; otherwise available judicial review is unaffected.",
+          "laymanExplanation": "You usually cannot sue just because OIRA broke one of the order's internal procedures.",
+          "legalExplanation": "This is a non-enforceability clause, not a general license for agencies to violate statutes or deny preexisting judicial review.",
+          "page": "538",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "examTrap": "Separate executive-order compliance from an APA or enabling-statute violation."
+        },
+        {
+          "id": "admin-executive-kendall",
+          "type": "case",
+          "title": "Kendall v. United States ex rel. Stokes (1838) — statutory ministerial duty",
+          "summary": "The Court refused to allow presidential direction to excuse a postmaster general from executing a specific congressionally imposed duty to pay a contract carrier.",
+          "laymanExplanation": "The President cannot order an agency official to ignore a mandatory law.",
+          "legalExplanation": "The Court upheld mandamus and distinguished legally prescribed ministerial duties from political responsibilities potentially directed by the President.",
+          "page": "538",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "sourceRole": "Extracted in notes, not full opinion",
+          "facts": "Congress directed a specified payment to a postal contractor, which the postmaster general refused on the President's instruction.",
+          "issue": "Can presidential direction defeat a ministerial statutory obligation imposed on an executive official?",
+          "holding": "No.",
+          "reasoning": "The President's duty to see laws faithfully executed cannot authorize forbidding execution of a valid statutory duty.",
+          "rule": "Executive supervision may not override mandatory duties Congress lawfully imposed.",
+          "examApplication": "Ask whether the statute grants the officer discretion or requires a fixed ministerial action."
+        },
+        {
+          "id": "admin-executive-youngstown",
+          "type": "case",
+          "title": "Youngstown Sheet & Tube Co. v. Sawyer (1952) — steel seizure",
+          "summary": "The President lacked constitutional or statutory authority to seize private steel mills to forestall a strike during the Korean War.",
+          "laymanExplanation": "The President cannot take over private factories simply because a national emergency makes it convenient.",
+          "legalExplanation": "The Black majority focused on absence of statute and the limited commander-in-chief power; Jackson's influential concurrence created a three-category scheme for executive authority.",
+          "page": "539",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "sourceRole": "Discussed and excerpted in notes",
+          "facts": "Truman directed the Secretary of Commerce to seize steel mills during a labor dispute affecting the Korean War economy.",
+          "issue": "Did the President possess statutory or independent constitutional authority for this seizure?",
+          "holding": "No.",
+          "reasoning": "Lawmaking belongs to Congress; neither the Take Care Clause nor commander-in-chief authority supplied the claimed domestic property-seizure power.",
+          "rule": "An executive order needs statutory or constitutional basis and cannot assume legislative authority."
+        },
+        {
+          "id": "admin-executive-youngstown-jackson",
+          "type": "framework",
+          "title": "Jackson's Youngstown three categories",
+          "summary": "Executive authority is greatest with congressional authorization, uncertain in a congressional silence 'zone of twilight,' and weakest when incompatible with Congress's expressed or implied will.",
+          "laymanExplanation": "Presidential power depends heavily on whether Congress supports, has said nothing, or opposes the action.",
+          "legalExplanation": "Jackson's framework organizes separation-of-powers analysis of executive actions; a President in category three relies only on exclusive constitutional powers.",
+          "page": "539",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "elements": "1. Authorized by Congress: maximum authority. 2. Congressional silence: zone of twilight. 3. Contrary to congressional will: lowest ebb.",
+          "examApplication": "Identify the statute, congressional position, and claimed inherent presidential power before assigning a category.",
+          "examTrap": "Do not assume every agency action occurs in Category 2 merely because Congress did not separately authorize OIRA."
+        },
+        {
+          "id": "admin-executive-oira-history",
+          "type": "history",
+          "title": "OIRA regulatory-review history under Reagan and Clinton",
+          "summary": "Reagan created centralized review in E.O. 12,291; Clinton's E.O. 12,866 retained oversight but narrowed intensive review, emphasized planning, and increased transparency.",
+          "laymanExplanation": "The review system survived political transitions while changing how many rules it scrutinized.",
+          "legalExplanation": "Casebook notes describe the later $200 million threshold and Biden-era public-participation additions as history of the order as of publication.",
+          "page": "540",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-oira-merits",
+          "type": "concept",
+          "title": "Arguments supporting OIRA oversight",
+          "summary": "Defenders cite interagency coordination, better technical evaluation, resource allocation, cost-benefit scrutiny, and presidential accountability relative to courts.",
+          "laymanExplanation": "Central experts can spot conflicting rules and weigh costs and benefits across agencies.",
+          "legalExplanation": "Pildes, Sunstein, and Pierce argued OIRA has advantages over court review in technical competence and speed.",
+          "page": "541",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-oira-critique",
+          "type": "concept",
+          "title": "Critiques of centralized rule review",
+          "summary": "Critics warn OIRA can favor deregulation, invite political favoritism, obscure decisionmaking, delay needed protections, and lack checks against capture.",
+          "laymanExplanation": "White House review may block or weaken rules for political reasons or consume time.",
+          "legalExplanation": "Bagley, Revesz, and empirical literature in the notes offer objections distinct from the underlying constitutionality of OIRA.",
+          "page": "542",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-oira-legal",
+          "type": "framework",
+          "title": "Legality of OIRA: congressional mandate and executive authority",
+          "summary": "The textbook generally places ordinary presidential regulatory coordination near Youngstown's second category but identifies limits where Congress forbids interference or imposes mandatory deadlines.",
+          "laymanExplanation": "A White House reviewer may advise and coordinate, but cannot excuse breaking agency law.",
+          "legalExplanation": "Article II's Take Care Clause and Opinion Clause support presidential supervision; the power to command a statutorily entrusted discretionary choice remains debated.",
+          "page": "543",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "examApplication": "Ask whether the President is advising, coordinating, ordering a statutory violator, or merely influencing the agency head through political means."
+        },
+        {
+          "id": "admin-executive-deadlines",
+          "type": "rule",
+          "title": "OIRA review cannot excuse statutory deadlines",
+          "summary": "A regulatory agency may not cite pending OIRA review as lawful grounds for missing a statutory duty to issue a rule by a deadline.",
+          "laymanExplanation": "A White House review does not suspend Congress's deadline.",
+          "legalExplanation": "The notes cite NRDC v. EPA and EDF v. Thomas for enforcement of mandatory rulemaking deadlines despite OMB interference.",
+          "page": "543",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-impasse",
+          "type": "concept",
+          "title": "President versus agency head — who decides?",
+          "summary": "The notes distinguish E.O. 12,866 § 7 conflict escalation from § 9 preservation of statutory agency authority and debate whether presidential policy preference can legally override statutory agency discretion.",
+          "laymanExplanation": "A President may be politically powerful without legally replacing the agency official designated by Congress as decisionmaker.",
+          "legalExplanation": "Examples include Bush's supervision of an OSHA labeling rule and scholarly disagreements over directive authority.",
+          "page": "544",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        }
+      ]
+    },
+    {
+      "id": "admin-executive-state",
+      "title": "§ 7.6 — Independent Agencies, Presidential Administration & States (pp. 544–551)",
+      "chapterGroup": "admin-executive",
+      "description": "Independent agency exclusions, Kagan's thesis, state review systems, California OAL, gubernatorial rule freezes, Whiley and MOIRA problem.",
+      "entries": [
+        {
+          "id": "admin-executive-independent-exempt",
+          "type": "rule",
+          "title": "Independent agencies and OIRA scope under the excerpt",
+          "summary": "E.O. 12,866 generally exempts independent agencies from centralized rule review while including them in planning; scholars and ACUS debated expanding review.",
+          "laymanExplanation": "An independent commission may have to send planning information yet not pass its proposed rule through ordinary OIRA clearance.",
+          "legalExplanation": "This description concerns the order and practice described by the assigned text; evaluate any later supplement or amendment separately.",
+          "page": "544",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-oira-practice",
+          "type": "concept",
+          "title": "OIRA review transparency and delay",
+          "summary": "Observers question openness and prolonged review, including agency requests for postponement, though OIRA also provides interagency coordination.",
+          "laymanExplanation": "OIRA can be useful but may hold up rules without enough public visibility.",
+          "legalExplanation": "The text cites ACUS concern with timeliness and studies of backlogs; review requirements must be distinguished from actual practices.",
+          "page": "545",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-kagan",
+          "type": "concept",
+          "title": "Kagan's 'Presidential Administration' thesis",
+          "summary": "Kagan argues that when a statute gives an agency head discretion, it should generally be read to allow presidential direction unless Congress clearly excludes that power; she excepts protected independent agencies.",
+          "laymanExplanation": "Kagan would usually let the President direct the policy choices of executive agency heads unless Congress said otherwise.",
+          "legalExplanation": "Her proposal is a scholarly argument and differs from strong unitary executive constitutional theory because Congress could still restrict the President through clear legislation.",
+          "page": "546",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "examTrap": "This is Kagan's scholarly statutory interpretation proposal, not a Supreme Court holding that the President may always replace an agency head's judgment."
+        },
+        {
+          "id": "admin-executive-kagan-critique",
+          "type": "concept",
+          "title": "Critiques of presidential administration",
+          "summary": "Opponents argue presidents can respond to narrow political pressure, centralization may weaken checks and balances, and executive energy can harm regulatory quality.",
+          "laymanExplanation": "An elected President is accountable but not necessarily better at every policy choice.",
+          "legalExplanation": "Sargentich, Stack, and Bressman challenge overreliance on presidential leadership as a guarantor of sound or legitimate policy.",
+          "page": "546",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-governors",
+          "type": "framework",
+          "title": "Gubernatorial executive review powers",
+          "summary": "Many governors oversee agency rulemaking through orders, approval requirements, review offices, and sometimes line-item vetoes, subject to state law.",
+          "laymanExplanation": "Governors can supervise state rulemaking in ways that vary considerably by state constitution.",
+          "legalExplanation": "The excerpt describes state OIRA-like systems and more specialized review offices.",
+          "page": "547",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-rudder",
+          "type": "case",
+          "title": "Rudder v. Pataki — NY gubernatorial review dispute",
+          "summary": "A challenge to a governor's rule-blocking review office failed for standing; dissenting judges contended the office displaced the agency head's delegated policymaking authority.",
+          "laymanExplanation": "The suit failed without a binding merits ruling, but dissenters questioned letting governor aides veto expert agency rules.",
+          "legalExplanation": "Do not misstate the dissenting separation-of-powers theory as a majority merits holding.",
+          "page": "548",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "sourceRole": "Case summarized in notes, merits discussed in dissent"
+        },
+        {
+          "id": "admin-executive-oal",
+          "type": "definition",
+          "title": "California OAL versus federal OIRA",
+          "summary": "California's Office of Administrative Law reviews rules for legality, necessity, clarity, duplication, reference, and procedural compliance; federal OIRA focuses more on presidential priorities, coordination, and benefits/costs.",
+          "laymanExplanation": "California has a quasi-legal quality-control office; OIRA is also a political policy-review office.",
+          "legalExplanation": "OAL offers an ex ante judicial-review-like check with possible agency resubmission and limited gubernatorial appeal.",
+          "page": "548",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "examApplication": "Compare function, source of authority, and type of review rather than grouping all executive oversight together."
+        },
+        {
+          "id": "admin-executive-gubernatorial-veto",
+          "type": "concept",
+          "title": "State governor preapproval or rescission of regulations",
+          "summary": "Some states require governors to approve rules before effectiveness or let governors rescind newly issued rules under statutes; permissible scope varies.",
+          "laymanExplanation": "In some states a governor has an express power to sign off on agency regulations.",
+          "legalExplanation": "A governor's veto may be statutory and can differ significantly from unilateral presidential orders under federal law.",
+          "page": "549",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-state-plural",
+          "type": "concept",
+          "title": "Plural state executive",
+          "summary": "Many states elect multiple executive officers separately from the governor, creating divided executive control and potential conflicts between agency policy and attorney general legal positions.",
+          "laymanExplanation": "A governor doesn't always supervise every state executive office the way a President might.",
+          "legalExplanation": "State constitutions can allocate independent mandates to attorney general and other elected officials.",
+          "page": "549",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-moratoria",
+          "type": "framework",
+          "title": "Rulemaking freezes and transition moratoria",
+          "summary": "Presidents and governors sometimes pause rulemaking, especially at transitions; prolonged freezes raise distinct legality and policy problems from time-limited review of outgoing administration rules.",
+          "laymanExplanation": "A short temporary pause to review proposed rules differs from an indefinite order stopping agencies from working.",
+          "legalExplanation": "The text distinguishes soft from hard moratoria and emphasizes compliance with state or federal statutory procedures.",
+          "page": "549",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551"
+        },
+        {
+          "id": "admin-executive-whiley",
+          "type": "case",
+          "title": "Whiley v. Scott (Fla. 2011) — governor's rulemaking freeze",
+          "summary": "Florida's Supreme Court invalidated a governor's executive suspension or preclearance of agency rulemaking where it displaced rulemaking authority assigned by state legislation and APA.",
+          "laymanExplanation": "A governor could not replace the legislature's established agency rulemaking procedures with a unilateral executive freeze.",
+          "legalExplanation": "The court treated the order as encroaching on delegated legislative rulemaking; the notes report that the state legislature later ratified contested parts by law.",
+          "page": "550",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551",
+          "sourceRole": "Case discussed in notes, not full opinion",
+          "facts": "Governor Scott first ordered immediate suspension of agency rulemaking, then required advance clearance from a new executive review office.",
+          "issue": "Could the governor unilaterally stop agencies from exercising their statutory rulemaking powers?",
+          "holding": "No under then-applicable Florida law.",
+          "reasoning": "Agency rulemaking occurred through a legislative delegation and state APA requirements the governor could not supersede by order.",
+          "rule": "A state governor's oversight order cannot displace governing statutory agency procedures under the applied state separation-of-powers doctrine.",
+          "examTrap": "Subsequent legislative ratification affected the landscape; don't assume the challenged order was never addressed by legislation."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-executive-problem-moira-551",
+      "topicId": "admin-executive-state",
+      "title": "MOIRA / DPC municipal incinerator rules — Bonita and Chad",
+      "kind": "Assigned textbook problem — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.6, pp. 535–551 (pp. 550–551)",
+      "prompt": "Madison's Department of Pollution Control (DPC) issues municipal-incinerator regulations after dropping two proposed requirements. First, Bonita of MOIRA criticizes the agency's methodological evidence for prohibiting lead-acid car-battery burning, notes other environmental regulation, and persuades DPC chair Chad to drop the ban cooperatively, though it was not his preferred solution. Second, Bonita directs Chad to drop a newspaper-recycling program, citing direct instruction from the governor and municipal cost complaints; Chad objects but complies solely because of that gubernatorial instruction. An environmental alliance asks whether any MOIRA/DPC conduct was legally or normatively improper and plans reconsideration. Analyze (a) MOIRA acting under an executive order materially identical to federal E.O. 12,866 with Madison following federal judicial case law; (b) a different Madison law requiring gubernatorial sign-off on all agency regulations. Do not assume the newspaper allegations are true beyond the hypothetical.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ],
+  "formulas": []
+}
