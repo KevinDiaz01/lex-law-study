@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+  "coverage": {
+    "submittedPages": "493–514",
+    "syllabusClass": "Classes 1–2",
+    "syllabusAssignment": "Chief Executive’s Appointment and Removal Power — Appointments of Federal Officers and Inferior Officers, pp. 493–514",
+    "status": "Appointments reading received; Kennedy v. Braidwood Management, Inc. in 2026 supplement remains pending"
+  },
+  "topics": [
+    {
+      "id": "admin-appointments-federal",
+      "title": "Appointments of Federal Officers — § 7.5.1a (pp. 493–510)",
+      "chapterGroup": "admin-appointments",
+      "description": "Article II appointments; principal versus inferior officers; full excerpt of United States v. Arthrex; casebook notes on Edmond, Morrison, Lucia, Buckley, acting and recess appointments.",
+      "entries": [
+        {
+          "id": "admin-appointments-appointment-clause",
+          "type": "rule",
+          "title": "Article II Appointments Clause",
+          "summary": "Principal officers require presidential nomination and Senate confirmation. Congress may by statute vest appointment of inferior officers in the President alone, courts of law, or heads of departments.",
+          "laymanExplanation": "The most powerful federal officials generally require Senate approval; Congress has more flexibility for lower-level officers.",
+          "legalExplanation": "U.S. Const. art. II, § 2, cl. 2 sets the default appointment method and permits three alternative appointing authorities only for inferior officers.",
+          "page": 493,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "elements": "1. Is the position a federal office? 2. Is it principal or inferior? 3. Who appointed the person? 4. If inferior, did Congress authorize the particular appointing authority?",
+          "examTrap": "Do not assume Congress itself may appoint federal officers merely because it creates the office."
+        },
+        {
+          "id": "admin-appointments-three-types",
+          "type": "definition",
+          "title": "Three categories of federal personnel",
+          "summary": "Principal officers, inferior officers, and employees/contractors ('lesser functionaries') have distinct appointment requirements.",
+          "laymanExplanation": "First classify the person's position; not everyone working for the government is a constitutional officer.",
+          "legalExplanation": "The constitutional categories concern federal officers. Ordinary employees are not subject to the Appointments Clause and may be hired as Congress directs.",
+          "page": 493,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-officer-test",
+          "type": "rule",
+          "title": "Officer versus employee — continuing office and significant authority",
+          "summary": "An officer occupies a continuing federal position and exercises significant authority pursuant to federal law; otherwise the individual may be an employee.",
+          "laymanExplanation": "A government worker who has continuing legal decisionmaking powers may be an officer, not an ordinary staff member.",
+          "legalExplanation": "The notes synthesize Buckley v. Valeo and Lucia v. SEC: significant legal authority and the continuing nature of the position distinguish officers from lesser functionaries.",
+          "page": 507,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "elements": "Continuing position and significant authority under U.S. law.",
+          "examApplication": "Ask whether the individual's duties bind parties or exercise legal powers such as taking evidence, ruling on discovery, and deciding cases."
+        },
+        {
+          "id": "admin-appointments-principal-inferior",
+          "type": "rule",
+          "title": "Principal versus inferior officers — supervision",
+          "summary": "Inferior officers are directed and supervised at some level by officers appointed through presidential nomination and Senate confirmation; decisive final authority without principal-officer review can create an Appointments Clause defect.",
+          "laymanExplanation": "A lower-level officer must answer in a meaningful way to a higher officer confirmed by the Senate.",
+          "legalExplanation": "Edmond and Arthrex focus on the chain of executive accountability. Arthrex expressly declined to announce an exclusive principal/inferior criterion.",
+          "page": 497,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "elements": "Identify the superior officer, administrative oversight, ability to remove/reassign, and especially ability to review the challenged final decision.",
+          "examTrap": "Judicial review outside the Executive Branch is not a substitute for review by a principal executive officer in Arthrex."
+        },
+        {
+          "id": "admin-appointments-edmond",
+          "type": "case",
+          "title": "Edmond v. United States — described in the notes",
+          "summary": "Coast Guard Court of Criminal Appeals judges were inferior officers because presidentially appointed superiors exercised administrative oversight, could remove judges from assignments, and could review their decisions.",
+          "laymanExplanation": "Coast Guard judges counted as inferior because their decisions were controlled by higher executive officials.",
+          "legalExplanation": "The notes identify three supervision indicators: policies/oversight by the Judge Advocate General, removal from judicial assignment, and merits review by the Court of Appeals for the Armed Forces.",
+          "page": 503,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "sourceRole": "Discussed in notes; not a reproduced full judicial opinion in this upload",
+          "examApplication": "Compare each supervisory feature with the decisionmaker in a new hypothetical."
+        },
+        {
+          "id": "admin-appointments-arthrex",
+          "type": "case",
+          "title": "United States v. Arthrex, Inc., 594 U.S. 1 (2021)",
+          "summary": "Unreviewable final PTAB decisions made by administrative patent judges appointed as inferior officers were inconsistent with the Appointments Clause; discretionary review by the Senate-confirmed PTO Director cured the defect.",
+          "laymanExplanation": "Patent judges had the final executive say, but weren't appointed like top officers. The PTO Director must be able to review their decisions.",
+          "legalExplanation": "The Supreme Court held that executive adjudicatory decisions by inferior officers must be subject at some level to the direction and supervision of a Presidentially nominated, Senate-confirmed officer. The Director need not review every decision.",
+          "page": 493,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "assignedOpinion": true,
+          "facts": "The Patent Trial and Appeal Board (PTAB) conducted inter partes review of Arthrex's patent. Three administrative patent judges (APJs), appointed by the Secretary of Commerce, held the patent invalid. Statute made their decisions final within the Executive Branch, although judicial review was available in the Federal Circuit. The Senate-confirmed PTO Director oversaw many PTAB operations but lacked statutory authority to review final APJ decisions.",
+          "issue": "Can APJs appointed as inferior officers exercise unreviewable final decisionmaking authority in inter partes review, consistent with the Appointments Clause?",
+          "holding": "No. Their unreviewable final authority conflicted with their appointment as inferior officers; a tailored remedy allowed discretionary review by the PTO Director.",
+          "reasoning": "The President's duty to ensure faithful execution requires an accountable executive chain of command. Edmond allows inferior officers to be supervised by principal officers. The Director's control over pay, selection, rules, institution of proceedings, and prospective guidance could not countermand a final PTAB decision. Rehearing by another PTAB panel and post-hoc judicial review could not supply executive review. Indirect panel manipulation obscured accountability rather than curing the defect.",
+          "rule": "Inferior officers' exercise of executive power must be subject at some level to direction and supervision by a Senate-confirmed principal officer; unreviewable final adjudicatory decisions by APJs violate that principle.",
+          "exam": "Distinguish internal executive review from review by an Article III court; analyze whether nominal oversight actually reaches the specific exercise of final authority.",
+          "examApplication": "Identify what the inferior officer decides, whether a principal officer has discretion to review, whether any apparent review is merely peer review, and whether severance/review authority can remedy the defect.",
+          "examTrap": "The Court said review need only be available, not exercised in every case, and did not provide an exclusive test for all inferior officers."
+        },
+        {
+          "id": "admin-appointments-arthrex-remedy",
+          "type": "rule",
+          "title": "Arthrex remedy — tailored severance and Director review",
+          "summary": "The Court held unenforceable the statutory restriction that prevented the PTO Director from reviewing final PTAB decisions; it rejected removing APJ tenure protections as the appropriate fix.",
+          "laymanExplanation": "Instead of dismantling the patent system or firing judges at will, the Court gave the director authority to review their decisions.",
+          "legalExplanation": "Partial invalidation or severance of the offending statutory constraint preserves the remaining workable scheme. The Director can issue a decision on behalf of the Board upon review.",
+          "page": 499,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "examTrap": "Keep the constitutional holding separate from the remedial holding."
+        },
+        {
+          "id": "admin-appointments-arthrex-gorsuch",
+          "type": "concept",
+          "title": "Arthrex — Justice Gorsuch's separate opinion",
+          "summary": "Justice Gorsuch questioned agency adjudication of patent rights and disagreed with the Court's tailored remedy, preferring to invalidate the statutory scheme rather than confer review power.",
+          "laymanExplanation": "He thought the Court shouldn't rewrite Congress's choice to create independent decisionmakers.",
+          "legalExplanation": "The excerpt presents his arguments about delegation of adjudicatory authority and congressional preference for APJ decisional independence; these are not the controlling holding.",
+          "page": 500,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-arthrex-breyer",
+          "type": "concept",
+          "title": "Arthrex — Justice Breyer's functional approach",
+          "summary": "Breyer, joined by Sotomayor and Kagan, would have given Congress greater leeway in designing independent adjudicators and opposed a rigid reviewability requirement; he agreed with the tailored remedy once the majority found a violation.",
+          "laymanExplanation": "He favored looking at why Congress created independent patent adjudicators and the practical effects of the arrangement.",
+          "legalExplanation": "The separate opinion stresses expertise, independence from political influence, and the broad variation of executive agencies; it criticizes the formal approach to officer supervision.",
+          "page": 501,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "examApplication": "Contrast formal accountability and functional adjudicator independence when discussing the constitutional design."
+        },
+        {
+          "id": "admin-appointments-arthrex-thomas",
+          "type": "concept",
+          "title": "Arthrex — Justice Thomas's dissent",
+          "summary": "Thomas argued that APJs working below multiple executive superiors were inferior officers and that the Court should not rewrite statutory review powers.",
+          "laymanExplanation": "He believed the patent judges were already clearly subordinate and lawfully appointed.",
+          "legalExplanation": "The dissent disputed the Court's extension of Edmond and the proposed remedy; it is not the controlling rule.",
+          "page": 502,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-arthrex-comparison",
+          "type": "framework",
+          "title": "Edmond versus Arthrex — exam comparison",
+          "summary": "Both cases use executive supervision as the core distinction; Arthrex puts special weight on lack of principal-officer merits review of APJs' final adjudicatory decisions.",
+          "laymanExplanation": "A boss who sets schedules is not necessarily a boss who can change the case outcome.",
+          "legalExplanation": "Edmond found administrative oversight, removal from judicial assignments, and executive merits review; Arthrex found the first two functions insufficient without final-decision review by a principal officer.",
+          "page": 503,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "examApplication": "Analyze the challenged officer's power to issue a final binding executive decision and whether a Senate-confirmed superior can review it."
+        },
+        {
+          "id": "admin-appointments-unitary",
+          "type": "concept",
+          "title": "Unitary executive theory and accountability",
+          "summary": "Arthrex reinforces the theory that executive action must ultimately be accountable through a chain of command to the President.",
+          "laymanExplanation": "Executive officers should be answerable to a higher-level chain ultimately leading to the President.",
+          "legalExplanation": "The casebook links principal-officer reviewability to executive unity and political accountability, while noting that this theory receives fuller treatment in removal-power materials.",
+          "page": 504,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-rulemaking-extension",
+          "type": "context",
+          "title": "Potential application of Arthrex to rulemaking",
+          "summary": "The casebook discusses a Fifth Circuit application of Arthrex to rules issued by members of the Preventive Services Task Force and anticipated Supreme Court review.",
+          "laymanExplanation": "The same accountability question can arise if an inferior officer issues binding rules rather than deciding cases.",
+          "legalExplanation": "This section presents Braidwood Management v. Becerra (5th Cir. 2024) as a pending issue at the time of publication. The syllabus separately assigns Kennedy v. Braidwood Management, Inc. (2026 supplement), which has not yet been supplied.",
+          "page": 504,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "examTrap": "Do not treat the casebook's pre-decision prediction about Braidwood as the Supreme Court's later holding. Await the assigned supplement."
+        },
+        {
+          "id": "admin-appointments-workarounds",
+          "type": "concept",
+          "title": "Arthrex — indirect influence does not equal lawful review",
+          "summary": "Choosing panels, setting prospective policies, or changing assignments does not replace transparent authority to review and reverse a final executive decision.",
+          "laymanExplanation": "Stacking a panel is not the same as legally taking responsibility for its decision.",
+          "legalExplanation": "The Court viewed attempts to manipulate PTAB panel composition as undermining impartiality and accountability; principal-officer review provides a direct and visible mechanism.",
+          "page": 498,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-post-arthrex",
+          "type": "context",
+          "title": "PTO Director review after Arthrex",
+          "summary": "The notes report PTO director-review procedures, including rules promulgated in 2024 and 37 C.F.R. § 42.75; the Director had overturned few decisions as of the casebook's account.",
+          "laymanExplanation": "The Court's fix was implemented through a process for Director review.",
+          "legalExplanation": "The notes also cite ACUS Recommendation 2024–3 concerning design of principal-officer review schemes; these sources are described, not reproduced in full.",
+          "page": 505,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-rodriguez",
+          "type": "case",
+          "title": "Rodriguez v. SSA — described in notes",
+          "summary": "The Eleventh Circuit distinguished Arthrex when reviewing SSA Appeals Council decisions, because the limitation on further review came from regulation rather than statute.",
+          "laymanExplanation": "A rule restricting review might be changeable by agency leadership, unlike a statute that removes its authority.",
+          "legalExplanation": "The casebook presents a 2024 decision upholding the SSA Appeals Council while inviting consideration of whether the regulation/statute distinction is convincing.",
+          "page": 505,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "sourceRole": "Discussed in notes, not a reproduced full opinion"
+        },
+        {
+          "id": "admin-appointments-morrison",
+          "type": "case",
+          "title": "Morrison v. Olson — independent counsel as inferior officer",
+          "summary": "The Supreme Court classified an independent counsel appointed by a special court as an inferior officer, emphasizing limited duties, limited jurisdiction, temporary position, and removal for cause by the Attorney General.",
+          "laymanExplanation": "A special prosecutor could be considered a lower-level officer despite significant independence.",
+          "legalExplanation": "The notes recount the majority's multi-factor analysis and Justice Scalia's objection that inferior status should turn principally on subordination. The book characterizes Morrison's continuing force as uncertain, not formally overruled.",
+          "page": 506,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "sourceRole": "Discussed in notes, not a reproduced full opinion",
+          "examTrap": "Do not say Morrison has been formally overruled merely because the notes criticize its vitality."
+        },
+        {
+          "id": "admin-appointments-interbranch",
+          "type": "rule",
+          "title": "Court appointment of inferior officers — interbranch limits",
+          "summary": "The Appointments Clause permits Congress to authorize appointment of inferior officers by courts of law, provided the assignment is not constitutionally incongruous.",
+          "laymanExplanation": "Judges sometimes may appoint lower-level officers outside the judiciary, but not every appointment is appropriate.",
+          "legalExplanation": "Morrison upheld judicial appointment of an independent counsel partly because judicial involvement with prosecutors was historically familiar and addressed executive conflicts of interest.",
+          "page": 506,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-lucia",
+          "type": "case",
+          "title": "Lucia v. SEC — ALJs are inferior officers",
+          "summary": "SEC administrative law judges exercised significant authority as continuing federal officers and could not be appointed by a staff member; Lucia required a new hearing before a different properly appointed ALJ.",
+          "laymanExplanation": "An SEC hearing judge was too powerful to be hired as an ordinary employee.",
+          "legalExplanation": "The notes identify the ALJs' authority over hearings, discovery, and adjudication as sufficient despite internal agency review of decisions.",
+          "page": 507,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "sourceRole": "Discussed in notes, not a reproduced full opinion",
+          "examApplication": "When a hearing officer issues orders and makes findings, examine the actual appointment path and appropriate remedy."
+        },
+        {
+          "id": "admin-appointments-buckley",
+          "type": "case",
+          "title": "Buckley v. Valeo — congressional appointment of FEC officers",
+          "summary": "Congressional leaders could not appoint Federal Election Commission members who exercised significant executive authority; appointments of federal officers must follow Article II.",
+          "laymanExplanation": "Congress cannot directly pick officers who regulate, adjudicate, or litigate under federal law.",
+          "legalExplanation": "The notes distinguish information-gathering duties Congress could carry out itself from rulemaking, adjudication, and enforcement litigation requiring constitutionally appointed executive officers.",
+          "page": 507,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "sourceRole": "Discussed in notes, not a reproduced full opinion",
+          "examTrap": "Senate advice and consent is permitted; appointment by the House Speaker or Senate president pro tempore is not a permitted Article II route."
+        },
+        {
+          "id": "admin-appointments-acting",
+          "type": "concept",
+          "title": "Acting officers and vacancy statutes",
+          "summary": "Congress can authorize temporary acting appointments to vacancies in positions normally filled by Senate-confirmed principal officers, subject to detailed restrictions.",
+          "laymanExplanation": "An acting official can temporarily perform a job while the regular appointment process is unfinished.",
+          "legalExplanation": "The casebook describes vacancy statutes as balancing operational continuity with the Senate-confirmation safeguard.",
+          "page": 508,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-recess",
+          "type": "rule",
+          "title": "Recess Appointments Clause and Noel Canning",
+          "summary": "The President may make temporary recess appointments, but a recess of three days or fewer is insufficient and a break shorter than ten days is presumptively too short; pro forma Senate sessions count.",
+          "laymanExplanation": "The President cannot use an extremely short congressional break as an easy way around Senate confirmation.",
+          "legalExplanation": "The notes summarize NLRB v. Noel Canning's functional, historically informed limits. Recess commissions expire at the end of the Senate's next session.",
+          "page": 508,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "examTrap": "Justice Scalia's narrower intersession-only view is a concurrence, not the Court's controlling test."
+        },
+        {
+          "id": "admin-appointments-recess-open",
+          "type": "context",
+          "title": "Recess appointments — questions left open in the casebook",
+          "summary": "The text speculates about potential adjournment strategies and notes uncertainty over Article II, § 3 presidential adjournment authority.",
+          "laymanExplanation": "Some constitutional questions about presidential adjournment and vacancies remain unresolved in this excerpt.",
+          "legalExplanation": "Distinguish the published holding in Noel Canning from the book's post-election/pre-inauguration predictions about future presidential conduct.",
+          "page": 509,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-state-variation",
+          "type": "rule",
+          "title": "State appointments depend on state constitutions",
+          "summary": "State appointment systems vary widely: governors may appoint, legislatures may participate, and some officials are elected; the federal Appointments Clause does not directly supply a uniform state rule.",
+          "laymanExplanation": "You cannot automatically apply federal officer-appointment rules to a state agency.",
+          "legalExplanation": "Some states place appointment authority mainly in governors, some allow legislative selection, and others use separation-of-powers principles where constitutional text is unclear.",
+          "page": 510,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "examApplication": "Read the hypothetical state's actual constitutional text, history, and separation-of-powers doctrine before evaluating the appointment."
+        },
+        {
+          "id": "admin-appointments-state-sop",
+          "type": "framework",
+          "title": "State separation of powers — formal and pragmatic approaches",
+          "summary": "State courts differ between treating appointments as inherently executive and allowing limited sharing of appointments with other branches.",
+          "laymanExplanation": "Some state courts insist on strict branch separation; others ask whether the arrangement actually threatens core executive power.",
+          "legalExplanation": "The text contrasts formal exclusivity cases with functional analysis focusing on intrusion into core executive authority or improper continuing legislative control.",
+          "page": 510,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        }
+      ]
+    },
+    {
+      "id": "admin-appointments-state",
+      "title": "State Appointments — § 7.5.1b (pp. 510–514)",
+      "chapterGroup": "admin-appointments",
+      "description": "State constitutional provisions and separation-of-powers models; Marine Forests, Parcell, Green, Spradlin, incompatibility and legislative service, Rhode Island reform, Madison OAH problem.",
+      "entries": [
+        {
+          "id": "admin-appointments-marine",
+          "type": "case",
+          "title": "Marine Forests Society v. California Coastal Commission — notes",
+          "summary": "The California Supreme Court upheld a statute distributing Coastal Commission appointments among governor and legislative leaders, using state constitutional history and a pragmatic separation-of-powers inquiry.",
+          "laymanExplanation": "California permitted the governor and legislative leaders to share agency appointments.",
+          "legalExplanation": "The court rejected automatic reliance on federal Buckley, emphasizing the absence of analogous state appointments text, legislative plenary authority, multiple state executives, and no retained legislative removal power.",
+          "page": 511,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "sourceRole": "Discussed in notes, not a reproduced full opinion",
+          "examApplication": "Analyze whether legislative appointment improperly intrudes into core executive duties or gives legislators undue control after appointment."
+        },
+        {
+          "id": "admin-appointments-parcell",
+          "type": "case",
+          "title": "Parcell v. State — four-factor state balancing test",
+          "summary": "Kansas upheld shared appointments to an ethics commission under a four-factor test evaluating agency powers, legislative control, cooperative objective, and practical consequences.",
+          "laymanExplanation": "A mixed appointment structure may be valid if it cooperates with the executive instead of taking over its job.",
+          "legalExplanation": "The notes identify the four factors and describe the court's finding that an ethics commission's independence promoted public trust.",
+          "page": 511,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "sourceRole": "Discussed in notes, not a reproduced full opinion",
+          "elements": "(1) Nature of agency power; (2) extent of legislative control; (3) cooperation versus legislative supremacy; (4) practical effects.",
+          "examApplication": "Apply each factor to an unfamiliar state agency appointment scheme."
+        },
+        {
+          "id": "admin-appointments-green",
+          "type": "case",
+          "title": "State Board of Ethics for Elected Officials v. Green — notes",
+          "summary": "Louisiana upheld a politically balanced ethics board appointed by legislative houses and the governor because the legislature did not retain significant control over executive functions.",
+          "laymanExplanation": "Appointment by legislators is not always unconstitutional under state law.",
+          "legalExplanation": "The text uses Green as a comparison to Kansas's pragmatic approach despite authority to sue violators.",
+          "page": 512,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "sourceRole": "Discussed in notes, not a reproduced full opinion"
+        },
+        {
+          "id": "admin-appointments-spradlin",
+          "type": "case",
+          "title": "Spradlin v. Arkansas Ethics Commission — notes",
+          "summary": "Arkansas invalidated a judicial appointment to an ethics commission under a strict separation-of-powers doctrine because the commission did not perform a judicial function.",
+          "laymanExplanation": "A state court rejected having its chief justice appoint an official doing nonjudicial work.",
+          "legalExplanation": "The notes contrast Arkansas's strict separation doctrine against Kansas and Louisiana's more flexible frameworks.",
+          "page": 512,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "sourceRole": "Discussed in notes, not a reproduced full opinion"
+        },
+        {
+          "id": "admin-appointments-incompatibility",
+          "type": "rule",
+          "title": "Incompatibility Clause and legislators serving as agency officials",
+          "summary": "The federal Constitution prohibits federal officeholders from simultaneously serving in Congress; many states have analogous restrictions, often combined with broader separation-of-powers rules.",
+          "laymanExplanation": "Lawmakers generally cannot simply sit in executive office at the same time.",
+          "legalExplanation": "The text distinguishes appointing officers from serving as officers; state constitutional incompatibility provisions vary in scope.",
+          "page": 512,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-rhode",
+          "type": "history",
+          "title": "Rhode Island's appointment reform",
+          "summary": "Rhode Island historically allowed legislative appointment and service on agency boards, but voters adopted a 2004 amendment limiting legislative control over executive bodies.",
+          "laymanExplanation": "An extensive state system of legislative agency appointments was later reformed by constitutional amendment.",
+          "legalExplanation": "The notes describe concerns about concentration of power, patronage, and inadequate checks and balances as part of the reform history.",
+          "page": 513,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514"
+        },
+        {
+          "id": "admin-appointments-alexander",
+          "type": "case",
+          "title": "Alexander v. State ex rel. Allain — notes",
+          "summary": "Mississippi invalidated a commission combining legislators and executive members as voting officials in executive budget functions under strict separation-of-powers principles.",
+          "laymanExplanation": "A mixed commission could violate the state constitution when lawmakers also exercise executive budget power.",
+          "legalExplanation": "The example illustrates an especially strict state approach to commingling legislative and executive functions.",
+          "page": 513,
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+          "sourceRole": "Discussed in notes, not a reproduced full opinion"
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-appointments-problem-510",
+      "topicId": "admin-appointments-federal",
+      "title": "Appointments Clause — Rex's grazing permit (p. 510)",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+      "kind": "Textbook Notes and Questions §7.5.1a, Q10 — unsolved",
+      "prompt": "The U.S. Forest Service may issue grazing permits and revoke them for violations. Agency regulations permit a staff member to investigate and conduct an informal conference; a regional forester, appointed by the Senate-confirmed Secretary of Agriculture, reviews the recommended revocation and issues a final decision unreviewable within the Executive Branch (but subject to judicial review). Rex has a permit for 200 sheep. Neighbors complain and staff member Sarah estimates 250, though Rex disputes her count and attributes some sheep to neighbors. Sarah recommends revocation after a conference; regional forester Tom affirms. Rex argues that the USFS procedure violates the federal Appointments Clause. How should a court resolve the dispute? Preserve all statutory and organizational assumptions when analyzing.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-appointments-problem-514",
+      "topicId": "admin-appointments-state",
+      "title": "Madison OAH director appointment (p. 514)",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.5.1, pp. 493–514",
+      "kind": "Textbook Notes and Questions §7.5.1b, Q5 — unsolved",
+      "prompt": "Madison statute S.B. 234 directs the state Supreme Court Chief Justice to appoint the Director of the Office of Administrative Hearings, who serves as chief administrative law judge, hears contested cases across state agencies, writes findings and conclusions, assigns ALJs to cases, hires hearing officers, and resolves discipline including for-cause removals. Chief Justice Anna appoints Gunther. Stuart, opposing license revocation before Gunther, challenges the appointment under Madison's constitutional requirement that legislative, executive, and judicial powers remain separate and distinct. How should Stuart's claim be resolved? Cf. State ex rel. Martin v. Melott.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ],
+  "formulas": []
+}
