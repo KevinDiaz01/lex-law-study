@@ -1,0 +1,679 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, § 7.2–§ 7.6 Notes and Questions (textbook reading supplied Nov. 16, 2026)",
+  "topics": [],
+  "problems": [
+    {
+      "id": "admin-nq-ndelegate-rehnquist",
+      "topicId": "admin-delegation-federal",
+      "title": "Rehnquist's Benzene distinction",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 435",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Evaluate whether Rehnquist draws a workable line between necessary implementation discretion and a failure by Congress to choose between fundamental social policies.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-ndelegate-gorsuch",
+      "topicId": "admin-delegation-federal",
+      "title": "Gorsuch's proposed test",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 435",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Compare Gorsuch's 'details, factfinding, independent powers' formulation with the prevailing intelligible-principle doctrine. Consider whether judicial definitions of details can avoid disruption.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-ndelegate-revival",
+      "topicId": "admin-delegation-federal",
+      "title": "Why revive nondelegation?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 435",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Consider the accountability and hidden-interest-group arguments for requiring Congress to decide critical regulatory policies itself.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-ndelegate-against",
+      "topicId": "admin-delegation-federal",
+      "title": "Why resist stricter nondelegation?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 436",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Evaluate Congress's practical limits and the difficulty of judges deciding how detailed statutes must be, as discussed in Stewart and Mashaw.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-ndelegate-avoidance",
+      "topicId": "admin-delegation-federal",
+      "title": "Statutory narrowing instead of invalidation",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 437",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Is narrowing a broad statute (as in Benzene or Gundy) a legitimate constitutional-avoidance technique, or an inappropriate judicial rewrite of Congress's policy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-ndelegate-review",
+      "topicId": "admin-delegation-federal",
+      "title": "Judicial review and broad delegation",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 438",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Does the availability of meaningful judicial review reduce the constitutional concerns created by a broadly worded delegation? Consider Touby.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-ndelegate-canons",
+      "topicId": "admin-delegation-federal",
+      "title": "Nondelegation canons",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 439",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Should courts demand clear congressional authorization before agencies decide questions of retroactivity or federal preemption instead of applying a direct nondelegation invalidation test?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-ndelegate-original",
+      "topicId": "admin-delegation-federal",
+      "title": "Originalist evidence about early delegations",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 439",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Compare competing originalist scholarship about congressional delegations in the early Republic and its implications for modern tests.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-state-thygesen",
+      "topicId": "admin-delegation-states",
+      "title": "Is Thygesen persuasive?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 443",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Evaluate whether Illinois correctly applied its demanding policy/harm/means standards to currency-exchange rate caps.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-state-safeguards",
+      "topicId": "admin-delegation-states",
+      "title": "Safeguards versus statutory standards",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 444",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Compare Oregon/Washington's reliance on procedural safeguards with Illinois and Florida's insistence on substantive statutory standards.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-state-empirical",
+      "topicId": "admin-delegation-states",
+      "title": "Empirical effects of state nondelegation",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 445",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "How much should courts rely on research indicating weak or absent effects of strict nondelegation rules on legislative specificity?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-state-soda",
+      "topicId": "admin-delegation-states",
+      "title": "New York soda portion cap",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 445",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Did New York's health board choose fundamental social policy or merely implement a public-health law through cost-benefit judgment? Compare majority and dissent.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-state-federal-future",
+      "topicId": "admin-delegation-states",
+      "title": "State adoption of future federal law",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 446",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Does automatic use of future federal standards delegate state legislative power improperly? Compare Taylor, McFaddin and Oklahoma City.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-private-carter",
+      "topicId": "admin-delegation-states",
+      "title": "Private delegation and government oversight",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 448",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Distinguish Carter Coal from Currin, Sunshine Anthracite and FINRA by examining self-interest and review by public officials.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-private-hisa",
+      "topicId": "admin-delegation-states",
+      "title": "HISA: private rules versus enforcement",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 449",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Consider whether FTC supervision of rulemaking adequately controls a private racing body's subpoenas, adjudications, and enforcement powers.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-private-contractors",
+      "topicId": "admin-delegation-states",
+      "title": "Privatization and prisons",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 450",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Under what circumstances should government contract out prison management or immigration detention? What safeguards and accountability should remain?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-private-federal-state",
+      "topicId": "admin-delegation-states",
+      "title": "Agencies delegating federal powers to states",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 450",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Why should Congress have to authorize a federal agency's delegation of decisionmaking functions to a state government?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-private-weevil",
+      "topicId": "admin-delegation-states",
+      "title": "Redesign the boll-weevil program",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 451",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Could Texas restructure a private pest-eradication program to avoid conflicts and constitutionally insufficient checks without creating a fully public regulatory agency?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-art3-private",
+      "topicId": "admin-adjudication-article3",
+      "title": "Article III public versus private rights",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 454",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Compare Crowell, Northern Pipeline, Thomas, Schor, Oil States, and Stern to develop the boundary between permissible agency adjudication and adjudication reserved to courts.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-jarkesy-analogy",
+      "topicId": "admin-adjudication-jury",
+      "title": "Jarkesy's common-law fraud analogy",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 463",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Does securities fraud still qualify as a common-law-type action where the SEC need not show reliance or actual private investor loss?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-jarkesy-policy",
+      "topicId": "admin-adjudication-jury",
+      "title": "Public/private rights after Jarkesy",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 463",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Compare the majority's Seventh Amendment historical account with Sotomayor's emphasis on regulatory governance and sovereign claims.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-jarkesy-narrow",
+      "topicId": "admin-adjudication-jury",
+      "title": "Possible narrow Jarkesy rule",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 464",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Explore proposed limits involving punitive civil penalties, traditional common-law analogs, equitable agency relief, and fraud against government benefit programs.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-jarkesy-expand",
+      "topicId": "admin-adjudication-jury",
+      "title": "Potential expansion beyond the jury clause",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 464",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Consider whether Jarkesy could later restrict agency adjudication under Article III or due process beyond the narrow Seventh Amendment holding.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-jarkesy-state",
+      "topicId": "admin-adjudication-jury",
+      "title": "State constitutional implications",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 464",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Should state courts reconsider administrative civil-penalty precedents after Jarkesy, given that the Seventh Amendment is not incorporated against the states?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-jarkesy-remedies",
+      "topicId": "admin-adjudication-jury",
+      "title": "McHugh restitution and punitive damages",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 465",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Why might administrative restitution be permitted while punitive damages or self-executing rent withholding are not under the California framework?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-chadha-legislative",
+      "topicId": "admin-legislative-federal",
+      "title": "Was the House veto legislative?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 476",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Why is the House's reversal of one deportation suspension a legislative act while an Attorney General's original immigration determination is administrative?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-chadha-delegation",
+      "topicId": "admin-legislative-federal",
+      "title": "Why doesn't the initial statute suffice?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 476",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Evaluate White's claim that Congress may reserve a legislative veto when it initially delegates by statute and the majority's competing Article I rationale.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-chadha-adjudication",
+      "topicId": "admin-legislative-federal",
+      "title": "Powell and agency adjudications",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 476",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Was Powell right that overturning Chadha's individual adjudication is an improper assumption of judicial functions? Would formal bicameralism and presentment cure that objection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-chadha-rulemaking",
+      "topicId": "admin-legislative-federal",
+      "title": "Chadha beyond adjudications",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 476",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "How does Chadha apply to FTC/FERC rulemaking legislative veto provisions and what difference, if any, results from a two-house concurrent resolution?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-chadha-oversight",
+      "topicId": "admin-legislative-federal",
+      "title": "Policy merits of legislative veto",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 477",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Compare White's defense of legislative veto accountability against studies suggesting unequal access, pressure from committee chairs, and poor legislative deliberation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-cra-reins",
+      "topicId": "admin-legislative-federal",
+      "title": "REINS affirmative approval",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 478",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Would proposed affirmative congressional approval of major rules be constitutional and effective? Compare legislative veto concerns and gridlock.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-cra-valid",
+      "topicId": "admin-legislative-federal",
+      "title": "CRA compared with Chadha",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 479",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Explain what makes the CRA disapproval mechanism structurally different from one-house or two-house legislative vetoes, without deciding the problem's merits.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-cra-policy",
+      "topicId": "admin-legislative-federal",
+      "title": "Is the CRA good oversight?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 480",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Consider the advantages and risks of disapproving rules after presidential transitions and of rapidly overturning longstanding regulatory work.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-cra-guidance",
+      "topicId": "admin-legislative-federal",
+      "title": "CRA and interpretive guidance",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 480",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Should the CRA apply to interpretive rules, policy statements, and other documents that did not go through notice-and-comment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-cra-delayed",
+      "topicId": "admin-legislative-federal",
+      "title": "Unsubmitted rule and GAO trigger",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 481",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Is delayed CRA review of a years-old guidance document justified when the agency never formally sent it to Congress?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-cra-substantially",
+      "topicId": "admin-legislative-federal",
+      "title": "No substantially same rule",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 481",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "What should count as 'substantially the same' under CRA § 801(b)(2)? Is an agency's replacement rule ever permissible after disapproval?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-bowshervschadha",
+      "topicId": "admin-legislative-federal",
+      "title": "Congressionally controlled executive action",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 482",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Compare the text-centered rule of Chadha, the removal concern in Bowsher, and the either-legislative-or-executive dilemma in MWAA.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-state-veto",
+      "topicId": "admin-legislative-states",
+      "title": "State veto laws versus Chadha",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 484",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "How do state constitutional text and institutional realities affect whether a legislative committee can veto a rule?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-state-martinez-evers",
+      "topicId": "admin-legislative-states",
+      "title": "Martinez versus Evers",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 486",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Can Wisconsin's favorable treatment of temporary committee rule suspension be reconciled with its rejection of committee blocking of executive land purchases?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-state-policy-ground",
+      "topicId": "admin-legislative-states",
+      "title": "Legal grounds versus policy objections",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 487",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Should a rule review committee be allowed to suspend a rule for political disagreement, and should courts police statutory limits on those objections?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-state-approve",
+      "topicId": "admin-legislative-states",
+      "title": "What is a ratified agency rule?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 489",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "When a legislature affirmatively ratifies an agency rule, should a reviewing court treat it as an agency rule or as a statute?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-other-oversight",
+      "topicId": "admin-legislative-other",
+      "title": "Oversight hearings and agency independence",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 490",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "When do legislative investigations, confirmation hearings, subpoenas, or informal contacts constitute appropriate oversight rather than improper pressure on agency adjudication?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-other-funding",
+      "topicId": "admin-legislative-other",
+      "title": "Appropriations and independence",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 492",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Compare funding riders, nonbinding committee reports, annual appropriations and CFPB's statutorily established funding arrangement.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-history",
+      "topicId": "admin-removal-rise",
+      "title": "Myers and constitutional history",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 517",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Evaluate the removal-power history attributed to the First Congress in Myers and the significance of earlier congressional statutory constraints.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-structure",
+      "topicId": "admin-removal-rise",
+      "title": "Myers and Humphrey's Executor",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 518",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Can courts meaningfully distinguish executive from quasi-legislative and quasi-judicial agency functions when deciding removal protections?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-wiener",
+      "topicId": "admin-removal-rise",
+      "title": "Implied tenure for adjudicators",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 519",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Does the adjudicatory mission of a commission justify inferring removal protection where Congress said nothing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-independence",
+      "topicId": "admin-removal-rise",
+      "title": "Does independence matter in practice?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 519",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "What practical differences persist between executive departments and independent commissions with protected heads?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-presidential",
+      "topicId": "admin-removal-modern",
+      "title": "Removal power and accountability",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 527",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Does direct presidential control guarantee democratic accountability or unduly concentrate power? Compare the Seila Law majority and dissent.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-collins",
+      "topicId": "admin-removal-modern",
+      "title": "Collins remedy and harm",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 527",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Should invalid removal protection undo an agency decision when the official was properly appointed? What connection between restriction and challenged action matters?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-seila",
+      "topicId": "admin-removal-modern",
+      "title": "Single versus multimember agencies",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 527",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Would Seila Law's reasoning apply to multimember commissions, and what remains of Humphrey's Executor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-alj",
+      "topicId": "admin-removal-modern",
+      "title": "Two layers of protection and ALJs",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 530",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "How should Free Enterprise Fund's reasoning apply to independent administrative law judges, given the adjudication-policy distinction and Lucia?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-state",
+      "topicId": "admin-removal-modern",
+      "title": "Wilcox and Lunding",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 532",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Compare unreviewable state executive removal with judicial review for an independent elections commission.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-cause",
+      "topicId": "admin-removal-modern",
+      "title": "Redistricting and Turnpike removals",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 533",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "What evidence should suffice for statutory good cause rather than mere policy disagreement in the Arizona and Massachusetts examples?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-removal-term",
+      "topicId": "admin-removal-modern",
+      "title": "Inferring tenure from appointment language",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 534",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Does a fixed term, staggered membership, or independent agency structure imply protection against firing without cause?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-kendall",
+      "topicId": "admin-executive-oira",
+      "title": "Presidential directions and mandatory statutes",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 539",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Can an agency head decline to execute a statutory ministerial duty on the President's instructions? Compare discretionary duties.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-jackson",
+      "topicId": "admin-executive-oira",
+      "title": "Youngstown's three categories",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 540",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "How should OIRA supervision be classified when Congress authorized, was silent about, or prohibited presidential participation in a program?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-value",
+      "topicId": "admin-executive-oira",
+      "title": "OIRA versus judicial review",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 541",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Should OIRA central coordination and technical competence be preferred to generalist court review of major rules?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-oira-bias",
+      "topicId": "admin-executive-oira",
+      "title": "Deregulatory bias and oversight",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 543",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "How much weight should be given to criticism that OIRA tends to soften rules or prioritize White House political goals?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-deadline",
+      "topicId": "admin-executive-oira",
+      "title": "OIRA review and statutory deadlines",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 544",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Can an agency legitimately postpone a congressional rulemaking deadline because OIRA has not finished review?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-who",
+      "topicId": "admin-executive-oira",
+      "title": "Who has the final word on regulations?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 544",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "If the agency and President disagree under E.O. 12,866 §§ 7 and 9, who decides as a legal matter and who should decide as policy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-independent",
+      "topicId": "admin-executive-state",
+      "title": "Presidential review of independent agencies",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 545",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Should independent commissions be reviewed through OIRA to the same degree as cabinet agencies?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-transparency",
+      "topicId": "admin-executive-state",
+      "title": "OIRA delay and disclosure",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 546",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Do OIRA communication and review practices adequately satisfy executive order requirements for timeliness and transparency?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-kagan",
+      "topicId": "admin-executive-state",
+      "title": "Kagan's presidential-administration presumption",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 546",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Should agency-specific statutory discretion presumptively be subject to presidential direction unless Congress clearly says otherwise?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-state",
+      "topicId": "admin-executive-state",
+      "title": "State gubernatorial review in practice",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 548",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Compare gubernatorial clearance, veto, independent attorney generals, and OIRA-like state institutions.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-oal",
+      "topicId": "admin-executive-state",
+      "title": "California OAL versus federal OIRA",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 549",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Would ex ante legality and clarity review like California OAL's be preferable to a political OIRA model?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-whiley",
+      "topicId": "admin-executive-state",
+      "title": "Florida freeze of agency rulemaking",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 550",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Should the governor be able to freeze agency rulemaking, and what is the effect of subsequent legislative ratification?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-nq-executive-moratoria",
+      "topicId": "admin-executive-state",
+      "title": "Hard and soft moratoria",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), p. 550",
+      "kind": "Notes and Questions — unsolved",
+      "prompt": "Are short transition freezes defensible while indefinite rulemaking freezes interfere with statutory agency duties?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ],
+  "formulas": []
+}
