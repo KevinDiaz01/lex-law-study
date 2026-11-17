@@ -1,0 +1,461 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1 pp.1–15",
+  "coverage": {
+    "submittedPages": "1–15",
+    "syllabusClass": "Classes 1–2",
+    "syllabusAssignment": "Introduction, pp. 1–14; APA appendices pp. 799–819 not yet supplied",
+    "status": "Chapter 1 reading received; appendices still pending"
+  },
+  "topics": [
+    {
+      "id": "admin-ch1-introduction",
+      "title": "Chapter 1 — Introduction to Administrative Law (pp. 1–15)",
+      "chapterGroup": "admin-ch1",
+      "description": "Classes 1–2: agency structure and functions; administrative law sources; federal/state APAs; models of agency legitimacy. Includes the p. 15 problem, retained without an answer.",
+      "entries": [
+        {
+          "id": "admin-ch1-agency",
+          "type": "definition",
+          "title": "Administrative agency",
+          "summary": "A unit of government other than the chief executive, legislature, or courts, with statutory authority to affect rights or duties of persons outside government.",
+          "laymanExplanation": "An agency is a government body empowered by law to make decisions affecting people or businesses.",
+          "legalExplanation": "Agencies are institutional units exercising delegated statutory powers, typically within the executive branch but sometimes independent. Their names, leadership, and institutional structures vary.",
+          "page": "1",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 1",
+          "examApplication": "Identify the agency, the statutory delegation, and the agency action before analyzing procedures or review."
+        },
+        {
+          "id": "admin-ch1-structure",
+          "type": "concept",
+          "title": "Agency leadership, structure, and jurisdiction",
+          "summary": "Agencies can be led by one or several officials and may be called departments, commissions, or boards; size, caseload, and specialization vary.",
+          "laymanExplanation": "Not all agencies look the same; some handle millions of decisions and others very few.",
+          "legalExplanation": "Heads generally are appointed by the chief executive, although some state officers are elected or appointed by legislatures. Agencies can address economy-wide subjects or sector-specific regulation.",
+          "page": "1–2",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 1–2"
+        },
+        {
+          "id": "admin-ch1-powers",
+          "type": "framework",
+          "title": "Core administrative powers",
+          "summary": "Agencies may investigate, prosecute, make rules, adjudicate, license, set rates, administer benefits, and perform other delegated functions.",
+          "laymanExplanation": "Agencies can make detailed rules, investigate violations, decide individual cases, and give benefits or licenses.",
+          "legalExplanation": "An agency may exercise several governmental functions within one institution, creating both efficiency and procedural-fairness concerns.",
+          "page": "2, 7–11",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 2, 7–11",
+          "examApplication": "Classify the action as rulemaking, adjudication, licensing, enforcement, or another function; identify the governing procedures."
+        },
+        {
+          "id": "admin-ch1-regbenefit",
+          "type": "definition",
+          "title": "Regulatory versus beneficiary agencies",
+          "summary": "Regulatory agencies control conduct and enforce legal obligations; beneficiary agencies distribute benefits, loans, or grants.",
+          "laymanExplanation": "Some agencies police regulated conduct; others administer government assistance.",
+          "legalExplanation": "The distinction is functional rather than a rigid structural category. Examples in the text include immigration, securities and environmental regulation versus Social Security and veterans' benefits.",
+          "page": "2",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 2"
+        },
+        {
+          "id": "admin-ch1-adminlaw",
+          "type": "definition",
+          "title": "Administrative law versus substantive regulatory law",
+          "summary": "Administrative law governs common legal principles of agencies, including procedures, allocation of authority, and judicial review; substantive regulatory law governs the programs those agencies enforce.",
+          "laymanExplanation": "Administrative law is about how an agency exercises power, not necessarily the detailed policy it enforces.",
+          "legalExplanation": "The field cuts across agency subject matters similarly to civil procedure and evidence; it concerns rulemaking and adjudication processes and checks by courts, legislatures, and chief executives.",
+          "page": "2",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 2",
+          "examTrap": "Do not confuse a substantive immigration, tax, or environmental issue with an administrative procedure or review issue."
+        },
+        {
+          "id": "admin-ch1-why",
+          "type": "concept",
+          "title": "Why lawyers study administrative law",
+          "summary": "Federal, state, and local agencies affect benefits, taxes, licenses, immigration, banking, land use, environmental matters, businesses, and other legal practices.",
+          "laymanExplanation": "Nearly every area of legal practice involves government agency decisions.",
+          "legalExplanation": "Representing clients before agencies requires knowledge of the applicable substantive scheme alongside administrative procedures and review mechanisms.",
+          "page": "2–3",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 2–3"
+        },
+        {
+          "id": "admin-ch1-politics",
+          "type": "context",
+          "title": "Administrative law and changing political priorities",
+          "summary": "The text describes changing deregulatory and regulatory priorities across the Trump and Biden administrations and recent judicial constraints on agencies.",
+          "laymanExplanation": "The balance between government regulation and deregulation changes with politics and court decisions.",
+          "legalExplanation": "The book expressly states its perspective was written after the 2024 election but before the January 2025 inauguration; its forward-looking predictions are historical commentary, not a statement of later outcomes.",
+          "page": "3",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 3",
+          "examTrap": "Treat the casebook's statements about anticipated future developments as publication-era context."
+        },
+        {
+          "id": "admin-ch1-regbroad",
+          "type": "definition",
+          "title": "Regulation — broad meaning",
+          "summary": "In the broad sense, regulation means government policy affecting markets, including policies created by statute.",
+          "laymanExplanation": "A statute controlling a market is regulation in the broad sense.",
+          "legalExplanation": "Broad-sense regulation can result from legislative enactments, and repeal of such a statute is broad-sense deregulation.",
+          "page": "3",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 3"
+        },
+        {
+          "id": "admin-ch1-regnarrow",
+          "type": "definition",
+          "title": "Regulation — narrow meaning",
+          "summary": "In the narrow sense, a regulation or rule is an agency's generally applicable, legally binding pronouncement implementing a statute.",
+          "laymanExplanation": "A rule is a binding agency instruction for the public, such as banning a specified pollutant discharge.",
+          "legalExplanation": "A rule issued under delegated authority may establish rights and duties of regulated persons; repeal of an agency rule is deregulation in the narrow sense.",
+          "page": "3",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 3",
+          "examTrap": "Distinguish general agency rules from guidance documents, which the chapter describes as nonbinding."
+        },
+        {
+          "id": "admin-ch1-statefederal",
+          "type": "concept",
+          "title": "State, local, and federal administrative law compared",
+          "summary": "The text deliberately examines state and local administrative law alongside federal law because these systems differ and local practice is common.",
+          "laymanExplanation": "Federal APA rules do not automatically describe what a state or city agency must do.",
+          "legalExplanation": "Differences among jurisdictions provide comparison points; attorneys must consult the appropriate jurisdiction's enabling acts, procedures, and precedents.",
+          "page": "3–4",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 3–4",
+          "examApplication": "Ask whether the actor is a federal, state, or local agency before applying a particular APA."
+        },
+        {
+          "id": "admin-ch1-sources",
+          "type": "rule",
+          "title": "Sources of administrative law",
+          "summary": "Sources include constitutions, statutes (especially APAs), and judge-made common law.",
+          "laymanExplanation": "Agency procedure comes from constitutional rules, legislation, and court decisions.",
+          "legalExplanation": "The applicable legal framework depends on the jurisdiction and the agency-specific statutory scheme.",
+          "page": "4",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 4"
+        },
+        {
+          "id": "admin-ch1-apa",
+          "type": "definition",
+          "title": "Administrative Procedure Acts (APAs)",
+          "summary": "The federal government and every state have APAs; they are general and comprehensive procedural statutes addressing agency rulemaking, adjudication, information access, and review.",
+          "laymanExplanation": "An APA is a broad rulebook for how agencies operate and how their decisions can be challenged.",
+          "legalExplanation": "Federal and state APAs govern many agencies but can differ materially; general statutes coexist with agency-specific enabling legislation.",
+          "page": "4",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 4",
+          "examApplication": "Identify whether the relevant APA provision covers the agency and type of action."
+        },
+        {
+          "id": "admin-ch1-federalapa",
+          "type": "history",
+          "title": "Federal APA of 1946 and its political compromise",
+          "summary": "The federal APA was enacted in 1946 after political struggles concerning New Deal agencies; it balanced procedural constraints on agency power with agency flexibility.",
+          "laymanExplanation": "Congress allowed powerful agencies but required processes and review designed to protect people affected.",
+          "legalExplanation": "The text quotes George B. Shepherd's account criticizing the idea that enactment represented unqualified consensus; it emerged as a hard-fought political compromise.",
+          "page": "4–5",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 4–5"
+        },
+        {
+          "id": "admin-ch1-msapa",
+          "type": "context",
+          "title": "Model State Administrative Procedure Acts",
+          "summary": "The 1961 MSAPA influenced more than half the states; the 1981 model was more ambitious but little adopted; a 2010 model was less elaborate and had limited adoption according to the text.",
+          "laymanExplanation": "States share some procedural models, but there is no single uniform state APA.",
+          "legalExplanation": "State APAs generally govern state rather than local agencies; model acts are templates, not themselves automatically binding law.",
+          "page": "5–6",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 5–6",
+          "examTrap": "Do not treat any MSAPA as governing a state unless it has been enacted there."
+        },
+        {
+          "id": "admin-ch1-acus",
+          "type": "definition",
+          "title": "Administrative Conference of the United States (ACUS)",
+          "summary": "ACUS generates reports and recommendations aimed at improving federal administrative processes.",
+          "laymanExplanation": "ACUS studies how agency procedures can work better.",
+          "legalExplanation": "The text describes ACUS as a federal advisory body using staff, academic consultants and volunteers; it was defunded in 1995 and resumed in 2009.",
+          "page": "6",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 6"
+        },
+        {
+          "id": "admin-ch1-aic",
+          "type": "framework",
+          "title": "Automobile Insurance Commission (AIC) hypothetical",
+          "summary": "A state creates an Automobile Insurance Commission under a general statute banning unfair and discriminatory insurance practices to illustrate the agency process.",
+          "laymanExplanation": "A vague law needs an agency to turn general goals into specific actions.",
+          "legalExplanation": "The hypothetical shows how the agency receives legislative authority and funding, develops policy, regulates individual parties, and faces multiple oversight mechanisms.",
+          "page": "6–11",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 6–11",
+          "examApplication": "Use AIC as the recurring fact pattern for identifying administrative functions and controls."
+        },
+        {
+          "id": "admin-ch1-research",
+          "type": "concept",
+          "title": "Research and publicity",
+          "summary": "Agencies can gather information, commission studies, publish findings, and provide information that helps markets and the public.",
+          "laymanExplanation": "An agency may inform the public without forcing anyone to follow a new rule.",
+          "legalExplanation": "The AIC hypothetical includes comparisons of premiums, consumer complaints, and educational FAQs as informational tools.",
+          "page": "6",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 6"
+        },
+        {
+          "id": "admin-ch1-rulemaking",
+          "type": "rule",
+          "title": "Rulemaking — general binding policy",
+          "summary": "Rulemaking translates broad statutory directives into generally applicable binding rules; the text describes notice, public comment, agency consideration, and publication.",
+          "laymanExplanation": "The agency fills in details for everyone, not just one named person.",
+          "legalExplanation": "APA rulemaking procedures may require advance notice, participation, explanation, and publication. Valid rules must be consistent with delegated statutory authority.",
+          "page": "6–7",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 6–7",
+          "examApplication": "Ask whether the rule is legally binding, generally applicable, procedurally proper, and within statutory authority.",
+          "examTrap": "The chapter emphasizes stronger procedural transparency and statutory scrutiny for agency rules than for statutes."
+        },
+        {
+          "id": "admin-ch1-guidance",
+          "type": "definition",
+          "title": "Guidance documents (nonbinding agency statements)",
+          "summary": "Agencies issue guidance under names such as interpretive rules, manuals, bulletins, rulings, and policy statements; this chapter describes such federal guidance as nonbinding and generally issuable without formal procedures.",
+          "laymanExplanation": "Guidance says what an agency thinks or plans; it ordinarily cannot command conduct as a binding legislative rule.",
+          "legalExplanation": "Terminology and procedures differ across jurisdictions; the excerpt states some states subject guidance to procedures required for binding rules.",
+          "page": "7–8",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 7–8",
+          "examTrap": "A document's title alone does not decide whether it is a binding legislative rule."
+        },
+        {
+          "id": "admin-ch1-licensing",
+          "type": "definition",
+          "title": "Licensing",
+          "summary": "A license authorizes a person or entity to engage in specified conduct; an agency may set qualifications and sanctions including revocation.",
+          "laymanExplanation": "You may need agency permission before working in a regulated profession or activity.",
+          "legalExplanation": "Licensing systems promote quality or safety but can create barriers to entry, higher prices, and opportunities for industry capture.",
+          "page": "8",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 8",
+          "examApplication": "Look for statutory licensing authority, qualification standards, and procedures for denying or revoking the license."
+        },
+        {
+          "id": "admin-ch1-capture",
+          "type": "concept",
+          "title": "Regulatory capture and barriers to entry",
+          "summary": "A regulated industry may influence the agency so that regulation protects incumbents instead of the public; licensing can restrict entry unnecessarily.",
+          "laymanExplanation": "Rules meant to protect consumers can instead protect existing businesses from competition.",
+          "legalExplanation": "The text treats capture and unnecessary licensing burdens as costs that must be weighed against benefits.",
+          "page": "8",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 8"
+        },
+        {
+          "id": "admin-ch1-permits",
+          "type": "definition",
+          "title": "Permits",
+          "summary": "A permit is a type of license requiring agency permission before a specified action.",
+          "laymanExplanation": "You must obtain approval before starting certain activities.",
+          "legalExplanation": "Permit systems can be justified for dangerous activities but can impose administrative cost and delay.",
+          "page": "8",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 8"
+        },
+        {
+          "id": "admin-ch1-clearance",
+          "type": "definition",
+          "title": "Clearance system",
+          "summary": "A regulated party gives advance notice and may proceed if the agency does not affirmatively stop the action.",
+          "laymanExplanation": "Notify the government first; if it doesn't object, proceed.",
+          "legalExplanation": "A clearance mechanism is less intrusive than mandatory preapproval and shifts responsibility to the agency to intervene.",
+          "page": "8",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 8"
+        },
+        {
+          "id": "admin-ch1-investigation",
+          "type": "rule",
+          "title": "Investigation and enforcement",
+          "summary": "Agencies may collect reports, investigate complaints, subpoena records, inspect premises, and pursue enforcement through administrative or judicial proceedings where authorized.",
+          "laymanExplanation": "An agency must detect rule violations and take action; rules do not enforce themselves.",
+          "legalExplanation": "Investigation and prosecution are functions of delegated authority; agencies may initiate an internal administrative complaint or seek relief in court.",
+          "page": "8–9",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 8–9"
+        },
+        {
+          "id": "admin-ch1-adjudication",
+          "type": "definition",
+          "title": "Adjudication — particular application",
+          "summary": "Adjudication determines legal rights or obligations of specified persons, unlike generally applicable rulemaking.",
+          "laymanExplanation": "A rule applies broadly; adjudication resolves a particular person's dispute or case.",
+          "legalExplanation": "Adjudication can address license revocations, benefits, enforcement proceedings, or certain private-party disputes delegated to agencies.",
+          "page": "9",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 9",
+          "examApplication": "Classify the action by whether it determines a specific party's legal rights or imposes generally applicable policy."
+        },
+        {
+          "id": "admin-ch1-hearing",
+          "type": "rule",
+          "title": "Administrative adjudication and procedural fairness",
+          "summary": "State and federal APAs and constitutional due process may require impartial adjudicators and fair procedures, often including trial-type evidentiary hearings.",
+          "laymanExplanation": "An agency deciding your individual case may have to give you a fair chance to be heard.",
+          "legalExplanation": "An administrative judge may preside and the result can often be appealed internally to agency leadership; the precise hearing entitlement depends on applicable law.",
+          "page": "9",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 9"
+        },
+        {
+          "id": "admin-ch1-adjudiff",
+          "type": "concept",
+          "title": "Differences between courts and agency adjudication",
+          "summary": "Agency judges may play a more active role, usually without juries; specialized agencies often combine rulemaking, investigation, prosecution, and adjudication.",
+          "laymanExplanation": "An agency tribunal is court-like but is not the same as an ordinary court.",
+          "legalExplanation": "The chapter emphasizes specialized expertise and multiple functions in agencies, unlike the generalist and purely adjudicatory role of ordinary courts.",
+          "page": "9–10",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 9–10"
+        },
+        {
+          "id": "admin-ch1-ratemaking",
+          "type": "definition",
+          "title": "Ratemaking",
+          "summary": "Agencies may be delegated authority to set prices or rates, often when market failures or natural monopolies justify intervention.",
+          "laymanExplanation": "Government sometimes decides what a regulated company may charge.",
+          "legalExplanation": "Ratemaking may look like rulemaking for industry-wide rates or adjudication for company-specific rates and typically requires extensive economic analysis.",
+          "page": "10",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 10",
+          "examApplication": "Determine whether the rate order is industry-wide or specific and what procedural model is appropriate."
+        },
+        {
+          "id": "admin-ch1-judicialreview",
+          "type": "rule",
+          "title": "Judicial review of agency action",
+          "summary": "Courts generally review final rules and adjudications for legal error, procedural error, factual support, constitutionality, or arbitrary exercise of discretion.",
+          "laymanExplanation": "A court can examine whether an agency acted lawfully and reasonably.",
+          "legalExplanation": "Access to review, timing, standard of review, and the proper division of authority between agency and court are recurring doctrinal questions.",
+          "page": "10",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 10",
+          "examApplication": "Identify finality, the available court, grounds of challenge, and applicable review standard."
+        },
+        {
+          "id": "admin-ch1-foia",
+          "type": "definition",
+          "title": "Freedom of information",
+          "summary": "Federal and state FOIA statutes require publication of certain agency materials and permit public requests for records subject to exceptions and judicial enforcement.",
+          "laymanExplanation": "People can ask agencies to release government records.",
+          "legalExplanation": "Information-access statutes promote transparency but impose administrative costs; exclusions and jurisdictional rules apply.",
+          "page": "10",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 10"
+        },
+        {
+          "id": "admin-ch1-oversight",
+          "type": "framework",
+          "title": "Legislative and executive oversight",
+          "summary": "Legislatures monitor, investigate, change enabling statutes, and use budgets; executives appoint and supervise agency leadership and may exercise removal authority.",
+          "laymanExplanation": "Congress or state lawmakers and governors or the President can influence agencies in different ways.",
+          "legalExplanation": "The exact powers vary by jurisdiction and agency independence; the excerpt discusses appointment, removal, budgets, investigations, and possible legislative controls over rules.",
+          "page": "11",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 11"
+        },
+        {
+          "id": "admin-ch1-agencylookup",
+          "type": "rule",
+          "title": "Agency-specific sources must also be consulted",
+          "summary": "A client matter may require the enabling statute, agency-specific substantive and procedural rules, and relevant administrative and judicial precedents.",
+          "laymanExplanation": "General admin law is only the starting point; check the rules of the actual agency.",
+          "legalExplanation": "The casebook emphasizes diversity of agencies and practical knowledge of how an agency operates.",
+          "page": "11",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 11"
+        },
+        {
+          "id": "admin-ch1-legitimacy",
+          "type": "definition",
+          "title": "Agency legitimacy",
+          "summary": "Administrative agency power should be lawful, fair, accurate, reasonably economical, and accepted as politically legitimate.",
+          "laymanExplanation": "People must have reasons to accept decisions by powerful officials who usually weren't elected.",
+          "legalExplanation": "Legitimacy theories attempt to justify delegated lawmaking and adjudicatory power in constitutional government.",
+          "page": "11",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 11"
+        },
+        {
+          "id": "admin-ch1-transmission",
+          "type": "concept",
+          "title": "Transmission-belt theory",
+          "summary": "Agency legitimacy derives from carrying out policy choices already made by elected legislatures; agencies must remain within statutory bounds and follow fair procedure.",
+          "laymanExplanation": "The legislature decides policy; the agency carries out instructions.",
+          "legalExplanation": "The text criticizes the model because many enabling statutes delegate broad discretionary decisions rather than resolving major questions.",
+          "page": "11–12",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 11–12",
+          "examApplication": "Consider whether an agency's broad policy discretion undermines the idea that it merely executes legislative choices."
+        },
+        {
+          "id": "admin-ch1-expertise",
+          "type": "concept",
+          "title": "Expertise model of legitimacy",
+          "summary": "New Deal-era theory justified broad delegations because specialized expert agencies could solve complex economic and social problems.",
+          "laymanExplanation": "Experts are trusted to make technical decisions legislators cannot manage.",
+          "legalExplanation": "The theory favors broad agency authority and insulation from unwarranted political or judicial intrusion, but expert judgments also entail political tradeoffs.",
+          "page": "12",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 12"
+        },
+        {
+          "id": "admin-ch1-pluralist",
+          "type": "concept",
+          "title": "Pluralist / interest-representation model",
+          "summary": "Agency action is legitimate when affected interests are fairly represented in an agency's political decision process.",
+          "laymanExplanation": "Let affected groups participate, then weigh their competing views.",
+          "legalExplanation": "The model emphasizes access and representation but risks resource disparities, capture, and inadequate attention to the public interest.",
+          "page": "12",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 12"
+        },
+        {
+          "id": "admin-ch1-civic",
+          "type": "concept",
+          "title": "Civic-republican / deliberative model",
+          "summary": "Agency legitimacy comes from reasoned public deliberation that seeks the common good, not merely bargains among interest groups.",
+          "laymanExplanation": "Everyone gets a voice, and the agency explains its reasoning rather than just counting political influence.",
+          "legalExplanation": "The model favors notice-and-comment, transparent meetings, information access, and reasoned explanation; criticism emphasizes procedural delay and possible ossification.",
+          "page": "12–13",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 12–13"
+        },
+        {
+          "id": "admin-ch1-procedural",
+          "type": "concept",
+          "title": "Procedural-regularity theory",
+          "summary": "Agency lawmaking gains legitimacy from procedurally regular participation, especially APA notice and comment.",
+          "laymanExplanation": "Fair, open steps make agency decisions more acceptable.",
+          "legalExplanation": "Procedure enables public participation and creates a record that may support later judicial review.",
+          "page": "13",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 13"
+        },
+        {
+          "id": "admin-ch1-checks",
+          "type": "concept",
+          "title": "Checks-and-balances theory",
+          "summary": "Agency power is restrained through judicial, legislative, and executive oversight.",
+          "laymanExplanation": "No agency has the last word on every question; other branches can check it.",
+          "legalExplanation": "Judicial review, legislative oversight and appropriations, and executive appointment and supervision offer overlapping controls, although monitoring is costly and imperfect.",
+          "page": "13",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 13"
+        },
+        {
+          "id": "admin-ch1-firealarm",
+          "type": "concept",
+          "title": "Fire-alarm theory of administrative procedure",
+          "summary": "APA notice and comment alerts interested groups to agency changes so they may intervene through comments or enlist legislative or executive assistance.",
+          "laymanExplanation": "Public notice acts like an alarm so affected groups can react before a rule is final.",
+          "legalExplanation": "The excerpt connects procedural regularity with political oversight and attributes the fire-alarm model to public choice theory.",
+          "page": "13",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 13"
+        },
+        {
+          "id": "admin-ch1-libertarian",
+          "type": "concept",
+          "title": "Libertarian critique of the administrative state",
+          "summary": "Some theorists regard extensive federal agency regulation and adjudication as incompatible with separation of powers and individual liberty.",
+          "laymanExplanation": "Some critics think agencies have too much power and regulation interferes excessively with freedom and markets.",
+          "legalExplanation": "The excerpt describes Philip Hamburger's constitutional critique and Adrian Vermeule's rebuttal, presenting this as a contested normative debate rather than settled law.",
+          "page": "13–14",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1, p. 13–14"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "problems": [
+    {
+      "id": "admin-ch1-problem-1-7",
+      "topicId": "admin-ch1-introduction",
+      "title": "§ 1.7 — Cannabis Control Board problem",
+      "source": "Asimow & Levin, Chapter 1, p. 15",
+      "kind": "Assigned textbook problem — unsolved",
+      "prompt": "A voter initiative legalizes recreational marijuana but does not establish a regulatory agency or detailed standards. As Commerce Committee staff, prepare a memo discussing whether the state legislature should establish a Cannabis Control Board (CCB), what the legislation should provide, and which subjects the CCB's regulations should cover. Consider the alternatives of local government or existing criminal/tort law and the possibility of agency research, rulemaking, licensing, enforcement, and adjudication.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
