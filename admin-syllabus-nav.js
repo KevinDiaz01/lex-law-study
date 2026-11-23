@@ -39,7 +39,17 @@ const units=[
   {title:'Separation of Functions — Cases',detail:'§ 3.3.4 · pp. 123–133',ids:['admin-ch3-separation-cases']},
   {title:'Bias & Prejudgment',detail:'§ 3.3.5 · pp. 133–141',ids:['admin-ch3-bias']},
   {title:'ALJs & Decisional Independence',detail:'§ 3.4 · pp. 141–154',ids:['admin-ch3-alj-independence']},
-  {title:'Pre-Hearing, Evidence & Decisions',detail:'pp. 155–224',match:/pre-hearing|hearing phase|decision phase|stare decisis|estoppel/i}
+  {title:'Notice & Parties — Block',detail:'§ 4.1.1 · pp. 155–162',ids:['admin-ch4-notice']},
+  {title:'Investigations & Discovery — Craib',detail:'§ 4.1.2 · pp. 163–173',ids:['admin-ch4-investigations']},
+  {title:'Alternative Dispute Resolution',detail:'§ 4.1.3 · pp. 173–175',ids:['admin-ch4-adr']},
+  {title:'Hearing Evidence — Reguero',detail:'§ 4.2.1 · pp. 175–185',ids:['admin-ch4-hearing-evidence']},
+  {title:'Official Notice — Circu',detail:'§ 4.2.2 · pp. 185–190',ids:['admin-ch4-official-notice']},
+  {title:'Findings & Reasons — Ship Creek',detail:'§ 4.3.1 · pp. 190–198',ids:['admin-ch4-reason-giving']},
+  {title:'Post Hoc Reasons — Calcutt / Regents',detail:'§ 4.3.2 · pp. 198–203',ids:['admin-ch4-posthoc']},
+  {title:'Enforcement — Civil Penalties',detail:'ACUS 72-6 (Canvas reading)',ids:['admin-ch4-enforcement-acus']},
+  {title:'Consistency — UAW',detail:'§ 4.4.2 · pp. 210–212',ids:['admin-ch4-consistency']},
+  {title:'Reliance / Fair Notice — Fox II',detail:'§ 4.5.1 · pp. 212–219',ids:['admin-ch4-fair-notice']},
+  {title:'Equitable Estoppel — Richmond',detail:'§ 4.5.2 · pp. 219–224',ids:['admin-ch4-estoppel']}
  ]},
  {name:'IV.C. Administrative Rulemaking',caption:'Classes 14–20 · Oct 12–Nov 2',items:[
   {title:'Rules, Notice & Public Participation',detail:'pp. 225–284',match:/rulemaking|public participation|notice and comment/i},
@@ -69,6 +79,7 @@ groupTitle=function(g){
   if(g[0]?.chapterGroup==='admin-ch1')return 'Introduction — Role and Structure of Agencies';
   if(g[0]?.chapterGroup==='admin-ch2')return 'Chapter 2 — Procedural Due Process & Hearings';
   if(g[0]?.chapterGroup==='admin-ch3')return 'Chapter 3 — Administrative Adjudication: Fundamental Problems';
+  if(g[0]?.chapterGroup==='admin-ch4')return 'Chapter 4 — The Process of Administrative Adjudication';
   if(g[0]?.chapterGroup==='admin-appointments')return 'Chief Executive’s Appointment Power';
   if(g[0]?.chapterGroup==='admin-removal')return 'Chief Executive’s Removal Power';
   if(g[0]?.chapterGroup==='admin-polbranches')return 'Separation of Powers & Political Branches';
