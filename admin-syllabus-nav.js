@@ -21,8 +21,11 @@ const units=[
   {title:'Agency Interpretation — Preview',detail:'pp. 595–608',match:/interpretation.*preview/i}
  ]},
  {name:'IV.A–B. Agency Procedures & Due Process',caption:'Classes 5–8 · Sep 9–21',items:[
-  {title:'Adjudication vs. Rulemaking',detail:'pp. 69–76',match:/adjudication.*rulemaking|rulemaking.*adjudication/i},
-  {title:'Constitutional Due Process',detail:'pp. 17–69',match:/due process|mathews|roth/i}
+  {title:'Adjudication vs. Rulemaking',detail:'§ 2.5 · pp. 69–76',ids:['admin-ch2-distinction']},
+  {title:'Goldberg — Welfare Termination',detail:'§ 2.1 · pp. 17–29',ids:['admin-ch2-welfare']},
+  {title:'Roth — Liberty & Property',detail:'§ 2.2 · pp. 29–47',ids:['admin-ch2-protected']},
+  {title:'Mathews — Timing of Hearings',detail:'§ 2.3 · pp. 47–59',ids:['admin-ch2-timing']},
+  {title:'Elements of a Hearing',detail:'§ 2.4 · pp. 59–69',ids:['admin-ch2-elements']}
  ]},
  {name:'IV.C. Administrative Adjudication',caption:'Classes 8–14 · Sep 21–Oct 12',items:[
   {title:'Statutory Hearing Rights',detail:'pp. 77–98',match:/hearing rights|statutory hearing/i},
@@ -55,6 +58,7 @@ const ogTitle=groupTitle;
 groupTitle=function(g){
  if(courseId==='admin'){
   if(g[0]?.chapterGroup==='admin-ch1')return 'Introduction — Role and Structure of Agencies';
+  if(g[0]?.chapterGroup==='admin-ch2')return 'Chapter 2 — Procedural Due Process & Hearings';
   if(g[0]?.chapterGroup==='admin-appointments')return 'Chief Executive’s Appointment Power';
   if(g[0]?.chapterGroup==='admin-removal')return 'Chief Executive’s Removal Power';
   if(g[0]?.chapterGroup==='admin-polbranches')return 'Separation of Powers & Political Branches';
