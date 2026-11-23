@@ -3,10 +3,16 @@
   "courseId": "admin",
   "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 1 pp.1–15",
   "coverage": {
-    "submittedPages": "1–15",
-    "syllabusClass": "Classes 1–2",
-    "syllabusAssignment": "Introduction, pp. 1–14; APA appendices pp. 799–819 not yet supplied",
-    "status": "Chapter 1 reading received; appendices still pending"
+    "submittedPages": "1–15 (resubmitted; textbook chapter text and § 1.7 problem)",
+    "syllabusClass": "Classes 1–2 (August 24 and 26, 2026)",
+    "syllabusAssignment": "Read pp. 1–14; skim federal APA pp. 799–808 and 2010 MSAPA section headings pp. 809–819",
+    "status": "Verified against user's resubmitted Chapter 1 (pp. 1–15) and Professor Lubbers's September 20, 2026 syllabus. Existing 41 study entries and the unsolved problem preserved unchanged.",
+    "assignedBookPages": "1–14",
+    "additionalUnassignedProblem": "§ 1.7 problem begins on p. 14 and continues on p. 15; retained unsolved",
+    "missingCompanionReadings": [
+      "Federal APA pp. 799–808 (skim)",
+      "2010 Model State APA pp. 809–819 (section headings only)"
+    ]
   },
   "topics": [
     {
