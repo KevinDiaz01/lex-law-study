@@ -5,7 +5,7 @@
   "coverage": {
     "uploaded": "669–719",
     "included": "670–690",
-    "assignment": "Full study pp. 670–676, 683–690; skim pp. 676–683",
+    "assignment": "Full study pp. 670–676 and 683–690, INCLUDING presidential immunity pp. 683–685; skim pp. 676–683. Distinction reflected in separate topic.",
     "syllabusUnit": "VI.C — Availability and Timing of Judicial Review",
     "sourceLimit": "Canvas ACUS Recommendation 75-3 is assigned separately and not in this upload"
   },
@@ -317,18 +317,88 @@
           "legalExplanation": "Harlow objective standard; no vicarious personal liability (Iqbal); Westfall substitution for employee common-law torts; presidential civil immunity scope recognized.",
           "examApplication": "Classify defendant and function, then examine clearly established right.",
           "examTrap": "Do not mistake a governmental entity's immunity for an individual's, or constitutional damages for tort damages."
-        },
+        }
+      ]
+    },
+    {
+      "id": "admin-ch10-presidential-immunity",
+      "title": "§ 10.2.3 — Presidential Criminal Immunity, Trump v. United States (pp. 683–685)",
+      "chapterGroup": "admin-ch10",
+      "description": "Assigned detailed pp. 683–685: official/unofficial acts; absolute, presumptive and no immunity; majority, dissent and evidentiary implications. Opinion discussed by casebook, not fully excerpted.",
+      "entries": [
         {
-          "id": "admin-ch10-damages-skim-e6",
-          "type": "rule",
-          "title": "SKIM: Trump v. United States (2024) criminal presidential immunity",
+          "id": "admin-ch10-presidential-immunity-e1",
+          "type": "case",
+          "title": "Trump v. United States, 603 U.S. 593 (2024) — official act immunity",
           "page": "683–685",
           "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 670–690 (uploaded Nov. 23, 2026)",
           "summary": "The casebook distinguishes absolute immunity for core exclusive presidential constitutional acts, presumptive immunity for other official acts, and no immunity for unofficial acts.",
           "laymanExplanation": "Criminal charges against a President are treated differently depending on official versus private conduct.",
           "legalExplanation": "Source sketches majority and Sotomayor dissent; this is background within predominantly skimmed segment and not a full assigned case opinion.",
           "examApplication": "Separate criminal official-act doctrine from civil damages immunity.",
-          "examTrap": "A 2024 casebook description is not necessarily an exhaustive statement of later applications."
+          "examTrap": "Distinguish presidential criminal immunity from the separate civil damages immunity described earlier; official character must be analyzed without looking to subjective motive.",
+          "sourceRole": "Case described and briefly quoted in casebook discussion; full court opinion is not reproduced",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch10-presidential-immunity-e2",
+          "type": "rule",
+          "title": "Absolute immunity: exclusive core constitutional functions",
+          "page": "683–684",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 670–690 (uploaded Nov. 23, 2026)",
+          "summary": "President is absolutely immune from federal criminal prosecution for conduct within exclusive, conclusive and preclusive presidential constitutional authority.",
+          "laymanExplanation": "Certain core presidential functions cannot serve as basis for criminal charges.",
+          "legalExplanation": "The chapter identifies President–Justice Department official discussions as covered in Trump v United States; classification focuses constitutional source of power, not subjective motives.",
+          "examApplication": "Ask whether activity belongs to exclusive Article II sphere where Congress cannot regulate.",
+          "examTrap": "Do not extend this category to every action President undertakes."
+        },
+        {
+          "id": "admin-ch10-presidential-immunity-e3",
+          "type": "rule",
+          "title": "Presumptive immunity for remaining official acts",
+          "page": "683–684",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 670–690 (uploaded Nov. 23, 2026)",
+          "summary": "For other official presidential conduct, at minimum a presumption against prosecution applies unless government shows no danger of intruding on presidential function.",
+          "laymanExplanation": "Other presidential work gets powerful but not necessarily absolute protection.",
+          "legalExplanation": "The opinion discussed Vice Presidential certification communications, state-election interactions and public statements as matters for lower-court classification; majority remanded for official-versus-unofficial assessment.",
+          "examApplication": "Identify official responsibility, shared constitutional powers, and whether government can rebut presumption.",
+          "examTrap": "An act's political controversy does not alone make it official or unofficial."
+        },
+        {
+          "id": "admin-ch10-presidential-immunity-e4",
+          "type": "rule",
+          "title": "Unofficial acts receive no presidential immunity",
+          "page": "684",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 670–690 (uploaded Nov. 23, 2026)",
+          "summary": "Criminal conduct genuinely outside presidential official responsibilities does not receive immunity under Trump.",
+          "laymanExplanation": "Being President doesn't protect unrelated private conduct.",
+          "legalExplanation": "Courts must distinguish capacity in which President acted. Court may not investigate President's motives to label an act official or unofficial.",
+          "examApplication": "Analyze nature and authority of conduct and procedural proof limits.",
+          "examTrap": "Don't categorize acts merely because motive alleged improper."
+        },
+        {
+          "id": "admin-ch10-presidential-immunity-e5",
+          "type": "rule",
+          "title": "Evidence and motive restrictions",
+          "page": "684–685",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 670–690 (uploaded Nov. 23, 2026)",
+          "summary": "The casebook explains majority's ban on probing presidential motives to classify acts and its restriction on using immunized official-act evidence to prove criminal liability for unofficial acts.",
+          "laymanExplanation": "The rule affects not only which conduct can be charged, but what evidence prosecutors can use.",
+          "legalExplanation": "Justice Barrett did not join majority's evidentiary exclusion reasoning; dissent criticized exclusion as obscuring mens rea for private wrongdoing.",
+          "examApplication": "Separate substantive official-act immunity from evidentiary limitation and identify Justice Barrett disagreement.",
+          "examTrap": "A discussion of criminal proof is not an automatic total immunity for every alleged act."
+        },
+        {
+          "id": "admin-ch10-presidential-immunity-e6",
+          "type": "rule",
+          "title": "Sotomayor dissent and constitutional arguments",
+          "page": "685",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 670–690 (uploaded Nov. 23, 2026)",
+          "summary": "Justice Sotomayor criticized broad official-act criminal immunity as placing Presidents above law and disputed historical and textual basis, citing impeachment clauses and incentives for abuse.",
+          "laymanExplanation": "The dissent worries officials could misuse presidential power without criminal accountability.",
+          "legalExplanation": "Majority emphasized avoiding retaliatory prosecution across administrations, while dissent emphasized rule of law and constitutional accountability; disagreement is normative and constitutional, not two current rules.",
+          "examApplication": "Compare majority and dissent concisely; identify which governs.",
+          "examTrap": "Do not present dissent as holding."
         }
       ]
     },
