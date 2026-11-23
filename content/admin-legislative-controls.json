@@ -5,7 +5,8 @@
   "coverage": {
     "submittedPages": "466–493",
     "syllabusAssignment": "Legislative Controls, Chadha and Congressional Review Act; state and other legislative oversight",
-    "status": "Textbook §7.4 imported"
+    "status": "Textbook §7.4 imported",
+    "sourceRecheck": "2026-11-23: Re-checked against new upload of Chapter 7 pp. 417–483; preserved existing source-derived study topics, appended missing concepts and open Notes & Questions; no duplicate chapters."
   },
   "topics": [
     {
@@ -210,6 +211,50 @@
           "page": "482",
           "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493",
           "sourceRole": "Discussed in notes only"
+        },
+        {
+          "id": "admin-ch7-recheck-chadha-statusquo",
+          "type": "concept",
+          "title": "Chadha: White's legal status quo and functional check argument",
+          "summary": "Justice White reasoned that the enabling act itself satisfied Article I and that executive approval plus silence of both chambers represented an authorized scheme for approving deportation suspensions.",
+          "laymanExplanation": "White considered congressional disapproval a retained check rather than new legislation, while the majority treated legal effect outside Congress as legislation.",
+          "legalExplanation": "This is the dissenting argument, not the majority's rule; the majority required fresh bicameralism and presentment for the resolution changing Chadha's rights.",
+          "page": "474–475",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "Distinguish dissent's practical accommodation from majority's formal requirement."
+        },
+        {
+          "id": "admin-ch7-recheck-cra-no-inference",
+          "type": "concept",
+          "title": "CRA congressional nonaction supplies no inference",
+          "summary": "The CRA instructs courts not to infer congressional approval or disapproval of a rule merely because Congress did not enact a joint resolution of disapproval.",
+          "laymanExplanation": "Congressional silence is not legal validation of the rule.",
+          "legalExplanation": "An agency rule can remain vulnerable to ordinary APA challenge after the CRA review period ends.",
+          "page": "478–479",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "On exam separate disapproval procedure from merits judicial review."
+        },
+        {
+          "id": "admin-ch7-recheck-cra-cfpb-2018",
+          "type": "concept",
+          "title": "CRA reach to previously unsubmitted guidance",
+          "summary": "The casebook recounts 2018 CRA disapproval of a 2013 CFPB indirect-auto-lending guidance after GAO opined it was a covered rule, raising timing and statutory-authority questions.",
+          "laymanExplanation": "Even an older guidance document might be brought before Congress if never formally submitted under the Act.",
+          "legalExplanation": "This historical example illustrates parliamentarian/GAO views of late submission and ACUS 2021–8 recommendation that Congress clarify timing by statute.",
+          "page": "480–481",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "Don't infer GAO opinions themselves are universally binding statutes; the reading questions this retrospective practice."
+        },
+        {
+          "id": "admin-ch7-recheck-cra-versus-reins",
+          "type": "concept",
+          "title": "CRA disapproval versus proposed REINS approval",
+          "summary": "CRA generally lets rules become effective unless Congress enacts a disapproval joint resolution; proposed REINS would require affirmative approval joint resolution before a major rule became effective.",
+          "laymanExplanation": "CRA is an opt-out after agency action; REINS would be opt-in for major rules.",
+          "legalExplanation": "Both rely on joint resolutions with ordinary bicameralism and presentment, unlike unconstitutional one-house veto; policy and procedure differ.",
+          "page": "477–479",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "The textbook describes REINS as a proposed bill, not an enacted requirement."
         }
       ]
     },
@@ -412,6 +457,126 @@
       "kind": "Assigned textbook problem — unsolved",
       "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 7.4, pp. 466–493 (p. 489)",
       "prompt": "As counsel to a Madison state senator, evaluate the constitutionality and desirability of a proposed temporary committee suspension of agency rules modeled on Wisconsin's pre-2017 provision. Madison's constitution has no express separation-of-powers clause. Identify relevant limits and considerations without supplying a solved conclusion.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q1",
+      "topicId": "admin-legislative-federal",
+      "title": "N.1 — Why was Chadha legislative?",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 476)",
+      "prompt": "Explain why House reversal of individual deportation relief counted as legislation under majority's test when Attorney General's similar decision was administrative.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q2",
+      "topicId": "admin-legislative-federal",
+      "title": "N.2 — Legislative veto versus delegated agency decision",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 476)",
+      "prompt": "If Congress may delegate decisionmaking to agencies, why could it not reserve a one-house veto over that delegated decision? Contrast majority and White.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q3",
+      "topicId": "admin-legislative-federal",
+      "title": "N.3 — Powell's adjudication theory",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 476)",
+      "prompt": "Would a Congress acting on six named persons' deportation orders violate separation of powers even if both houses passed resolution and President signed it?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q4",
+      "topicId": "admin-legislative-federal",
+      "title": "N.4 — Two-house rulemaking veto",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 476–477)",
+      "prompt": "Why were even both chambers' concurrent resolutions rejecting FTC used-car rule insufficient under Chadha?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q5",
+      "topicId": "admin-legislative-federal",
+      "title": "N.5 — Who benefits from legislative vetoes?",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 477)",
+      "prompt": "Weigh legislative accountability claims against concerns over wealthy groups, committee capture, weak information and regulatory gridlock.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q6",
+      "topicId": "admin-legislative-federal",
+      "title": "N.6 — Proposed REINS Act and constitutional procedure",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 477–478)",
+      "prompt": "Would affirmative joint-resolution approval for major agency rules respect bicameralism and presentment? What happens in a divided Congress?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q7",
+      "topicId": "admin-legislative-federal",
+      "title": "N.7 — CRA mechanics and constitutional question",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 478–479)",
+      "prompt": "Explain submission, major-rule waiting period, joint disapproval, Senate fast track, and whether the CRA is distinguishable from Chadha.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q8",
+      "topicId": "admin-legislative-federal",
+      "title": "N.8 — Presidential transitions and CRA use",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 479–480)",
+      "prompt": "Why is the CRA especially powerful near a presidential transition? Evaluate OSHA ergonomics, 2017, and 2021 casebook examples.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q9",
+      "topicId": "admin-legislative-federal",
+      "title": "N.9 — CRA coverage of guidance",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 480)",
+      "prompt": "Should CRA submission extend to interpretive rules, general policy statements and virtually all non-major rules or only high-impact ones?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q10",
+      "topicId": "admin-legislative-federal",
+      "title": "N.10 — Unsubmitted guidance and GAO rulings",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 480–481)",
+      "prompt": "Was retroactive CRA disapproval of 2013 CFPB auto-lending guidance in 2018 supported by the Act, and should Congress clarify timing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q11",
+      "topicId": "admin-legislative-federal",
+      "title": "N.11 — Substantially the same limitation",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 481)",
+      "prompt": "After CRA disapproval, how broadly should courts construe the ban on a substantially similar replacement rule? Consider unemployment drug-testing policy.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-legislative-ch7-recheck-q12",
+      "topicId": "admin-legislative-federal",
+      "title": "N.12 — Congressional execution limits",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 481–482)",
+      "prompt": "How do Bowsher, Metropolitan Washington Airports Authority, and Clinton's line-item veto constrain legislative/executive tools for oversight?",
       "status": "Not attempted",
       "notes": ""
     }
