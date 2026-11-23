@@ -28,8 +28,17 @@ const units=[
   {title:'Elements of a Hearing',detail:'§ 2.4 · pp. 59–69',ids:['admin-ch2-elements']}
  ]},
  {name:'IV.C. Administrative Adjudication',caption:'Classes 8–14 · Sep 21–Oct 12',items:[
-  {title:'Statutory Hearing Rights',detail:'pp. 77–98',match:/hearing rights|statutory hearing/i},
-  {title:'Decisionmakers, Ex Parte Contacts & Bias',detail:'pp. 98–154',match:/ex parte|bias|decisionmakers|administrative judges/i},
+  {title:'Federal Statutory Hearing Rights',detail:'§ 3.1.1 · pp. 77–85',ids:['admin-ch3-federal-gateway']},
+  {title:'State Hearing Rights',detail:'§ 3.1.2 · pp. 85–91',ids:['admin-ch3-state-gateway']},
+  {title:'Using Rules to Limit Hearings',detail:'§ 3.2 · pp. 91–98',ids:['admin-ch3-rules-foreclose']},
+  {title:'Judicial & Institutional Models',detail:'§ 3.3 · pp. 98–100',ids:['admin-ch3-judicial-institutional']},
+  {title:'Morgan — Decisionmaker Responsibility',detail:'§ 3.3.1 · pp. 100–106',ids:['admin-ch3-personal-responsibility']},
+  {title:'Ex Parte Contacts — PATCO',detail:'§ 3.3.2 · pp. 106–116',ids:['admin-ch3-ex-parte']},
+  {title:'Congressional Pressure — Pillsbury',detail:'§ 3.3.3 · pp. 116–122',ids:['admin-ch3-legislative-pressure']},
+  {title:'Separation of Functions — Introduction',detail:'§ 3.3.4 · p. 122',ids:['admin-ch3-separation-intro']},
+  {title:'Separation of Functions — Cases',detail:'§ 3.3.4 · pp. 123–133',ids:['admin-ch3-separation-cases']},
+  {title:'Bias & Prejudgment',detail:'§ 3.3.5 · pp. 133–141',ids:['admin-ch3-bias']},
+  {title:'ALJs & Decisional Independence',detail:'§ 3.4 · pp. 141–154',ids:['admin-ch3-alj-independence']},
   {title:'Pre-Hearing, Evidence & Decisions',detail:'pp. 155–224',match:/pre-hearing|hearing phase|decision phase|stare decisis|estoppel/i}
  ]},
  {name:'IV.C. Administrative Rulemaking',caption:'Classes 14–20 · Oct 12–Nov 2',items:[
@@ -59,6 +68,7 @@ groupTitle=function(g){
  if(courseId==='admin'){
   if(g[0]?.chapterGroup==='admin-ch1')return 'Introduction — Role and Structure of Agencies';
   if(g[0]?.chapterGroup==='admin-ch2')return 'Chapter 2 — Procedural Due Process & Hearings';
+  if(g[0]?.chapterGroup==='admin-ch3')return 'Chapter 3 — Administrative Adjudication: Fundamental Problems';
   if(g[0]?.chapterGroup==='admin-appointments')return 'Chief Executive’s Appointment Power';
   if(g[0]?.chapterGroup==='admin-removal')return 'Chief Executive’s Removal Power';
   if(g[0]?.chapterGroup==='admin-polbranches')return 'Separation of Powers & Political Branches';
