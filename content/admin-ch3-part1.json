@@ -816,6 +816,145 @@
           "examTrap": "An authorized internal policy adviser is not automatically an improper § 557(d) external interested person."
         }
       ]
+    },
+    {
+      "id": "admin-ch3-legislative-pressure",
+      "title": "§ 3.3.3 — Legislative Pressure on Adjudication (pp. 116–122)",
+      "chapterGroup": "admin-ch3",
+      "description": "Classes 9–10 · Pillsbury; congressional oversight, intimidation, preliminary investigations and constituent casework.",
+      "entries": [
+        {
+          "id": "admin-ch3-legislative-pressure-1",
+          "type": "framework",
+          "title": "Congressional oversight versus adjudicatory independence",
+          "summary": "Legislators may oversee policy and agencies, but coercive intervention in a pending quasi-judicial case may destroy fairness or the appearance of an impartial decision.",
+          "laymanExplanation": "Congress can criticize agency policy, but cannot threaten the judge in a particular pending case to force a result.",
+          "legalExplanation": "First classify agency action as adjudicatory on exclusive record or policy/non-adjudicatory; then ask whether legislative communications targeted merits or authorized broader oversight. Duration, timing, specific pressure and bias appearance matter.",
+          "page": "116–121",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 116–121",
+          "examApplication": "Separate the lawfulness of oversight from its impermissible use to steer resolution of a named party's evidentiary case."
+        },
+        {
+          "id": "admin-ch3-legislative-pressure-2",
+          "type": "case",
+          "title": "Pillsbury Co. v. Federal Trade Commission, 354 F.2d 952 (5th Cir. 1966)",
+          "summary": "Yes. Intrusive congressional interrogation of the adjudicator's mental processes in a pending case undermined the appearance of impartiality; FTC's order was vacated and remanded.",
+          "laymanExplanation": "Simply: Yes. Intrusive congressional interrogation of the adjudicator's mental processes in a pending case undermined the appearance of impartiality; FTC's order was vacated and remanded.",
+          "legalExplanation": "Issue: Did congressional committee pressure on agency commissioners during an ongoing quasi-judicial antitrust proceeding deny procedural fairness or its appearance? Reasoning: An agency acting judicially should not have its impartiality or public confidence compromised by political pressure about the particular adjudication. Court separated legitimate legislative oversight from demanding how a commissioner should decide a live case.",
+          "page": "116–118",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 116–118",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpt reproduced in supplied reading",
+          "facts": "FTC's pending Clayton Act merger adjudication concerned Pillsbury acquisitions. During congressional antitrust oversight hearings, senators challenged the FTC's interpretation of the specific ongoing case and probed Commissioners' adjudicatory thought processes. FTC ultimately ordered divestiture.",
+          "issue": "Did congressional committee pressure on agency commissioners during an ongoing quasi-judicial antitrust proceeding deny procedural fairness or its appearance?",
+          "holding": "Yes. Intrusive congressional interrogation of the adjudicator's mental processes in a pending case undermined the appearance of impartiality; FTC's order was vacated and remanded.",
+          "reasoning": "An agency acting judicially should not have its impartiality or public confidence compromised by political pressure about the particular adjudication. Court separated legitimate legislative oversight from demanding how a commissioner should decide a live case.",
+          "rule": "Congress may not pressure agency adjudicators about substantive disposition of pending quasi-judicial matters in a way that undermines adjudicative integrity or the appearance of impartiality.",
+          "examApplication": "Assess whether a legislator's letter or oversight threat addressed a particular pending hearing, emphasized improper considerations, or addressed general policy and statutory administration.",
+          "examTrap": "Pillsbury turned strongly on appearance of fairness; textbook notes question whether contacts actually influenced the final decision."
+        },
+        {
+          "id": "admin-ch3-legislative-pressure-3",
+          "type": "concept",
+          "title": "Pillsbury's disputed causal link and chilling effect",
+          "summary": "The casebook notes that years elapsed between 1955 hearings and 1960 order, one chairman recused, several eventual decisionmakers were not directly questioned, and FTC did not adopt the senators' preferred per se approach.",
+          "laymanExplanation": "Even without clear changed votes, the judges worried that interference made the tribunal look unfair.",
+          "legalExplanation": "The notes present criticism of remedy: the original FTC case became stale and was dismissed after remand; this raises real fairness versus enforcement-cost tradeoffs.",
+          "page": "118–119",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 118–119",
+          "examTrap": "Do not confuse criticism in the notes with the court's actual vacatur holding."
+        },
+        {
+          "id": "admin-ch3-legislative-pressure-4",
+          "type": "rule",
+          "title": "Pillsbury and modern § 557(d)",
+          "summary": "Congress later enacted § 557(d) in 1976 to bar qualifying outside merits-related ex parte contacts in formal adjudication, including those by members of Congress where the statutory elements are met.",
+          "laymanExplanation": "A legislator may be an interested outsider for pending administrative cases.",
+          "legalExplanation": "Legislative casework status inquiries can still be permitted under APA § 551(14), but attempts to pressure merits determination may require disclosure or remedies following PATCO.",
+          "page": "118–119",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 118–119",
+          "examApplication": "For a current formal proceeding, analyze both Pilllsbury-style due-process concerns and the statutory ex parte ban; identify appropriate remedy."
+        },
+        {
+          "id": "admin-ch3-legislative-pressure-5",
+          "type": "case",
+          "title": "D.C. Federation of Civic Associations v. Volpe, 459 F.2d 1231 (D.C. Cir. 1971)",
+          "summary": "Legislative threat involving a Potomac bridge and subway funding did not fall under Pillsbury because the Secretary's action was not an exclusive-record adjudication.",
+          "laymanExplanation": "Legislative threat involving a Potomac bridge and subway funding did not fall under Pillsbury because the Secretary's action was not an exclusive-record adjudication.",
+          "legalExplanation": "Nevertheless, arbitrary-and-capricious review barred reliance on politically extraneous factors where the governing transportation statute required engineering/traffic considerations.",
+          "page": "119–120",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 119–120",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Distinguish impermissible extraneous reason from legitimate political policy input."
+        },
+        {
+          "id": "admin-ch3-legislative-pressure-6",
+          "type": "case",
+          "title": "DCP Farms v. Yeutter, 957 F.2d 1183 (5th Cir. 1992)",
+          "summary": "Congressional pressure for USDA investigation of 51 trusts avoiding crop subsidy caps was not prohibited by Pillsbury before agency case reached quasi-judicial hearing stage.",
+          "laymanExplanation": "Congressional pressure for USDA investigation of 51 trusts avoiding crop subsidy caps was not prohibited by Pillsbury before agency case reached quasi-judicial hearing stage.",
+          "legalExplanation": "Court treated lawmaker's message as part of a wider policy and enforcement discussion; textbook challenges timing and influence assumptions.",
+          "page": "120–121",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 120–121",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Contrast investigation, hearing stage and pressure to decide pending merits."
+        },
+        {
+          "id": "admin-ch3-legislative-pressure-7",
+          "type": "concept",
+          "title": "Legislative casework and status reports",
+          "summary": "Constituent-oriented legislators often ask agencies for updates on pending matters; APA's ex parte definition excepts genuine status inquiries, but disguised outcome lobbying presents dangers.",
+          "laymanExplanation": "Asking 'what is the status?' differs from privately telling the judge whom to rule for.",
+          "legalExplanation": "Focus on communication content and function, not only whether messenger is a senator or whether the subject is described as a status request.",
+          "page": "121",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 121",
+          "examApplication": "Under § 551(14), screen for genuine status report; under § 557(d), evaluate merits relevance and interested-person status."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch3-separation-intro",
+      "title": "§ 3.3.4 — Separation of Functions: Introduction (p. 122 only)",
+      "chapterGroup": "admin-ch3",
+      "description": "Classes 9–10 · opening framework only; specific cases and tests begin on unprovided p. 123.",
+      "entries": [
+        {
+          "id": "admin-ch3-separation-intro-1",
+          "type": "framework",
+          "title": "External versus internal separation of agency functions",
+          "summary": "Agencies may investigate, prosecute, make rules and decide disputes under one institutional roof; this combination is generally not unconstitutional by itself. External separation assigns different functions to different institutions; internal separation restricts staff roles within one agency.",
+          "laymanExplanation": "A government agency can usually investigate and adjudicate, but the same staff member cannot necessarily prosecute and then help decide the same dispute.",
+          "legalExplanation": "The source introduces separation of functions as an answer to the tension between regulatory integration and adjudicative fairness; detailed cases appear on pages not yet submitted.",
+          "page": "122",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 122",
+          "examTrap": "Don't conclude an agency is automatically unconstitutional simply because it combines broad functions."
+        },
+        {
+          "id": "admin-ch3-separation-intro-2",
+          "type": "rule",
+          "title": "Adversary staff must not act as judge or secret decisional adviser in the same case",
+          "summary": "Both state and federal APAs impose internal separation in Type A adjudication; agency rules often impose analogous protections in Type B. Staff with adversary roles in a particular case cannot later adjudicate or provide off-record decisional advice in that matter.",
+          "laymanExplanation": "The prosecutor should not privately advise the judge about how to decide the very case the prosecutor brought.",
+          "legalExplanation": "The opening text contrasts prosecutors/investigators in the same case with neutral internal agency advisers, who may provide permitted consultation. The full opinions on this distinction are on pp. 123–132, not in this batch.",
+          "page": "122",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 122",
+          "examApplication": "Determine whether employee actually investigated or advocated in that case, and whether proposed consultation is decisional and off-record.",
+          "examTrap": "Permitted internal policy assistance by non-adversary staff is not categorically barred."
+        },
+        {
+          "id": "admin-ch3-separation-intro-3",
+          "type": "concept",
+          "title": "Separation of functions: cases not in this upload",
+          "summary": "The introductory section previews Quintanar, Consumer Advocate Division, and further treatment of separation of functions but does not reproduce these opinions here.",
+          "laymanExplanation": "The next pages are needed before briefing those decisions.",
+          "legalExplanation": "The syllabus assigns Quintanar at p. 123, Consumer Advocate Division at p. 126, Withrow v. Larkin at p. 127, bias at pp. 133–141 and ALJ independence at pp. 141–154. No briefs are created here without the actual reading.",
+          "page": "122",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 122",
+          "examTrap": "No holdings from pp. 123–154 have been inferred from this excerpt."
+        }
+      ]
     }
   ],
   "problems": [
@@ -1026,6 +1165,66 @@
       "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 115–116",
       "kind": "Textbook Notes and Questions — UNSOLVED",
       "prompt": "State utility commissioners heard a private consumer-group rate-base presentation, then ruled for consumers. Analyze validity and remand under 1961 MSAPA; change facts to company benefiting, elected commissioners and federal APA. DO NOT SOLVE.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q22",
+      "topicId": "admin-ch3-legislative-pressure",
+      "title": "Did Pillsbury overprotect the appearance of impartiality?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 118–119",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Given the years between hearings and decision, changed commissioners and FTC's rejection of senators' approach, was vacatur justified? Compare PATCO's prejudice analysis.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q23",
+      "topicId": "admin-ch3-legislative-pressure",
+      "title": "Legislative oversight and APA § 557(d)",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 119",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Would the 1976 ex parte restriction change the remedy in Pillsbury? Can Congress debate policy set in adjudications without pressuring the outcome?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q24",
+      "topicId": "admin-ch3-legislative-pressure",
+      "title": "Bridge pressure versus adjudication pressure",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 119–120",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Contrast D.C. Federation's bridge/subway funding threat with Pillsbury; identify adjudication-specific and arbitrary-and-capricious review theories.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q25",
+      "topicId": "admin-ch3-legislative-pressure",
+      "title": "DCP Farms and investigative-stage lobbying",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 120–121",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Does a congressional committee's threat to change law if agency does not disqualify trusts count as legitimate oversight before a hearing begins? Compare §§ 551(14), 557(d).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q26",
+      "topicId": "admin-ch3-legislative-pressure",
+      "title": "Constituent casework inquiries",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 121",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "When do a legislator's letter, phone call and status request cross the line into improper influencing of agency merits?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q27",
+      "topicId": "admin-ch3-legislative-pressure",
+      "title": "Midway Hospital certificate-of-need — § 3.3.3 Note 7",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 121–122",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Ten lawmakers urged MHA director to reject a pending hospital application and threatened agency funding, even though director gave applicant a copy and later denied permit after a statutory evidentiary hearing. Analyze judicial review under (i) no APA, (ii) 1961 MSAPA and (iii) federal APA. Leave unsolved.",
       "status": "Not attempted",
       "notes": ""
     }
