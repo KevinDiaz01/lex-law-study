@@ -1,0 +1,453 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+  "coverage": "Chapter 9 pp. 595–619; Professor Lubbers syllabus VI.B(3) pp. 595–631 and Major Questions pp. 613–622. Coverage is partial beyond p. 619.",
+  "topics": [
+    {
+      "id": "admin-ch9-loper",
+      "title": "§ 9.2.1 — Statutory Interpretation: Chevron to Loper Bright (pp. 595–608)",
+      "chapterGroup": "admin-ch9",
+      "entries": [
+        {
+          "id": "admin-ch9-loper-e1",
+          "type": "rule",
+          "title": "APA § 706: reviewing courts decide legal questions",
+          "page": "597–598",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Section 706 directs reviewing courts to decide relevant questions of law, interpret constitutional and statutory provisions, and determine whether agency action is contrary to law.",
+          "laymanExplanation": "Courts must decide what the statute means instead of letting an agency's interpretation automatically settle it.",
+          "legalExplanation": "The Loper Bright majority reads § 706 as codifying independent judicial judgment in legal interpretation. Review for facts and discretionary policymaking has separately specified deferential standards.",
+          "examApplication": "Separate an agency's claim about statutory meaning from exercise of express delegated policymaking authority.",
+          "examTrap": "Do not confuse independent legal interpretation with replacing agency policy choices that Congress delegated."
+        },
+        {
+          "id": "admin-ch9-loper-e2",
+          "type": "rule",
+          "title": "Loper Bright rule: Chevron overruled",
+          "page": "595–602",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Chevron's mandatory deference to permissible agency readings of ambiguous statutes is overruled; ambiguity alone no longer requires judicial deference.",
+          "laymanExplanation": "If a statute can be read two ways, the judge chooses the best reading—not merely whether the agency's answer is acceptable.",
+          "legalExplanation": "Court uses traditional tools to ascertain statutory meaning even when agency administers the act; agency reasoning may still be persuasive or statutory text may confer discretion.",
+          "examApplication": "On exam: identify disputed statute, determine best reading using interpretive tools, consider agency experience persuasively, and locate genuine delegation.",
+          "examTrap": "Do not apply Chevron step two as current federal law or treat mere ambiguity as automatic agency power."
+        },
+        {
+          "id": "admin-ch9-loper-e3",
+          "type": "case",
+          "title": "Loper Bright Enterprises v. Raimondo, 603 U.S. 369 (2024)",
+          "page": "595–606",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpt reproduced in assigned textbook",
+          "summary": "No. Chevron is overruled. Under APA § 706, courts independently decide statutory meaning; agency interpretations may receive respectful consideration, and genuine delegated discretion still binds within statutory limits. Lower judgments vacated and remanded.",
+          "laymanExplanation": "A reviewing court must exercise independent judgment on legal questions while respecting statutory delegations; agency expertise is a source of persuasion, not an across-the-board command to defer.",
+          "legalExplanation": "The majority grounds independent legal review in judicial duty, APA text, the inadequacy of ambiguity-as-delegation, and Chevron's unworkability. The opinion preserves prior holdings approving specific actions under Chevron subject to ordinary statutory stare decisis; Kagan dissent argues agencies' technical expertise, policymaking competence, accountability and Congress's presumed intent favor deference.",
+          "facts": "The National Marine Fisheries Service required herring fishermen to fund observers aboard vessels under the Magnuson-Stevens Act; fishing companies argued that statutory authorization to require observers did not authorize shifting their costs to industry. Lower courts had upheld using Chevron deference.",
+          "issue": "When reviewing agency interpretations of their enabling statutes, must courts defer to reasonable agency readings simply because Congress left ambiguity?",
+          "holding": "No. Chevron is overruled. Under APA § 706, courts independently decide statutory meaning; agency interpretations may receive respectful consideration, and genuine delegated discretion still binds within statutory limits. Lower judgments vacated and remanded.",
+          "reasoning": "The majority grounds independent legal review in judicial duty, APA text, the inadequacy of ambiguity-as-delegation, and Chevron's unworkability. The opinion preserves prior holdings approving specific actions under Chevron subject to ordinary statutory stare decisis; Kagan dissent argues agencies' technical expertise, policymaking competence, accountability and Congress's presumed intent favor deference.",
+          "rule": "A reviewing court must exercise independent judgment on legal questions while respecting statutory delegations; agency expertise is a source of persuasion, not an across-the-board command to defer.",
+          "examApplication": "Discuss court's best statutory reading, express or contextual agency discretion, Skidmore weight, and why Chevron's previous framework is not binding.",
+          "examTrap": "Do not say Loper Bright holds the fishery fee rule unlawful; the Court vacated and remanded. Do not say all prior Chevron-based holdings are reversed."
+        },
+        {
+          "id": "admin-ch9-loper-e4",
+          "type": "framework",
+          "title": "Former Chevron two-step test (historical only)",
+          "page": "599–600",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Before Loper Bright, Chevron step one asked if Congress clearly addressed the precise issue; if not, step two accepted a permissible agency interpretation.",
+          "laymanExplanation": "Previously, if Congress was silent and the agency's reading was reasonable, courts often upheld it even if they preferred another reading.",
+          "legalExplanation": "The majority describes historical doctrine to explain what it rejects. Chevron justified deference by assumed congressional delegation, agency policymaking responsibility and agency expertise.",
+          "examApplication": "Contrast former rule with current Loper Bright analysis in any interpretation essay.",
+          "examTrap": "Label this test expressly historical; not the current governing default."
+        },
+        {
+          "id": "admin-ch9-loper-e5",
+          "type": "rule",
+          "title": "A statute may really delegate discretion to an agency",
+          "page": "598, 602",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "If the best statutory reading grants agency policymaking discretion, reviewing courts identify its bounds and ensure the agency acted reasonably inside them.",
+          "laymanExplanation": "A judge decides how much freedom Congress gave the agency; if Congress gave freedom, the agency can exercise it.",
+          "legalExplanation": "Examples include authorization to flesh out statutory details, regulate under 'appropriate' or 'reasonable' limits, or define particular terms. Recognizing delegation is different from presuming it from any ambiguity.",
+          "examApplication": "Identify language and context suggesting actual delegation, define outer limits, then review agency's reasoned action.",
+          "examTrap": "Loper Bright does not forbid broad lawful delegations or require the judge to make policy inside statutory bounds."
+        },
+        {
+          "id": "admin-ch9-loper-e6",
+          "type": "rule",
+          "title": "Skidmore's persuasive weight survives",
+          "page": "596–598, 607–608",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Agency interpretations can persuade courts through thorough consideration, sound reasoning, consistency, and relevant experience, especially contemporaneous longstanding interpretations.",
+          "laymanExplanation": "The agency can convince the judge, but cannot command the judge simply because it is the agency.",
+          "legalExplanation": "Skidmore factors remain usable; Loper Bright says respect is compatible with independent judgment. The more technically informed and carefully reasoned an interpretation, the more persuasive it may be.",
+          "examApplication": "Analyze quality of agency explanation, consistency across time, technical expertise, closeness to enactment and authority of decisionmaker.",
+          "examTrap": "Skidmore respect is contextual, not binding Chevron deference or a mechanical factor score."
+        },
+        {
+          "id": "admin-ch9-loper-e7",
+          "type": "concept",
+          "title": "Skidmore v. Swift & Co., 323 U.S. 134 (1944) — what the assigned excerpt establishes",
+          "page": "597, 607–608",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Skidmore articulates persuasive consideration of agency interpretation without binding judicial deference, especially when interpretation reflects experience, reasoning and consistency.",
+          "laymanExplanation": "A knowledgeable agency's explanation matters because it is good advice, not because judges have to obey it.",
+          "legalExplanation": "Chapter 9 quotes Skidmore as background in Loper Bright; the full Skidmore opinion and underlying dispute are not included in this upload.",
+          "examApplication": "Cite Skidmore for persuasive weight and compare to independent review under Loper Bright.",
+          "examTrap": "Do not invent case-specific Skidmore facts from a short excerpt."
+        },
+        {
+          "id": "admin-ch9-loper-e8",
+          "type": "rule",
+          "title": "Agency expertise can inform factual premises but not displace a court on law",
+          "page": "600–601",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "A court may draw on an agency's specialized experience when interpreting technical statutes, but legal meaning remains for the judiciary to determine.",
+          "laymanExplanation": "Judges can listen to experts without handing them the final legal call.",
+          "legalExplanation": "Loper Bright relies on litigant briefs, amicus submissions and agency experience to resolve technical issues; the agency's factual knowledge can be particularly persuasive.",
+          "examApplication": "Use expertise as one Skidmore factor when record supports it; do not equate technical complexity with automatic delegation.",
+          "examTrap": "Agency technical knowledge may strengthen persuasion, not override best reading."
+        },
+        {
+          "id": "admin-ch9-loper-e9",
+          "type": "rule",
+          "title": "Prior Chevron precedents not automatically overturned",
+          "page": "602",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Loper Bright says holdings in earlier cases that specifically sustained particular agency action using Chevron remain subject to statutory stare decisis.",
+          "laymanExplanation": "Old agency approvals don't all disappear just because Chevron was overruled.",
+          "legalExplanation": "An earlier decision is not overturned merely because its methodology involved Chevron; ordinary standards for reversing statutory precedents still apply.",
+          "examApplication": "If hypothetical invokes an old Chevron-era precedent, distinguish its specific holding from Chevron's abandoned methodology.",
+          "examTrap": "Do not assert every previous Chevron decision is invalid."
+        },
+        {
+          "id": "admin-ch9-loper-e10",
+          "type": "concept",
+          "title": "Kagan dissent: congressional intent, agency expertise and accountability",
+          "page": "603–606",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "The dissent views Chevron as a sensible default reflecting that Congress expects experienced agencies to resolve statutory gaps and policy-laden ambiguities.",
+          "laymanExplanation": "The dissent argues agencies often understand the practical problems better than generalist judges.",
+          "legalExplanation": "Justice Kagan, joined by Sotomayor and (in companion case only) Jackson, rejects majority's APA reading and worries judicial independence will shift important regulatory decisions to courts.",
+          "examApplication": "Present as dissent/policy counterargument, not governing doctrine.",
+          "examTrap": "Do not claim the dissent is current rule; note Jackson's recusal in Loper Bright."
+        },
+        {
+          "id": "admin-ch9-loper-e11",
+          "type": "concept",
+          "title": "Thomas and Gorsuch concurrences",
+          "page": "602–603",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Justice Thomas adds Article III separation-of-powers objection; Justice Gorsuch criticizes Chevron's compatibility with law and stare decisis.",
+          "laymanExplanation": "They agree Chevron should end and emphasize constitutional and historical reasons.",
+          "legalExplanation": "These are separate opinions beyond the majority's APA holding, relevant to institutional design discussion.",
+          "examApplication": "Separate majority holding from independent constitutional argument in concurrence.",
+          "examTrap": "Do not treat Thomas's constitutional rationale as necessary holding of Loper Bright."
+        },
+        {
+          "id": "admin-ch9-loper-e12",
+          "type": "framework",
+          "title": "Loper Bright exam attack sequence",
+          "page": "595–608",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "(1) Identify agency action and legal text; (2) use text, structure, purpose, history and canons to find best meaning; (3) identify express or contextually supported discretion; (4) weigh agency explanation persuasively; (5) decide whether action fits delegation and was reasoned.",
+          "laymanExplanation": "Work through the statute first, then the scope of agency discretion, then whether the agency stayed within it.",
+          "legalExplanation": "This is a study synthesis of the majority and notes, not a quotation or mechanically mandated multi-prong test.",
+          "examApplication": "Write out why the statute's best interpretation allows or disallows challenged action.",
+          "examTrap": "Avoid ending analysis at 'agency's position is reasonable' when question concerns statutory meaning."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch9-state",
+      "title": "§ 9.2.2 — State Approaches to Legal Deference (pp. 609–612)",
+      "chapterGroup": "admin-ch9",
+      "entries": [
+        {
+          "id": "admin-ch9-state-e1",
+          "type": "rule",
+          "title": "State courts differ sharply on interpretive deference",
+          "page": "609–610",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "The chapter reports multiple state methods: Chevron-style regimes, Skidmore-like persuasion, and no deference; state law controls.",
+          "laymanExplanation": "Federal Loper Bright does not make every state's interpretation rules identical.",
+          "legalExplanation": "A survey cited nine states with Chevron-type regimes, eleven using Skidmore-style approaches, and nineteen rejecting deference; classifications are not perfectly exhaustive.",
+          "examApplication": "Identify whether question arises under federal or a specified state APA or constitution before selecting standard.",
+          "examTrap": "Do not automatically import federal APA § 706 into state law."
+        },
+        {
+          "id": "admin-ch9-state-e2",
+          "type": "rule",
+          "title": "Anti-deference state approaches",
+          "page": "609–610",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Some states adopt de novo interpretation for agency legal positions, sometimes constitutionally or legislatively; the chapter cites Kansas, Wisconsin, Mississippi, Arizona and Florida.",
+          "laymanExplanation": "In some states judges must interpret the state rule or statute themselves.",
+          "legalExplanation": "Florida Constitution Article V § 21 commands no deference to agency interpretation of state statutes or regulations. Arizona and Wisconsin enacted restrictions; opinions in Tetra Tech and King voiced separation of powers concerns.",
+          "examApplication": "Check local constitutional or statutory anti-deference provisions before using agency expertise as a binding rule.",
+          "examTrap": "Anti-deference rules may differ across state-specific statutes; do not treat as one national regime."
+        },
+        {
+          "id": "admin-ch9-state-e3",
+          "type": "rule",
+          "title": "Yamaha: context-specific state Skidmore",
+          "page": "610–611",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "California courts independently interpret statutes while giving agency interpretations situational respect based on comparative advantage and likelihood the reading is correct.",
+          "laymanExplanation": "A careful, longstanding senior-agency interpretation may deserve respect; a quick staff note may not.",
+          "legalExplanation": "Yamaha Corp. v. State Bd. of Equalization (Cal. 1998) faulted an appellate court for treating a short staff 'annotation' like a quasi-legislative regulation. Factors include expertise, complexity, deliberation, consistency, contemporaneity and procedure.",
+          "examApplication": "When presented with a California agency view, classify interpretation versus delegated quasi-legislative regulation, then assess Yamaha factors.",
+          "examTrap": "Do not equate a staff annotation's persuasive weight with a binding rule validly promulgated under delegated lawmaking authority."
+        },
+        {
+          "id": "admin-ch9-state-e4",
+          "type": "concept",
+          "title": "Yamaha facts and distinction between regulations and annotations",
+          "page": "610–611",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Yamaha disputed use tax on instruments stored in California then given to out-of-state recipients; the appellate court leaned on staff annotation; California Supreme Court rejected automatic deference to that annotation.",
+          "laymanExplanation": "A quick agency guide cannot be treated like a lawmaking regulation.",
+          "legalExplanation": "Court distinguishes regulatory authority to make binding quasi-legislative rules from agency's nonbinding interpretation of another legal text.",
+          "examApplication": "Ask whether agency document is legislative regulation or simply interpretive staff guidance.",
+          "examTrap": "This excerpt is a case discussion; supplied text does not include full opinion."
+        },
+        {
+          "id": "admin-ch9-state-e5",
+          "type": "rule",
+          "title": "Oregon McPherson: discretion implicit in broad value-laden standards",
+          "page": "611–612",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "The chapter discusses interpreting 'good cause' and similar open-ended terms as legislative delegations of value judgment to agency, except where legal meaning fixed by court.",
+          "laymanExplanation": "A 'good cause' determination may be something the agency is empowered to decide within limits.",
+          "legalExplanation": "McPherson v. Employment Division (Or. 1979) uses scope-of-delegation reasoning to separate legal boundaries from delegated evaluative judgments in unemployment benefits.",
+          "examApplication": "Assess whether legislature decided the rule or left a value judgment to administrator.",
+          "examTrap": "Not every vague phrase automatically grants unreviewable discretion; courts still determine delegation bounds."
+        },
+        {
+          "id": "admin-ch9-state-e6",
+          "type": "concept",
+          "title": "State doctrine contrasts with Loper Bright",
+          "page": "609–612",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "California Yamaha and Oregon McPherson illustrate contextual respect and actual delegation rather than automatic ambiguity deference.",
+          "laymanExplanation": "State frameworks show ways to give agency expertise proper weight without surrendering all interpretation.",
+          "legalExplanation": "The section links state analysis to current federal debates but does not make California or Oregon doctrines federal law.",
+          "examApplication": "Compare Yamaha's persuasiveness and McPherson's delegation approach to Loper Bright.",
+          "examTrap": "Do not conflate the state statutory standards with APA § 706."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch9-major",
+      "title": "§ 9.2.3 — Major Questions Doctrine (pp. 613–619 of 613–622 assigned)",
+      "chapterGroup": "admin-ch9",
+      "entries": [
+        {
+          "id": "admin-ch9-major-e1",
+          "type": "rule",
+          "title": "Major questions doctrine: clear congressional authorization",
+          "page": "613–616",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "In extraordinary cases involving sweeping asserted regulatory authority of great economic or political significance, an agency must identify clear congressional authorization for that power.",
+          "laymanExplanation": "Big decisions require a clear indication that Congress gave the agency permission.",
+          "legalExplanation": "The doctrine shifts analysis from ordinary contextual interpretation to a heightened demand for statutory authorization in extraordinary cases.",
+          "examApplication": "Look for novelty, breadth, economic/political significance, longstanding but unused statutes, agency's traditional role, and congressional consideration.",
+          "examTrap": "A plausible textual reading alone may not suffice; not every important regulation is automatically a major-questions case."
+        },
+        {
+          "id": "admin-ch9-major-e2",
+          "type": "rule",
+          "title": "Warning signs of a major question",
+          "page": "613–616",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Factors include unprecedented expansion of agency authority, claims of transformative power hidden in ancillary vague provisions, impact on major sectors, and regulation Congress conspicuously considered but did not enact.",
+          "laymanExplanation": "An agency suddenly finds power to remake a whole industry in an old minor provision.",
+          "legalExplanation": "West Virginia v. EPA and cases cited provide context-sensitive indicators, not a mechanical checklist expressly enacted by Congress.",
+          "examApplication": "Enumerate indicators and address both whether doctrine triggers and whether text clearly authorizes the act.",
+          "examTrap": "Avoid mechanically holding that high compliance cost alone settles major-questions threshold."
+        },
+        {
+          "id": "admin-ch9-major-e3",
+          "type": "rule",
+          "title": "History from Brown & Williamson to clear-statement formulation",
+          "page": "613",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Earlier cases treated major questions as an exception or modification to Chevron; decisions beginning around 2021 describe a clear authorization requirement.",
+          "laymanExplanation": "The doctrine became an independent demand for clear congressional permission.",
+          "legalExplanation": "Text cites FDA v. Brown & Williamson Tobacco Corp. (2000), King v. Burwell (2015), Utility Air and later Ala. Ass'n of Realtors and NFIB v. OSHA.",
+          "examApplication": "Distinguish contemporary clear-authorization inquiry from historical Chevron step-two deference.",
+          "examTrap": "Do not analyze West Virginia as merely a Chevron step-one case."
+        },
+        {
+          "id": "admin-ch9-major-e4",
+          "type": "concept",
+          "title": "FDA v. Brown & Williamson (2000) — historical major-questions precursor",
+          "page": "613–614",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "The Supreme Court rejected FDA's claim that its drug/device authority reached tobacco, stressing breadth, implications and agency's prior position.",
+          "laymanExplanation": "Congress probably did not silently give FDA power to ban tobacco through an obscure reading.",
+          "legalExplanation": "Chapter supplies this as historical precedent and quotes legal reasoning; not the full opinion.",
+          "examApplication": "Use as example of economically and politically transformative authority not casually inferred.",
+          "examTrap": "Do not invent full case procedure or legal posture beyond supplied excerpt."
+        },
+        {
+          "id": "admin-ch9-major-e5",
+          "type": "concept",
+          "title": "Other cited examples: eviction moratorium, vaccine mandate, permit expansion",
+          "page": "613–615",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "The chapter describes the CDC eviction-moratorium case, NFIB v. OSHA's vaccine/testing mandate, and EPA greenhouse gas permitting expansion as precedents skeptical of extraordinary authority claims.",
+          "laymanExplanation": "When agencies claimed new large powers from broad statutory wording, the Court demanded stronger evidence from Congress.",
+          "legalExplanation": "Examples illustrate breadth, novelty and mismatch with historical statute implementation; the cases may have facially plausible language but insufficient authorization.",
+          "examApplication": "Compare challenged agency's asserted reach to listed examples.",
+          "examTrap": "Not every public-health or environmental rule automatically fails major-questions doctrine."
+        },
+        {
+          "id": "admin-ch9-major-e6",
+          "type": "case",
+          "title": "West Virginia v. EPA, 597 U.S. 697 (2022)",
+          "page": "613–619",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpt reproduced in assigned textbook",
+          "summary": "No. The Court held that the expansive generation-shifting power asserted by EPA presents a major question and § 111(d) did not provide clear congressional authorization; it reversed the D.C. Circuit.",
+          "laymanExplanation": "In extraordinary major questions, agency must identify clear congressional authorization; vague or incidental statutory language is insufficient for a transformative power claim.",
+          "legalExplanation": "Majority emphasized a transformative newly claimed authority in a little-used, ancillary provision, large economic and political consequences, and Congress's failure to enact comparable programs. Gorsuch concurrence stressed separation of powers; Kagan dissent read broad 'best system' authorization as empowering EPA and criticized extra-textual clear-statement doctrine.",
+          "facts": "EPA relied on Clean Air Act § 111(d) to adopt the Clean Power Plan, treating the 'best system of emission reduction' as including generation shifting from coal power toward gas and renewables. The agency's plan was stayed, rescinded, and the rescission vacated, presenting question of regulatory authority.",
+          "issue": "Did the Clean Air Act clearly authorize EPA to restructure electricity generation by forcing an industry-wide shift away from coal plants?",
+          "holding": "No. The Court held that the expansive generation-shifting power asserted by EPA presents a major question and § 111(d) did not provide clear congressional authorization; it reversed the D.C. Circuit.",
+          "reasoning": "Majority emphasized a transformative newly claimed authority in a little-used, ancillary provision, large economic and political consequences, and Congress's failure to enact comparable programs. Gorsuch concurrence stressed separation of powers; Kagan dissent read broad 'best system' authorization as empowering EPA and criticized extra-textual clear-statement doctrine.",
+          "rule": "In extraordinary major questions, agency must identify clear congressional authorization; vague or incidental statutory language is insufficient for a transformative power claim.",
+          "examApplication": "Analyze novelty, economic scale, agency history, congressional actions, breadth of asserted authority, then statutory authorization; contrast dissent's plain statutory text argument.",
+          "examTrap": "Do not say EPA can never regulate greenhouse gases or require cleaner operations; case focused on claimed generation-shifting authority."
+        },
+        {
+          "id": "admin-ch9-major-e7",
+          "type": "rule",
+          "title": "Major questions and Loper Bright are related but distinct",
+          "page": "613–619",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Loper Bright requires independent judicial statutory interpretation generally; major questions doctrine demands especially clear authorization for extraordinary exercises of regulatory power.",
+          "laymanExplanation": "A judge independently reads every statute, but especially sweeping claimed powers face an extra clarity demand.",
+          "legalExplanation": "The textbook traces major questions through Chevron's history and into its modern clear-statement form; apply both without treating them as synonyms.",
+          "examApplication": "In a big regulatory case, explain ordinary reading then ask whether doctrine imposes heightened authorization demand.",
+          "examTrap": "Overruling Chevron does not eliminate major questions doctrine."
+        },
+        {
+          "id": "admin-ch9-major-e8",
+          "type": "concept",
+          "title": "West Virginia majority: statutory context matters",
+          "page": "614–616",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Extraordinary administrative power is rarely granted through vague, modest, or ancillary wording; statutory history and the claim's transformative breadth matter.",
+          "laymanExplanation": "An agency can't casually uncover a huge new power in a small corner of an old law.",
+          "legalExplanation": "Majority considered ordinary textual plausibility insufficient given novelty, magnitude and legislative history.",
+          "examApplication": "Ask whether power asserted is a routine implementation detail or fundamental shift in statutory scheme.",
+          "examTrap": "Do not equate 'broad language' with a conclusive finding of clear authorization."
+        },
+        {
+          "id": "admin-ch9-major-e9",
+          "type": "concept",
+          "title": "West Virginia Gorsuch concurrence: separation of powers",
+          "page": "616–617",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Justice Gorsuch treats clear-statement rules as protecting Article I legislative authority and preventing inadvertent crossing of constitutional boundaries.",
+          "laymanExplanation": "Important political choices belong to Congress unless clearly assigned to agency.",
+          "legalExplanation": "His concurrence places major questions among canons designed to guard constitutional structure.",
+          "examApplication": "Use as constitutional rationale distinct from majority's holding.",
+          "examTrap": "Justice Gorsuch's broader reasoning is not necessarily the majority's complete doctrinal test."
+        },
+        {
+          "id": "admin-ch9-major-e10",
+          "type": "concept",
+          "title": "West Virginia Kagan dissent: textual authorization and agency expertise",
+          "page": "617–619",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "Justice Kagan contends Congress broadly empowered EPA to choose the best emission reduction system; she criticizes the doctrine as overriding statutory text and substituting judges for expert agencies.",
+          "laymanExplanation": "The dissent says Congress did give EPA authority, and judges are second-guessing technical climate policy.",
+          "legalExplanation": "Dissent stresses need for expert adaptation across time, the scope of a broadly worded statutory delegation, and proper modesty by courts.",
+          "examApplication": "Present a fair counterargument where a law's plain terms appear broad enough to encompass agency policy.",
+          "examTrap": "Dissent is not controlling and does not erase the clear-authorization rule."
+        },
+        {
+          "id": "admin-ch9-major-e11",
+          "type": "concept",
+          "title": "Assigned pages still missing: 620–622",
+          "page": "619",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
+          "summary": "The syllabus assigns major questions through page 622, but this upload ends at 619; the rest will be incorporated from the next matching batch.",
+          "laymanExplanation": "This section isn't complete yet: pages 620–622 haven't been supplied.",
+          "legalExplanation": "The uploaded material ends with the close of the West Virginia v. EPA dissent. Additional assigned material includes Biden v. Nebraska at p. 620; it is not yet summarized here.",
+          "examApplication": "Mark this subsection as partial until pages 620–622 are provided.",
+          "examTrap": "Do not represent Biden v. Nebraska or end-of-section questions as already extracted."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch9-p608-bia",
+      "topicId": "admin-ch9-loper",
+      "title": "BIA / Pablo — proposed Skidmore opinion after Loper Bright",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, Chapter 9, p. 608",
+      "prompt": "The BIA changed the meaning of a 'crime involving moral turpitude' to include temporary takings and ordered Pablo removed. A court panel draft upholds the interpretation because it is thorough, reasonable, and deserves Skidmore respect, even though judges might decide differently. Would you advise joining, modifying, or dissenting? Apply Loper Bright and Skidmore without supplying a solution.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-p608-delegation",
+      "topicId": "admin-ch9-loper",
+      "title": "Loper Bright — delegation versus ambiguity",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, Chapter 9, p. 607–608",
+      "prompt": "In a statute permitting an agency to regulate as 'appropriate,' when does that language confer discretion and when must a court choose the best interpretation without deferring? What matters to the inquiry?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-p607-skidmore",
+      "topicId": "admin-ch9-loper",
+      "title": "Skidmore — how much weight is too much?",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, Chapter 9, p. 607–608",
+      "prompt": "After Loper Bright, if agency reasons, consistency and expertise are unusually strong, could the agency's reading receive the same outcome Chevron would have produced? Explain the doctrinal difference without treating it as automatic deference.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-p612-sherman",
+      "topicId": "admin-ch9-state",
+      "title": "Dr. Sherman — medical board statutory interpretation",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, Chapter 9, p. 612–613",
+      "prompt": "A state medical board revoked Dr. Sherman's license for 'fraud and deceit in the practice of medicine' based on his uniform use of amphetamine/barbiturate regimens. What scope of judicial review should govern the Board's determination? Consider facts, legal meaning and delegated professional judgment.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-p611-yamaha",
+      "topicId": "admin-ch9-state",
+      "title": "Yamaha — agency staff annotation and persuasiveness",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, Chapter 9, p. 610–611",
+      "prompt": "Explain why a short agency staff annotation cannot automatically receive the same legal weight as a quasi-legislative rule under California's approach. What factors determine persuasive weight?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-p613-major",
+      "topicId": "admin-ch9-major",
+      "title": "Major questions doctrine — statutory breadth versus legislative clarity",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, Chapter 9, p. 613–619",
+      "prompt": "Congress authorized an agency to adopt measures 'necessary and appropriate' for an existing program. Decades later it claims authority to transform an entire industry. What makes it a major question, what proof of congressional authorization would be needed, and how would the dissent in West Virginia respond?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
