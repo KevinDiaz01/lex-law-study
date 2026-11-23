@@ -81,7 +81,12 @@ const units=[
   {title:'Negotiated Rulemaking',detail:'pp. 344–353',match:/negotiated rulemaking/i}
  ]},
  {name:'VI. Judicial Review',caption:'Classes 21–26 · Nov 4–23',items:[
-  {title:'Review of Facts, Law & Agency Interpretations',detail:'pp. 579–631',match:/scope of review|skidmore|loper bright|major questions|auer/i},
+  {title:'Scope of Review — Introduction',detail:'§ 9 · pp. 579–580',ids:['admin-ch9-intro']},
+  {title:'Fact Findings & Universal Camera',detail:'§ 9.1 · pp. 580–595',ids:['admin-ch9-basic-facts']},
+  {title:'Statutory Interpretation & Loper Bright',detail:'§ 9.2.1 · pp. 595–608',ids:['admin-ch9-loper']},
+  {title:'State Law Approaches',detail:'§ 9.2.2 · pp. 609–612',ids:['admin-ch9-state']},
+  {title:'Major Questions — West Virginia v. EPA',detail:'§ 9.2.3 · pp. 613–619 (620–622 pending)',ids:['admin-ch9-major']},
+  {title:'Interpretation of Agency Regulations — Kisor',detail:'§ 9.2.4 · pp. 622–631',match:/auer|kisor|own regulations/i},
   {title:'Arbitrary & Capricious Review',detail:'pp. 632–668',match:/arbitrary and capricious|state farm|hard look/i},
   {title:'Reviewability & Agency Inaction',detail:'pp. 670–719',match:/reviewability|preclusion|agency inaction/i},
   {title:'Standing',detail:'pp. 721–744',match:/standing/i},
