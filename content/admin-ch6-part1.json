@@ -1,0 +1,593 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6",
+  "coverage": {
+    "submittedPages": "355–415",
+    "includedPages": "355–369 (part 1 of 3)",
+    "syllabusUnit": "IV.C. Administrative Rulemaking",
+    "syllabusClasses": "14–20 · October 12–November 2",
+    "syllabusAssignment": "Chapter 6, pp. 355–415: Exemptions, Guidance & Agency Choice",
+    "status": "Source-based Chapter 6; all textbook hypotheticals unsolved."
+  },
+  "topics": [
+    {
+      "id": "admin-ch6-good-cause",
+      "title": "§ 6.1.1 — Good Cause, Emergency & Immediate Rules (pp. 355–363)",
+      "chapterGroup": "admin-ch6",
+      "description": "§ 553(b)(B) three prongs; § 553(d)(3) immediate effect; Jifry, COVID, Little Sisters, interim-final/direct-final techniques and Baby Doe hypothetical.",
+      "entries": [
+        {
+          "id": "admin-ch6-good-cause-e1",
+          "type": "definition",
+          "title": "Federal APA § 553(b)(B): good cause exception",
+          "page": "355–356",
+          "summary": "Agencies may omit pre-adoption notice and comment if it is unnecessary, impracticable, or contrary to the public interest, with contemporaneous finding and brief reasons.",
+          "laymanExplanation": "Agencies may omit pre-adoption notice and comment if it is unnecessary, impracticable, or contrary to the public interest, with contemporaneous finding and brief reasons.",
+          "legalExplanation": "This is a limited emergency-or-futility escape hatch, not a license to avoid public input because it is inconvenient.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 355–356"
+        },
+        {
+          "id": "admin-ch6-good-cause-e2",
+          "type": "rule",
+          "title": "Good cause must be narrowly construed",
+          "page": "355–357",
+          "summary": "Courts construe § 553(b)(B) narrowly and require a genuine reason why ordinary public participation is dispensable.",
+          "laymanExplanation": "Courts construe § 553(b)(B) narrowly and require a genuine reason why ordinary public participation is dispensable.",
+          "legalExplanation": "The agency must make its finding when issuing the rule and give reasons; reviewing courts test the urgency or pointlessness against facts.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 355–357",
+          "examApplication": "On exam identify exact statutory prong, contemporary finding, what actual harm delay creates and alternative means available.",
+          "examTrap": "A strong policy goal alone does not establish good cause; mere delay in rulemaking usually insufficient."
+        },
+        {
+          "id": "admin-ch6-good-cause-e3",
+          "type": "rule",
+          "title": "Impracticable or contrary to public interest: urgent threat",
+          "page": "356–358",
+          "summary": "Threat of serious safety harm or irreparable harm from regulatory delay can justify skipping advance comments.",
+          "laymanExplanation": "Threat of serious safety harm or irreparable harm from regulatory delay can justify skipping advance comments.",
+          "legalExplanation": "Agency must tie likely harm to ordinary notice period; emergency circumstances are central to Jifry.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 356–358",
+          "examApplication": "Ask what changed and whether emergency is genuine, self-created or linked to narrower immediate measures.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-good-cause-e4",
+          "type": "rule",
+          "title": "Unnecessary: technical, ministerial or entirely foreordained rules",
+          "page": "360–361",
+          "summary": "Public submissions may be unnecessary where rule merely fixes technical error or calculates mandated objective quantity with no agency policy choice.",
+          "laymanExplanation": "Public submissions may be unnecessary where rule merely fixes technical error or calculates mandated objective quantity with no agency policy choice.",
+          "legalExplanation": "Because affected public input could not alter a ministerial outcome, normal process has little informational value.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 360–361",
+          "examApplication": "Examine actual agency discretion; if policy choices remain, avoid calling it ministerial.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-good-cause-e5",
+          "type": "rule",
+          "title": "Distinct thirty-day effective-date exception, § 553(d)(3)",
+          "page": "356, 361–362",
+          "summary": "Good cause to bypass 30-day delayed effectiveness is a separate inquiry from good cause to bypass notice and comment.",
+          "laymanExplanation": "Good cause to bypass 30-day delayed effectiveness is a separate inquiry from good cause to bypass notice and comment.",
+          "legalExplanation": "You need two justifications if you skip comments and put rule into effect immediately.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 356, 361–362",
+          "examApplication": "Analyze both § 553(b)(B) and § 553(d)(3); a valid exception to one does not silently establish other.",
+          "examTrap": "When rule adds criminal penalties, a hasty immediate date requires particularly persuasive support."
+        },
+        {
+          "id": "admin-ch6-good-cause-e6",
+          "type": "case",
+          "title": "Jifry v. FAA, 370 F.3d 1174 (D.C. Cir. 2004)",
+          "page": "356–357",
+          "summary": "Yes. Court upheld good cause under § 553(b)(B), because moving promptly against TSA-identified aviation threats was a legitimate security necessity.",
+          "laymanExplanation": "Yes. Court upheld good cause under § 553(b)(B), because moving promptly against TSA-identified aviation threats was a legitimate security necessity.",
+          "legalExplanation": "Case application: Was skipping advance notice/comment justified by security risks despite elapsed time and earlier permissive FAA revocation powers? Former revocation power was permissive, while new rule required automatic streamlined action upon security notification. Foreseeable terror risk to aircraft and public made notice-related delay potentially harmful. Exception narrowly interpreted, yet record showed concretely urgent aviation-security concern.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 356–357",
+          "sourceRole": "Opinion excerpted in assigned chapter",
+          "assignedOpinion": true,
+          "facts": "After September 11 attacks, TSA classified two nonresident Saudi pilots as security threats. FAA certificate revocation initially entered administrative challenge. In Jan. 2003 FAA/TSA dismissed prior proceedings and immediately adopted new security-based certification regulations without advance comment, streamlining automatic suspension/revocation upon TSA threat notice.",
+          "issue": "Was skipping advance notice/comment justified by security risks despite elapsed time and earlier permissive FAA revocation powers?",
+          "holding": "Yes. Court upheld good cause under § 553(b)(B), because moving promptly against TSA-identified aviation threats was a legitimate security necessity.",
+          "reasoning": "Former revocation power was permissive, while new rule required automatic streamlined action upon security notification. Foreseeable terror risk to aircraft and public made notice-related delay potentially harmful. Exception narrowly interpreted, yet record showed concretely urgent aviation-security concern.",
+          "rule": "Good cause supports bypassing notice/comment when ordinary period threatens serious immediate safety harm and agency contemporaneously explains urgency.",
+          "exam": "Contrast with Minnesota case requiring particularized delay estimates; distinguish nonresident pilots' individual security process from public rulemaking exemption.",
+          "examTrap": "Elapsed time since 9/11 poses factual question, but did not negate finding in Jifry."
+        },
+        {
+          "id": "admin-ch6-good-cause-e7",
+          "type": "case",
+          "title": "Mack Trucks v. EPA, 682 F.3d 87 (D.C. Cir. 2012)",
+          "page": "356",
+          "summary": "Good cause is reluctantly accepted, narrowly construed statutory exception.",
+          "laymanExplanation": "Good cause is reluctantly accepted, narrowly construed statutory exception.",
+          "legalExplanation": "Casebook cites for strict interpretation; avoid treating administrative convenience as enough.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 356",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-good-cause-e8",
+          "type": "case",
+          "title": "Jewish Community Action v. Commissioner of Public Safety (Minn. 2003)",
+          "page": "358",
+          "summary": "Minnesota court rejected agency's broad antiterrorism reason for driver's license ID/photo restrictions without proving concrete urgency.",
+          "laymanExplanation": "Minnesota court rejected agency's broad antiterrorism reason for driver's license ID/photo restrictions without proving concrete urgency.",
+          "legalExplanation": "Required credible estimate of rulemaking delay, specific harm and why exceptional route served public interest.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 358",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-good-cause-e9",
+          "type": "case",
+          "title": "Biden v. Missouri, 595 U.S. 87 (2022)",
+          "page": "358–359",
+          "summary": "Supreme Court accepted CMS emergency acceleration of healthcare-worker COVID vaccine rule; dissent argued agency delays contradicted urgent need.",
+          "laymanExplanation": "Supreme Court accepted CMS emergency acceleration of healthcare-worker COVID vaccine rule; dissent argued agency delays contradicted urgent need.",
+          "legalExplanation": "Majority credited reducing imminent winter infections/hospitalizations/deaths; book contrasts Alito dissent's ten months of vaccine availability.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 358–359",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-good-cause-e10",
+          "type": "definition",
+          "title": "Interim-final rule",
+          "page": "359–360",
+          "summary": "Rule becomes operative immediately after good-cause issuance, while agency invites public comments afterward and may later revise or replace it.",
+          "laymanExplanation": "Rule becomes operative immediately after good-cause issuance, while agency invites public comments afterward and may later revise or replace it.",
+          "legalExplanation": "'Interim' describes later review; 'final' describes present legal effect. Do not equate post-comment alone with advance participation.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 359–360"
+        },
+        {
+          "id": "admin-ch6-good-cause-e11",
+          "type": "rule",
+          "title": "Post-promulgation comments and possible taint of later rule",
+          "page": "359–360",
+          "summary": "Interim-final process may include later genuine comment, but prior defective good cause and post hoc comments can create fairness disputes.",
+          "laymanExplanation": "Interim-final process may include later genuine comment, but prior defective good cause and post hoc comments can create fairness disputes.",
+          "legalExplanation": "Older cases questioned whether anyone can change the agency's mind after rule takes effect; Little Sisters rejects a free-standing extra open-mindedness test when later process meets APA's objective requirements.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 359–360",
+          "examApplication": "Separate validity of interim emergency rule from validity of subsequent properly noticed final rule.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-good-cause-e12",
+          "type": "case",
+          "title": "Little Sisters of the Poor v. Pennsylvania, 581 U.S. 657 (2020)",
+          "page": "360",
+          "summary": "Even assuming defect in initial interim-final religious/moral contraceptive exemptions, later final rule upheld where subsequent process satisfied APA objective criteria.",
+          "laymanExplanation": "Even assuming defect in initial interim-final religious/moral contraceptive exemptions, later final rule upheld where subsequent process satisfied APA objective criteria.",
+          "legalExplanation": "Supreme Court rejected appellate court's independent 'open-mindedness' criterion as extra procedure barred by Vermont Yankee.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 360",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-good-cause-e13",
+          "type": "definition",
+          "title": "Direct-final rulemaking",
+          "page": "361",
+          "summary": "Agency publishes uncontroversial final rule contingent on absence of adverse comment; upon adverse comment it withdraws rule and uses ordinary NPRM.",
+          "laymanExplanation": "Agency publishes uncontroversial final rule contingent on absence of adverse comment; upon adverse comment it withdraws rule and uses ordinary NPRM.",
+          "legalExplanation": "Unlike interim-final urgency, direct final builds a backstop: even one adverse comment means agency reverts to notice-and-comment.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 361"
+        },
+        {
+          "id": "admin-ch6-good-cause-e14",
+          "type": "concept",
+          "title": "Model State APA emergency rule vs federal good cause",
+          "page": "356, 359",
+          "summary": "1961 MSAPA § 3(b) uses imminent peril to public health, safety or welfare and limits temporary duration; federal test has three prongs.",
+          "laymanExplanation": "1961 MSAPA § 3(b) uses imminent peril to public health, safety or welfare and limits temporary duration; federal test has three prongs.",
+          "legalExplanation": "Check state statute separately; 120-day model expiration illustrates legislatures' distrust of indefinite untested emergency regulations.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 356, 359"
+        },
+        {
+          "id": "admin-ch6-good-cause-e15",
+          "type": "case",
+          "title": "United States v. Gavrilovic, 551 F.2d 1099 (8th Cir. 1977)",
+          "page": "361–362",
+          "summary": "DEA insufficiently justified immediate criminally consequential classification of mecloqualone without ordinary 30 days.",
+          "laymanExplanation": "DEA insufficiently justified immediate criminally consequential classification of mecloqualone without ordinary 30 days.",
+          "legalExplanation": "Already available law could address targeted operators without rushing criminal rule effective date.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 361–362",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-good-cause-e16",
+          "type": "case",
+          "title": "United States v. Sutton, 795 F.2d 1040 (1986)",
+          "page": "360",
+          "summary": "Technical correction after accidental omission in agency recodification satisfied 'unnecessary' good cause rationale.",
+          "laymanExplanation": "Technical correction after accidental omission in agency recodification satisfied 'unnecessary' good cause rationale.",
+          "legalExplanation": "Contrast policy additions or new burdens disguised as fixes.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 360",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        }
+      ]
+    },
+    {
+      "id": "admin-ch6-categorical",
+      "title": "§ 6.1.2 — Categorical Subject-Matter Exemptions (pp. 363–366)",
+      "chapterGroup": "admin-ch6",
+      "description": "APA § 553(a)(1) military/foreign affairs; § 553(a)(2) agency management/personnel and public property/loans/grants/benefits/contracts; agency waiver and contractor nexus.",
+      "entries": [
+        {
+          "id": "admin-ch6-categorical-e1",
+          "type": "rule",
+          "title": "Subject matter exemption is categorical, not emergency-specific",
+          "page": "363",
+          "summary": "If a rule genuinely relates to enumerated government functions, § 553(a) excludes it from ordinary notice-and-comment and other § 553 provisions regardless of good-cause emergency.",
+          "laymanExplanation": "If a rule genuinely relates to enumerated government functions, § 553(a) excludes it from ordinary notice-and-comment and other § 553 provisions regardless of good-cause emergency.",
+          "legalExplanation": "First decide whether category fits, not whether the action was urgent.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 363",
+          "examApplication": "Constrict exemptions to areas 'clearly and directly involved'; enabling statutes or binding agency rules can impose procedure independently.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-categorical-e2",
+          "type": "rule",
+          "title": "§ 553(a)(2) — public property, loans, grants, benefits, contracts",
+          "page": "363–364",
+          "summary": "Original federal APA categorically exempts rules on listed proprietary or benefit matters, with broad reach into public lands, social programs and contracting.",
+          "laymanExplanation": "Original federal APA categorically exempts rules on listed proprietary or benefit matters, with broad reach into public lands, social programs and contracting.",
+          "legalExplanation": "This exception reaches many private stakeholders; it is controversial and ACUS recommended repeal.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 363–364",
+          "examApplication": "Consider waiver or superseding statute: agencies may voluntarily subject themselves to § 553 via binding rules.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-categorical-e3",
+          "type": "rule",
+          "title": "Voluntary waiver of a categorical exemption",
+          "page": "364",
+          "summary": "Where agency adopts binding procedural regulation promising notice-and-comment despite statutory exemption, agency must follow own regulation.",
+          "laymanExplanation": "Where agency adopts binding procedural regulation promising notice-and-comment despite statutory exemption, agency must follow own regulation.",
+          "legalExplanation": "An agency can promise a fuller process and then is bound to honor its own rule.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 364",
+          "examApplication": "Distinguish entrenched practice alone, which may not legally bind the agency absent formal rule.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-categorical-e4",
+          "type": "case",
+          "title": "Alcaraz v. Block, 746 F.2d 593 (9th Cir. 1984)",
+          "page": "364",
+          "summary": "Agency that adopts regulatory waiver of § 553(a)(2) must comply with its own procedural commitment.",
+          "laymanExplanation": "Agency that adopts regulatory waiver of § 553(a)(2) must comply with its own procedural commitment.",
+          "legalExplanation": "Compare merely habitual voluntary consultations.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 364",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-categorical-e5",
+          "type": "rule",
+          "title": "§ 553(a)(2) — management or personnel exemption",
+          "page": "364–365",
+          "summary": "Rules genuinely governing agency internal management or personnel are generally excluded, although effect on outside rights complicates boundary.",
+          "laymanExplanation": "Rules genuinely governing agency internal management or personnel are generally excluded, although effect on outside rights complicates boundary.",
+          "legalExplanation": "Just because policy is phrased about staff does not always make it exempt; assess public-rights consequences.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 364–365",
+          "examApplication": "Compare Tunik (independence of ALJs and public interests) and Stewart (Bureau of Prisons applicant age limit).",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-categorical-e6",
+          "type": "case",
+          "title": "Tunik v. MSPB, 407 F.3d 1326 (Fed. Cir. 2005)",
+          "page": "364",
+          "summary": "Agency ALJ reassignment standards implicated independence and public rights, not merely internal personnel housekeeping.",
+          "laymanExplanation": "Agency ALJ reassignment standards implicated independence and public rights, not merely internal personnel housekeeping.",
+          "legalExplanation": "Public-facing adjudicative interests defeated simple management label.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 364",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-categorical-e7",
+          "type": "case",
+          "title": "Stewart v. Smith, 673 F.2d 485 (D.C. Cir. 1982)",
+          "page": "364",
+          "summary": "Rule excluding correctional-facility employee applicants over age 34 deemed within personnel exemption, with dissent.",
+          "laymanExplanation": "Rule excluding correctional-facility employee applicants over age 34 deemed within personnel exemption, with dissent.",
+          "legalExplanation": "Shows casebook's debated scope of exception.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 364",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-categorical-e8",
+          "type": "rule",
+          "title": "§ 553(a)(1) — military and foreign affairs functions",
+          "page": "365–366",
+          "summary": "Exempts matters directly involving military or foreign affairs functions, not every activity near defense installation.",
+          "laymanExplanation": "Exempts matters directly involving military or foreign affairs functions, not every activity near defense installation.",
+          "legalExplanation": "Security-adjacent civilian contractors do not automatically become military-function employees.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 365–366",
+          "examApplication": "Identify actual function performed and operational connection, not agency identity alone.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-categorical-e9",
+          "type": "case",
+          "title": "Independent Guard Association v. O'Leary, 57 F.3d 766 (9th Cir. 1995)",
+          "page": "365–366",
+          "summary": "DOE nuclear-weapons-site contractor guards' drug-testing rule did not qualify as military-function rule: their security services were ordinary civilian contractor activity.",
+          "laymanExplanation": "DOE nuclear-weapons-site contractor guards' drug-testing rule did not qualify as military-function rule: their security services were ordinary civilian contractor activity.",
+          "legalExplanation": "Court contrasted guards with contractors directly manufacturing weapons.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 365–366",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-categorical-e10",
+          "type": "rule",
+          "title": "State APA narrower internal-management definition",
+          "page": "365",
+          "summary": "1961 MSAPA excludes only solely internal management statements that do not affect private rights or procedures available to public.",
+          "laymanExplanation": "1961 MSAPA excludes only solely internal management statements that do not affect private rights or procedures available to public.",
+          "legalExplanation": "State model expressly makes external impact part of the test.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 365",
+          "examApplication": "Do not copy federal exemptions into state APA when state definitions differ.",
+          "examTrap": ""
+        }
+      ]
+    },
+    {
+      "id": "admin-ch6-procedural",
+      "title": "§ 6.1.3 — Procedural Rules & Public Citizen (pp. 366–369)",
+      "chapterGroup": "admin-ch6",
+      "description": "APA § 553(b)(A) exception for agency organization, practice and procedure, substantial-impact versus substantive-value tests and OSHA Cooperative Compliance Program.",
+      "entries": [
+        {
+          "id": "admin-ch6-procedural-e1",
+          "type": "rule",
+          "title": "§ 553(b)(A) — procedural rule exemption",
+          "page": "366",
+          "summary": "Federal APA exempts genuine agency organization, procedure and practice rules from advance notice and comment; state model APAs generally lack this blanket exemption.",
+          "laymanExplanation": "Federal APA exempts genuine agency organization, procedure and practice rules from advance notice and comment; state model APAs generally lack this blanket exemption.",
+          "legalExplanation": "A rule defining how agency processes matters may bypass NPRM even if results have substantial consequences.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 366",
+          "examApplication": "Distinguish rule about mechanics from rule changing underlying eligibility or standards.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-procedural-e2",
+          "type": "rule",
+          "title": "D.C. Circuit test: substantive value judgment, not simply impact",
+          "page": "367–368",
+          "summary": "Public Citizen asked whether a supposed procedure encodes substantive policy standards; mere efficiency-based procedural choices remain exempt even if harmful.",
+          "laymanExplanation": "Public Citizen asked whether a supposed procedure encodes substantive policy standards; mere efficiency-based procedural choices remain exempt even if harmful.",
+          "legalExplanation": "A harsh application deadline can still be a procedural rule, as opposed to a new rule declaring who legally qualifies.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 367–368",
+          "examApplication": "D.C. Circuit moved away from solely 'substantial impact' test; courts vary.",
+          "examTrap": "Not every policy judgment about agency efficiency counts as 'substantive value judgment'."
+        },
+        {
+          "id": "admin-ch6-procedural-e3",
+          "type": "case",
+          "title": "Public Citizen v. Department of State, 276 F.3d 634 (D.C. Cir. 2002)",
+          "page": "366–368",
+          "summary": "It was procedural and exempt from § 553 notice/comment, but court separately found cutoff substantively unreasonable because it unnecessarily curtailed FOIA rights.",
+          "laymanExplanation": "It was procedural and exempt from § 553 notice/comment, but court separately found cutoff substantively unreasonable because it unnecessarily curtailed FOIA rights.",
+          "legalExplanation": "Case application: Does date-of-request cutoff set substantive disclosure standard requiring notice and comment or merely a procedural processing rule? Policy applied to all FOIA requests without choosing favored topics; it encoded administrative processing efficiency, not substantive value judgment. Procedure can affect outcomes and still be exempt. Nonetheless, independently test its merits under statute.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 366–368",
+          "sourceRole": "Opinion excerpted in assigned chapter",
+          "assignedOpinion": true,
+          "facts": "State Department generally searched FOIA requests only for records existing before date of request, not records added before agency actually performed search. Public Citizen challenged practice because it imposed repeated FOIA requests; agency had not used notice and comment.",
+          "issue": "Does date-of-request cutoff set substantive disclosure standard requiring notice and comment or merely a procedural processing rule?",
+          "holding": "It was procedural and exempt from § 553 notice/comment, but court separately found cutoff substantively unreasonable because it unnecessarily curtailed FOIA rights.",
+          "reasoning": "Policy applied to all FOIA requests without choosing favored topics; it encoded administrative processing efficiency, not substantive value judgment. Procedure can affect outcomes and still be exempt. Nonetheless, independently test its merits under statute.",
+          "rule": "Agency processing mechanics can be procedural despite significant practical effects; exemption does not shield the rule from judicial merits review.",
+          "exam": "Two-step exam: procedural classification under § 553(b)(A) followed by distinct reasonableness/FOIA analysis.",
+          "examTrap": "Don't treat 'procedural' as equivalent to lawful on the merits."
+        },
+        {
+          "id": "admin-ch6-procedural-e4",
+          "type": "case",
+          "title": "JEM Broadcasting Co. v. FCC, 22 F.3d 320 (D.C. Cir. 1994)",
+          "page": "367",
+          "summary": "FCC's dismissal of flawed license applications without chance to amend was procedural though costly to applicants.",
+          "laymanExplanation": "FCC's dismissal of flawed license applications without chance to amend was procedural though costly to applicants.",
+          "legalExplanation": "Administrative processing mechanics distinguished from substantive licensing criteria.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 367",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-procedural-e5",
+          "type": "case",
+          "title": "American Hospital Association v. Bowen, 834 F.2d 1037 (D.C. Cir. 1987)",
+          "page": "367–369",
+          "summary": "Medicare peer-review manual that prioritized examining certain medical admissions was procedural targeting, not changed substantive reimbursement rule.",
+          "laymanExplanation": "Medicare peer-review manual that prioritized examining certain medical admissions was procedural targeting, not changed substantive reimbursement rule.",
+          "legalExplanation": "More intensive inspection is not necessarily new legal standard, although borderline.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 367–369",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-procedural-e6",
+          "type": "rule",
+          "title": "Competing 'substantial impact' approach",
+          "page": "368",
+          "summary": "Some federal courts continue considering whether procedural directives substantially affect regulated persons rather than asking solely if substantive value judgment encoded.",
+          "laymanExplanation": "Some federal courts continue considering whether procedural directives substantially affect regulated persons rather than asking solely if substantive value judgment encoded.",
+          "legalExplanation": "Casebook does not claim a single uniform national test; identify controlling circuit and relevant statutory context.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 368",
+          "examApplication": "",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-procedural-e7",
+          "type": "concept",
+          "title": "ACUS 92–1 alternative two-part exemption test",
+          "page": "368",
+          "summary": "Recommendation would limit procedural exemption to operations/interactions and require no significant effect on regulated substantive interests or program eligibility.",
+          "laymanExplanation": "Recommendation would limit procedural exemption to operations/interactions and require no significant effect on regulated substantive interests or program eligibility.",
+          "legalExplanation": "Advisory ACUS formulation can be compared to judicial tests; not binding law.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 368"
+        },
+        {
+          "id": "admin-ch6-procedural-e8",
+          "type": "rule",
+          "title": "When an enforcement plan is actually new substantive pressure",
+          "page": "368–369",
+          "summary": "Inspection priorities may be procedural; an enforcement program coercing compliance with novel binding safety duties may cross into legislative rulemaking.",
+          "laymanExplanation": "Inspection priorities may be procedural; an enforcement program coercing compliance with novel binding safety duties may cross into legislative rulemaking.",
+          "legalExplanation": "Scrutinize whether agency is just choosing which facilities to inspect or imposing new safety compliance criteria in substance.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 368–369",
+          "examApplication": "Connect to directive versus legislative norm and guidance analysis in § 6.1.4.",
+          "examTrap": ""
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch6-p1q1",
+      "topicId": "admin-ch6-good-cause",
+      "title": "Jifry and terrorism-rule delay",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 358",
+      "prompt": "Would sixteen months between 9/11 and January 2003 undermine aviation good-cause showing? Compare Minnesota's insistence on quantified delay and particular harm.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q2",
+      "topicId": "admin-ch6-good-cause",
+      "title": "COVID emergency justification",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 358–359",
+      "prompt": "Contrast majority and dissent in Biden v. Missouri regarding CMS rulemaking time and public health risk.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q3",
+      "topicId": "admin-ch6-good-cause",
+      "title": "Interim-final versus later final rule",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 359–360",
+      "prompt": "Why do commentators doubt after-the-fact comment? Compare older New Jersey v EPA rule and Little Sisters's APA-objective-criteria holding.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q4",
+      "topicId": "admin-ch6-good-cause",
+      "title": "Direct-final versus simply invoking unnecessary exception",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 361",
+      "prompt": "What incentive does direct-final method provide agency and public for truly noncontroversial regulation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q5",
+      "topicId": "admin-ch6-good-cause",
+      "title": "Immediate effectiveness and criminal liability",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 361–362",
+      "prompt": "Was agency's reason for short effective date adequate in Gavrilovic where existing enforcement alternative was available?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q6",
+      "topicId": "admin-ch6-good-cause",
+      "title": "Baby Doe interim-final hospital treatment rule",
+      "kind": "Textbook hypothetical — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 362–363",
+      "prompt": "HHS made hospitals post nondiscrimination notices/hotline and allow urgent after-hours facility access, without precomments, effective in 15 days; later finalized similar text after comments. Examine unnecessary/impracticable/public interest and two-rule procedural validity; leave both outcomes unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q7",
+      "topicId": "admin-ch6-categorical",
+      "title": "Are proprietary exemptions justified for welfare/benefits?",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 363–364",
+      "prompt": "Discuss right-privilege history and ACUS's repeal recommendation, public needs and cost concerns.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q8",
+      "topicId": "admin-ch6-categorical",
+      "title": "Is customary voluntary notice/comment binding?",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 364",
+      "prompt": "Contrast an agency's formal self-binding exemption waiver and its longstanding but noncodified procedural habit.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q9",
+      "topicId": "admin-ch6-categorical",
+      "title": "Management/personnel versus public rights",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 364–365",
+      "prompt": "Compare ALJ independence rules and age cap for correctional employees; locate line between housekeeping and public consequences.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q10",
+      "topicId": "admin-ch6-categorical",
+      "title": "Military function and contractor guards — problem",
+      "kind": "Textbook hypothetical — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 366",
+      "prompt": "Suppose nuclear facility contractor guard rule forbids hallucinogen use while on duty or within 24 hours. Would military or management/personnel exemption apply? Do not decide.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q11",
+      "topicId": "admin-ch6-procedural",
+      "title": "Why is procedure exempt when state APAs are different?",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 368",
+      "prompt": "Compare efficiencies and latitude of agency internal operations with importance of public participation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q12",
+      "topicId": "admin-ch6-procedural",
+      "title": "Public Citizen: substantial effect vs value judgment",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 368",
+      "prompt": "Does FOIA date cutoff really lack substantive choices about what public records requesters can access?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q13",
+      "topicId": "admin-ch6-procedural",
+      "title": "ACUS alternative test applied to JEM and Public Citizen",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 368",
+      "prompt": "Would either rule qualify under ACUS 92–1's limits on impacts on regulated interests?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p1q14",
+      "topicId": "admin-ch6-procedural",
+      "title": "OSHA Cooperative Compliance Program — problem",
+      "kind": "Textbook hypothetical — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 369",
+      "prompt": "OSHA adopted without comments a directive singling out poor safety-record employers for inspections unless they enroll in a comprehensive self-inspection/grievance/best-practices program; Chamber argues coercive heightened safety regime. Analyze procedural exemption without deciding.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
