@@ -62,7 +62,15 @@ const units=[
   {title:'Formal Rulemaking — Florida East Coast',detail:'§ 5.4.2 · pp. 267–273',ids:['admin-ch5-formal']},
   {title:'Hybrid Rulemaking — Vermont Yankee',detail:'§ 5.4.3 · pp. 273–283',ids:['admin-ch5-hybrid']},
   {title:'Procedural Regularity & Regulatory Analysis',detail:'pp. 283–344',match:/procedural regularity|regulatory analysis/i},
-  {title:'Exemptions, Guidance & Agency Choice',detail:'pp. 355–415',match:/guidance|rulemaking exemption|agency choice|rulemaking petitions|waivers/i}
+  {title:'Good Cause & Emergency Rules — Jifry',detail:'§ 6.1.1 · pp. 355–363',ids:['admin-ch6-good-cause']},
+  {title:'Subject-Matter Rulemaking Exemptions',detail:'§ 6.1.2 · pp. 363–366',ids:['admin-ch6-categorical']},
+  {title:'Procedural Rules — Public Citizen',detail:'§ 6.1.3 · pp. 366–369',ids:['admin-ch6-procedural']},
+  {title:'Legislative Rules vs Guidance',detail:'§ 6.1.4a · pp. 369–371',ids:['admin-ch6-guidance-basics']},
+  {title:'Policy Statements — P2C2',detail:'§ 6.1.4b · pp. 371–384',ids:['admin-ch6-policy']},
+  {title:'Interpretive Rules — Hoctor',detail:'§ 6.1.4c · pp. 384–389',ids:['admin-ch6-interpretive']},
+  {title:'Agency Choice — Bell Aerospace',detail:'§ 6.2 · pp. 389–397',ids:['admin-ch6-required-rulemaking']},
+  {title:'Rulemaking Petitions — Massachusetts v. EPA',detail:'§ 6.3 · pp. 397–406',ids:['admin-ch6-petitions']},
+  {title:'Waivers of Rules — WAIT Radio',detail:'§ 6.4 · pp. 406–415',ids:['admin-ch6-waivers']}
  ]},
  {name:'V. Regulatory Reform & Political Oversight',caption:'Classes 20–22 · Nov 2–9',items:[
   {title:'Legislative Veto, Chadha & CRA',detail:'§ 7.4.1 · pp. 466–483',ids:['admin-legislative-federal']},
@@ -89,6 +97,7 @@ groupTitle=function(g){
   if(g[0]?.chapterGroup==='admin-ch3')return 'Chapter 3 — Administrative Adjudication: Fundamental Problems';
   if(g[0]?.chapterGroup==='admin-ch4')return 'Chapter 4 — The Process of Administrative Adjudication';
   if(g[0]?.chapterGroup==='admin-ch5')return 'Chapter 5 — Rulemaking Procedures';
+  if(g[0]?.chapterGroup==='admin-ch6')return 'Chapter 6 — Policymaking Alternatives';
   if(g[0]?.chapterGroup==='admin-appointments')return 'Chief Executive’s Appointment Power';
   if(g[0]?.chapterGroup==='admin-removal')return 'Chief Executive’s Removal Power';
   if(g[0]?.chapterGroup==='admin-polbranches')return 'Separation of Powers & Political Branches';
