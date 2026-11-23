@@ -1,0 +1,630 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5",
+  "coverage": {
+    "submittedPages": "225–283",
+    "includedPages": "259–283 (part 3 of 3)",
+    "syllabusUnit": "IV.C. Administrative Rulemaking",
+    "syllabusClasses": "Classes 14–20 (Oct. 12–Nov. 2, 2026)",
+    "syllabusReading": "pp. 225–284 on syllabus, this source through p. 283 only",
+    "pending": "Chapter continuation begins p. 284; next sections cannot be imported without source",
+    "status": "Informal, electronic, formal and hybrid rulemaking, with sourced cases and unsolved assigned hypotheticals"
+  },
+  "topics": [
+    {
+      "id": "admin-ch5-informal",
+      "title": "§ 5.4.1a — Informal Rulemaking: Traditional Participation (pp. 259–262)",
+      "chapterGroup": "admin-ch5",
+      "description": "APA § 553 written notice and comment; state oral hearings, expanded comments, participation-versus-efficiency tradeoffs.",
+      "entries": [
+        {
+          "id": "admin-ch5-informal-e1",
+          "type": "rule",
+          "title": "Federal rulemaking options: informal, formal and hybrid",
+          "summary": "APA's ordinary informal model provides a written-comment opportunity; formal model under §§ 556–557 requires on-record trial-like process; some federal enabling statutes prescribe intermediate hybrid obligations.",
+          "laymanExplanation": "APA's ordinary informal model provides a written-comment opportunity; formal model under §§ 556–557 requires on-record trial-like process; some federal enabling statutes prescribe intermediate hybrid obligations.",
+          "legalExplanation": "Most rules use written or electronic participation, with formal trial-type hearings reserved for statutes expressly requiring them.",
+          "page": "259–260",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 259–260",
+          "examApplication": "Identify gateway before applying adjudication-style trial requirements. State APAs generally use informal models.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-informal-e2",
+          "type": "rule",
+          "title": "Informal 'paper hearing' under APA § 553(c)",
+          "summary": "Interested persons submit written data, views or arguments; federal APA ordinarily does not require oral argument or cross-examination.",
+          "laymanExplanation": "Interested persons submit written data, views or arguments; federal APA ordinarily does not require oral argument or cross-examination.",
+          "legalExplanation": "The agency must accept comments and consider relevant submissions, not automatically run a trial.",
+          "page": "259–260",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 259–260",
+          "examApplication": "Substantive review and response to significant comments remain distinct obligations.",
+          "examTrap": "Do not equate 'hearing' in colloquial speech with § 556 trial-type hearing."
+        },
+        {
+          "id": "admin-ch5-informal-e3",
+          "type": "rule",
+          "title": "Extensions and reply comment opportunities",
+          "summary": "APA generally mandates one notice/comment round, but agency may extend closing date, receive later comments, and allow replies to others' submissions.",
+          "laymanExplanation": "APA generally mandates one notice/comment round, but agency may extend closing date, receive later comments, and allow replies to others' submissions.",
+          "legalExplanation": "Further comments may be useful and are common, but not usually mandatory for every comment or supporting response.",
+          "page": "260",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 260",
+          "examApplication": "ACUS 2011–2 encouraged reply periods in appropriate contexts.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-informal-e4",
+          "type": "rule",
+          "title": "1961 MSAPA oral hearing trigger",
+          "summary": "Model state APA affords a legislative-style oral presentation opportunity when demanded by 25 persons, a governmental subdivision, another agency, or an association with at least 25 members.",
+          "laymanExplanation": "Model state APA affords a legislative-style oral presentation opportunity when demanded by 25 persons, a governmental subdivision, another agency, or an association with at least 25 members.",
+          "legalExplanation": "Under that model, sufficient requests secure an oral hearing for presenting arguments, not cross-examination trial.",
+          "page": "260–261",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 260–261",
+          "examApplication": "Some states require a hearing in ordinary rulemaking even without that demand. Compare actual state legislation.",
+          "examTrap": "The state hearing is not a federal formal rulemaking trial."
+        },
+        {
+          "id": "admin-ch5-informal-e5",
+          "type": "concept",
+          "title": "Why agencies might permit oral public presentations",
+          "summary": "Oral dialogue can communicate feelings, complex concerns and questions effectively, improve access for persons with limited written communication and enhance public legitimacy.",
+          "laymanExplanation": "Oral dialogue can communicate feelings, complex concerns and questions effectively, improve access for persons with limited written communication and enhance public legitimacy.",
+          "legalExplanation": "Agency may still be reluctant because of administrative costs, delay and domination by organized groups.",
+          "page": "260–261",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 260–261"
+        },
+        {
+          "id": "admin-ch5-informal-e6",
+          "type": "concept",
+          "title": "Evidence of comment effects and their limits",
+          "summary": "The casebook quotes a study that 72% of proposed federal rules attracting comments saw only minor or clarifying changes, but others argue information from commenters frequently improves rules.",
+          "laymanExplanation": "The casebook quotes a study that 72% of proposed federal rules attracting comments saw only minor or clarifying changes, but others argue information from commenters frequently improves rules.",
+          "legalExplanation": "Do not infer notice-and-comment is pointless solely because an agency retains most of its proposal; policy effect can include improved reasoning, issue spotting and small fixes.",
+          "page": "261",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 261"
+        }
+      ]
+    },
+    {
+      "id": "admin-ch5-electronic",
+      "title": "§ 5.4.1b — E-Rulemaking, Mass Comments & Legitimacy (pp. 262–267)",
+      "chapterGroup": "admin-ch5",
+      "description": "Electronic dockets, regulations.gov, mass submissions, fake comments, public values, privacy and online Madison snowmobile problem.",
+      "entries": [
+        {
+          "id": "admin-ch5-electronic-e1",
+          "type": "rule",
+          "title": "Electronic dockets and public participation",
+          "summary": "Agencies use web dockets and regulations.gov to publish proposed rules and records, receive public comments and sometimes enable review/replies.",
+          "laymanExplanation": "Agencies use web dockets and regulations.gov to publish proposed rules and records, receive public comments and sometimes enable review/replies.",
+          "legalExplanation": "Online portals lower participation costs and make submissions easier to access.",
+          "page": "262",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 262",
+          "examApplication": "The source describes modern electronic-comment process and recommendations for online agency accessibility; posted comments remain subject to meaningful consideration.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-electronic-e2",
+          "type": "concept",
+          "title": "Electronic participation does not guarantee representative participation",
+          "summary": "Most technical rules still attract limited organized interest group comments; a few high-profile regulations receive millions of mass comments.",
+          "laymanExplanation": "Most technical rules still attract limited organized interest group comments; a few high-profile regulations receive millions of mass comments.",
+          "legalExplanation": "Comment volume is concentrated around unusually salient issues rather than being universal.",
+          "page": "262–263",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 262–263"
+        },
+        {
+          "id": "admin-ch5-electronic-e3",
+          "type": "rule",
+          "title": "Treatment of duplicate or near-identical mass comments",
+          "summary": "An agency may use software to consolidate identical form comments; APA § 553(c) does not ordinarily require reading every identical message separately.",
+          "laymanExplanation": "An agency may use software to consolidate identical form comments; APA § 553(c) does not ordinarily require reading every identical message separately.",
+          "legalExplanation": "If 200,000 people send the same sentence, the agency may analyze that content once rather than 200,000 times.",
+          "page": "263–264",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 263–264",
+          "examApplication": "ACUS Recommendation 2011–1 addresses duplicates; substantive differences and unique evidence should still receive attention.",
+          "examTrap": "Do not mistake quantitative public support for a dispositive agency vote."
+        },
+        {
+          "id": "admin-ch5-electronic-e4",
+          "type": "concept",
+          "title": "Major arguments: democratic legitimacy versus information quality",
+          "summary": "Funk doubted mass comments provide meaningful political leverage; Shulman worried form-letter floods obscure expertise; Mendelson emphasized recognition of public values and counterbalancing organized regulated interests.",
+          "laymanExplanation": "Funk doubted mass comments provide meaningful political leverage; Shulman worried form-letter floods obscure expertise; Mendelson emphasized recognition of public values and counterbalancing organized regulated interests.",
+          "legalExplanation": "The rulemaking agency should address significant substantive arguments and may learn value preferences, but comments are not a binding referendum.",
+          "page": "263–265",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 263–265"
+        },
+        {
+          "id": "admin-ch5-electronic-e5",
+          "type": "rule",
+          "title": "Comments are not agency policy by plebiscite",
+          "summary": "The APA generally does not call for counting supportive versus opposing comments and adopting majority position; reasoned statutory factors and relevant evidence govern.",
+          "laymanExplanation": "The APA generally does not call for counting supportive versus opposing comments and adopting majority position; reasoned statutory factors and relevant evidence govern.",
+          "legalExplanation": "One thoroughly supported argument may be more valuable than thousands of identical votes.",
+          "page": "263–265",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 263–265",
+          "examApplication": "Still, unusually large authentic response may cue further investigation into public values.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-electronic-e6",
+          "type": "rule",
+          "title": "Fake comments and generative AI challenges",
+          "summary": "Bots, fabricated senders, coordinated mass campaigns and AI content complicate attribution and credibility; identity verification can conflict with access and anonymity.",
+          "laymanExplanation": "Bots, fabricated senders, coordinated mass campaigns and AI content complicate attribution and credibility; identity verification can conflict with access and anonymity.",
+          "legalExplanation": "A huge comment tally does not prove that many actual citizens support a proposal.",
+          "page": "265–266",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 265–266",
+          "examApplication": "Book cites FCC net-neutrality comment controversy and ACUS 2021–1 recommendations for managing generated and falsely attributed comments.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-electronic-e7",
+          "type": "rule",
+          "title": "Privacy, anonymity and public disclosure of comments",
+          "summary": "Open dockets promote accountability but may expose sensitive individual information, pseudonymous participation, copyrighted material or harassment.",
+          "laymanExplanation": "Open dockets promote accountability but may expose sensitive individual information, pseudonymous participation, copyrighted material or harassment.",
+          "legalExplanation": "Public participation should not require thoughtless disclosure of personal identity.",
+          "page": "265–266",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 265–266",
+          "examApplication": "Agency must decide moderation, authentication, copyright/privacy and public access policies under applicable law.",
+          "examTrap": "Do not categorically assert all comments must be authenticated by legal name."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch5-formal",
+      "title": "§ 5.4.2 — Formal Rulemaking & Florida East Coast Railway (pp. 267–273)",
+      "chapterGroup": "admin-ch5",
+      "description": "APA § 553(c) gateway to §§ 556–557, meaning of hearing, criticism and decline, rare statutory survivors, hospital conversion problem.",
+      "entries": [
+        {
+          "id": "admin-ch5-formal-e1",
+          "type": "rule",
+          "title": "Formal rulemaking gateway under APA § 553(c)",
+          "summary": "Sections 556 and 557 apply when an agency's enabling statute requires rules be made 'on the record after opportunity for an agency hearing' or substantially equivalent language.",
+          "laymanExplanation": "Sections 556 and 557 apply when an agency's enabling statute requires rules be made 'on the record after opportunity for an agency hearing' or substantially equivalent language.",
+          "legalExplanation": "The law must specifically demand this level of evidentiary proceeding; a casual reference to a hearing usually is not enough.",
+          "page": "267–270",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 267–270",
+          "examApplication": "Apply strong post-Florida East Coast presumption against formal rulemaking.",
+          "examTrap": "Formal and informal rulemaking are distinct from legislative versus interpretive rules."
+        },
+        {
+          "id": "admin-ch5-formal-e2",
+          "type": "rule",
+          "title": "How formal rulemaking differs from comment procedure",
+          "summary": "Formal proceeding involves trial-like presentation of evidence, cross-examination and rebuttal; record is exclusive basis of decision; ex parte ban applies, separation-of-functions § 554(d) does not.",
+          "laymanExplanation": "Formal proceeding involves trial-like presentation of evidence, cross-examination and rebuttal; record is exclusive basis of decision; ex parte ban applies, separation-of-functions § 554(d) does not.",
+          "legalExplanation": "Parties can test witnesses in formal rulemaking; ordinary federal rulemaking can be entirely written.",
+          "page": "267",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 267",
+          "examApplication": "Compare APA §§ 553(c), 556–557 and § 557(d).",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-formal-e3",
+          "type": "case",
+          "title": "United States v. Florida East Coast Railway Co., 410 U.S. 224 (1973)",
+          "summary": "No. 'After hearing' in this general prospective ratemaking context did not plainly require on-the-record hearings; § 553 written notice/comment satisfied applicable hearing obligation.",
+          "laymanExplanation": "No. 'After hearing' in this general prospective ratemaking context did not plainly require on-the-record hearings; § 553 written notice/comment satisfied applicable hearing obligation.",
+          "legalExplanation": "Does a statute calling merely for action 'after hearing' trigger APA §§ 556–557 formal rulemaking procedures? Congress used 'on the record' language in other statutes. The meaning of 'hearing' differs in general policy rulemaking versus fact-specific disputes; trial testimony, cross-examination and oral argument are not inherently required.",
+          "page": "267–269",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 267–269",
+          "sourceRole": "Judicial opinion reproduced in uploaded chapter",
+          "assignedOpinion": true,
+          "facts": "To relieve nationwide boxcar shortages, ICC raised rental rates paid by railroads using others' cars. Interstate Commerce Act permitted car-service rules 'after hearing'; railroads demanded trial-type APA procedures and courts below agreed.",
+          "issue": "Does a statute calling merely for action 'after hearing' trigger APA §§ 556–557 formal rulemaking procedures?",
+          "holding": "No. 'After hearing' in this general prospective ratemaking context did not plainly require on-the-record hearings; § 553 written notice/comment satisfied applicable hearing obligation.",
+          "reasoning": "Congress used 'on the record' language in other statutes. The meaning of 'hearing' differs in general policy rulemaking versus fact-specific disputes; trial testimony, cross-examination and oral argument are not inherently required.",
+          "rule": "Formal rulemaking generally requires express or substantially equivalent statutory on-the-record hearing mandate; generic 'after hearing' is insufficient.",
+          "examApplication": "Analyze statutory phrase, agency action's general prospective policy function, federal APA gateway and whether written submissions satisfy independent hearing statute.",
+          "examTrap": "Don't assume § 551(4)'s particular rule definition makes every agency ratemaking formal, or that 'hearing' automatically means cross-examination."
+        },
+        {
+          "id": "admin-ch5-formal-e4",
+          "type": "rule",
+          "title": "Textual trigger and adjudication contrast",
+          "summary": "Florida East Coast's narrow rulemaking gateway contrasts with Union Pacific's broader reading of 'full hearing' for Type A adjudication; rules and cases use nearby APA gateways differently.",
+          "laymanExplanation": "Florida East Coast's narrow rulemaking gateway contrasts with Union Pacific's broader reading of 'full hearing' for Type A adjudication; rules and cases use nearby APA gateways differently.",
+          "legalExplanation": "Rulemaking and adjudication can face different judicial presumptions even when both mention hearing.",
+          "page": "269–270",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 269–270",
+          "examApplication": "Do not mechanically transfer federal adjudication gateway doctrine to rulemaking.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-formal-e5",
+          "type": "case",
+          "title": "United States v. Allegheny-Ludlum Steel Corp., 406 U.S. 742 (1972)",
+          "summary": "Supreme Court said on-the-record words need not be exact magic words, but hearing language in this statute did not trigger trial procedure.",
+          "laymanExplanation": "Supreme Court said on-the-record words need not be exact magic words, but hearing language in this statute did not trigger trial procedure.",
+          "legalExplanation": "Cited in Florida East Coast as supporting statutory-context interpretation.",
+          "page": "268–269",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 268–269",
+          "sourceRole": "Case discussed in textbook notes — not full reproduced opinion",
+          "assignedOpinion": false,
+          "examApplication": "Check functional equivalence, not labels alone."
+        },
+        {
+          "id": "admin-ch5-formal-e6",
+          "type": "case",
+          "title": "Union Pacific Railroad Co. v. United States (discussed in ch. 3)",
+          "summary": "Book contrasts adjudication case where 'full hearing' triggered Type A adjudication.",
+          "laymanExplanation": "Book contrasts adjudication case where 'full hearing' triggered Type A adjudication.",
+          "legalExplanation": "Illustrates different gateway treatment from generalized rulemaking.",
+          "page": "269",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 269",
+          "sourceRole": "Case discussed in textbook notes — not full reproduced opinion",
+          "assignedOpinion": false,
+          "examApplication": "Flag distinction, not an opinion reproduced in this batch."
+        },
+        {
+          "id": "admin-ch5-formal-e7",
+          "type": "concept",
+          "title": "Practical criticisms: delay and formality",
+          "summary": "Formal rulemaking may slow broad regulatory policy, discourage controversial action and divert agency energy into litigation-like process.",
+          "laymanExplanation": "Formal rulemaking may slow broad regulatory policy, discourage controversial action and divert agency energy into litigation-like process.",
+          "legalExplanation": "Illustration: FDA peanut-butter percentage proceeding took from 1959 to 1968 with 7,736 transcript pages; legislative fact and policy may not benefit from witnesses and cross-exam.",
+          "page": "270–271",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 270–271"
+        },
+        {
+          "id": "admin-ch5-formal-e8",
+          "type": "concept",
+          "title": "Formal rulemaking can be poorly suited to legislative fact",
+          "summary": "Cross-examination is valuable for contested witness credibility; broader policy involves science, forecasting and values that often require public and technical analysis instead.",
+          "laymanExplanation": "Cross-examination is valuable for contested witness credibility; broader policy involves science, forecasting and values that often require public and technical analysis instead.",
+          "legalExplanation": "Some disputed subsidiary factual premises still benefit from trial-style tools, but not every general policy question can be resolved like a lawsuit.",
+          "page": "270–271",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 270–271"
+        },
+        {
+          "id": "admin-ch5-formal-e9",
+          "type": "rule",
+          "title": "Few remaining federal formal-rulemaking contexts",
+          "summary": "Formal rulemaking for general rules has nearly disappeared; textbook mentions certain marine-mammal taking and controlled-substance scheduling statutes as survivors.",
+          "laymanExplanation": "Formal rulemaking for general rules has nearly disappeared; textbook mentions certain marine-mammal taking and controlled-substance scheduling statutes as survivors.",
+          "legalExplanation": "Read statute-specific mandates and recognize that 1961 MSAPA calls for legislative-style oral hearing, not federal formal rulemaking.",
+          "page": "271–272",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 271–272",
+          "examApplication": "Do not label ordinary notice-and-comment 'formal' simply because legislative rules carry force of law.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-formal-e10",
+          "type": "concept",
+          "title": "Proposed Regulatory Accountability Act was not enacted",
+          "summary": "House-passed proposals could have created trial-like hearings for high-impact rules; reading discusses competing costs/benefits and ABA objections.",
+          "laymanExplanation": "House-passed proposals could have created trial-like hearings for high-impact rules; reading discusses competing costs/benefits and ABA objections.",
+          "legalExplanation": "A historical bill discussed by casebook is not binding federal law.",
+          "page": "271–272",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 271–272"
+        },
+        {
+          "id": "admin-ch5-formal-e11",
+          "type": "rule",
+          "title": "Mercy Hospital corporate reorganization: procedural options",
+          "summary": "An individually applicable future corporate reorganization may fall inside federal APA's rule definition, while different statute's 'fair hearing' obligation raises separate procedural questions.",
+          "laymanExplanation": "An individually applicable future corporate reorganization may fall inside federal APA's rule definition, while different statute's 'fair hearing' obligation raises separate procedural questions.",
+          "legalExplanation": "The source raises question how to evaluate formal-hearing and confrontation rights when agency handles both general policy and one hospital conversion; problem intentionally unresolved.",
+          "page": "272–273",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 272–273",
+          "examApplication": "Compare statutory trigger, state/federal APA definitions and independent due process.",
+          "examTrap": "Do not solve the assigned hospital problem by asserting cross-examination automatically available."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch5-hybrid",
+      "title": "§ 5.4.3 — Hybrid Rulemaking, Vermont Yankee & PBGC (pp. 273–283)",
+      "chapterGroup": "admin-ch5",
+      "description": "Hybrid legislative statutes, APA procedural maxima, judicial review of scientific rule, federal Type C adjudication and pollution-control problem.",
+      "entries": [
+        {
+          "id": "admin-ch5-hybrid-e1",
+          "type": "rule",
+          "title": "Hybrid rulemaking arises from additional statutory requirements",
+          "summary": "Congress sometimes adds legislative-style oral hearings, limited witness questioning or rebuttal to normal § 553 process through agency-specific statutes.",
+          "laymanExplanation": "Congress sometimes adds legislative-style oral hearings, limited witness questioning or rebuttal to normal § 553 process through agency-specific statutes.",
+          "legalExplanation": "Hybrid is more procedure than ordinary written comments but not necessarily full §§ 556–557 formal evidentiary hearing.",
+          "page": "273–274",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 273–274",
+          "examApplication": "Examples in casebook include OSHA, consumer-product-safety and Magnuson-Moss FTC special processes; specify which statute applies.",
+          "examTrap": "Vermont Yankee does not prevent Congress from legislating additional procedures."
+        },
+        {
+          "id": "admin-ch5-hybrid-e2",
+          "type": "concept",
+          "title": "Bazelon versus Leventhal judicial-review debate",
+          "summary": "Judge Bazelon favored procedural strengthening when science complex; Judge Leventhal favored judicial substantive scrutiny of whether agency action is reasoned and supported.",
+          "laymanExplanation": "Judge Bazelon favored procedural strengthening when science complex; Judge Leventhal favored judicial substantive scrutiny of whether agency action is reasoned and supported.",
+          "legalExplanation": "If judges lack scientific expertise, should they require more testing at hearings or examine adequacy of agency's stated reasoning and evidence?",
+          "page": "274, 280–281",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 274, 280–281"
+        },
+        {
+          "id": "admin-ch5-hybrid-e3",
+          "type": "case",
+          "title": "Vermont Yankee Nuclear Power Corp. v. NRDC, 435 U.S. 519 (1978)",
+          "summary": "No. Courts ordinarily cannot impose procedural requirements beyond APA and relevant law; agencies choose optional hearing devices. Supreme Court reversed procedural ruling and remanded for lawful substantive review of rule's support.",
+          "laymanExplanation": "No. Courts ordinarily cannot impose procedural requirements beyond APA and relevant law; agencies choose optional hearing devices. Supreme Court reversed procedural ruling and remanded for lawful substantive review of rule's support.",
+          "legalExplanation": "May a reviewing court invalidate informal rulemaking because agency refused additional trial-type procedures like cross-examination, though all mandatory APA and statutory procedures were satisfied? APA was legislative procedural compromise; adding judicial preferences would make regulatory planning unpredictable, push agencies toward costly full hearings and confuse assessing reasoning with prescribing methods. Constitutional or extremely rare compelling exceptions left open.",
+          "page": "274–278",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 274–278",
+          "sourceRole": "Judicial opinion reproduced in uploaded chapter",
+          "assignedOpinion": true,
+          "facts": "AEC adopted broad nuclear-fuel-cycle waste-disposal rule to avoid relitigating environmental risks in each plant-license case. Its scientific basis included staff Dr. Pittman's brief report on future safe storage. NRDC wanted to cross-examine him. Although AEC followed § 553 and extra procedures, D.C. Circuit overturned rule for inadequate hearing participation.",
+          "issue": "May a reviewing court invalidate informal rulemaking because agency refused additional trial-type procedures like cross-examination, though all mandatory APA and statutory procedures were satisfied?",
+          "holding": "No. Courts ordinarily cannot impose procedural requirements beyond APA and relevant law; agencies choose optional hearing devices. Supreme Court reversed procedural ruling and remanded for lawful substantive review of rule's support.",
+          "reasoning": "APA was legislative procedural compromise; adding judicial preferences would make regulatory planning unpredictable, push agencies toward costly full hearings and confuse assessing reasoning with prescribing methods. Constitutional or extremely rare compelling exceptions left open.",
+          "rule": "Absent constitutional, statutory or truly extraordinary grounds, APA § 553 sets maximum extra procedures courts may force on informal rulemaking; agency may voluntarily add procedural devices, and courts still review substantive rationality.",
+          "examApplication": "Analyze whether challenger complains of absent procedure versus defective evidentiary support. Court can examine explanation and record but usually not demand a specific cross-examination format.",
+          "examTrap": "Do not characterize Vermont Yankee as insulating the technical merits of an agency rule from arbitrary-and-capricious review."
+        },
+        {
+          "id": "admin-ch5-hybrid-e4",
+          "type": "rule",
+          "title": "Vermont Yankee exceptions and unresolved possibilities",
+          "summary": "Case acknowledges constitutional constraints, extremely rare compelling circumstances, possible particularized due process for few exceptional persons, and unexplained departure from settled agency practice as possible exceptions.",
+          "laymanExplanation": "Case acknowledges constitutional constraints, extremely rare compelling circumstances, possible particularized due process for few exceptional persons, and unexplained departure from settled agency practice as possible exceptions.",
+          "legalExplanation": "No routine court-imposed trial hearing, but specific law, due process or exceptional factual setting may still matter.",
+          "page": "276–277",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 276–277",
+          "examApplication": "The Court did not actually decide the longstanding-practice departure scenario in this opinion.",
+          "examTrap": "Do not represent speculative exceptions as broad guaranteed rights."
+        },
+        {
+          "id": "admin-ch5-hybrid-e5",
+          "type": "rule",
+          "title": "Review of agency procedure versus substance",
+          "summary": "Judicial review may demand a rational contemporaneous explanation and adequate support, but may not automatically insist on the judges' preferred testing or hearing format.",
+          "laymanExplanation": "Judicial review may demand a rational contemporaneous explanation and adequate support, but may not automatically insist on the judges' preferred testing or hearing format.",
+          "legalExplanation": "An explanation can be inadequate even where agency followed minimum procedures; remedy is usually reasoned administrative reconsideration, not court-designed trial procedure.",
+          "page": "277–281",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 277–281",
+          "examApplication": "Compare Vermont Yankee, Camp v Pitts, Overton Park and PBGC; separate source of obligation and scope of review.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-hybrid-e6",
+          "type": "rule",
+          "title": "Vermont Yankee and APA § 559 scholarly dispute",
+          "summary": "Critics cite § 559 phrase 'additional requirements imposed by statute or otherwise recognized by law' to argue courts may supplement APA; supporters say agency procedure is Congress's choice.",
+          "laymanExplanation": "Critics cite § 559 phrase 'additional requirements imposed by statute or otherwise recognized by law' to argue courts may supplement APA; supporters say agency procedure is Congress's choice.",
+          "legalExplanation": "This is a debate in reading, not a holding that § 559 overrides Vermont Yankee.",
+          "page": "278–279",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 278–279",
+          "examApplication": "Treat scholarly arguments as commentary rather than current binding doctrine.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-hybrid-e7",
+          "type": "concept",
+          "title": "Empirical critique of hybrid proceedings",
+          "summary": "FTC Magnuson-Moss rulemaking reportedly averaged 5.57 years for seven rules, whereas a set of regular APA rules averaged roughly 287 days; additional hearings sometimes used only as negotiating tools.",
+          "laymanExplanation": "FTC Magnuson-Moss rulemaking reportedly averaged 5.57 years for seven rules, whereas a set of regular APA rules averaged roughly 287 days; additional hearings sometimes used only as negotiating tools.",
+          "legalExplanation": "Source supports concern that extra procedural layers can discourage or slow regulatory action; sample context and agency differences matter.",
+          "page": "279–280",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 279–280"
+        },
+        {
+          "id": "admin-ch5-hybrid-e8",
+          "type": "case",
+          "title": "Baltimore Gas & Electric Co. v. NRDC, 462 U.S. 87 (1983)",
+          "summary": "After procedural remand in Vermont Yankee, Supreme Court upheld rule under substantive arbitrariness review, deferring to frontier scientific predictions.",
+          "laymanExplanation": "After procedural remand in Vermont Yankee, Supreme Court upheld rule under substantive arbitrariness review, deferring to frontier scientific predictions.",
+          "legalExplanation": "Substantive review remains but can acknowledge technical agency expertise.",
+          "page": "280–281",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 280–281",
+          "sourceRole": "Case discussed in textbook notes — not full reproduced opinion",
+          "assignedOpinion": false,
+          "examApplication": "Compare hard-look doctrine in State Farm."
+        },
+        {
+          "id": "admin-ch5-hybrid-e9",
+          "type": "case",
+          "title": "Pension Benefit Guaranty Corp. v. LTV Corp., 496 U.S. 633 (1990)",
+          "summary": "Court applied Vermont Yankee to informal Type C adjudication and disallowed judicial invention of procedures absent statute or due process.",
+          "laymanExplanation": "Court applied Vermont Yankee to informal Type C adjudication and disallowed judicial invention of procedures absent statute or due process.",
+          "legalExplanation": "PBGC imposed pension obligations despite bankruptcy; appellate court sought access to basis, contrary evidence, ascertainable standards, detailed reasoning beyond APA § 555; Supreme Court rejected extras.",
+          "page": "281–282",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 281–282",
+          "sourceRole": "Case discussed in textbook notes — not full reproduced opinion",
+          "assignedOpinion": false,
+          "examApplication": "Differentiate Type C minima § 555 from formal Type A/B hearing rights."
+        },
+        {
+          "id": "admin-ch5-hybrid-e10",
+          "type": "rule",
+          "title": "Type C adjudication has few APA procedural guarantees",
+          "summary": "Under PBGC, federal informal adjudication follows limited procedural baseline in § 555 unless other law provides more; reviewing court cannot simply add its fairness wishlist.",
+          "laymanExplanation": "Under PBGC, federal informal adjudication follows limited procedural baseline in § 555 unless other law provides more; reviewing court cannot simply add its fairness wishlist.",
+          "legalExplanation": "Agency action might have high stakes but that's not a free-standing statutory trial right.",
+          "page": "281–282",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 281–282",
+          "examApplication": "If due process not raised or not applicable, explain why imposing procedural extras is barred.",
+          "examTrap": "Separately consider any independently established constitutional duty."
+        },
+        {
+          "id": "admin-ch5-hybrid-e11",
+          "type": "rule",
+          "title": "Portland Cement and logical-outgrowth doctrines after Vermont Yankee",
+          "summary": "Textbook asks whether judicial disclosure and fair notice rulings are interpretations of § 553 or disguised forbidden judicial procedure supplements.",
+          "laymanExplanation": "Textbook asks whether judicial disclosure and fair notice rulings are interpretations of § 553 or disguised forbidden judicial procedure supplements.",
+          "legalExplanation": "Don't automatically pronounce one rule overrules the others; explain distinct claimed legal sources and unresolved doctrinal tensions.",
+          "page": "280–281",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, pp. 280–281",
+          "examApplication": "Discuss why failure to disclose central data arguably undermines existing comment right rather than adds an independent hearing device.",
+          "examTrap": ""
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch5-p3q1",
+      "topicId": "admin-ch5-informal",
+      "title": "Written comments versus state oral presentation",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 260–261",
+      "prompt": "Compare minimum federal APA procedures with 1961 MSAPA's demand-triggered oral hearing; is a trial-like hearing mandatory?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q2",
+      "topicId": "admin-ch5-informal",
+      "title": "How useful is the ordinary notice/comment process?",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 261",
+      "prompt": "Assess study of minor changes to commented-on rules against information-generation and accountability rationales.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q3",
+      "topicId": "admin-ch5-electronic",
+      "title": "Are mass form letters meaningful participation?",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 263–265",
+      "prompt": "Can an agency screen near-duplicate comments with software while considering relevant substantive matter? Should comment counts or content carry more weight?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q4",
+      "topicId": "admin-ch5-electronic",
+      "title": "Democracy and expert-information approaches to commenting",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 264–265",
+      "prompt": "Compare Funk, Shulman and Mendelson on whether citizen comment campaigns improve administrative legitimacy or obscure useful input.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q5",
+      "topicId": "admin-ch5-electronic",
+      "title": "Authenticity versus anonymity",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 265–266",
+      "prompt": "How should agency address bots, fake identities, privacy of unpopular commenters, copyright and abusive comments?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q6",
+      "topicId": "admin-ch5-electronic",
+      "title": "Madison snowmobile e-rulemaking problem",
+      "kind": "Professor-assigned textbook problem — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 266–267",
+      "prompt": "Park agency may expand snowmobile access despite likely mass online opposition based on prior-state experience; Deborah can choose whether to enable electronic submissions, replies, ratings and public portals. Evaluate choice and features without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q7",
+      "topicId": "admin-ch5-formal",
+      "title": "What triggers federal formal rulemaking?",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 269–270",
+      "prompt": "Why does generic 'after hearing' not suffice and how would equivalent on-the-record language change the analysis?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q8",
+      "topicId": "admin-ch5-formal",
+      "title": "Why has formal rulemaking largely disappeared?",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 270–272",
+      "prompt": "Weigh lengthy peanut butter rulemaking, adjudicative fact-testing value and burden of high-impact regulation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q9",
+      "topicId": "admin-ch5-formal",
+      "title": "Mercy Hospital nonprofit conversion problem",
+      "kind": "Professor-assigned textbook problem — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 272–273",
+      "prompt": "DOC initiates general charitable-contribution rule and individualized approval for conversion to for-profit; applicant wants cross-examination under federal APA, 1961 MSAPA or no APA and statute says 'fair hearing'. Analyze without answering.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q10",
+      "topicId": "admin-ch5-hybrid",
+      "title": "Hybrid statutory hearings versus court-made hearings",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 273–278",
+      "prompt": "What is legitimate when Congress prescribes oral submissions/cross-examination, and what is forbidden when reviewing court believes further testing would improve agency science?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q11",
+      "topicId": "admin-ch5-hybrid",
+      "title": "Bazelon and Leventhal under Vermont Yankee",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 274, 280–281",
+      "prompt": "Compare courts strengthening procedures with courts testing agency explanation and substantive record.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q12",
+      "topicId": "admin-ch5-hybrid",
+      "title": "Vermont Yankee exceptions and administrative procedure autonomy",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 276–278",
+      "prompt": "What are the possible constitutional and extraordinarily rare exceptions, and why did NRC's scientific controversy not trigger additional mandatory cross-examination?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q13",
+      "topicId": "admin-ch5-hybrid",
+      "title": "Vermont Yankee and § 559",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 278–279",
+      "prompt": "Compare academic views that APA is only minimum procedure with Supreme Court's restrictions on judicial add-ons.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q14",
+      "topicId": "admin-ch5-hybrid",
+      "title": "Scientific evidence after Vermont Yankee",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 280–281",
+      "prompt": "Does the Portland Cement disclosure doctrine add new procedure or simply give meaningful content to § 553 comment opportunity?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q15",
+      "topicId": "admin-ch5-hybrid",
+      "title": "PBGC and Type C fairness arguments",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 281–282",
+      "prompt": "May judges require evidence disclosures, hearings and procedural standard-setting for agency's informal pension decision absent due process or statute?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-p3q16",
+      "topicId": "admin-ch5-hybrid",
+      "title": "Madison DPC water-pollutant rule problem",
+      "kind": "Professor-assigned textbook problem — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 5, p. 282–283",
+      "prompt": "Industrial group challenging cadmium, copper and zinc discharge limits requests second public comment period, legislative/trial-type hearing, and disclosure of outside consultant's cost-benefit report first revealed in final rule. Analyze under federal APA and 1961 MSAPA without answering.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
