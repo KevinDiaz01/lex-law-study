@@ -88,7 +88,20 @@ const units=[
   {title:'Major Questions — West Virginia v. EPA',detail:'§ 9.2.3 · pp. 613–619 (620–622 pending)',ids:['admin-ch9-major']},
   {title:'Interpretation of Agency Regulations — Kisor',detail:'§ 9.2.4 · pp. 622–631',match:/auer|kisor|own regulations/i},
   {title:'Arbitrary & Capricious Review',detail:'pp. 632–668',match:/arbitrary and capricious|state farm|hard look/i},
-  {title:'Reviewability & Agency Inaction',detail:'pp. 670–719',match:/reviewability|preclusion|agency inaction/i},
+  {title:'Jurisdiction and Reviewing Court',detail:'§ 10.1.1 · pp. 670–673',ids:['admin-ch10-jurisdiction']},
+  {title:'Injunctions, Mandamus and Writs',detail:'§ 10.1.2 · pp. 673–676',ids:['admin-ch10-nonmonetary-remedies']},
+  {title:'Government Damages & Immunities — SKIM',detail:'§ 10.2 · pp. 676–683 · SKIM',ids:['admin-ch10-damages-skim']},
+  {title:'Presidential Criminal Immunity — Trump',detail:'§ 10.2.3 · pp. 683–685',ids:['admin-ch10-presidential-immunity']},
+  {title:'Attorney Fees & EAJA',detail:'§ 10.3 · pp. 685–690',ids:['admin-ch10-attorney-fees']},
+  {title:'Preclusion of Review — Bowen',detail:'§ 10.4 · pp. 690–693',ids:['admin-ch10-preclusion']},
+  {title:'District Court Review — Axon',detail:'§ 10.4 · pp. 693–694',ids:['admin-ch10-implied-district-preclusion']},
+  {title:'Constitutional Claims & State Preclusion',detail:'§ 10.4 · pp. 694–696, 697–698',ids:['admin-ch10-constitutional-preclusion']},
+  {title:'Rule Review Deadlines — Corner Post',detail:'§ 10.4 · pp. 696–697',ids:['admin-ch10-rule-review-deadlines']},
+  {title:'Committed to Discretion — Chaney',detail:'§ 10.5 · pp. 698–704',ids:['admin-ch10-agency-discretion']},
+  {title:'Exceptions to Unreviewability — Regents',detail:'§ 10.5 · pp. 704–710',ids:['admin-ch10-reviewability-limits']},
+  {title:'Agency Inaction — Norton v. SUWA',detail:'§ 10.6 · pp. 710–715',ids:['admin-ch10-inaction-suwa']},
+  {title:'Unreasonable Delay — TRAC Factors',detail:'§ 10.6 · pp. 715–719',ids:['admin-ch10-unreasonable-delay']},
+  {title:'ACUS Recommendation 75-3 — Choice of Forum',detail:'Separate assigned Canvas reading · Not uploaded',ids:['admin-ch10-acus-forum']},
   {title:'Standing',detail:'pp. 721–744',match:/standing/i},
   {title:'Finality, Exhaustion & Ripeness',detail:'pp. 745–783',match:/finality|exhaustion|ripeness|primary jurisdiction/i}
  ]}
@@ -103,6 +116,7 @@ groupTitle=function(g){
   if(g[0]?.chapterGroup==='admin-ch4')return 'Chapter 4 — The Process of Administrative Adjudication';
   if(g[0]?.chapterGroup==='admin-ch5')return 'Chapter 5 — Rulemaking Procedures';
   if(g[0]?.chapterGroup==='admin-ch6')return 'Chapter 6 — Policymaking Alternatives';
+  if(g[0]?.chapterGroup==='admin-ch10')return 'Chapter 10 — Reviewability of Agency Decisions';
   if(g[0]?.chapterGroup==='admin-appointments')return 'Chief Executive’s Appointment Power';
   if(g[0]?.chapterGroup==='admin-removal')return 'Chief Executive’s Removal Power';
   if(g[0]?.chapterGroup==='admin-polbranches')return 'Separation of Powers & Political Branches';
