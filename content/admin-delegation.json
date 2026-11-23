@@ -5,7 +5,8 @@
   "coverage": {
     "submittedPages": "417–466",
     "syllabusAssignment": "Separation of Powers; Federal/State/Private Nondelegation; Article III & Seventh Amendment",
-    "status": "Textbook excerpt supplied; check later assigned 2026 supplements separately"
+    "status": "Textbook excerpt supplied; check later assigned 2026 supplements separately",
+    "sourceRecheck": "2026-11-23: Re-checked against new upload of Chapter 7 pp. 417–483; preserved existing source-derived study topics, appended missing concepts and open Notes & Questions; no duplicate chapters."
   },
   "topics": [
     {
@@ -314,6 +315,28 @@
           "legalExplanation": "This is a scholarly method of protecting nondelegation values through statutory interpretation, distinct from constitutional invalidation.",
           "page": "439",
           "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466"
+        },
+        {
+          "id": "admin-ch7-recheck-nondelegation-founding",
+          "type": "concept",
+          "title": "Founding-era delegations complicate absolute nondelegation",
+          "summary": "The casebook notes that the first Congress authorized broad presidential implementation, including military pensions subject to presidential regulations.",
+          "laymanExplanation": "A categorical rule that Congress never lets another official make implementation choices is inconsistent with these early examples.",
+          "legalExplanation": "Historical practice is presented as a counterpoint to absolute formalist nondelegation, distinct from later intelligible-principle doctrine.",
+          "page": "419",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "Compare Field's contingent fact finding and real presidential discretionary policy decisions."
+        },
+        {
+          "id": "admin-ch7-recheck-nondelegation-originalism",
+          "type": "concept",
+          "title": "Originalist dispute over delegation at the founding",
+          "summary": "Historians dispute whether founding-era statutes delegated meaningful regulatory policy; the reading presents scholarship on both sides.",
+          "laymanExplanation": "Scholars still disagree about what the Founders actually permitted.",
+          "legalExplanation": "This is a debate in the textbook notes rather than a settled controlling historical test; Gundy's majority and dissent provide distinct modern frameworks.",
+          "page": "439",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "Do not substitute an author's historical hypothesis for controlling precedent."
         }
       ]
     },
@@ -513,6 +536,28 @@
           "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466",
           "sourceRole": "Discussed in notes only",
           "examApplication": "Apply control, conflict-of-interest, scope, penalty, competence, and procedural safeguards to a private regulation hypothetical."
+        },
+        {
+          "id": "admin-ch7-recheck-state-integration",
+          "type": "concept",
+          "title": "Incorporating federal law: independent significance versus unchecked federal discretion",
+          "summary": "Michigan treated FDA drug approval as an independent fact triggering a state-law tort limitation; Oklahoma rejected handing prevailing-wage decisions to federal labor officials.",
+          "laymanExplanation": "State may use federal agency facts as triggers yet still be barred from letting outsiders write state policy from scratch.",
+          "legalExplanation": "Compare Taylor v. SmithKline Beecham, McFaddin v. Jackson, and Oklahoma City v. State ex rel. Oklahoma Department of Labor; states differ on dynamic incorporation.",
+          "page": "446–447",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "Identify who chose the state-law consequence, whether outside facts have independent significance and the scope of delegated discretion."
+        },
+        {
+          "id": "admin-ch7-recheck-private-hisa",
+          "type": "concept",
+          "title": "HISA after amendment: rulemaking supervision and enforcement are separate",
+          "summary": "Congress amended HISA to improve FTC control over private Authority rulemaking; the Fifth Circuit then focused on insufficient FTC control over enforcement, while Sixth and Eighth Circuits disagreed.",
+          "laymanExplanation": "The supervising public agency might adequately oversee written rules while failing to supervise private disciplinary actions.",
+          "legalExplanation": "The excerpt records Horsemen's I (2022) and Horsemen's II (2024) and a circuit split in its time frame; do not treat the casebook's statement that Supreme Court review is expected as proof of 2026 disposition.",
+          "page": "448–449",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "Analyze policy review, subpoenas, enforcement suits, adjudication and availability of binding public oversight separately."
         }
       ]
     },
@@ -620,6 +665,17 @@
           "page": "454",
           "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466",
           "sourceRole": "Summarized in reading, not reproduced"
+        },
+        {
+          "id": "admin-ch7-recheck-article3-continuum",
+          "type": "concept",
+          "title": "Article III cases: regulatory integration versus traditional private tort",
+          "summary": "Thomas and Schor accepted some non-Article III private-party claims closely integrated with statutory schemes; Stern reserved traditional independent tort claims for Article III judges.",
+          "laymanExplanation": "Whether two private parties appear on opposing sides is not decisive; ask whether the claim depends on the government program.",
+          "legalExplanation": "Trace Northern Pipeline's bankruptcy contract caution, Thomas's pesticide-data compensation, Schor's narrow counterclaim, Oil States patent grant and Stern's independent tort.",
+          "page": "452–454",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "Don't describe 'public rights' as simply every case where government files suit."
         }
       ]
     },
@@ -761,6 +817,28 @@
           "page": "465",
           "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466",
           "sourceRole": "Described in notes only"
+        },
+        {
+          "id": "admin-ch7-recheck-jarkesy-analytical-sequence",
+          "type": "concept",
+          "title": "Jarkesy jury-right exam sequence",
+          "summary": "Identify whether the agency seeks punitive civil penalties; compare the statutory claim with common-law actions; assess whether the public-rights exception genuinely applies; compare Atlas Roofing and Granfinanciera.",
+          "laymanExplanation": "The label 'civil penalty' by itself is not the whole story; underlying claim and historical common-law analog matter.",
+          "legalExplanation": "Jarkesy required a jury for SEC antifraud civil penalties based on private-market fraud and rejected statutory relabeling. The majority distinguished, rather than overruled, Atlas Roofing's novel OSHA duties.",
+          "page": "456–464",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "Don't assume all agency civil penalties are unconstitutional or that Jarkesy held administrative equitable relief invalid."
+        },
+        {
+          "id": "admin-ch7-recheck-jury-monetary-distinction",
+          "type": "concept",
+          "title": "Punitive penalties contrasted with restitution and equitable relief",
+          "summary": "Jarkesy treated monetary penalties aimed to punish/deter as legal relief, while the casebook distinguishes orders to desist, exclusions and disgorgement; McHugh allowed limited restitution subject to review but rejected other relief.",
+          "laymanExplanation": "Money paid back to restore prior position differs from a fine punishing past conduct.",
+          "legalExplanation": "Classification of remedy informs Seventh Amendment analysis; agency authority to impose remedies and judicial review are independent considerations.",
+          "page": "457–465",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch)",
+          "examApplication": "A money remedy can be legal or equitable; purpose matters."
         }
       ]
     }
@@ -793,6 +871,266 @@
       "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), §§ 7.1–7.3, pp. 417–466 (pp. 465–466)",
       "kind": "Assigned casebook problem — unsolved",
       "prompt": "A fictional federal deceptive-advertising law creates the Federal Advertising Commission (FAC) with authority for APA Type A hearings, cease-and-desist orders, disgorgement, and district-court civil-penalty suits; a later amendment authorizes civil penalties in agency proceedings. FAC alleges Paragon Corporation's Invigorall tonic advertising falsely suggests energizing medical benefits for ordinary consumers though only a small minority can benefit. After an ALJ hearing and commission approval, FAC orders the company to stop the ads and pay a $500,000 civil penalty. Paragon argues the nonjury agency proceeding violates the Seventh Amendment and Article III. Evaluate its appeal; cf. J.B. Williams and Reader's Digest.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q1",
+      "topicId": "admin-delegation-federal",
+      "title": "N.1 — Rehnquist: limits of permissible delegation",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 434)",
+      "prompt": "Does Justice Rehnquist's 'common sense and inherent necessities' threshold in Benzene identify a judicially manageable boundary between legitimate detail-filling and fundamental legislative decisions?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q2",
+      "topicId": "admin-delegation-federal",
+      "title": "N.2 — Gorsuch: detail-filling or policymaking",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 434–435)",
+      "prompt": "Would Gorsuch's three categories of permissible delegation in his Gundy dissent be workable and desirable? Contrast the controlling intelligible-principle approach.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q3",
+      "topicId": "admin-delegation-federal",
+      "title": "N.3 — Credit-claim and blame-shifting",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 435–436)",
+      "prompt": "Evaluate Schoenbrod's and Rao's claims that broad delegation lets Congress claim credit while shifting political blame and inviting back-channel influence.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q4",
+      "topicId": "admin-delegation-federal",
+      "title": "N.4 — Against stricter nondelegation",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 436–437)",
+      "prompt": "Assess Stewart's practical objections and Mashaw's presidential accountability rationale for broad agency discretion.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q5",
+      "topicId": "admin-delegation-federal",
+      "title": "N.5 — Narrow construction instead of invalidation",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 437–438)",
+      "prompt": "Should courts narrow a broad statute to avoid nondelegation problems, as in Benzene and arguably Gundy, or invalidate it and require Congress to make the choice?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q6",
+      "topicId": "admin-delegation-federal",
+      "title": "N.6 — Judicial review as a safeguard",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 438)",
+      "prompt": "Explain why review of agency action helps guard against excessive delegation; consider Touby where a drug scheduling order could still be challenged in criminal proceedings.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q7",
+      "topicId": "admin-delegation-federal",
+      "title": "N.7 — Clear-statement nondelegation canons",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 438–439)",
+      "prompt": "Should courts use interpretive presumptions against retroactivity and preemption to force Congress to resolve important questions instead of imposing a hard cap on delegation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q8",
+      "topicId": "admin-delegation-federal",
+      "title": "N.8 — Originalist founding evidence",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 439)",
+      "prompt": "Evaluate historical evidence of founding-era delegation and counterarguments. Does historical uncertainty support one modern nondelegation test?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q9",
+      "topicId": "admin-delegation-states",
+      "title": "N.1 — Strong, moderate, weak state tests",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 443–444)",
+      "prompt": "Compare strict statutory standards, mixed standards/safeguards, and safeguards-centered approaches. Was Thygesen a convincing application of state nondelegation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q10",
+      "topicId": "admin-delegation-states",
+      "title": "N.2 — Administrative safeguards versus legislative standards",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 444–445)",
+      "prompt": "Can notice-and-comment, appeals and judicial review replace legislative instructions about what harm agency must prevent? Contrast Warren with Askew.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q11",
+      "topicId": "admin-delegation-states",
+      "title": "N.3 — Empirical effect on legislatures",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 445)",
+      "prompt": "Do the cited empirical studies undermine claims that judicial enforcement of nondelegation improves legislative specificity?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q12",
+      "topicId": "admin-delegation-states",
+      "title": "N.4 — New York sugary-drink portion cap",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 445–446)",
+      "prompt": "Was choosing 16-ounce cap and balancing health and economic interests an impermissible policy choice by an agency, or ordinary regulatory cost-benefit judgment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q13",
+      "topicId": "admin-delegation-states",
+      "title": "N.5 — Dynamic incorporation of federal standards",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 446–447)",
+      "prompt": "Contrast Taylor/McFaddin and Oklahoma City. What makes federal agency determination an independently significant fact rather than an unconstitutional state delegation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q14",
+      "topicId": "admin-delegation-states",
+      "title": "Private delegation: Carter and Currin",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 447–448)",
+      "prompt": "When is a private group's decision creating binding norms for competitors versus triggering government-crafted law?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q15",
+      "topicId": "admin-delegation-states",
+      "title": "FINRA: public oversight",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 448)",
+      "prompt": "How does SEC review of association rules and discipline affect constitutional nondelegation? Compare a private expulsion before SEC review.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q16",
+      "topicId": "admin-delegation-states",
+      "title": "Horseracing Authority: rulemaking versus enforcement",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 448–449)",
+      "prompt": "Does revised FTC control over Horseracing Authority rules cure concerns about independently exercisable subpoenas, hearings and enforcement lawsuits?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q17",
+      "topicId": "admin-delegation-states",
+      "title": "Privatization and inherently governmental functions",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 449–450)",
+      "prompt": "Which tasks are inherently governmental? What public law safeguards should apply to private prison operators, military contractors and benefits administrators?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q18",
+      "topicId": "admin-delegation-states",
+      "title": "Texas Boll Weevil: conflicts and coercion",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 450–451)",
+      "prompt": "Apply the textbook's state private-delegation scrutiny factors: interested board, assessments, misdemeanor penalties, unlimited delegation and public review.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q19",
+      "topicId": "admin-adjudication-article3",
+      "title": "Crowell and Article III judicial review",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 451–452)",
+      "prompt": "Why did Crowell allow agency resolution of a workers' compensation dispute affecting private rights, and what review did it require?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q20",
+      "topicId": "admin-adjudication-article3",
+      "title": "Northern Pipeline, Thomas, Schor, Oil States and Stern",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 452–454)",
+      "prompt": "Compare which claims depend on federal regulatory rights and which assert independent common-law private rights. Why do outcomes differ?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q21",
+      "topicId": "admin-adjudication-jury",
+      "title": "N.1 — SEC fraud and common-law analogy",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 463)",
+      "prompt": "Why did Jarkesy treat securities antifraud suit as common-law-like despite SEC not needing to prove individual investor reliance or financial harm?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q22",
+      "topicId": "admin-adjudication-jury",
+      "title": "N.2 — Competing public-rights frameworks",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 463)",
+      "prompt": "Contrast Jarkesy majority's historical inquiry with Sotomayor dissent's view of sovereign enforcement of statutory obligations.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q23",
+      "topicId": "admin-adjudication-jury",
+      "title": "N.3 — Narrow grounds for Jarkesy",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 463–464)",
+      "prompt": "Could an agency still impose equitable remedies in-house? Could it impose a civil penalty for a wholly novel regulatory duty? Use Atlas Roofing distinction.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q24",
+      "topicId": "admin-adjudication-jury",
+      "title": "N.4 — Possible expansion beyond the Seventh Amendment",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 464)",
+      "prompt": "What would happen if courts extended Gorsuch's concerns about ALJs and combined agency functions to Article III and due process?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q25",
+      "topicId": "admin-adjudication-jury",
+      "title": "N.5 — State civil-jury guarantees",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 464)",
+      "prompt": "Why doesn't the federal Seventh Amendment bind state administrative tribunals, and how might state constitutions respond to Jarkesy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-delegation-ch7-recheck-q26",
+      "topicId": "admin-adjudication-jury",
+      "title": "N.6 — Remedies and penal power",
+      "kind": "Casebook Notes & Questions — unsolved",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 7, pp. 417–483 (uploaded batch) (p. 464–465)",
+      "prompt": "Distinguish agency civil penalties, criminal punishment imposed by courts for regulatory violations, restitution, rent withholding and punitive damages.",
       "status": "Not attempted",
       "notes": ""
     }
