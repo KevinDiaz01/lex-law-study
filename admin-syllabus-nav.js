@@ -52,7 +52,15 @@ const units=[
   {title:'Equitable Estoppel — Richmond',detail:'§ 4.5.2 · pp. 219–224',ids:['admin-ch4-estoppel']}
  ]},
  {name:'IV.C. Administrative Rulemaking',caption:'Classes 14–20 · Oct 12–Nov 2',items:[
-  {title:'Rules, Notice & Public Participation',detail:'pp. 225–284',match:/rulemaking|public participation|notice and comment/i},
+  {title:'Why Agencies Choose Rulemaking',detail:'§ 5.1 · pp. 225–233',ids:['admin-ch5-rise']},
+  {title:'What Counts as a Rule?',detail:'§ 5.2.1 · pp. 233–238',ids:['admin-ch5-definition']},
+  {title:'Retroactivity — Bowen',detail:'§ 5.2.2 · pp. 239–246',ids:['admin-ch5-retroactivity']},
+  {title:'NPRM — Chocolate Manufacturers',detail:'§ 5.3.1 · pp. 246–254',ids:['admin-ch5-nprm']},
+  {title:'Scientific Data — Nova Scotia',detail:'§ 5.3.2 · pp. 254–259',ids:['admin-ch5-scientific-record']},
+  {title:'Informal Rulemaking Procedures',detail:'§ 5.4.1a · pp. 259–262',ids:['admin-ch5-informal']},
+  {title:'Electronic Rulemaking & Comments',detail:'§ 5.4.1b · pp. 262–267',ids:['admin-ch5-electronic']},
+  {title:'Formal Rulemaking — Florida East Coast',detail:'§ 5.4.2 · pp. 267–273',ids:['admin-ch5-formal']},
+  {title:'Hybrid Rulemaking — Vermont Yankee',detail:'§ 5.4.3 · pp. 273–283',ids:['admin-ch5-hybrid']},
   {title:'Procedural Regularity & Regulatory Analysis',detail:'pp. 283–344',match:/procedural regularity|regulatory analysis/i},
   {title:'Exemptions, Guidance & Agency Choice',detail:'pp. 355–415',match:/guidance|rulemaking exemption|agency choice|rulemaking petitions|waivers/i}
  ]},
@@ -80,6 +88,7 @@ groupTitle=function(g){
   if(g[0]?.chapterGroup==='admin-ch2')return 'Chapter 2 — Procedural Due Process & Hearings';
   if(g[0]?.chapterGroup==='admin-ch3')return 'Chapter 3 — Administrative Adjudication: Fundamental Problems';
   if(g[0]?.chapterGroup==='admin-ch4')return 'Chapter 4 — The Process of Administrative Adjudication';
+  if(g[0]?.chapterGroup==='admin-ch5')return 'Chapter 5 — Rulemaking Procedures';
   if(g[0]?.chapterGroup==='admin-appointments')return 'Chief Executive’s Appointment Power';
   if(g[0]?.chapterGroup==='admin-removal')return 'Chief Executive’s Removal Power';
   if(g[0]?.chapterGroup==='admin-polbranches')return 'Separation of Powers & Political Branches';
