@@ -1,0 +1,583 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6",
+  "coverage": {
+    "submittedPages": "355–415",
+    "includedPages": "369–389 (part 2 of 3)",
+    "syllabusUnit": "IV.C. Administrative Rulemaking",
+    "syllabusClasses": "14–20 · October 12–November 2",
+    "syllabusAssignment": "Chapter 6, pp. 355–415: Exemptions, Guidance & Agency Choice",
+    "status": "Rules, nonbinding guidance, legislative v interpretive rule tests; hypotheticals remain unanswered."
+  },
+  "topics": [
+    {
+      "id": "admin-ch6-guidance-basics",
+      "title": "§ 6.1.4a — Legislative Rules vs Guidance (pp. 369–371)",
+      "chapterGroup": "admin-ch6",
+      "description": "Legal effect of legislative rules, interpretive guidance and general policy statements; why nonlegislative instruments matter.",
+      "entries": [
+        {
+          "id": "admin-ch6-guidance-basics-e1",
+          "type": "definition",
+          "title": "Legislative (substantive) rule: force of law",
+          "page": "369–371",
+          "summary": "Legislative rules are issued under delegated authority to make binding law; valid rules bind private parties and the agency until repealed, waived where authorized, or set aside.",
+          "laymanExplanation": "Legislative rules are issued under delegated authority to make binding law; valid rules bind private parties and the agency until repealed, waived where authorized, or set aside.",
+          "legalExplanation": "If you violate a valid legally binding regulation, agency may enforce it; agency itself cannot simply ignore it.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 369–371"
+        },
+        {
+          "id": "admin-ch6-guidance-basics-e2",
+          "type": "definition",
+          "title": "Nonlegislative rule / guidance / soft law",
+          "page": "370–371",
+          "summary": "Guidance does not itself have legal force because agency has not invoked lawmaking authority; nevertheless it informs staff and regulated parties and may strongly influence behavior.",
+          "laymanExplanation": "Guidance does not itself have legal force because agency has not invoked lawmaking authority; nevertheless it informs staff and regulated parties and may strongly influence behavior.",
+          "legalExplanation": "Agency says what law means or how it usually plans to enforce it, but must not treat guidance as unchallengeable law.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 370–371"
+        },
+        {
+          "id": "admin-ch6-guidance-basics-e3",
+          "type": "definition",
+          "title": "Interpretive rule",
+          "page": "371, 384",
+          "summary": "Agency's explanation of the meaning of an existing statute or regulation rather than an exercise of delegated authority to create a new binding obligation.",
+          "laymanExplanation": "Agency's explanation of the meaning of an existing statute or regulation rather than an exercise of delegated authority to create a new binding obligation.",
+          "legalExplanation": "It spells out existing duties, if the explanation truly derives from preexisting text.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 371, 384"
+        },
+        {
+          "id": "admin-ch6-guidance-basics-e4",
+          "type": "definition",
+          "title": "General statement of policy",
+          "page": "371, 373–374",
+          "summary": "Agency's nonbinding indication of intended future exercise of enforcement or other discretion, with room to change course in an individual case.",
+          "laymanExplanation": "Agency's nonbinding indication of intended future exercise of enforcement or other discretion, with room to change course in an individual case.",
+          "legalExplanation": "Think of a flexible enforcement priority, not a universal command.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 371, 373–374"
+        },
+        {
+          "id": "admin-ch6-guidance-basics-e5",
+          "type": "rule",
+          "title": "Agencies must follow their own valid legislative rules",
+          "page": "370–371",
+          "summary": "Binding legislative regulation constrains agency itself as well as public; agency may not evade own binding rule through mere guidance.",
+          "laymanExplanation": "Binding legislative regulation constrains agency itself as well as public; agency may not evade own binding rule through mere guidance.",
+          "legalExplanation": "Examples Service v Dulles, Vitarelli v Seaton, United States v Nixon support self-binding, subject to lawful exceptions and waivers.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 370–371",
+          "examApplication": "Examine authority to issue and modify rule, rule language, and actual agency conduct.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-guidance-basics-e6",
+          "type": "rule",
+          "title": "Practical guidance benefits and coercion risks",
+          "page": "370–371",
+          "summary": "Guidance promotes predictable interpretation and consistent local implementation without expensive NPRM, but informal documents may become de facto mandatory in field.",
+          "laymanExplanation": "Guidance promotes predictable interpretation and consistent local implementation without expensive NPRM, but informal documents may become de facto mandatory in field.",
+          "legalExplanation": "Regulated parties may comply because challenging an inspector is costly even though guidance lacks legal force.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 370–371",
+          "examApplication": "Analyze text and practice for legal compulsion versus market/institutional pressure; separate the legal issue from policy debate.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-guidance-basics-e7",
+          "type": "rule",
+          "title": "Distinct questions: is it a rule, is it legislative, must it use NPRM?",
+          "page": "370–371",
+          "summary": "An interpretive rule or policy statement can satisfy APA's broad definition of 'rule' while still being categorically excused from advance notice/comment.",
+          "laymanExplanation": "An interpretive rule or policy statement can satisfy APA's broad definition of 'rule' while still being categorically excused from advance notice/comment.",
+          "legalExplanation": "An 'agency rule' is not automatically a 'legislative rule' requiring § 553(b) procedure.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 370–371",
+          "examApplication": "Run classification in correct order; check state APA and independent publication/review duties.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-guidance-basics-e8",
+          "type": "concept",
+          "title": "Legislative guidance terminology trap",
+          "page": "369–370",
+          "summary": "Some courts use substantive versus interpretive while federal procedural-rule exemption concerns a separate axis.",
+          "laymanExplanation": "Some courts use substantive versus interpretive while federal procedural-rule exemption concerns a separate axis.",
+          "legalExplanation": "A binding procedural rule and a nonbinding statement about substantive policy can both exist; labels are not opposite categories.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 369–370"
+        }
+      ]
+    },
+    {
+      "id": "admin-ch6-policy",
+      "title": "§ 6.1.4b — Policy Statements & Binding Norm (pp. 371–384)",
+      "chapterGroup": "admin-ch6",
+      "description": "P2C2 pharmacy-compounding policy, binding-norm test, staff instructions, FDA letters, CropLife, McLouth, ACUS compromise and FCC penalty-schedule problem.",
+      "entries": [
+        {
+          "id": "admin-ch6-policy-e1",
+          "type": "rule",
+          "title": "Policy statement exemption and binding-norm question",
+          "page": "371–375",
+          "summary": "A genuine general policy statement announces tentative future intentions, not self-executing enforceable norms; if agency binds itself or public, document may instead be a legislative rule.",
+          "laymanExplanation": "A genuine general policy statement announces tentative future intentions, not self-executing enforceable norms; if agency binds itself or public, document may instead be a legislative rule.",
+          "legalExplanation": "Agency must remain free to depart, hear objections and support its approach case by case.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 371–375",
+          "examApplication": "Look at language, structure, official application, and evidence that agency hears individual objections.",
+          "examTrap": "'Guidance' in document title is relevant but never conclusive."
+        },
+        {
+          "id": "admin-ch6-policy-e2",
+          "type": "rule",
+          "title": "Binding legislative rule versus flexible policy statement",
+          "page": "373–375",
+          "summary": "A legislative rule ordinarily resolves underlying policy debate once adopted; a policy statement leaves disputes open for decision in individual cases.",
+          "laymanExplanation": "A legislative rule ordinarily resolves underlying policy debate once adopted; a policy statement leaves disputes open for decision in individual cases.",
+          "legalExplanation": "A policy says 'we generally consider X' instead of 'X is always unlawful'.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 373–375",
+          "examApplication": "A case's facts and policy itself must remain contestable to some real extent; measured in totality, not by disclaimer alone.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-policy-e3",
+          "type": "case",
+          "title": "Professionals & Patients for Customized Care v. Shalala (P2C2), 56 F.3d 592 (5th Cir. 1995)",
+          "page": "371–377",
+          "summary": "Guide was a nonbinding policy statement. It did not automatically classify violators and FDA retained individualized enforcement judgment. Fifth Circuit affirmed.",
+          "laymanExplanation": "Guide was a nonbinding policy statement. It did not automatically classify violators and FDA retained individualized enforcement judgment. Fifth Circuit affirmed.",
+          "legalExplanation": "Case application: Did FDA Compliance Policy Guide establish binding new manufacturing standards needing § 553 advance notice/comment or a discretionary enforcement guide? Although guidance included strong language and inspectors/warning letters referenced factors, it declared factors nonexclusive, allowed other relevant factors and did not compel enforcement. FDA's label mattered but practice was decisive. Context of warning letters (calling it internal guidance) and agency's ongoing discretion supported flexibility.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 371–377",
+          "sourceRole": "Opinion excerpted in assigned chapter",
+          "assignedOpinion": true,
+          "facts": "FDA worried pharmacies were using compounding licenses to manufacture large amounts of drugs before valid prescriptions, evading stringent manufacturer laws. Its Compliance Policy Guide listed nine nonexclusive factors signaling possible manufacturing (including solicitation, commercial equipment, and interstate distribution). Pharmacy group argued the guide was de facto legislative regulation enacted without comments. FDA used factors in inspection and warning letters.",
+          "issue": "Did FDA Compliance Policy Guide establish binding new manufacturing standards needing § 553 advance notice/comment or a discretionary enforcement guide?",
+          "holding": "Guide was a nonbinding policy statement. It did not automatically classify violators and FDA retained individualized enforcement judgment. Fifth Circuit affirmed.",
+          "reasoning": "Although guidance included strong language and inspectors/warning letters referenced factors, it declared factors nonexclusive, allowed other relevant factors and did not compel enforcement. FDA's label mattered but practice was decisive. Context of warning letters (calling it internal guidance) and agency's ongoing discretion supported flexibility.",
+          "rule": "Policy statement exemption requires no binding norm; assess agency characterization, face of document, real enforcement, and degree of discretion left in each case.",
+          "exam": "Analyze whether policy becomes mandatory through text or staff application; compare CropLife and McLouth.",
+          "examTrap": "Do not infer every warning letter or repeated consultation of a policy turns it into law; nor infer disclaimer alone saves an in-practice mandatory scheme."
+        },
+        {
+          "id": "admin-ch6-policy-e4",
+          "type": "rule",
+          "title": "FDA policy statement factors — nine nonexclusive considerations",
+          "page": "372–376",
+          "summary": "P2C2 had factors for selecting pharmacies needing manufacturing-law enforcement; FDA could add others and elect not to sue.",
+          "laymanExplanation": "P2C2 had factors for selecting pharmacies needing manufacturing-law enforcement; FDA could add others and elect not to sue.",
+          "legalExplanation": "Factor list channeled discretion, but did not produce automatic or nondiscretionary consequences.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 372–376",
+          "examApplication": "An agency needs to decide if case involves real manufacturing based on context.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-policy-e5",
+          "type": "rule",
+          "title": "Enforcement warning letters: context matters",
+          "page": "375–376",
+          "summary": "Even apparently mandatory warning language may not be conclusive when letter as a whole says guidance and agency still evaluates individual facts.",
+          "laymanExplanation": "Even apparently mandatory warning language may not be conclusive when letter as a whole says guidance and agency still evaluates individual facts.",
+          "legalExplanation": "Court in P2C2 refused to read isolated phrase apart from entire communication.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 375–376",
+          "examApplication": "Review record of actual refusals to hear contrary evidence, not just count form letters.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-policy-e6",
+          "type": "rule",
+          "title": "De facto coercion does not automatically equal binding legal force",
+          "page": "377–379",
+          "summary": "Public may rationally comply with purported guidance because of permit risk and cost of opposing agency despite lack of formal legal obligation.",
+          "laymanExplanation": "Public may rationally comply with purported guidance because of permit risk and cost of opposing agency despite lack of formal legal obligation.",
+          "legalExplanation": "The gap between legal nonbinding status and real compliance pressure can justify transparency and stronger oversight; source includes critics Anthony and Parrillo.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 377–379",
+          "examApplication": "Differentiate doctrinal requirement from normative policy objection.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-policy-e7",
+          "type": "case",
+          "title": "Appalachian Power Co. v. EPA, 208 F.3d 1015 (D.C. Cir. 2000)",
+          "page": "378",
+          "summary": "Textbook cites influential dictum treating agency pronouncements as binding when field personnel and permit authorities apply them as controlling.",
+          "laymanExplanation": "Textbook cites influential dictum treating agency pronouncements as binding when field personnel and permit authorities apply them as controlling.",
+          "legalExplanation": "Shows expansive functional account of binding effect, contrasted with P2C2.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 378",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-policy-e8",
+          "type": "concept",
+          "title": "Pro-guidance perspective: Strauss and predictability",
+          "page": "378–379",
+          "summary": "Centralized published guidance promotes predictable compliance, equal treatment and efficiency; eliminating guidance may create secret local negotiation.",
+          "laymanExplanation": "Centralized published guidance promotes predictable compliance, equal treatment and efficiency; eliminating guidance may create secret local negotiation.",
+          "legalExplanation": "Regulated firms may prefer upfront nonbinding technical advice to discovering expectations through surprise enforcement.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 378–379"
+        },
+        {
+          "id": "admin-ch6-policy-e9",
+          "type": "concept",
+          "title": "California underground regulations controversy",
+          "page": "379",
+          "summary": "Study described widespread invalid unpromulgated policy under California APA and side effects: disappearance of written advice, tentative policies or inconsistent guidance.",
+          "laymanExplanation": "Study described widespread invalid unpromulgated policy under California APA and side effects: disappearance of written advice, tentative policies or inconsistent guidance.",
+          "legalExplanation": "State requirement to run notice/comment for virtually all guidance may be costly and paradoxically reduce transparency.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 379"
+        },
+        {
+          "id": "admin-ch6-policy-e10",
+          "type": "rule",
+          "title": "ACUS Recommendation 2017–5 as advisory compromise",
+          "page": "379, 382",
+          "summary": "Agency should not use policy statement to bind public and should permit fair chance to request reconsideration; staff may be directed subject to higher-level exception.",
+          "laymanExplanation": "Agency should not use policy statement to bind public and should permit fair chance to request reconsideration; staff may be directed subject to higher-level exception.",
+          "legalExplanation": "This is recommendation, not binding APA command; balances consistent staff administration and public challenge rights.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 379, 382",
+          "examApplication": "",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-policy-e11",
+          "type": "case",
+          "title": "CropLife America v. EPA, 329 F.3d 876 (D.C. Cir. 2003)",
+          "page": "380–381",
+          "summary": "EPA press release proclaimed it would not consider third-party human pesticide-test data while evaluating policy, with limited mandated exception; court found binding norm needing notice/comment.",
+          "laymanExplanation": "EPA press release proclaimed it would not consider third-party human pesticide-test data while evaluating policy, with limited mandated exception; court found binding norm needing notice/comment.",
+          "legalExplanation": "Unqualified categorical refusal differs from tentative case-specific enforcement advice.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 380–381",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-policy-e12",
+          "type": "rule",
+          "title": "Mandatory and 'flat' wording signals a legislative rule",
+          "page": "380–382",
+          "summary": "Language like 'will not consider' can eliminate case-by-case discretion; even a temporary moratorium may create binding effect.",
+          "laymanExplanation": "Language like 'will not consider' can eliminate case-by-case discretion; even a temporary moratorium may create binding effect.",
+          "legalExplanation": "Agency may need notice/comment to adopt fixed substantive exclusion despite calling it interim policy.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 380–382",
+          "examApplication": "Look for rebuttable presumption, exceptions, authorized reconsideration and actual flexibility.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-policy-e13",
+          "type": "case",
+          "title": "McLouth Steel Products Corp. v. Thomas, 838 F.2d 1317 (D.C. Cir. 1988)",
+          "page": "381",
+          "summary": "EPA mathematical hazardous-waste model was treated as binding after agency refused to entertain challenges; court required § 553 rulemaking or genuine reopening of issues on individual petition.",
+          "laymanExplanation": "EPA mathematical hazardous-waste model was treated as binding after agency refused to entertain challenges; court required § 553 rulemaking or genuine reopening of issues on individual petition.",
+          "legalExplanation": "Binding application is more probative than title 'model' or 'guidance'.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 381",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-policy-e14",
+          "type": "case",
+          "title": "Panhandle Producers v. Economic Regulatory Administration, 847 F.2d 1168 (5th Cir. 1988)",
+          "page": "381–382",
+          "summary": "Energy guideline's presumption favoring gas imports was still nonbinding because agency addressed opposing arguments and did not treat guidance as conclusive.",
+          "laymanExplanation": "Energy guideline's presumption favoring gas imports was still nonbinding because agency addressed opposing arguments and did not treat guidance as conclusive.",
+          "legalExplanation": "Distinguish mere reliance from refusal to consider case-specific reasons.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 381–382",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-policy-e15",
+          "type": "rule",
+          "title": "Staff guidance and public binding consequences",
+          "page": "381–382",
+          "summary": "Instructions can bind lower staff while allowing higher officials discretion to override; whether this binds public is context-dependent.",
+          "laymanExplanation": "Instructions can bind lower staff while allowing higher officials discretion to override; whether this binds public is context-dependent.",
+          "legalExplanation": "Central consistency may coexist with genuinely available exceptions, per ACUS proposed model.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 381–382",
+          "examApplication": "Focus on who can reconsider and whether party can realistically ask for individual review.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-policy-e16",
+          "type": "concept",
+          "title": "Funk's 'short cut' proposal",
+          "page": "382–383",
+          "summary": "Some academics propose treating all rules issued without notice/comment as nonlegislative unless another exemption applies, leaving merits challenges rather than binding-norm inquiry.",
+          "laymanExplanation": "Some academics propose treating all rules issued without notice/comment as nonlegislative unless another exemption applies, leaving merits challenges rather than binding-norm inquiry.",
+          "legalExplanation": "An alternative academic position, not the casebook's governing approach.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 382–383"
+        },
+        {
+          "id": "admin-ch6-policy-e17",
+          "type": "concept",
+          "title": "State treatment of policy guidance differs",
+          "page": "382–383",
+          "summary": "Textbook survey describes many state jurisdictions, including DC, as allowing guidance exemptions while others strictly regulate so-called underground regulations.",
+          "laymanExplanation": "Textbook survey describes many state jurisdictions, including DC, as allowing guidance exemptions while others strictly regulate so-called underground regulations.",
+          "legalExplanation": "Use applicable state's current statute/cases rather than assume uniform federal treatment.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 382–383"
+        }
+      ]
+    },
+    {
+      "id": "admin-ch6-interpretive",
+      "title": "§ 6.1.4c — Interpretive Rules & Hoctor (pp. 384–389)",
+      "chapterGroup": "admin-ch6",
+      "description": "Interpretation-versus-new-implementation problem, Hoctor eight-foot fence, American Mining four legal-effect signs, Perez reversals and homeschool bulletin problem.",
+      "entries": [
+        {
+          "id": "admin-ch6-interpretive-e1",
+          "type": "rule",
+          "title": "Interpretive rule exception under § 553(b)(A)",
+          "page": "384–386",
+          "summary": "True interpretive rule explains existing statute or legislative regulation instead of creating new legally obligatory policy.",
+          "laymanExplanation": "True interpretive rule explains existing statute or legislative regulation instead of creating new legally obligatory policy.",
+          "legalExplanation": "If a rule simply explains what regulation already means, it normally can issue without advance comments; new arbitrary compliance conditions generally cannot.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 384–386",
+          "examApplication": "Analyze source text and whether interpretation is fairly derivable rather than just compatible with law.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-interpretive-e2",
+          "type": "case",
+          "title": "Hoctor v. United States Department of Agriculture, 82 F.3d 165 (7th Cir. 1996)",
+          "page": "384–385",
+          "summary": "No. Eight-foot absolute minimum was independent choice among permissible standards, not interpretation of existing regulatory language, and required legislative rulemaking.",
+          "laymanExplanation": "No. Eight-foot absolute minimum was independent choice among permissible standards, not interpretation of existing regulatory language, and required legislative rulemaking.",
+          "legalExplanation": "Case application: Could exact eight-foot numerical standard logically be interpreted from general structural strength obligation, exempting memorandum from § 553? Nothing in 'secure containment' yields 8 rather than 7.5, 9 or 10 feet. Choosing exact number creates significant cost and affects many dealers; interested public entitled to comment. A rebuttable inference tied to safe containment might have made stronger interpretive argument.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 384–385",
+          "sourceRole": "Opinion excerpted in assigned chapter",
+          "assignedOpinion": true,
+          "facts": "Animal Welfare Act empowered USDA to regulate safe confinement of dangerous animals. After a notice-and-comment regulation required 'structurally sound' facilities to protect and contain them, inspector memo mandated fences at least eight feet high. Big-cat dealer Hoctor was fined because fence stood six feet; USDA called memo interpretive.",
+          "issue": "Could exact eight-foot numerical standard logically be interpreted from general structural strength obligation, exempting memorandum from § 553?",
+          "holding": "No. Eight-foot absolute minimum was independent choice among permissible standards, not interpretation of existing regulatory language, and required legislative rulemaking.",
+          "reasoning": "Nothing in 'secure containment' yields 8 rather than 7.5, 9 or 10 feet. Choosing exact number creates significant cost and affects many dealers; interested public entitled to comment. A rebuttable inference tied to safe containment might have made stronger interpretive argument.",
+          "rule": "Guidance is interpretive only if reasonably derived from existing text; mandatory self-contained numerical implementation choices ordinarily create new legislative obligations.",
+          "exam": "Contrast genuinely text-based explanation with a fixed number selected for policy convenience; mention potential alternative rebuttable presumption.",
+          "examTrap": "'Arbitrary choice' in opinion means non-derivable selection, not necessarily arbitrary/capricious under § 706(2)(A)."
+        },
+        {
+          "id": "admin-ch6-interpretive-e3",
+          "type": "rule",
+          "title": "Derived-by-interpretation / linguistic-tether test",
+          "page": "384–386",
+          "summary": "Inspect how tightly an alleged interpretation follows the text of statute or regulation. Merely consistent with text is not enough under Hoctor.",
+          "laymanExplanation": "Inspect how tightly an alleged interpretation follows the text of statute or regulation. Merely consistent with text is not enough under Hoctor.",
+          "legalExplanation": "A rule can be consistent with 'safe enclosure' but still be new law if it picks a rigid number without textual anchor.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 384–386",
+          "examApplication": "Many courts employ this but its distinction from policymaking may be unmanageable.",
+          "examTrap": "Don't say every numerical term is automatically legislative regardless of statutory text."
+        },
+        {
+          "id": "admin-ch6-interpretive-e4",
+          "type": "rule",
+          "title": "American Mining Congress: four indicators of legislative legal effect",
+          "page": "386–387",
+          "summary": "Rule may be legislative if (1) prior law lacked adequate basis for enforcement, (2) agency placed it in CFR, (3) agency invoked legislative authority, or (4) agency effectively amended earlier legislative rule.",
+          "laymanExplanation": "Rule may be legislative if (1) prior law lacked adequate basis for enforcement, (2) agency placed it in CFR, (3) agency invoked legislative authority, or (4) agency effectively amended earlier legislative rule.",
+          "legalExplanation": "Ask whether document itself supplies the law that lets regulator penalize, or merely explains law already in effect.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 386–387",
+          "examApplication": "Four-factor heuristic focuses on intended legal effect; not necessarily exhaustive or universally followed.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-interpretive-e5",
+          "type": "case",
+          "title": "American Mining Congress v. MSHA, 995 F.2d 1106 (D.C. Cir. 1993)",
+          "page": "386–387",
+          "summary": "Distinguished interpretive rules from legislative regulations by whether purported guidance itself exercises legal authority; offered four situations indicating legislative character.",
+          "laymanExplanation": "Distinguished interpretive rules from legislative regulations by whether purported guidance itself exercises legal authority; offered four situations indicating legislative character.",
+          "legalExplanation": "Casebook contrasts Hoctor linguistic approach with lawmaking-effect approach.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 386–387",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-interpretive-e6",
+          "type": "rule",
+          "title": "Binding norm is possible alternative for interpretive rules",
+          "page": "387–388",
+          "summary": "Some cases analogize interpretive rules to policy statements: absent force of law, both arguably should allow fair individual opportunity to dispute interpretation.",
+          "laymanExplanation": "Some cases analogize interpretive rules to policy statements: absent force of law, both arguably should allow fair individual opportunity to dispute interpretation.",
+          "legalExplanation": "This approach does not dominate case law; book explains competing doctrinal approaches and critiques.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 387–388",
+          "examApplication": "Say courts differ, rather than presenting one universal interpretive-rule test.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-interpretive-e7",
+          "type": "rule",
+          "title": "Perez v. Mortgage Bankers: change of interpretive rule",
+          "page": "388",
+          "summary": "Agencies do not need notice/comment just because a new interpretive rule reverses a previous interpretation; APA express exemption remains.",
+          "laymanExplanation": "Agencies do not need notice/comment just because a new interpretive rule reverses a previous interpretation; APA express exemption remains.",
+          "legalExplanation": "Court unanimously rejected D.C. Circuit's Paralyzed Veterans/Alaska Professional Hunters doctrine.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 388",
+          "examApplication": "Changing old interpretation isn't automatically legislative; independent source of law and reliance issues may still matter.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch6-interpretive-e8",
+          "type": "case",
+          "title": "Perez v. Mortgage Bankers Association, 575 U.S. 92 (2015)",
+          "page": "388",
+          "summary": "Supreme Court held no special NPRM for substantial revision of preexisting interpretive rule; judicially added process conflicts with Vermont Yankee.",
+          "laymanExplanation": "Supreme Court held no special NPRM for substantial revision of preexisting interpretive rule; judicially added process conflicts with Vermont Yankee.",
+          "legalExplanation": "Use as direct controlling contrast with overturned Paralyzed Veterans doctrine.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 388",
+          "sourceRole": "Case discussed in textbook notes; opinion not excerpted",
+          "assignedOpinion": false
+        },
+        {
+          "id": "admin-ch6-interpretive-e9",
+          "type": "concept",
+          "title": "ACUS 2019–1: public opportunity to request reconsideration",
+          "page": "388",
+          "summary": "Best practices recommend fair chance to persuade agency to modify interpretation; this is advisory not a binding notice/comment precondition.",
+          "laymanExplanation": "Best practices recommend fair chance to persuade agency to modify interpretation; this is advisory not a binding notice/comment precondition.",
+          "legalExplanation": "Supports accountability while preserving streamlined interpretation.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, pp. 388"
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch6-p2q1",
+      "topicId": "admin-ch6-guidance-basics",
+      "title": "Agency procedures can be binding legislative rules",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 369–370",
+      "prompt": "How can a procedural rule be legislative and still be exempt from § 553 pre-adoption public comments?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q2",
+      "topicId": "admin-ch6-guidance-basics",
+      "title": "Benefits and risks of widespread soft law",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 370–371",
+      "prompt": "Why might agencies rely on many pages of guidance for each page of binding regulation? Which parties gain and who loses the chance to contest?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q3",
+      "topicId": "admin-ch6-policy",
+      "title": "P2C2 as policy statement despite severe practical effects",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 377–379",
+      "prompt": "Where exactly should court look: agency's label, wording, staff training, warning letters, actual case-by-case decisions and willingness to reconsider?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q4",
+      "topicId": "admin-ch6-policy",
+      "title": "Appalachian Power versus P2C2",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 378–379",
+      "prompt": "Would a broader real-world coercion standard transform FDA's policy guide into binding legislative rule?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q5",
+      "topicId": "admin-ch6-policy",
+      "title": "California underground regulation problem",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 379",
+      "prompt": "Would eliminating guidance exemption promote fairness or make agencies hide their expectations in unwritten instructions?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q6",
+      "topicId": "admin-ch6-policy",
+      "title": "EPA pesticide human-testing moratorium",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 380–381",
+      "prompt": "Is blanket interim refusal to consider test data lawmaking? Compare open-ended P2C2 factors.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q7",
+      "topicId": "admin-ch6-policy",
+      "title": "McLouth vs Panhandle",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 381–382",
+      "prompt": "Compare agency refusing to hear challenges to model and agency genuinely answering objections to prior guideline.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q8",
+      "topicId": "admin-ch6-policy",
+      "title": "Policy statements directed to agency staff",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 382",
+      "prompt": "Is binding lower-level staff compatible with a nonbinding policy as long as higher official may reconsider merits?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q9",
+      "topicId": "admin-ch6-policy",
+      "title": "Funk 'short cut' approach",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 382–383",
+      "prompt": "Weigh classification clarity and speed against loss of procedural challenge to coercive guidance.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q10",
+      "topicId": "admin-ch6-policy",
+      "title": "FCC civil penalty schedule — problem",
+      "kind": "Textbook hypothetical — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 383–384",
+      "prompt": "FCC without NPRM set base fines ($20k broadcasters; $80k common carriers for false distress signals) and discretionary adjustments; used schedule in 42 of 50 actions and levied lesser fines in 8 with unclear departures. Determine whether guidance establishes binding norm without answering.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q11",
+      "topicId": "admin-ch6-interpretive",
+      "title": "Hoctor and exact-number regulation",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 385–386",
+      "prompt": "Could agency have imposed a rebuttable presumption regarding eight-foot fence without NPRM? Why is exact number hard to derive from general containment duty?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q12",
+      "topicId": "admin-ch6-interpretive",
+      "title": "Which interpretive test makes most sense?",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 386–388",
+      "prompt": "Compare derived-from-text, American Mining legal-effect and uniform binding-norm approaches; note unsettled categories.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q13",
+      "topicId": "admin-ch6-interpretive",
+      "title": "Perez and substantial interpretive reversals",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 388",
+      "prompt": "Why did Supreme Court reject Paralyzed Veterans's notice/comment rule for interpretation change despite reliance concerns?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch6-p2q14",
+      "topicId": "admin-ch6-interpretive",
+      "title": "Madison home-school compliance bulletin — problem",
+      "kind": "Textbook hypothetical — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 6, p. 388–389",
+      "prompt": "Board said home schools must teach science and social studies and last 180 days inferred from public-school aid statute; sent compliance forms and penalty warnings without NPRM. Assess interpretive versus legislative rule under federal-equivalent law without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
