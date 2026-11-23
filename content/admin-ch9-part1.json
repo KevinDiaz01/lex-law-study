@@ -1,0 +1,311 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+  "coverage": "Chapter 9 pp. 579–595; Professor Lubbers syllabus: VI.B(1)–(2), assigned pp. 579–595",
+  "topics": [
+    {
+      "id": "admin-ch9-intro",
+      "title": "§ 9 — Scope of Judicial Review: Introduction (pp. 579–580)",
+      "chapterGroup": "admin-ch9",
+      "entries": [
+        {
+          "id": "admin-ch9-intro-e1",
+          "type": "rule",
+          "title": "What scope of judicial review means",
+          "page": "579–580",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Scope of review governs how much judicial checking power is exercised over agency determinations; the intensity differs with the type of question.",
+          "laymanExplanation": "A judge may double-check what an agency did, but not all agency judgments receive the same degree of skepticism.",
+          "legalExplanation": "Separate factual findings (what happened), legal interpretation (what a statute means), policy/discretionary choices (what the agency decided to do), and procedural compliance. Each invokes different review doctrine.",
+          "examApplication": "Classify each challenged agency proposition before selecting a review standard.",
+          "examTrap": "Do not apply one uniform deference standard to an agency decision mixing law, fact, and discretion."
+        },
+        {
+          "id": "admin-ch9-intro-e2",
+          "type": "rule",
+          "title": "Fact findings versus legal interpretations versus policy judgments",
+          "page": "579",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Factfinding and policymaking ordinarily receive respect within statutory bounds; legality is generally for reviewing courts to resolve.",
+          "laymanExplanation": "Courts often defer on what happened and policy choices, but usually decide for themselves whether the agency got the law right.",
+          "legalExplanation": "A single agency order can involve several determinations, so a court may use separate standards for each component.",
+          "examApplication": "For a mixed case, lay out distinct issues—evidence, legal authority, reasoned policy—and run separate analyses.",
+          "examTrap": "A court's independent interpretation of the enabling statute does not mean it can choose the agency's policy within discretion Congress actually gave it."
+        },
+        {
+          "id": "admin-ch9-intro-e3",
+          "type": "rule",
+          "title": "Delegation defines the judicial-agency boundary",
+          "page": "579–580",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "A legislature may authorize an agency to exercise discretion, but a statutory limit remains binding; the court must determine how much authority Congress actually conferred.",
+          "laymanExplanation": "Agency freedom comes from the statute; the court checks the boundaries of that freedom.",
+          "legalExplanation": "Read enabling statute first: express commands constrain the agency, open-ended statutory grants may leave real agency discretion, and APA § 706 provides review principles.",
+          "examApplication": "Ask whether the decision is interpretation of statutory limits or an authorized exercise of discretion inside those limits.",
+          "examTrap": "Ambiguity in a statute is not automatically a delegation of interpretive authority after Loper Bright."
+        },
+        {
+          "id": "admin-ch9-intro-e4",
+          "type": "concept",
+          "title": "The reviewing court's institutional tradeoff",
+          "page": "579",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Excessive deference weakens the judicial check; excessively intrusive review impairs agency work and consumes judicial resources.",
+          "laymanExplanation": "Too much trust gives agencies a free pass; too little makes judges run the agency.",
+          "legalExplanation": "The textbook frames scope of review as a balance between legality, agency specialization, and effective administration.",
+          "examApplication": "Use in a policy discussion contrasting judicial accountability with expertise and regulatory effectiveness.",
+          "examTrap": "A statement about ideal institutional balance is not itself a doctrinal standard."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch9-basic-facts",
+      "title": "§ 9.1 — Agency Basic Facts: Substantial Evidence, Universal Camera & De Novo Review (pp. 580–595)",
+      "chapterGroup": "admin-ch9",
+      "entries": [
+        {
+          "id": "admin-ch9-basic-facts-e1",
+          "type": "definition",
+          "title": "Basic facts",
+          "page": "580",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Agency findings identifying what happened, who did what, why, and with what state of mind.",
+          "laymanExplanation": "The factual story of the dispute.",
+          "legalExplanation": "Separate facts from legal labels and discretionary responses before choosing scope of review.",
+          "examApplication": "E.g. was employee fired for testimony (fact), did that violate statute (legal), what remedy to impose (discretion)?",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch9-basic-facts-e2",
+          "type": "rule",
+          "title": "Hierarchy of factual-review standards",
+          "page": "580–582",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "From most to least intrusive: trial de novo; independent judgment on agency record; clearly erroneous; substantial evidence; arbitrary and capricious; some evidence; preclusion of factual review.",
+          "laymanExplanation": "At one end judges redo factfinding; at the other they barely check or cannot review facts at all.",
+          "legalExplanation": "The text treats these as verbal formulas with distinct theory but cautions that actual outcomes do not necessarily map onto the ranking.",
+          "examApplication": "Write down the statute-specific standard and governing APA clause before evaluating whether factual proof passes.",
+          "examTrap": "Do not assume the words alone predict how often courts reverse."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e3",
+          "type": "rule",
+          "title": "Trial de novo — APA § 706(2)(F)",
+          "page": "580, 592–594",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Where specifically authorized, a reviewing court may take evidence and redetermine the factual question itself.",
+          "laymanExplanation": "The judge can hold a new evidentiary trial instead of simply inspecting the agency's record.",
+          "legalExplanation": "Rare federal examples: some citizenship determinations, food-stamp retailer disqualifications, certain Patent Act actions; IDEA review permits additional evidence and preponderance-based judgment.",
+          "examApplication": "Ask whether statute affirmatively provides a right to introduce new evidence or de novo trial.",
+          "examTrap": "APA § 706(2)(F) is not a general license to retry all agency factual disputes."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e4",
+          "type": "rule",
+          "title": "Independent judgment on the evidence",
+          "page": "580, 594–595",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Court uses agency's record but makes its own factual evaluation without treating agency findings as controlling.",
+          "laymanExplanation": "No new trial, but the judge decides the facts independently from the existing record.",
+          "legalExplanation": "Some states, especially California for decisions substantially affecting a vested fundamental right, provide such independent review.",
+          "examApplication": "Distinguish from de novo trial: existing record versus new evidence.",
+          "examTrap": "Do not confuse a court's independent judgment over statutory interpretation with independent weighing of facts."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e5",
+          "type": "rule",
+          "title": "Clearly erroneous standard",
+          "page": "580–581, 591",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "An agency factual finding may be rejected if the reviewer has a definite and firm conviction a mistake occurred; some state statutes employ this formulation.",
+          "laymanExplanation": "A finding can be clearly wrong even if someone could reasonably believe it.",
+          "legalExplanation": "The formulation resembles Fed. R. Civ. P. 52(a) review of trial-judge findings; the text emphasizes how thin practical distinctions from substantial evidence may be.",
+          "examApplication": "Look at whether the governing jurisdiction has selected clear error and distinguish it conceptually from rational-factfinder review.",
+          "examTrap": "Clearly erroneous does not mean any alternative inference is enough."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e6",
+          "type": "rule",
+          "title": "Substantial evidence — APA § 706(2)(E)",
+          "page": "580–581, 582–587",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Formal agency findings stand if supported by relevant evidence that a reasonable mind could accept as adequate, considering the record as a whole.",
+          "laymanExplanation": "A reasonable decisionmaker could reach the agency's factual conclusion, even if the judge might disagree.",
+          "legalExplanation": "Ordinarily applies to Types A/B formal adjudication, formal rulemaking, and record hearings specified by law. More than a scintilla; assess opposing evidence too.",
+          "examApplication": "Identify proof supporting agency, proof detracting, and ALJ findings, and explain whether a rational factfinder could reasonably reach agency result.",
+          "examTrap": "It is not a preponderance or 'judge personally agrees' test; never cherry-pick favorable evidence."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e7",
+          "type": "rule",
+          "title": "Arbitrary and capricious review of informal factfinding",
+          "page": "581",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "APA § 706(2)(A) generally governs factual determinations in Type C adjudication and informal rulemaking.",
+          "laymanExplanation": "Without a formal hearing record, courts often ask whether the agency acted irrationally instead.",
+          "legalExplanation": "Although different APA clauses apply, the book suggests factual reasonableness under arbitrary/capricious review may be close in practice to substantial evidence.",
+          "examApplication": "Separate the procedural setting before selecting (A) or (E); further nuances appear at § 9.4.",
+          "examTrap": "Do not assume arbitrary and capricious is always mechanically weaker than substantial evidence in outcome."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e8",
+          "type": "definition",
+          "title": "Some evidence (scintilla) and no fact review",
+          "page": "581",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "The 'some evidence' formula protects findings if even minimal evidentiary support exists; some statutes preclude judicial fact review altogether.",
+          "laymanExplanation": "Some-evidence review is very limited; preclusion means none on that issue.",
+          "legalExplanation": "The text identifies Selective Service decisions and some state compensation cases as examples of limited review; § 10.4 later addresses preclusion.",
+          "examApplication": "Check special statute for unusual review restriction; separate law/procedure review if facts are precluded.",
+          "examTrap": "Do not treat this uncommon standard as the normal federal APA benchmark."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e9",
+          "type": "case",
+          "title": "Universal Camera Corp. v. NLRB, 340 U.S. 474 (1951)",
+          "page": "582–587",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpt in assigned textbook",
+          "summary": "Yes. Substantiality must be assessed on the whole record, including evidence contrary to the Board's position and relevant findings of the examiner; case remanded for appropriate reconsideration.",
+          "laymanExplanation": "Whole-record substantial evidence includes detracting proof and the hearing examiner's report; courts may not abdicate their review, but may not replace any fairly supportable agency choice merely because they would choose otherwise.",
+          "legalExplanation": "APA and Taft-Hartley Act require a reviewing court to examine the whole record. ALJ/examiner credibility findings have probative value when the examiner saw and heard witnesses. Agency heads retain ultimate factfinding responsibility under § 557(b); their disagreement with an examiner is relevant but does not create a separate legal presumption.",
+          "facts": "The NLRB found retaliation when Universal discharged employee Chairman; the hearing examiner who saw witnesses believed the employer, but Board members reversed; Second Circuit affirmed while giving no real weight to the examiner's findings.",
+          "issue": "Must substantial evidence review consider contrary evidence and the hearing examiner's findings when agency heads reverse the examiner?",
+          "holding": "Yes. Substantiality must be assessed on the whole record, including evidence contrary to the Board's position and relevant findings of the examiner; case remanded for appropriate reconsideration.",
+          "reasoning": "APA and Taft-Hartley Act require a reviewing court to examine the whole record. ALJ/examiner credibility findings have probative value when the examiner saw and heard witnesses. Agency heads retain ultimate factfinding responsibility under § 557(b); their disagreement with an examiner is relevant but does not create a separate legal presumption.",
+          "rule": "Whole-record substantial evidence includes detracting proof and the hearing examiner's report; courts may not abdicate their review, but may not replace any fairly supportable agency choice merely because they would choose otherwise.",
+          "examApplication": "Explain what the ALJ observed, how heads justified reversal, and why a reasonable decisionmaker could or could not reach the agency conclusion in light of all relevant proof.",
+          "examTrap": "Universal Camera does not make examiner findings binding or alter substantial evidence into clearly erroneous review."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e10",
+          "type": "rule",
+          "title": "Whole-record requirement — APA § 706",
+          "page": "583–588",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "A reviewing court must consider both favorable and contrary evidence; substantial evidence cannot be evaluated by isolating only testimony supporting agency conclusions.",
+          "laymanExplanation": "Don't ignore evidence that goes the other way.",
+          "legalExplanation": "Court must consider contradiction, competing inferences, consistency, inherent probability and findings by the presiding ALJ.",
+          "examApplication": "In an exam, create two columns of agency-supporting and agency-detracting evidence; explain the combined effect.",
+          "examTrap": "The whole-record rule does not allow court to reweigh freely or automatically adopt contrary minority evidence."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e11",
+          "type": "rule",
+          "title": "Agency head may reverse ALJ under § 557(b)",
+          "page": "585–590",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Agency head possesses the same decisional powers as if it made the initial decision, but the ALJ's findings remain part of the administrative record.",
+          "laymanExplanation": "The Board can disagree with the hearing officer, but can't pretend the hearing officer never made findings.",
+          "legalExplanation": "Credibility findings tied to witnesses' demeanor may matter especially because agency heads did not directly observe those witnesses. Courts may demand careful explanations, without a changed statutory standard.",
+          "examApplication": "Identify whether disagreement concerns direct demeanor credibility versus policy, expertise, documentary facts, or inference.",
+          "examTrap": "Do not give ALJ findings the near-conclusive status of a federal judicial master's findings."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e12",
+          "type": "rule",
+          "title": "ALJ disagreement as a factor, not a new legal test",
+          "page": "586–590",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "An examiner's different credibility assessment can diminish evidentiary support for agency heads' contrary finding; how much depends on the issue and quality of observations.",
+          "laymanExplanation": "An eyewitness hearing officer's view counts, but it isn't automatically the winner.",
+          "legalExplanation": "Whole-record substantiality remains the standard. A factfinding dispute rooted in demeanor calls for especially careful judicial scrutiny of the agency's explanation.",
+          "examApplication": "Compare a finding about witness truthfulness with technical market definition: latter may be less dependent on observing testimony.",
+          "examTrap": "No flat rule says every ALJ reversal is invalid or requires the board to show 'very substantial preponderance'."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e13",
+          "type": "concept",
+          "title": "Why factual review is ordinarily deferential",
+          "page": "587–588",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Agency expertise, implicit legislative allocation of factfinding, conservation of appeals, and protecting administrative policy from judicial substitution are four suggested rationales.",
+          "laymanExplanation": "The agency may know its field better and Congress often wanted it to find the facts.",
+          "legalExplanation": "The textbook presents these as rationales, then asks whether they justify adjusting scrutiny in unusually simple cases or when commissioners lack expertise.",
+          "examApplication": "Mention in policy essay about whether judges should adjust how intensely they review factual records.",
+          "examTrap": "Exam must still apply governing legal test rather than invent a sliding scale based on whether one agency leader seems expert."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e14",
+          "type": "rule",
+          "title": "Constitutional and jurisdictional facts — historical doctrine",
+          "page": "592–593",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Older cases required independent judicial determination of certain constitutional/jurisdictional predicates (Crowell; Ng Fung Ho), but modern sources describe Crowell's broad doctrine as obsolete.",
+          "laymanExplanation": "Historically a few sensitive facts got independently checked by courts; that broad approach did not survive.",
+          "legalExplanation": "Ng Fung Ho concerned citizenship in deportation; citizenship-review entitlement now rests principally on statutes. Northern Pipeline rejected continued force of Crowell's jurisdictional fact teaching.",
+          "examApplication": "Distinguish historical casebook doctrine from current standard and identify statute controlling any de novo entitlement.",
+          "examTrap": "Do not rely on Crowell to claim all agency jurisdictional facts receive de novo review today."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e15",
+          "type": "rule",
+          "title": "Modern instances of de novo factfinding",
+          "page": "593–594",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Congress provides exceptional de novo review for particular contexts: certain immigration citizenship issues, food-stamp retailer disqualifications, some Patent Act challenges, and additional evidence under IDEA.",
+          "laymanExplanation": "Only particular laws let a judge hear the facts again.",
+          "legalExplanation": "FOIA judicial review uses de novo language despite high government success rates; these examples illustrate the divergence between nominal standards and actual outcomes.",
+          "examApplication": "Examine explicit remedial review provision before asserting de novo court factfinding.",
+          "examTrap": "FOIA's specialized review is not the default for agency factual findings."
+        },
+        {
+          "id": "admin-ch9-basic-facts-e16",
+          "type": "rule",
+          "title": "California independent-judgment doctrine",
+          "page": "594–595",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 579–595 (uploaded Nov. 23, 2026)",
+          "summary": "Under Cal. Code Civ. Proc. § 1094.5, court may exercise independent judgment on the record for decisions substantially affecting a vested fundamental right; ordinary cases use substantial evidence.",
+          "laymanExplanation": "Certain important existing individual rights receive deeper court fact review in California.",
+          "legalExplanation": "Bixby treated professional license as qualifying; Frink viewed disability benefits as fundamentally important; Fukuda reaffirmed approach. Context-specific right analysis controls.",
+          "examApplication": "Test whether vested fundamental right is affected and whether proceeding calls for court weighing its existing record.",
+          "examTrap": "This doctrine is state-specific and does not automatically apply in federal APA cases."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch9-p592-ted",
+      "topicId": "admin-ch9-basic-facts",
+      "title": "Ted / City Health Club — competing agency and ALJ findings",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, Chapter 9, p. 592",
+      "prompt": "Madison Civil Rights Commission reversed ALJ Gloria's finding that Ted's club membership was terminated for his behavior rather than sexual orientation. Would a reviewing court reverse under (i) substantial evidence on the record as a whole and (ii) clearly erroneous review? What if the Commission affirmed Gloria and Ted sought review? Analyze without assuming unmentioned evidence.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-p595-california",
+      "topicId": "admin-ch9-basic-facts",
+      "title": "Ted / City Health Club in California — vested fundamental right",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, Chapter 9, p. 595",
+      "prompt": "If the City Health Club case arose in California, would a court have power to exercise independent judgment when the Commission found for Ted? When it found for the Club? What if a licensing board revoked the Club's license because of repeated discrimination?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-nq-alj",
+      "topicId": "admin-ch9-basic-facts",
+      "title": "Universal Camera — ALJ versus agency credibility",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, Chapter 9, p. 588–589",
+      "prompt": "What middle ground does Universal Camera create between accepting and disregarding the examiner? Does the agency's disagreement about demeanor credibility matter more than disagreement about market definition or technical economic facts?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-nq-scope",
+      "topicId": "admin-ch9-intro",
+      "title": "Comparing scopes of review in a mixed agency decision",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, Chapter 9, p. 579–581",
+      "prompt": "A formal agency adjudication rests on a disputed witness account, a novel statutory interpretation, and a policy choice within its delegated authority. Identify the separate scope-of-review questions for each without deciding their merits.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
