@@ -274,7 +274,7 @@ async function boot(){
  // Existing entry IDs (including user edits) take priority over imports.
  for(const file of ['admin-ch1.json','admin-ch2.json','admin-ch3-part1.json','admin-ch4-part1.json','admin-ch4-part2.json','admin-ch5-part1.json','admin-ch5-part2.json','admin-ch5-part3.json','admin-ch6-part1.json','admin-ch6-part2.json','admin-ch6-part3.json','admin-appointments.json','admin-removal.json','admin-delegation.json','admin-legislative-controls.json','admin-executive-oversight.json','admin-discussion-questions.json']){
   try{
-   const response=await fetch('./content/'+file+'?v=3',{cache:'no-store'});
+   const response=await fetch('./content/'+file+'?v=4',{cache:'no-store'});
    if(!response.ok)throw Error('HTTP '+response.status);
    const supplement=await response.json();
    if(supplement.version!==1||supplement.courseId!=='admin'||!Array.isArray(supplement.topics))continue;
