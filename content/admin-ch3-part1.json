@@ -502,6 +502,320 @@
           "examApplication": "Compare record-only resolution versus oral confrontation."
         }
       ]
+    },
+    {
+      "id": "admin-ch3-judicial-institutional",
+      "title": "§ 3.3 — Judicial Versus Institutional Decisionmaking (pp. 98–100)",
+      "chapterGroup": "admin-ch3",
+      "description": "Classes 9–10 · competing administrative models; efficiency-versus-impartiality tradeoffs.",
+      "entries": [
+        {
+          "id": "admin-ch3-judicial-institutional-1",
+          "type": "framework",
+          "title": "Judicial model of administrative adjudication",
+          "summary": "Agency adjudication should resemble a court trial: independent and unbiased decider, meaningful adversarial procedures, evidence in record, and separation from investigative/prosecutorial staff.",
+          "laymanExplanation": "Treat the agency judge like a real judge, deciding fairly based on hearing evidence alone.",
+          "legalExplanation": "Prioritizes procedural fairness, perceived legitimacy, cross-examination and the exclusive record. Under strict model, no substantive off-record advice or contacts by parties and political figures.",
+          "page": "98–99",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 98–99",
+          "examApplication": "Use as normative justification for strict separation, neutral decisionmaker, and restrictions on secret communications."
+        },
+        {
+          "id": "admin-ch3-judicial-institutional-2",
+          "type": "framework",
+          "title": "Institutional model of administrative adjudication",
+          "summary": "Agency is an integrated regulatory policymaking unit; staff collaborate and provide expertise and off-record advice to reach effective, consistent, and efficient decisions.",
+          "laymanExplanation": "Think of an agency as one expert team solving a regulatory problem.",
+          "legalExplanation": "Prioritizes specialized accuracy, effective implementation of public programs, and accountable regulatory policy rather than a courtroom boundary around every decision.",
+          "page": "98–99",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 98–99",
+          "examApplication": "Use to justify staff consultation, discretion, expertise, and agency-head policy control."
+        },
+        {
+          "id": "admin-ch3-judicial-institutional-3",
+          "type": "concept",
+          "title": "Most administrative law is a compromise between the models",
+          "summary": "Actual systems mix safeguards and flexible internal agency teamwork, especially for final decision responsibility, ex parte contacts, legislative pressure, separation of functions, bias and judge independence.",
+          "laymanExplanation": "Neither complete courtroom rules nor total free-form teamwork prevails in every setting.",
+          "legalExplanation": "Determine which function is under examination, whether the case is Type A or B/C, whether adjudicative facts or policy are at issue, and which model's values control.",
+          "page": "99–100",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 99–100",
+          "examTrap": "The model labels are analytical frameworks, not independently binding legal tests."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch3-personal-responsibility",
+      "title": "§ 3.3.1 — Decisionmaker Responsibility (pp. 100–106)",
+      "chapterGroup": "admin-ch3",
+      "description": "Classes 9–10 · Morgan I–IV, disclosure of proposals, record exclusivity, school teacher Rex assigned problem.",
+      "entries": [
+        {
+          "id": "admin-ch3-personal-responsibility-1",
+          "type": "rule",
+          "title": "Morgan I — 'the one who decides must hear'",
+          "summary": "The official responsible for final adjudication must personally consider and appraise the record and argument that justify the decision; it is permissible for examiners and staff to gather and summarize evidence.",
+          "laymanExplanation": "The boss can use employees to gather evidence but cannot blindly sign their answer.",
+          "legalExplanation": "This is a statutory 'full hearing' principle articulated before the federal APA. It does not demand that the agency head attend every hearing or read every transcript page; decision must reflect conscientious consideration of evidentiary material.",
+          "page": "100–102",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 100–102",
+          "rule": "Final decisionmaker must consider and appraise evidence and argument underlying adjudicatory determination, not rubber-stamp an unseen case.",
+          "examTrap": "'Must hear' is not literally 'must personally observe live witnesses'."
+        },
+        {
+          "id": "admin-ch3-personal-responsibility-2",
+          "type": "case",
+          "title": "Morgan v. United States (Morgan I), 298 U.S. 468 (1936)",
+          "summary": "No. The official who finally decides must meaningfully consider and appraise the evidentiary record and arguments, even if staff gathered or analyzed the evidence.",
+          "laymanExplanation": "Simply: No. The official who finally decides must meaningfully consider and appraise the evidentiary record and arguments, even if staff gathered or analyzed the evidence.",
+          "legalExplanation": "Issue: Does a statutory 'full hearing' permit an official who has not considered the evidence or argument to issue the final administrative determination? Reasoning: A quasi-judicial hearing is not meaningful if the authorized decisionmaker is not guided by the evidentiary record. The agency is not an impersonal collective substitute for assigned decisionmaker responsibility; staff assistance remains permissible.",
+          "page": "100–102",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 100–102",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpt reproduced in supplied reading",
+          "facts": "USDA stockyard-ratemaking proceedings were heard by an examiner; secretary ultimately approved rate order despite allegations he never reviewed evidence, briefs or argument. A separate acting secretary heard argument without receiving decision authority.",
+          "issue": "Does a statutory 'full hearing' permit an official who has not considered the evidence or argument to issue the final administrative determination?",
+          "holding": "No. The official who finally decides must meaningfully consider and appraise the evidentiary record and arguments, even if staff gathered or analyzed the evidence.",
+          "reasoning": "A quasi-judicial hearing is not meaningful if the authorized decisionmaker is not guided by the evidentiary record. The agency is not an impersonal collective substitute for assigned decisionmaker responsibility; staff assistance remains permissible.",
+          "rule": "A final administrative adjudicator cannot merely rubber-stamp a decision prepared without personal substantive record consideration.",
+          "examApplication": "Use when final agency head appears to have decided without record review; analyze alternatives to literal full-transcript reading.",
+          "examTrap": "Morgan I reached the adequacy of allegations at motion-to-dismiss stage, not a final finding that the USDA secretary failed to comply."
+        },
+        {
+          "id": "admin-ch3-personal-responsibility-3",
+          "type": "case",
+          "title": "Morgan v. United States (Morgan II), 304 U.S. 1 (1938)",
+          "summary": "Reading summaries, party briefs, and conferring with staff who reviewed evidence sufficiently complied with Morgan I.",
+          "laymanExplanation": "Reading summaries, party briefs, and conferring with staff who reviewed evidence sufficiently complied with Morgan I.",
+          "legalExplanation": "The same case also stressed fair notice of the government's proposed case and opportunity to meet it; proposed decisions are normally disclosed in APA proceedings.",
+          "page": "102–104",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 102–104",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Do not assume personal review must equal independent original transcript reading."
+        },
+        {
+          "id": "admin-ch3-personal-responsibility-4",
+          "type": "framework",
+          "title": "Practical ways to reconcile Morgan with modern agencies",
+          "summary": "Options include final adjudication by ALJ, discretionary agency-head review, delegation to a judicial officer, intermediate appellate boards, and agency head reliance on accurate summaries.",
+          "laymanExplanation": "A cabinet secretary can review important cases, delegate the rest, or rely on properly prepared summaries.",
+          "legalExplanation": "Each institutional design trades final policymaking control against workload and the judicial-model preference for an independently engaged adjudicator.",
+          "page": "102–103",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 102–103",
+          "examApplication": "Assess whether the authorized final decider actually considered sufficiently complete and accurate information."
+        },
+        {
+          "id": "admin-ch3-personal-responsibility-5",
+          "type": "rule",
+          "title": "Proposed decisions, disclosure and objections",
+          "summary": "APA §§ 557(b), (c) generally require disclosure of proposed decisions and chance for exceptions before final agency action; outside APA, procedural due process and governing rules may impose narrower duties.",
+          "laymanExplanation": "The losing party often must see the hearing officer's findings before the final boss changes them.",
+          "legalExplanation": "Morgan II emphasized notice of the government's claims; Mackay Radio rejected automatic due process duty to issue proposed opinion without prejudice; Ballard highlights special-trial-judge report transparency under Tax Court rules.",
+          "page": "103–105",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 103–105",
+          "examTrap": "Do not overclaim that due process universally requires a written initial decision in every non-APA process."
+        },
+        {
+          "id": "admin-ch3-personal-responsibility-6",
+          "type": "case",
+          "title": "NLRB v. Mackay Radio & Telegraph Co., 304 U.S. 333 (1938)",
+          "summary": "Due process did not categorically require a proposed decision absent demonstrable prejudice.",
+          "laymanExplanation": "Due process did not categorically require a proposed decision absent demonstrable prejudice.",
+          "legalExplanation": "Book contrasts Morgan II's fairness concern with a narrower constitutional floor.",
+          "page": "103–104",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 103–104",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Mention prejudice when claimant lacked intermediate report."
+        },
+        {
+          "id": "admin-ch3-personal-responsibility-7",
+          "type": "case",
+          "title": "Ballard v. Commissioner, 544 U.S. 40 (2005)",
+          "summary": "Tax Court could not conceal special trial judge's report under its governing rules and avoid scrutiny of credibility findings.",
+          "laymanExplanation": "Tax Court could not conceal special trial judge's report under its governing rules and avoid scrutiny of credibility findings.",
+          "legalExplanation": "Special trial judge observed witnesses; ultimate judge reversed credibility conclusions without disclosing the first report. Court stressed reporting transparency.",
+          "page": "104–105",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 104–105",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Distinguish interpretation of court rules from absolute constitutional requirement."
+        },
+        {
+          "id": "admin-ch3-personal-responsibility-8",
+          "type": "case",
+          "title": "Mazza v. Cavicchia, 105 A.2d 545 (N.J. 1954)",
+          "summary": "Undisclosed hearing-officer recommendations to license-revoking decisionmaker offended adjudicative fair play and exclusive-record norms.",
+          "laymanExplanation": "Undisclosed hearing-officer recommendations to license-revoking decisionmaker offended adjudicative fair play and exclusive-record norms.",
+          "legalExplanation": "Textbook raises whether a confidential recommended decision is functionally like untested testimony.",
+          "page": "105",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 105",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Connect to Ballard and ex parte record concerns."
+        },
+        {
+          "id": "admin-ch3-personal-responsibility-9",
+          "type": "case",
+          "title": "United States v. Morgan (Morgan IV), 313 U.S. 409 (1941)",
+          "summary": "Judges normally cannot depose high-level adjudicators about internal decision mental processes.",
+          "laymanExplanation": "Judges normally cannot depose high-level adjudicators about internal decision mental processes.",
+          "legalExplanation": "Morgan IV rejected intensive questioning of Secretary of Agriculture's private deliberations; protects judicial and administrative decisional integrity.",
+          "page": "105–106",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 105–106",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Combine presumption of regularity with exceptions requiring strong external indications."
+        },
+        {
+          "id": "admin-ch3-personal-responsibility-10",
+          "type": "case",
+          "title": "Citizens to Preserve Overton Park v. Volpe, 401 U.S. 402 (1971)",
+          "summary": "Only a strong showing of bad faith or improper behavior permits inquiry into administrative decisionmaker mental processes.",
+          "laymanExplanation": "Only a strong showing of bad faith or improper behavior permits inquiry into administrative decisionmaker mental processes.",
+          "legalExplanation": "A challenger cannot merely ask to depose the official to find out whether they truly read the file.",
+          "page": "106",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 106",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Distinguish legitimate record review from forbidden fishing expedition."
+        },
+        {
+          "id": "admin-ch3-personal-responsibility-11",
+          "type": "rule",
+          "title": "Exclusive record and official-notice exception",
+          "summary": "Decisionmakers in record-based adjudication cannot rely on unadmitted factual evidence; official notice may be taken with an opportunity for rebuttal.",
+          "laymanExplanation": "An agency cannot secretly rely on outside facts while pretending it decided only the hearing record.",
+          "legalExplanation": "APA § 556(e) makes transcript, exhibits, and filed papers the exclusive decisional record; relevant official-notice safeguards apply.",
+          "page": "105–106",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 105–106",
+          "examApplication": "Find whether a factual basis came from admitted materials, proper official notice, or impermissible outside communications."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch3-ex-parte",
+      "title": "§ 3.3.2 — Ex Parte Communications (pp. 106–116)",
+      "chapterGroup": "admin-ch3",
+      "description": "Classes 9–10 · APA §§ 551(14), 557(d); PATCO; remedies; state law, White House and interest tests.",
+      "entries": [
+        {
+          "id": "admin-ch3-ex-parte-1",
+          "type": "rule",
+          "title": "Ex parte restrictions — formal APA adjudication",
+          "summary": "APA § 557(d) bars nonpublic merits-related communications between an interested person outside the agency and a decisional employee in an applicable formal adjudication.",
+          "laymanExplanation": "People with special stakes in a pending case should not privately lobby the judge about who should win.",
+          "legalExplanation": "§ 551(14) defines ex parte contact as an off-public-record oral/written communication without reasonable prior notice; ordinary status requests are excepted, but disguised pressure can be merits-related.",
+          "page": "107–109",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 107–109",
+          "elements": "(1) Proceedings subject to § 557(d); (2) interested outside person; (3) agency adjudicative decider; (4) no prior notice/public record; (5) communication relevant to merits.",
+          "examTrap": "A status request may be permissible, but procedural labels do not immunize concealed merits pressure."
+        },
+        {
+          "id": "admin-ch3-ex-parte-2",
+          "type": "definition",
+          "title": "Interested person, outside the agency, relevant to merits",
+          "summary": "Interested person need not be a named party: special stake beyond public's general interest suffices; merits relevance is construed broadly to include more than specific facts in issue.",
+          "laymanExplanation": "An industry leader can count as interested even without being a named litigant.",
+          "legalExplanation": "PATCO treats an outside union president as interested because of his distinctive stake in labor-policy and union consequences; status and procedural inquiries are generally exempt if genuinely non-merits-related.",
+          "page": "108–111",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 108–111",
+          "examApplication": "Apply interest threshold to outsider, government official, trade union, public member; separately ask whether content sought to affect pending adjudication."
+        },
+        {
+          "id": "admin-ch3-ex-parte-3",
+          "type": "case",
+          "title": "Professional Air Traffic Controllers Organization (PATCO) v. FLRA, 685 F.2d 547 (D.C. Cir. 1982)",
+          "summary": "Merits-related private attempts to influence adjudication are improper, but agency adjudication affected by such contacts is voidable rather than automatically void; on these facts the court did not vacate the decision.",
+          "laymanExplanation": "Simply: Merits-related private attempts to influence adjudication are improper, but agency adjudication affected by such contacts is voidable rather than automatically void; on these facts the court did not vacate the decision.",
+          "legalExplanation": "Issue: Were the off-record contacts forbidden under § 557(d) and, if so, must the resulting FLRA decision automatically be vacated? Reasoning: Lewis's ostensibly procedural contacts were close but did not prejudice PATCO because formal motion practice allowed opposition. Shanker's merits lobbying was plainly improper and Applewhaite should have stopped it, but no credible influence or party benefit justified vacatur.",
+          "page": "107–112",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 107–112",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpt reproduced in supplied reading",
+          "facts": "During formal FLRA adjudication over PATCO's illegal strike, Transportation Secretary Lewis privately pressed for prompt handling; labor leader Shanker dined with commissioner Applewhaite and urged leniency in pending union decertification.",
+          "issue": "Were the off-record contacts forbidden under § 557(d) and, if so, must the resulting FLRA decision automatically be vacated?",
+          "holding": "Merits-related private attempts to influence adjudication are improper, but agency adjudication affected by such contacts is voidable rather than automatically void; on these facts the court did not vacate the decision.",
+          "reasoning": "Lewis's ostensibly procedural contacts were close but did not prejudice PATCO because formal motion practice allowed opposition. Shanker's merits lobbying was plainly improper and Applewhaite should have stopped it, but no credible influence or party benefit justified vacatur.",
+          "rule": "Evaluate § 557(d) ex parte contacts and apply equitable taint/prejudice analysis; inappropriate contact alone does not necessarily require remand.",
+          "examApplication": "Classify each contact, then analyze seriousness, effect on decision, benefitting party, opportunity to respond, and value of a new hearing.",
+          "examTrap": "Shanker's misconduct was unmistakable; absence of vacatur is a remedies conclusion, not judicial approval."
+        },
+        {
+          "id": "admin-ch3-ex-parte-4",
+          "type": "rule",
+          "title": "PATCO remedies and equitable vacatur factors",
+          "summary": "Agency remedies include public disclosure and, in appropriate cases, a show-cause requirement/adverse treatment of violating party; judicial courts consider whether irrevocable taint makes decision unfair.",
+          "laymanExplanation": "Improper secret lobbying should be exposed; overturning the decision depends on whether it actually compromised fairness.",
+          "legalExplanation": "Assess gravity; potential influence; whether violator benefited; non-disclosure and lost response opportunity; whether vacatur/remand would serve a purpose. Court retains equitable discretion, rather than mechanical automatic nullity.",
+          "page": "109–110",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 109–110",
+          "elements": "Gravity; possible influence; benefit; opposing party's opportunity to respond; utility of new proceedings.",
+          "examTrap": "Don't confuse administrative disclosure and sanctions with automatic judicial invalidation."
+        },
+        {
+          "id": "admin-ch3-ex-parte-5",
+          "type": "rule",
+          "title": "State MSAPA § 13 differs from federal APA § 557(d)",
+          "summary": "The 1961 MSAPA restricts communications on fact issues with any person/party and on law issues with a party/representative unless parties can participate, while permitting agency-member consultation and personal assistants.",
+          "laymanExplanation": "Some state rules use different categories of off-record communications than the federal test.",
+          "legalExplanation": "Compare protected subject matter (fact versus law), sender's identity, exceptions for other agency members and assistant advice, and the federal interested-person/merits standard.",
+          "page": "112–113",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 112–113",
+          "examApplication": "Choose law of the governing sovereign before applying PATCO."
+        },
+        {
+          "id": "admin-ch3-ex-parte-6",
+          "type": "case",
+          "title": "Johnson v. Department of the Air Force, 50 F.4th 110 (Fed. Cir. 2022)",
+          "summary": "Undisclosed off-record evidence to an employment hearing officer may violate constitutional due process even outside APA § 557(d).",
+          "laymanExplanation": "Undisclosed off-record evidence to an employment hearing officer may violate constitutional due process even outside APA § 557(d).",
+          "legalExplanation": "Supports a due-process backstop when a non-Type A decisionmaker receives new evidence not revealed to the employee.",
+          "page": "113",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 113",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Do not require Type A for every objection to unfair secret factual submissions."
+        },
+        {
+          "id": "admin-ch3-ex-parte-7",
+          "type": "case",
+          "title": "Idaho Historic Preservation Council v. City of Boise, 8 P.3d 646 (Idaho 2000)",
+          "summary": "Land-use appellate decision reversed after city council contacts with constituents were disclosed only generally, not as to content or speakers.",
+          "laymanExplanation": "Land-use appellate decision reversed after city council contacts with constituents were disclosed only generally, not as to content or speakers.",
+          "legalExplanation": "Majority found due process violation; dissent emphasized practical impossibility of cataloging every constituent contact with elected officials.",
+          "page": "113–115",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 113–115",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Contrast community politics and judicialized land-use decisions."
+        },
+        {
+          "id": "admin-ch3-ex-parte-8",
+          "type": "case",
+          "title": "Portland Audubon Society v. Endangered Species Committee, 984 F.2d 1534 (9th Cir. 1993)",
+          "summary": "President and White House aides were treated as outside interested persons for purposes of a formal adjudication's ex parte restrictions.",
+          "laymanExplanation": "President and White House aides were treated as outside interested persons for purposes of a formal adjudication's ex parte restrictions.",
+          "legalExplanation": "God Squad decided ESA timber-habitat exception; statute vested decisional authority in Committee, not President. Compare executive role in ordinary rulemaking.",
+          "page": "114–115",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 114–115",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook notes (not reproduced opinion)",
+          "examApplication": "Contrast Sierra Club v. Costle's allowance of presidential involvement in rulemaking."
+        },
+        {
+          "id": "admin-ch3-ex-parte-9",
+          "type": "concept",
+          "title": "Internal versus external ex parte contacts",
+          "summary": "§ 3.3.2 focuses on outsiders lobbying adjudicators; § 3.3.4 concerns internal agency advisers and whether they previously served investigative/prosecutorial roles.",
+          "laymanExplanation": "An agency official talking to outsiders raises different rules from speaking with agency colleagues.",
+          "legalExplanation": "Determine if communicator is outside agency or inside; for internal contacts ask whether staff served as advocate in same or factually related case and whether separation-of-functions rules apply.",
+          "page": "106–107, 115",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, pp. 106–107, 115",
+          "examTrap": "An authorized internal policy adviser is not automatically an improper § 557(d) external interested person."
+        }
+      ]
     }
   ],
   "problems": [
@@ -612,6 +926,106 @@
       "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 98",
       "kind": "Textbook Notes and Questions — UNSOLVED",
       "prompt": "Kate earned almost all her credits and clinical training in Madison but received a Dominican Republic diploma after a harassment-driven transfer. Challenge the state medical board's categorical no-foreign-graduate licensing rule, hearing denial, and any possible waiver or scope argument. Leave unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q12",
+      "topicId": "admin-ch3-judicial-institutional",
+      "title": "Judicialized versus institutional goals",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 99–100",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Which model better promotes agency effectiveness and litigant legitimacy? Compare the tradeoffs when agencies set policy through adjudication and decide millions of disputes.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q13",
+      "topicId": "admin-ch3-personal-responsibility",
+      "title": "What does Morgan I require from a decisionmaker?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 102–103",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Compare literal attendance at oral hearing, summaries, delegation, and discretionary appeal; when is consideration adequate?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q14",
+      "topicId": "admin-ch3-personal-responsibility",
+      "title": "Confidential hearing-officer reports and proposed decisions",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 103–105",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Assess whether a litigant must see and challenge a hearing officer's proposed decision outside the APA, comparing Morgan II, Mackay Radio, Ballard and Mazza.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q15",
+      "topicId": "admin-ch3-personal-responsibility",
+      "title": "Probing agency mental processes",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 105–106",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "How can an opponent prove the agency head never considered the record while respecting Morgan IV and Overton Park restrictions on mental-process discovery?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q16",
+      "topicId": "admin-ch3-personal-responsibility",
+      "title": "Rex's teacher dismissal — professor-assigned problem, p. 106",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 106",
+      "kind": "Professor-assigned problem (p. 106) — UNSOLVED",
+      "prompt": "Rex, a tenured teacher, won a recommendation against dismissal after a recorded hearing, but the board fired him that evening without disclosing the recommendation or allowing further argument. Analyze final decisionmaker record consideration, proposed-decision disclosure, time for review and appropriate remedy, considering Bates v. Sponberg. Leave unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q17",
+      "topicId": "admin-ch3-ex-parte",
+      "title": "Lewis's procedural call versus merits pressure",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 113–114",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Was the cabinet secretary's request for faster adjudication a mere permitted status/procedural request, or a disguised effort to pressure the result?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q18",
+      "topicId": "admin-ch3-ex-parte",
+      "title": "Shanker's dinner and interested-person status",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 114",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Why was Shanker interested under § 557(d)? When should Applewhaite have ended discussion; compare social friendship with lobbying pending merits.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q19",
+      "topicId": "admin-ch3-ex-parte",
+      "title": "President/White House involvement",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 114–115",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Compare Portland Audubon adjudication restrictions with rulemaking contacts and agency-head political accountability.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q20",
+      "topicId": "admin-ch3-ex-parte",
+      "title": "PATCO sanctions versus vacatur",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 115",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "Even if Shanker's merits lobbying violated § 557(d), what administrative steps and judicial remedies were available? Assess prejudice, fairness and deterrence.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch3-q21",
+      "topicId": "admin-ch3-ex-parte",
+      "title": "Madison gas utility ex parte contacts — § 3.3.2 Note 7",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), ch. 3, p. 115–116",
+      "kind": "Textbook Notes and Questions — UNSOLVED",
+      "prompt": "State utility commissioners heard a private consumer-group rate-base presentation, then ruled for consumers. Analyze validity and remand under 1961 MSAPA; change facts to company benefiting, elected commissioners and federal APA. DO NOT SOLVE.",
       "status": "Not attempted",
       "notes": ""
     }
