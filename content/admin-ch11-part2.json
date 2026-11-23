@@ -1,0 +1,527 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)",
+  "coverage": {
+    "uploaded": "721–783",
+    "included": "745–763",
+    "assignment": "Lubbers syllabus VI.C(4)(a–b): Finality pp. 746–752; Exhaustion pp. 752–763; chapter introductory pp. 745–746",
+    "sourceNote": "Portela-Gonzalez is excerpted at p. 752, although syllabus cross-reference lists p. 778."
+  },
+  "topics": [
+    {
+      "id": "admin-ch11-timing-overview",
+      "title": "§ 11.2.1 — Timing Doctrines: Overview (pp. 745–746)",
+      "chapterGroup": "admin-ch11",
+      "description": "Distinguish four independent timing hurdles; classify challenge before choosing test.",
+      "entries": [
+        {
+          "id": "admin-ch11-timing-overview-e1",
+          "type": "rule",
+          "title": "Four timing doctrines at a glance",
+          "page": "745–746",
+          "summary": "Finality asks whether agency reached definitive decision; exhaustion asks whether litigant used available administrative process; ripeness asks whether dispute is fit for current judicial resolution; primary jurisdiction asks whether agency should decide issues first in suit initially cognizable by court.",
+          "laymanExplanation": "Is agency finished? Did you complete agency appeals? Is case too early or abstract? Should a specialist agency go first?",
+          "legalExplanation": "Each serves distinct role and may overlap. Important: primary jurisdiction is often invoked in dispute between private parties in court, not an APA review action.",
+          "examApplication": "Run four separate inquiries where relevant rather than using 'premature' as unexplained conclusion.",
+          "examTrap": "A final agency action can still be unripe, and party may still fail exhaustion.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-timing-overview-e2",
+          "type": "rule",
+          "title": "Timing is distinct from Article III standing and statutory preclusion",
+          "page": "745–746",
+          "summary": "Even plaintiffs with injury and reviewable legal claims can be delayed by nonfinality, unexhausted remedies, unripe controversy or agency-first coordination.",
+          "laymanExplanation": "Having right to sue doesn't always mean you can sue today.",
+          "legalExplanation": "Chapter 10 reviewability and Chapter 11 standing precede timing tests; avoid confusing doctrinal labels.",
+          "examApplication": "Exam checklist: standing → jurisdiction/cause → reviewability → timing → merits and remedies.",
+          "examTrap": "Do not use finality to deny standing, or primary jurisdiction to claim no original court power where both have concurrent jurisdiction.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        }
+      ]
+    },
+    {
+      "id": "admin-ch11-final-agency-action",
+      "title": "§ 11.2.2 — Final Agency Action; FTC v. Standard Oil (pp. 746–749)",
+      "chapterGroup": "admin-ch11",
+      "description": "APA § 704 and practical effect, initial FTC enforcement complaint, judicial interference, exhaustion distinction.",
+      "entries": [
+        {
+          "id": "admin-ch11-final-agency-action-e1",
+          "type": "rule",
+          "title": "APA § 704: final agency action ordinarily required",
+          "page": "746–749",
+          "summary": "In absence of directly reviewable special statute, court usually waits for definitive agency outcome; preliminary procedural or intermediate actions can be reviewed later with final action.",
+          "laymanExplanation": "An agency filing charges isn't usually the same as a final decision that you violated law.",
+          "legalExplanation": "Exclusivity/agency integrity avoid piecemeal court interruptions. § 704 lets earlier rulings be challenged on judicial review of final action.",
+          "examApplication": "Identify procedural phase and whether agency has fixed obligations or legal consequences now.",
+          "examTrap": "Substantial cost of defending agency case generally not enough by itself.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-final-agency-action-e2",
+          "type": "case",
+          "title": "FTC v. Standard Oil Co. of California (SOCAL), 449 U.S. 232 (1980)",
+          "page": "746–749",
+          "summary": "No. Complaint merely initiated investigation/adjudication and did not conclusively determine rights or impose legal obligations beyond costs and burdens of defending case. Court held immediate review improper.",
+          "laymanExplanation": "An initial enforcement complaint is not a final agency action simply because it is expensive to defend, nor does exhaustion of a preliminary issue make the complaint final.",
+          "legalExplanation": "The complaint's 'reason to believe' was threshold accusation, not definitive merits adjudication like Abbott's binding FDA labeling regulation. Litigation expense and inconvenience were ordinary defense burdens, not independent final legal effect. Early district court review would obstruct agencies' correction of errors and permit repetitive interlocutory lawsuits. Socal's exhaustion of initial dismissal motion did not transform complaint into finality.",
+          "examApplication": "Apply Bennett later two-part test, compare legally binding FDA regulation, describe interim harm and opportunity for final-order review.",
+          "examTrap": "Do not claim an FTC initial complaint is illegal because it is nonfinal; court simply deferred judicial review.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpted in assigned textbook",
+          "facts": "FTC issued administrative complaint against major oil firms after finding 'reason to believe' unfair competition during 1973 gas shortages. Socal said political pressure tainted initial decision and tried federal court before completion of FTC hearing. FTC rejected preliminary motion to dismiss; proceedings remained ongoing.",
+          "issue": "Was FTC issuance of complaint based on 'reason to believe' a final agency action permitting immediate APA judicial review?",
+          "holding": "No. Complaint merely initiated investigation/adjudication and did not conclusively determine rights or impose legal obligations beyond costs and burdens of defending case. Court held immediate review improper.",
+          "reasoning": "The complaint's 'reason to believe' was threshold accusation, not definitive merits adjudication like Abbott's binding FDA labeling regulation. Litigation expense and inconvenience were ordinary defense burdens, not independent final legal effect. Early district court review would obstruct agencies' correction of errors and permit repetitive interlocutory lawsuits. Socal's exhaustion of initial dismissal motion did not transform complaint into finality.",
+          "rule": "An initial enforcement complaint is not a final agency action simply because it is expensive to defend, nor does exhaustion of a preliminary issue make the complaint final."
+        },
+        {
+          "id": "admin-ch11-final-agency-action-e3",
+          "type": "rule",
+          "title": "Exhausting one issue does not make agency decision final",
+          "page": "748–749",
+          "summary": "Even where respondent moved to dismiss and agency refused, that does not transform initial complaint into conclusive order.",
+          "laymanExplanation": "Losing a motion to dismiss inside agency still leaves main case unfinished.",
+          "legalExplanation": "Socal specifically distinguished finality from exhaustion; later judicial review of final cease-and-desist order may consider intermediate rulings under § 704.",
+          "examApplication": "In hypothetical discuss both separately.",
+          "examTrap": "Don't combine 'used my administrative motion' with 'agency process over'.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-final-agency-action-e4",
+          "type": "rule",
+          "title": "Finality can consider immediate legal/practical effects",
+          "page": "747–749",
+          "summary": "Courts consider whether action definitively states agency position and imposes immediate legal consequences; practical costs alone generally less compelling than binding duties.",
+          "laymanExplanation": "A regulation forcing business to change labels now differs from a mere notice that hearing will happen.",
+          "legalExplanation": "Socal compared binding Abbott Labs regulations to FTC accusation; later Bennett formulation makes legally operative consequence central.",
+          "examApplication": "Identify changed legal status, right, obligation, penalties or safe harbor.",
+          "examTrap": "Not every serious economic consequence creates final agency action.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-final-agency-action-e5",
+          "type": "rule",
+          "title": "Intermediate actions generally reviewable after final agency decision",
+          "page": "749",
+          "summary": "APA § 704 allows nonfinal procedural rulings to be questioned on appeal from final order if agency's statute and review process so allow.",
+          "laymanExplanation": "You can often raise an earlier procedural problem once agency finishes.",
+          "legalExplanation": "Socal noted ability to develop additional record and review defects with final cease-and-desist order.",
+          "examApplication": "Preserve objections during agency case for later judicial review.",
+          "examTrap": "Some collateral structural constitutional challenges may qualify for earlier district-court review under Axon, Chapter 10.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        }
+      ]
+    },
+    {
+      "id": "admin-ch11-finality-bennett",
+      "title": "§ 11.2.2 Notes — Bennett, Hawkes and Intermediate Decisions (pp. 749–752)",
+      "chapterGroup": "admin-ch11",
+      "description": "Modern two-part finality, greenlighting, wetlands jurisdictional determinations, and MIC/Security insurance hypothetical.",
+      "entries": [
+        {
+          "id": "admin-ch11-finality-bennett-e1",
+          "type": "rule",
+          "title": "Bennett two-prong final agency action test",
+          "page": "750",
+          "summary": "(1) Agency's decisionmaking has reached consummation, not tentative or interlocutory position; and (2) action determines rights/obligations or has legal consequences.",
+          "laymanExplanation": "Agency has finished making a decision AND that decision changes something legally important.",
+          "legalExplanation": "Bennett v Spear's formulation, generally governing APA § 704; evaluate administrative process and real binding effects.",
+          "examApplication": "Apply prong 1 and prong 2 separately to a complaint, binding interpretation, wetland determination or rule.",
+          "examTrap": "A strongly worded preliminary letter may still fail legal consequences prong.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-finality-bennett-e2",
+          "type": "case",
+          "title": "Bennett v. Spear, 520 U.S. 154 (1997) — finality formulation",
+          "page": "750",
+          "summary": "Supreme Court articulated the two-part finality test of consummation and rights/obligations or legal consequences.",
+          "laymanExplanation": "Two-part rule for when agency is finished.",
+          "legalExplanation": "Textbook quotes formulation; full Bennett opinion not reproduced.",
+          "examApplication": "",
+          "examTrap": "",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)",
+          "assignedOpinion": false,
+          "sourceRole": "Case discussed in textbook notes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch11-finality-bennett-e3",
+          "type": "rule",
+          "title": "FTC greenlighting versus final finding",
+          "page": "750–751",
+          "summary": "Agency heads' initial authorization of enforcement after hearing only investigators does not equal ultimate guilt finding after ALJ record and adversarial evidence.",
+          "laymanExplanation": "Commissioners can give prosecutors green light without deciding guilt.",
+          "legalExplanation": "Agency leaders later must weigh full record and ALJ; preliminary view raises bias questions but different evidentiary standards.",
+          "examApplication": "Contrast 'reason to believe' and preponderance standards.",
+          "examTrap": "Do not say every greenlighting exposure creates constitutional bias.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-finality-bennett-e4",
+          "type": "rule",
+          "title": "Hawkes positive wetlands jurisdictional determination is final",
+          "page": "751–752",
+          "summary": "Corps positive JD denies landowner a five-year safe harbor available with negative JD, producing appreciable immediate legal consequence.",
+          "laymanExplanation": "Official statement property is regulated wetland makes permit choice costly and legally significant.",
+          "legalExplanation": "Army Corps v Hawkes recognized direct legally operative consequences; Justice Ginsburg emphasized practical impact and definitive character.",
+          "examApplication": "Apply Bennett to positive JD, negative JD and informal agency advice.",
+          "examTrap": "Do not treat all nonbinding informal letters as binding JDs.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-finality-bennett-e5",
+          "type": "case",
+          "title": "U.S. Army Corps of Engineers v. Hawkes Co., 578 U.S. 590 (2016)",
+          "page": "751–752",
+          "summary": "Positive wetland JD meets APA finality through denial of statutory/regulatory safe harbor.",
+          "laymanExplanation": "Positive JD immediately affects regulated landowner.",
+          "legalExplanation": "Textbook notes dispute over whether binding effect reaches EPA, but majority found sufficient consequence.",
+          "examApplication": "",
+          "examTrap": "",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)",
+          "assignedOpinion": false,
+          "sourceRole": "Case discussed in textbook notes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch11-finality-bennett-e6",
+          "type": "rule",
+          "title": "Urgent nonfinal decisions: DDT suspension examples",
+          "page": "751",
+          "summary": "Older cases reviewed EPA's failure to suspend pesticide while long cancellation continued because health injury might occur first; textbook cautions uncertain validity after Bennett.",
+          "laymanExplanation": "Rare acute harms may lead to immediate oversight, but general rules still require finality.",
+          "legalExplanation": "Environmental Defense Fund v Hardin/Ruckelshaus precede Bennett; don't assume same treatment now.",
+          "examApplication": "Compare immediate irreparable health harm with ordinary procedural delay.",
+          "examTrap": "Do not represent those older cases as modern universal finality exception.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        }
+      ]
+    },
+    {
+      "id": "admin-ch11-exhaustion-portela",
+      "title": "§ 11.2.3 — Exhaustion; Portela-Gonzalez (pp. 752–758)",
+      "chapterGroup": "admin-ch11",
+      "description": "Exhaustion rationales, mandatory versus judicially flexible exhaustion, McCarthy exceptions, specific futility proof.",
+      "entries": [
+        {
+          "id": "admin-ch11-exhaustion-portela-e1",
+          "type": "rule",
+          "title": "Exhaustion of administrative remedies basic rule",
+          "page": "753–754",
+          "summary": "Before court, person ordinarily must pursue each required administrative appeal made available by statute or governing rule.",
+          "laymanExplanation": "Usually climb all necessary agency appeal steps before going to judge.",
+          "legalExplanation": "Promotes agency self-correction, record development, administrative autonomy and judicial efficiency. Distinguish legal mandate from prudential exhaustion.",
+          "examApplication": "List each available step and identify which party skipped; check statutes and APA § 704.",
+          "examTrap": "Not every optional reconsideration request is mandatory.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-exhaustion-portela-e2",
+          "type": "case",
+          "title": "Portela-Gonzalez v. Secretary of the Navy, 109 F.3d 74 (1st Cir. 1997)",
+          "page": "752–757",
+          "summary": "No. Appeal was not demonstrably futile; final official had reversed other terminations, could fully remedy dismissal and had 60-day timetable. District court had no sound basis to excuse exhaustion, so action should have been dismissed for nonexhaustion.",
+          "laymanExplanation": "Discretionary exhaustion can be excused only on concrete facts showing compelling exceptions, not merely low likelihood of prevailing at next appeal.",
+          "legalExplanation": "Where Congress has not made exhaustion jurisdictional, courts can sometimes waive it for indefinite delay/irreparable injury, lack of meaningful agency remedy, or demonstrable agency bias/futility. Portela offered only pessimistic prediction, not objective foreclosing of relief; ordinary efficiency alone would swallow exhaustion. The Navy Exchange was excluded from APA, so Darby § 704 did not control.",
+          "examApplication": "Identify final omitted appeal, its available remedy, prior reversals, timetable, procedural protection and actual futility evidence.",
+          "examTrap": "Do not copy Portela result mechanically to federal APA-governed agencies without examining Darby and § 704.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpted in assigned textbook",
+          "facts": "Longtime Navy Exchange sales manager Portela canceled a layaway transaction after postholiday markdown, repurchased clothing more cheaply and was fired for alleged unauthorized discount policy. She completed three administrative levels including evidentiary hearing but skipped one final appeal to Deputy Assistant Secretary before filing suit, believing further appeal futile.",
+          "issue": "Could she bypass last available administrative appeal because three defeats made success unlikely and district court thought another appeal inefficient?",
+          "holding": "No. Appeal was not demonstrably futile; final official had reversed other terminations, could fully remedy dismissal and had 60-day timetable. District court had no sound basis to excuse exhaustion, so action should have been dismissed for nonexhaustion.",
+          "reasoning": "Where Congress has not made exhaustion jurisdictional, courts can sometimes waive it for indefinite delay/irreparable injury, lack of meaningful agency remedy, or demonstrable agency bias/futility. Portela offered only pessimistic prediction, not objective foreclosing of relief; ordinary efficiency alone would swallow exhaustion. The Navy Exchange was excluded from APA, so Darby § 704 did not control.",
+          "rule": "Discretionary exhaustion can be excused only on concrete facts showing compelling exceptions, not merely low likelihood of prevailing at next appeal."
+        },
+        {
+          "id": "admin-ch11-exhaustion-portela-e3",
+          "type": "rule",
+          "title": "McCarthy three broad discretionary exhaustion exceptions",
+          "page": "754–755",
+          "summary": "Court may relax exhaustion when (1) delay/irreparable injury, (2) agency unable to grant meaningful relief, or (3) objectively demonstrable bias or predetermined decision.",
+          "laymanExplanation": "Skip another agency appeal only if waiting causes serious harm, agency cannot help, or process truly fixed against you.",
+          "legalExplanation": "Nonexclusive balancing considerations; strong facts required. Statutory jurisdictional exhaustion stricter than this doctrine.",
+          "examApplication": "Apply individually with evidence, timelines and remedial authority.",
+          "examTrap": "Having lost earlier levels does not establish biased final reviewer.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-exhaustion-portela-e4",
+          "type": "rule",
+          "title": "Futility must be demonstrable reality",
+          "page": "755–756",
+          "summary": "Further agency appeal can be excused for futility only where all reasonable possibilities of relief are effectively closed.",
+          "laymanExplanation": "'I know they'll deny me again' is not enough; show no genuine possibility of relief.",
+          "legalExplanation": "Portela failed because final reviewer had sometimes reversed terminations and was shown impartial.",
+          "examApplication": "Look for agency formal categorical refusal, lack of power, predetermined verdict or repeated binding policy.",
+          "examTrap": "Do not equate long appeal process alone with futility.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-exhaustion-portela-e5",
+          "type": "rule",
+          "title": "Exhaustion promotes efficiency despite an extra procedural step",
+          "page": "756–757",
+          "summary": "Using agency remedy gives agency chance to rectify error and may avoid judicial litigation; savings from skipping step rarely justify bypass.",
+          "laymanExplanation": "One more appeal costs time but might eliminate court case.",
+          "legalExplanation": "Portela court rejected lower court's 'waste of judicial resources' argument.",
+          "examApplication": "Consider record quality, agency expertise and chances of correction.",
+          "examTrap": "Don't make generalized efficiency an unlimited exception.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        }
+      ]
+    },
+    {
+      "id": "admin-ch11-exhaustion-apa",
+      "title": "§ 11.2.3 Notes — Darby, Constitutional Issues and Issue Exhaustion (pp. 757–763)",
+      "chapterGroup": "admin-ch11",
+      "description": "APA § 704 limits exhaustion, Darby agency appeal requirements, Sims, Patsy, rulemaking issue preservation, Ann welfare problem.",
+      "entries": [
+        {
+          "id": "admin-ch11-exhaustion-apa-e1",
+          "type": "rule",
+          "title": "Statutory jurisdictional exhaustion versus judge-made exceptions",
+          "page": "757–759",
+          "summary": "When Congress expressly makes exhaustion jurisdictional, court cannot waive; where requirement is nonjurisdictional or prudential, courts can consider recognized exceptions subject to controlling statute.",
+          "laymanExplanation": "First ask whether legislature made agency route a must to confer court power.",
+          "legalExplanation": "Avocados Plus noted Congress needs clear wording to make exhaustion jurisdictional; courts balance McCarthy factors in flexible cases.",
+          "examApplication": "Read statutory terms before claiming futility exception.",
+          "examTrap": "Portela had APA exclusion; its discretionary approach is not always governing federal APA action.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-exhaustion-apa-e2",
+          "type": "rule",
+          "title": "Darby / APA § 704 prohibits extra exhaustion absent rule satisfying conditions",
+          "page": "759–760",
+          "summary": "For APA-governed final agency action, additional intra-agency appeal is required before judicial review only if a statute expressly requires it OR agency has rule requiring appeal AND initial decision remains inoperative during review.",
+          "laymanExplanation": "If agency says 'you may appeal' but not 'must,' you usually can sue after final decision.",
+          "legalExplanation": "Darby v Cisneros held HUD appeal optional despite stay on appeal; HUD later adopted mandatory rule. APA also does not require reconsideration application to judicial review.",
+          "examApplication": "Identify (1) final agency decision, (2) appeal mandatory by rule, (3) stay of decision during appeal, and express statute exception.",
+          "examTrap": "A discretionary appeal with a possible stay does not automatically require exhaustion.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-exhaustion-apa-e3",
+          "type": "case",
+          "title": "Darby v. Cisneros, 509 U.S. 137 (1993)",
+          "page": "759–760",
+          "summary": "HUD optional appeal to Secretary not prerequisite to judicial review under § 704; later HUD changed rule to require exhaustion.",
+          "laymanExplanation": "Optional agency appeal need not delay court.",
+          "legalExplanation": "Distinguish Portela APA exclusion.",
+          "examApplication": "",
+          "examTrap": "",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)",
+          "assignedOpinion": false,
+          "sourceRole": "Case discussed in textbook notes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch11-exhaustion-apa-e4",
+          "type": "rule",
+          "title": "Agency reconsideration and finality",
+          "page": "760",
+          "summary": "APA generally does not require party to seek reconsideration; if agency actually reopens review, previously announced decision may cease to be final until reconsideration ends.",
+          "laymanExplanation": "You normally needn't ask agency to rethink everything, but a live reconsideration can affect when final order exists.",
+          "legalExplanation": "Book contrasts state rules (Illinois requires, California doesn't); ICC v Brotherhood of Locomotive Engineers notes reopened matter issues.",
+          "examApplication": "Determine whether agency is reconsidering rather than merely receiving optional request.",
+          "examTrap": "Do not assume all states follow federal APA § 704.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-exhaustion-apa-e5",
+          "type": "rule",
+          "title": "Issues of pure law/jurisdiction usually require exhaustion federally",
+          "page": "759",
+          "summary": "Under general federal law, claim that agency lacks jurisdiction does not by itself excuse exhaustion of required process; states may differ.",
+          "laymanExplanation": "Even if you say 'this agency has no power over me,' federal law often requires you to raise it there first.",
+          "legalExplanation": "Myers v Bethlehem Shipbuilding enforced ordinary agency process despite jurisdictional challenge; New Jersey case law may recognize a different legal-question exception.",
+          "examApplication": "Specify applicable system and whether Axon structural constitutional exception fits separately.",
+          "examTrap": "Don't confuse issue of agency's ordinary statutory jurisdiction with structural constitutional harm justifying immediate review.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-exhaustion-apa-e6",
+          "type": "rule",
+          "title": "Facial constitutional claims versus as-applied claims",
+          "page": "760–761",
+          "summary": "When agency cannot decide statute's constitutionality, a purely facial challenge may favor earlier review; as-applied or mixed claims may need agency record and exhaustion. Explicit jurisdictional exhaustion can still be mandatory.",
+          "laymanExplanation": "You might ask court immediately whether statute itself is unconstitutional, but if your particular treatment is unconstitutional the agency may need facts first.",
+          "legalExplanation": "Textbook highlights law on constitutional issues and Axon; rules are context-sensitive and not a universal bypass.",
+          "examApplication": "Classify facial, as-applied, need for facts, and statutory jurisdictional command.",
+          "examTrap": "Do not assert every constitutional label automatically exempts exhaustion.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-exhaustion-apa-e7",
+          "type": "rule",
+          "title": "Issue exhaustion: preserve particular arguments before agency",
+          "page": "761–762",
+          "summary": "Party often must present each objection during administrative process before raising it to court, to avoid sandbagging and allow agency response.",
+          "laymanExplanation": "You cannot normally save your strongest objection as a surprise on appeal.",
+          "legalExplanation": "L.A. Tucker Truck Lines articulated contemporaneous objection expectation; Sims v Apfel makes Social Security Appeals Council exception where nonadversarial scheme lacks issue-exhaustion requirement.",
+          "examApplication": "Name exact claim and stage where raised; consult statute or agency issue-preservation rule.",
+          "examTrap": "Claim exhaustion and remedy exhaustion are different questions.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-exhaustion-apa-e8",
+          "type": "case",
+          "title": "Sims v. Apfel, 530 U.S. 103 (2000)",
+          "page": "761–762",
+          "summary": "Social Security claimant could raise issue not raised at Appeals Council because proceedings nonadversarial and no explicit requirement.",
+          "laymanExplanation": "Unrepresented disability claimant isn't expected to litigate like a trial attorney.",
+          "legalExplanation": "Decision influenced by lack of notice and agency obligation to develop record.",
+          "examApplication": "",
+          "examTrap": "",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)",
+          "assignedOpinion": false,
+          "sourceRole": "Case discussed in textbook notes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch11-exhaustion-apa-e9",
+          "type": "rule",
+          "title": "§ 1983 cases need not exhaust state administrative remedies",
+          "page": "762",
+          "summary": "Under Patsy, federal § 1983 claimant ordinarily need not exhaust available state agency procedures before civil rights suit; Congress may impose statutory exceptions such as prison conditions PLRA.",
+          "laymanExplanation": "A civil-rights plaintiff may often file federal lawsuit without completing state's grievance route.",
+          "legalExplanation": "Patsy v Florida Board of Regents recognized rule; distinguish statutory § 1997e(a) mandatory prisoner exhaustion.",
+          "examApplication": "Identify § 1983 cause, prison context and governing exhaustion statute.",
+          "examTrap": "Do not import Patsy into non-§1983 APA agency appeals.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        },
+        {
+          "id": "admin-ch11-exhaustion-apa-e10",
+          "type": "case",
+          "title": "Patsy v. Florida Board of Regents, 457 U.S. 496 (1982)",
+          "page": "762",
+          "summary": "Public university employee could bring §1983 discrimination action without pursuing state employment grievance.",
+          "laymanExplanation": "Federal civil rights remedies often independent of state admin route.",
+          "legalExplanation": "No general exhaustion rule for §1983 under Patsy.",
+          "examApplication": "",
+          "examTrap": "",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)",
+          "assignedOpinion": false,
+          "sourceRole": "Case discussed in textbook notes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch11-exhaustion-apa-e11",
+          "type": "rule",
+          "title": "Rulemaking participation not subject to ordinary exhaustion",
+          "page": "762–763",
+          "summary": "Individuals generally need not comment in notice/comment rulemaking to challenge final rule, but some courts require certain issues to have been raised before agency unless obvious statutory defect.",
+          "laymanExplanation": "You needn't participate in every regulatory proposal, but objections not raised by anybody can sometimes be forfeited.",
+          "legalExplanation": "Chapter discusses Advocates for Highway and Auto Safety and distinction agency must consider foundational statutory issue itself versus comments it need only answer if raised.",
+          "examApplication": "Check whether proposed argument was presented to agency and statute required agency itself to raise it.",
+          "examTrap": "'No duty to file comments' doesn't mean every possible review argument preserved automatically.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026)"
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch11-part2-q1",
+      "topicId": "admin-ch11-timing-overview",
+      "title": "Choose correct timing doctrine",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026) (p. 745–746)",
+      "prompt": "Classify a challenge to preliminary agency complaint; failure to appeal agency heads; pre-enforcement rule with uncertain application; and private antitrust dispute needing agency tariff expertise. Identify distinct doctrine in each.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch11-part2-q2",
+      "topicId": "admin-ch11-final-agency-action",
+      "title": "Socal's reason to believe, cost and exhaustion",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026) (p. 747–749)",
+      "prompt": "How would a company argue the 'reason to believe' finding is final, and how does Court answer each claim about political pressure, defense costs, lack of later review and rejected motion to dismiss?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch11-part2-q3",
+      "topicId": "admin-ch11-finality-bennett",
+      "title": "Apply Bennett to SOCAL",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026) (p. 750)",
+      "prompt": "Does FTC's reason-to-believe complaint consummate an agency decisionmaking process? Has it determined legal rights or obligations? Distinguish administrative charges from binding sanctions.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch11-part2-q4",
+      "topicId": "admin-ch11-finality-bennett",
+      "title": "Wetlands positive JD versus agency complaint",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026) (p. 751–752)",
+      "prompt": "Compare denial of 5-year safe harbor by positive jurisdictional determination with FTC's initiation of adjudication. Does administrative review route change outcome?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch11-part2-q5",
+      "topicId": "admin-ch11-finality-bennett",
+      "title": "Security Insurance / MIC issue preclusion — textbook problem",
+      "kind": "Textbook hypothetical — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026) (p. 752)",
+      "prompt": "Madison Insurance Commission lost prior 6-day injunction trial against Security Insurance for systematic wrongful benefits denials, then filed administrative complaint on same theory. ALJ refused Security's claim/issue preclusion defenses; agency heads refused interlocutory review; two-month hearing estimated to cost $1m. Can Security immediately seek APA judicial review of ALJ preclusion ruling? Assess finality, expense, later review, and possible practical-effect exception; no resolution.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch11-part2-q6",
+      "topicId": "admin-ch11-exhaustion-portela",
+      "title": "Portela: final level and exhaustion exceptions",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026) (p. 754–757)",
+      "prompt": "Would a low likelihood of success, 60-day further appeal and already yearlong suspension show futility or serious delay? Identify McCarthy exceptions and support from record.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch11-part2-q7",
+      "topicId": "admin-ch11-exhaustion-apa",
+      "title": "Darby vs Portela",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026) (p. 759–760)",
+      "prompt": "How might outcome differ if Navy Exchange were subject to APA § 704? Identify mandatory rule and stay prerequisites, and whether final appeal was optional.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch11-part2-q8",
+      "topicId": "admin-ch11-exhaustion-apa",
+      "title": "Constitutional, issue and remedy exhaustion comparison",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026) (p. 759–762)",
+      "prompt": "Distinguish: litigant skipped optional agency head review, never objected to ALJ appointment, and raises facial First Amendment claim. What doctrine and possible exception applies?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch11-part2-q9",
+      "topicId": "admin-ch11-exhaustion-apa",
+      "title": "Ann's ATD benefits and IHSS payments — textbook problem",
+      "kind": "Textbook hypothetical — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026) (p. 762–763)",
+      "prompt": "Ann applied for $400/month disability benefit; Welfare Board denied based on $200/month caregiver IHSS payments under its rule barring any paid work in last six months. She faces eviction. Fair hearing April 6 and Board appeal (~6 months). Analyze immediate court challenge to rule application, underlying statutory and constitutional validity, possible waiver, under (i) New Jersey law and (ii) federal approach. Should counsel attend administrative hearing while court case pending and appeal if losing? Do not solve.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch11-part2-q10",
+      "topicId": "admin-ch11-exhaustion-apa",
+      "title": "Issue exhaustion in rulemaking",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 11, pp. 745–763 (uploaded Nov. 23, 2026) (p. 762)",
+      "prompt": "Rule challenger did not submit comments and no one raised its exact objection. Under what circumstances might court hear issue anyway, especially if agency disregarded obvious statutory criterion?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
