@@ -1,0 +1,415 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+  "coverage": {
+    "included": "690–698",
+    "assignment": "VI.C(2)(a–d) — Preclusion of Review § 701(a)(1), including Bowen, Axon, Webster, Corner Post",
+    "sourceStatus": "Main Bowen opinion excerpted; Axon/Corner Post/Webster discussed in textbook notes, full opinions not provided"
+  },
+  "topics": [
+    {
+      "id": "admin-ch10-preclusion",
+      "title": "§ 10.4 — Statutory Preclusion of Judicial Review; Bowen (pp. 690–693)",
+      "chapterGroup": "admin-ch10",
+      "description": "Presumption of reviewability, APA § 701(a)(1), express and implied preclusion, Medicare amount and legal-method distinctions.",
+      "entries": [
+        {
+          "id": "admin-ch10-preclusion-e1",
+          "type": "rule",
+          "title": "APA § 701(a)(1): judicial review unless statutes preclude it",
+          "page": "690–691",
+          "summary": "Agency action is presumed judicially reviewable, but an express or fairly discernible congressional intent may foreclose review of specified matters.",
+          "laymanExplanation": "Courts usually assume people can sue over unlawful agency decisions unless Congress truly cut off that route.",
+          "legalExplanation": "Start with strong presumption of reviewability; then assess text, history and detailed statutory scheme. Particular express review rights do not automatically exclude all others.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Ask what kind of decision plaintiff challenges and whether Congress intended to block that particular category.",
+          "examTrap": "Mere omission of a special judicial-review provision is generally not adequate proof of blanket preclusion."
+        },
+        {
+          "id": "admin-ch10-preclusion-e2",
+          "type": "rule",
+          "title": "Strong presumption and 'clear and convincing' formulation",
+          "page": "691–692",
+          "summary": "Government bears heavy burden to show Congress intended to foreclose judicial scrutiny; intent may arise from specific language, reliable legislative history, or statutory framework.",
+          "laymanExplanation": "Courts don't lightly conclude Congress wanted agencies to be the last word on legality.",
+          "legalExplanation": "Bowen recites Abbott Laboratories and legislative history; Court maintains review for legality of Medicare regulations despite review scheme limits on routine payment amounts.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Explain why legal/constitutional questions command stronger reviewability interests than trivial factual benefit calculations.",
+          "examTrap": "The quoted formulation should be applied in context; later cases recognize statutory schemes can overcome presumption."
+        },
+        {
+          "id": "admin-ch10-preclusion-e3",
+          "type": "case",
+          "title": "Bowen v. Michigan Academy of Family Physicians, 476 U.S. 667 (1986)",
+          "page": "690–693",
+          "summary": "No. The statutory scheme did not preclude substantive statutory/constitutional review of the underlying regulation, though routine individual Part B amount awards lacked review.",
+          "laymanExplanation": "Distinctly separate review of an individual administrative amount determination from challenge to legal method or governing regulation. An implicit preclusion of former does not automatically bar latter.",
+          "legalExplanation": "The strong presumption of judicial review survived because carrier hearings could address individual dollar calculations, not legality of Secretary's regulation. Erika's implied bar on amount determinations did not reach challenges to the methodology itself. Congress unlikely chose to let trivial claim amounts be reviewed by carriers while forbidding all judicial review of significant legal challenges.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Classify the challenge as individual benefits calculation or validity of agency's generally applicable regulation; identify alternate meaningful legal forum.",
+          "examTrap": "Do not say Bowen created unconditional review of all Medicare Part B disputes; Erika's particular payment determinations remain precluded by statute.",
+          "assignedOpinion": true,
+          "sourceRole": "Opinion excerpt included in uploaded casebook chapter",
+          "facts": "Medicare Part B paid lower amounts to allopathic family physicians than other physicians pursuant to HHS regulation. Medicare statute specifically allowed review of certain Part A amounts, but did not specifically authorize judicial review of Part B amount determinations. HHS argued this scheme precluded any challenge to Part B rate regulation.",
+          "issue": "Does Medicare's bar on reviewing particular Part B benefit-amount determinations also bar review of the underlying legal method/regulation establishing reimbursement?",
+          "holding": "No. The statutory scheme did not preclude substantive statutory/constitutional review of the underlying regulation, though routine individual Part B amount awards lacked review.",
+          "reasoning": "The strong presumption of judicial review survived because carrier hearings could address individual dollar calculations, not legality of Secretary's regulation. Erika's implied bar on amount determinations did not reach challenges to the methodology itself. Congress unlikely chose to let trivial claim amounts be reviewed by carriers while forbidding all judicial review of significant legal challenges.",
+          "rule": "Distinctly separate review of an individual administrative amount determination from challenge to legal method or governing regulation. An implicit preclusion of former does not automatically bar latter."
+        },
+        {
+          "id": "admin-ch10-preclusion-e4",
+          "type": "case",
+          "title": "United States v. Erika, Inc., 456 U.S. 201 (1982)",
+          "page": "692–693",
+          "summary": "Medicare scheme impliedly precluded court review of individual Part B payment amount determinations.",
+          "laymanExplanation": "Carrier administrative adjudication of small payments was considered adequate end of process.",
+          "legalExplanation": "Bowen drew sharp distinction between unreviewable specific reimbursement amounts and legal validity of Secretary's regulation.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Contrast legal method versus factual amount.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook Notes and Questions, not an excerpted opinion"
+        },
+        {
+          "id": "admin-ch10-preclusion-e5",
+          "type": "rule",
+          "title": "Implied preclusion based on whole statutory scheme",
+          "page": "692–693",
+          "summary": "Even without express 'no review' command, Congress may fairly discernibly preclude some review based on detailed administrative procedures and allocated forums.",
+          "laymanExplanation": "Some laws create specific routes that implicitly leave out premature parallel lawsuits.",
+          "legalExplanation": "Examine availability of meaningful judicial consideration at end of scheme, agency expertise, nature of challenge and structure of review.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Use especially when respondent tries to bypass administrative process.",
+          "examTrap": "Do not assume any elaborate administrative process automatically bars structural constitutional claims."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch10-implied-district-preclusion",
+      "title": "§ 10.4 Notes — Implied Preclusion of District Court Review; Axon (pp. 693–694)",
+      "chapterGroup": "admin-ch10",
+      "description": "Distinguish special review after final agency action from collateral constitutional structural claim reviewed immediately in district court.",
+      "entries": [
+        {
+          "id": "admin-ch10-implied-district-preclusion-e1",
+          "type": "rule",
+          "title": "Statutory exclusive end-of-agency review can bar premature district-court suit",
+          "page": "693",
+          "summary": "A statutory channel to court of appeals after final agency action may impliedly foreclose an earlier § 1331 district-court action challenging ordinary merits or agency procedures.",
+          "laymanExplanation": "You usually can't skip the agency hearing and race to federal district court just because you dislike the agency's interpretation.",
+          "legalExplanation": "Thunder Basin reasoned agency expertise and adequate administrative + appellate review suffice for ordinary mine-inspection regulation challenges.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Ask if issue intertwined with merits, if eventual review is meaningful, and if agency has expertise.",
+          "examTrap": "Don't assume § 1331 overrides a specifically sequenced review law."
+        },
+        {
+          "id": "admin-ch10-implied-district-preclusion-e2",
+          "type": "case",
+          "title": "Thunder Basin Coal Co. v. Reich, 510 U.S. 200 (1994)",
+          "page": "693",
+          "summary": "Premature district-court challenge to mine safety agency interpretation excluded by specialized agency adjudication and final appellate review system.",
+          "laymanExplanation": "Mine operator had a regulatory challenge within agency's expertise and an eventual judicial avenue.",
+          "legalExplanation": "Permitting early suit would disrupt administrative enforcement and exhaustion.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Compare Axon's collateral constitutional claim.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook Notes and Questions, not an excerpted opinion"
+        },
+        {
+          "id": "admin-ch10-implied-district-preclusion-e3",
+          "type": "rule",
+          "title": "Axon: structural constitutional challenge can proceed now",
+          "page": "693–694",
+          "summary": "A wholly collateral constitutional claim about ALJ removal protections can go directly to district court despite exclusive later appellate review for ordinary agency enforcement decisions.",
+          "laymanExplanation": "If the very act of undergoing the supposedly unconstitutional agency tribunal is the harm, waiting to appeal after trial doesn't fix it.",
+          "legalExplanation": "Axon found eventual appellate review not meaningful for 'here and now' structural injury; claim collateral to merits; FTC lacks comparative expertise on constitutional separation of powers.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Use triad: meaningful judicial review, wholly collateral to merits, agency expertise.",
+          "examTrap": "Axon does not turn every defense to agency enforcement into early § 1331 jurisdiction."
+        },
+        {
+          "id": "admin-ch10-implied-district-preclusion-e4",
+          "type": "case",
+          "title": "Axon Enterprise, Inc. v. FTC, 598 U.S. 175 (2023)",
+          "page": "694",
+          "summary": "Supreme Court allowed immediate district-court jurisdiction over structural constitutional challenge to ALJ removal protections while FTC case ongoing.",
+          "laymanExplanation": "Court distinguished mine-safety merits dispute in Thunder Basin.",
+          "legalExplanation": "No decision on ultimate merits of ALJ removal claim in textbook passage.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Don't say Axon held ALJ removal scheme unconstitutional.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook Notes and Questions, not an excerpted opinion"
+        }
+      ]
+    },
+    {
+      "id": "admin-ch10-constitutional-preclusion",
+      "title": "§ 10.4 Notes — Constitutional Claims and State Review (pp. 694–696, 697–698)",
+      "chapterGroup": "admin-ch10",
+      "description": "Webster v Doe constitutional issue, immigration jurisdiction stripping, state constitutional guarantees, Joan pension example.",
+      "entries": [
+        {
+          "id": "admin-ch10-constitutional-preclusion-e1",
+          "type": "rule",
+          "title": "Constitutional review requires especially clear preclusion intent",
+          "page": "695",
+          "summary": "Courts ordinarily interpret even strong statutory review bars to preserve a forum for colorable constitutional challenges unless Congress expressed clear intention to foreclose them.",
+          "laymanExplanation": "Courts are especially reluctant to allow agencies to make unreviewable constitutional violations.",
+          "legalExplanation": "Webster v. Doe permitted constitutional claims despite statute's broad CIA employee termination discretion and blocked ordinary merits review.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Test whether challenge is agency discretion on merits versus independently alleged constitutional violation.",
+          "examTrap": "Do not claim Congress has no power at all to restrict lower federal court jurisdiction; casebook notes open constitutional debate."
+        },
+        {
+          "id": "admin-ch10-constitutional-preclusion-e2",
+          "type": "case",
+          "title": "Webster v. Doe, 486 U.S. 592 (1988)",
+          "page": "695",
+          "summary": "CIA director's broad statutory firing discretion blocked merits review but not constitutional claims absent unmistakable exclusion.",
+          "laymanExplanation": "Legal route for constitutional claims was preserved.",
+          "legalExplanation": "The Court avoided deep Article III jurisdiction-stripping constitutional debate.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Contrast § 701(a)(2) no law to apply for merits.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook Notes and Questions, not an excerpted opinion"
+        },
+        {
+          "id": "admin-ch10-constitutional-preclusion-e3",
+          "type": "rule",
+          "title": "Immigration: statutory bars on discretionary decisions",
+          "page": "695",
+          "summary": "Statutory provisions may foreclose judicial review of specified immigration discretion while preserving particular constitutional/legal questions under alternative review routes.",
+          "laymanExplanation": "Immigration review depends on exact statutory bar and kind of claim.",
+          "legalExplanation": "Textbook describes REAL ID Act, IIRIRA and Bouarfa visa revocation as examples of strong preclusion where statute confers discretion.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Never infer citizenship, asylum or removal appeals uniformly unreviewable.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch10-constitutional-preclusion-e4",
+          "type": "case",
+          "title": "Bouarfa v. Mayorkas, 604 U.S. 6 (2024)",
+          "page": "695",
+          "summary": "Visa revocation granted under 'may, at any time, for what he deems good and sufficient cause' was held unreviewable despite initial visa denial potentially reviewable.",
+          "laymanExplanation": "A discretionary revocation decision may be treated differently from original application denial.",
+          "legalExplanation": "Court found sufficiently clear statutory commitment over reviewability presumption.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Check exact statutory words.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook Notes and Questions, not an excerpted opinion"
+        },
+        {
+          "id": "admin-ch10-constitutional-preclusion-e5",
+          "type": "rule",
+          "title": "Relative strength of presumption by claim type",
+          "page": "694–695",
+          "summary": "Courts tend to preserve constitutional review most strongly, and also review of regulations and legal questions; they more readily accept preclusion of factual or law-to-fact determinations.",
+          "laymanExplanation": "Courts often see a larger problem in letting agency define Constitution than in shielding routine benefit amounts.",
+          "legalExplanation": "This is explanatory generalization by textbook commentator Ronald Levin, not a rigid numerical test.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Classify constitutional/legal/factual nature when interpreting ambiguous bar.",
+          "examTrap": "Do not treat commentary as binding multi-level legal test."
+        },
+        {
+          "id": "admin-ch10-constitutional-preclusion-e6",
+          "type": "rule",
+          "title": "State law preclusion varies by constitution and statute",
+          "page": "697–698",
+          "summary": "Some states allow broad preclusion; others reserve legality/constitutional/excess-of-jurisdiction review; Pennsylvania provides constitutional appeal right for state and local adjudications.",
+          "laymanExplanation": "What counts as unreviewable varies across state constitutions and APAs.",
+          "legalExplanation": "New York example permits merits preclusion but preserved illegal/excess-jurisdiction claims; Pennsylvania appellate guarantee covers adjudicatory action, not rulemaking.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "State case? Identify state constitutional/statutory review guarantee instead of importing federal test.",
+          "examTrap": "No single federal rule automatically governs state preclusion under state law."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch10-rule-review-deadlines",
+      "title": "§ 10.4 Notes — Rule-Review Deadlines and Corner Post (pp. 696–697)",
+      "chapterGroup": "admin-ch10",
+      "description": "Special 30/60-day review statutes, enforcement defenses, Yakus, Adamo Wrecking, petition route, § 2401 and Corner Post accrual.",
+      "entries": [
+        {
+          "id": "admin-ch10-rule-review-deadlines-e1",
+          "type": "rule",
+          "title": "Short limitations for direct review of agency rules",
+          "page": "696–697",
+          "summary": "Specific statutes sometimes require a new rule's judicial challenge within 30 or 60 days; late procedural challenges are often barred, but later enforcement may allow substantive legal objections.",
+          "laymanExplanation": "You may miss a brief window to sue over a rule's adoption, but still might argue in an enforcement case that agency lacked legal power.",
+          "legalExplanation": "Distinguish statutory bar wording, direct review deadline, subsequent enforcement challenges, and whether objections procedural or substantive.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Ask date rule issued, date party injured, statute's review window and attack's nature.",
+          "examTrap": "Don't assume procedural defect in initial notice/comment may always be raised many years later."
+        },
+        {
+          "id": "admin-ch10-rule-review-deadlines-e2",
+          "type": "rule",
+          "title": "Substantive versus procedural challenges after deadline",
+          "page": "696",
+          "summary": "Courts commonly permit later defense that rule exceeds agency authority or does not govern defendant, but disallow objections that agency improperly used NPRM process if deadline expired.",
+          "laymanExplanation": "Even when too late to sue over notice, you may still say the rule is illegal in substance or does not cover you.",
+          "legalExplanation": "The textbook cites Independent Community Bankers (substantive) versus JEM Broadcasting (procedural) as differing applications.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Label claim as statutory authority, rule coverage, procedural defect or arbitrary policy.",
+          "examTrap": "Some unusually explicit statutes exclude even later substantive defenses."
+        },
+        {
+          "id": "admin-ch10-rule-review-deadlines-e3",
+          "type": "rule",
+          "title": "Yakus exception: express criminal enforcement bar",
+          "page": "696–697",
+          "summary": "Wartime statute required quick direct review and expressly precluded challenges to price regulations during later criminal prosecutions; Supreme Court enforced it.",
+          "laymanExplanation": "Under a tightly worded special law, failing to challenge early can block defense at trial.",
+          "legalExplanation": "Yakus reserved constitutional challenge question; Justice Rutledge dissented on due process concerns.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Check legislative statutory clarity and constitutional safety valve.",
+          "examTrap": "Do not assume Yakus authorizes every later enforcement preclusion statute."
+        },
+        {
+          "id": "admin-ch10-rule-review-deadlines-e4",
+          "type": "case",
+          "title": "Yakus v. United States, 321 U.S. 414 (1944)",
+          "page": "696–697",
+          "summary": "Criminal meat-price defendant couldn't challenge rule's validity after missing statutory 60-day special review route.",
+          "laymanExplanation": "Emergency price scheme channeled review to specialized forum.",
+          "legalExplanation": "Majority left constitutional issues unresolved.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Differentiate Adamo.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook Notes and Questions, not an excerpted opinion"
+        },
+        {
+          "id": "admin-ch10-rule-review-deadlines-e5",
+          "type": "case",
+          "title": "Adamo Wrecking Co. v. United States, 434 U.S. 275 (1978)",
+          "page": "697",
+          "summary": "Criminal defendant could argue EPA rule was not an 'emission standard' within statute despite review bar, but not procedural/arbitrariness challenge.",
+          "laymanExplanation": "Limited categorical classification of challenged rule was available.",
+          "legalExplanation": "The Court construed statutory reach narrowly, distinguished Yakus.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Not a universal right to attack agency rule in criminal trial.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook Notes and Questions, not an excerpted opinion"
+        },
+        {
+          "id": "admin-ch10-rule-review-deadlines-e6",
+          "type": "rule",
+          "title": "Rulemaking petition as possible later challenge route",
+          "page": "697",
+          "summary": "APA § 553(e) petition to amend/repeal alleged unlawful rule may lead to review of denial unless review statute expressly forecloses any review after deadline.",
+          "laymanExplanation": "If deadline closed, a later request to repeal may sometimes restart a legal challenge, but only if statutory scheme permits.",
+          "legalExplanation": "American Road & Transportation Builders permits this in less restrictive review statutes but not where Congress explicitly closed all later review.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Identify exact review bar and whether petition would subvert its purpose.",
+          "examTrap": "Cannot evade explicit perpetual preclusion by simply renaming challenge a petition."
+        },
+        {
+          "id": "admin-ch10-rule-review-deadlines-e7",
+          "type": "rule",
+          "title": "Corner Post: default six-year clock runs from injury",
+          "page": "697",
+          "summary": "When 28 U.S.C. § 2401(a) governs, APA cause of action accrues when particular plaintiff first suffers a legal injury from the rule, not necessarily on date rule first promulgated.",
+          "laymanExplanation": "A new business harmed today may sue over an old rule even if rule has existed for decades.",
+          "legalExplanation": "Corner Post, Inc. v. Board of Governors (2024) adopted plaintiff-injury accrual; this can expose older rules to challenges by newly affected parties.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Determine statutory route, special limitations if any, and the first injury date to this plaintiff.",
+          "examTrap": "Does not eliminate separate special review windows or guarantee suit on merits."
+        },
+        {
+          "id": "admin-ch10-rule-review-deadlines-e8",
+          "type": "case",
+          "title": "Corner Post, Inc. v. Board of Governors, 603 U.S. 799 (2024)",
+          "page": "697",
+          "summary": "Supreme Court held default APA § 2401 six-year period begins when plaintiff first injured by rule, not when rule made.",
+          "laymanExplanation": "The statute's 'right of action accrues' concept is plaintiff-specific.",
+          "legalExplanation": "Prior reliance interests may be affected, but decision concerns timing.",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026)",
+          "examApplication": "Ask when that particular party first had injury.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in textbook Notes and Questions, not an excerpted opinion"
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch10-part2-q1",
+      "topicId": "admin-ch10-preclusion",
+      "title": "Bowen vs Erika — two kinds of Medicare objections",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026) (p. 693)",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "prompt": "Why does a challenge to a fee-calculation formula differ from a challenge to the particular reimbursement amount? Analyze forum, statute and strong review presumption without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch10-part2-q2",
+      "topicId": "admin-ch10-preclusion",
+      "title": "Express versus implied limits on review",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026) (p. 690–693)",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "prompt": "Identify evidence necessary to overcome APA § 701(a)(1) reviewability presumption. Should express review of one category always imply all others are barred?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch10-part2-q3",
+      "topicId": "admin-ch10-implied-district-preclusion",
+      "title": "Axon versus Thunder Basin",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026) (p. 693–694)",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "prompt": "One respondent challenges interpretation of mine-safety rule; another says FTC ALJ's tenure protection makes the tribunal unconstitutional. Who must await final agency action and why? Leave resolution to student.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch10-part2-q4",
+      "topicId": "admin-ch10-constitutional-preclusion",
+      "title": "Joan / MPA disability retirement — textbook problem",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026) (p. 698)",
+      "kind": "Textbook problem — UNSOLVED",
+      "prompt": "Monroe state pensions are available for permanent work-related disability, but MPA statute declares decisions 'final and conclusive and not subject to judicial review.' Joan's wrist injury supported by two specialist doctors; a general physician's written report was credited without subpoena or cross-examination despite agency subpoena power. Can she challenge decision as factual error, legality, due process, or excess of jurisdiction despite bar? Keep analysis and answer unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch10-part2-q5",
+      "topicId": "admin-ch10-constitutional-preclusion",
+      "title": "Webster vs Bouarfa: what is unreviewable?",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026) (p. 695)",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "prompt": "Distinguish CIA merits discharge, a collateral constitutional claim, and discretionary visa revocation; state what kind of judicial review (if any) each statutory scheme permits.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch10-part2-q6",
+      "topicId": "admin-ch10-rule-review-deadlines",
+      "title": "Corner Post and a decades-old regulation",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026) (p. 697)",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "prompt": "An agency issued a regulation 15 years ago; a newly formed company first comes within its restrictions this year. What filing deadlines potentially control? Distinguish § 2401 default from a special 60-day review statute.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch10-part2-q7",
+      "topicId": "admin-ch10-rule-review-deadlines",
+      "title": "Late challenge in enforcement case",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 10, pp. 690–698 (uploaded Nov. 23, 2026) (p. 696–697)",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "prompt": "Compare late challenge based on missing notice/comment, substantive lack of statutory authority, and the claim that an agency directive is not legally a covered 'emission standard.'",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
