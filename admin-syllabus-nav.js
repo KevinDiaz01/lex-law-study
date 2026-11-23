@@ -102,8 +102,24 @@ const units=[
   {title:'Agency Inaction — Norton v. SUWA',detail:'§ 10.6 · pp. 710–715',ids:['admin-ch10-inaction-suwa']},
   {title:'Unreasonable Delay — TRAC Factors',detail:'§ 10.6 · pp. 715–719',ids:['admin-ch10-unreasonable-delay']},
   {title:'ACUS Recommendation 75-3 — Choice of Forum',detail:'Separate assigned Canvas reading · Not uploaded',ids:['admin-ch10-acus-forum']},
-  {title:'Standing',detail:'pp. 721–744',match:/standing/i},
-  {title:'Finality, Exhaustion & Ripeness',detail:'pp. 745–783',match:/finality|exhaustion|ripeness|primary jurisdiction/i}
+  {title:'Standing: History and Legal Wrong',detail:'§ 11.1.1 · pp. 721–723',ids:['admin-ch11-standing-history']},
+  {title:'Article III Standing — Lujan',detail:'§ 11.1.2 · pp. 723–728',ids:['admin-ch11-article3-standing']},
+  {title:'Injury, Imminence and Concreteness — Spokeo',detail:'§ 11.1.2 · pp. 728–731',ids:['admin-ch11-injury-and-imminence']},
+  {title:'Associational Standing — Hunt',detail:'§ 11.1.2 · pp. 731–732',ids:['admin-ch11-association-standing']},
+  {title:'Causation, Redressability, States and Other Plaintiffs',detail:'§ 11.1.2 · pp. 732–737',ids:['admin-ch11-causation-redressability']},
+  {title:'APA Zone of Interests — ADAPSO',detail:'§ 11.1.3 · pp. 737–744',ids:['admin-ch11-zone-interests']},
+  {title:'Bost v. Illinois State Bd. of Elections',detail:'2026 syllabus supplement · p. 49 · Not uploaded',ids:['admin-ch11-bost-supplement']},
+  {title:'Standing Hypothetical (4th ed.)',detail:'Canvas · 4th ed. p. 753 · Not uploaded',ids:['admin-ch11-class-problem']},
+  {title:'Timing of Review — Four Doctrines',detail:'§ 11.2.1 · pp. 745–746',ids:['admin-ch11-timing-overview']},
+  {title:'Finality — FTC v. Standard Oil',detail:'§ 11.2.2 · pp. 746–749',ids:['admin-ch11-final-agency-action']},
+  {title:'Bennett & Hawkes Finality Rules',detail:'§ 11.2.2 · pp. 749–752',ids:['admin-ch11-finality-bennett']},
+  {title:'Exhaustion — Portela-Gonzalez',detail:'§ 11.2.3 · pp. 752–758',ids:['admin-ch11-exhaustion-portela']},
+  {title:'APA Exhaustion — Darby, Sims & Patsy',detail:'§ 11.2.3 · pp. 757–763',ids:['admin-ch11-exhaustion-apa']},
+  {title:'Ripeness — Abbott Labs & Toilet Goods',detail:'§ 11.2.4 · pp. 763–769',ids:['admin-ch11-ripeness-abbott']},
+  {title:'Ripeness of Rules & Guidance',detail:'§ 11.2.4 · pp. 769–773',ids:['admin-ch11-ripeness-guidance']},
+  {title:'Judicial Stays — Nken Four Factors',detail:'§ 11.2.4 · pp. 773–775',ids:['admin-ch11-ripeness-stays']},
+  {title:'Primary Jurisdiction — Farmers Insurance',detail:'§ 11.2.5 · pp. 775–779',ids:['admin-ch11-primary-jurisdiction']},
+  {title:'Primary Jurisdiction: Limits & Private Actions',detail:'§ 11.2.5 · pp. 779–783',ids:['admin-ch11-primary-limits']}
  ]}
 ];
 const esc=x=>escapeHTML(x);
@@ -117,6 +133,7 @@ groupTitle=function(g){
   if(g[0]?.chapterGroup==='admin-ch5')return 'Chapter 5 — Rulemaking Procedures';
   if(g[0]?.chapterGroup==='admin-ch6')return 'Chapter 6 — Policymaking Alternatives';
   if(g[0]?.chapterGroup==='admin-ch10')return 'Chapter 10 — Reviewability of Agency Decisions';
+  if(g[0]?.chapterGroup==='admin-ch11')return 'Chapter 11 — Standing and Timing of Judicial Review';
   if(g[0]?.chapterGroup==='admin-appointments')return 'Chief Executive’s Appointment Power';
   if(g[0]?.chapterGroup==='admin-removal')return 'Chief Executive’s Removal Power';
   if(g[0]?.chapterGroup==='admin-polbranches')return 'Separation of Powers & Political Branches';
