@@ -1,0 +1,712 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+  "coverage": {
+    "chapter": 9,
+    "scope": "Additional unsolved issue spotters, distinctions and calculations for all major §544–§553 provisions"
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch9-extra-001",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "Exam practice 1 — What happens after trustee wins avoidance of cash transfer but has n",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "What happens after trustee wins avoidance of cash transfer but has not yet sued for recovery?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-002",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "Exam practice 2 — Compare §546(a), §549(d), and §550(f) clocks on a dated timeline.",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Compare §546(a), §549(d), and §550(f) clocks on a dated timeline.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-003",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "Exam practice 3 — Why does §551 preserve senior lien priority for estate after avoidan",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why does §551 preserve senior lien priority for estate after avoidance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-004",
+      "topicId": "bank-ch9-video-depot",
+      "title": "Exam practice 4 — Why was Arlynn courier rather than initial transferee of Hilton paya",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why was Arlynn courier rather than initial transferee of Hilton payable cashier check?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-005",
+      "topicId": "bank-ch9-video-depot",
+      "title": "Exam practice 5 — How would initial transferee change if funds entered Arlynn personal",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "How would initial transferee change if funds entered Arlynn personal account before Hilton?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-006",
+      "topicId": "bank-ch9-railworks",
+      "title": "Exam practice 6 — Could CPG be a pure conduit and separately a genuine guarantor? Anal",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Could CPG be a pure conduit and separately a genuine guarantor? Analyze §5.1 vs §5.2 agreement.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-007",
+      "topicId": "bank-ch9-railworks",
+      "title": "Exam practice 7 — What distinguishes mere conduit from entity for whose benefit transf",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "What distinguishes mere conduit from entity for whose benefit transfer was made?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-008",
+      "topicId": "bank-ch9-actual-creditor-544b",
+      "title": "Exam practice 8 — Find an actual allowable unsecured triggering creditor for a 3-year-",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Find an actual allowable unsecured triggering creditor for a 3-year-old constructively fraudulent gift.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-009",
+      "topicId": "bank-ch9-actual-creditor-544b",
+      "title": "Exam practice 9 — Explain Moore v Bay full avoidance despite small underlying triggeri",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Explain Moore v Bay full avoidance despite small underlying triggering claim.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-010",
+      "topicId": "bank-ch9-actual-creditor-544b",
+      "title": "Exam practice 10 — Why does present versus future creditor status matter under UVTA §5(",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why does present versus future creditor status matter under UVTA §5(a)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-011",
+      "topicId": "bank-ch9-strong-arm-544a",
+      "title": "Exam practice 11 — Give four elements of §544(a) inquiry and identify applicable nonban",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Give four elements of §544(a) inquiry and identify applicable nonbankruptcy priority law.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-012",
+      "topicId": "bank-ch9-strong-arm-544a",
+      "title": "Exam practice 12 — Compare three §544(a) hypothetical creditor statuses for UCC collate",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Compare three §544(a) hypothetical creditor statuses for UCC collateral and land.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-013",
+      "topicId": "bank-ch9-strong-arm-544a",
+      "title": "Exam practice 13 — Does actual debtor knowledge disqualify Chapter11 DIP from §544(a)(3",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Does actual debtor knowledge disqualify Chapter11 DIP from §544(a)(3)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-014",
+      "topicId": "bank-ch9-544a1-perfection",
+      "title": "Exam practice 14 — Explain attachment vs perfection with filing-date timeline.",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Explain attachment vs perfection with filing-date timeline.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-015",
+      "topicId": "bank-ch9-544a1-perfection",
+      "title": "Exam practice 15 — Contrast UCC PMSI 20-day relation-back §546(b) and federal §547(c)(3",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Contrast UCC PMSI 20-day relation-back §546(b) and federal §547(c)(3) timing.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-016",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "Exam practice 16 — Can actual trustee knowledge be ignored while visible open possessio",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Can actual trustee knowledge be ignored while visible open possession still defeats BFP?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-017",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "Exam practice 17 — Compare §541(d) and independent §544(a)(3) strong-arm on unrecorded ",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Compare §541(d) and independent §544(a)(3) strong-arm on unrecorded trust interest.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-018",
+      "topicId": "bank-ch9-omegas",
+      "title": "Exam practice 18 — Explain why source Omegas treated unadjudicated constructive trust d",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Explain why source Omegas treated unadjudicated constructive trust differently from express trust.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-019",
+      "topicId": "bank-ch9-omegas",
+      "title": "Exam practice 19 — What counterargument does book raise about §544(a)(1) and state-law ",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "What counterargument does book raise about §544(a)(1) and state-law equitable priority?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-020",
+      "topicId": "bank-ch9-fraudulent-transfers",
+      "title": "Exam practice 20 — How does original transferor fraudulent intent differ from independe",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "How does original transferor fraudulent intent differ from independent recipient good-faith value?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-021",
+      "topicId": "bank-ch9-fraudulent-transfers",
+      "title": "Exam practice 21 — Compare §548 two years and state §544(b)/UVTA typically four years.",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Compare §548 two years and state §544(b)/UVTA typically four years.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-022",
+      "topicId": "bank-ch9-costas",
+      "title": "Exam practice 22 — Contrast prepetition inheritance disclaimer in Costas and federal ta",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Contrast prepetition inheritance disclaimer in Costas and federal tax lien in Drye.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-023",
+      "topicId": "bank-ch9-costas",
+      "title": "Exam practice 23 — What would change if disclaimer executed after petition or death wit",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "What would change if disclaimer executed after petition or death within 180 days?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-024",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "Exam practice 24 — Identify six badges of actual intent on a secret sale of all debtor ",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Identify six badges of actual intent on a secret sale of all debtor assets before judgment collection.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-025",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "Exam practice 25 — Can a debtor sell for full value and still actually defraud creditor",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Can a debtor sell for full value and still actually defraud creditors by hiding proceeds?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-026",
+      "topicId": "bank-ch9-alan-drey",
+      "title": "Exam practice 26 — Why did McGraw-Hill knowledge of judgment, secrecy, and indemnity re",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why did McGraw-Hill knowledge of judgment, secrecy, and indemnity request matter?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-027",
+      "topicId": "bank-ch9-alan-drey",
+      "title": "Exam practice 27 — Could consideration of $150k itself defeat Generation actual fraud t",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Could consideration of $150k itself defeat Generation actual fraud theory?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-028",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Exam practice 28 — Enumerate four §548(a)(1)(B)(ii) alternative financial conditions; i",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Enumerate four §548(a)(1)(B)(ii) alternative financial conditions; identify common value requirement.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-029",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Exam practice 29 — Compare insolvency with unreasonably small capital and projected deb",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Compare insolvency with unreasonably small capital and projected debts beyond ability to pay.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-030",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Exam practice 30 — What direct and indirect benefits can a corporate guaranty provide?",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "What direct and indirect benefits can a corporate guaranty provide?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-031",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "Exam practice 31 — Distinguish BFP majority conclusive lawful foreclosure price from So",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Distinguish BFP majority conclusive lawful foreclosure price from Souter dissent independent fair-value analysis.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-032",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "Exam practice 32 — How do irregular foreclosure notices and collusion alter BFP protect",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "How do irregular foreclosure notices and collusion alter BFP protection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-033",
+      "topicId": "bank-ch9-chomakos",
+      "title": "Exam practice 33 — Why is value of lawful wager tested when placed rather than after ne",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why is value of lawful wager tested when placed rather than after net loss?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-034",
+      "topicId": "bank-ch9-chomakos",
+      "title": "Exam practice 34 — Why can equal expected-dollar value create unequal creditor and debt",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why can equal expected-dollar value create unequal creditor and debtor incentives?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-035",
+      "topicId": "bank-ch9-uvta-causes",
+      "title": "Exam practice 35 — Which UVTA fraudulent transfer grounds protect future creditors and ",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Which UVTA fraudulent transfer grounds protect future creditors and which only present creditors?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-036",
+      "topicId": "bank-ch9-uvta-causes",
+      "title": "Exam practice 36 — What conditions make insider repayment vulnerable under UVTA §5(b)?",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "What conditions make insider repayment vulnerable under UVTA §5(b)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-037",
+      "topicId": "bank-ch9-uvta-timing",
+      "title": "Exam practice 37 — Compare recording-date transfer under UVTA §6 to agreement-date obli",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Compare recording-date transfer under UVTA §6 to agreement-date obligation under §6(5).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-038",
+      "topicId": "bank-ch9-uvta-timing",
+      "title": "Exam practice 38 — Identify different limitation terms for §4(a)(1), §5(a) and §5(b).",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Identify different limitation terms for §4(a)(1), §5(a) and §5(b).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-039",
+      "topicId": "bank-ch9-uvta-remedies",
+      "title": "Exam practice 39 — How does innocent first transferee under §8(a) differ from later pro",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "How does innocent first transferee under §8(a) differ from later protected buyer under §8(b)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-040",
+      "topicId": "bank-ch9-uvta-remedies",
+      "title": "Exam practice 40 — Why does individual UVTA creditor recovery cap differ from Moore v B",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why does individual UVTA creditor recovery cap differ from Moore v Bay estate-wide recovery?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-041",
+      "topicId": "bank-ch9-preference-elements",
+      "title": "Exam practice 41 — List all seven elements of §547(b) for old debt payment within 90 da",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "List all seven elements of §547(b) for old debt payment within 90 days.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-042",
+      "topicId": "bank-ch9-preference-elements",
+      "title": "Exam practice 42 — When does the 90-day insolvency presumption apply to insider-year pr",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "When does the 90-day insolvency presumption apply to insider-year preference?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-043",
+      "topicId": "bank-ch9-preference-elements",
+      "title": "Exam practice 43 — Why might a fully secured old lender fail more-than-Chapter7 element",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why might a fully secured old lender fail more-than-Chapter7 element?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-044",
+      "topicId": "bank-ch9-cunningham",
+      "title": "Exam practice 44 — Can a defrauded Ponzi investor trace property as own trust property,",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Can a defrauded Ponzi investor trace property as own trust property, and what happens if commingled fund replenished?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-045",
+      "topicId": "bank-ch9-marshall",
+      "title": "Exam practice 45 — Why do loan proceeds exist momentarily in debtor property when borro",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why do loan proceeds exist momentarily in debtor property when borrower directs electronic payment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-046",
+      "topicId": "bank-ch9-marshall",
+      "title": "Exam practice 46 — What actual loan restriction would support genuine earmarking defens",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "What actual loan restriction would support genuine earmarking defense?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-047",
+      "topicId": "bank-ch9-palmer-clay",
+      "title": "Exam practice 47 — Derive partial prepayment preference advantage using generic prepaym",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Derive partial prepayment preference advantage using generic prepayment P and unsecured dividend d.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-048",
+      "topicId": "bank-ch9-ordinary-course",
+      "title": "Exam practice 48 — Explain BAPCPA change from subjective AND industry objective to subj",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Explain BAPCPA change from subjective AND industry objective to subjective OR industry objective.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-049",
+      "topicId": "bank-ch9-ordinary-course",
+      "title": "Exam practice 49 — Why can detailed bilateral prior practice save a payment despite unu",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why can detailed bilateral prior practice save a payment despite unusual industry norms?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-050",
+      "topicId": "bank-ch9-national-gas",
+      "title": "Exam practice 50 — Why was bank standard 'loans usually paid when due' too vague in Nat",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why was bank standard 'loans usually paid when due' too vague in National Gas?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-051",
+      "topicId": "bank-ch9-national-gas",
+      "title": "Exam practice 51 — Why did personal owner guaranties matter to objective ordinariness?",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why did personal owner guaranties matter to objective ordinariness?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-052",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Exam practice 52 — What changes when new value comes before rather than after old debt ",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "What changes when new value comes before rather than after old debt repayment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-053",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Exam practice 53 — Differentiate contemporaneous new value from subsequent advance and ",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Differentiate contemporaneous new value from subsequent advance and enabling loan.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-054",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Exam practice 54 — Why aren't printed small-dollar §547(c) thresholds necessarily curre",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why aren't printed small-dollar §547(c) thresholds necessarily current?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-055",
+      "topicId": "bank-ch9-floating-lien-defense",
+      "title": "Exam practice 55 — Write §547(c)(5) two-point collateral deficiency formula and identif",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Write §547(c)(5) two-point collateral deficiency formula and identify dates.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-056",
+      "topicId": "bank-ch9-floating-lien-defense",
+      "title": "Exam practice 56 — What if inventory declines temporarily midperiod but returns to star",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "What if inventory declines temporarily midperiod but returns to starting level before petition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-057",
+      "topicId": "bank-ch9-setoff-basics",
+      "title": "Exam practice 57 — Distinguish ordinary prepetition setoff from crosspetition same-tran",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Distinguish ordinary prepetition setoff from crosspetition same-transaction recoupment.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-058",
+      "topicId": "bank-ch9-setoff-basics",
+      "title": "Exam practice 58 — Why does bailee holding goods lack mutual monetary debt?",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why does bailee holding goods lack mutual monetary debt?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-059",
+      "topicId": "bank-ch9-setoff-manipulation",
+      "title": "Exam practice 59 — Which §553 provision targets recent purchase of debtor claim, and wh",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Which §553 provision targets recent purchase of debtor claim, and which new debt incurred to acquire setoff power?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-060",
+      "topicId": "bank-ch9-setoff-manipulation",
+      "title": "Exam practice 60 — Why does §553(a)(3) need purpose evidence?",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why does §553(a)(3) need purpose evidence?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-061",
+      "topicId": "bank-ch9-setoff-math",
+      "title": "Exam practice 61 — Compute §553(b) general recapture using two unsecured insufficiencie",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Compute §553(b) general recapture using two unsecured insufficiencies (symbolic).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-062",
+      "topicId": "bank-ch9-setoff-math",
+      "title": "Exam practice 62 — Why does §553(b) need actual prepetition exercise of setoff?",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why does §553(b) need actual prepetition exercise of setoff?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-063",
+      "topicId": "bank-ch9-semcrude",
+      "title": "Exam practice 63 — Why was Chevron cross-affiliate triangular setoff unenforceable unde",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why was Chevron cross-affiliate triangular setoff unenforceable under §553 despite contracts?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-064",
+      "topicId": "bank-ch9-semcrude",
+      "title": "Exam practice 64 — How could genuine guarantee differ from mere netting right under §10",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "How could genuine guarantee differ from mere netting right under §101(5)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-065",
+      "topicId": "bank-ch9-ponzi-clawbacks",
+      "title": "Exam practice 65 — Contrast fictitious returns above investor principal with repayment ",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Contrast fictitious returns above investor principal with repayment of actual restitution debt.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-066",
+      "topicId": "bank-ch9-ponzi-clawbacks",
+      "title": "Exam practice 66 — Why is Ponzi presumption of debtor intent separate from good-faith v",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why is Ponzi presumption of debtor intent separate from good-faith value defense of recipient?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-067",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Exam practice 67 — Why did court reject blanket equitable universal recovery but allow ",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why did court reject blanket equitable universal recovery but allow distinct §548/§547 actions?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-068",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Exam practice 68 — Why might Ponzi routine distributions qualify for §547(c)(2) under s",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Why might Ponzi routine distributions qualify for §547(c)(2) under source approach?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-069",
+      "topicId": "bank-ch9-case-comparison-map",
+      "title": "Exam practice 69 — Contrast Video Depot legal recipient dominion with Marshall borrower",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Contrast Video Depot legal recipient dominion with Marshall borrower's temporary control.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-extra-070",
+      "topicId": "bank-ch9-case-comparison-map",
+      "title": "Exam practice 70 — Compare Omegas constructive trust skepticism and Cunningham willingn",
+      "kind": "Supplemental Chapter9 practice — UNSOLVED",
+      "source": "Original LEX study drills authored from supplied Chapter9 text, not verbatim casebook prompts",
+      "prompt": "Compare Omegas constructive trust skepticism and Cunningham willingness to protect truly traced funds.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
