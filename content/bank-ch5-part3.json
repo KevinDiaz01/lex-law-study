@@ -1,0 +1,450 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+  "coverage": {
+    "chapter": 5,
+    "scope": "B.1 Proof of Claims and Process; B.2 Grounds for Disallowance, limitations, lease and employee damage caps, §502(k); Problem 5.2(a)-(f) unanswered",
+    "notice": "Time limits and form rules as described in supplied 2021 text, subject to applicable Rules/Code changes after book edition."
+  },
+  "topics": [
+    {
+      "id": "bank-ch5-allowance-process",
+      "title": "B.1 — From Claim to Allowed Claim: Proofs, Notices, Deadlines, Objections",
+      "chapterGroup": "bank-ch5",
+      "description": "Formal allowance pathway §501/§502, chapter differences, timely versus late claims and estimation.",
+      "entries": [
+        {
+          "id": "bank-ch5-allowance-process-e1",
+          "type": "rule",
+          "title": "Three distinct statuses: claim, allowed claim, discharge",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "A right to payment may be a §101(5) claim; to share distributions or vote, claim must generally be allowed under §§501–502; a claim can be discharged even without being allowed.",
+          "laymanExplanation": "A creditor may hold real debt but miss a payout filing; discharge questions don't entirely depend on payout.",
+          "legalExplanation": "Chapter 7 no-asset cases frequently have no unsecured distributions, so filing proof often unnecessary unless notice requests it.",
+          "examApplication": "If asked who gets money, determine validity, proof/deemed filing and §502 objections separately.",
+          "examTrap": "Disallowance of a claim for distribution does not always mean debt discharged; unpaid debt not necessarily survives."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e2",
+          "type": "rule",
+          "title": "§501 / Rule 3001: proof of claim",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Ordinarily a creditor files Official Form 410 or substantially compliant written statement setting out its claim with court clerk; claim holder or indenture trustee usually files.",
+          "laymanExplanation": "Proof of claim is the application to participate in bankruptcy creditor payouts.",
+          "legalExplanation": "Rules 3001(a), 3002(b), 5005; supporting documents and evidentiary effect depend on compliance.",
+          "examApplication": "Start at whether creditor filed and by applicable date; no-asset case exceptions.",
+          "examTrap": "Simply listing creditor on debtor's schedules doesn't satisfy rules in every chapter."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e3",
+          "type": "rule",
+          "title": "Debtor/trustee/cosigner can sometimes file for creditor",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "If creditor doesn't timely file, debtor, trustee or entity liable with debtor may file under §501(b),(c) and Rule 3004 in limited circumstances.",
+          "laymanExplanation": "Debtor may want nondischargeable child support creditor to get estate money to reduce surviving balance.",
+          "legalExplanation": "Person with economic stake in distribution can protect against creditor neglect.",
+          "examApplication": "Look for §523 nondischargeable obligation; debtor wants share applied before later collection.",
+          "examTrap": "Not unrestricted right of strangers to file any claim anytime."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e4",
+          "type": "rule",
+          "title": "§1111(a): Chapter 11 schedule can deem proof filed",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Chapter 11 creditor with correctly scheduled noncontingent, liquidated and undisputed claim need not file separately; disputed/contingent/unliquidated or misvalued claims require creditor proof.",
+          "laymanExplanation": "Chapter 11 list itself can count as the application if debtor admits fixed debt.",
+          "legalExplanation": "§1111(a); Rule 3003(b)(1),(c)(2).",
+          "examApplication": "Identify exact scheduled amount and whether marked disputed, contingent or unliquidated.",
+          "examTrap": "Don't apply Chapter 11 deemed-filing shortcut to Chapter 7."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e5",
+          "type": "rule",
+          "title": "Notice to creditors, bar date and §342",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Debtor files creditor schedules; notices include meeting and proof date. Section 342 specifies effective notice to institutional creditors that designate service address/account number. Inadequate notice may protect claims from discharge.",
+          "laymanExplanation": "Bank must get bankruptcy notice through proper address/department when legally designated.",
+          "legalExplanation": "§523(a)(3) protects unscheduled/no-notice claims in specified individual contexts; corporate discharge demands due process notice.",
+          "examApplication": "Check whether claimant knew case in time, official notice address and whether proper filing chance.",
+          "examTrap": "Do not assume mail to any random corporate branch is always effective."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e6",
+          "type": "rule",
+          "title": "General Chapter 7, 12, 13 bar dates (book Rules)",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "As set out in uploaded textbook, Rule 3002(c) generally requires proof within 70 days after petition for voluntary cases, or 90 days after order for relief in involuntary cases; exceptions apply.",
+          "laymanExplanation": "Ordinary creditors have deadlines counted from filing/order—use correct start.",
+          "legalExplanation": "Textbook is 2021; current procedures may require updated Rules, but for book hypothetical use assigned wording.",
+          "examApplication": "Show calendar starting with voluntary petition or involuntary order for relief and count 70/90 days.",
+          "examTrap": "Don't use old ‘90 days after creditors meeting’ general rule."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e7",
+          "type": "rule",
+          "title": "Government claim timing",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Under §502(b)(9), governmental unit general claim deadline in book is 180 days from order for relief; particular Chapter 13 tax proof may be within 60 days after return filed.",
+          "laymanExplanation": "Tax agency has a different timer from ordinary private creditor.",
+          "legalExplanation": "Distinguish government and tax-return special timing.",
+          "examApplication": "In mixed problem write government-specific deadline instead of ordinary 70 days.",
+          "examTrap": "Don't assume every tax claim follows a 70-day timer."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e8",
+          "type": "rule",
+          "title": "Chapter 11 flexible court-set bar dates and excusable neglect",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Chapter 11 court sets deadline under Rule 3003(c)(3) and may extend for cause, including excusable neglect under Rule 9006(b)(1) and Pioneer.",
+          "laymanExplanation": "Long corporate restructuring may need flexible creditor filing schedule.",
+          "legalExplanation": "Different from automatic Rule 3002 general date; notice and due process critical.",
+          "examApplication": "Identify whether court entered bar-date order and creditor missed deadline due to excuse.",
+          "examTrap": "Not blanket right to submit late whenever creditor wants."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e9",
+          "type": "rule",
+          "title": "Late priority versus general unsecured distribution",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "§502(b)(9) timeliness rule has §726 exceptions: late priority proof may remain in first tier before final report/distribution cutoff; late nonpriority without notice may get second-tier payment if proof timely enough for distribution; ordinary other late claims third tier.",
+          "laymanExplanation": "Late creditor isn't always totally barred, but often moves down line.",
+          "legalExplanation": "Section 726(a)(1),(2)(C),(3) determine tiers, whereas §502(b)(9) acknowledges exceptions.",
+          "examApplication": "For tardy claim ask priority category, notice, when filed and when trustee distributions started.",
+          "examTrap": "Don't categorically disallow every late proof or put every late general claim in tier 2."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e10",
+          "type": "rule",
+          "title": "§502(a): filed proof deemed allowed absent objection",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Proof filed under §501 is deemed allowed unless party in interest objects; compliant proof has prima facie evidentiary effect (Rule 3001(f)).",
+          "laymanExplanation": "No one challenges claim? Normally it can participate without lawsuit.",
+          "legalExplanation": "Trustee must examine and object to improper claims under §704(a)(5); others with stake may object.",
+          "examApplication": "Distinguish automatic allowance from contested objection and burden rules.",
+          "examTrap": "Filing proof is not unchallengeable judgment in creditor's favor."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e11",
+          "type": "rule",
+          "title": "Contested proofs: §502(b), §502(c) and forums",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "On objection, court determines validity/amount at petition date under §502(b); contingent or unliquidated claims must be estimated if liquidation delays administration, §502(c); claims objection generally core under 28 USC §157(b)(2)(B), but personal injury/wrongful death estimation/liquidation special process.",
+          "laymanExplanation": "Judge might estimate an uncertain asbestos damages claim so estate can pay now.",
+          "legalExplanation": "The system can't exclude uncertain claims as unprovable like old law did.",
+          "examApplication": "Ask if claim can be liquidated promptly or estimation necessary; identify proper judicial forum.",
+          "examTrap": "Don't assume bankruptcy judge conducts full jury trial on personal injury amount."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e12",
+          "type": "rule",
+          "title": "Burden rules from underlying law (Raleigh)",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Although Rule 3001(f) provides prima facie case for compliant proof, after objection underlying nonbankruptcy law ordinarily supplies burdens of persuasion/production under Raleigh v Illinois DOR.",
+          "laymanExplanation": "Bankruptcy filing doesn't automatically reverse ordinary burden of proving debt.",
+          "legalExplanation": "Distinguish filing presumption and ultimate burden on state tax/contract claim.",
+          "examApplication": "If objection challenges legally invalid contract, use relevant contract-law burden.",
+          "examTrap": "Raleigh is cited but not fully excerpted opinion."
+        },
+        {
+          "id": "bank-ch5-allowance-process-e13",
+          "type": "rule",
+          "title": "Reconsideration and settlement of claim",
+          "page": "Ch.5 §B.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Order allowing/disallowing claim may be reconsidered for cause §502(j), Rule 3008; compromise under Rule 9019(a) generally requires court approval following creditor notice.",
+          "laymanExplanation": "A disputed claim can be settled, but trustee generally needs judge approval.",
+          "legalExplanation": "Withdrawal Rule 3006 ordinarily available before objection/significant participation; recheck procedure.",
+          "examApplication": "If creditor and trustee compromise amount, don't skip approval requirements.",
+          "examTrap": "Not every phone agreement between creditor and trustee changes allowed amount."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-disallowance",
+      "title": "B.2 — §502(b) Grounds for Disallowance: Three Categories",
+      "chapterGroup": "bank-ch5",
+      "description": "Timing, underlying legal enforceability and bankruptcy-specific policy grounds including (d),(e),(k).",
+      "entries": [
+        {
+          "id": "bank-ch5-disallowance-e1",
+          "type": "rule",
+          "title": "§502 disallowance grounds are statutory and exclusive",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "After objection, disallowance rests on §502(b)(1)–(9) plus §§502(d),(e),(k), not court's free-floating fairness determination.",
+          "laymanExplanation": "Court can't refuse valid claim solely because creditor seems rich or unsympathetic.",
+          "legalExplanation": "Distinguish equitable subordination under §510(c) from §502 disallowance.",
+          "examApplication": "Start §502(b) text and relevant exception rather than broad morality.",
+          "examTrap": "A valid claim can be subordinated without being disallowed."
+        },
+        {
+          "id": "bank-ch5-disallowance-e2",
+          "type": "rule",
+          "title": "Timing: amount measured as of filing; later exceptions",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "§502(b) fixes petition-date amount; new postpetition obligation generally not ordinary prepetition allowed claim. Exceptions: §502(g) postpetition contract rejection treated as prepetition, §502(h) avoidance recovery claim similarly.",
+          "laymanExplanation": "New fraud after filing is usually not old creditor claim; rejection damages treated specially.",
+          "legalExplanation": "Contingent and unmatured already prepetition are not disallowed simply because future payment date.",
+          "examApplication": "For 5.2(b) identify fraud June1 AFTER May1 filing; for contracts separate preexisting obligations.",
+          "examTrap": "Do not equate contingent future maturity with postpetition origin."
+        },
+        {
+          "id": "bank-ch5-disallowance-e3",
+          "type": "rule",
+          "title": "§502(b)(1): enforceability defenses carry over",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "If claim unenforceable under applicable agreement/nonbankruptcy law for reason other than contingency/unmaturity, disallow to same extent; examples expired statute of limitations and contract defenses.",
+          "laymanExplanation": "Expired warranty lawsuit doesn't become revived just because seller went bankrupt.",
+          "legalExplanation": "§558 lets estate assert debtor's defenses; limitations date measured properly under UCC, subject relevant law exceptions.",
+          "examApplication": "In 5.2(a) compare 2014 gizmo sale and 2020 proof with four-year UCC warranty limit.",
+          "examTrap": "Bankruptcy generally does not create new cause of action."
+        },
+        {
+          "id": "bank-ch5-disallowance-e4",
+          "type": "rule",
+          "title": "§502(b)(2): unmatured/postpetition interest excluded",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Unsecured claim cannot include unaccrued interest after filing; claim amount fixed petition date. Exceptions include oversecured §506(b) postpetition interest to collateral surplus and solvent Chapter 7 §726(a)(5) interest tier.",
+          "laymanExplanation": "Loan continues accruing contract interest in ordinary world, but bankruptcy claim usually freezes at filing.",
+          "legalExplanation": "Compute principal and accrued interest through petition, not all future contracted interest; interest already accrued prefiling is included if enforceable.",
+          "examApplication": "For 5.2(c) identify each loan rate/interest paid through Dec2019, Jan1 filing; for 5.2(d) separate $5k principal and $6k 2022 payoff.",
+          "examTrap": "Do not award all $6k future amount solely because contract promises it."
+        },
+        {
+          "id": "bank-ch5-disallowance-e5",
+          "type": "rule",
+          "title": "§502(b)(3),(4),(5),(8),(9), (d),(e) overview",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Disallowance includes excess tax against estate asset value (b)(3); excessive insider/attorney service fees (b)(4); specified unmatured future support (b)(5); employment tax adjustment (b)(8); late proofs (b)(9); transferee failing turnover of avoidable transfer (d); contingent reimbursement/contribution/subrogation (e).",
+          "laymanExplanation": "Code has numerous specialized reasons to limit otherwise valid demands.",
+          "legalExplanation": "Each belongs statute rather than flexible equitable power; apply precise predicates.",
+          "examApplication": "List subsection in any atypical claim question, especially tax, insiders, avoidable transfers.",
+          "examTrap": "Don't assume all support or tax claims disallowed; narrow subsection requirements."
+        },
+        {
+          "id": "bank-ch5-disallowance-e6",
+          "type": "rule",
+          "title": "§502(k): refusal to negotiate consumer debt proposal",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Court may reduce qualifying consumer debt claim up to 20% if creditor unreasonably refuses to consider approved nonprofit counselor's proposal ≥60 days before petition to pay ≥60% over reasonable time; clear-and-convincing proof, no §523(a) nondischargeability portion.",
+          "laymanExplanation": "Credit card lender might lose up to fifth of claim for improperly ignoring timely good-faith debt workout offer.",
+          "legalExplanation": "Proof predicates are narrow and user must prove refusal, not just creditor declining different payment.",
+          "examApplication": "Calculate 20% × allowed principal if all conditions, but exclude nondischargeable debt.",
+          "examTrap": "Don't apply §502(k) without accredited counselor and offer timing/minimum."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-landlord-cap",
+      "title": "B.2 — §502(b)(6) Real Property Lease Rejection Damages Cap",
+      "chapterGroup": "bank-ch5",
+      "description": "Step-by-step calculation, 12-month floor, 36-month ceiling, rent arrears, actual damages and exceptions.",
+      "entries": [
+        {
+          "id": "bank-ch5-landlord-cap-e1",
+          "type": "rule",
+          "title": "Landlord cap formula: greater of one year or 15% up to three years",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "§502(b)(6)(A) cap on lease-termination damages for REAL property: reserved rent over maximum of (12 months, min(15% of remaining term,36 months)), PLUS separate unpaid pretermination rent subject §502(b)(6)(B). Actual enforceable damages can be less.",
+          "laymanExplanation": "Landlord can't claim all 99 years of unpaid future rent ahead of other creditors.",
+          "legalExplanation": "Calculate 15% in months; apply at least 12 and at most 36; multiply by monthly reserved rent, add eligible unpaid rent; compare actual mitigated claim.",
+          "examApplication": "For 5.2(e) 91-year remaining term yields 36-month ceiling; but actual $50k/year difference after relet may matter.",
+          "examTrap": "The ceiling is not guaranteed award. Don't confuse separate back rent with future cap."
+        },
+        {
+          "id": "bank-ch5-landlord-cap-e2",
+          "type": "rule",
+          "title": "Quick calculation: 5 years remaining",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "60 months × 0.15 = 9 months, floor 12 months. At $100,000 annual rent, capped future amount is $100,000 before separately qualifying arrears.",
+          "laymanExplanation": "Five years left still only one year's rent allowed at most.",
+          "legalExplanation": "Threshold remaining 80 months produces 12 months; under 80 months floor controls.",
+          "examApplication": "Write 60×.15=9 < 12 → 12 months.",
+          "examTrap": "Do not calculate 15% × annual rent; multiply percentage by remaining TERM."
+        },
+        {
+          "id": "bank-ch5-landlord-cap-e3",
+          "type": "rule",
+          "title": "Quick calculation: 10 years remaining",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "120 months ×0.15=18 months; between 12 and 36; at $100k annual rent, maximum future damages $150k.",
+          "laymanExplanation": "Ten-year lease may get 1.5 years of rent as cap.",
+          "legalExplanation": "Rent reserved basis distinct from loss after mitigation.",
+          "examApplication": "Show 18/12×$100k = $150k.",
+          "examTrap": "Do not round 18 months to 2 years."
+        },
+        {
+          "id": "bank-ch5-landlord-cap-e4",
+          "type": "rule",
+          "title": "Quick calculation: 20+ years remaining",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "240 months ×0.15=36 months; 20+ years hits cap 3 years. At $100k annual rent, future loss ceiling $300k plus qualifying prepetition rent.",
+          "laymanExplanation": "Hundred-year lease doesn't give decades of rent priority; at most 36-month future rent cap.",
+          "legalExplanation": "Long leases beyond 20 years stay at 36-month threshold.",
+          "examApplication": "Problem 5.2(e): 91 remaining years, compute 36 months at $100k/year $300k ceiling; must compare lower actual lost spread.",
+          "examTrap": "15% of 91 years isn't the final permitted cap due to 36-month maximum."
+        },
+        {
+          "id": "bank-ch5-landlord-cap-e5",
+          "type": "rule",
+          "title": "Actual losses and mitigation can be less than statutory ceiling",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "A capped claim is min(actual enforceable damages under contract/state law after mitigation, statutory max). Landlord may relet premises and reduce harm.",
+          "laymanExplanation": "If tenant broke lease but landlord replaced tenant, landlord can't necessarily collect entire ceiling if real loss smaller.",
+          "legalExplanation": "§502(b)(1) disallows underlying legally avoidable/massively mitigated damages; §502(b)(6) upper limit independently applies.",
+          "examApplication": "For 5.2(e) compare $100k old rent vs $50k new across 91 years, mitigation and potential discount, then 3-year cap.",
+          "examTrap": "Never assume statutory cap amount itself is the actual claim amount."
+        },
+        {
+          "id": "bank-ch5-landlord-cap-e6",
+          "type": "rule",
+          "title": "Assumed and later rejected lease — §503(b)(7) special rule",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Where estate assumed nonresidential real estate lease then rejects, §503(b)(7) gives administrative expense for sums due during two years after rejection (or surrender if later) subject to relet mitigation; later-term damages as prepetition claim subject §502(b)(6).",
+          "laymanExplanation": "If bankruptcy estate chose to keep lease and later abandoned it, special post-assumption payment rules apply.",
+          "legalExplanation": "Important exception to ordinary prepetition §502 cap for initial administrative period.",
+          "examApplication": "Identify whether contract rejected immediately or assumed first; nonresidential premises.",
+          "examTrap": "Don't apply ordinary §502(b)(6) limit to all §503 administrative expense amounts."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-employee-damage-cap",
+      "title": "B.2 — §502(b)(7) Employment Contract Termination Cap",
+      "chapterGroup": "bank-ch5",
+      "description": "Separate from §507(a)(4) wage priority; employee contract damages ceiling.",
+      "entries": [
+        {
+          "id": "bank-ch5-employee-damage-cap-e1",
+          "type": "rule",
+          "title": "§502(b)(7) cap for future employee termination compensation",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "Allow employee termination damages only up to contract compensation for ONE YEAR after earlier of petition or performance termination, without acceleration, plus unpaid compensation due at that earlier date.",
+          "laymanExplanation": "Baseball player can't necessarily collect every year of ten-year $25m contract after team folds.",
+          "legalExplanation": "Contractual salary one-year ceiling distinct from §507(a)(4) much smaller wage priority cap; claim still may be general unsecured.",
+          "examApplication": "For 5.2(f) 10-year $25m/year contract, identify earlier date, calculate up to $25m one-year future compensation plus eligible past due amounts, leaving outcome unanswered.",
+          "examTrap": "Do not confuse size of allowed employee claim with amount qualifying for wage priority."
+        },
+        {
+          "id": "bank-ch5-employee-damage-cap-e2",
+          "type": "rule",
+          "title": "Employee claim allowance vs priority are separate numerical questions",
+          "page": "Ch.5 §B.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "§502(b)(7) caps allowed termination-damages claim; §507(a)(4),(5) determine smaller priority treatment for wages/benefits earned within 180-day window and capped per employee (source-era indexed dollars).",
+          "laymanExplanation": "Allowed $25m claim doesn't imply $25m paid before general unsecured creditors.",
+          "legalExplanation": "First allow claim, THEN allocate priority share, THEN distribute as estate permits.",
+          "examApplication": "For athlete hypothetical make two columns, allowed damages vs priority if any.",
+          "examTrap": "Don't apply wage-priority amount as if it were maximum total claim."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-problem-5-2",
+      "title": "B.2 — Problem 5.2(a)–(f): Allowance and Calculations (Unsolved)",
+      "chapterGroup": "bank-ch5",
+      "description": "All six scenarios preserved without supplied conclusions.",
+      "entries": [
+        {
+          "id": "bank-ch5-problem-5-2-e1",
+          "type": "rule",
+          "title": "No-answer computational issue-spotting checklist",
+          "page": "Ch.5 §B.2 / Problem 5.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+          "summary": "For each scenario write (1) date claim legally arose, (2) nonbankruptcy enforceability, (3) statutory disallowance subsection, (4) permitted dollar claim at petition, and (5) any separate priority issue.",
+          "laymanExplanation": "Don't decide by how unfair creditor appears; do the math and statutory classification.",
+          "legalExplanation": "Keep original 5.2(a)–(f) unanswered, with formulas available elsewhere in notes.",
+          "examApplication": "Apply §502(b)(1),(2),(6),(7) and petition date carefully.",
+          "examTrap": "An unliquidated allowed claim ≠ no claim."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch5-p5-2-a",
+      "topicId": "bank-ch5-problem-5-2",
+      "title": "Problem 5.2(a)",
+      "kind": "Casebook Problem 5.2(a) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+      "prompt": "Buyer purchased gizmo from debtor in 2014; debtor Chapter 7 in 2020; buyer first alleges defective product via proof of claim; UCC Article 2 warranty limitations four years from tender. Decide disallowance under §502(b)(1); unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-p5-2-b",
+      "topicId": "bank-ch5-problem-5-2",
+      "title": "Problem 5.2(b)",
+      "kind": "Casebook Problem 5.2(b) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+      "prompt": "Debtor filed Chapter 7 May 1, 2020; on June 1 debtor commits new fraud by selling pirated DVD as authentic; victim claims refund through bankruptcy proof. Identify postpetition timing versus allowed prepetition claim; unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-p5-2-c",
+      "topicId": "bank-ch5-problem-5-2",
+      "title": "Problem 5.2(c)",
+      "kind": "Casebook Problem 5.2(c) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+      "prompt": "Creditor A: Jan1 2018 $1,000 loan at 10% annual; creditor B: Jan1 2019 $1,000 at 8%; both only interest paid through Dec31 2019; debtor filed Jan1 2020 when market rate 8%. Identify allowed principal and which interest may be included under §502(b)(2); unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-p5-2-d",
+      "topicId": "bank-ch5-problem-5-2",
+      "title": "Problem 5.2(d)",
+      "kind": "Casebook Problem 5.2(d) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+      "prompt": "Creditor lent debtor $5,000 in 2018 with required $6,000 repayment 2022; debtor files 2020, creditor claims full $6,000. Analyze unmatured interest discount and allowable petition-date balance; unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-p5-2-e",
+      "topicId": "bank-ch5-problem-5-2",
+      "title": "Problem 5.2(e)",
+      "kind": "Casebook Problem 5.2(e) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+      "prompt": "Jan1 2012 landlord leased old military base 99 years at $100k annual; tenant repudiated Dec31 2019 with no rent arrears; Jan1 2020 Chapter 7; landlord immediately relet for remaining 91 years at $50k/year. Compute statutory §502(b)(6) months and compare actual mitigated damages; unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-p5-2-f",
+      "topicId": "bank-ch5-problem-5-2",
+      "title": "Problem 5.2(f)",
+      "kind": "Casebook Problem 5.2(f) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §B Allowance of Claims and Problems 5.2(a)-(f)",
+      "prompt": "Professional baseball player agreed 2018 to 10 years at $25m/year with 'Texas Strangers'; team discontinues operation, terminates contracts Jan1 2020 and files Chapter 7. Determine §502(b)(7) future damages cap and any other classification; unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
