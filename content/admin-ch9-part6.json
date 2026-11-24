@@ -1,0 +1,416 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+  "coverage": {
+    "submittedPages": "620–668",
+    "includedPages": "658–668",
+    "syllabus": "Lubbers Fall 2026 §9.4: factual issues in informal actions, Baltimore Gas and Electric, FCC Prometheus, census pretext case, OSHA EtO Problem 9, pp. 658–668"
+  },
+  "topics": [
+    {
+      "id": "admin-ch9-informal-factreview",
+      "title": "§ 9.4 — Review of Facts in Informal Proceedings (pp. 658–663)",
+      "chapterGroup": "admin-ch9",
+      "description": "Factual component of APA §706(2)(A), substantial evidence §706(2)(E), Data Processing, predictive science and FCC Prometheus.",
+      "entries": [
+        {
+          "id": "admin-ch9-informal-factreview-e1",
+          "type": "rule",
+          "title": "Informal agency factfinding reviewed as arbitrary/capricious",
+          "page": "658–659",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Informal action lacks §706(2)(E) formal record gateway but agency's factual premises still reviewed for reasonableness under §706(2)(A).",
+          "laymanExplanation": "An informal safety rule must still have plausible evidence behind its facts.",
+          "legalExplanation": "Courts expanded §706(2)(A) to test factual bases as informal rulemaking gained large consequences.",
+          "examApplication": "First determine if formal on-the-record hearing or §553 informal procedure; then identify fact vs discretion.",
+          "examTrap": "Do not assume factual assertions in informal action are beyond review."
+        },
+        {
+          "id": "admin-ch9-informal-factreview-e2",
+          "type": "rule",
+          "title": "Data Processing: factual review standards often largely semantic",
+          "page": "659–660",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Scalia's Data Processing decision said factual sufficiency under substantial evidence and arbitrary/capricious may be similar, but formal proceedings provide a different record and hearing process.",
+          "laymanExplanation": "Both standards ask whether facts reasonably support what agency concluded.",
+          "legalExplanation": "D.C. Circuit observed federal appellate consensus; Supreme Court Dickinson v Zurko acknowledged without firmly adopting.",
+          "examApplication": "Explain why congressionally prescribed OSHA substantial evidence still warrants separate mention.",
+          "examTrap": "Not universally identical for every federal statute and review issue."
+        },
+        {
+          "id": "admin-ch9-informal-factreview-e3",
+          "type": "case",
+          "title": "Association of Data Processing Service Organizations v. Federal Reserve, 745 F.2d 677",
+          "page": "659–660",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "D.C. Circuit described factual reasonableness equivalence between §706(2)(E) and factual part §706(2)(A).",
+          "laymanExplanation": "Label matters less than supporting evidence.",
+          "legalExplanation": "Formal record requirements remain meaningful.",
+          "examApplication": "Compare OSHA rulemaking and ordinary EPA notice-comment.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in textbook Notes, not full opinion excerpt"
+        },
+        {
+          "id": "admin-ch9-informal-factreview-e4",
+          "type": "rule",
+          "title": "OSH Act §655(f) substantial evidence standard",
+          "page": "660,667–668",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "OSHA worker safety standards must be supported by substantial evidence considering whole record; circuit views differ whether that is more rigorous than factual arbitrariness.",
+          "laymanExplanation": "OSHA needs substantial scientific support, not certainty.",
+          "legalExplanation": "Evaluate significant-risk threshold, scientific data and agency explanation separately.",
+          "examApplication": "Use statutory standard specifically in EtO analysis.",
+          "examTrap": "The statute does not impose a criminal burden of proof."
+        },
+        {
+          "id": "admin-ch9-informal-factreview-e5",
+          "type": "rule",
+          "title": "Baltimore Gas: greatest deference at frontiers of science",
+          "page": "660–661",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Courts generally most deferential when technical agency predicts uncertain scientific impacts, e.g., NRC assessment of long-term nuclear waste.",
+          "laymanExplanation": "An expert agency can make uncertain forecasts if it explains how.",
+          "legalExplanation": "Baltimore Gas & Electric upheld nuclear waste model, contrasting State Farm's ignored evidence/alternatives.",
+          "examApplication": "When applying to EtO, examine limitations of studies and reason for extrapolation.",
+          "examTrap": "Science deference is not immunity for irrational speculation."
+        },
+        {
+          "id": "admin-ch9-informal-factreview-e6",
+          "type": "case",
+          "title": "Baltimore Gas & Electric Co. v. NRDC, 462 U.S. 87 (1983)",
+          "page": "660–661",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Supreme Court upheld NRC predictive nuclear-waste impacts model within technical expertise.",
+          "laymanExplanation": "Judges allow reasonable expert estimates at scientific frontier.",
+          "legalExplanation": "Only case discussion, not full opinion reproduced.",
+          "examApplication": "Contrast State Farm's missing explanation.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in textbook Notes, not full opinion excerpt"
+        },
+        {
+          "id": "admin-ch9-informal-factreview-e7",
+          "type": "rule",
+          "title": "FCC Prometheus: zone of reasonableness and no mandatory independent study",
+          "page": "661–662",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "FCC predicted ownership-rule repeal unlikely to reduce minority/female-owned broadcasting with imperfect available evidence; APA doesn't impose universal duty to commission statistics.",
+          "laymanExplanation": "Agency may make reasonable forecast without perfect research.",
+          "legalExplanation": "Comments had no forward-looking statistical proof despite FCC invitations; Supreme Court upheld rational prediction.",
+          "examApplication": "Identify evidence actually available and why agency inference reasonable.",
+          "examTrap": "Unsupported assertions still not enough."
+        },
+        {
+          "id": "admin-ch9-informal-factreview-e8",
+          "type": "case",
+          "title": "FCC v. Prometheus Radio Project, 592 U.S. 414 (2021)",
+          "page": "661–662",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Supreme Court unanimously upheld FCC media ownership predictive judgment; reversed demand for better empirical study.",
+          "laymanExplanation": "Reasonable prediction can survive with imperfect data.",
+          "legalExplanation": "Kavanaugh described agency's 'zone of reasonableness'.",
+          "examApplication": "Compare quality and relevance of opposing studies.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in textbook Notes, not full opinion excerpt"
+        },
+        {
+          "id": "admin-ch9-informal-factreview-e9",
+          "type": "rule",
+          "title": "Predictive judgment must still connect facts to choice",
+          "page": "661–662",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Uncertainty may be resolved through informed expertise but agency cannot merely recite 'uncertain'; should address known contradictory or useful data.",
+          "laymanExplanation": "Scientists can extrapolate, but explain methods and limits.",
+          "legalExplanation": "State Farm and NRDC v Herrington constrain needless uncertain assumptions.",
+          "examApplication": "Describe data, inference, alternatives and unresolved uncertainty.",
+          "examTrap": "A mere 'science is complex' sentence will not do."
+        },
+        {
+          "id": "admin-ch9-informal-factreview-e10",
+          "type": "concept",
+          "title": "Colorado state judgmental facts and liquor license standards",
+          "page": "662–663",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Court upheld rules controlling sexually oriented activities in liquor-licensed venues with police testimony/experience about crime despite no definitive quantitative proof.",
+          "laymanExplanation": "Expert practical law-enforcement experience may inform prospective policy.",
+          "legalExplanation": "Citizens for Free Enterprise v Department of Revenue applied Colorado record law and acknowledged substantial policy component.",
+          "examApplication": "State experience-based data may be enough; explain relevance.",
+          "examTrap": ""
+        }
+      ]
+    },
+    {
+      "id": "admin-ch9-administrative-record",
+      "title": "§ 9.4 — Administrative Record, Pretext and State Approaches (pp. 663–667)",
+      "chapterGroup": "admin-ch9",
+      "description": "Closed-record review, narrowly permitted supplements, Census citizenship question pretext, open vs closed state review.",
+      "entries": [
+        {
+          "id": "admin-ch9-administrative-record-e1",
+          "type": "rule",
+          "title": "Federal default: closed record as it existed at agency decision",
+          "page": "663–664",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Court reviews materials before agency at decision time, even in informal proceedings; additional court-developed evidence generally excluded.",
+          "laymanExplanation": "Judge sees the record agency had, not new expert reports made later.",
+          "legalExplanation": "Overton Park, Camp v Pitts and IMS v Alvarez ground existing-record principle; notice-comment need not use formal hearing to have a reviewable record.",
+          "examApplication": "Compare existing agency docs and later challenges; check record completeness.",
+          "examTrap": "Court does not retry every scientific dispute from scratch."
+        },
+        {
+          "id": "admin-ch9-administrative-record-e2",
+          "type": "rule",
+          "title": "Four narrow extra-record exceptions (Lands Council)",
+          "page": "664",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Extra-record material may be allowed to test failure to consider relevant factors or explain action, recover documents agency relied on but omitted, clarify complex scientific terms, or prove bad faith.",
+          "laymanExplanation": "You can sometimes look outside file if agency hid documents, experts need to explain a term, or officials lied.",
+          "legalExplanation": "Lands Council said exceptions narrowly construed; distinguish completion of record from entirely new merits evidence.",
+          "examApplication": "Specify exact legal exception and supporting evidentiary showing.",
+          "examTrap": "New competing study from plaintiff alone generally insufficient."
+        },
+        {
+          "id": "admin-ch9-administrative-record-e3",
+          "type": "case",
+          "title": "Lands Council v. Regional Forester, 395 F.3d 1019 (9th Cir. 2005)",
+          "page": "664",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Textbook lists four narrow extra-record reasons under this precedent.",
+          "laymanExplanation": "Rare exceptions to closed review.",
+          "legalExplanation": "Not a license for full court trial.",
+          "examApplication": "",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in textbook Notes, not full opinion excerpt"
+        },
+        {
+          "id": "admin-ch9-administrative-record-e4",
+          "type": "rule",
+          "title": "Strong showing of bad faith allows pretext scrutiny",
+          "page": "664–666",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Agency's asserted rationale must be genuine; rare contradiction between decision history and sole stated justification may warrant unusual record discovery.",
+          "laymanExplanation": "Government can have political preferences, but shouldn't invent a fake legal explanation.",
+          "legalExplanation": "Overton Park 'strong showing', Department of Commerce census case illustrated staged effort to solicit DOJ request after desired decision set.",
+          "examApplication": "Build chronology: what agency wanted, who requested, stated explanation and contrary records.",
+          "examTrap": "Mixed motives alone do not prove pretext."
+        },
+        {
+          "id": "admin-ch9-administrative-record-e5",
+          "type": "case",
+          "title": "Department of Commerce v. New York, 588 U.S. 752 (2019) — Census citizenship question",
+          "page": "664–666",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Ross cited DOJ Voting Rights Act enforcement for citizenship question; evidence revealed desire predated request and DOJ justification was solicited. Supreme Court held stated reason contrived; Thomas dissent warned discovery fishing expeditions.",
+          "laymanExplanation": "Agency's explanation cannot be staged cover story.",
+          "legalExplanation": "Roberts majority distinguished sole fake reason from ordinary additional political motives.",
+          "examApplication": "Contrast majority's record contradiction with Thomas regularity concerns.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in textbook Notes, not full opinion excerpt"
+        },
+        {
+          "id": "admin-ch9-administrative-record-e6",
+          "type": "concept",
+          "title": "Thomas dissent in Census pretext case",
+          "page": "665–666",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Dissent warned expanded pretext theory allows politically motivated discovery, depositions and obstruction of routine policymaking.",
+          "laymanExplanation": "Too much probing into motives can turn every policy dispute into a trial of officials.",
+          "legalExplanation": "Important balance to strong-showing standard.",
+          "examApplication": "Present critical perspective without claiming majority adopted it.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch9-administrative-record-e7",
+          "type": "rule",
+          "title": "States may use open record in informal adjudication",
+          "page": "666–667",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Some states permit evidence beyond agency file for informal or ministerial action; federal practice generally closed.",
+          "laymanExplanation": "If agency had no reliable file, state court may consider extra facts.",
+          "legalExplanation": "Lake Sunapee and Western States contrast state approaches.",
+          "examApplication": "Distinguish formal adjudication, informal administrative choice and rulemaking.",
+          "examTrap": "Federal record rule not automatically state rule."
+        },
+        {
+          "id": "admin-ch9-administrative-record-e8",
+          "type": "rule",
+          "title": "State rulemaking: closed record prevents sandbagging/de novo policymaking",
+          "page": "666–667",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Many states, including California for rulemaking, limit new expert proof to protect administrative primacy and avoid post hoc judicial science trials.",
+          "laymanExplanation": "If objector held back evidence until court, judges might become policymakers.",
+          "legalExplanation": "Western States Petroleum explains cost, finality and institutional concerns; counterargument fairness to absent participants.",
+          "examApplication": "Assess state statute and equity of participation.",
+          "examTrap": "Closed record doesn't automatically bar narrow evidence of bad faith."
+        },
+        {
+          "id": "admin-ch9-administrative-record-e9",
+          "type": "case",
+          "title": "Western States Petroleum Association v. Superior Court, 888 P.2d 1268 (Cal. 1995)",
+          "page": "666–667",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "California declined open-record rulemaking challenge because new competing scientists could turn judicial review into de novo test of wisdom.",
+          "laymanExplanation": "Agency, not judge, makes quasi-legislative technical policy.",
+          "legalExplanation": "Discusses preserving finality and reducing sandbagging.",
+          "examApplication": "Distinguish state ministerial action.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in textbook Notes, not full opinion excerpt"
+        }
+      ]
+    },
+    {
+      "id": "admin-ch9-eto-problem",
+      "title": "§ 9.4 — OSHA Ethylene Oxide (EtO) Exposure & STEL — Assigned Problem (pp. 667–668)",
+      "chapterGroup": "admin-ch9",
+      "description": "OSHA significant-risk Benzene, feasibility Cotton Dust, EtO science, occupational substantial evidence, short-term exposure alternative.",
+      "entries": [
+        {
+          "id": "admin-ch9-eto-problem-e1",
+          "type": "rule",
+          "title": "OSHA health protection threshold: significant risk and feasibility",
+          "page": "667–668",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "OSHA must first find significant workplace risk (Benzene) then protect against material health impairment to extent technologically/economically feasible (Cotton Dust), subject to substantial evidence §655(f).",
+          "laymanExplanation": "Agency must protect workers as fully as feasible once significant hazard shown; it needn't maximize simple net-dollar benefits.",
+          "legalExplanation": "Cost-effectiveness alone not substitute for statutory feasibility; uncertainties in toxicology require reasoned extrapolation.",
+          "examApplication": "Separately analyze significant risk, 1 ppm feasible limit, evidence, reasoned rejection of STEL.",
+          "examTrap": "Lower-cost 5 ppm alternative is not automatically mandated by executive CBA."
+        },
+        {
+          "id": "admin-ch9-eto-problem-e2",
+          "type": "rule",
+          "title": "EtO empirical record: three distinct study limitations",
+          "page": "667–668",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Hogstedt leukemia: 3 deaths vs 0.2 expected in 230 exposed workers. Bushy Run rats: cancers after 100ppm/60ppm exposure but viral illness. Hemminki nurses: greater reported miscarriages with purpose-awareness questionnaire bias.",
+          "laymanExplanation": "Evidence points to danger but every study has a possible weakness.",
+          "legalExplanation": "Scientific extrapolation and confounding do not prove facts false, but agency should explain why evidence collectively supports standard.",
+          "examApplication": "Quantify 3/0.2 = 15 times expected (do not treat as precise causal risk ratio); explain viral confound and survey bias.",
+          "examTrap": "Statistical association and precise human dose response are separate."
+        },
+        {
+          "id": "admin-ch9-eto-problem-e3",
+          "type": "concept",
+          "title": "EtO quantitative facts provided in problem",
+          "page": "667–668",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "Prior 50 ppm eight-hour average replaced with 1 ppm; 5 ppm would save 85% of compliance cost; zero exposure not feasible; OSHA projected 12–23 excess cancer deaths even at 1 ppm.",
+          "laymanExplanation": "The new average maximum is 1/50 prior limit, but still not zero risk.",
+          "legalExplanation": "Use as factual inputs for qualitative review; rat-to-human models require assumptions.",
+          "examApplication": "Compute 50 to 1 is 98% lower numerical limit; compare savings and residual risks without predetermining legal choice.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch9-eto-problem-e4",
+          "type": "rule",
+          "title": "Proposed 10 ppm short-term exposure limit not adopted",
+          "page": "668",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026)",
+          "summary": "OSHA initially proposed no brief peak over 10 ppm (STEL) but decided 1 ppm full-shift average would suffice, after OMB complained of expense and inadequate benefits.",
+          "laymanExplanation": "A low average might still allow high spike; agency must explain why added peak limit unnecessary.",
+          "legalExplanation": "Separate short-term and long-term exposure risks; §706 reasoned decision and statute protect workers where feasible.",
+          "examApplication": "Ask if agency had studies of peak exposures and causal injury; what did OMB say and what OSHA actually relied on?",
+          "examTrap": "OMB policy cost objections cannot displace statute's health-protection command."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch9-cont6-p1",
+      "topicId": "admin-ch9-informal-factreview",
+      "title": "Substantial evidence vs arbitrary factual review",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026) (p. 658–660)",
+      "prompt": "Compare formal §706(2)(E) and informal §706(2)(A) with Data Processing. Does OSHA §655(f) change outcome or only label?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont6-p2",
+      "topicId": "admin-ch9-informal-factreview",
+      "title": "State Farm versus Baltimore Gas and Prometheus",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026) (p. 660–662)",
+      "prompt": "Differentiate rational scientific projection with incomplete data from unexplained rejection of obvious safety alternative and unsupported uncertainty.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont6-p3",
+      "topicId": "admin-ch9-informal-factreview",
+      "title": "Predictive facts from police expertise",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026) (p. 662–663)",
+      "prompt": "Can state agency rely on experienced police testimony to justify rule without controlled empirical crime studies? Evaluate state record review.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont6-p4",
+      "topicId": "admin-ch9-administrative-record",
+      "title": "Closed record and concealed expert material",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026) (p. 663–664)",
+      "prompt": "Compare newly commissioned anti-agency expert testimony and preexisting technical memorandum agency secretly relied on. When does Lands Council permit supplement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont6-p5",
+      "topicId": "admin-ch9-administrative-record",
+      "title": "Census pretext evidence",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026) (p. 664–666)",
+      "prompt": "Agency initiated decision before requesting DOJ VRA rationale. Is this contrived official explanation or permissible mixed motives? Consider Roberts and Thomas.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont6-p6",
+      "topicId": "admin-ch9-administrative-record",
+      "title": "States and sandbagging",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026) (p. 666–667)",
+      "prompt": "Should a court accept new data to challenge rule where person did not comment? Compare California closed record and more permissive state informal decisions.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont6-p7",
+      "topicId": "admin-ch9-eto-problem",
+      "title": "OSHA EtO 1 ppm and 10 ppm STEL — professor-assigned problem",
+      "kind": "Textbook Problem 9 / Professor-assigned group presentation — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026) (p. 667–668)",
+      "prompt": "OSHA replaced 50 ppm workday average limit with 1 ppm, relying on Hogstedt 3 leukemia deaths vs 0.2 expected (230 exposed), Bushy Run cancer in high-dose rats with viral illness and Hemminki nurses reporting miscarriages with survey bias. 1 ppm based on rat/human mathematical assumptions, leaves 12–23 excess cancer deaths; 5 ppm would save hospitals 85% compliance cost but zero infeasible. OMB objected to proposed 10 ppm short-term STEL; OSHA omitted STEL saying full-day cap enough. Industry challenges 1 ppm; public-interest challengers attack absent STEL. Apply (a) Benzene significant risk, (b) Cotton Dust technological/economic feasibility versus pure CBA, (c) OSHA §655(f) substantial evidence and predictive-science deference, (d) State Farm relevant factors and STEL alternative, separately. Leave merits unresolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont6-p8",
+      "topicId": "admin-ch9-eto-problem",
+      "title": "EtO numerical and bias drill",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026) (p. 667–668)",
+      "prompt": "Compute observed/expected Hogstedt leukemia ratio and percentage decline 50 to 1 ppm; note why those arithmetic facts do not settle causation, feasibility or standard of review.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont6-p9",
+      "topicId": "admin-ch9-eto-problem",
+      "title": "EtO average versus peak exposure",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 658–668 (uploaded Nov. 24, 2026) (p. 668)",
+      "prompt": "Does 1 ppm averaged over eight hours rule out high short-term peaks? What must OSHA explain about 10 ppm STEL when rejecting proposed separate limit?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
