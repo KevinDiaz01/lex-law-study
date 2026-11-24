@@ -1,0 +1,223 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+  "coverage": {
+    "chapter": 7,
+    "scope": "B.2 full Bankers Life v. Alyucan opinion and full United Savings v. Timbers Supreme Court opinion, their facts, policies, ratio, equity cushion and opportunity cost; casebook questions stored separately unanswered"
+  },
+  "topics": [
+    {
+      "id": "bank-ch7-alyucan",
+      "title": "B.2 In re Alyucan Interstate — Full Case Brief and Equity Cushion Reasoning",
+      "chapterGroup": "bank-ch7",
+      "description": "Mabey bankruptcy opinion about interest-grown cushion versus stable collateral value.",
+      "entries": [
+        {
+          "id": "bank-ch7-alyucan-e1",
+          "type": "case",
+          "title": "Bankers Life Insurance Co. of Nebraska v. Alyucan Interstate Corp. (In re Alyucan Interstate Corp.), 12 B.R. 803 (Bankr. D. Utah 1981)",
+          "page": "Ch.7 §B.2 / Alyucan full opinion",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "No. Judge Mabey denied stay relief: protection concerns value of lien/property interest, not a fixed buffer ratio or accrued but unpaid interest. Since real property value stable and secured recoverability unaffected, collateral adequately protected without new cash/remedies; property essential to rehabilitation.",
+          "laymanExplanation": "Adequate protection §361/§362(d)(1) preserves recoverable lien value against stay-related decline, not necessarily a specific 'equity cushion' balance from interest accrual; a cushion can be evidentiary but is not indispensable.",
+          "legalExplanation": "Court rejected mechanical cushion test on four grounds: inconsistent with preservation (not cushion preservation) purpose of AP, §§361(1)-(3) allow payments/replacement liens/indubitable equivalents not defined by margin, §362(d)(2) expressly asks absence of equity PLUS lack of reorganization necessity, and pre-Code stay litigation used holistic case-specific factors. Bankruptcy aims breathing spell against creditor scramble; AP is interim palliative rather than cure for all creditor problems. Even sizable cushion need not be frozen against interest-driven erosion absent threat to lien value. It remains useful EVIDENCE of stability and can itself protect against depreciation for period.",
+          "examApplication": "Use exact facts stable $1.425m value, ~$1.297m filing debt increasing to ~$1.331m, declining cushion ~$127,774→$94,239, no property depreciation; distinguish an actual decline that impairs security.",
+          "examTrap": "Alyucan does NOT state equity cushion always irrelevant or that secured creditor cannot get AP when collateral actually loses value.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in uploaded Chapter 7",
+          "facts": "Construction/real-estate developer Alyucan filed Chapter11 Jan.14,1981. Bankers Life held first deed of trust securing original principal ~$1.22m. At filing realty worth $1,425,000, debt $1,297,226, leaving cushion $127,774 (~9% of collateral). On May stay hearing value STILL $1,425,000, but accumulating interest (~$8k/month) raised debt to $1,330,761, reducing equity cushion to $94,239 (~6.5%). Creditor argued eroding cushion required protection and relief; property was essential to the debtor's proposed reorganization.",
+          "issue": "Does §362(d)(1) require preserving a secured lender's equity cushion against postpetition interest accrual even when collateral has not declined and lien value is not impaired?",
+          "holding": "No. Judge Mabey denied stay relief: protection concerns value of lien/property interest, not a fixed buffer ratio or accrued but unpaid interest. Since real property value stable and secured recoverability unaffected, collateral adequately protected without new cash/remedies; property essential to rehabilitation.",
+          "reasoning": "Court rejected mechanical cushion test on four grounds: inconsistent with preservation (not cushion preservation) purpose of AP, §§361(1)-(3) allow payments/replacement liens/indubitable equivalents not defined by margin, §362(d)(2) expressly asks absence of equity PLUS lack of reorganization necessity, and pre-Code stay litigation used holistic case-specific factors. Bankruptcy aims breathing spell against creditor scramble; AP is interim palliative rather than cure for all creditor problems. Even sizable cushion need not be frozen against interest-driven erosion absent threat to lien value. It remains useful EVIDENCE of stability and can itself protect against depreciation for period.",
+          "rule": "Adequate protection §361/§362(d)(1) preserves recoverable lien value against stay-related decline, not necessarily a specific 'equity cushion' balance from interest accrual; a cushion can be evidentiary but is not indispensable."
+        },
+        {
+          "id": "bank-ch7-alyucan-e2",
+          "type": "rule",
+          "title": "Four explicit reasons for rejecting automatic cushion-based relief",
+          "page": "Ch.7 §B.2 / Alyucan",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "(1) Misstates lien-value purpose; (2) disregards flexible §361 money/substitute lien alternatives; (3) undermines separate two-prong §362(d)(2); (4) ignores historical multi-factor stay practice.",
+          "laymanExplanation": "You don't get relief just because arbitrary 10% buffer shrank to 6.5%.",
+          "legalExplanation": "Court preferred responsive valuation of actual protected lien instead of predetermined percentage threshold.",
+          "examApplication": "Professor can ask each rationale separately—memorize all four.",
+          "examTrap": "Rejecting mechanical cushion is different from claiming a cushion never provides factual AP."
+        },
+        {
+          "id": "bank-ch7-alyucan-e3",
+          "type": "rule",
+          "title": "Cushion may be sufficient but is not necessary",
+          "page": "Ch.7 §B.2 / Alyucan",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "An adequate equity buffer may absorb depreciation; no cushion is required if alternative protection preserves lien value or stable collateral supports all secured rights.",
+          "laymanExplanation": "Collateral can stay safe with cash payments or extra collateral even if original buffer vanished.",
+          "legalExplanation": "§361 enumerates flexible substitutes beyond original property; §362(d)(2) tests equity for DIFFERENT purpose.",
+          "examApplication": "Compare no-cushion-but-protected case with positive-cushion-rapid-depreciation case.",
+          "examTrap": "Don't confuse §362(d)(2)'s debtor equity inquiry with §362(d)(1)'s lender protection."
+        },
+        {
+          "id": "bank-ch7-alyucan-e4",
+          "type": "rule",
+          "title": "Separate book's unresolved postpetition interest question from holding",
+          "page": "Ch.7 §B.2 / Alyucan questions",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "Casebook asks whether lender's prospective §506(b) interest expectation is part of property interest and whether a declining COLLATERAL value that erodes cushion differs from interest-only erosion; opinion expressly decided stable property with interest-driven debt growth.",
+          "laymanExplanation": "The harder future scenario is property actually falling, not only debt growing.",
+          "legalExplanation": "Timbers later clarifies §506(a)/(b) interrelation; exact edges depend value/date.",
+          "examApplication": "Treat question as analytical discussion not answered automatically by 'no cushion preservation'.",
+          "examTrap": "Book inquiry is not a new court holding."
+        },
+        {
+          "id": "bank-ch7-alyucan-e5",
+          "type": "rule",
+          "title": "No §362(d)(2) relief when needed property and cushion/equity remain",
+          "page": "Ch.7 §B.2 / Alyucan",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "Court observed debtor had equity and property essential to reorganization, so alternative §362(d)(2) no-equity-plus-unnecessary requirements not met.",
+          "laymanExplanation": "Bank couldn't take building simply because expected interest would consume spare equity later.",
+          "legalExplanation": "Two subsections address different harms: (d)(1) lender value and (d)(2) estate bankruptcy purpose.",
+          "examApplication": "In fact-pattern apply each subsection independently.",
+          "examTrap": "Do not apply lost opportunity cost as 'cause' after Timbers."
+        },
+        {
+          "id": "bank-ch7-alyucan-e6",
+          "type": "rule",
+          "title": "§362 requires contextual, ad hoc remedy during reorganization",
+          "page": "Ch.7 §B.2 / Alyucan",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "Interim AP court should weigh stability, forecast, necessity, alternatives and risk instead of rote formula, allowing operations while protecting security value.",
+          "laymanExplanation": "Judge shouldn't decide all cases just from loan-to-value ratio.",
+          "legalExplanation": "Mabey described AP as flexible balance to preserve business opportunity and avoid chaotic races.",
+          "examApplication": "Use specific financial evidence/anticipated plan stage.",
+          "examTrap": "No blanket right to free collateral consumption when likely decline is shown."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-timbers",
+      "title": "B.2 United Savings v. Timbers — Full Supreme Court Case Brief",
+      "chapterGroup": "bank-ch7",
+      "description": "Unanimous no compensation for undersecured creditor's delay in foreclosure; statutory holistic reading.",
+      "entries": [
+        {
+          "id": "bank-ch7-timbers-e1",
+          "type": "case",
+          "title": "United Savings Association of Texas v. Timbers of Inwood Forest Associates, Ltd., 484 U.S. 365 (1988)",
+          "page": "Ch.7 §B.2 / Timbers full Supreme Court opinion",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "No. Unanimous Supreme Court (Scalia) affirmed Fifth Circuit: adequate protection guards value of lien against decline; does not include lost opportunity to foreclose/reinvest, so undersecured lender receives no interim opportunity-cost or postpetition interest under §362(d)(1).",
+          "laymanExplanation": "An undersecured lender is NOT entitled to §361/§362(d)(1) AP compensation for opportunity cost of not foreclosing during case; only threatened decline in lien's collateral value protected, while plan confirmation PV is separate.",
+          "legalExplanation": "Scalia interpreted whole Code: (1) §506(a) creditor interest means collateral value, not immediate possession opportunity; (2) §506(b)/§502(b)(2) carefully restrict postpetition interest to oversecured cushion, so detour through AP would subvert distinction; (3) §552(b) restricts lender entitlement to postpetition rents/profits to properly perfected prepetition security interest, which opportunity-interest theory would evade; (4) §362(d)(2) no-equity AND lack of effective reorganization necessity would be rendered absurd/superfluous if all undersecured lenders could demand stay interest under (d)(1). Creditor protected if project actually depreciates, but no hypothetical investment income; §1129 plan present-value payment is distinct future confirmation obligation. Dictum: debtor must show realistic possibility of successful reorganization in reasonable time under (d)(2).",
+          "examApplication": "Write §506(b), §552(b) and §362(d)(2) structural arguments, and explain lender's demand for 12% on $4.25m versus stable apartment value.",
+          "examTrap": "Timbers doesn't say all deferred PLAN payments may be interest-free, or secured lender cannot demand compensation for actual collateral depreciation.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in uploaded Chapter 7",
+          "facts": "On June29 1982, Texas apartment developer borrowed $4.1m against Houston apartment project with assignment of rents. Chapter11 filed March4 1985. United Savings owed $4,366,388.77, and collateral valued between $2.65m and $4.25m, only slight appreciation; lender UNDERSECURED. After March18 stay-relief motion, lender argued stay deprived immediate foreclosure value and market return. Bankruptcy judge required 12% annual market-rate payments on assumed $4.25m foreclosure recovery starting six months after filing, but Fifth Circuit en banc reversed. Supreme Court reviewed solely (d)(1) AP opportunity cost, not separate (d)(2) request.",
+          "issue": "Does §362(d)(1) 'adequate protection of an interest in property' entitle an UNDERsecured creditor to market-rate compensation for delay in seizing and reinvesting collateral, despite stable property value?",
+          "holding": "No. Unanimous Supreme Court (Scalia) affirmed Fifth Circuit: adequate protection guards value of lien against decline; does not include lost opportunity to foreclose/reinvest, so undersecured lender receives no interim opportunity-cost or postpetition interest under §362(d)(1).",
+          "reasoning": "Scalia interpreted whole Code: (1) §506(a) creditor interest means collateral value, not immediate possession opportunity; (2) §506(b)/§502(b)(2) carefully restrict postpetition interest to oversecured cushion, so detour through AP would subvert distinction; (3) §552(b) restricts lender entitlement to postpetition rents/profits to properly perfected prepetition security interest, which opportunity-interest theory would evade; (4) §362(d)(2) no-equity AND lack of effective reorganization necessity would be rendered absurd/superfluous if all undersecured lenders could demand stay interest under (d)(1). Creditor protected if project actually depreciates, but no hypothetical investment income; §1129 plan present-value payment is distinct future confirmation obligation. Dictum: debtor must show realistic possibility of successful reorganization in reasonable time under (d)(2).",
+          "rule": "An undersecured lender is NOT entitled to §361/§362(d)(1) AP compensation for opportunity cost of not foreclosing during case; only threatened decline in lien's collateral value protected, while plan confirmation PV is separate.",
+          "notes": "Court explicitly did not rule on §362(d)(2) as lender had not sought that separate relief; feasibility test was dictum. Single asset real estate §362(d)(3) enacted afterward may demand interest payments."
+        },
+        {
+          "id": "bank-ch7-timbers-e2",
+          "type": "rule",
+          "title": "Timbers's key distinction: protected property value versus delayed seizure right",
+          "page": "Ch.7 §B.2 / Timbers",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "Secured party's lien is property interest; right to IMMEDIATE foreclosure and investment return isn't a value dimension safeguarded by adequate protection. Actual collateral decline is safeguarded.",
+          "laymanExplanation": "Bank protected against apartment depreciation, not inability to invest foreclosure check.",
+          "legalExplanation": "Under Chapter11 temporary stay, property may continue serving enterprise though lender cannot exercise collection now.",
+          "examApplication": "Frame issue as time value of delayed foreclosure, not abstract whether interest ever due.",
+          "examTrap": "If value of apartment did decline materially, court said §361 could require cash or replacement security."
+        },
+        {
+          "id": "bank-ch7-timbers-e3",
+          "type": "rule",
+          "title": "Holistic §506(a)/(b) and §502(b)(2) argument",
+          "page": "Ch.7 §B.2 / Timbers",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "§506(a) measures secured interest by collateral, and §506(b) permits postpetition interest only oversecured lender within available cushion. §502(b)(2) general rule bars unmatured interest; undersecured creditor cannot sidestep via §362(d)(1).",
+          "laymanExplanation": "If Code says interest only for lenders with extra collateral, judge can't rename it 'protection' for underwater lenders.",
+          "legalExplanation": "Compare $4.366m debt with ≤$4.25m collateral, no cushion.",
+          "examApplication": "Spot oversecured vs undersecured first.",
+          "examTrap": "Case doesn't bar oversecured §506(b) postpetition interest, which is different statutory right."
+        },
+        {
+          "id": "bank-ch7-timbers-e4",
+          "type": "rule",
+          "title": "§552(b) postpetition rents/profits argument",
+          "page": "Ch.7 §B.2 / Timbers",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "§552(b) extends prefiling lien to postpetition rents/products/proceeds only when agreement and applicable nonbankruptcy perfection conditions satisfied; AP lost-income theory could effectively give rents to lenders lacking qualified lien.",
+          "laymanExplanation": "Can't get rent income security interest simply by asking for missed opportunity earnings.",
+          "legalExplanation": "This structural reason prevents evasion of limited postpetition proceeds protection.",
+          "examApplication": "In Problems 7.4–7.5 check contract + prepetition state-law perfection and §552 scope before AP.",
+          "examTrap": "Assignment of rents and enforceability are legally separate from general collateral interest."
+        },
+        {
+          "id": "bank-ch7-timbers-e5",
+          "type": "rule",
+          "title": "§362(d)(2) would be nullified by lender's theory",
+          "page": "Ch.7 §B.2 / Timbers",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "If undersecured lender always gets §362(d)(1) relief for lack of delayed-foreclosure interest, §362(d)(2)'s separate need to prove property not necessary to reorganization adds nothing.",
+          "laymanExplanation": "Without an interest-free breathing spell, even valuable reorganization collateral could be seized if debtor cannot pay hypothetical return.",
+          "legalExplanation": "Scalia saw two subsections as coordinated remedies: (d)(1) real value loss, (d)(2) lack of bankruptcy purpose.",
+          "examApplication": "Explain why first test isn't substitute for second test.",
+          "examTrap": "'Bank underwater' doesn't automatically establish no adequate protection."
+        },
+        {
+          "id": "bank-ch7-timbers-e6",
+          "type": "rule",
+          "title": "Necessary for effective reorganization that is IN PROSPECT",
+          "page": "Ch.7 §B.2 / Timbers dictum",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "To keep stay under (d)(2) debtor needs property for reorganization with reasonable possibility of success within reasonable time, not merely speculative future plan; debtor has proof burden per §362(g).",
+          "laymanExplanation": "Can't tell bank 'we may reorganize someday'; show actual plausible plan.",
+          "legalExplanation": "Early in exclusive plan drafting period judge can be more accommodating, but cannot ignore absence of any realistic prospect.",
+          "examApplication": "Use later Pegasus as application of dictum.",
+          "examTrap": "Timbers itself did not decide lender's (d)(2) eligibility on its facts."
+        },
+        {
+          "id": "bank-ch7-timbers-e7",
+          "type": "rule",
+          "title": "Adequate protection during stay vs plan interest at confirmation",
+          "page": "Ch.7 §B.2 / Timbers",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "§361 requires preservation of ability to realize collateral value at END of reorganization; §1129(b)(2)(A)(i)(II) and §1325 require PRESENT VALUE of future deferred plan payments AS OF plan effective date, with interest. Not identical clocks.",
+          "laymanExplanation": "Bank may wait through Chapter11 without interest for delay, but a later 5-year payment plan generally requires discounting interest.",
+          "legalExplanation": "Timbers rejects reading 'indubitable equivalent' in §361(3) as immediate interest duty; Till in Chapter6 deals confirmation rate.",
+          "examApplication": "In essay explicitly divide preconfirmation stay stage from postconfirmation cash stream.",
+          "examTrap": "No interest during stay does not imply no interest on later installment plan."
+        },
+        {
+          "id": "bank-ch7-timbers-e8",
+          "type": "rule",
+          "title": "Who wins and loses from no opportunity-cost compensation?",
+          "page": "Ch.7 §B.2 / Timbers",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "Debtor/DIP obtains temporary low-cost use of undersecured pledged assets for potential reorganization; lender loses chance to reinvest foreclosure proceeds, but still receives lien-value protection against actual decline.",
+          "laymanExplanation": "Business gains breathing room; bank sacrifices use of cash temporarily.",
+          "legalExplanation": "Bankruptcy distributes costs of rescue differently from normal lending, within Code's choice.",
+          "examApplication": "When professor policy asks whose ox is gored identify reorganization stakeholders and lender.",
+          "examTrap": "Do not state secured lenders have no protected property rights."
+        },
+        {
+          "id": "bank-ch7-timbers-e9",
+          "type": "rule",
+          "title": "Special SARE and family-farm exceptions in casebook context",
+          "page": "Ch.7 §B.2 / Timbers note",
+          "source": "Uploaded Tabb & Brubaker Chapter 7 §B.2, complete excerpts of In re Alyucan Interstate Corp. (1981) and United Savings Assn v Timbers of Inwood Forest (1988), with casebook questions",
+          "summary": "Timbers general no-opportunity-compensation differs from explicit §362(d)(3) SARE alternative interest payments or §1205(b)(3) family farm adequate protection reasonable rent when applicable.",
+          "laymanExplanation": "New Code sections can require rent-like payments when ordinary AP would not.",
+          "legalExplanation": "Source links response to Congress's concerns over single-building delay abuse.",
+          "examApplication": "When debtor realty possibly SARE, analyze §101(51B) threshold.",
+          "examTrap": "Not every apartment project qualifies by name alone without statutory definition."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
