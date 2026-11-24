@@ -1,0 +1,1764 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+  "coverage": {
+    "chapter": 8,
+    "scope": "All 54 casebook Questions paraphrased, plus extensive model-created source-grounded review bank, all UNANSWERED; original 18 multi-part Problems8.1–8.9 in Chapter8 part files",
+    "casebookQuestions": 54,
+    "supplemental": 121
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch8-bookq-001",
+      "topicId": "bank-ch8-sudbury",
+      "title": "Textbook Q1 — Why don't policy notice/cooperation duties render expired insurance",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why don't policy notice/cooperation duties render expired insurance executory, and can actual failure to cooperate affect a PARTICULAR covered claim?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-002",
+      "topicId": "bank-ch8-sudbury",
+      "title": "Textbook Q2 — Why don't outstanding retrospective premiums make policies executor",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why don't outstanding retrospective premiums make policies executory when insurer promised to cover claims notwithstanding insolvency?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-003",
+      "topicId": "bank-ch8-sudbury",
+      "title": "Textbook Q3 — Under Jartran §503 framework, might all or some unpaid retrospectiv",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Under Jartran §503 framework, might all or some unpaid retrospective premium claim be administrative when insurers incur postfiling defense costs?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-004",
+      "topicId": "bank-ch8-sudbury",
+      "title": "Textbook Q4 — What change in PRIORITY were insurers trying to obtain by character",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What change in PRIORITY were insurers trying to obtain by characterizing old policies as executory under §365?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-005",
+      "topicId": "bank-ch8-sudbury",
+      "title": "Textbook Q5 — Is Countryman executoriness necessary in Sudbury or should court fo",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Is Countryman executoriness necessary in Sudbury or should court focus on minimum performance estate needs for coverage, as in Chicago Board of Trade property analysis?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-006",
+      "topicId": "bank-ch8-rejection-effects",
+      "title": "Textbook Q6 — Identify two core principles of contract rejection under §365.",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Identify two core principles of contract rejection under §365.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-007",
+      "topicId": "bank-ch8-rejection-effects",
+      "title": "Textbook Q7 — List four distinct consequences of rejection, and link each to reje",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "List four distinct consequences of rejection, and link each to rejection as nonassumption and deemed breach.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-008",
+      "topicId": "bank-ch8-enron",
+      "title": "Textbook Q8 — What damage measurement date did Enron choose: actual December 2002",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What damage measurement date did Enron choose: actual December 2002 rejection or deemed prefiling breach?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-009",
+      "topicId": "bank-ch8-enron",
+      "title": "Textbook Q9 — How did Enron's court use §502(g)(1) words 'determined' and 'allowe",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did Enron's court use §502(g)(1) words 'determined' and 'allowed' to select valuation date?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-010",
+      "topicId": "bank-ch8-enron",
+      "title": "Textbook Q10 — Could 'determined' mean only classifying rejection claim rather tha",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Could 'determined' mean only classifying rejection claim rather than freezing economic AMOUNT at petition date, and what does legislative history say?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-011",
+      "topicId": "bank-ch8-enron",
+      "title": "Textbook Q11 — Does the historical bankruptcy petition-date fiction in Chicago Aud",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Does the historical bankruptcy petition-date fiction in Chicago Auditorium support or undercut denying an actual breach claim in Enron?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-012",
+      "topicId": "bank-ch8-enron",
+      "title": "Textbook Q12 — How does buyer's UCC market-at-learning-of-breach damages rule inte",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does buyer's UCC market-at-learning-of-breach damages rule interact with time Enron forced Taunton to perform after petition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-013",
+      "topicId": "bank-ch8-enron",
+      "title": "Textbook Q13 — Is nondebtor's right to request earlier §365(d)(2) assume/reject he",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Is nondebtor's right to request earlier §365(d)(2) assume/reject hearing genuine substitute for damage calculation at actual rejection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-014",
+      "topicId": "bank-ch8-enron",
+      "title": "Textbook Q14 — Did debtor benefit from choosing when to reject while counterparty ",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Did debtor benefit from choosing when to reject while counterparty bore downside in contract market swings? Evaluate the heads-wins tails-loses critique.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-015",
+      "topicId": "bank-ch8-mission-product",
+      "title": "Textbook Q15 — Why did Tempnology seek to reject its trademark license to Mission?",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why did Tempnology seek to reject its trademark license to Mission?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-016",
+      "topicId": "bank-ch8-mission-product",
+      "title": "Textbook Q16 — Outside bankruptcy can a licensor's own repudiation strip a license",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Outside bankruptcy can a licensor's own repudiation strip a licensee of mark-use rights already conveyed?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-017",
+      "topicId": "bank-ch8-mission-product",
+      "title": "Textbook Q17 — If Mission agreement were NOT executory, could debtor invoke §365 r",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "If Mission agreement were NOT executory, could debtor invoke §365 rejection to terminate Mission license?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-018",
+      "topicId": "bank-ch8-mission-product",
+      "title": "Textbook Q18 — Though rejection cannot avoid a conveyance, can Bankruptcy Code §§5",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Though rejection cannot avoid a conveyance, can Bankruptcy Code §§544–553 confer separate power to unwind a prior transfer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-019",
+      "topicId": "bank-ch8-mission-product",
+      "title": "Textbook Q19 — Do Mission's exclusive distribution rights and its trademark rights",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Do Mission's exclusive distribution rights and its trademark rights have identical postrejection consequences? What if Tempnology violates exclusivity or ceases production?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-020",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Textbook Q20 — What business freedom did boxer Ortiz seek from Chapter7 filing and",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What business freedom did boxer Ortiz seek from Chapter7 filing and trustee's deemed rejection of Top Rank contract?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-021",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Textbook Q21 — Why did Top Rank seek to preserve contractual injunction/exclusivit",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why did Top Rank seek to preserve contractual injunction/exclusivity rights rather than only a damage claim?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-022",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Textbook Q22 — Outside bankruptcy what consequences follow Ortiz's anticipatory br",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Outside bankruptcy what consequences follow Ortiz's anticipatory breach, and under Ortiz appeal what separate law determines whether restrictions survive?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-023",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Textbook Q23 — Do §§365(g),502(g) create a new money-payment claim where applicabl",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Do §§365(g),502(g) create a new money-payment claim where applicable state law would supply only an equitable remedy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-024",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Textbook Q24 — Should bankruptcy fresh-start policy influence personal-service inj",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Should bankruptcy fresh-start policy influence personal-service injunction issue, and is §365 rejection itself the appropriate tool?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-025",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Textbook Q25 — If Ortiz voluntarily continued performing after rejection, may Top ",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "If Ortiz voluntarily continued performing after rejection, may Top Rank stop performing? What if boxer provides written assurances?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-026",
+      "topicId": "bank-ch8-limbo-general",
+      "title": "Textbook Q26 — Can nondebtor enforce unassumed executory agreement against estate ",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Can nondebtor enforce unassumed executory agreement against estate or debtor while election pending?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-027",
+      "topicId": "bank-ch8-limbo-general",
+      "title": "Textbook Q27 — Can DIP compel counterparties to continue performance before formal",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Can DIP compel counterparties to continue performance before formally assuming agreement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-028",
+      "topicId": "bank-ch8-limbo-general",
+      "title": "Textbook Q28 — What priority/measure of compensation does counterparty receive for",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What priority/measure of compensation does counterparty receive for ACTUAL postfiling benefits during limbo?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-029",
+      "topicId": "bank-ch8-limbo-general",
+      "title": "Textbook Q29 — How may counterparty seek procedural deadline or earlier assume/rej",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How may counterparty seek procedural deadline or earlier assume/reject decision?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-030",
+      "topicId": "bank-ch8-whitcomb",
+      "title": "Textbook Q30 — Outside bankruptcy Data-Link might suspend services for insecurity;",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Outside bankruptcy Data-Link might suspend services for insecurity; why might bankruptcy §§365(e),362 constrain that power?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-031",
+      "topicId": "bank-ch8-whitcomb",
+      "title": "Textbook Q31 — Why may Data-Link be enjoined from turning off services in bankrupt",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why may Data-Link be enjoined from turning off services in bankruptcy, though outside bankruptcy its breach might only cause damage liability?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-032",
+      "topicId": "bank-ch8-commercial-real-estate",
+      "title": "Textbook Q32 — How did §365(d)(3) enhance nonresidential landlord SUBSTANTIVE full",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did §365(d)(3) enhance nonresidential landlord SUBSTANTIVE full-performance rights while case in limbo?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-033",
+      "topicId": "bank-ch8-commercial-real-estate",
+      "title": "Textbook Q33 — How did §365(d)(4) enhance nonresidential landlord PROCEDURAL deadl",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did §365(d)(4) enhance nonresidential landlord PROCEDURAL deadline and deemed-rejection protection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-034",
+      "topicId": "bank-ch8-commercial-personal-leases",
+      "title": "Textbook Q34 — How did §365(d)(5) strengthen commercial equipment lessor right to ",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did §365(d)(5) strengthen commercial equipment lessor right to receive full contract rent after day60?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-035",
+      "topicId": "bank-ch8-commercial-personal-leases",
+      "title": "Textbook Q35 — How did §365(d)(5) alter procedural/timing rights of commercial per",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did §365(d)(5) alter procedural/timing rights of commercial personal-property lessor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-036",
+      "topicId": "bank-ch8-commercial-personal-leases",
+      "title": "Textbook Q36 — Compare timing, scope, and judicial equity exception for realty §36",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Compare timing, scope, and judicial equity exception for realty §365(d)(3) versus personalty §365(d)(5).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-037",
+      "topicId": "bank-ch8-klein-sleep",
+      "title": "Textbook Q37 — How does post-2005 §503(b)(7) change the historical Klein Sleep unl",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does post-2005 §503(b)(7) change the historical Klein Sleep unlimited administrative future-rent ruling?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-038",
+      "topicId": "bank-ch8-klein-sleep",
+      "title": "Textbook Q38 — Did Calabresi endorse indefinite delay of old §365(d)(4) commercial",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Did Calabresi endorse indefinite delay of old §365(d)(4) commercial lease deadline to pressure landlord/tenant renegotiation, and why?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-039",
+      "topicId": "bank-ch8-klein-sleep",
+      "title": "Textbook Q39 — Why did Congress restrict §365(d)(4) extensions in 2005 while enact",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why did Congress restrict §365(d)(4) extensions in 2005 while enacting §503(b)(7) on assumed-lease future rent?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-040",
+      "topicId": "bank-ch8-martin-paint",
+      "title": "Textbook Q40 — On what legal authority can court approve nonshopping-center lease ",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "On what legal authority can court approve nonshopping-center lease assignment despite lessee's literal paint-only use clause?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-041",
+      "topicId": "bank-ch8-martin-paint",
+      "title": "Textbook Q41 — What is Catch-22 of judicial assignment order itself excusing landl",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What is Catch-22 of judicial assignment order itself excusing landlord's separate contractual exclusivity commitment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-042",
+      "topicId": "bank-ch8-martin-paint",
+      "title": "Textbook Q42 — Why would Martin Paint debtor and committee prefer $75k lease sale ",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why would Martin Paint debtor and committee prefer $75k lease sale and $40k net estate proceeds?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-043",
+      "topicId": "bank-ch8-martin-paint",
+      "title": "Textbook Q43 — What distinct objections and economic interests motivated retailer ",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What distinct objections and economic interests motivated retailer Persuasion versus landlord Feldco?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-044",
+      "topicId": "bank-ch8-catapult",
+      "title": "Textbook Q44 — Does hypothetical no-assignment test make sense where patent licens",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Does hypothetical no-assignment test make sense where patent license stays with identical DIP and no actual transfer is sought?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-045",
+      "topicId": "bank-ch8-catapult",
+      "title": "Textbook Q45 — What practical reorganization rights does Catapult lose because Per",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What practical reorganization rights does Catapult lose because Perlman withholds consent?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-046",
+      "topicId": "bank-ch8-catapult",
+      "title": "Textbook Q46 — Why did Catapult court say 'debtor in possession' isn't surplusage ",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why did Catapult court say 'debtor in possession' isn't surplusage under literal §365(c)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-047",
+      "topicId": "bank-ch8-catapult",
+      "title": "Textbook Q47 — What legal weight should failed/partial legislative 1984/1986 fixes",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What legal weight should failed/partial legislative 1984/1986 fixes and proposed House history receive under plain textual reading?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-048",
+      "topicId": "bank-ch8-catapult",
+      "title": "Textbook Q48 — Must §365(c)(1) assumption and §365(e)(2)(A) ipso facto employ the ",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Must §365(c)(1) assumption and §365(e)(2)(A) ipso facto employ the SAME hypothetical/actual test, and how did Mirant and Summit differ?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-049",
+      "topicId": "bank-ch8-magness",
+      "title": "Textbook Q49 — Why did Chapter7 trustee seek to sell full golf memberships at Dayt",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why did Chapter7 trustee seek to sell full golf memberships at Dayton Country Club?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-050",
+      "topicId": "bank-ch8-magness",
+      "title": "Textbook Q50 — How should Chicago Board of Trade estate-property bundle theory aff",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How should Chicago Board of Trade estate-property bundle theory affect whether estate owns full right to transfer club membership?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-051",
+      "topicId": "bank-ch8-magness",
+      "title": "Textbook Q51 — Does Magness §363(e) third-party-protection reasoning risk swallowi",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Does Magness §363(e) third-party-protection reasoning risk swallowing broad §365(f)(1) antiassignment-clause override?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-052",
+      "topicId": "bank-ch8-magness",
+      "title": "Textbook Q52 — Compare Magness's §365(c)/(f) harmonization with Pioneer Ford's and",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Compare Magness's §365(c)/(f) harmonization with Pioneer Ford's and scholarly narrower 'absolute nonassignability law' proposal.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-053",
+      "topicId": "bank-ch8-magness",
+      "title": "Textbook Q53 — Did court identify genuine Ohio law independent of club's private a",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Did court identify genuine Ohio law independent of club's private antiassignment rules or improperly enforce contract clause contrary to §365(f)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-bookq-054",
+      "topicId": "bank-ch8-magness",
+      "title": "Textbook Q54 — How does Magness treatment of waiting-list contracts compare with M",
+      "kind": "Chapter 8 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does Magness treatment of waiting-list contracts compare with Martin Paint disregard of nearby retailer's separate exclusivity arrangement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-001",
+      "topicId": "bank-ch8-overview",
+      "title": "Exam review 1 — Why does §541 classification of contract not determine whether esta",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why does §541 classification of contract not determine whether estate liable for future performance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-002",
+      "topicId": "bank-ch8-overview",
+      "title": "Exam review 2 — Make a four-choice matrix and list default legal effects of assume,",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Make a four-choice matrix and list default legal effects of assume, assign, reject, delay.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-003",
+      "topicId": "bank-ch8-overview",
+      "title": "Exam review 3 — Identify chapter, trustee or DIP and contract type before applying ",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Identify chapter, trustee or DIP and contract type before applying §365.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-004",
+      "topicId": "bank-ch8-overview",
+      "title": "Exam review 4 — Why are ipso facto, commercial rent, CBA and financing treated spec",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why are ipso facto, commercial rent, CBA and financing treated specially?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-005",
+      "topicId": "bank-ch8-countryman",
+      "title": "Exam review 5 — State Countryman mutual MATERIAL performance test in plain English.",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "State Countryman mutual MATERIAL performance test in plain English.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-006",
+      "topicId": "bank-ch8-countryman",
+      "title": "Exam review 6 — Distinguish minor ministerial cooperation from material reciprocal ",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Distinguish minor ministerial cooperation from material reciprocal conditions.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-007",
+      "topicId": "bank-ch8-countryman",
+      "title": "Exam review 7 — How does prepaid goods purchase differ from supplier-delivered-but-",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does prepaid goods purchase differ from supplier-delivered-but-unpaid invoice?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-008",
+      "topicId": "bank-ch8-countryman",
+      "title": "Exam review 8 — Why might unexercised purchase option challenge Countryman's defini",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why might unexercised purchase option challenge Countryman's definition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-009",
+      "topicId": "bank-ch8-countryman",
+      "title": "Exam review 9 — When does basic §541 asset recovery suffice instead of §365?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "When does basic §541 asset recovery suffice instead of §365?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-010",
+      "topicId": "bank-ch8-sudbury",
+      "title": "Exam review 10 — Explain insurer's retroactive premium mechanism and how annual audi",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Explain insurer's retroactive premium mechanism and how annual audit affects debt.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-011",
+      "topicId": "bank-ch8-sudbury",
+      "title": "Exam review 11 — What bankruptcy clause kept insurance coverage alive after debtor's",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What bankruptcy clause kept insurance coverage alive after debtor's failure to pay?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-012",
+      "topicId": "bank-ch8-sudbury",
+      "title": "Exam review 12 — Could refusal to give notice on one occurrence defeat every other c",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Could refusal to give notice on one occurrence defeat every other covered injury?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-013",
+      "topicId": "bank-ch8-sudbury",
+      "title": "Exam review 13 — Why might assumption provide estate zero new benefit but pay old ar",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why might assumption provide estate zero new benefit but pay old arrears in full?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-014",
+      "topicId": "bank-ch8-sudbury",
+      "title": "Exam review 14 — Distinguish Sudbury's §503 determination from its §365 classificati",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Distinguish Sudbury's §503 determination from its §365 classification.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-015",
+      "topicId": "bank-ch8-options",
+      "title": "Exam review 15 — When should financially valuable contract be assumed rather than re",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "When should financially valuable contract be assumed rather than rejected?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-016",
+      "topicId": "bank-ch8-options",
+      "title": "Exam review 16 — How does expected partial distribution on rejection damages affect ",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does expected partial distribution on rejection damages affect business judgment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-017",
+      "topicId": "bank-ch8-options",
+      "title": "Exam review 17 — Why does assignment make sense when debtor cannot perform but third",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why does assignment make sense when debtor cannot perform but third party can?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-018",
+      "topicId": "bank-ch8-options",
+      "title": "Exam review 18 — Why can waiting to decide itself have economic value to estate?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why can waiting to decide itself have economic value to estate?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-019",
+      "topicId": "bank-ch8-365-court-timing",
+      "title": "Exam review 19 — When must express §365(a) court approval occur?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "When must express §365(a) court approval occur?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-020",
+      "topicId": "bank-ch8-365-court-timing",
+      "title": "Exam review 20 — Distinguish 60-day Chapter7 deemed rejection from Chapter11 until-c",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Distinguish 60-day Chapter7 deemed rejection from Chapter11 until-confirmation rule.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-021",
+      "topicId": "bank-ch8-365-court-timing",
+      "title": "Exam review 21 — Calculate general 120-plus-90 commercial lease assumption horizon.",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Calculate general 120-plus-90 commercial lease assumption horizon.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-022",
+      "topicId": "bank-ch8-365-court-timing",
+      "title": "Exam review 22 — Who can move for early election, what factors influence court?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Who can move for early election, what factors influence court?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-023",
+      "topicId": "bank-ch8-365-court-timing",
+      "title": "Exam review 23 — Explain why merely using services does not imply assumption.",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Explain why merely using services does not imply assumption.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-024",
+      "topicId": "bank-ch8-rejection-standard",
+      "title": "Exam review 24 — Can debtor reject contract that still would produce positive profit",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Can debtor reject contract that still would produce positive profit?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-025",
+      "topicId": "bank-ch8-rejection-standard",
+      "title": "Exam review 25 — Compare deferential business judgment with minority burdensome-only",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Compare deferential business judgment with minority burdensome-only approach.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-026",
+      "topicId": "bank-ch8-rejection-standard",
+      "title": "Exam review 26 — Should court take account of severe harm to nondebtor vendor?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Should court take account of severe harm to nondebtor vendor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-027",
+      "topicId": "bank-ch8-rejection-standard",
+      "title": "Exam review 27 — Why might faulty prediction of property right cancellation invalida",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why might faulty prediction of property right cancellation invalidate rejection rationale?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-028",
+      "topicId": "bank-ch8-rejection-effects",
+      "title": "Exam review 28 — What does §365(g)(1) deem breach date and why?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What does §365(g)(1) deem breach date and why?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-029",
+      "topicId": "bank-ch8-rejection-effects",
+      "title": "Exam review 29 — When does nondebtor get unsecured claim versus administrative expen",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "When does nondebtor get unsecured claim versus administrative expense on breach?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-030",
+      "topicId": "bank-ch8-rejection-effects",
+      "title": "Exam review 30 — Why is rejection different from cancellation and avoidance?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why is rejection different from cancellation and avoidance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-031",
+      "topicId": "bank-ch8-rejection-effects",
+      "title": "Exam review 31 — Can nondebtor retain trademark license or realty rights while debto",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Can nondebtor retain trademark license or realty rights while debtor stops performing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-032",
+      "topicId": "bank-ch8-rejection-effects",
+      "title": "Exam review 32 — How does §101(5) define dischargeable remedy from breach?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does §101(5) define dischargeable remedy from breach?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-033",
+      "topicId": "bank-ch8-enron",
+      "title": "Exam review 33 — What were 2001 vs 2002 electricity forward-market relationships in ",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What were 2001 vs 2002 electricity forward-market relationships in Enron?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-034",
+      "topicId": "bank-ch8-enron",
+      "title": "Exam review 34 — Distinguish $6.594m market premium and $64k costs in actual-date cl",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Distinguish $6.594m market premium and $64k costs in actual-date claim.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-035",
+      "topicId": "bank-ch8-enron",
+      "title": "Exam review 35 — How does 'determined and allowed' compare to just 'allowed' statuto",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does 'determined and allowed' compare to just 'allowed' statutory interpretation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-036",
+      "topicId": "bank-ch8-enron",
+      "title": "Exam review 36 — Why could compelled postpetition performance challenge petition-dat",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why could compelled postpetition performance challenge petition-date damage measurement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-037",
+      "topicId": "bank-ch8-enron",
+      "title": "Exam review 37 — Can court expediently force earlier §365(d)(2) election and does th",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Can court expediently force earlier §365(d)(2) election and does that cure all inequity?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-038",
+      "topicId": "bank-ch8-mission-product",
+      "title": "Exam review 38 — How did Coolcore licensing split exclusive distribution and nonexcl",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did Coolcore licensing split exclusive distribution and nonexclusive trademark use?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-039",
+      "topicId": "bank-ch8-mission-product",
+      "title": "Exam review 39 — Explain photocopier-law-firm analogy used by Justice Kagan.",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Explain photocopier-law-firm analogy used by Justice Kagan.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-040",
+      "topicId": "bank-ch8-mission-product",
+      "title": "Exam review 40 — Why does §541 stop estate from taking back assigned rights?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why does §541 stop estate from taking back assigned rights?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-041",
+      "topicId": "bank-ch8-mission-product",
+      "title": "Exam review 41 — Why isn't trademarks' exclusion from §365(n) fatal to licensee?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why isn't trademarks' exclusion from §365(n) fatal to licensee?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-042",
+      "topicId": "bank-ch8-mission-product",
+      "title": "Exam review 42 — Can licensor reject yet still face generally applicable quality-con",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Can licensor reject yet still face generally applicable quality-control law?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-043",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Exam review 43 — What does Ortiz's ninety-day exclusivity window restrict?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What does Ortiz's ninety-day exclusivity window restrict?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-044",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Exam review 44 — Why did §365(d)(1) deem his Chapter7 contract rejected at sixty day",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why did §365(d)(1) deem his Chapter7 contract rejected at sixty days?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-045",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Exam review 45 — How do positive personal services injunction and negative exclusivi",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How do positive personal services injunction and negative exclusivity injunction differ?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-046",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Exam review 46 — If state law permits money substitute, why could injunction be disc",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "If state law permits money substitute, why could injunction be discharged?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-047",
+      "topicId": "bank-ch8-ortiz",
+      "title": "Exam review 47 — Could an independent equitable remedy survive when money is inadequ",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Could an independent equitable remedy survive when money is inadequate?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-048",
+      "topicId": "bank-ch8-rejection-property-rights",
+      "title": "Exam review 48 — What two choices does §365(h) give lessee when debtor-landlord reje",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What two choices does §365(h) give lessee when debtor-landlord rejects?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-049",
+      "topicId": "bank-ch8-rejection-property-rights",
+      "title": "Exam review 49 — What two choices does §365(i) give real estate buyer in possession?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What two choices does §365(i) give real estate buyer in possession?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-050",
+      "topicId": "bank-ch8-rejection-property-rights",
+      "title": "Exam review 50 — What §365(j) lien protects purchase price deposit?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What §365(j) lien protects purchase price deposit?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-051",
+      "topicId": "bank-ch8-rejection-property-rights",
+      "title": "Exam review 51 — Why does §365(n) licensee have to continue royalties but lose setof",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why does §365(n) licensee have to continue royalties but lose setoff?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-052",
+      "topicId": "bank-ch8-rejection-property-rights",
+      "title": "Exam review 52 — What does Mission say about trademark users outside §365(n)?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What does Mission say about trademark users outside §365(n)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-053",
+      "topicId": "bank-ch8-cba-1113",
+      "title": "Exam review 53 — Write full §1113 nine-part proposal-negotiation-equities test.",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Write full §1113 nine-part proposal-negotiation-equities test.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-054",
+      "topicId": "bank-ch8-cba-1113",
+      "title": "Exam review 54 — What did Congress reverse from five-to-four Bildisco holding?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What did Congress reverse from five-to-four Bildisco holding?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-055",
+      "topicId": "bank-ch8-cba-1113",
+      "title": "Exam review 55 — Compare interim essential-to-survival order with final rejection.",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Compare interim essential-to-survival order with final rejection.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-056",
+      "topicId": "bank-ch8-cba-1113",
+      "title": "Exam review 56 — What pay rate applies to postpetition work before court-approved CB",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What pay rate applies to postpetition work before court-approved CBA rejection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-057",
+      "topicId": "bank-ch8-cba-1113",
+      "title": "Exam review 57 — Can bankruptcy judge impose substitute CBA and remove strike rights",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Can bankruptcy judge impose substitute CBA and remove strike rights?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-058",
+      "topicId": "bank-ch8-limbo-general",
+      "title": "Exam review 58 — Why is executoriness 'one-way enforceability' during limbo?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why is executoriness 'one-way enforceability' during limbo?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-059",
+      "topicId": "bank-ch8-limbo-general",
+      "title": "Exam review 59 — How does §503 measure actual postpetition service rather than contr",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does §503 measure actual postpetition service rather than contract sticker price?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-060",
+      "topicId": "bank-ch8-limbo-general",
+      "title": "Exam review 60 — Can DIP accept benefit indefinitely without administrative expense?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Can DIP accept benefit indefinitely without administrative expense?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-061",
+      "topicId": "bank-ch8-limbo-general",
+      "title": "Exam review 61 — Which interests does court weigh on early §365(d)(2) election motio",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Which interests does court weigh on early §365(d)(2) election motion?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-062",
+      "topicId": "bank-ch8-whitcomb",
+      "title": "Exam review 62 — What $12,954.63 prepetition debt did Whitcomb owe Data-Link?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What $12,954.63 prepetition debt did Whitcomb owe Data-Link?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-063",
+      "topicId": "bank-ch8-whitcomb",
+      "title": "Exam review 63 — How did bankruptcy court preserve mortgage database after Data-Link",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did bankruptcy court preserve mortgage database after Data-Link interruption?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-064",
+      "topicId": "bank-ch8-whitcomb",
+      "title": "Exam review 64 — Why didn't injunction satisfy §365(a) formal assumption requirement",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why didn't injunction satisfy §365(a) formal assumption requirement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-065",
+      "topicId": "bank-ch8-whitcomb",
+      "title": "Exam review 65 — How did payment of postfiling service affect fairness to Data-Link?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did payment of postfiling service affect fairness to Data-Link?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-066",
+      "topicId": "bank-ch8-commercial-real-estate",
+      "title": "Exam review 66 — Does §365(d)(3) require rent for unused floor of a 3-floor lease?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Does §365(d)(3) require rent for unused floor of a 3-floor lease?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-067",
+      "topicId": "bank-ch8-commercial-real-estate",
+      "title": "Exam review 67 — Compare proration versus billing-date treatment of rent straddling ",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Compare proration versus billing-date treatment of rent straddling petition.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-068",
+      "topicId": "bank-ch8-commercial-real-estate",
+      "title": "Exam review 68 — How might §503 benefit allowance treat stub rent billed before bank",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How might §503 benefit allowance treat stub rent billed before bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-069",
+      "topicId": "bank-ch8-commercial-real-estate",
+      "title": "Exam review 69 — Does filing a motion to reject immediately terminate §365(d)(3) ren",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Does filing a motion to reject immediately terminate §365(d)(3) rent?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-070",
+      "topicId": "bank-ch8-commercial-real-estate",
+      "title": "Exam review 70 — What happens to unpaid §365(d)(3) obligations in administratively i",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What happens to unpaid §365(d)(3) obligations in administratively insolvent estate?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-071",
+      "topicId": "bank-ch8-commercial-personal-leases",
+      "title": "Exam review 71 — What happens to full-performance duty before vs after 60th day of C",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What happens to full-performance duty before vs after 60th day of Chapter11 fleet lease?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-072",
+      "topicId": "bank-ch8-commercial-personal-leases",
+      "title": "Exam review 72 — Does lessor's actual use market value matter for first 60 days?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Does lessor's actual use market value matter for first 60 days?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-073",
+      "topicId": "bank-ch8-commercial-personal-leases",
+      "title": "Exam review 73 — How does court 'equities of case' discretion change §365(d)(5)?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does court 'equities of case' discretion change §365(d)(5)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-074",
+      "topicId": "bank-ch8-commercial-personal-leases",
+      "title": "Exam review 74 — Is day60 a deadline to elect assumption?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Is day60 a deadline to elect assumption?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-075",
+      "topicId": "bank-ch8-klein-sleep",
+      "title": "Exam review 75 — Which date did Klein formally assume Nostas retail lease?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Which date did Klein formally assume Nostas retail lease?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-076",
+      "topicId": "bank-ch8-klein-sleep",
+      "title": "Exam review 76 — Why did later business failure not undo initial assumption benefit?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why did later business failure not undo initial assumption benefit?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-077",
+      "topicId": "bank-ch8-klein-sleep",
+      "title": "Exam review 77 — How did old Code treat future rent priority and §502(b)(6) cap?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did old Code treat future rent priority and §502(b)(6) cap?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-078",
+      "topicId": "bank-ch8-klein-sleep",
+      "title": "Exam review 78 — Why was §503(b)(7) enacted and what category does it modify?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why was §503(b)(7) enacted and what category does it modify?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-079",
+      "topicId": "bank-ch8-klein-sleep",
+      "title": "Exam review 79 — How does a long-lease exposure change bankruptcy judge's incentive ",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does a long-lease exposure change bankruptcy judge's incentive to approve assumption?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-080",
+      "topicId": "bank-ch8-assumption-limits",
+      "title": "Exam review 80 — What happens if agreement fully expired before petition?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What happens if agreement fully expired before petition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-081",
+      "topicId": "bank-ch8-assumption-limits",
+      "title": "Exam review 81 — State cum onere and its statutory exceptions.",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "State cum onere and its statutory exceptions.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-082",
+      "topicId": "bank-ch8-assumption-limits",
+      "title": "Exam review 82 — List cure compensate assure under §365(b)(1).",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "List cure compensate assure under §365(b)(1).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-083",
+      "topicId": "bank-ch8-assumption-limits",
+      "title": "Exam review 83 — Why can't bankruptcy itself cause contract default under §365(e)(1)",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why can't bankruptcy itself cause contract default under §365(e)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-084",
+      "topicId": "bank-ch8-assumption-limits",
+      "title": "Exam review 84 — Which purely penalty provisions need not be cured?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Which purely penalty provisions need not be cured?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-085",
+      "topicId": "bank-ch8-assumption-limits",
+      "title": "Exam review 85 — How is going-dark curable default treated with continuing use claus",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How is going-dark curable default treated with continuing use clause?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-086",
+      "topicId": "bank-ch8-assumption-limits",
+      "title": "Exam review 86 — Why cannot an old loan commitment simply be assumed instead of seek",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why cannot an old loan commitment simply be assumed instead of seeking §364 financing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-087",
+      "topicId": "bank-ch8-assignment-rules",
+      "title": "Exam review 87 — How does §365(k) distinguish assignment from ordinary sublease?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does §365(k) distinguish assignment from ordinary sublease?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-088",
+      "topicId": "bank-ch8-assignment-rules",
+      "title": "Exam review 88 — Is a 75%-of-assignment-surplus clause arguably restriction under §3",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Is a 75%-of-assignment-surplus clause arguably restriction under §365(f)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-089",
+      "topicId": "bank-ch8-assignment-rules",
+      "title": "Exam review 89 — Why must trustee first assume and cure prepetition defaults?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why must trustee first assume and cure prepetition defaults?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-090",
+      "topicId": "bank-ch8-assignment-rules",
+      "title": "Exam review 90 — What estate cashflow value arises from below-market rent?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What estate cashflow value arises from below-market rent?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-091",
+      "topicId": "bank-ch8-assignment-assurance",
+      "title": "Exam review 91 — How can an assignee prove adequate financial performance?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How can an assignee prove adequate financial performance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-092",
+      "topicId": "bank-ch8-assignment-assurance",
+      "title": "Exam review 92 — Why does §365(f)(2)(B) apply even absent debtor default?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why does §365(f)(2)(B) apply even absent debtor default?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-093",
+      "topicId": "bank-ch8-assignment-assurance",
+      "title": "Exam review 93 — When may landlord demand reasonable §365(l) security?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "When may landlord demand reasonable §365(l) security?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-094",
+      "topicId": "bank-ch8-assignment-assurance",
+      "title": "Exam review 94 — What factual planning makes a collection of storefronts a statutory",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What factual planning makes a collection of storefronts a statutory shopping center?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-095",
+      "topicId": "bank-ch8-assignment-assurance",
+      "title": "Exam review 95 — Explain stricter rent, mix, exclusivity, use requirements in §365(b",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Explain stricter rent, mix, exclusivity, use requirements in §365(b)(3).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-096",
+      "topicId": "bank-ch8-martin-paint",
+      "title": "Exam review 96 — Why did Persuasion have no standing to enforce Martin's lease use c",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why did Persuasion have no standing to enforce Martin's lease use clause?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-097",
+      "topicId": "bank-ch8-martin-paint",
+      "title": "Exam review 97 — What facts contradicted predictions of actual and substantial rent ",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What facts contradicted predictions of actual and substantial rent harm?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-098",
+      "topicId": "bank-ch8-martin-paint",
+      "title": "Exam review 98 — How did court's impossibility doctrine address Persuasion exclusivi",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did court's impossibility doctrine address Persuasion exclusivity clause?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-099",
+      "topicId": "bank-ch8-martin-paint",
+      "title": "Exam review 99 — Why is case outcome vulnerable if building actually shopping center",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why is case outcome vulnerable if building actually shopping center?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-100",
+      "topicId": "bank-ch8-nondelegability",
+      "title": "Exam review 100 — How do contractual assignment restraints differ from nonbankruptcy ",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How do contractual assignment restraints differ from nonbankruptcy law mandating original performer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-101",
+      "topicId": "bank-ch8-nondelegability",
+      "title": "Exam review 101 — Describe four contexts triggering §365(c),§365(f),§365(e) interacti",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Describe four contexts triggering §365(c),§365(f),§365(e) interactions.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-102",
+      "topicId": "bank-ch8-nondelegability",
+      "title": "Exam review 102 — What is hypothetical vs actual test for same Chapter11 DIP?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What is hypothetical vs actual test for same Chapter11 DIP?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-103",
+      "topicId": "bank-ch8-nondelegability",
+      "title": "Exam review 103 — Are patent nonexclusive licenses treated like trademarks under §365",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Are patent nonexclusive licenses treated like trademarks under §365(n)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-104",
+      "topicId": "bank-ch8-catapult",
+      "title": "Exam review 104 — What happened to Perlman's nonexclusive patent licenses under hypot",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What happened to Perlman's nonexclusive patent licenses under hypothetical test?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-105",
+      "topicId": "bank-ch8-catapult",
+      "title": "Exam review 105 — How did Ninth Circuit answer §365(c) vs §365(f) conflict?",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How did Ninth Circuit answer §365(c) vs §365(f) conflict?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-106",
+      "topicId": "bank-ch8-catapult",
+      "title": "Exam review 106 — Why did court reject actual-performance and legislative history cou",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why did court reject actual-performance and legislative history counterarguments?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-107",
+      "topicId": "bank-ch8-catapult",
+      "title": "Exam review 107 — How does consent to assumption differ from consent to later transfe",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "How does consent to assumption differ from consent to later transfer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-108",
+      "topicId": "bank-ch8-magness",
+      "title": "Exam review 108 — What did 375-member golf limit and 70-person waiting list show abou",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "What did 375-member golf limit and 70-person waiting list show about contractual interests?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-109",
+      "topicId": "bank-ch8-magness",
+      "title": "Exam review 109 — Why did personal club membership fall under §365(c)(1) exception on",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why did personal club membership fall under §365(c)(1) exception on source facts?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-110",
+      "topicId": "bank-ch8-magness",
+      "title": "Exam review 110 — Could waiting-list members' rights be property interest protected b",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Could waiting-list members' rights be property interest protected by §363(e)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-111",
+      "topicId": "bank-ch8-magness",
+      "title": "Exam review 111 — Why might Magness §363(e) reasoning be criticized as undermining an",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Why might Magness §363(e) reasoning be criticized as undermining antiassignment override?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-112",
+      "topicId": "bank-ch8-chapter8-exam-map",
+      "title": "Exam review 112 — Build full flow from Countryman to assume/reject/assign and §365(d)",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Build full flow from Countryman to assume/reject/assign and §365(d) dates.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-113",
+      "topicId": "bank-ch8-chapter8-exam-map",
+      "title": "Exam review 113 — Which of nine case opinions concerns wrongful expansion of rejectio",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Which of nine case opinions concerns wrongful expansion of rejection beyond breach?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-114",
+      "topicId": "bank-ch8-chapter8-exam-map",
+      "title": "Exam review 114 — Contrast actual and hypothetical §365(c)(1) rules by circuit contex",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Contrast actual and hypothetical §365(c)(1) rules by circuit context.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-115",
+      "topicId": "bank-ch8-chapter8-exam-map",
+      "title": "Exam review 115 — If contract is assigned, who owes after assignment and what assuran",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "If contract is assigned, who owes after assignment and what assurance given?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-116",
+      "topicId": "bank-ch8-chapter8-calculations",
+      "title": "Exam review 116 — Set up (market−contract) × remaining term value of lease without so",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Set up (market−contract) × remaining term value of lease without solving 8.9.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-117",
+      "topicId": "bank-ch8-chapter8-calculations",
+      "title": "Exam review 117 — Show generic calculation of expected unsecured dividend.",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Show generic calculation of expected unsecured dividend.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-118",
+      "topicId": "bank-ch8-chapter8-calculations",
+      "title": "Exam review 118 — Compare contract full rent and actual reasonable use during limbo.",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Compare contract full rent and actual reasonable use during limbo.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-119",
+      "topicId": "bank-ch8-chapter8-calculations",
+      "title": "Exam review 119 — Explain why billing-date and proration can give different rent amou",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Explain why billing-date and proration can give different rent amounts.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-120",
+      "topicId": "bank-ch8-chapter8-calculations",
+      "title": "Exam review 120 — Model date-specific forward market change for Enron rejection damag",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Model date-specific forward market change for Enron rejection damages.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-review-121",
+      "topicId": "bank-ch8-chapter8-calculations",
+      "title": "Exam review 121 — Distinguish contract-assumption cure payments from later admin clai",
+      "kind": "Chapter 8 supplemental practice — UNSOLVED",
+      "source": "Uploaded Chapter8 source: paraphrased original casebook questions following opinions/sections, UNSOLVED. Original Problems 8.1–8.9 are separately preserved as individual unanswered subparts.",
+      "prompt": "Distinguish contract-assumption cure payments from later admin claim distribution.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
