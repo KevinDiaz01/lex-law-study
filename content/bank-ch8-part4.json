@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+  "coverage": {
+    "chapter": 8,
+    "scope": "E. general gap period principles and full Whitcomb opinion; commercial lease postpetition full performance, 120+90 deadline, rent proration/billing-date, equipment lease day60 and court equities exception; original 8.4–8.6 unsolved"
+  },
+  "topics": [
+    {
+      "id": "bank-ch8-limbo-general",
+      "title": "E.1 Limbo Period: Estate Can Demand Performance Before Formal Assumption",
+      "chapterGroup": "bank-ch8",
+      "description": "One-way interim enforceability, reasonable-value postpetition compensation and deadline motions.",
+      "entries": [
+        {
+          "id": "bank-ch8-limbo-general-e1",
+          "type": "rule",
+          "title": "Bildisco interim rule: unassumed contract cannot be enforced against estate",
+          "page": "Ch.8 §E.1",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Prior to assumption, counterparty generally cannot force estate to cure old defaults or fully perform its executory contract terms; continuing contract remains binding on counterparty subject legal/court limits.",
+          "laymanExplanation": "Bankrupt business can demand service now without paying old arrears first, if it pays for current benefit.",
+          "legalExplanation": "§365(a) requires express assumption order, and bankruptcy stay restrains nondebtor self-help.",
+          "examApplication": "Distinguish estate from debtor and prepetition default from postpetition benefit.",
+          "examTrap": "Not a promise estate gets services for free."
+        },
+        {
+          "id": "bank-ch8-limbo-general-e2",
+          "type": "rule",
+          "title": "One-way street: nondebtor may be compelled to perform",
+          "page": "Ch.8 §E.1",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Court may require nondebtor to continue supplying goods/services despite no assumption; its duty remains, while estate can defer assuming full historical obligations.",
+          "laymanExplanation": "Computer provider may be ordered to keep maintaining account database while debtor pays current service.",
+          "legalExplanation": "Subject to special leases and protection; never conflate injunction maintaining status quo with actual assumption.",
+          "examApplication": "Identify whether service essential and DIP has paid postfiling value.",
+          "examTrap": "Prepetition debt collection leverage generally barred by stay."
+        },
+        {
+          "id": "bank-ch8-limbo-general-e3",
+          "type": "rule",
+          "title": "§503(b)(1) pays reasonable value of actual POSTpetition benefit",
+          "page": "Ch.8 §E.1",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Even without assumption, counterparty required to continue receives administrative priority for reasonable value of services actually supplied to estate after filing, not automatically entire contracted fees or prefiling arrears.",
+          "laymanExplanation": "Get paid for current IT maintenance, not prior unpaid $13k.",
+          "legalExplanation": "Benefit-to-estate test differs from special real property §365(d)(3) mandatory full rent.",
+          "examApplication": "Split pre vs post and compare contract versus reasonable market price.",
+          "examTrap": "Can't turn prepetition invoice administrative by continuing future services."
+        },
+        {
+          "id": "bank-ch8-limbo-general-e4",
+          "type": "rule",
+          "title": "Nondebtor can seek earlier decision under §365(d)(2)",
+          "page": "Ch.8 §E.1",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "In reorganization, counterparty can ask court to compel debtor to assume/reject by fixed deadline; judge balances creditor hardship versus estate's reasonable business evaluation time.",
+          "laymanExplanation": "Vendor can ask 'please decide soon' but judge may grant company more time.",
+          "legalExplanation": "Factors include economic harm, ability to find replacement customer, estate need, plan timing and priority of current payments.",
+          "examApplication": "If counterparty loses money from indecision, consider motion rather than unilateral termination.",
+          "examTrap": "Court does not automatically set deadline just because contract essential."
+        },
+        {
+          "id": "bank-ch8-limbo-general-e5",
+          "type": "rule",
+          "title": "Why delay benefits estate and burdens nondebtor",
+          "page": "Ch.8 §E.1",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Delay preserves valuable options without contract full cure/priority; counterparty may neither terminate nor arrange replacement, and only compensated actual benefits—not forgone better deals.",
+          "laymanExplanation": "Debtor holds an option while supplier is locked in.",
+          "legalExplanation": "Court discretion mediates the conflict and timing statutes impose upper bounds.",
+          "examApplication": "Classify contract type and plan stage before suggesting decision.",
+          "examTrap": "Special commercial lease statutes override some usual flexibility."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-whitcomb",
+      "title": "E.1 In re Whitcomb & Keller (1983) — Full Limbo Computer Services Case",
+      "chapterGroup": "bank-ch8",
+      "description": "Compelled continuing performance, no implied assumption, $12,954.63 prefiling unsecured.",
+      "entries": [
+        {
+          "id": "bank-ch8-whitcomb-e1",
+          "type": "case",
+          "title": "In re Whitcomb & Keller Mortgage Co., 715 F.2d 375 (7th Cir. 1983)",
+          "page": "Ch.8 §E.1 / Whitcomb full opinion",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "No. Seventh Circuit AFFIRMED: court could compel continued service during limbo to preserve status quo; neither utilization nor injunction constitutes formal assumption; DIP paid current services in full, old $12,954.63 remained general unsecured; denial of forced early election within court discretion.",
+          "laymanExplanation": "During §365 limbo, nondebtor can be ordered to perform essential contract if compensated for actual postpetition service; court order and receipt of benefits are NOT express assumption, and prepetition arrears do not become admin debt.",
+          "legalExplanation": "§365(d)(2) affords debtor reasonable evaluation period, despite service importance; formal §365(a) express court approval needed for assumption, absent here. Data-Link's ongoing expenses compensated, lien rights could attach to asset sale proceeds per stipulation. Bankruptcy intentionally suspends normal rights to facilitate reorganization. Court rejected idea contract benefits imply adoption of old burdens; prefiling account cannot gain priority by leveraging current service.",
+          "examApplication": "State $12,954.63, service cutoff, TRO, continued full payment postfiling, no express assumption, later rejection, court discretion.",
+          "examTrap": "Result does not permit estate to compel unlimited uncompensated work or deny supplier any opportunity to seek §365(d)(2) order.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in Chapter8",
+          "facts": "Chapter11 mortgage servicing company contracted with Data-Link for essential computerized account maintenance; filing October27 1980 owed $12,954.63 for prepetition IT work. DIP paid ALL ongoing postpetition services, planned to sell mortgage-servicing business and needed database. March4 1981 Data-Link stopped providing service, paralyzing company; bankruptcy judge enjoined cutoff, ordered provider to resume. Data-Link claimed use/injunction implicitly assumed entire contract or required immediate assumption/rejection and administrative priority for $12,954.63. DIP sought rejection. Court found no express assumption, rejected contract, classified old debt unsecured; Seventh Circuit reviewed.",
+          "issue": "Did debtor's use of essential postpetition computer service and court order compelling provider to continue constitute §365 assumption or raise prefiling arrears to administrative priority; was early election deadline mandatory?",
+          "holding": "No. Seventh Circuit AFFIRMED: court could compel continued service during limbo to preserve status quo; neither utilization nor injunction constitutes formal assumption; DIP paid current services in full, old $12,954.63 remained general unsecured; denial of forced early election within court discretion.",
+          "reasoning": "§365(d)(2) affords debtor reasonable evaluation period, despite service importance; formal §365(a) express court approval needed for assumption, absent here. Data-Link's ongoing expenses compensated, lien rights could attach to asset sale proceeds per stipulation. Bankruptcy intentionally suspends normal rights to facilitate reorganization. Court rejected idea contract benefits imply adoption of old burdens; prefiling account cannot gain priority by leveraging current service.",
+          "rule": "During §365 limbo, nondebtor can be ordered to perform essential contract if compensated for actual postpetition service; court order and receipt of benefits are NOT express assumption, and prepetition arrears do not become admin debt."
+        },
+        {
+          "id": "bank-ch8-whitcomb-e2",
+          "type": "rule",
+          "title": "Essential services does not automatically require immediate election",
+          "page": "Ch.8 §E.1 / Whitcomb",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "DIP needed data to sell mortgages; judge still allowed time for informed decision and denied provider request to force assumption, balancing no current unpaid service and interests in sale.",
+          "laymanExplanation": "Critical system may be necessary, but contract's long-term economics still uncertain.",
+          "legalExplanation": "§365(d)(2) 'reasonable time' not synonymous with immediate even if vital.",
+          "examApplication": "Contrast old arrears versus current compensation and asset sale timetable.",
+          "examTrap": "Don't say creditors can always force election if indispensable."
+        },
+        {
+          "id": "bank-ch8-whitcomb-e3",
+          "type": "rule",
+          "title": "No implied assumption despite injunction enforcing contract",
+          "page": "Ch.8 §E.1 / Whitcomb",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Order preventing Data-Link cutoff merely preserved status quo; only express court assumption order would elevate estate's full promise; there was no such order.",
+          "laymanExplanation": "Keeping database online isn't judge officially signing future contract.",
+          "legalExplanation": "Old prepetition sum stayed in general unsecured pool; DIP postfiling expenses already paid.",
+          "examApplication": "Use for contrast to Klein Sleep actual formal assumption.",
+          "examTrap": "Do not mistake restraining order as §365(a) approval."
+        },
+        {
+          "id": "bank-ch8-whitcomb-e4",
+          "type": "rule",
+          "title": "Counterparty self-help and automatic stay are separate issues",
+          "page": "Ch.8 §E.1 / Whitcomb casebook questions",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Textbook asks whether vendor could suspend for insecurity/breach absent bankruptcy and why §365(e)(1), §362(a)(3) change its ability to withhold estate-essential property/services.",
+          "laymanExplanation": "Outside law might permit stopping service, but stay and executory rule regulate postfiling strategy.",
+          "legalExplanation": "Question includes policy fairness to provider, not a new judicial holding.",
+          "examApplication": "Discuss both rights outside bankruptcy and temporary §362/§365 adjustments.",
+          "examTrap": "Don't overstate that ALL supplier nonperformance violates stay without case-specific property acts."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-commercial-real-estate",
+      "title": "E.2 Commercial Real Estate Leases §365(d)(3),(d)(4)",
+      "chapterGroup": "bank-ch8",
+      "description": "Full obligations during gap, timing, monthly calculations, stub rent and priority tensions.",
+      "entries": [
+        {
+          "id": "bank-ch8-commercial-real-estate-e1",
+          "type": "rule",
+          "title": "§365(d)(3) full performance of POSTpetition commercial real estate lease obligations",
+          "page": "Ch.8 §E.2",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Before assuming/rejecting nonresidential REAL property lease, trustee shall timely perform lease obligations arising postorder for relief notwithstanding §503(b)(1), often rent of ALL leased area at contract rate even if using less.",
+          "laymanExplanation": "Rents three floors at $10k each but uses only two: still $30k per month contract obligation during gap.",
+          "legalExplanation": "Special landlord rule supersedes actual-use/reasonable-value limbo admin test; also taxes and insurance.",
+          "examApplication": "Ask whether nonresidential real estate lease and timing pre-rejection.",
+          "examTrap": "Do not apply §365(d)(3) to commercial car rental or residential tenant without checking specialized rules."
+        },
+        {
+          "id": "bank-ch8-commercial-real-estate-e2",
+          "type": "rule",
+          "title": "Prepetition defaults need not be cured until formal assumption",
+          "page": "Ch.8 §E.2",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Interim §365(d)(3) requires postfiling obligations only; prefiling overdue lease rent remains historical claim until trustee assumes under §365(b)(1).",
+          "laymanExplanation": "Business must pay new rent while old rent arrears aren't automatically paid in full.",
+          "legalExplanation": "Distinguish when liability arose, when payment billed, when cure obligation triggered.",
+          "examApplication": "Split monthly rent straddling petition carefully.",
+          "examTrap": "Not all rent owed by company becomes postpetition administrative because landlord holds lease."
+        },
+        {
+          "id": "bank-ch8-commercial-real-estate-e3",
+          "type": "rule",
+          "title": "Proration versus billing-date 'arises' split",
+          "page": "Ch.8 §E.2",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Courts split on rent/tax obligation billed after filing but economically attributable to prefiling period: proration allocates use-period portions; billing-date approach recognizes entire billed postpetition obligation even if partly prepetition.",
+          "laymanExplanation": "Monthly rent due day15 after filing for month spanning bankruptcy may be all due or prorated depending court.",
+          "legalExplanation": "Textbook challenges assumption 'due and payable' equals 'arising'; advance versus arrears billing may cut different ways.",
+          "examApplication": "For 8.4 and 8.5 identify due dates, service/tax period and competing constructions.",
+          "examTrap": "Do not present a single universally binding approach."
+        },
+        {
+          "id": "bank-ch8-commercial-real-estate-e4",
+          "type": "rule",
+          "title": "Stub rent after prepetition due date §503 fallback",
+          "page": "Ch.8 §E.2 / Problem8.5",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "When rent for month was billed on June1 PREpetition but debtor files June10 and occupies through June30, landlord's June10–30 benefit may support ordinary §503(b) administrative rent even when billing-date §365(d)(3) reading fails.",
+          "laymanExplanation": "Landlord shouldn't automatically get $0 just because full June rent billed before Chapter11; different statute may help.",
+          "legalExplanation": "Independent actual-and-necessary benefit inquiry, subject source's deliberately unresolved casebook question.",
+          "examApplication": "Analyze §365(d)(3) then §503(b) separately for June stub use.",
+          "examTrap": "Don't mechanically treat both as same test or automatically double pay."
+        },
+        {
+          "id": "bank-ch8-commercial-real-estate-e5",
+          "type": "rule",
+          "title": "Remedies if §365(d)(3) full rent unpaid are controversial",
+          "page": "Ch.8 §E.2",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Statute commands timely performance without specifying remedy. Courts can order payment, surrender, or stay relief; administrative insolvency creates question whether immediate landlord payment unfairly outranks other admin claims.",
+          "laymanExplanation": "If cash too low to pay rent and payroll, ordering landlord first can effectively create priority not expressly written.",
+          "legalExplanation": "Separate mandatory obligation and enforcement/priority status; some courts diverge.",
+          "examApplication": "Address cash shortage and conversion before predicting distribution.",
+          "examTrap": "Never assert every landlord receives automatic superpriority under (d)(3)."
+        },
+        {
+          "id": "bank-ch8-commercial-real-estate-e6",
+          "type": "rule",
+          "title": "Motion-to-reject versus order effective date controls gap rent",
+          "page": "Ch.8 §E.2",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Most courts treat contract rejected when COURT approves §365(a) motion, even if DIP filed motion earlier. Liability §365(d)(3) may accrue between filing motion and approval, subject cases/effective-date specifics.",
+          "laymanExplanation": "Submitting rejection papers today may not stop next month's rent automatically.",
+          "legalExplanation": "Casebook example DIP files same day petition, court approves one month later; potential one month full rent.",
+          "examApplication": "Identify court order date explicitly.",
+          "examTrap": "Don't assume motion filed equals contract rejected."
+        },
+        {
+          "id": "bank-ch8-commercial-real-estate-e7",
+          "type": "rule",
+          "title": "§365(d)(4) deadline protects nonresidential landlord",
+          "page": "Ch.8 §E.2",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Ordinarily 120 days after order for relief with one 90-day for-cause court extension, extra only landlord advance written consent, no decision yields deemed rejection and surrender obligations.",
+          "laymanExplanation": "Retail company can't indefinite defer all stores till plan confirmation without consent.",
+          "legalExplanation": "2005 revisions limit reorganization of large retail estates; distinguish §365(d)(3) interim payment.",
+          "examApplication": "Draw 120+90 calendar.",
+          "examTrap": "Not the same 60-day commercial equipment rule."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-commercial-personal-leases",
+      "title": "E.2 Chapter11 Commercial Personal-Property Leases §365(d)(5)",
+      "chapterGroup": "bank-ch8",
+      "description": "Leased cars/equipment: obligations commence day60, equities override possible.",
+      "entries": [
+        {
+          "id": "bank-ch8-commercial-personal-leases-e1",
+          "type": "rule",
+          "title": "§365(d)(5) Chapter11 equipment leases: full performance after 60 days",
+          "page": "Ch.8 §E.2",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "For NONconsumer unexpired lease of PERSONAL property in Chapter11, trustee must timely perform obligations first arising from/after 60 days after order for relief until assumption/rejection, whether or not all equipment used, unless court orders otherwise based on equities.",
+          "laymanExplanation": "Business leasing 30 fleet cars but only driving 10 may owe lease rent on 30 after special 60-day mark.",
+          "legalExplanation": "Other chapter/consumer goods not this special 60-day rule. Pre-60-days actual benefit may qualify §503.",
+          "examApplication": "For Problem8.6 divide months 0–2 versus months after day60.",
+          "examTrap": "Don't apply §365(d)(3) real-property immediate obligation to personal car leases."
+        },
+        {
+          "id": "bank-ch8-commercial-personal-leases-e2",
+          "type": "rule",
+          "title": "Equities-of-case court exception distinguishes §365(d)(5)",
+          "page": "Ch.8 §E.2",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Unlike more rigid commercial realty provision, judge can alter terms or payment timing for commercial personal-property lease if equities support, reflecting financing/reorganization needs.",
+          "laymanExplanation": "Judge may adjust 30-car rental duty in appropriate fact scenario.",
+          "legalExplanation": "Must request judicial relief and show relevant circumstances; not automatic free storage of unused equipment.",
+          "examApplication": "Use in eight/nine month lease analysis.",
+          "examTrap": "Don't invent a fixed equities formula or presume full contract obligation regardless order."
+        },
+        {
+          "id": "bank-ch8-commercial-personal-leases-e3",
+          "type": "rule",
+          "title": "Pre-day60 actual benefit at reasonable rate",
+          "page": "Ch.8 §E.2",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "Before §365(d)(5) full-performance duty begins, general limbo rules typically award §503 reasonable value for actual postpetition use; market may differ from contract and unused cars may generate no actual-use benefit.",
+          "laymanExplanation": "For first two months, rent for 10 used cars may be closer to market, not full 30 rent.",
+          "legalExplanation": "Source distinguishes pre/post statutory switch and 10% market decline in Problem8.6.",
+          "examApplication": "Identify used units, rental market and duration precisely.",
+          "examTrap": "Do not solve original 8.6 numerically without user attempt."
+        },
+        {
+          "id": "bank-ch8-commercial-personal-leases-e4",
+          "type": "rule",
+          "title": "Personalty lease doesn't necessarily require election by day60",
+          "page": "Ch.8 §E.2",
+          "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+          "summary": "§365(d)(5) is when payments begin in Chapter11, not a deadline requiring assume/reject; absent special statute, DIP may defer until plan confirmation under §365(d)(2) subject motion to compel.",
+          "laymanExplanation": "Rent starts even while debtor undecided.",
+          "legalExplanation": "This differs from Chapter7 §365(d)(1) 60-day deemed-rejection deadline.",
+          "examApplication": "Separate payment timing from election timing.",
+          "examTrap": "Same number '60' appears in different legal functions."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-problems8-4-6",
+      "title": "E. Original Problems 8.4(a–c), 8.5, 8.6 (UNSOLVED)",
+      "chapterGroup": "bank-ch8",
+      "description": "Rent arrears, billing/proration, administrative insolvency and 30-car equipment lease.",
+      "entries": []
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch8-p8-4-a",
+      "topicId": "bank-ch8-problems8-4-6",
+      "title": "Problem 8.4(a) Dec15 rent and taxes",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+      "prompt": "Debtor farmer leases land for crops March1 Year1 to Feb28 Year4, semiannual $95,000 rent payable March15 and Dec15 each Year1–3. Contract requires reimbursement Dec15 for annual real-estate taxes Lessor pays each Year. Tax payable Dec1 for tax year ending Sep30. Chapter11 petition Dec10 Year2, AFTER Year2 harvest and BEFORE Year3 crop preparations; Lessor paid $12,000 taxes Dec1 Year2. How much of $95,000 Dec15 Year2 rent and $12,000 reimbursed taxes must be timely performed under §365(d)(3)? Compare proration and billing-date. Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-4-b",
+      "topicId": "bank-ch8-problems8-4-6",
+      "title": "Problem 8.4(b) unpaid statutory rent and administrative insolvency",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+      "prompt": "Debtor farmer leases land for crops March1 Year1 to Feb28 Year4, semiannual $95,000 rent payable March15 and Dec15 each Year1–3. Contract requires reimbursement Dec15 for annual real-estate taxes Lessor pays each Year. Tax payable Dec1 for tax year ending Sep30. Chapter11 petition Dec10 Year2, AFTER Year2 harvest and BEFORE Year3 crop preparations; Lessor paid $12,000 taxes Dec1 Year2. Neither Dec15 Year2 rent nor tax reimbursement paid, lease later rejected. Does lessor have admin priority for legally required amounts? If Chapter11 converts to Chapter7 with insufficient funds for all Chapter11 admin claims, how distributed? Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-4-c",
+      "topicId": "bank-ch8-problems8-4-6",
+      "title": "Problem 8.4(c) filing motion versus court approval",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+      "prompt": "Debtor farmer leases land for crops March1 Year1 to Feb28 Year4, semiannual $95,000 rent payable March15 and Dec15 each Year1–3. Contract requires reimbursement Dec15 for annual real-estate taxes Lessor pays each Year. Tax payable Dec1 for tax year ending Sep30. Chapter11 petition Dec10 Year2, AFTER Year2 harvest and BEFORE Year3 crop preparations; Lessor paid $12,000 taxes Dec1 Year2. DIP filed motion to reject on Feb28 Year3, court approved Apr1 Year3; $95,000 rent due Mar15 Year3. How much owes under §365(d)(3) and when rejection effective? Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-5",
+      "topicId": "bank-ch8-problems8-4-6",
+      "title": "Problem 8.5 $4m stub rent",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+      "prompt": "Nationwide retailer leases multiple commercial sites at $6,000,000 total monthly rent in advance on 1st. Fails June1 rent, files Chapter11 June10, occupies entire month, pays July1 $6m. Lessor requests $4,000,000 administrative expense under §503(b) for June10–30 'stub' rent. What if jurisdiction adopts billing-date construction of §365(d)(3) for postpetition bills covering prepetition time? What if billing date prepetition but usage postpetition? Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-6",
+      "topicId": "bank-ch8-problems8-4-6",
+      "title": "Problem 8.6 commercial fleet 30 cars",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded bankruptcy Chapter8 §E limbo, full Whitcomb & Keller Mortgage v Data-Link opinion, commercial realty §365(d)(3),(4), personalty §365(d)(5); Problems 8.4(a)-(c),8.5,8.6 left unsolved",
+      "prompt": "Debtor contracts three-year commercial personal-property lease of THIRTY cars $12,000/month, files Chapter11 after one year, uses only TEN cars for nine months, safely stores other twenty, never pays LeaseCo, market rent for equivalent cars fell 10%; at nine months proposes plan rejecting lease and returning all. Determine rights under §§365(d)(5),503 and whether LeaseCo could force earlier decision. Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
