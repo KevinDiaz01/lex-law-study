@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+  "coverage": {
+    "chapter": 1,
+    "assigned": "General syllabus pp. 1–77",
+    "included": "§ B.2.a Postjudgment collection: execution, judgment liens and garnishment",
+    "note": "Ebook lacks printed page markers; sections traced by exact book headings; no casebook questions answered."
+  },
+  "topics": [
+    {
+      "id": "bank-ch1-execution",
+      "title": "B.2.a.i–ii — Money Judgments, Writs of Execution, Levy and Sale",
+      "chapterGroup": "bank-ch1",
+      "description": "Six-step writ execution process and key priority moments, exempt assets, sheriff duties, low-price sales and Problems 1.6–1.9.",
+      "entries": [
+        {
+          "id": "bank-ch1-execution-e1",
+          "type": "rule",
+          "title": "Judgment: executable, lienable, actionable",
+          "page": "Ch. 1 § B.2.a.i (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "A money judgment permits execution by sheriff, can support creation of judicial lien, and can itself be sued upon to enforce in another state.",
+          "laymanExplanation": "Judgment gives three tools: ask sheriff to collect, make a lien, or bring action on judgment elsewhere.",
+          "legalExplanation": "UEFJA may allow registration in sister state instead of new suit. Merely obtaining judgment need not automatically give a personal-property lien.",
+          "examApplication": "In essay identify which characteristic matters to asset or jurisdiction.",
+          "examTrap": "Do not treat entry of judgment as levy."
+        },
+        {
+          "id": "bank-ch1-execution-e2",
+          "type": "rule",
+          "title": "Six execution steps in order",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "(1) Final judgment; (2) court clerk issues writ of execution; (3) writ delivered to sheriff; (4) sheriff levies nonexempt goods; (5) execution sale; (6) expenses deducted and creditor paid.",
+          "laymanExplanation": "Judgment → writ → sheriff → seize → auction → proceeds.",
+          "legalExplanation": "Most jurisdictions require formal entry (FRCP 58 analogy), and waiting period may apply; appeal alone doesn't stay absent bond.",
+          "examApplication": "Make a timeline identifying all six events; use dates in Problems 1.6–1.9.",
+          "examTrap": "Sheriff cannot levy with returned/expired writ."
+        },
+        {
+          "id": "bank-ch1-execution-e3",
+          "type": "rule",
+          "title": "Dormancy, limitations and repeated writs",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "A judgment's statutory enforcement life and possibly shorter dormancy period limit process. Revival restores enforcement, renewal may extend life, and unlimited writs may issue while judgment active.",
+          "laymanExplanation": "You can try again when first seizure fails, but not with an expired writ.",
+          "legalExplanation": "A returned nulla bona writ is spent; obtain new alias/pluries writ. Dormant judgments need revival and priority may be lost.",
+          "examApplication": "Distinguish judgment limitation date from writ return date and early nulla bona.",
+          "examTrap": "A still-valid judgment doesn't revive an expired writ automatically."
+        },
+        {
+          "id": "bank-ch1-execution-e4",
+          "type": "rule",
+          "title": "Delivery-lien minority and levy-lien majority",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Most states create execution lien when sheriff levies; minority states (Illinois/Maryland examples) create inchoate lien on delivery, perfected by timely levy relating back to delivery.",
+          "laymanExplanation": "Majority priority clock starts at seizure; minority priority clock can start when sheriff receives the writ, but only if levy follows.",
+          "legalExplanation": "Illinois 735 ILCS 5/12-111 tracks sheriff delivery; California CCP §697.710 creates lien on levy. Inchoate minority claim expires with writ/return if no levy.",
+          "examApplication": "Ask when purchaser, competing secured creditor, delivery and levy occurred.",
+          "examTrap": "Minority delivery is NOT automatically permanent choate lien."
+        },
+        {
+          "id": "bank-ch1-execution-e5",
+          "type": "rule",
+          "title": "Levy requires sheriff dominion and control; custodia legis",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Sheriff must assert control over specific nonexempt property, then it is in custody of law. Levy creates/perfects judicial lien and secures priority.",
+          "laymanExplanation": "Officer must effectively capture property, not simply think about seizing it.",
+          "legalExplanation": "Writ's return date often 60–180 days; required report after period. No levy afterward on same writ.",
+          "examApplication": "Assess physical or legal control and whether return date elapsed.",
+          "examTrap": "Levy on statutorily exempt property is forbidden; Illinois may impose double-value liability."
+        },
+        {
+          "id": "bank-ch1-execution-e6",
+          "type": "rule",
+          "title": "Return date, return and nulla bona",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Writ has fixed duration, must be returned with results by return date; nulla bona means no goods recovered and terminates authority.",
+          "laymanExplanation": "A sheriff cannot use a dead writ, even if judgment unpaid.",
+          "legalExplanation": "Illinois 735 ILCS 5/12-110 illustrates 90-day return; new writ can be requested.",
+          "examApplication": "In Problem 1.6 compare May 1 issuance with September 1 levy; 1.7 early June 1 nulla bona.",
+          "examTrap": "No revival of same writ by discovering property the next day."
+        },
+        {
+          "id": "bank-ch1-execution-e7",
+          "type": "rule",
+          "title": "Asset search and counsel's instructions",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Creditor can conduct postjudgment discovery, identify bank accounts or cash registers and direct sheriff's reasonable levy; diligent lawyer matters.",
+          "laymanExplanation": "The creditor's attorney locates assets and tells sheriff when/where to seize them.",
+          "legalExplanation": "Vitale recognizes sheriff duty to follow reasonable legal instructions, despite inconvenient business hours.",
+          "examApplication": "Evaluate feasibility and risk against sheriff concerns.",
+          "examTrap": "Sheriff isn't free to stop after one small levy merely because it's inconvenient."
+        },
+        {
+          "id": "bank-ch1-execution-e8",
+          "type": "rule",
+          "title": "Execution sale low-price safeguards",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Sparse auction attendance often yields depressed prices. States sometimes require appraisal upset/minimum credit, allow challenge for defects or conscience-shocking price, and redemption within statutory period.",
+          "laymanExplanation": "Auctioning $10k property for $1k can punish debtor; law supplies limited safeguards.",
+          "legalExplanation": "Mere low price seldom sufficient by itself to set aside sale; state statutory requirements govern.",
+          "examApplication": "Check appraisal, procedures, extraordinary price inadequacy and redemption period.",
+          "examTrap": "Do not use market value automatically as judgment credit absent statutory floor."
+        },
+        {
+          "id": "bank-ch1-execution-e9",
+          "type": "rule",
+          "title": "Execution-sale proceeds and other liens",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Net proceeds after sale costs pay executing judgment creditor; surplus debtor. Senior liens normally survive sale, junior liens typically wiped out, subject to state variation.",
+          "laymanExplanation": "If earlier mortgage covers property, auction buyer may take it subject to mortgage.",
+          "legalExplanation": "Priority dates execution lien (majority levy/minority delivery relation-back) versus previously perfected Article 9 security interest; unperfected security interest loses to lien creditor under §9-317.",
+          "examApplication": "Calculate priority before allocating proceeds.",
+          "examTrap": "Losing junior secured interest is not same as extinguishing underlying personal debt."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-execution-cases",
+      "title": "B.2.a.ii — Vitale and Illi: Sheriff Duties and Competing Creditor Priority",
+      "chapterGroup": "bank-ch1",
+      "description": "Full opinion briefs on successive levies and Maryland minority execution liens; key differences between creditor-debtor and creditor-creditor contests.",
+      "entries": [
+        {
+          "id": "bank-ch1-execution-cases-e1",
+          "type": "case",
+          "title": "Vitale v. Hotel California, Inc., 446 A.2d 880 (N.J. Super. Ct. 1982)",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "No. Repeated levies under same valid unreturned writ permitted; sheriff's failure to comply with reasonable directions justified amercement (sheriff liability) for loss from nonperformance.",
+          "laymanExplanation": "Under a valid writ, the sheriff owes duty to follow creditor's positive reasonable lawful levy instructions; failure causing loss may result in amercement.",
+          "legalExplanation": "Judgment creditor must locate assets, deliver writ and reasonable levy instructions; sheriff must act promptly, may use lawful enforcement power, and can't refuse solely because premises open at night or bouncers may resist when court order obtained. Practical limits apply, but repeated cash levies reasonable during summer club season.",
+          "examApplication": "Explain return date, successive levy vs successive writ, safety and operational reasonableness, amercement measure.",
+          "examTrap": "No unlimited right to demand arbitrarily frequent or unlawful levies.",
+          "assignedOpinion": true,
+          "sourceRole": "Excerpted judicial opinion in Chapter 1",
+          "facts": "Creditor had $6,317 judgment against nightclub The Fast Lane; writ issued and was delivered to sheriff. Bar operated late, deputies were deterred by bouncers, then after court order seized $714. Sheriff refused repeated evening levies despite creditor's instructions. Creditor moved for amercement.",
+          "issue": "May a sheriff refuse reasonable repeated nighttime levies under an unreturned valid writ, claiming one levy enough, risk and inconvenience?",
+          "holding": "No. Repeated levies under same valid unreturned writ permitted; sheriff's failure to comply with reasonable directions justified amercement (sheriff liability) for loss from nonperformance.",
+          "reasoning": "Judgment creditor must locate assets, deliver writ and reasonable levy instructions; sheriff must act promptly, may use lawful enforcement power, and can't refuse solely because premises open at night or bouncers may resist when court order obtained. Practical limits apply, but repeated cash levies reasonable during summer club season.",
+          "rule": "Under a valid writ, the sheriff owes duty to follow creditor's positive reasonable lawful levy instructions; failure causing loss may result in amercement."
+        },
+        {
+          "id": "bank-ch1-execution-cases-e2",
+          "type": "case",
+          "title": "Illi, Inc. v. Margolis, 296 A.2d 412 (Md. 1972)",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Two levying creditors had perfected liens relating back to sheriff delivery; accepting installments while preserving seized property did not waive priority. Five unlevied nulla-bona writs never became consummate liens and had no priority.",
+          "laymanExplanation": "Minority-state delivery creates contingent lien only; levy completes it and fixes priority back to delivery. After nulla bona without levy no enforceable lien survives.",
+          "legalExplanation": "Maryland creates inchoate execution lien on writ delivery, but timely levy makes it choate and relates back. After returned nulla bona or expiration without levy, inchoate lien extinguishes. Giving debtor a payment plan, with continuing good faith recovery, was not abandonment of perfected lien.",
+          "examApplication": "Group five should have pressed officer to levy before surrendering writ; compare two levying creditors' subsequent delay and payments.",
+          "examTrap": "'In custodia legis' trustee control alone did not make unlevied writs into perfected liens.",
+          "assignedOpinion": true,
+          "sourceRole": "Excerpted judicial opinion in Chapter 1",
+          "facts": "Seven judgment creditors of Stan Martin obtained writs. Brookfield and Youngs made timely levy and accepted weekly installment payments without sale. Five other creditors delivered writs but did not levy before equity court took custody of assets and writs returned nulla bona. All sought priority over general creditors.",
+          "issue": "Under Maryland delivery-lien rule, which judgment creditors obtained enforceable priority and did a payment workout waive liens of those who had levied?",
+          "holding": "Two levying creditors had perfected liens relating back to sheriff delivery; accepting installments while preserving seized property did not waive priority. Five unlevied nulla-bona writs never became consummate liens and had no priority.",
+          "reasoning": "Maryland creates inchoate execution lien on writ delivery, but timely levy makes it choate and relates back. After returned nulla bona or expiration without levy, inchoate lien extinguishes. Giving debtor a payment plan, with continuing good faith recovery, was not abandonment of perfected lien.",
+          "rule": "Minority-state delivery creates contingent lien only; levy completes it and fixes priority back to delivery. After nulla bona without levy no enforceable lien survives."
+        },
+        {
+          "id": "bank-ch1-execution-cases-e3",
+          "type": "concept",
+          "title": "Vitale vs Illi exam distinction",
+          "page": "Ch. 1 § B.2.a.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Vitale involves whether creditor can compel officer to perform another levy; Illi involves whether creditors secured priority before competing collective proceeding.",
+          "laymanExplanation": "Vitale: force sheriff to act. Illi: win or lose your place in line.",
+          "legalExplanation": "Both show why a lawyer must actively manage writ, timing, levy and returns.",
+          "examApplication": "If fact pattern has 'sheriff refused' use Vitale; if 'five creditors filed but did not levy' use Illi.",
+          "examTrap": "Don't confuse officer's duty with automatic perfection."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-judgment-liens",
+      "title": "B.2.a.iii — Real Property Judgment Liens, After-Acquired Land and McDermott",
+      "chapterGroup": "bank-ch1",
+      "description": "Judgment liens creation, recording, county, interstate enforcement, after-acquired property, purchase-money mortgage, federal tax lien and Problems 1.10–1.13.",
+      "entries": [
+        {
+          "id": "bank-ch1-judgment-liens-e1",
+          "type": "rule",
+          "title": "Judgment lien generally on real property; different from execution lien",
+          "page": "Ch. 1 § B.2.a.iii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "A judgment lien is statutory encumbrance usually on nonexempt land, often arising earlier and attaching after-acquired land without future levy; execution lien fixes levy/delivery on targeted goods.",
+          "laymanExplanation": "Lien on land can quietly follow property the debtor purchases later; execution usually needs sheriff seize specific item.",
+          "legalExplanation": "Majority in-county docketing (e.g. New York); minority county real-property recording (e.g. California); few cover personal property.",
+          "examApplication": "Distinguish where lien is created and attached from when sheriff sells to enforce.",
+          "examTrap": "Personal property execution lien rules are not synonymous with real-estate judgment lien rules."
+        },
+        {
+          "id": "bank-ch1-judgment-liens-e2",
+          "type": "rule",
+          "title": "In-county vs out-of-county vs out-of-state land",
+          "page": "Ch. 1 § B.2.a.iii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "In county of judgment, many states create lien at docket; minority requires recordation of abstract. In another county record notice in that county. In another state use UEFJA registration or lawsuit on judgment first.",
+          "laymanExplanation": "Judgment in Alpha County does not silently encumber Omega County land; file where the land is.",
+          "legalExplanation": "A foreign-state enforcement requires judgment local legal effect before applicable lien steps.",
+          "examApplication": "Start with asset county/state and judgment forum before declaring priority.",
+          "examTrap": "A docketed judgment alone may fail against out-of-county purchaser."
+        },
+        {
+          "id": "bank-ch1-judgment-liens-e3",
+          "type": "rule",
+          "title": "After-acquired land and appreciation; statutory duration",
+          "page": "Ch. 1 § B.2.a.iii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Judgment lien generally follows nonexempt after-acquired land and subsequent appreciation during lien term; survives conveyance, death, and ordinarily bankruptcy unless otherwise avoided.",
+          "laymanExplanation": "If debtor buys a house next year, prior judgment lien may automatically attach to that new house.",
+          "legalExplanation": "Generally 5–10-year statutory life; end upon satisfaction, release or expiration; state exemptions and bankruptcy avoidance exceptions apply.",
+          "examApplication": "Spot inheritance timing in Problem 1.12.",
+          "examTrap": "Exemption protections can prevent attachment or lead to lien avoidance under bankruptcy law."
+        },
+        {
+          "id": "bank-ch1-judgment-liens-e4",
+          "type": "rule",
+          "title": "Priority, purchase-money exception and after-acquired tie",
+          "page": "Ch. 1 § B.2.a.iii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Priority dates from lien creation; generally earlier lien beats later purchaser/lender. Purchase-money mortgages can outrank otherwise earlier judgment liens; in majority jurisdictions two preexisting judgment liens attach to after-acquired land simultaneously and may share equal rank, minority uses earlier recording.",
+          "laymanExplanation": "Bank funding very purchase of the house may get priority even over old judgment lien.",
+          "legalExplanation": "Purchase-money rule and after-acquired equal-attachment rule are important exceptions to simple 'first docket wins'.",
+          "examApplication": "Evaluate Problem 1.13 bank purchase money, and any two judgment liens already recorded before inheritance.",
+          "examTrap": "Don't assume all lien priorities can be resolved using dates of original underlying debts."
+        },
+        {
+          "id": "bank-ch1-judgment-liens-e5",
+          "type": "rule",
+          "title": "Federal tax lien under IRC §§6321–6323",
+          "page": "Ch. 1 § B.2.a.iii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Upon tax assessment federal tax lien arises on existing/after-acquired property, but generally invalid against qualifying prior judgment lien creditor until notice filed; federal law fixes choateness and priority.",
+          "laymanExplanation": "IRS often wins if it recorded tax-lien notice before debtor acquired contested land, even when bank docketed a judgment earlier.",
+          "legalExplanation": "Federal priority requires identity of lienor, amount and property sufficiently established, and federal tax law treats filed notice specially.",
+          "examApplication": "Plot tax assessment, bank docket, IRS notice and acquisition of land.",
+          "examTrap": "Federal tax lien is not automatically first against every creditor without regard to recording statute."
+        },
+        {
+          "id": "bank-ch1-judgment-liens-e6",
+          "type": "case",
+          "title": "United States v. McDermott, 507 U.S. 447 (1993)",
+          "page": "Ch. 1 § B.2.a.iii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Federal tax lien prevailed. Bank's lien was not choate in federally relevant sense before property acquired, and federal tax lien notice filed earlier counted as extant for priority even before particular land attached.",
+          "laymanExplanation": "Where after-acquired property is obtained after IRS notice, earlier state judgment docket alone does not necessarily win; apply federal choateness test and §6323.",
+          "legalExplanation": "Federal 'first in time' requires competing lien fully established as to specific property. Bank's earlier blanket after-acquired lien did not attach to parcel until acquisition. Tax lien likewise attached then, but IRC §6323(a) filing treated as earlier priority. Thomas dissent argued state's perfected general lien and no-more-to-do principle should protect bank or yield tie.",
+          "examApplication": "Change IRS notice date to Sept.24 or pre-own land and compare; don't give IRS blanket first priority in all fact patterns.",
+          "examTrap": "Thomas dissent is noncontrolling and argues bank lien was already sufficiently definite.",
+          "assignedOpinion": true,
+          "sourceRole": "Excerpted judicial opinion in Chapter 1",
+          "facts": "IRS assessed delinquent taxes December 1986; bank docketed judgment lien July 6, 1987 in Salt Lake County; IRS filed notice Sept. 9; McDermotts acquired subject land Sept. 23. Bank's Utah judgment lien reached after-acquired land under state law. Lower courts favored bank.",
+          "issue": "Which had priority on after-acquired realty: state judgment lien docketed before IRS notice but attached only after IRS filed notice, or federal tax lien?",
+          "holding": "Federal tax lien prevailed. Bank's lien was not choate in federally relevant sense before property acquired, and federal tax lien notice filed earlier counted as extant for priority even before particular land attached.",
+          "reasoning": "Federal 'first in time' requires competing lien fully established as to specific property. Bank's earlier blanket after-acquired lien did not attach to parcel until acquisition. Tax lien likewise attached then, but IRC §6323(a) filing treated as earlier priority. Thomas dissent argued state's perfected general lien and no-more-to-do principle should protect bank or yield tie.",
+          "rule": "Where after-acquired property is obtained after IRS notice, earlier state judgment docket alone does not necessarily win; apply federal choateness test and §6323."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-garnishment",
+      "title": "B.2.a.iv — Bank and Wage Garnishment: Subrogation, Timing, Federal Caps",
+      "chapterGroup": "bank-ch1",
+      "description": "Garnishee rights, service-of-writ snapshot, after-acquired deposits, prospective wage withholding, creditor/debtor defenses and Problem 1.14.",
+      "entries": [
+        {
+          "id": "bank-ch1-garnishment-e1",
+          "type": "rule",
+          "title": "Garnishment reaches money held by another person",
+          "page": "Ch. 1 § B.2.a.iv (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Judgment creditor (garnishor) serves garnishee (bank or employer) who owes debtor or holds debtor property; ancillary court action may require third party to turn property over.",
+          "laymanExplanation": "Instead of asking debtor for bank balance or wages, serve the bank or boss.",
+          "legalExplanation": "Garnishee answers and may assert no property, setoff or exemption; creditor contests by trial.",
+          "examApplication": "Identify three actors; distinguish garnishment of account from direct levy on debtor-owned property.",
+          "examTrap": "Garnishee is not automatically liable for more than debtor could claim."
+        },
+        {
+          "id": "bank-ch1-garnishment-e2",
+          "type": "rule",
+          "title": "Subrogation and timing: service creates garnishment lien",
+          "page": "Ch. 1 § B.2.a.iv (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Garnishor steps into debtor's shoes: no greater rights against garnishee than debtor has; lien arises on service and reaches nonexempt property/debt then held/owed.",
+          "laymanExplanation": "What bank owed debtor when sheriff served is usually the account frozen.",
+          "legalExplanation": "Payments before service escape lien; later deposits may or may not be reached depending on state and end date.",
+          "examApplication": "On Problem 1.14 use minute-by-minute withdrawal/service/deposit timeline.",
+          "examTrap": "Don't use writ issuance or delivery to sheriff as service date."
+        },
+        {
+          "id": "bank-ch1-garnishment-e3",
+          "type": "rule",
+          "title": "Unearned future wages and special continuing wage statutes",
+          "page": "Ch. 1 § B.2.a.iv (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Unearned wages not yet owed normally escape ordinary service-time garnishment; special wage statutes let one writ garnish part of wages as earned across pay periods.",
+          "laymanExplanation": "Boss doesn't yet owe next month's wages, but continuing wage garnishment laws capture future checks.",
+          "legalExplanation": "Continuing wage deduction differs from one-time bank account freeze; state procedural limits vary.",
+          "examApplication": "Ask bank-deposit garnishment vs employer ongoing withholding.",
+          "examTrap": "A one-time bank writ doesn't universally reach deposits after service."
+        },
+        {
+          "id": "bank-ch1-garnishment-e4",
+          "type": "rule",
+          "title": "Federal wage cap calculation — 15 USC §1673",
+          "page": "Ch. 1 § B.2.a.iv (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Ordinary weekly garnishment cannot exceed lesser of 25% of disposable earnings or amount earnings exceed 30 × federal minimum hourly wage; support orders may allow 50–65% with conditions; state stricter protections survive.",
+          "laymanExplanation": "Federal law caps paycheck seizure using two formulas and selects smaller number.",
+          "legalExplanation": "Use correct disposable income and applicable federal minimum wage at payable time; identify exception for child support; §1674 forbids firing solely because of garnishment for a single debt.",
+          "examApplication": "Compute both cap alternatives symbolically and compare; don't assume wage is fully attachable.",
+          "examTrap": "A state can prohibit most ordinary wage garnishment even if federal law allows a limited amount."
+        },
+        {
+          "id": "bank-ch1-garnishment-e5",
+          "type": "rule",
+          "title": "Garnishee defenses, no double payment, notice and exemption duties",
+          "page": "Ch. 1 § B.2.a.iv (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Garnishee must retain nonexempt liened funds; payment to creditor generally discharges same debt to debtor. Failures to give required debtor notice/claim exemptions can cause liability; debtor not bound by garnishment judgment if not party.",
+          "laymanExplanation": "Bank normally should not have to pay same account twice, unless it violates procedural duty.",
+          "legalExplanation": "Debtor may intervene to assert exemptions; res judicata rules hinge on whether debtor actually joined garnishment action.",
+          "examApplication": "Consider wage/exempt funds, debtor opportunity to intervene, and bank's offset right.",
+          "examTrap": "Assuming bank automatically liable to debtor after lawful payout ignores reduction in debtor-bank debt."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch1-p1-6",
+      "topicId": "bank-ch1-execution",
+      "title": "Problem 1.6",
+      "kind": "Casebook Problem 1.6 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77 (B.2.a.i–ii — Money Judgments, Writs of Execution, Levy and Sale)",
+      "prompt": "$5k April 1 judgment; May 1 writ with 90-day return; sheriff levies prize pig Porky on September 1. Determine consequences of writ expiration, don't solve.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-7",
+      "topicId": "bank-ch1-execution",
+      "title": "Problem 1.7",
+      "kind": "Casebook Problem 1.7 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77 (B.2.a.i–ii — Money Judgments, Writs of Execution, Levy and Sale)",
+      "prompt": "$5k April 1 judgment; May 1 90-day writ; sheriff returns nulla bona June 1; creditor discovers seizable assets June 2. Determine next procedural step without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-8",
+      "topicId": "bank-ch1-execution",
+      "title": "Problem 1.8",
+      "kind": "Casebook Problem 1.8 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77 (B.2.a.i–ii — Money Judgments, Writs of Execution, Levy and Sale)",
+      "prompt": "Judgment April 1, May 1 90-day writ delivered May 2, debtor sells Porky to purchaser May 10 (purchaser leaves pig until May 15), sheriff levies May 12. Compare majority levy-lien and minority delivery-lien priority, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-9",
+      "topicId": "bank-ch1-execution",
+      "title": "Problem 1.9",
+      "kind": "Casebook Problem 1.9 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77 (B.2.a.i–ii — Money Judgments, Writs of Execution, Levy and Sale)",
+      "prompt": "Porky worth $5k, valid security interest securing $5k attached Feb 1; judgment Apr 1, writ May 1, delivered May 2, levy May 10. Compare seniority when prior Article 9 financing statement filed (a) Feb 1, (b) May 5, (c) May 15, under majority and minority execution states. Don't answer.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-10",
+      "topicId": "bank-ch1-judgment-liens",
+      "title": "Problem 1.10",
+      "kind": "Casebook Problem 1.10 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77 (B.2.a.iii — Real Property Judgment Liens, After-Acquired Land and McDermott)",
+      "prompt": "May 1 $5k docketed Alpha County judgment; debtor owns $8k Blackacre there; creditor does nothing; May 15 buyer purchases and records. Compare majority docketing and minority recording priority, unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-11",
+      "topicId": "bank-ch1-judgment-liens",
+      "title": "Problem 1.11",
+      "kind": "Casebook Problem 1.11 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77 (B.2.a.iii — Real Property Judgment Liens, After-Acquired Land and McDermott)",
+      "prompt": "A's judgment May 1 and Z's June 1 in Alpha County; Z records notice July 1 in Omega County where debtor owns $8k land; A does not. Compare lien priorities and location, unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-12",
+      "topicId": "bank-ch1-judgment-liens",
+      "title": "Problem 1.12",
+      "kind": "Casebook Problem 1.12 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77 (B.2.a.iii — Real Property Judgment Liens, After-Acquired Land and McDermott)",
+      "prompt": "Creditor docketed/recorded Alpha judgment; four years later debtor inherits Alpha Blackacre; six months later bankruptcy. Does prior judgment lien yield secured bankruptcy claim? Consider after-acquired property and timing; leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-13",
+      "topicId": "bank-ch1-judgment-liens",
+      "title": "Problem 1.13",
+      "kind": "Casebook Problem 1.13 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77 (B.2.a.iii — Real Property Judgment Liens, After-Acquired Land and McDermott)",
+      "prompt": "Prior docketed/recorded judgment lien in Alpha; debtor later buys land using Bank's loan secured by mortgage. Compare priorities and purchase-money mortgage exception, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-14",
+      "topicId": "bank-ch1-garnishment",
+      "title": "Problem 1.14",
+      "kind": "Casebook Problem 1.14 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1 (user-provided full textbook chapter); Effross Fall 2026 syllabus pp. 1–77 (B.2.a.iv — Bank and Wage Garnishment: Subrogation, Timing, Federal Caps)",
+      "prompt": "Three versions of bank account garnishment: $1,000 initially, $900 ATM withdrawal before or after service and later $800 deposit after service. Analyze creditor and debtor claims against bank, precise service-time lien and jurisdictional after-acquired rule without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
