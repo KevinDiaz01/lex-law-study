@@ -1,0 +1,373 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+  "coverage": {
+    "chapter": 8,
+    "scope": "C. trustee four options, court approval and timing; D. standards and legal consequences of rejection; Enron full case on date of calculating rejection damages; 8.2(a,b),8.3 unsolved"
+  },
+  "topics": [
+    {
+      "id": "bank-ch8-options",
+      "title": "C.1 Four Options: Assume, Assume–Assign, Reject, Do Nothing",
+      "chapterGroup": "bank-ch8",
+      "description": "The bankruptcy estate's contractual choice and marginal value analysis.",
+      "entries": [
+        {
+          "id": "bank-ch8-options-e1",
+          "type": "rule",
+          "title": "Assumption §365(a): full estate obligations with court approval",
+          "page": "Ch.8 §C.1",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Assumption binds estate to executory contract's benefits and burdens, obligates contract performance and may grant counterparty administrative treatment; may be worthwhile if gain from counterparty exceeds performance cost.",
+          "laymanExplanation": "Estate accepts both discounted delivery price and its own promised $5k payment.",
+          "legalExplanation": "Court approval §365(a) and defaults cure under §365(b) are distinct prerequisites.",
+          "examApplication": "Compare market value with contract price and other cost, not merely presence of contract.",
+          "examTrap": "Assumption is not automatic because trustee used goods in limbo."
+        },
+        {
+          "id": "bank-ch8-options-e2",
+          "type": "rule",
+          "title": "Assume and assign §365(f): monetize favorable deal",
+          "page": "Ch.8 §C.1",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Trustee may assume contract and assign it for consideration to third party subject statutory restrictions; §365(k) generally releases estate from postassignment breach liability.",
+          "laymanExplanation": "Lease at below-market rent can be sold to a new store for profit.",
+          "legalExplanation": "Must first assume and cure, and assignee must provide adequate assurance, even without existing default.",
+          "examApplication": "Calculate value of remaining contract surplus, consider cure and sale fees.",
+          "examTrap": "Cannot skip assumption step and assign raw burdens."
+        },
+        {
+          "id": "bank-ch8-options-e3",
+          "type": "rule",
+          "title": "Rejection = refuse estate burden, §365(g) prefiling breach",
+          "page": "Ch.8 §C.1",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Rejection avoids taking over contract performance and generally leaves nondebtor with prepetition general unsecured damage claim; estate loses ability to compel ordinary contract benefits.",
+          "laymanExplanation": "Bad $5k inventory deal can be declined, supplier gets bankruptcy claim rather than full payment.",
+          "legalExplanation": "After Chapter11 rejection contract can have surviving previously granted property rights despite estate ceasing performance.",
+          "examApplication": "Distinguish rejection's claim effect from contract termination/rescission.",
+          "examTrap": "Rejecting contract is not erasing all third-party rights."
+        },
+        {
+          "id": "bank-ch8-options-e4",
+          "type": "rule",
+          "title": "Do nothing: nondebtor remains bound during limbo",
+          "page": "Ch.8 §C.1",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Pending choice, counterparty must continue performing; estate can receive postpetition benefits without formal assumption, subject payment for actual benefit as administrative cost; nondebtor may ask court for deadline.",
+          "laymanExplanation": "Debtor asks vendor to keep delivering while deciding whether to sign on long term.",
+          "legalExplanation": "Bildisco, Whitcomb address one-way interim enforcement; special lease rules deviate.",
+          "examApplication": "Check whether §365(d) deadline or special landlord provisions apply.",
+          "examTrap": "Limbo is not automatically free service nor implied assumption."
+        },
+        {
+          "id": "bank-ch8-options-e5",
+          "type": "rule",
+          "title": "Economic choice includes opportunity costs and claim distributions",
+          "page": "Ch.8 §C.1 / Problem8.2",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Trustee evaluates whether advantageous deal increases estate value given price, market alternative, future revenue and pro rata unsecured distribution if rejected; never simply ignore breach claim.",
+          "laymanExplanation": "A $5k buy contract may be cheap or expensive depending on market; rejection claim payout matters.",
+          "legalExplanation": "Book's Problem8.2 varies market to $6k vs $4k and 10% unsecured recoveries.",
+          "examApplication": "Set separate cash-flows for assumption versus rejection and other alternatives.",
+          "examTrap": "Do not assume reduced unsecured payout itself makes rejection legal on all facts."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-365-court-timing",
+      "title": "C.2–3 Court Approval and Chapter-/Lease-Specific Deadlines",
+      "chapterGroup": "bank-ch8",
+      "description": "Formal court order and distinct Chapter7/Chapter11/nonresidential lease clocks.",
+      "entries": [
+        {
+          "id": "bank-ch8-365-court-timing-e1",
+          "type": "rule",
+          "title": "Formal approval for assumption, rejection and prerequisite assignment",
+          "page": "Ch.8 §C.2",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "§365(a) requires court approval for estate's affirmative assumption/rejection; §365(f)(2)(A) links assignment to assumption. 'Implied' assumption merely from continued performance rejected by source courts.",
+          "laymanExplanation": "Using seller's services in bankruptcy isn't signing entire contract on the estate's behalf.",
+          "legalExplanation": "Special deemed rejections can occur AUTOMATICALLY without a separate rejection order.",
+          "examApplication": "Look for express order, passive statutory expiration or merely services received.",
+          "examTrap": "Do not infer assumption from business operation under contract."
+        },
+        {
+          "id": "bank-ch8-365-court-timing-e2",
+          "type": "rule",
+          "title": "Chapter7 §365(d)(1) 60-day default deadline",
+          "page": "Ch.8 §C.3",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "In Chapter7 trustee must assume or reject executory contract/ordinary unexpired lease within 60 days or obtain extension in time; otherwise deemed rejected. Special nonresidential real-property lease rule §365(d)(4) controls those leases.",
+          "laymanExplanation": "Chapter7 trustee generally has only two months to commit.",
+          "legalExplanation": "§365(d)(1) applies presumptively to ordinary contracts except special lease regime.",
+          "examApplication": "Calculate from order for relief/petition as source says with any extension.",
+          "examTrap": "Do not apply Chapter11 until-confirmation default to Chapter7."
+        },
+        {
+          "id": "bank-ch8-365-court-timing-e3",
+          "type": "rule",
+          "title": "Reorganization §§365(d)(2) until plan confirmation (unless special lease)",
+          "page": "Ch.8 §C.3",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Chapter9/11/12/13 trustee/DIP may choose up to confirmation, but other party can move for court-set earlier reasonable deadline; balances estate ability to evaluate versus nondebtor's uncertainty.",
+          "laymanExplanation": "Supplier might compel earlier yes/no if indefinite limbo harms its business.",
+          "legalExplanation": "Business judgment by DIP to defer; court's power shorten timing.",
+          "examApplication": "Mention confirmed plan date and creditor motion to expedite.",
+          "examTrap": "No unlimited limbo if §365(d)(4) applies."
+        },
+        {
+          "id": "bank-ch8-365-court-timing-e4",
+          "type": "rule",
+          "title": "Nonresidential property §365(d)(4): 120 days + one 90-day extension",
+          "page": "Ch.8 §C.3",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "In any chapter, commercial realty lease ordinarily must be assumed/rejected within 120 days after order for relief or at earlier plan confirmation; court may allow one 90-day extension for cause, further extension only with lessor prior WRITTEN consent; otherwise deemed rejected.",
+          "laymanExplanation": "Retail store has about 4 months plus perhaps 3 more, not endless Chapter11 option.",
+          "legalExplanation": "2005 change tightened previous open-ended extensions, important to retailers.",
+          "examApplication": "Construct deadline and determine if landlord consent exists for more time.",
+          "examTrap": "Do not substitute personal property §365(d)(5) 60-day performance clock."
+        },
+        {
+          "id": "bank-ch8-365-court-timing-e5",
+          "type": "rule",
+          "title": "Timing protects nondebtor counterparty's planning",
+          "page": "Ch.8 §C.3",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Lender/lessor/provider wants prompt cure, assurance or freedom to replace customer; trustee prefers time to see whether deal profitable, but assumption after delay may impose costly admin exposure.",
+          "laymanExplanation": "Supplier cannot commit capacity to another customer while estate undecided.",
+          "legalExplanation": "Judge can compel earlier decision where burden to counterparty outweighs estate information needs.",
+          "examApplication": "Explain timing as litigation leverage and effects of early/later motion.",
+          "examTrap": "Court does not always favor debtor regardless hardship."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-rejection-standard",
+      "title": "D.1 Standard for Rejection: Business Judgment Versus Special CBA Rule",
+      "chapterGroup": "bank-ch8",
+      "description": "Even profitable contracts may be rejected to produce greater estate value.",
+      "entries": [
+        {
+          "id": "bank-ch8-rejection-standard-e1",
+          "type": "rule",
+          "title": "Business judgment standard: defer unless bad faith/gross abuse",
+          "page": "Ch.8 §D.1",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "For ordinary executory contracts, majority permits rejection if it advances estate's interests, even where contract not losing money; court usually defers to trustee absent bad faith or gross misuse of discretion.",
+          "laymanExplanation": "Company can break a reasonably profitable deal if another better one increases estate benefit after claims.",
+          "legalExplanation": "Contrast small minority requiring negative/burdensome net value and cases balancing grave counterparty harm.",
+          "examApplication": "Assess projected economic gain, not automatic rejection because creditors pay pennies.",
+          "examTrap": "General §365(a) business judgment differs from §1113 CBA balance-of-equities."
+        },
+        {
+          "id": "bank-ch8-rejection-standard-e2",
+          "type": "rule",
+          "title": "Rejection need not mean contract is net burdensome",
+          "page": "Ch.8 §D.1",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Many courts allow rejection of a profitable contract where debtor can earn more elsewhere, because resulting unsecured damages may receive small dividend; source cites railroad precedent and In re Minges.",
+          "laymanExplanation": "A $5.5k resale on $5k purchase can still be outperformed via other supplier despite positive contract profit.",
+          "legalExplanation": "This creates externalization of rejection losses to counterparty and other unsecured claimants.",
+          "examApplication": "Problem8.3 tests profitable original deal and other party's potential financial ruin.",
+          "examTrap": "Don't automatically deny rejection solely because contract price lower than resale price."
+        },
+        {
+          "id": "bank-ch8-rejection-standard-e3",
+          "type": "rule",
+          "title": "Minority approaches: real burden or third-party hardship",
+          "page": "Ch.8 §D.1",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Some courts require that performance actually lose money; others balance harm to nondebtor if disproportionately worse than benefit to estate, but predominant rule focuses estate's benefit.",
+          "laymanExplanation": "Some judges would not permit marginal estate saving to bankrupt innocent seller.",
+          "legalExplanation": "Exception for CBA expressly changes standard through §1113.",
+          "examApplication": "Distinguish alternate doctrinal tests when prompt asks fairness.",
+          "examTrap": "Minority approach is not majority holding."
+        },
+        {
+          "id": "bank-ch8-rejection-standard-e4",
+          "type": "rule",
+          "title": "Mistaken belief in rejection effects may defeat sound business judgment",
+          "page": "Ch.8 §D.1–D.2",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Trustee who thinks rejection cancels prior property grants or unilaterally strips license may wrongly calculate expected value; if expected benefit legally unavailable, business judgment flawed.",
+          "laymanExplanation": "Decision isn't rational when estimated gain depends on power trustee doesn't have.",
+          "legalExplanation": "Mission Product corrects rescission misunderstanding; Ortiz equitable claim question.",
+          "examApplication": "Before evaluating rejection value identify rights surviving breach.",
+          "examTrap": "Rejection isn't §544–553 avoidance."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-rejection-effects",
+      "title": "D.2 Two Core Principles and Four Effects of Rejection",
+      "chapterGroup": "bank-ch8",
+      "description": "Not assumption; rejection deemed breach, priority and discharge.",
+      "entries": [
+        {
+          "id": "bank-ch8-rejection-effects-e1",
+          "type": "rule",
+          "title": "Principle 1: rejection is NOT assumption",
+          "page": "Ch.8 §D.2",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Estate neither undertakes future duties nor can require future contract benefits under ongoing performance; prebankruptcy contract remains subject to ordinary nonbankruptcy breach consequences.",
+          "laymanExplanation": "Trustee says no to paying future $5k and ordinarily cannot force Jones to deliver gizmos.",
+          "legalExplanation": "Don't treat rejection as contract rescission, cancellation, completed termination or avoidance of property conveyance.",
+          "examApplication": "Break down estate obligations vs debtor rights separately.",
+          "examTrap": "Estate avoiding duty doesn't remove every independent state-law injunction or existing license right."
+        },
+        {
+          "id": "bank-ch8-rejection-effects-e2",
+          "type": "rule",
+          "title": "Principle 2: rejection constitutes a BREACH §365(g)",
+          "page": "Ch.8 §D.2",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Rejection itself produces breach, typically deemed immediately prepetition under §365(g)(1), even if contract fully current at filing—anticipatory repudiation.",
+          "laymanExplanation": "If company rejects otherwise good future delivery deal, seller becomes breached party.",
+          "legalExplanation": "Prepetition fiction determines priority and interacts with §502(g)(1); disputed extent for damage measuring addressed in Enron.",
+          "examApplication": "Use actual date of motion vs deemed petition date distinctly.",
+          "examTrap": "Don't conflate statutory deemed breach with literal physical termination of contract."
+        },
+        {
+          "id": "bank-ch8-rejection-effects-e3",
+          "type": "rule",
+          "title": "Four consequences of rejection",
+          "page": "Ch.8 §D.2",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "(1) Estate not liable for future contractual performance; (2) estate not entitled to future counterparty performance; (3) counterparty has a prepetition-classified unsecured claim §502(g)(1); (4) claim-as-debt may be discharged to extent monetary rights qualify under §§101(5),(12).",
+          "laymanExplanation": "Estate drops the deal and seller generally gets ordinary pennies-on-dollar damage claim, not full administrative payoff.",
+          "legalExplanation": "Surviving nonmonetary rights require separate §101(5)(B) analysis and nonbankruptcy remedies.",
+          "examApplication": "In fact-pattern enumerate each with caveat previously conveyed license/property interests.",
+          "examTrap": "Not every right to injunction is dischargeable money claim."
+        },
+        {
+          "id": "bank-ch8-rejection-effects-e4",
+          "type": "rule",
+          "title": "Assumed and later rejected is different (§365(g)(2))",
+          "page": "Ch.8 §D.2",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "If estate first assumes, its subsequent breach/rejection is treated as postpetition obligation and may yield administrative damages, subject later special §503(b)(7) cap for assumed nonresidential real estate lease.",
+          "laymanExplanation": "A promise newly adopted by estate can be much more expensive to break.",
+          "legalExplanation": "Klein Sleep source illustrates pre-2005 rule then explicitly discusses 2005 override.",
+          "examApplication": "Always ask WAS contract formally assumed before rejection.",
+          "examTrap": "Don't classify assumed-then-rejected damages as ordinary prepetition by reflex."
+        },
+        {
+          "id": "bank-ch8-rejection-effects-e5",
+          "type": "rule",
+          "title": "Rejection does NOT rescind prior grants",
+          "page": "Ch.8 §D.2 / Mission preview",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Prepetition property/license rights already transferred survive absent applicable nonbankruptcy termination upon ordinary breach; bankruptcy estate cannot recapture more than debtor owned §541.",
+          "laymanExplanation": "Trademark license granted years before is not revoked merely by debtor's rejection.",
+          "legalExplanation": "Mission Product clarified rejecting licensor can't destroy licensee rights, except generally applicable law effects.",
+          "examApplication": "Identify preexisting property interests separately from promise of future services.",
+          "examTrap": "Do not treat rejection as undoing conveyance or avoidance."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-enron",
+      "title": "D.2 In re Enron (2005) — Full Rejection-Damages Valuation Case",
+      "chapterGroup": "bank-ch8",
+      "description": "Deemed petition-day breach versus actual rejection-day market price.",
+      "entries": [
+        {
+          "id": "bank-ch8-enron-e1",
+          "type": "case",
+          "title": "In re Enron Corp., 330 B.R. 387 (Bankr. S.D.N.Y. 2005)",
+          "page": "Ch.8 §D.2 / Enron full opinion",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Court accepted deemed PREPETITION valuation date and sustained debtor objection to Taunton's claim, rather than $6.66m actual-rejection calculation. Court reasoned §502(g)(1) says claims 'determined' AND 'allowed' as if prepetition, and treated 'determined' as setting boundaries/amount as of petition date.",
+          "laymanExplanation": "Under Enron bankruptcy court's statutory construction, calculate rejection damages as of deemed prepetition breach, not actual later rejection; notwithstanding real economic change during limbo.",
+          "legalExplanation": "Court followed American HomePatient reading both 'determined' and 'allowed' so not surplusage; federal Code controls timing absent gap for state contract remedy. Distinguished Lavigne's nontermination/option timeline because statute didn't fix option deadline there. Petition-date settlement fiction administratively efficient and equitable among creditors. Taunton argued UCC losses only real on actual breach and it could not avoid overpriced purchases while waiting; court responded nondebtor could ask court to compel earlier §365(d)(2) choice. Casebook critiques formal fiction used to deny actual loss and contrasts Chicago Auditorium history/possible alternative reading 'determine' as classify.",
+          "examApplication": "Contrast $6,658,885 actual-date claimed loss to $0 deemed-date court allowed, $3.28m contract-in-Enron-favor at petition; illustrate $567k interim above-market payments.",
+          "examTrap": "This is Enron court's holding, not necessarily a universal uncontroversial rule in all jurisdictions or a holding that rejection actually terminated contract.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in uploaded Chapter8",
+          "facts": "Enron Power Marketing agreed November2 2001 to supply electricity to Taunton municipal utility Jan2002–Dec2007. Enron bankruptcy commenced Dec2 2001. Under contract postpetition Taunton paid $567,216 MORE in 2002 than lower market alternative. By Dec2002 market rose above contract price; EPMI rejected effective December17, deliveries ceased after Dec31. Taunton calculated replacement purchase premium $6,594,885 + $64k costs = $6,658,885 rejection claim using actual rejection value. Debtor said on Nov30 2001 market position favored Enron ~$3.28m, so Taunton loss $0 at deemed breach date. Court had to select valuation date.",
+          "issue": "Under §§365(g)(1),502(g)(1), is rejection damage claim measured using prepetition DEEMED breach market conditions or actual postpetition REJECTION date for continuing power supply contract?",
+          "holding": "Court accepted deemed PREPETITION valuation date and sustained debtor objection to Taunton's claim, rather than $6.66m actual-rejection calculation. Court reasoned §502(g)(1) says claims 'determined' AND 'allowed' as if prepetition, and treated 'determined' as setting boundaries/amount as of petition date.",
+          "reasoning": "Court followed American HomePatient reading both 'determined' and 'allowed' so not surplusage; federal Code controls timing absent gap for state contract remedy. Distinguished Lavigne's nontermination/option timeline because statute didn't fix option deadline there. Petition-date settlement fiction administratively efficient and equitable among creditors. Taunton argued UCC losses only real on actual breach and it could not avoid overpriced purchases while waiting; court responded nondebtor could ask court to compel earlier §365(d)(2) choice. Casebook critiques formal fiction used to deny actual loss and contrasts Chicago Auditorium history/possible alternative reading 'determine' as classify.",
+          "rule": "Under Enron bankruptcy court's statutory construction, calculate rejection damages as of deemed prepetition breach, not actual later rejection; notwithstanding real economic change during limbo."
+        },
+        {
+          "id": "bank-ch8-enron-e2",
+          "type": "rule",
+          "title": "§502(g)(1) 'determined' versus 'allowed' controversy",
+          "page": "Ch.8 §D.2 / Enron",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Enron court reads 'determined' to set amount/time and 'allowed' to assign claim status, so values as prepetition. Book offers competing interpretation 'determined' might classify type, leaving nonbankruptcy actual-breach damages.",
+          "laymanExplanation": "Why date matters: market moved from seller advantage to buyer advantage during year.",
+          "legalExplanation": "This is one of professor's statutory construction comparison questions.",
+          "examApplication": "Give court holding and criticism separately, never silently choose normative interpretation.",
+          "examTrap": "Textbook questions are not court holdings."
+        },
+        {
+          "id": "bank-ch8-enron-e3",
+          "type": "rule",
+          "title": "Rejection breach legal fiction versus nontermination",
+          "page": "Ch.8 §D.2 / Enron",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Enron distinguished Lavigne: rejection is prefiling deemed breach for claim fixing, but contract's actual continued performance and some option expiration rights may remain effective until real postfiling events.",
+          "laymanExplanation": "Legal fiction affects specific Code classification even while people actually traded power for months.",
+          "legalExplanation": "Contrast separate question of what claims survive with date for damage measurement under Enron.",
+          "examApplication": "Use statute purpose and nonbankruptcy contract rules in counterargument.",
+          "examTrap": "Do not say debtor literally ceased all obligations on bankruptcy petition date."
+        },
+        {
+          "id": "bank-ch8-enron-e4",
+          "type": "rule",
+          "title": "Nondebtor may seek expedited decision under §365(d)(2)",
+          "page": "Ch.8 §D.2 / Enron",
+          "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+          "summary": "Court suggested Taunton could petition for order requiring earlier assume/reject to reduce limbo harm, but book questions whether this is realistic/reasonable substitute for actual market losses.",
+          "laymanExplanation": "A utility that must keep buying power could ask judge to force earlier decision.",
+          "legalExplanation": "Decision timing is a procedural safeguard, not affirmative compensation remedy.",
+          "examApplication": "In answer explain limits of counterparty's bargaining position.",
+          "examTrap": "Potential expedited motion is not guarantee court grants it."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-problems8-2-3",
+      "title": "C–D Problems 8.2(a,b), 8.3: Economic Choice and Third-Party Harm (Unsolved)",
+      "chapterGroup": "bank-ch8",
+      "description": "Original gizmo values, unsecured dividends, profitability and harm.",
+      "entries": []
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch8-p8-2-a",
+      "topicId": "bank-ch8-problems8-2-3",
+      "title": "Problem 8.2(a): market up to $6,000",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+      "prompt": "Same both-unperformed $5,000 purchase of truckload of gizmos as 8.1(c). At petition market price for identical goods $6,000. Should trustee assume or reject? Analyze estate net benefit. No answer.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-2-b",
+      "topicId": "bank-ch8-problems8-2-3",
+      "title": "Problem 8.2(b): market $4,000, 10% dividend",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+      "prompt": "Same $5,000 contract, market now $4,000; unsecured creditors expected to recover 10% of claims. Should trustee assume or reject, considering estate and rejection damages? No answer.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-3",
+      "topicId": "bank-ch8-problems8-2-3",
+      "title": "Problem 8.3: profitable but alternate deal and supplier hardship",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "User-uploaded Chapter 8 §§C–D.2 (Trustee options and rejection), full In re Enron Corp. case, original Problems 8.2 and 8.3",
+      "prompt": "Original both-unperformed $5,000 gizmos contract; market $4,000 but debtor has resale for $5,500 so original contract still yields benefit; unsecured claims paid 50 cents/$1; Jones submits evidence rejection may drive Jones itself bankrupt. Should court approve rejection under competing business-judgment, burden and nondebtor-harm standards? No answer.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
