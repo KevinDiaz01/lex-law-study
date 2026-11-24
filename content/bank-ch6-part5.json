@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+  "coverage": {
+    "chapter": 6,
+    "scope": "C. Chapter7 Chapter-specific treatment, no routine cramdown, redemption and reaffirmation, full Supreme Court Dewsnup majority and Scalia/Souter dissent interpreting §506(d), lien ride-through and pre-Code practice"
+  },
+  "topics": [
+    {
+      "id": "bank-ch6-chapter7-liens",
+      "title": "C. Chapter 7: Undersecured Liens Ride Through Absent Special Relief",
+      "chapterGroup": "bank-ch6",
+      "description": "Why §506(d) cannot simply force a retained-property stripdown and what §722/§524(c) do.",
+      "entries": [
+        {
+          "id": "bank-ch6-chapter7-liens-e1",
+          "type": "rule",
+          "title": "Ordinary Chapter7 doesn't offer general forced installment cramdown",
+          "page": "Ch.6 §C / Chapter7",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "Unlike Chapters11–13 confirmed plans, individual Chapter7 generally has no route forcing lender to accept installment payment of reduced collateral value while debtor keeps asset, without consent.",
+          "laymanExplanation": "If debtor cannot pay lump sum for car, can't just force bank to accept 5-year plan in Chapter7.",
+          "legalExplanation": "Instead §722 redemption (qualified personal household property) or §524(c) reaffirmation (consensual) may allow debtor to keep car, subject broader law.",
+          "examApplication": "Distinguish Chapter7 liquidation from Chapter13 debt adjustment.",
+          "examTrap": "Chapter7 discharge alone doesn't create automatic right to keep collateral for monthly payments."
+        },
+        {
+          "id": "bank-ch6-chapter7-liens-e2",
+          "type": "rule",
+          "title": "§722 redemption needs lump sum and personal property conditions",
+          "page": "Ch.6 §C / Chapter7",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "Chapter7 individual debtor may redeem qualifying exempt or abandoned tangible PERSONAL property intended primarily for personal/family/household use securing dischargeable consumer debt, by paying allowed secured claim amount in one payment.",
+          "laymanExplanation": "If can borrow cash to buy out lender's lien value, keep household vehicle.",
+          "legalExplanation": "Price valuation may invoke §506(a)(2) and other conditions under §722.",
+          "examApplication": "For Chapter6 6.4(a/e) verify both property-use eligibility and appraisal; not just price.",
+          "examTrap": "Business-only work vehicle typically cannot be redeemed via ordinary §722."
+        },
+        {
+          "id": "bank-ch6-chapter7-liens-e3",
+          "type": "rule",
+          "title": "§524(c) reaffirmation is consensual and restores personal debt",
+          "page": "Ch.6 §C / Chapter7",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "Creditor may agree to accept ongoing payments via valid reaffirmation allowing collateral retention; debtor waives discharge protection for reaffirmed debt with procedural safeguards.",
+          "laymanExplanation": "You can negotiate keep car by agreeing to continue personally owing lender.",
+          "legalExplanation": "Must satisfy Code's reaffirmation procedures; not a unilateral debtor right.",
+          "examApplication": "Ask if creditor actually consented or debtor only wrote intention to keep payments current.",
+          "examTrap": "Do not say reaffirmation automatically occurs by mailing monthly check."
+        },
+        {
+          "id": "bank-ch6-chapter7-liens-e4",
+          "type": "rule",
+          "title": "Lien can remain enforceable even if borrower is personally discharged",
+          "page": "Ch.6 §C / Chapter7",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "Long v Bullard traditional rule: in rem lien rides through bankruptcy, even though personal judgment claim discharged; secured creditors enforce against pledged property within law.",
+          "laymanExplanation": "Personal debt collection may end, but bank can still foreclose property after case if lien remains.",
+          "legalExplanation": "§506(d) does not generally authorize Chapter7 valuation-based elimination of otherwise valid allowed lien per Dewsnup.",
+          "examApplication": "Explain collateral recovery versus deficiency suit against discharged person.",
+          "examTrap": "Don't confuse §727 discharge of personal debt with lien avoidance."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-dewsnup",
+      "title": "C. Dewsnup v. Timm (1992) — Full Opinion and Scalia Dissent",
+      "chapterGroup": "bank-ch6",
+      "description": "No Chapter7 §506(d) lien stripdown; statutory phrase 'allowed secured claim' versus §506(a).",
+      "entries": [
+        {
+          "id": "bank-ch6-dewsnup-e1",
+          "type": "case",
+          "title": "Dewsnup v. Timm, 502 U.S. 410 (1992)",
+          "page": "Ch.6 §C / Dewsnup full opinion",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "No. Supreme Court affirmed: §506(d) does not authorize reduction of lien where creditor's underlying claim is ALLOWED under §502 and SECURED BY a valid lien, even if §506(a) valuation leaves deficiency unsecured for distribution. Pre-Code principle preserves liens through Chapter7 until foreclosure/payment.",
+          "laymanExplanation": "In ordinary Chapter7, §506(d) does not permit stripdown of otherwise valid lien securing allowed claim merely because collateral's present value is below debt; lien survives even while §506(a) splits claim for bankruptcy distribution.",
+          "legalExplanation": "Blackmun majority said §506 text had ambiguity and interpreted 'allowed secured claim' in §506(d) as claim allowed plus backed by security rather than full §506(a) value-defined term. Deference to longstanding pre-Code lien survival, absent clear congressional indication of new lien-stripping remedy. Reducing lien would let debtor take windfall of later collateral appreciation that lender originally bargained for; creditor who participates in case shouldn't forfeit property rights. Cited Long v Bullard and Radford. Scalia/Souter dissent argued same phrase 'allowed secured claim' must mean same thing in adjacent §506(a)/(d), plain text voids unsecured lien part and majority used pre-Code practice to override statutory words.",
+          "examApplication": "Compute debt ~120k, appraised land $39k, then discuss why no reduction of actual lien despite §506(a) classification. Compare Chapter13 plan cramdown.",
+          "examTrap": "Dewsnup is chapter-context-sensitive; it doesn't eliminate separately authorized reorganization bifurcation/cramdown, avoidances, or redemption.",
+          "assignedOpinion": true,
+          "sourceRole": "Full Supreme Court opinion and Scalia dissent excerpted in Chapter 6",
+          "facts": "Aletha and T. LaMar Dewsnup granted deed of trust on two Utah farm parcels for $119,000 loan in June1978; loan defaulted and foreclosure threatened, debtor filed Chapter7 June1984. In 1987 debtor filed adversary seeking §506 lien reduction, alleging debt about $120k while collateral worth $39k; lower courts rejected despite appraised value. Debtor argued §506(a) secured portion limited to property value and §506(d) voided remaining lien.",
+          "issue": "Can Chapter7 debtor invoke §506(a) secured-value definition combined with §506(d) lien voiding to strip lien down from fully allowed debt to current lower collateral market value?",
+          "holding": "No. Supreme Court affirmed: §506(d) does not authorize reduction of lien where creditor's underlying claim is ALLOWED under §502 and SECURED BY a valid lien, even if §506(a) valuation leaves deficiency unsecured for distribution. Pre-Code principle preserves liens through Chapter7 until foreclosure/payment.",
+          "reasoning": "Blackmun majority said §506 text had ambiguity and interpreted 'allowed secured claim' in §506(d) as claim allowed plus backed by security rather than full §506(a) value-defined term. Deference to longstanding pre-Code lien survival, absent clear congressional indication of new lien-stripping remedy. Reducing lien would let debtor take windfall of later collateral appreciation that lender originally bargained for; creditor who participates in case shouldn't forfeit property rights. Cited Long v Bullard and Radford. Scalia/Souter dissent argued same phrase 'allowed secured claim' must mean same thing in adjacent §506(a)/(d), plain text voids unsecured lien part and majority used pre-Code practice to override statutory words.",
+          "rule": "In ordinary Chapter7, §506(d) does not permit stripdown of otherwise valid lien securing allowed claim merely because collateral's present value is below debt; lien survives even while §506(a) splits claim for bankruptcy distribution.",
+          "dissent": "Justice Scalia (joined by Justice Souter): phrase 'allowed secured claim' has identical meaning in §506(a) and §506(d). Since §506(a) says only $39k is secured, §506(d) by plain text voids lien above that. Court's pre-Code/custom and purported ambiguity are policy substitutes for statutory text; concern that 'one subsection at a time' interpretation undermines predictable reading."
+        },
+        {
+          "id": "bank-ch6-dewsnup-e2",
+          "type": "rule",
+          "title": "Majority's allowed + secured reading versus §506(a) classification",
+          "page": "Ch.6 §C / Dewsnup",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "§506(d)'s 'allowed secured claim' understood as claim ALLOWED under §502 and secured by actual lien, not necessarily limited to §506(a)'s collateral-value portion.",
+          "laymanExplanation": "Court says valid mortgage survives on land even if land presently appraised far below debt.",
+          "legalExplanation": "Avoids automatic lien voiding and matches pre-Code liens-pass-through tradition; controversial inconsistency with adjacent phrase.",
+          "examApplication": "If professor asks textual meaning explain both interpretations instead of a conclusory statement.",
+          "examTrap": "Don't say §506(a) itself disappears from Chapter7 distribution."
+        },
+        {
+          "id": "bank-ch6-dewsnup-e3",
+          "type": "rule",
+          "title": "Pre-Code lien ride-through and appreciation rationale",
+          "page": "Ch.6 §C / Dewsnup",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "Court emphasized secured creditor bargained for lien remaining attached until foreclosure, including opportunity to benefit from postvaluation land appreciation. Stripping would divert upside to debtor.",
+          "laymanExplanation": "Land could rise from $39k to $100k before foreclosure; lienholder did not agree to lose that appreciation.",
+          "legalExplanation": "Supreme Court used Long v Bullard and historical practice, and found absence of clear congressional departure in text/legislative history.",
+          "examApplication": "Use appreciation as policy argument and disclose Scalia textual rebuttal.",
+          "examTrap": "This does not mean secured lender can collect unlimited more than debt owed."
+        },
+        {
+          "id": "bank-ch6-dewsnup-e4",
+          "type": "rule",
+          "title": "Scalia dissent: identical statutory terms mean same thing",
+          "page": "Ch.6 §C / Dewsnup dissent",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "Scalia contended 'allowed secured claim' appears explicitly defined by §506(a), and §506(d) voids lien 'to extent' secured claim not allowed; majority's contrary rule manufactures ambiguity and defers to history.",
+          "laymanExplanation": "A definition shouldn't change from one neighboring subsection to another.",
+          "legalExplanation": "He criticized inconsistency with Ron Pair text-first style; majority used historical principles rather than same-language presumption.",
+          "examApplication": "On essay compare textualism vs preservation of pre-Code practice.",
+          "examTrap": "Dissent is not prevailing rule."
+        },
+        {
+          "id": "bank-ch6-dewsnup-e5",
+          "type": "rule",
+          "title": "Does Dewsnup bar plan cramdown in Chapter11–13? No",
+          "page": "Ch.6 §C / Dewsnup questions",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "Dewsnup held Chapter7 debtor cannot use §506(d) as standalone lien-reduction tool; Chapter11–13 statutory plan cramdowns arise from §1129/1225/1325 and may reduce payment/lien rights subject exceptions.",
+          "laymanExplanation": "Chapter7 and Chapter13 have different legal machinery.",
+          "legalExplanation": "Casebook explicitly asks whether holding extends to reorganization; Code has express plan modifications that Dewsnup didn't erase.",
+          "examApplication": "Cite specific plan confirmation section rather than assuming §506(d) alone.",
+          "examTrap": "Don't extrapolate no-Chapter7-stripdown into universal anti-stripdown."
+        },
+        {
+          "id": "bank-ch6-dewsnup-e6",
+          "type": "rule",
+          "title": "Redemption not surplusage on Scalia reading (his response)",
+          "page": "Ch.6 §C / Dewsnup dissent",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "Scalia argued §722 still necessary even if §506(d) reduced lien, because §722 supplies affirmative right to redeem property by payment, not merely measure lien.",
+          "laymanExplanation": "Reducing recorded debt on lien isn't same as forcing creditor to transfer/release property after redemption cash.",
+          "legalExplanation": "Court raised compatibility concern between §506(d) and §722; dissent answered separate functions.",
+          "examApplication": "Discuss if asked 'why would someone redeem if already stripped lien'.",
+          "examTrap": "Again this is dissent, not holding."
+        },
+        {
+          "id": "bank-ch6-dewsnup-e7",
+          "type": "rule",
+          "title": "Interpretation methodology: textual coherence vs historical practice",
+          "page": "Ch.6 §C / Dewsnup",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "Majority found enough ambiguity to consult pre-Code expectations and policy; dissent thought statutory phrase unambiguous and same-meaning canon controlled.",
+          "laymanExplanation": "Which matters more: clear Code terms or mortgage bargains under prior bankruptcy law?",
+          "legalExplanation": "Book probes creditor vs debtor fairness and statute reading, including Scalia sarcasm about 'natural justice'.",
+          "examApplication": "Distinguish legal holding from questions inviting normative critique.",
+          "examTrap": "No need assert one methodology universally governs all Code sections."
+        },
+        {
+          "id": "bank-ch6-dewsnup-e8",
+          "type": "rule",
+          "title": "Chapter7 secured lender retains in rem rights even after discharge",
+          "page": "Ch.6 §C / Dewsnup",
+          "source": "Uploaded Bankruptcy & Creditors' Rights casebook, Chapter 6 §C (Chapter7 stripdown and full Dewsnup v. Timm majority/Scalia dissent), source-based only",
+          "summary": "The bar on §506(d) ordinary stripping permits mortgage lien to persist; §524(a) discharge protects personal debtor but not pledged land unless lien avoided or paid.",
+          "laymanExplanation": "Bank can foreclose property, not collect unpaid discharged shortfall personally.",
+          "legalExplanation": "Secured claim may be undersecured for estate payout, but lien still valid after case.",
+          "examApplication": "Write separate columns allowed secured claim §506(a), surviving in rem lien, discharged personal liability.",
+          "examTrap": "Avoid saying entire debt was fully secured for §726 payouts."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
