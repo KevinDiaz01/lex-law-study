@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+  "coverage": {
+    "chapter": 8,
+    "scope": "F.3 identity-sensitive nondelegable contracts, four contexts, hypothetical vs actual §365(c)(1) tests, full Catapult and Magness opinions, §365(f)/(c) statutory harmonization and §363(e) limited property bundle"
+  },
+  "topics": [
+    {
+      "id": "bank-ch8-nondelegability",
+      "title": "F.3 Nondelegable Contracts: Identity Matters More Than Clause Language",
+      "chapterGroup": "bank-ch8",
+      "description": "How state/federal nonbankruptcy law can protect reliance on particular performer.",
+      "entries": [
+        {
+          "id": "bank-ch8-nondelegability-e1",
+          "type": "rule",
+          "title": "Four contexts for identity-based nondelegable contracts",
+          "page": "Ch.8 §F.3",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Section identifies (1) trustee assumption, (2) DIP assumption, (3) assignment to third party and (4) attempt to enforce ipso facto; §§365(c)(1),(f)(1),(e)(2)(A) interact differently in each.",
+          "laymanExplanation": "A contract to paint portrait depends on who paints it, even if no written 'no substitutes' clause.",
+          "legalExplanation": "A clause-only prohibition differs from law independently excusing other party from accepting substitute performance.",
+          "examApplication": "Begin by classifying actual action assumption vs assignment vs termination.",
+          "examTrap": "General antiassignment override doesn't trump every outside-law personal-performance protection."
+        },
+        {
+          "id": "bank-ch8-nondelegability-e2",
+          "type": "rule",
+          "title": "§365(c)(1) applicable law excuse plus withheld consent",
+          "page": "Ch.8 §F.3",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Absent consent, §365(c)(1)(A) bars assume OR assign when applicable law independently excuses nondebtor from accepting performance from third party instead of debtor/DIP, whether or not contract contains antiassignment clause.",
+          "laymanExplanation": "Painter hired for unique work can't be swapped with stranger simply because client files bankruptcy.",
+          "legalExplanation": "Focus on substantive law of identity-sensitive performance, not generic contract veto.",
+          "examApplication": "Ask law basis, consent, identity significance and performer after restructure.",
+          "examTrap": "A clause alone usually overriden under §365(f)(1)."
+        },
+        {
+          "id": "bank-ch8-nondelegability-e3",
+          "type": "rule",
+          "title": "Actual test vs hypothetical test conflict",
+          "page": "Ch.8 §F.3(a)",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Actual test permits DIP assume when SAME debtor will perform and no real assignment proposed; hypothetical test forbids even same-party DIP assumption if contract WOULD be nonassignable to imaginary stranger under outside law. Circuits disagree; Catapult Ninth Circuit used hypothetical.",
+          "laymanExplanation": "Company may be barred from keeping patent license even though still exactly same entity using it.",
+          "legalExplanation": "Contrast text 'assume OR assign' and bankruptcy policy/overbroad consequences.",
+          "examApplication": "Identify governing circuit and which side's statutory textual reading.",
+          "examTrap": "Do not present hypothetical standard as nationwide uncontested."
+        },
+        {
+          "id": "bank-ch8-nondelegability-e4",
+          "type": "rule",
+          "title": "§365(f)(1) generic prohibition overridden, §365(c)(1) identity-based exception",
+          "page": "Ch.8 §F.3",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Even applicable law generally barring assignment may be displaced under §365(f), but law specifically releasing counterparty from performance to a SUBSTITUTE nondebtor can defeat transfer under §365(c). Magness harmonizes by focusing on the latter targeted exemption.",
+          "laymanExplanation": "Contract says 'no transfer' is different from law saying club cannot be forced to take unapproved new member.",
+          "legalExplanation": "Book notes critics think Magness boundary vague/overbroad, especially with waiting list protections.",
+          "examApplication": "Discuss actual nature of law independently of contract wording.",
+          "examTrap": "Not every ban found in state law is §365(c) automatically."
+        },
+        {
+          "id": "bank-ch8-nondelegability-e5",
+          "type": "rule",
+          "title": "§365(e)(2)(A) ipso facto exception parallels nondelegation concern",
+          "page": "Ch.8 §F.3",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "General §365(e)(1) invalidates bankruptcy-event termination, but §365(e)(2)(A) may preserve termination right where applicable law independently excuses nondebtor from substitute party's performance; source questions whether same actual/hypothetical test governs.",
+          "laymanExplanation": "Licensor unwilling to contract with substitute patent user may invoke special law despite usual bankruptcy freeze.",
+          "legalExplanation": "Catapult casebook cites Mirant Fifth Circuit distinction between §365(e) and §365(c) interpretations.",
+          "examApplication": "In problem ask both ability to assume and ability of licensor to terminate.",
+          "examTrap": "One court's test in §365(c) isn't proof all others adopt identical reading of §365(e)."
+        },
+        {
+          "id": "bank-ch8-nondelegability-e6",
+          "type": "rule",
+          "title": "Nondelegability of personal services, patents and government agreements",
+          "page": "Ch.8 §F.3",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Examples: individualized portrait/music/sports performance, federal patent law making NONEXCLUSIVE patent licenses personal, 41 USC §6305 government-contract transfer limits. Contract wording alone not dispositive.",
+          "laymanExplanation": "Client picks original artist; patent licensor chooses trusted licensee; government controls contract substitution.",
+          "legalExplanation": "Classification matters for §365(c)(1) consent.",
+          "examApplication": "Differentiate nonexclusive patent license from trademark LICENSE rights retained after rejection in Mission.",
+          "examTrap": "Do not conflate §365(n) preservation after rejection with debtor's eligibility to ASSUME under §365(c)."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-catapult",
+      "title": "F.3(a) In re Catapult Entertainment (1999) — Full Hypothetical-Test Case",
+      "chapterGroup": "bank-ch8",
+      "description": "Ninth Circuit patent license cannot be assumed by same DIP absent consent.",
+      "entries": [
+        {
+          "id": "bank-ch8-catapult-e1",
+          "type": "case",
+          "title": "In re Catapult Entertainment, Inc., 165 F.3d 747 (9th Cir. 1999)",
+          "page": "Ch.8 §F.3(a) / Catapult full opinion",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "No. Ninth Circuit reversed: adopted 'hypothetical test' from literal 'may not assume or assign' language—if applicable law bars hypothetical assignment to another party without licensor consent, it also bars DIP's actual assumption regardless absence of contemplated assignment. Federal nonexclusive patent rights personal; Perlman withheld consent.",
+          "laymanExplanation": "In Ninth Circuit source decision, §365(c)(1) hypothetical test bars DIP assumption of nondelegable nonexclusive patent license without licensor's consent even where no assignment planned.",
+          "legalExplanation": "Court viewed §365(c)(1)'s 'applicable law' rule as exception to §365(f)(1)'s broad ordinary antiassignment waiver, citing Magness as harmonization. Rejected actual-test policy objection (same debtor still performs) as judicial rewriting clear language; found 'debtor in possession' language useful when actual later assignment after consented assumption; prior House report on unpassed amendment not sufficient to contradict enacted text. Joined Third and Eleventh Circuits' hypothetical approach and refused to override statute with favorable policy. Actual-test advocates argue only real different performer harms licensor; casebook criticizes formalistic result and later amendments.",
+          "examApplication": "Spot federal patent law nondelegability, nonexclusive status, specific lack of Perlman consent, unchanged DIP identity, circuit disagreement.",
+          "examTrap": "Do not cite as universal Supreme Court holding or assume §365(f) overrides substantive federal patent personal-license rules.",
+          "assignedOpinion": true,
+          "sourceRole": "Full court opinion excerpted in supplied Chapter8",
+          "facts": "Catapult created network for 16-bit game console users, licensed Perlman's patents and applications in 1994. It filed Chapter11 Oct1996 and moved to assume about 140 executory agreements including two PERLMAN nonexclusive patent licenses as part of approved reorganization. Perlman did not consent. Bankruptcy/district courts allowed DIP assumption without plan to assign; Ninth Circuit considered whether §365(c)(1) independently blocks it.",
+          "issue": "Under §365(c)(1), can DIP CATAPULT assume its own NONEXCLUSIVE patent licenses over Perlman's objection when no actual transfer planned but federal patent law prohibits assignment to strangers?",
+          "holding": "No. Ninth Circuit reversed: adopted 'hypothetical test' from literal 'may not assume or assign' language—if applicable law bars hypothetical assignment to another party without licensor consent, it also bars DIP's actual assumption regardless absence of contemplated assignment. Federal nonexclusive patent rights personal; Perlman withheld consent.",
+          "reasoning": "Court viewed §365(c)(1)'s 'applicable law' rule as exception to §365(f)(1)'s broad ordinary antiassignment waiver, citing Magness as harmonization. Rejected actual-test policy objection (same debtor still performs) as judicial rewriting clear language; found 'debtor in possession' language useful when actual later assignment after consented assumption; prior House report on unpassed amendment not sufficient to contradict enacted text. Joined Third and Eleventh Circuits' hypothetical approach and refused to override statute with favorable policy. Actual-test advocates argue only real different performer harms licensor; casebook criticizes formalistic result and later amendments.",
+          "rule": "In Ninth Circuit source decision, §365(c)(1) hypothetical test bars DIP assumption of nondelegable nonexclusive patent license without licensor's consent even where no assignment planned."
+        },
+        {
+          "id": "bank-ch8-catapult-e2",
+          "type": "rule",
+          "title": "Hypothetical test asks whether assignment to imaginary third party lawful",
+          "page": "Ch.8 §F.3 / Catapult",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Actual debtor may be same corporation, yet if law excuses licensor from hypothetical different party, no assumption absent consent. Text 'assume OR assign' used literally.",
+          "laymanExplanation": "Think of hypothetical new company even though no new company in actual facts.",
+          "legalExplanation": "Parties' consent can eliminate statutory bar; distinction from ordinary antiassignment term.",
+          "examApplication": "Apply test sequentially: applicable law? third party substitution forbidden? licensor consent?",
+          "examTrap": "No requirement proof concrete harmful assignment planned."
+        },
+        {
+          "id": "bank-ch8-catapult-e3",
+          "type": "rule",
+          "title": "Actual test asks whether nondebtor actually faces new performer",
+          "page": "Ch.8 §F.3 / Catapult",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Alternative approach allows same DIP to continue license if no transfer contemplated, preserving going-concern asset; cases including Summit adopted actual test, Catapult rejected it based on text.",
+          "laymanExplanation": "If current party still performs, why force counterparty to accept stranger? It doesn't.",
+          "legalExplanation": "Congressional intent and 'debtor in possession' phrase provide counterarguments.",
+          "examApplication": "In essay show both, clearly label Ninth holding.",
+          "examTrap": "This contrary rule is not Catapult result."
+        },
+        {
+          "id": "bank-ch8-catapult-e4",
+          "type": "rule",
+          "title": "Why §365(c)(1) and §365(f)(1) not necessarily inconsistent",
+          "page": "Ch.8 §F.3 / Catapult",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "§365(f)(1) displaces GENERIC assignment prohibition, §365(c)(1) saves specific laws excusing individual counterparty from rendering/receiving different-person performance, preserving meaningful exception.",
+          "laymanExplanation": "Generally transferable bargain ≠ personal identity-dependent license.",
+          "legalExplanation": "Case cites Magness's different-scope applicable-law reconciliation.",
+          "examApplication": "Explain 'applicable law' scope distinctions.",
+          "examTrap": "Don't collapse c and f into one universal absolute assignment ban."
+        },
+        {
+          "id": "bank-ch8-catapult-e5",
+          "type": "rule",
+          "title": "'Debtor in possession' phrase and consent twice",
+          "page": "Ch.8 §F.3 / Catapult",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Court explained licensor may consent to assumption but not later assignment; §365(c) reapplied to future transferee, so reference to debtor or DIP not necessarily surplus under hypothetical reading.",
+          "laymanExplanation": "Allowing first step doesn't automatically authorize transfer step.",
+          "legalExplanation": "Statutory interpretation answers surplusage objection raised by dissenting scholars.",
+          "examApplication": "Use separate consent events for assumption versus subsequent assignment.",
+          "examTrap": "Don't say textual tension wholly nonexistent as policy debate."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-magness",
+      "title": "F.3(b) In re Magness (1992) — Full Country Club Membership Case",
+      "chapterGroup": "bank-ch8",
+      "description": "Sixth Circuit protection of personal club relationships, waiting-list property rights.",
+      "entries": [
+        {
+          "id": "bank-ch8-magness-e1",
+          "type": "case",
+          "title": "In re Magness, 972 F.2d 689 (6th Cir. 1992)",
+          "page": "Ch.8 §F.3(b) / Magness full opinion",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "No. Sixth Circuit AFFIRMED prohibition: Ohio law treats intensely personal club membership as nonassignable and excuses club from accepting chosen replacement without consent under §365(c)(1); independently §363(e) protects waiting-list members' separate rights that trustee couldn't sell as if they belonged to estate.",
+          "laymanExplanation": "§365(f)(1) does not automatically force personal-membership provider to accept a different, unauthorized performer where nonbankruptcy law and withheld consent bring §365(c)(1) into play; trustee cannot auction third parties' waiting-list rights it never owned.",
+          "legalExplanation": "Court parsed broad §365(f) general override and §365(c) narrower counterparty substantive personal-relation rule; club members' relationships/selection not interchangeable business leases. Waiting list individuals paid and had separate ordered succession rights; bankrupt's asset was only ongoing right to golf while paying dues, not universal right to pick successor. §541/§363 cannot enlarge bundle of property beyond debtor's entitlement, and §363(e) authorizes protecting third-party property interests. Critically court said proposed auction would require club breach separate waiting-list commitments; source book asks whether reasoning swallows §365(f) and how convincing independent Ohio law is.",
+          "examApplication": "State 375 full golfers, ~70 waiting list, paid selection procedure, Magness/Redman Chapter7, outsider assignment and §363(e) separate ground.",
+          "examTrap": "Not general precedent that ANY contractual 'no assignment' clause escapes §365(f); case's independent outside law and third-party property reasoning are contested.",
+          "assignedOpinion": true,
+          "sourceRole": "Full court opinion excerpted in supplied Chapter8",
+          "facts": "Dayton Country Club has special FULL golf privilege category restricted to 375 members, waiting list about 70 persons after substantial deposits; full members Magness and Redman filed Chapter7. Trustee sought to assume and SELL their full golfing rights to any purchaser (subject normal club membership), bypassing waiting-list selection. Club resisted under membership rules/personal relations and Ohio law; lower courts barred assignment. Sixth Circuit assessed §365(f)(1) broad waiver and (c)(1) identity-based exception plus third-party rights under §363(e).",
+          "issue": "Could Chapter7 trustee sell and assign debtor's country club full golfing membership to buyer outside established waiting list despite general §365(f)(1) override of antiassignment clauses?",
+          "holding": "No. Sixth Circuit AFFIRMED prohibition: Ohio law treats intensely personal club membership as nonassignable and excuses club from accepting chosen replacement without consent under §365(c)(1); independently §363(e) protects waiting-list members' separate rights that trustee couldn't sell as if they belonged to estate.",
+          "reasoning": "Court parsed broad §365(f) general override and §365(c) narrower counterparty substantive personal-relation rule; club members' relationships/selection not interchangeable business leases. Waiting list individuals paid and had separate ordered succession rights; bankrupt's asset was only ongoing right to golf while paying dues, not universal right to pick successor. §541/§363 cannot enlarge bundle of property beyond debtor's entitlement, and §363(e) authorizes protecting third-party property interests. Critically court said proposed auction would require club breach separate waiting-list commitments; source book asks whether reasoning swallows §365(f) and how convincing independent Ohio law is.",
+          "rule": "§365(f)(1) does not automatically force personal-membership provider to accept a different, unauthorized performer where nonbankruptcy law and withheld consent bring §365(c)(1) into play; trustee cannot auction third parties' waiting-list rights it never owned."
+        },
+        {
+          "id": "bank-ch8-magness-e2",
+          "type": "rule",
+          "title": "Under §365(c), personal relationship matters",
+          "page": "Ch.8 §F.3 / Magness",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Ohio law protects country club's selection/association from forced substitution; nondebtor would be forced into a new close personal relationship and potential breach of existing members' contracts.",
+          "laymanExplanation": "Buying another person's private golf membership isn't like buying ordinary used furniture.",
+          "legalExplanation": "Club refused consent and law protected original identity-based bargain, meeting §365(c)(1).",
+          "examApplication": "Contrast source examples commercial lease which generally transfers.",
+          "examTrap": "Don't equate club's custom written rules alone with independent common law automatically without analysis."
+        },
+        {
+          "id": "bank-ch8-magness-e3",
+          "type": "rule",
+          "title": "§363(e) independent limitation: sale only debtor's property bundle",
+          "page": "Ch.8 §F.3 / Magness",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Debtor had privilege to play while paying dues but never owned right to sell next vacancy because waiting list acquired its own contractual expectancy; court conditioned/prohibited unauthorized sale under §363(e).",
+          "laymanExplanation": "Bankruptcy estate can't sell someone else's place in golf queue.",
+          "legalExplanation": "Links §541 estate boundary and Chicago Board of Trade principle; book questions tension with §365(f)(1) assignment override.",
+          "examApplication": "Identify which rights belong to debtor versus waiting-list third parties.",
+          "examTrap": "Risk overgeneralizing could neutralize bankruptcy antiassignment rule; textbook raises challenge."
+        },
+        {
+          "id": "bank-ch8-magness-e4",
+          "type": "rule",
+          "title": "Pioneer Ford alternative interpretation and book's critique",
+          "page": "Ch.8 §F.3 / Magness",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Pioneer Ford discussed rule differentiating laws enforcing explicit antiassignment clauses from laws independently prohibiting assignment. Magness criticized that narrowing as unsupported by §365(f) phrasing and adopted substantive protection approach; book presents scholarly narrower exception and questions exact Ohio law basis.",
+          "laymanExplanation": "Two courts both try to make c and f work but draw boundary differently.",
+          "legalExplanation": "Do not conceal statutory ambiguity or criticism of Magness's reasoning.",
+          "examApplication": "On exam present both reconciling proposals and purpose of transfer freedom.",
+          "examTrap": "Court's harmonization not Supreme Court final resolution."
+        },
+        {
+          "id": "bank-ch8-magness-e5",
+          "type": "rule",
+          "title": "Contrast Martin Paint and Magness on nondebtor third-party promises",
+          "page": "Ch.8 §F.3 / Magness questions",
+          "source": "Uploaded Bankruptcy Chapter8 §F.3 full In re Catapult Entertainment (9th Cir 1999) and In re Magness (6th Cir 1992), assignment versus assumption under §365(c)(1),(f)(1),(e)(2)(A) and state law",
+          "summary": "Martin Paint let clothing lease assignment despite neighboring exclusivity by judicial impossibility; Magness refused transfer partly due third-party waiting-list contracts. Context: shopping-center vs nonshopping and personal membership versus commercial rent.",
+          "laymanExplanation": "One court protects estate asset value despite third-party covenant, another guards existing queue rights.",
+          "legalExplanation": "Book asks whether courts treated other contracting parties inconsistently and which view better fits §365.",
+          "examApplication": "Compare actual property rights and source of nonassignment law rather than dismiss as inconsistency.",
+          "examTrap": "Do not pretend opinions are factually identical."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
