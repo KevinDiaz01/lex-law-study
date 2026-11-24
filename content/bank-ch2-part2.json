@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+  "coverage": {
+    "chapter": 2,
+    "part": "C. Conversion, dismissal and full SGL Carbon opinion",
+    "assigned": "General syllabus pp.79–170; exact distributed assignments not supplied"
+  },
+  "topics": [
+    {
+      "id": "bank-ch2-conversion",
+      "title": "C.1 — Dismissal and Conversion: §§706,707,1112,1208,1307",
+      "chapterGroup": "bank-ch2",
+      "description": "Chapter-specific conversion/dismissal rights, good faith, choice between remedies, limitations under Marrama/Law and effects §§348–349.",
+      "entries": [
+        {
+          "id": "bank-ch2-conversion-e1",
+          "type": "rule",
+          "title": "Eligibility in destination chapter essential",
+          "page": "Ch. 2 § C.1 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "§§706,1112,1208,1307 conversion can occur only to chapter in which debtor could originally qualify; cannot force conversion into Chapters 12 or 13.",
+          "laymanExplanation": "You can't change to Chapter 13 if debtor lacks eligibility, and creditors cannot force individual into it.",
+          "legalExplanation": "Test conversion statute and §109 destination conditions independently; involuntary Chapter 13 policy still applies.",
+          "examApplication": "For Problem 2.3 distinguish consent from eligibility, including retiree with regular Social Security payments.",
+          "examTrap": "Starting eligible in Chapter 7 does not waive Chapter 13 or Chapter 12 entry requirements."
+        },
+        {
+          "id": "bank-ch2-conversion-e2",
+          "type": "rule",
+          "title": "Grounds for Chapter 7 conversion and dismissal",
+          "page": "Ch. 2 § C.1 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "§706(a) debtor one-time right to convert eligible Chapter 7 to 11/12/13 subject to limitations; §706(b) on request of party in interest conversion to Chapter 11 only with debtor's consent; §707(a) dismissal for cause.",
+          "laymanExplanation": "Debtor can seek a new chapter but cannot assume all conversions are unconditionally allowed.",
+          "legalExplanation": "§706(d) destination eligibility; §707(b) special consumer abuse. Chapter 7 debtor voluntary dismissal normally needs court approval and may be denied for legal prejudice.",
+          "examApplication": "Apply to debtor who wants dismissal/re-filing to add debt from later accident.",
+          "examTrap": "One cannot voluntarily dismiss Chapter 7 simply to manipulate whose debt will be discharged."
+        },
+        {
+          "id": "bank-ch2-conversion-e3",
+          "type": "rule",
+          "title": "Chapter 11 §1112: dismissal or conversion for cause",
+          "page": "Ch. 2 § C.1 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "§1112(b)(1) generally directs court to convert to Chapter 7 or dismiss for cause in best interests of creditors and estate, subject to specific statutory exceptions; §1112(b)(4) illustrative causes.",
+          "laymanExplanation": "If reorganization is failing or debtor abuses process, court considers ending case or liquidating assets.",
+          "legalExplanation": "16 nonexhaustive enumerated grounds in 2021 text; possibility trustee appointment under §1104(a)(3); grounds include continuing loss and no rehabilitation, unreasonable delay, reporting/payment failures.",
+          "examApplication": "State cause, then statutory exception, then best-interest choice; account for deadlines.",
+          "examTrap": "Do not read 'shall' as no exceptions; unusual circumstances and §1112(b)(2) relevant."
+        },
+        {
+          "id": "bank-ch2-conversion-e4",
+          "type": "rule",
+          "title": "§1112(b)(2) saving exception, timelines",
+          "page": "Ch. 2 § C.1 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "Casebook describes protection where party objects and shows realistic timely confirmation and justifiable curable omission, generally unavailable when continuing loss/no reasonable rehabilitation; hearing begin within 30 days of motion and ruling within 15 days thereafter subject to exceptions.",
+          "laymanExplanation": "Even when there is a problem, judge may keep reorganization alive if defect can be fixed quickly.",
+          "legalExplanation": "Separate unusual-circumstances §1112(b)(1), curable omission §1112(b)(2), and timing requirements.",
+          "examApplication": "For hypotheticals distinguish broken paperwork from hopeless business economics.",
+          "examTrap": "Do not invoke cure exception when case cannot realistically rehabilitate."
+        },
+        {
+          "id": "bank-ch2-conversion-e5",
+          "type": "rule",
+          "title": "Chapters 12 and 13 debtor dismissal/conversion rights",
+          "page": "Ch. 2 § C.1 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "§§1208 and 1307 usually allow debtor voluntarily to dismiss Chapter 12/13, or convert to Chapter 7, subject to statute and case-law limits; interested party's conversion/dismissal requires cause.",
+          "laymanExplanation": "Debtor on a repayment plan often has exit rights, but judge considers statutory exceptions and bad faith.",
+          "legalExplanation": "§1307(b) dismissal and §1307(a) debtor conversion; party in interest §1307(c); Chapter 12 under §1208. No involuntary conversion into 12/13.",
+          "examApplication": "In 2.3(d/e) distinguish debtor's request from trustee's and prior conversion from Chapter 7.",
+          "examTrap": "Do not claim a creditor can force Chapter 13 from Chapter 7."
+        },
+        {
+          "id": "bank-ch2-conversion-e6",
+          "type": "rule",
+          "title": "Marrama v Citizens Bank bad-faith conversion limit",
+          "page": "Ch. 2 § C.1 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "Marrama, 549 U.S. 365 (2007), held that debtor's bad faith can forfeit seemingly absolute Chapter 7 → 13 conversion right under statutory interpretation; judicial anti-abuse rationale later limited.",
+          "laymanExplanation": "Abusive debtor cannot invoke conversion as magic reset button.",
+          "legalExplanation": "Casebook notes Marrama alternative §105 inherent equity reasoning; subsequent Law v Siegel warns courts cannot use §105 to override express Code rights.",
+          "examApplication": "If fraud/bad faith in conversion problem, identify both cases and narrow holdings.",
+          "examTrap": "Don't treat §105 as authority to contradict unambiguous Code protections."
+        },
+        {
+          "id": "bank-ch2-conversion-e7",
+          "type": "rule",
+          "title": "Law v Siegel limits equity overruling Code",
+          "page": "Ch. 2 § C.1 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "Law v Siegel, 571 U.S. 415 (2014), held equitable powers can't contravene express statutory protections; it characterized Marrama's broad equity language as dictum.",
+          "laymanExplanation": "Judge cannot rewrite Congress's rules just because debtor behaved badly.",
+          "legalExplanation": "Statutory interpretation and anti-futility remain potentially relevant; court cannot create free-floating exceptions contrary to Code.",
+          "examApplication": "Discuss conflict between text granting right and bad-faith misconduct.",
+          "examTrap": "Do not claim Law completely overruled Marrama's holding."
+        },
+        {
+          "id": "bank-ch2-conversion-e8",
+          "type": "rule",
+          "title": "§348 effects of conversion and §349 effects of dismissal",
+          "page": "Ch. 2 § C.1 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "Conversion generally continues same bankruptcy case under new chapter with statutory adjustments; dismissal generally restores parties' nonbankruptcy rights subject to §349 details and court order.",
+          "laymanExplanation": "Converting changes bankruptcy route; dismissing exits bankruptcy, but earlier transactions may still matter.",
+          "legalExplanation": "Critical timeline at petition vs conversion controls property, rights and deadlines depending on chapter and statute.",
+          "examApplication": "Always cite §348 or §349 when asking what happens next.",
+          "examTrap": "Do not assume converting erases petition date or every prior event."
+        },
+        {
+          "id": "bank-ch2-conversion-e9",
+          "type": "rule",
+          "title": "Consumer §707(b) abuse distinct from §707(a) cause",
+          "page": "Ch. 2 § C.1 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "§707(b) BAPCPA applies special abuse review to individual debtor primarily with consumer obligations; if abuse shown, court dismisses or converts with debtor's consent. General §707(a) cause separate.",
+          "laymanExplanation": "Some Chapter 7 cases get extra financial eligibility scrutiny.",
+          "legalExplanation": "Means test §707(b)(2) and totality/bad faith §707(b)(3) studied in Part D.",
+          "examApplication": "If case involves corporate or business-debt individual, don't apply §707(b) without its predicates.",
+          "examTrap": "'Can pay' alone isn't uniform rule across all Chapter 7 debtors."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-sgl-carbon",
+      "title": "C.2 — In re SGL Carbon: Good Faith Filing and Limits of Chapter 11",
+      "chapterGroup": "bank-ch2",
+      "description": "Full Third Circuit case brief; serious distress versus strategic litigation filing, totality assessment and distinguish Johns-Manville.",
+      "entries": [
+        {
+          "id": "bank-ch2-sgl-carbon-e1",
+          "type": "case",
+          "title": "In re SGL Carbon Corp., 200 F.3d 154 (3d Cir. 1999)",
+          "page": "Ch. 2 § C.2 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "Yes, good-faith filing requirement under nonexclusive §1112(b) 'cause'; SGL lacked genuine current financial distress/reorganization objective and used bankruptcy as premature tactical device. Third Circuit reversed/remanded for dismissal.",
+          "laymanExplanation": "Chapter 11 petition can be dismissed for cause if not filed in good faith; no insolvency prerequisite but debtor must demonstrate valid bankruptcy/reorganizing purpose, not merely tactical lawsuit pressure.",
+          "legalExplanation": "'Including' in §1112(b)(4) nonexclusive by §102(3), bankruptcy equitable history and purposive balance support good-faith requirement. SGL had $400m assets, $276m fixed undisputed debts, virtually no encumbrances or overdue accounts, fully functioning capital access; management conceded no impairment. Antitrust risk possible but speculative/premature; proposed plan singled out lawsuit plaintiffs. Johns-Manville and Bible Speaks faced actual large, concrete existential operational/financing distress; genuine looming mass tort can justify pre-judgment filing.",
+          "examApplication": "Compare financial health, overdue debt, litigation probability/imminence, access to financing, stated objective, selective plan terms and real reorganization need.",
+          "examTrap": "Do not infer court imposed categorical insolvency or prohibited any pre-judgment litigation-driven Chapter 11 filing.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in Chapter 2",
+          "facts": "SGL, healthy graphite electrode manufacturer, faced civil antitrust price-fixing cases and possible liability; its U.S. business filed Chapter 11 in Delaware. Executives publicly said company was financially healthy and filing was to gain settlement leverage. Proposed plan paid ordinary creditors full cash but sought to give antitrust claimants expiring product credits; parent shield provisions. Creditors' committee sought dismissal; district court denied, relying on possible future economic threat and distraction.",
+          "issue": "Does §1112(b) permit dismissal for Chapter 11 lack of filing good faith and did SGL's filing for antitrust litigation leverage serve valid reorganizational purpose?",
+          "holding": "Yes, good-faith filing requirement under nonexclusive §1112(b) 'cause'; SGL lacked genuine current financial distress/reorganization objective and used bankruptcy as premature tactical device. Third Circuit reversed/remanded for dismissal.",
+          "reasoning": "'Including' in §1112(b)(4) nonexclusive by §102(3), bankruptcy equitable history and purposive balance support good-faith requirement. SGL had $400m assets, $276m fixed undisputed debts, virtually no encumbrances or overdue accounts, fully functioning capital access; management conceded no impairment. Antitrust risk possible but speculative/premature; proposed plan singled out lawsuit plaintiffs. Johns-Manville and Bible Speaks faced actual large, concrete existential operational/financing distress; genuine looming mass tort can justify pre-judgment filing.",
+          "rule": "Chapter 11 petition can be dismissed for cause if not filed in good faith; no insolvency prerequisite but debtor must demonstrate valid bankruptcy/reorganizing purpose, not merely tactical lawsuit pressure."
+        },
+        {
+          "id": "bank-ch2-sgl-carbon-e2",
+          "type": "rule",
+          "title": "Good-faith requirement inferred from §1112(b) and §102(3)",
+          "page": "Ch. 2 § C.2 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "Third Circuit finds 'for cause' list illustrative, not exhaustive; good faith filing issue can be evaluated even without express listed item.",
+          "laymanExplanation": "You cannot exploit bankruptcy protections merely because literal petition form permits it.",
+          "legalExplanation": "In SGL statutory text + case-law consensus + equity + purpose; relate separate good faith confirmation §1129(a)(3).",
+          "examApplication": "If asked why unlisted bad faith is cause, cite 'including' nonlimiting and reorganization goals.",
+          "examTrap": "Plan-stage good faith alone doesn't answer petition-stage misuse."
+        },
+        {
+          "id": "bank-ch2-sgl-carbon-e3",
+          "type": "rule",
+          "title": "Timing: early filing allowed but not premature speculative filing",
+          "page": "Ch. 2 § C.2 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "Company needn't wait for actual insolvency or final ruinous judgment, but must face real financial or operational threat before gaining extraordinary Chapter 11 protection.",
+          "laymanExplanation": "You may seek rescue before ship sinks, but not use rescue law solely to force lawsuit settlement when boat is fine.",
+          "legalExplanation": "Distinguish SGL from cases where pending lawsuits impeded financing, threatened existential judgments, created mass liabilities or caused real operating distress.",
+          "examApplication": "Argue both debtor right to anticipate catastrophe and creditor protection against litigation leverage.",
+          "examTrap": "Financially healthy company CAN in theory file in good faith; case is factual."
+        },
+        {
+          "id": "bank-ch2-sgl-carbon-e4",
+          "type": "rule",
+          "title": "SGL record facts that show litigation tactic",
+          "page": "Ch. 2 § C.2 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "Net asset surplus, no overdue debts or capital problems, management statements and selective antitrust-credit voucher plan evidenced desire to pressure lawsuit plaintiffs not rehabilitate business.",
+          "laymanExplanation": "Bankruptcy wasn't about paying all creditors fairly; it was about gaining leverage in one civil suit.",
+          "legalExplanation": "Courts examine totality, contemporaneous admissions and economic facts rather than debtor labels.",
+          "examApplication": "Exam question may ask alternative evidence that could sustain filing: credible crisis in financing or actual threat.",
+          "examTrap": "Potential litigation liability alone not necessarily ground for bad-faith dismissal."
+        },
+        {
+          "id": "bank-ch2-sgl-carbon-e5",
+          "type": "rule",
+          "title": "SGL compared to Johns-Manville and Bible Speaks",
+          "page": "Ch. 2 § C.2 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "Johns-Manville faced approximately 16k active asbestos suits and decades of more and financing/default issues; Bible Speaks actual constraints on financing and survival; SGL neither.",
+          "laymanExplanation": "Real restructuring need looks like imminent insolvency/financing lockout, not a hypothetical lawsuit disaster.",
+          "legalExplanation": "Casebook contrasts mass tort cases and SGL fact-dependent good faith, not categorical anti-litigation filing rule.",
+          "examApplication": "Use comparative facts in essay answer to 'can Chapter 11 manage lawsuits?'",
+          "examTrap": "Don't say Johns-Manville's legal standard wholly same as SGL; court noted differences."
+        },
+        {
+          "id": "bank-ch2-sgl-carbon-e6",
+          "type": "concept",
+          "title": "Potential §707(a) bad faith beyond Chapter 11",
+          "page": "Ch. 2 § C.2 (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+          "summary": "The chapter discusses Castillo dismissal under §707(a) where bankruptcy could accomplish no cognizable purpose and reports circuit disagreement over general bad faith under §707(a).",
+          "laymanExplanation": "Bad faith may matter even outside Chapter 11, but source of authority is contested.",
+          "legalExplanation": "Separate SGL §1112(b) holding from debate in Chapter 7 business debts.",
+          "examApplication": "Problem 2.14 later isolates §707(a) vs §707(b).",
+          "examTrap": "Do not apply SGL holding as a Supreme Court universal rule."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch2-p2-3",
+      "topicId": "bank-ch2-conversion",
+      "title": "Problem 2.3",
+      "kind": "Casebook Problem 2.3 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 2, § C Conversion and Dismissal; Prof. Effross Fall 2026 textbook pp. 79–170",
+      "prompt": "Seven subparts: (a) no-asset Ch7 debtor seeks dismissal/refile after postpetition uninsured $55k Lamborghini accident; (b) retiree $750 Social Security wants convert Ch7→13; (c) trustee demands Ch7→13 conversion; (d) retiree starts Ch13 then wants Ch7 or dismissal; (e) trustee requests Ch13→7; (f) Chapter11 company faces hopeless reorganization and wants Ch7 or dismissal; (g) creditors' committee wants Ch11→7 contrary to debtor wishes. Analyze statutory rights, eligibility, cause and legal prejudice; leave each unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
