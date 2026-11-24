@@ -1,0 +1,545 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+  "coverage": {
+    "chapter": 3,
+    "casebookQuestions": 32,
+    "additionalReviewQuestions": 21,
+    "numberedCasebookProblems": "Problem 3.1 is stored separately in part3 and remains unanswered.",
+    "note": "Casebook opinion questions paraphrased, not reproduced verbatim; no solutions supplied."
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch3-bookq-01",
+      "topicId": "bank-ch3-butner",
+      "title": "Casebook question — The dispute",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What precise fund did mortgagee and trustee fight over in Butner, and which arguments did each side make?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-02",
+      "topicId": "bank-ch3-butner",
+      "title": "Casebook question — Forum shopping",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Which two fora might produce different results for a mortgagee without state-law treatment, and why does that matter for voluntary filing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-03",
+      "topicId": "bank-ch3-butner",
+      "title": "Casebook question — Windfall",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Explain Stevens's concern about an owner/creditor acquiring a bankruptcy windfall not obtainable outside bankruptcy.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-04",
+      "topicId": "bank-ch3-butner",
+      "title": "Casebook question — Procedure or substance?",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Does Butner view bankruptcy largely as coordinating existing substantive rights, or as resetting them? Defend your answer.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-05",
+      "topicId": "bank-ch3-butner",
+      "title": "Casebook question — Substitute procedural protection",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "If stay blocks mortgagee from taking possession, what equivalent steps can bankruptcy court provide without improving the mortgagee's substantive position?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-06",
+      "topicId": "bank-ch3-chicago-board",
+      "title": "Casebook question — Illinois label",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "If Illinois courts say a Board of Trade seat is not property, why did the Supreme Court disagree for federal bankruptcy purposes?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-07",
+      "topicId": "bank-ch3-chicago-board",
+      "title": "Casebook question — Three Johnson outcomes",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Compare excluding seat, including it free of all member claims, and including with claims of Board members first. Explain correct approach and its economic effect.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-08",
+      "topicId": "bank-ch3-harrell",
+      "title": "Casebook question — Butner/Johnson consistency",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Is Harrell's application of Arizona law consistent with the federal characterization of property in Chicago Board of Trade?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-09",
+      "topicId": "bank-ch3-harrell",
+      "title": "Casebook question — Section 541(c)(1)(A)",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Why might §541(c)(1)(A) affect a contractual restriction on transfer, and is it relevant to the Suns renewal privilege?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-10",
+      "topicId": "bank-ch3-harrell",
+      "title": "Casebook question — Market price vs enforceability",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Should possible market sale value of an unguaranteed renewal privilege make it estate property?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-11",
+      "topicId": "bank-ch3-harrell",
+      "title": "Casebook question — Buyer rights",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "If trustee sold the expected opportunity, what could purchaser legally demand of Suns?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-12",
+      "topicId": "bank-ch3-harrell",
+      "title": "Casebook question — Who may renew",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "If trustee cannot sell renewal expectancy, who holds possibility of renewing after filing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-13",
+      "topicId": "bank-ch3-harrell",
+      "title": "Casebook question — Casebook sports comparison",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "As the book asks, which would you pay more for: Phoenix Suns season seats or Pittsburgh Steelers season seats—and does that preference create a legal right?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-14",
+      "topicId": "bank-ch3-schmitz",
+      "title": "Casebook question — Basic holding",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Why did the Ninth Circuit find quota certificates were not property of estate?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-15",
+      "topicId": "bank-ch3-schmitz",
+      "title": "Casebook question — When agency acted",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Why did the final rule's adoption date matter to Schmitz's case? Should courts use final-rule date?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-16",
+      "topicId": "bank-ch3-schmitz",
+      "title": "Casebook question — Rulemaking analogy",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "The court compared rulemaking to a baseball game. Does a proposed regulation supply any cognizable interest before game ends?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-17",
+      "topicId": "bank-ch3-schmitz",
+      "title": "Casebook question — Nature of prefiling right",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What exactly did Schmitz have on April 7, 1992: legal right, contingent contract or speculation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-18",
+      "topicId": "bank-ch3-schmitz",
+      "title": "Casebook question — Later quota value",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Do the eventual $44,360 and $2,205 sales prove 1988–90 catch history was a valuable estate asset when petition filed?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-19",
+      "topicId": "bank-ch3-schmitz",
+      "title": "Casebook question — Contingent contracts",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "How did court distinguish Neuton, Ryerson, Jess, Minoco and Bialac's prepetition contractual contingencies?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-20",
+      "topicId": "bank-ch3-schmitz",
+      "title": "Casebook question — Fresh start",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What if Schmitz immediately sold quotas rather than fishing—does fresh-start reasoning remain as persuasive?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-21",
+      "topicId": "bank-ch3-schmitz",
+      "title": "Casebook question — Ex ante / ex post",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Would a buyer have paid for Schmitz's prefiling catch history in April 1992, and which date should control property classification?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-22",
+      "topicId": "bank-ch3-schmitz",
+      "title": "Casebook question — Rhetorical opinion style",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Which of the Ninth Circuit's numerous fishing/baseball puns was least persuasive? Does rhetoric change legal analysis?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-23",
+      "topicId": "bank-ch3-patterson",
+      "title": "Casebook question — Butner parity",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Why should a creditor's ability to reach ERISA pension inside bankruptcy match its ability outside bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-24",
+      "topicId": "bank-ch3-patterson",
+      "title": "Casebook question — Disposition of Shumate pension",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "After Patterson's holding, who has the right to Shumate's approximately $250k pension value?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-25",
+      "topicId": "bank-ch3-patterson",
+      "title": "Casebook question — Payroll withholding",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Which contributions are specifically protected by §541(b)(7), and why does that provision not entirely supersede Patterson?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-26",
+      "topicId": "bank-ch3-patterson",
+      "title": "Casebook question — IRA exemptions and inherited IRA",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "How do §522 retirement exemptions differ from §541(c)(2) exclusion, what is the IRA cap issue, and why is inherited IRA treated differently in Clark?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-27",
+      "topicId": "bank-ch3-patterson",
+      "title": "Casebook question — Rousey",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What earlier §522(d)(10)(E) treatment of ordinary IRA did Rousey recognize and how did BAPCPA change retirement protections?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-28",
+      "topicId": "bank-ch3-patterson",
+      "title": "Casebook question — Education funds",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What statutory timing, beneficiary and indexed dollar-limit conditions govern §541(b)(5),(6) tuition/education accounts?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-29",
+      "topicId": "bank-ch3-andrews",
+      "title": "Casebook question — Fresh start vs prepetition asset",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Does Andrews sufficiently protect debtor's fresh start when covenant blocks his familiar business?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-30",
+      "topicId": "bank-ch3-andrews",
+      "title": "Casebook question — Breach of covenant",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Could Andrews start competing postpetition and what would happen to future covenant payments and estate rights?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-31",
+      "topicId": "bank-ch3-andrews",
+      "title": "Casebook question — Affirmative duties",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "How would analysis change if Andrews also promised yearly meetings and real consulting services after filing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-bookq-32",
+      "topicId": "bank-ch3-andrews",
+      "title": "Casebook question — Andrews versus Schmitz",
+      "kind": "Ch. 3 assigned casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Why were Andrews's future checks estate property while Schmitz's future quota sale proceeds were not?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-01",
+      "topicId": "bank-ch3-estate-overview",
+      "title": "Review — Estate functions",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Identify four reasons deciding what is estate property matters to creditors and debtor.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-02",
+      "topicId": "bank-ch3-estate-overview",
+      "title": "Review — Estate instant",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "When is §541 estate created and how is this different from timing of judicial appointment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-03",
+      "topicId": "bank-ch3-estate-overview",
+      "title": "Review — Reorganization baseline",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Why does the amount of estate property matter even when debtor continues business under Chapter 11?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-04",
+      "topicId": "bank-ch3-inclusions-scope",
+      "title": "Review — Three questions",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What are the property/ownership/time dimensions of every §541(a)(1) analysis?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-05",
+      "topicId": "bank-ch3-inclusions-scope",
+      "title": "Review — Rents and profit",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What rule brings postpetition profits of estate property into estate despite filing date?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-06",
+      "topicId": "bank-ch3-inclusions-scope",
+      "title": "Review — New estate assets",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "When does §541(a)(7) capture assets bought or earned by estate after commencement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-07",
+      "topicId": "bank-ch3-segal-rooted",
+      "title": "Review — Segal causal facts",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Which two essential events for loss-carryback refund had already occurred before bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-08",
+      "topicId": "bank-ch3-segal-rooted",
+      "title": "Review — Contingency distinction",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "How is an existing prefiling contingent right different from a law-created postfiling opportunity?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-09",
+      "topicId": "bank-ch3-exclusions",
+      "title": "Review — Exclusion vs exemption",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Does a valid §522 exemption mean asset was never estate property?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-10",
+      "topicId": "bank-ch3-exclusions",
+      "title": "Review — Anti-transfer clauses",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "How does §541(c)(1) differ from the qualified trust restriction preserved in §541(c)(2)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-11",
+      "topicId": "bank-ch3-exclusions",
+      "title": "Review — Bare legal title",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "How does §541(d) limit estate rights where debtor holds only legal title for another?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-12",
+      "topicId": "bank-ch3-exclusions",
+      "title": "Review — Individual service",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What is excluded from Chapter 7 under §541(a)(6), and why can prefiling contract installments still be estate property?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-13",
+      "topicId": "bank-ch3-postpetition-chapters",
+      "title": "Review — Four-person comparison",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "For company Chapter11, worker Chapter7, worker Chapter13 and CEO individual Chapter11, compare treatment of new wages and new property.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-14",
+      "topicId": "bank-ch3-postpetition-chapters",
+      "title": "Review — Corporate vs human labor",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Why doesn't corporate debtor-in-possession qualify for personal postpetition service earnings exclusion?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-15",
+      "topicId": "bank-ch3-postpetition-chapters",
+      "title": "Review — Ch13 wages",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What statutory special rule captures wages during Chapter 13 despite §541(a)(6)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-16",
+      "topicId": "bank-ch3-postpetition-chapters",
+      "title": "Review — Individual Ch11",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Why do §1115 and Chapter11 plan rules matter to CEO's postfiling pay?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-17",
+      "topicId": "bank-ch3-abandonment",
+      "title": "Review — Economic test",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What makes estate asset sufficiently burdensome or valueless for trustee to abandon under §554?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-18",
+      "topicId": "bank-ch3-abandonment",
+      "title": "Review — Midlantic exception",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "What imminent, identifiable safety hazard can restrict abandonment of polluted property?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-19",
+      "topicId": "bank-ch3-abandonment",
+      "title": "Review — Public/private tradeoff",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Who effectively pays environmental cleanup if trustee cannot abandon toxic asset?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-20",
+      "topicId": "bank-ch3-estate-rule-map",
+      "title": "Review — Mixed-property exam",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "How would you handle a debtor with rental realty, sports renewal privilege, vested pension, future regulatory benefit and prepetition noncompete installment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch3-review-21",
+      "topicId": "bank-ch3-estate-rule-map",
+      "title": "Review — Value vs interest",
+      "kind": "Ch. 3 supplemental source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 casebook end-of-opinion Questions and source sections; Effross Fall 2026 general pp.171–199",
+      "prompt": "Why can a $10,500 exchange seat be estate property yet yield zero for general creditors?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
