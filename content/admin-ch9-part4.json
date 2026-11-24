@@ -1,0 +1,329 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+  "coverage": {
+    "submittedPages": "620–668",
+    "includedPages": "632–640",
+    "syllabus": "Lubbers § 9.3.1 Discretionary determinations: Overton Park 632; Salameda and Butz 636–638; p.639 teacher/union hypotheticals"
+  },
+  "topics": [
+    {
+      "id": "admin-ch9-arbitrary-basics",
+      "title": "§ 9.3.1 — Discretionary Decisions & Overton Park (pp. 632–636)",
+      "chapterGroup": "admin-ch9",
+      "description": "§706(2)(A), arbitrary/capricious, relevant factors, clear error of judgment, statutory role and Scalia vs very intrusive judicial review.",
+      "entries": [
+        {
+          "id": "admin-ch9-arbitrary-basics-e1",
+          "type": "rule",
+          "title": "APA § 706(2)(A): arbitrary, capricious, abuse of discretion",
+          "page": "632–633",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Courts review discretionary choice in rulemaking, formal/informal adjudication and other agency acts under arbitrary/capricious or abuse-of-discretion (synonymous) standard.",
+          "laymanExplanation": "A judge checks if the agency made a rational lawful decision, not whether judge would prefer another option.",
+          "legalExplanation": "Overton Park says searching, probing review of relevant factors, legal power and clear error in judgment, but ultimate review narrow and respectful of agency policymaking.",
+          "examApplication": "For mixed issues separately test statutory authority, underlying facts and policy choice.",
+          "examTrap": "Do not equate this standard with judicial power to substitute preferred result."
+        },
+        {
+          "id": "admin-ch9-arbitrary-basics-e2",
+          "type": "case",
+          "title": "Citizens to Preserve Overton Park, Inc. v. Volpe, 401 U.S. 402 (1971)",
+          "page": "632–634",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "§ 706(2)(A) arbitrary-and-capricious review applies (not § 706(2)(E) substantial evidence in formal hearing); court must conduct substantial, careful inquiry into whether relevant factors considered and clear error of judgment, while not replacing agency's choice.",
+          "laymanExplanation": "Review legal scope and required factors, then check if agency rationally applied them; process searching yet judicial substitution prohibited.",
+          "legalExplanation": "Public hearing elicited views, not formal evidentiary record. Court distinguished statutorily constrained review of feasible/prudent alternatives, reaffirmed presumption of regularity but refused to equate it with rubber-stamping. Decisionmaker has only restricted authority to sacrifice park; reviewing court seeks genuine reasons. Casebook notes initial inquiry into official reasons would rarely be proper today, but requirement for contemporaneous full administrative record has enduring importance.",
+          "examApplication": "Determine what 'no feasible and prudent alternative' means, distinguish engineering feasibility and unique cost/harm reasons for rejecting alternatives, then ask if actual grounds are supported.",
+          "examTrap": "Substantial evidence in APA §706(2)(E) is not the default for an informal public project hearing.",
+          "assignedOpinion": true,
+          "sourceRole": "Excerpted opinion in assigned textbook reading",
+          "facts": "Secretary of Transportation approved interstate highway through city park; federal statute barred use of park unless no feasible and prudent alternative; Secretary supplied no meaningful findings. Community groups challenged federal project.",
+          "issue": "What scope of judicial review applies to informal highway routing decision, and how should court evaluate Secretary's compliance with statute and discretionary reasoning?",
+          "holding": "§ 706(2)(A) arbitrary-and-capricious review applies (not § 706(2)(E) substantial evidence in formal hearing); court must conduct substantial, careful inquiry into whether relevant factors considered and clear error of judgment, while not replacing agency's choice.",
+          "reasoning": "Public hearing elicited views, not formal evidentiary record. Court distinguished statutorily constrained review of feasible/prudent alternatives, reaffirmed presumption of regularity but refused to equate it with rubber-stamping. Decisionmaker has only restricted authority to sacrifice park; reviewing court seeks genuine reasons. Casebook notes initial inquiry into official reasons would rarely be proper today, but requirement for contemporaneous full administrative record has enduring importance.",
+          "rule": "Review legal scope and required factors, then check if agency rationally applied them; process searching yet judicial substitution prohibited."
+        },
+        {
+          "id": "admin-ch9-arbitrary-basics-e3",
+          "type": "rule",
+          "title": "Overton Park test: relevant statutory factors",
+          "page": "633–635",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Agency must consider factors its enabling statute requires and avoid irrelevant considerations it forbids; court identifies lawful considerations independently.",
+          "laymanExplanation": "The agency can't approve a park route because mayor likes it when statute requires no prudent alternative.",
+          "legalExplanation": "Legal interpretation of statute determines factors; cases also challenge how thoroughly these addressed.",
+          "examApplication": "In exam map statutory command to every consideration agency claims and omits.",
+          "examTrap": "Do not import an unrelated statute's policy as automatically relevant."
+        },
+        {
+          "id": "admin-ch9-arbitrary-basics-e4",
+          "type": "rule",
+          "title": "Overton Park test: clear error of judgment, narrowly reviewed",
+          "page": "633–635",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Court scrutinizes rationale carefully but upholds any rational choice within permissible statutory range; clear error of judgment differs from appellate 'clearly erroneous' fact standard.",
+          "laymanExplanation": "The judge can check homework without doing the agency's job.",
+          "legalExplanation": "Standard more than minimal constitutional rational basis but not de novo policy decision.",
+          "examApplication": "Identify the specific irrational inference rather than just disagreeing with chosen policy.",
+          "examTrap": "Don't confuse clear error of judgment phrase with Fed. R. Civ. P. 52(a) clearly erroneous."
+        },
+        {
+          "id": "admin-ch9-arbitrary-basics-e5",
+          "type": "case",
+          "title": "Judulang v. Holder, 565 U.S. 42 (2011) — immigration relevant-factor failure",
+          "page": "634",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "BIA denied relief based on chance match between deportation and exclusion offense categories, disconnected from immigrant fitness or statutory purpose; court rejected as arbitrary.",
+          "laymanExplanation": "Discretion cannot turn on random paperwork categories unrelated to what immigration law tries to accomplish.",
+          "legalExplanation": "Court required relation of policy to purpose of immigration statute.",
+          "examApplication": "Apply where rule relies on coincidental category irrelevant to legal objectives.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in assigned textbook notes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch9-arbitrary-basics-e6",
+          "type": "case",
+          "title": "Pension Benefit Guaranty Corp. v. LTV Corp., 496 U.S. 633 (1990) — limits on relevant factors",
+          "page": "634–635",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Supreme Court rejected requirement PBGC expressly consider broad policies embedded in unrelated bankruptcy/labor statutes before restoring pension obligation.",
+          "laymanExplanation": "Judge cannot demand agency weigh every value from every federal law.",
+          "legalExplanation": "Relevant factors depend on its own mandate and institutional expertise.",
+          "examApplication": "Compare closely related statutory requirement with vague policy in another title.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in assigned textbook notes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch9-arbitrary-basics-e7",
+          "type": "rule",
+          "title": "Reasoned decisionmaking — ABA checklist as descriptive map",
+          "page": "635–636",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Arbitrariness can include wrong factors, disregard of purpose, unsupported facts, seriously flawed/no explanation, failure to consider major problem or alternative, unexplained departure from prior policy, unaddressed significant comments, grossly excessive sanctions.",
+          "laymanExplanation": "Challenge specific defect supported by record: ignored evidence, contradicted policy, ignored central alternative.",
+          "legalExplanation": "ABA Blackletter Statement synthesizes patterns; hard look often strongest in high-stakes rules and more lenient in routine matters.",
+          "examApplication": "Use 4-5 strongest checklist grounds tailored to facts; don't list every factor mechanically.",
+          "examTrap": "ABA checklist itself not enacted binding test and court need not address every conceivable ground."
+        },
+        {
+          "id": "admin-ch9-arbitrary-basics-e8",
+          "type": "concept",
+          "title": "Reasonableness not rightness; hard vs soft look",
+          "page": "635–636",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Agency may choose one of several permissible options; court enforces coherent reasoning, including important relevant tradeoffs. Magnitude of case influences scrutiny.",
+          "laymanExplanation": "Judge asks 'how did you get there?' rather than 'do I agree?'",
+          "legalExplanation": "Court may remand insufficient reasoning rather than declare agency choice absolutely impossible.",
+          "examApplication": "Distinguish unexplained action from intrinsically unreasonable outcome."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch9-arbitrary-sanctions",
+      "title": "§ 9.3.1 — Formal Adjudication Discretion, Salameda, Sanctions & Chenery (pp. 636–640)",
+      "chapterGroup": "admin-ch9",
+      "description": "Discretionary relief, sanction choice, internal constraints, post hoc arguments, remedy and teacher dismissal/free drinks problems.",
+      "entries": [
+        {
+          "id": "admin-ch9-arbitrary-sanctions-e1",
+          "type": "case",
+          "title": "Salameda v. INS, 70 F.3d 447 (7th Cir. 1995) — reasoned hardship determination",
+          "page": "636–637",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "BIA rejected removal suspension for Filipino couple despite community ties and child hardship. Posner majority remanded for failure to meaningfully consider asserted hardship; Easterbrook dissent criticized intrusive review of overwhelmed BIA.",
+          "laymanExplanation": "Agency needs to address important facts raised for discretionary hardship relief, not merely issue boilerplate.",
+          "legalExplanation": "Opinion not excerpted in full; book stresses failure to consider community service, son and agency caseload. 'Understaffing is not a defense' majority.",
+          "examApplication": "Consider agency explanation gaps and competing view of court overreach.",
+          "examTrap": "Do not assume all humanitarian claims independently compel relief.",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in assigned textbook notes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch9-arbitrary-sanctions-e2",
+          "type": "rule",
+          "title": "Resource limits usually do not excuse legally inadequate reasoning",
+          "page": "636–638",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Courts generally do not accept enormous agency caseload as defense for unreasonable decisionmaking, though dissent warns of unrealistic impossible perfection.",
+          "laymanExplanation": "Busy agency still has to reason fairly, but opinions may disagree what counts as essential.",
+          "legalExplanation": "Salameda split: Posner versus Easterbrook on BIA understaffing and what issues actually mattered.",
+          "examApplication": "Explain what an adequately reasoned response could address without exhaustive judicial essay.",
+          "examTrap": "Avoid assuming every missed minor argument requires remand."
+        },
+        {
+          "id": "admin-ch9-arbitrary-sanctions-e3",
+          "type": "case",
+          "title": "Butz v. Glover Livestock Commission Co., 411 U.S. 182 (1973)",
+          "page": "637–638",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Agency suspended livestock license 20 days for negligent weighing though previously only egregious violators suspended; Supreme Court reversed appellate interference, saying sanctions agency's domain unless unwarranted by law or without factual justification.",
+          "laymanExplanation": "Agency can impose a reasonable penalty for violation even if earlier cases got off lightly.",
+          "legalExplanation": "No required uniform sanction pattern; licensee had earlier warning. Court lacks mandate to choose its own ideal penalty.",
+          "examApplication": "Compare serious repeated insubordination versus $35 supply theft.",
+          "examTrap": "Do not imply agency always required to give same penalty for same conduct.",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in assigned textbook notes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch9-arbitrary-sanctions-e4",
+          "type": "rule",
+          "title": "Sanctions: agency remedial choice gets particular deference",
+          "page": "637–638",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Courts usually refrain from rewriting authorized sanctions; overturn only if legally unauthorized or factually unjustified; some states even more lenient.",
+          "laymanExplanation": "A judge will not ordinarily swap an agency's 20-day suspension for a warning just because judge thinks it harsh.",
+          "legalExplanation": "Butz and Maryland Noland; truly extreme/disproportionate cases may be exceptions.",
+          "examApplication": "Analyze statutory sanction range, gravity, warnings, comparable practice and mitigation.",
+          "examTrap": "Do not automatically equate disparate treatment with arbitrary sanction."
+        },
+        {
+          "id": "admin-ch9-arbitrary-sanctions-e5",
+          "type": "case",
+          "title": "Maryland Aviation Administration v. Noland, 873 A.2d 1145 (Md. 2005)",
+          "page": "638",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Maryland highest court upheld severe employment discipline absent separate written mitigation findings; challenger bears burden to show sanction so extreme/egregious as to be arbitrary.",
+          "laymanExplanation": "Some states give agency even greater discretion to select penalty.",
+          "legalExplanation": "Maryland is special state approach, not rule for all federal adjudications.",
+          "examApplication": "",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Discussed in assigned textbook notes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch9-arbitrary-sanctions-e6",
+          "type": "rule",
+          "title": "Chenery: court reviews actual agency grounds; no post hoc counsel rationales",
+          "page": "638–639",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "If agency relies on legally wrong premise or does not exercise discretion Congress gave it, court cannot substitute a lawful discretionary ground of its own.",
+          "laymanExplanation": "Court cannot rescue an agency by inventing a better explanation after the fact.",
+          "legalExplanation": "Chenery principle applies to interpretation, fact assumptions and policymaking, including Prill v NLRB and Allentown Mack.",
+          "examApplication": "Compare written stated rationale and alternative proposed only in appeal briefs.",
+          "examTrap": "Proper result normally remand, not judicial resolution of policy."
+        },
+        {
+          "id": "admin-ch9-arbitrary-sanctions-e7",
+          "type": "rule",
+          "title": "Mistaken belief that law compels an outcome requires remand",
+          "page": "638–639",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Agency may have lawful discretion to adopt policy, but if it claims statute forced it, reviewing court generally returns case for genuine policy choice.",
+          "laymanExplanation": "If boss says 'law leaves me no choice' but actually has choices, court can't assume what boss would choose.",
+          "legalExplanation": "Prill v NLRB reversed assumed mandatory interpretation of 'concerted activities'; Chenery preserves delegated choice.",
+          "examApplication": "Describe available discretion and absence of agency's exercise of it.",
+          "examTrap": "A correct outcome under one rationale does not validate decision made for different unlawful reason."
+        },
+        {
+          "id": "admin-ch9-arbitrary-sanctions-e8",
+          "type": "rule",
+          "title": "Remand, not judge's substitute outcome, after discretionary failure",
+          "page": "639",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Normally court remands arbitrary exercise for agency to choose again, except where only one legally required or self-evident result remains.",
+          "laymanExplanation": "Judge can send defective decision back; judge usually cannot choose replacement permit condition.",
+          "legalExplanation": "Calcutt and Idaho Power discussed: regulator must decide whether to drop illegal license condition or deny license altogether.",
+          "examApplication": "Mention narrow exception for legally mandatory outcome.",
+          "examTrap": "Court can't impose a new agency solution merely because it seems obvious."
+        },
+        {
+          "id": "admin-ch9-arbitrary-sanctions-e9",
+          "type": "concept",
+          "title": "Discretion in practice: differences between formal and informal cases",
+          "page": "636–640",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026)",
+          "summary": "Formal adjudication may have substantial-evidence findings and APA hearing safeguards, but discretionary relief/punishment itself still reviewed for arbitrariness.",
+          "laymanExplanation": "Evidence-supported violation doesn't mean every punishment is legally rational; check each separately.",
+          "legalExplanation": "Keep factual findings, legal interpretation and discretionary sanction as independent layers.",
+          "examApplication": "Write essay headings 'facts,' 'law,' 'discretion,' 'remedy'."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch9-cont4-p1",
+      "topicId": "admin-ch9-arbitrary-basics",
+      "title": "Overton Park highway route review",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026) (p. 632–634)",
+      "prompt": "Congress forbids parkland route except no feasible/prudent alternative; Secretary gives no explanation after informal public hearing. Which review standard, legal meaning and relevant-factor tests apply?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont4-p2",
+      "topicId": "admin-ch9-arbitrary-basics",
+      "title": "Judulang and PBGC: permissible relevant factors",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026) (p. 634–635)",
+      "prompt": "When may agency rely on statutory category coincidence, and when would a court be improperly forcing agency to consider another federal statute's broad policy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont4-p3",
+      "topicId": "admin-ch9-arbitrary-basics",
+      "title": "ABA arbitrary/capricious checklist",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026) (p. 635–636)",
+      "prompt": "A high-stakes rule ignored an inexpensive alternative and major factual comment. Select applicable ABA review grounds; discuss hard look and non-substitution.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont4-p4",
+      "topicId": "admin-ch9-arbitrary-sanctions",
+      "title": "Salameda immigration discretion and resources",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026) (p. 636–638)",
+      "prompt": "If BIA denies extreme hardship without discussing child and community service, weigh majority Posner's rationale and dissent Easterbrook's agency-caseload argument.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont4-p5",
+      "topicId": "admin-ch9-arbitrary-sanctions",
+      "title": "Butz and Noland sanctions — boundaries of review",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026) (p. 637–638)",
+      "prompt": "Is an unusual 20-day suspension arbitrary merely because previous negligent violators got only warnings? Contrast Butz and Maryland Noland.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont4-p6",
+      "topicId": "admin-ch9-arbitrary-sanctions",
+      "title": "Chenery/Calcutt remand",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026) (p. 638–639)",
+      "prompt": "Agency wrongly believed conduct unprotected by statutory mandate but had discretion to choose policy; explain proper judicial disposition and limits on post hoc justifications.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont4-p7",
+      "topicId": "admin-ch9-arbitrary-sanctions",
+      "title": "Alice and Bob tenured teachers — textbook problem",
+      "kind": "Textbook Problem 8 — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026) (p. 639–640)",
+      "prompt": "After 30 years teaching, Alice fired for knowingly stealing $35 supplies; Bob fired for repeat Catcher in the Rye assignment despite prior commitment plus walkout/refusal at meeting. Both challenge only choice of discharge versus lesser sanction. Analyze Butz, proportionality, disparate sanction and proper judicial restraint under relevant state review without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont4-p8",
+      "topicId": "admin-ch9-arbitrary-sanctions",
+      "title": "Ampere electricians free drinks / NLRB election — textbook problem",
+      "kind": "Textbook Problem 9 — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 632–640 (uploaded Nov. 24, 2026) (p. 639–640)",
+      "prompt": "Union business manager treated about 12 electricians to unlimited drinks during representation election (vote 13–5), reminding them to vote. NLRB found no direct coercion or intoxication, analogized previous Galvanics case of tuna sandwiches/soda. Employer contends future bribery risk and material factual distinctions. Review discretionary reasoning, record, prior precedent analogy, future consequences; do not answer.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
