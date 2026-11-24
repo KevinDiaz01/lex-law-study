@@ -2,7 +2,7 @@
   "version": 1,
   "courseId": "admin",
   "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
-  "coverage": "Chapter 9 pp. 595–619; Professor Lubbers syllabus VI.B(3) pp. 595–631 and Major Questions pp. 613–622. Coverage is partial beyond p. 619.",
+  "coverage": "Chapter 9 pp. 595–622; § 9.2.3 major questions completed with uploaded Nov. 24, 2026 continuation pp. 620–622. Kisor and pp. 623–668 follow in separately loaded parts 3–6.",
   "topics": [
     {
       "id": "admin-ch9-loper",
@@ -243,7 +243,7 @@
     },
     {
       "id": "admin-ch9-major",
-      "title": "§ 9.2.3 — Major Questions Doctrine (pp. 613–619 of 613–622 assigned)",
+      "title": "§ 9.2.3 — Major Questions Doctrine (pp. 613–622)",
       "chapterGroup": "admin-ch9",
       "entries": [
         {
@@ -375,15 +375,89 @@
         },
         {
           "id": "admin-ch9-major-e11",
+          "type": "rule",
+          "title": "Major questions: statutory clarity and extraordinary policy significance",
+          "page": "620–621",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026)",
+          "summary": "When claimed executive power implicates extraordinary political/economic stakes, clear delegation from Congress is required; policy urgency alone cannot replace legislative authorization.",
+          "laymanExplanation": "Even a pressing national problem doesn't let an agency take a huge step Congress hasn't clearly authorized.",
+          "legalExplanation": "Notes contrast descriptions of Congress's likely intent with a normative anti-delegation clear-statement principle. The doctrine's applicability and definition remain disputed.",
+          "examApplication": "Address trigger (magnitude, novelty, role, economic impact) separately from whether statutory language clearly grants authority.",
+          "examTrap": "Do not treat every government program or any high price tag as per se major questions."
+        },
+        {
+          "id": "admin-ch9-major-e12",
+          "type": "case",
+          "title": "Biden v. Nebraska, 600 U.S. 477 (2023) — student loan forgiveness",
+          "page": "620–621",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026)",
+          "summary": "Supreme Court invalidated the Secretary of Education's broad COVID-era student debt cancellation under HEROES Act; majority interpreted 'waive or modify' as too narrow to support a fundamentally restructured national relief program.",
+          "laymanExplanation": "Congress let the Secretary make certain emergency adjustments, not erase billions of loans through a wholesale policy shift.",
+          "legalExplanation": "Majority applied clear-congressional-authorization concern to $10,000 loan cancellation ($20,000 Pell borrowers) for eligible incomes, rejecting the argument that doctrine only concerns regulations instead of federal benefits. Kagan dissent emphasized Congress's broad delegation of emergency authority and agency expertise.",
+          "examApplication": "Identify statutory verbs 'waive or modify,' scope of loan cancellation, emergency context and the legislature's appropriations power.",
+          "examTrap": "Opinion is discussed and briefly quoted in notes, not fully reproduced; don't call this an assigned full opinion.",
+          "assignedOpinion": false,
+          "sourceRole": "Textbook Notes and Questions description/short quotes; full opinion not excerpted"
+        },
+        {
+          "id": "admin-ch9-major-e13",
+          "type": "rule",
+          "title": "Major questions reaches government benefit programs too",
+          "page": "620–621",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026)",
+          "summary": "Biden v. Nebraska rejects a distinction between regulating private parties and granting federal monetary benefits: Congress's control of federal spending is constitutionally central.",
+          "laymanExplanation": "An agency can't evade major questions scrutiny by giving out money rather than imposing obligations.",
+          "legalExplanation": "Roberts majority stressed that benefits have profound fiscal/political consequence and still require clear delegated authority.",
+          "examApplication": "If power distributes grants, forgives debt or alters benefit eligibility, evaluate doctrine as appropriate.",
+          "examTrap": "Do not say doctrine categorically attaches to every routine benefit determination."
+        },
+        {
+          "id": "admin-ch9-major-e14",
           "type": "concept",
-          "title": "Assigned pages still missing: 620–622",
-          "page": "619",
-          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 595–619 (uploaded Nov. 23, 2026)",
-          "summary": "The syllabus assigns major questions through page 622, but this upload ends at 619; the rest will be incorporated from the next matching batch.",
-          "laymanExplanation": "This section isn't complete yet: pages 620–622 haven't been supplied.",
-          "legalExplanation": "The uploaded material ends with the close of the West Virginia v. EPA dissent. Additional assigned material includes Biden v. Nebraska at p. 620; it is not yet summarized here.",
-          "examApplication": "Mark this subsection as partial until pages 620–622 are provided.",
-          "examTrap": "Do not represent Biden v. Nebraska or end-of-section questions as already extracted."
+          "title": "Biden v. Nebraska — Kagan dissent's delegation argument",
+          "page": "620–621",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026)",
+          "summary": "Kagan argued Congress delegates broadly to skilled administrative agencies precisely because unforeseen national emergencies require nimble implementation; majority's doctrine inhibits choices Congress actually made.",
+          "laymanExplanation": "Congress may deliberately write flexible authority so experts can handle emergencies.",
+          "legalExplanation": "Dissent warned courts become national policymakers by overriding Congress's delegation; compare West Virginia dissent.",
+          "examApplication": "Present textual statutory counterargument, delegation rationale, practical future risks.",
+          "examTrap": "This is the dissenting position."
+        },
+        {
+          "id": "admin-ch9-major-e15",
+          "type": "concept",
+          "title": "Justice Barrett's concurrence: context and common-sense communication",
+          "page": "621–622",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026)",
+          "summary": "Barrett's separate concurrence in Biden v. Nebraska preferred contextual interpretation to explicit anti-agency clear-statement rule: ordinary readers expect Congress to decide important questions itself and delegate details.",
+          "laymanExplanation": "If a statute talks about minor tweaks, you wouldn't expect it to secretly authorize rewriting the entire system.",
+          "legalExplanation": "She cautioned pure clear-statement rules load interpretive dice against agencies even where theirs is better reading; instead importance is part of text-in-context interpretation.",
+          "examApplication": "Compare Barrett's communicative context approach with Gorsuch constitutional principle and Roberts' majority formulation.",
+          "examTrap": "Don't conflate separate concurrence with an independently binding replacement doctrine."
+        },
+        {
+          "id": "admin-ch9-major-e16",
+          "type": "concept",
+          "title": "Major questions and APA § 706 / Loper Bright tension",
+          "page": "620",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026)",
+          "summary": "Notes challenge consistency: Loper Bright rejects pro-agency presumptive deference on law, while major-questions doctrine may create an anti-agency presumption demanding special clarity.",
+          "laymanExplanation": "Why should judges be forbidden to tilt toward the agency but permitted to tilt against it?",
+          "legalExplanation": "This is a textbook critical question, not a judicial holding declaring doctrines inconsistent.",
+          "examApplication": "Issue-spot competing justifications: textual context, constitutional avoidance, allocation of policymaking.",
+          "examTrap": "Don't claim Supreme Court invalidated major questions under § 706."
+        },
+        {
+          "id": "admin-ch9-major-e17",
+          "type": "concept",
+          "title": "Major-questions exam analysis: two-stage approach",
+          "page": "620–622",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026)",
+          "summary": "Determine if policy is extraordinary and whether statute unambiguously or contextually authorizes that particular agency action; offer both broad delegation and separation-of-powers arguments.",
+          "laymanExplanation": "First decide if the action is truly huge/new; then read exactly what Congress authorized.",
+          "legalExplanation": "Use West Virginia, Biden v. Nebraska and Barrett concurrence; in the ERISA example assess scope of fiduciary obligations and collateral ESG tiebreakers.",
+          "examApplication": "Apply to ESG where investment managers choose between financially equivalent plans, distinguishing agency's neutral interpretation from national energy mandate.",
+          "examTrap": "An agency policy can have immense effects without necessarily exercising transformative authority."
         }
       ]
     }
@@ -446,6 +520,56 @@
       "kind": "Textbook Notes & Questions — UNSOLVED",
       "source": "Asimow & Levin, Chapter 9, p. 613–619",
       "prompt": "Congress authorized an agency to adopt measures 'necessary and appropriate' for an existing program. Decades later it claims authority to transform an entire industry. What makes it a major question, what proof of congressional authorization would be needed, and how would the dissent in West Virginia respond?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont-major-p1",
+      "topicId": "admin-ch9-major",
+      "title": "Major questions as descriptive versus normative clear-statement principle",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026) (p. 620)",
+      "prompt": "Does doctrine reflect what Congress ordinarily would have intended, or a judicial policy limiting legislative delegation? Compare statutory interpretation versus constitutional norms.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont-major-p2",
+      "topicId": "admin-ch9-major",
+      "title": "Separation of powers and independent judicial judgment",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026) (p. 620)",
+      "prompt": "How do Gorsuch's nondelegation rationale and Loper Bright's independent judicial judgment requirement support or complicate major-questions clear-authorization rule?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont-major-p3",
+      "topicId": "admin-ch9-major",
+      "title": "Biden v. Nebraska — programs and fiscal power",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026) (p. 620–622)",
+      "prompt": "When HEROES Act allows Education Secretary to 'waive or modify' student-loan statutes during national emergency, how should majority and Kagan dissent reason about $10k/$20k loan forgiveness, appropriations, and major questions?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont-major-p4",
+      "topicId": "admin-ch9-major",
+      "title": "Barrett's contextual concurrence",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026) (p. 621–622)",
+      "prompt": "Compare contextual commonsense expectation of congressional authorization to a clear-statement anti-agency canon; which approach better fits Brown & Williamson, West Virginia and Nebraska?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont-major-p5",
+      "topicId": "admin-ch9-major",
+      "title": "ERISA ESG tiebreaker / Utah v. Su — major textbook problem",
+      "kind": "Textbook Problem 8 — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 620–622 (uploaded Nov. 24, 2026) (p. 622)",
+      "prompt": "DOL allowed plan fiduciaries to consider ESG collateral factors only as a tie-breaker when financial choices are equal; opponents invoke ERISA 'solely' and 'exclusive purpose' retirement benefits language, trillions in assets and political controversy. Analyze both sides' major-questions arguments, significance versus actual rule reach, fiduciary benefits, Chevron/Loper background and additional facts needed. Leave unresolved.",
       "status": "Not attempted",
       "notes": ""
     }
