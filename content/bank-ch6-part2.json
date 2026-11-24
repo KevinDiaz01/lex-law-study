@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+  "coverage": {
+    "chapter": 6,
+    "scope": "B. Valuation §506(a), full Associates Commercial Corp. v. Rash opinion majority and Stevens dissent, Rash note 6, 2005 §506(a)(2) rules, 910-day rule and all six Problem 6.4 subparts unsolved"
+  },
+  "topics": [
+    {
+      "id": "bank-ch6-valuation-506a",
+      "title": "B. Secured Collateral Valuation: Purpose, Use, Retention vs Foreclosure",
+      "chapterGroup": "bank-ch6",
+      "description": "Competing creditor's foreclosure value and debtor's replacement/use value.",
+      "entries": [
+        {
+          "id": "bank-ch6-valuation-506a-e1",
+          "type": "rule",
+          "title": "§506(a)(1) asks WHAT estate/lien interest and HOW to value",
+          "page": "Ch.6 §B opening",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "First sentence limits allowed secured claim to creditor's property interest; second sentence requires valuation based on purpose of valuation and proposed disposition/use in conjunction with relevant hearing or plan.",
+          "laymanExplanation": "You must value the exact slice of property bank can claim, then decide how much that slice is worth for actual planned use.",
+          "legalExplanation": "Senior liens, shared ownership affect extent; planned surrender versus continuing use affects valuation method under Rash.",
+          "examApplication": "Identify property ownership and actual plan choice before choosing sale price.",
+          "examTrap": "Don't read 'creditor's interest' as automatic foreclosure-value instruction."
+        },
+        {
+          "id": "bank-ch6-valuation-506a-e2",
+          "type": "rule",
+          "title": "Foreclosure value versus replacement value",
+          "page": "Ch.6 §B",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "Foreclosure value approximates creditor's net sale recovery after seizure; replacement value approximates price debtor would pay to obtain like property for same use (usually higher, but not always).",
+          "laymanExplanation": "Wholesale auction recovery can be $12k while buying equivalent car for use costs $15k.",
+          "legalExplanation": "Rash centers statutory proposed disposition/use rather than pretending retained collateral is sold.",
+          "examApplication": "Ask debtor's actual intended use and chapter, then specialized §506(a)(2).",
+          "examTrap": "Do not equate retail sticker price with Rash footnote 6 adjusted replacement amount in every case."
+        },
+        {
+          "id": "bank-ch6-valuation-506a-e3",
+          "type": "rule",
+          "title": "Surrender and retention can justify different economic measures",
+          "page": "Ch.6 §B",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "Where debtor surrenders collateral lender receives property and may sell; when debtor keeps it to earn income lender receives deferred payments and faces risk of default/depreciation.",
+          "laymanExplanation": "Keep truck and drive vs hand lender keys: not financially identical.",
+          "legalExplanation": "Rash majority highlighted double risks but Stevens dissent said plan interest and adequate protection already address them.",
+          "examApplication": "Use same facts with proposed surrender vs retain to show why valuation standard can shift.",
+          "examTrap": "Do not use collateral's prior purchase price as current value."
+        },
+        {
+          "id": "bank-ch6-valuation-506a-e4",
+          "type": "rule",
+          "title": "Three proposed pre-Rash valuation methods",
+          "page": "Ch.6 §B",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "Courts used creditor foreclosure/wholesale, debtor replacement/retail or midpoint of two; Rash rejected foreclosure and fixed midpoint for Chapter13 retention cramdown.",
+          "laymanExplanation": "Some judges split difference as compromise, Supreme Court picked replacement logic.",
+          "legalExplanation": "Economic bilateral-monopoly settlement possibilities are separate from court's statutory command.",
+          "examApplication": "List all three where professor asks courts' circuit split.",
+          "examTrap": "A negotiable midpoint settlement isn't a Supreme Court mandatory valuation formula."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-rash",
+      "title": "B. Associates Commercial Corp. v. Rash (1997) — Full Case and Dissent",
+      "chapterGroup": "bank-ch6",
+      "description": "Supreme Court replacement-value standard, operative statutory sentences, footnote 6 and Stevens objection.",
+      "entries": [
+        {
+          "id": "bank-ch6-rash-e1",
+          "type": "case",
+          "title": "Associates Commercial Corp. v. Rash, 520 U.S. 953 (1997)",
+          "page": "Ch.6 §B / Rash full excerpt",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "Supreme Court reversed Fifth Circuit: Chapter13 retention cramdown requires replacement value—a willing buyer in debtor's circumstances pays for like property for proposed use—not expected foreclosure proceeds or midpoint. Remanded to determine factual replacement price.",
+          "laymanExplanation": "When debtor retains and uses collateral under Chapter13 cramdown, §506(a)(1)'s disposition/use directs replacement value, adjusted to property and debtor circumstances under Rash footnote 6 (subject to later §506(a)(2)).",
+          "legalExplanation": "Ginsburg explained §506(a)'s first sentence determines secured vs unsecured division and ownership/senior priority interests, not valuation method; second sentence expressly references purpose and proposed disposition/use. Retention yields economic value of keeping truck and differs from surrender; lender faces deferred payment risk/deterioration ('double risks'). Statute has no basis for mechanical average. Footnote 6 left room for whether replacement equals retail, wholesale or another figure based on property/debtor, excluding add-ons debtor doesn't receive, like warranties, inventory storage, reconditioning. Stevens dissent interpreted creditor's interest as what lender could realize on foreclosure and saw payment interest/adequate protection as risk protections.",
+          "examApplication": "Walk through $41,171 debt vs $31,875 foreclosure and ~$41k replacement; distinguish allowed secured amount, method, plan present value and market sale outcome.",
+          "examTrap": "Holding identifies replacement-standard, NOT blanket full retail price without adjustments.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in uploaded Chapter 6",
+          "facts": "Elray Rash purchased 1989 Kenworth truck for freight business for $73,700 on installment secured by assigned lien to Associates Commercial (ACC). In March 1992 Elray and Jean Rash filed Chapter13; ACC loan balance $41,171. Debtors sought to keep truck and pay plan over 58 months using asserted $28,500 amount, later foreclosure appraisal expert $31,875; ACC wanted comparable-truck replacement estimated ~$41k. Bankruptcy/district courts and Fifth Circuit en banc used net foreclosure $31,875; Supreme Court reviewed split among circuits.",
+          "issue": "Under §506(a), when Chapter13 debtor keeps and uses business truck through cramdown §1325(a)(5)(B), should allowed secured claim use creditor's foreclosure recovery, debtor's replacement cost, or midpoint?",
+          "holding": "Supreme Court reversed Fifth Circuit: Chapter13 retention cramdown requires replacement value—a willing buyer in debtor's circumstances pays for like property for proposed use—not expected foreclosure proceeds or midpoint. Remanded to determine factual replacement price.",
+          "reasoning": "Ginsburg explained §506(a)'s first sentence determines secured vs unsecured division and ownership/senior priority interests, not valuation method; second sentence expressly references purpose and proposed disposition/use. Retention yields economic value of keeping truck and differs from surrender; lender faces deferred payment risk/deterioration ('double risks'). Statute has no basis for mechanical average. Footnote 6 left room for whether replacement equals retail, wholesale or another figure based on property/debtor, excluding add-ons debtor doesn't receive, like warranties, inventory storage, reconditioning. Stevens dissent interpreted creditor's interest as what lender could realize on foreclosure and saw payment interest/adequate protection as risk protections.",
+          "rule": "When debtor retains and uses collateral under Chapter13 cramdown, §506(a)(1)'s disposition/use directs replacement value, adjusted to property and debtor circumstances under Rash footnote 6 (subject to later §506(a)(2)).",
+          "dissent": "Justice Stevens: §506(a) focuses on creditor's interest; since cramdown is substitution for foreclosing, benchmark creditor's foreclosure proceeds. Interest payments and §361 adequate protection address risks, while larger replacement value is windfall to secured lender at unsecured creditors' expense."
+        },
+        {
+          "id": "bank-ch6-rash-e2",
+          "type": "rule",
+          "title": "Majority first sentence answers extent, second sentence answers valuation method",
+          "page": "Ch.6 §B / Rash reasoning",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "§506(a) first sentence recognizes limited estate ownership and junior liens; second sentence tells court to value in light of purpose and actual use. Using foreclosure in retention would render second sentence ineffective.",
+          "laymanExplanation": "The first half tells what belongs to bank; the second tells price.",
+          "legalExplanation": "Statutory whole-text reading central to case.",
+          "examApplication": "For Professor question about 'creditor's interest', quote limited estate interest/senior lien examples.",
+          "examTrap": "Don't treat 'creditor's interest' as definition of foreclosure value."
+        },
+        {
+          "id": "bank-ch6-rash-e3",
+          "type": "rule",
+          "title": "Rash footnote 6: replacement value need not be every retail component",
+          "page": "Ch.6 §B / Rash footnote 6",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "Court let bankruptcy courts decide factually whether benchmark retail/wholesale/other; deduct amounts for warranties, inventory storage, reconditioning or upgrades not part of lien when buyer retains existing collateral.",
+          "laymanExplanation": "If you keep old truck, don't pay for a dealer's optional warranty you aren't receiving.",
+          "legalExplanation": "Source notes many courts used adjusted figure near midpoint after Rash; 2005 amendment later restricts this for individual Chapter7/13 consumer goods.",
+          "examApplication": "Specify nonreceived services and lien scope; don't count marketing deduct under subsequent §506(a)(2).",
+          "examTrap": "Footnote 6 isn't permission always to select 50/50."
+        },
+        {
+          "id": "bank-ch6-rash-e4",
+          "type": "rule",
+          "title": "Rash double risks and Stevens dissent",
+          "page": "Ch.6 §B / Rash",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "Majority: secured lender denied immediate sale and exposed to new default and depreciation by debtor's retained use; dissent: plan interest and adequate protection already compensate lender.",
+          "laymanExplanation": "Bank worries car may be ruined before payments complete, but dissent says protections handle that.",
+          "legalExplanation": "This argument resurfaces Sunnyslope and Thomas concurrence in Till.",
+          "examApplication": "For compare quote rationale without claiming an absolute foreclosure-value floor.",
+          "examTrap": "Double risks language doesn't overrule explicit replacement/use instruction."
+        },
+        {
+          "id": "bank-ch6-rash-e5",
+          "type": "rule",
+          "title": "Why simple midpoint rejected",
+          "page": "Ch.6 §B / Rash",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "§506(a) refers only to disposition/use actually proposed; mathematical average of hypothetical sale and retention scenarios is not grounded in text.",
+          "laymanExplanation": "Supreme Court wouldn't split a difference between two mutually exclusive scenarios.",
+          "legalExplanation": "Though bilateral monopoly bargaining may produce a settlement near midpoint, legal holding uses replacement.",
+          "examApplication": "Calculate midpoint separately only to illustrate rejected alternative.",
+          "examTrap": "Midpoint value can arise as factually supported replacement valuation, not court's required rule."
+        },
+        {
+          "id": "bank-ch6-rash-e6",
+          "type": "rule",
+          "title": "Chapter13 cramdown basics §1325(a)(5)",
+          "page": "Ch.6 §B / Rash",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "Secured creditor accepts plan, debtor surrenders collateral, or debtor retains under cramdown with lien retention and payments whose PRESENT VALUE equals allowed secured claim; §506(a) values collateral, §1325 values stream.",
+          "laymanExplanation": "Bank gets to vote yes, take car, or receive legally sufficient cash stream while debtor keeps it.",
+          "legalExplanation": "Retained car debtor must include time-value interest, addressed in Till.",
+          "examApplication": "In exam first select option A/B/C then valuation and interest.",
+          "examTrap": "Replacement amount and discount interest rate are different computations."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-valuation-506a2",
+      "title": "B. 2005 §506(a)(2): Individual Consumer Goods Versus Business Property",
+      "chapterGroup": "bank-ch6",
+      "description": "Statutory replacement valuation for personal property in individual Chapter7/13 cases and limits of Rash.",
+      "entries": [
+        {
+          "id": "bank-ch6-valuation-506a2-e1",
+          "type": "rule",
+          "title": "§506(a)(2) applies ONLY individual debtors, Chapter7 or 13, personal property",
+          "page": "Ch.6 §B / Postscript Rash",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "Where secured property is personal (not real) and debtor individual in Chapter7/13, §506(a)(2) replaces general contextual Rash standard with petition-date replacement valuation; no deduction for cost of sale or marketing.",
+          "laymanExplanation": "Individual's used SUV in Chapter7 or 13 has special retail-focused rules; company land doesn't.",
+          "legalExplanation": "Two-sentence §506(a)(2) split depends purpose property acquired for; standard excludes sale/marketing cost deductions.",
+          "examApplication": "List debtor identity, chapter, property type, acquisition purpose before computing.",
+          "examTrap": "Do not apply §506(a)(2) to Chapter11, corporate debtors or land."
+        },
+        {
+          "id": "bank-ch6-valuation-506a2-e2",
+          "type": "rule",
+          "title": "Consumer household property: retail merchant price considering age/condition",
+          "page": "Ch.6 §B / Postscript Rash",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "Second sentence §506(a)(2): individual Ch7/13 personal property acquired personal/family/household use uses price retail merchant would charge for that kind considering age/condition at time valued.",
+          "laymanExplanation": "Family car is based on used-car retail price in actual condition, not auction price.",
+          "legalExplanation": "Book characterizes rule as largely foreclosing Rash footnote6 downward adjustments for consumer goods.",
+          "examApplication": "For Problem6.4 family SUV check §722 redemption or Ch13 treatment and 910 rule.",
+          "examTrap": "Do not value 2-year-old car at original new-car price."
+        },
+        {
+          "id": "bank-ch6-valuation-506a2-e3",
+          "type": "rule",
+          "title": "Business-use personal property: replacement less certain extras",
+          "page": "Ch.6 §B / Postscript Rash",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "First sentence §506(a)(2) covers individual Chapter7/13 personal property acquired for business purposes: replacement value at petition, no costs-of-sale/marketing deduction, but potential deductions for warranties, storage, reconditioning not received.",
+          "laymanExplanation": "Delivery van can be valued for replacement but needn't pay for dealer services borrower won't receive.",
+          "legalExplanation": "Differentiates household retail rule from business-use rule; footnote6 adjustments still potentially relevant except selling costs.",
+          "examApplication": "Take stated $15k retail, $500 selling, $1k warranty/recondition as distinct data.",
+          "examTrap": "Do not automatically strip down to foreclosure value just because business use."
+        },
+        {
+          "id": "bank-ch6-valuation-506a2-e4",
+          "type": "rule",
+          "title": "General Rash when Chapter11, nonindividual debtor or land",
+          "page": "Ch.6 §B / Postscript Rash",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "If any condition of §506(a)(2) fails—Chapter11 case, corporation/partnership debtor, or realty—apply purpose/use-driven Rash §506(a)(1) analysis; footnote6 deductions may still be relevant.",
+          "laymanExplanation": "Business in Chapter11 keeps warehouse: value depends plan's actual proposed use, not household-car rule.",
+          "legalExplanation": "Source organizes three valuation tracks with caveat different factual settings may affect appropriate benchmark.",
+          "examApplication": "Construct scope tree before arithmetic.",
+          "examTrap": "Do not apply consumer retail mandate to corporate Chapter11 tractor merely because individual operates it."
+        },
+        {
+          "id": "bank-ch6-valuation-506a2-e5",
+          "type": "rule",
+          "title": "§722 redemption may use §506(a)(2) valuation",
+          "page": "Ch.6 §B / Postscript Rash",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "Statute applies individual Chapter7 personal goods valuation for §722 lump-sum redemption as well as Ch13 cramdown; eligible redemption property must independently satisfy §722.",
+          "laymanExplanation": "Pay one cash amount equal to secured claim value to keep exempt/abandoned household item.",
+          "legalExplanation": "Article's purpose-sensitive valuation superseded in specific instances; distinguish amount from eligibility.",
+          "examApplication": "For 6.4(a/e) compare household and business purposes both §506(a)(2) first sentence but §722 availability different.",
+          "examTrap": "Valuation statute alone doesn't make business-use collateral redeemable under §722."
+        },
+        {
+          "id": "bank-ch6-valuation-506a2-e6",
+          "type": "rule",
+          "title": "Chapter13 910-day PMSI vehicle hanging paragraph may displace §506",
+          "page": "Ch.6 §B / Postscript Rash",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "For debtor's personal-use motor vehicle purchase money debt incurred within 910 days before bankruptcy (and qualifying other property within one year), hanging paragraph after §1325(a)(9) removes §506 valuation for §1325(a)(5) treatment, preventing conventional stripdown when retaining car.",
+          "laymanExplanation": "If you financed family car recently, Chapter13 may require paying whole outstanding loan even if market worth less.",
+          "legalExplanation": "Book discusses one-year other-goods rule and §1325(a)(5) anti-bifurcation; details in Part C and Wright.",
+          "examApplication": "Compare May2018 acquisition with May2020 and May2021 filing; case's relevant dates are debt-incurrence and filing.",
+          "examTrap": "910-day anti-stripdown is specifically Chapter13; not automatically Chapter7 redemption ban."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-problem-6-4",
+      "title": "B. Problem 6.4(a)–(f): Suburban Family/Business Valuation (Unsolved)",
+      "chapterGroup": "bank-ch6",
+      "description": "Original six hypotheticals with purchase, filing chapter/timing and value components.",
+      "entries": [
+        {
+          "id": "bank-ch6-problem-6-4-e1",
+          "type": "rule",
+          "title": "Problem 6.4 decision tree (no solutions)",
+          "page": "Ch.6 §B Problem 6.4",
+          "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+          "summary": "For each (a)–(f) first check bankruptcy chapter, whether §722 redemption or §1325 retention, family/business acquisition, petition timing measured against 910 days, then §506(a)(2) consumer retail vs business-use adjustment vs Rash.",
+          "laymanExplanation": "Same SUV yields different legal prices because different chapters and purposes.",
+          "legalExplanation": "Do not calculate outcome from $12k foreclosure until ruling out legal standard; separate $500 selling and $1k warranty components.",
+          "examApplication": "Write inputs: 2018 purchase, 2020 vs 2021 petition, $18k debt, $12k foreclosure, $15k retail components.",
+          "examTrap": "Keep answers to all six original questions blank until user's attempt."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch6-p6-4-a",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Problem 6.4(a)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+      "prompt": "Debtor buys Chevrolet Suburban May 1, 2018, financed by $25,000 PMSI loan; debt outstanding $18,000 on initial May1 2020 filing. Suburban foreclosure value $12,000; like-model retail $15,000, including $500 selling costs and $1,000 warranties/reconditioning. Initially purchased for family use. Debtor files Chapter7 May1 2020 and seeks §722 redemption. Find amount/eligibility; leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-4-b",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Problem 6.4(b)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+      "prompt": "Debtor buys Chevrolet Suburban May 1, 2018, financed by $25,000 PMSI loan; debt outstanding $18,000 on initial May1 2020 filing. Suburban foreclosure value $12,000; like-model retail $15,000, including $500 selling costs and $1,000 warranties/reconditioning. Initially purchased for family use. Instead files Chapter13 May1 2020, retains car over creditor objection. Determine principal plan must pay on secured claim (including hanging paragraph timing); leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-4-c",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Problem 6.4(c)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+      "prompt": "Debtor buys Chevrolet Suburban May 1, 2018, financed by $25,000 PMSI loan; debt outstanding $18,000 on initial May1 2020 filing. Suburban foreclosure value $12,000; like-model retail $15,000, including $500 selling costs and $1,000 warranties/reconditioning. Initially purchased for family use. Instead files Chapter13 May1 2021, retains car over objection. Distinguish 910-day cutoff; leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-4-d",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Problem 6.4(d)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+      "prompt": "Debtor buys Chevrolet Suburban May 1, 2018, financed by $25,000 PMSI loan; debt outstanding $18,000 on initial May1 2020 filing. Suburban foreclosure value $12,000; like-model retail $15,000, including $500 selling costs and $1,000 warranties/reconditioning. Initially purchased for family use. Instead of family use, Suburban was acquired for BUSINESS use, files Chapter13 May1 2020 retains car. Determine plan principal and valuation standard; leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-4-e",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Problem 6.4(e)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+      "prompt": "Debtor buys Chevrolet Suburban May 1, 2018, financed by $25,000 PMSI loan; debt outstanding $18,000 on initial May1 2020 filing. Suburban foreclosure value $12,000; like-model retail $15,000, including $500 selling costs and $1,000 warranties/reconditioning. Initially purchased for family use. Instead of family use, Suburban acquired for BUSINESS use; files Chapter7 May1 2020 and seeks §722 redemption. Determine feasibility/amount issue; leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-4-f",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Problem 6.4(f)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied casebook, Chapter 6 Secured Claims §B (Rash, §506(a)(2), original Problem 6.4); section locators not printed page estimates",
+      "prompt": "Debtor buys Chevrolet Suburban May 1, 2018, financed by $25,000 PMSI loan; debt outstanding $18,000 on initial May1 2020 filing. Suburban foreclosure value $12,000; like-model retail $15,000, including $500 selling costs and $1,000 warranties/reconditioning. Initially purchased for family use. Like (c) Chapter13 May1 2021 family use, except filing is CHAPTER11; determine secured claim plan principal via Rash/general valuation, leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
