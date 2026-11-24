@@ -1,0 +1,404 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+  "coverage": {
+    "chapter": 2,
+    "scope": "Means-test deductions and all professor-assigned calculation methods, rebuttal, standing, sanctions, abuse without presumption; Problems 2.8–2.14",
+    "notice": "All numeric IRS standards, 2020 medians, 2021 indexed thresholds are archived textbook examples, not current filing advice."
+  },
+  "topics": [
+    {
+      "id": "bank-ch2-means-expenses",
+      "title": "D.2(b)(iii) — Deductible Living, Secured, Priority and Administrative Expenses",
+      "description": "IRS National/Local/Other standards, housing and transportation, Ransom overview, secured debt double counting, support arrears, charities and problem drills.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-means-expenses-e1",
+          "type": "rule",
+          "title": "Four categories of §707(b)(2) deductions",
+          "page": "Chapter 2 § D.2.b.iii (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "CMI reduced by IRS living allowances; scheduled secured payments; priority claim payments; and qualifying Chapter 13 administrative expense allowance; plus limited additional expenses.",
+          "laymanExplanation": "Don't take paycheck gross as spendable income—subtract allowed living costs and creditor payments under statute.",
+          "legalExplanation": "§707(b)(2)(A)(ii)-(iv), Official Form B122A-2. Distinguish formula deductions from debtor's preferred actual spending.",
+          "examApplication": "Create expenses worksheet; tag each deduction into exactly one statutory bucket.",
+          "examTrap": "No automatic deduction for every expense actually incurred."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e2",
+          "type": "rule",
+          "title": "IRS National, Local and Other Necessary Standards",
+          "page": "Chapter 2 § D.2.b.iii(a) (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "National Standards cover food/clothing/household and healthcare; Local Standards cover region/county housing and transportation; Other Necessary Expenses use actual reasonable/necessary spending.",
+          "laymanExplanation": "Groceries use national table, rent uses county table, some health/child care uses real documented bills.",
+          "legalExplanation": "Statute's exact sentence: National/Local 'applicable amounts specified', Other Necessary 'actual expenses'.",
+          "examApplication": "Ask expense category, household size, geography, vehicle count, actual necessary cost.",
+          "examTrap": "Never treat 'National Standards' values as individually actual spending limits."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e3",
+          "type": "rule",
+          "title": "Book's national table example — family of four",
+          "page": "Chapter 2 § D.2.b.iii(a) (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "2020 table for four under 65: food $947, housekeeping $71, apparel $251, personal care $88, miscellaneous $383, healthcare $220; total $1,960 per month.",
+          "laymanExplanation": "Illustrates how a standard amount is built from categories; these are book-era reference values.",
+          "legalExplanation": "Formula example sum = 947 + 71 + 251 + 88 + 383 + 220 = 1,960; not a stand-alone current IRS standard.",
+          "examApplication": "Use if professor explicitly tests the 2020 casebook numbers, not filing in 2026.",
+          "examTrap": "Even within book, applicable other deduction may require documented excess."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e4",
+          "type": "rule",
+          "title": "Local housing and county differences",
+          "page": "Chapter 2 § D.2.b.iii(a) (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Local Standard housing allowances have nonmortgage and mortgage/rent parts; applicable county/family size matters at order for relief. 2020 Cook County family four $2,565 vs DuPage $2,825.",
+          "laymanExplanation": "Across neighboring counties the table can permit $260 extra living expense each month.",
+          "legalExplanation": "Historic book example: monthly difference 2,825−2,565=260, times 60 = $15,600, illustrating potential threshold changes.",
+          "examApplication": "If debtor moves, determine proper filing venue independently from applicable standards county.",
+          "examTrap": "Do not infer moving just before filing cures venue, domicile or bad-faith issues."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e5",
+          "type": "rule",
+          "title": "Transportation operating, ownership and public transit",
+          "page": "Chapter 2 § D.2.b.iii(a) (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Separate vehicle operating costs (regional; up to 2 vehicles), ownership loan/lease costs (national standardized allowance where applicable) and public transportation costs; Ransom bars ownership deduction when vehicle debt free.",
+          "laymanExplanation": "Owning car costs gas even if paid off, but an owned outright car cannot claim a loan payment standard.",
+          "legalExplanation": "Book 2020 examples: $521 ownership table, $188 Chicago operating one vehicle, $224 transit; old reference amounts only. Ransom merits fully analyzed later.",
+          "examApplication": "Classify whether loan/lease payment still exists, cost of operation, 1 or 2 cars.",
+          "examTrap": "Do not conflate car operating allowance with ownership allowance."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e6",
+          "type": "rule",
+          "title": "Ransom's applicability principle preview",
+          "page": "Chapter 2 § D.2.b.iii(a) (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "A debtor with no loan/lease on owned car cannot take Local Standards ownership deduction because no corresponding expense applicable; where some loan exists but below specified amount, case left issue open.",
+          "laymanExplanation": "Car paid off? Still costs gas, but no car-loan deduction.",
+          "legalExplanation": "Ransom 562 U.S.61 (2011), Chapter 13 applying §707(b) expense formula; holding narrower than full actual-spend methodology.",
+          "examApplication": "In Problem 2.9(c) and free-and-clear scenarios identify required distinction.",
+          "examTrap": "Not a holding that all IRS deductions equal debtor's exact receipts."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e7",
+          "type": "rule",
+          "title": "Avoid double counting car/mortgage payments",
+          "page": "Chapter 2 § D.2.b.iii(a) (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Book's prevailing approach subtracts overlapping secured debt payment from Local Standards ownership/housing component and separately deducts secured payment; cannot take both in full.",
+          "laymanExplanation": "Car ownership table $521, loan payment $371: use $150 net standard plus $371 secured, total $521, not $892.",
+          "legalExplanation": "Formula $521−$371=$150; $150+$371=$521. Competing scholarly view allowing both rejected in book as minority; Form B122A-2 netting method.",
+          "examApplication": "For car payment question calculate standard component and secured debt component carefully.",
+          "examTrap": "If secured payment exceeds standard, apply Form's proper treatment rather than allow negative standard deduction mechanically."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e8",
+          "type": "rule",
+          "title": "Other Necessary Expenses: actual and necessary",
+          "page": "Chapter 2 § D.2.b.iii(a) (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Allowable actual expenses may include taxes, mandatory job retirement, term life, childcare, employment training, child support, specified healthcare, disability care, telecommunications; court scrutinizes necessity.",
+          "laymanExplanation": "Required tax/childcare bill is different from voluntarily buying luxury subscriptions or retirement savings.",
+          "legalExplanation": "§707(b)(2)(A)(ii) and IRS Manual limit categories to health/welfare/earning income. Statute separately allows reasonable insurance and certain charitable deductions.",
+          "examApplication": "Problem 2.8: income tax withholding, term life, mandatory 8% state retirement, voluntary 401(k), United Way.",
+          "examTrap": "Voluntary retirement deductions aren't automatically deductible because paycheck withheld them."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e9",
+          "type": "rule",
+          "title": "Secured debt deduction §707(b)(2)(A)(iii)",
+          "page": "Chapter 2 § D.2.b.iii(b) (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Add contractual scheduled secured payments over 60 months plus allowable arrearage cure required for necessary property, then divide by 60 for average monthly secured amount.",
+          "laymanExplanation": "Count how much will be due in next 5 years on mortgage/car and spread over 60 months.",
+          "legalExplanation": "Formula Secured monthly = [sum debt payments next 60 months + qualifying cure arrearages]/60; classify actual contractual secured debts distinctly.",
+          "examApplication": "Problem 2.9 Ferrari 60 payments $900 vs $300 vs paid off; Problem 2.11 support priority is different bucket.",
+          "examTrap": "Debt taken just before bankruptcy to lower test can trigger bad faith review under §707(b)(3)."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e10",
+          "type": "rule",
+          "title": "Priority unsecured claims deducted over 60 months",
+          "page": "Chapter 2 § D.2.b.iii(c) (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Priority domestic support and taxes under §507 generally funded in full under Chapter 13; means test allows total priority debt payments divided by 60.",
+          "laymanExplanation": "Unpaid child support claim can take priority over ordinary credit card bills.",
+          "legalExplanation": "§707(b)(2)(A)(iv) monthly amount = priority balance/60. Book Problem 2.11 has 12×$3k = $36k arrears.",
+          "examApplication": "Check accrued arrears separately from current child support payments and standard expense categorization.",
+          "examTrap": "Do not count same support payment twice in both necessary expense and priority claim deduction."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e11",
+          "type": "rule",
+          "title": "Chapter 13 administrative expenses",
+          "page": "Chapter 2 § D.2.b.iii(d) (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "If debtor qualifies for Chapter 13, may deduct district-specific actual Chapter 13 trustee expenses subject to statutory cap 10% of projected plan payments.",
+          "laymanExplanation": "Plan administrator also gets paid, so payment capacity estimate recognizes that cost.",
+          "legalExplanation": "§707(b)(2)(A)(ii)(III); 2020 Illinois sample district percentages in text (7.6%,8.4%,6.3%) are historical.",
+          "examApplication": "Find applicable district, plan expenses and allowed maximum.",
+          "examTrap": "Not an automatic 10% deduction for everyone, including ineligible companies."
+        },
+        {
+          "id": "bank-ch2-means-expenses-e12",
+          "type": "rule",
+          "title": "Charitable contributions and means-test limits",
+          "page": "Chapter 2 § D.2.b.iii (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "§707(b)(1) restricts factoring certain charitable monetary gifts into abusive-filing dismissal. Textbook illustrates $150/month donation reducing $250 net to $100 net, then ×60 = $6,000 rather than $15,000.",
+          "laymanExplanation": "Eligible real donations can change what debtor has left to pay, but law and proof still govern.",
+          "legalExplanation": "Casebook notes tension between specific statutory carveouts and Form B122A-2 entry; avoid portraying example as universal automatic deduction for any gift.",
+          "examApplication": "Use book's historical example only; examine charity qualification, amount, evidence.",
+          "examTrap": "Don't apply hypothetical contribution as universal exemption from all fraud concerns."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-means-calculation",
+      "title": "D.2(b)(iv) — Detailed 60-Month Presumption Calculation",
+      "description": "Step-by-step nested-threshold formula; three tiers and $136.25/$227.50 textbook-era boundaries, with worked illustrative examples distinct from unanswered problems.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-means-calculation-e1",
+          "type": "concept",
+          "title": "Step-by-step analytical algorithm",
+          "page": "Chapter 2 § D.2.b.iv (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "(1) Determine eligibility for §707(b), above-median status; (2) compute CMI; (3) deduct allowed monthly expenses; (4) multiply net by 60; (5) compare to min[max($8,175, 25% × nonpriority unsecured), $13,650]; (6) if presumed, check special-circumstances rebuttal.",
+          "laymanExplanation": "Five-year ability to repay must meet a sliding trigger built from how much general unsecured debt exists.",
+          "legalExplanation": "All threshold dollars taken from 2021 text (indexed since); §707(b)(2)(A)(i) governs correct values on filing date.",
+          "examApplication": "Always show numeric expressions and whether >= threshold; answer calculation subparts from assigned problem independently.",
+          "examTrap": "At equality test triggers presumption; do not use > only."
+        },
+        {
+          "id": "bank-ch2-means-calculation-e2",
+          "type": "concept",
+          "title": "Three textbook tiers by size of general unsecured debt",
+          "page": "Chapter 2 § D.2.b.iv (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "2021-book boundaries: under $32,700 debt → $8,175 trigger; between $32,700 and $54,600 → 25% debt trigger; above $54,600 → $13,650 trigger.",
+          "laymanExplanation": "Small debt low cutoff, medium debt percent cutoff, large debt maximum cutoff.",
+          "legalExplanation": "Derived: $8,175 ÷ 0.25 = $32,700; $13,650 ÷ 0.25 = $54,600.",
+          "examApplication": "State tier and derive threshold before comparing 60-month capacity.",
+          "examTrap": "These cutoffs are as printed in 2021 book, not asserted as current."
+        },
+        {
+          "id": "bank-ch2-means-calculation-e3",
+          "type": "concept",
+          "title": "Illustrative calculation — general debt $40k, monthly net $180",
+          "page": "Chapter 2 § D.2.b.iv (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Illustration (not a textbook problem): 25% × 40,000 = $10,000; max(8,175,10,000)=$10k; min(10k,13,650)=$10k; 60×180=$10,800 → reaches textbook-era trigger. This illustrates formula, does not answer Problem 2.12.",
+          "laymanExplanation": "Monthly excess $180 looks small, but over 5 years it's $10,800, more than this example's $10k trigger.",
+          "legalExplanation": "Always use nested lower and upper statutory thresholds; illustrative unsecured debt/CMI figures are assistant-created as a worked tutorial, not assigned facts.",
+          "examApplication": "Adapt calculator to numbers professor gives.",
+          "examTrap": "Don't treat illustrative invented practice figures as excerpt from casebook."
+        },
+        {
+          "id": "bank-ch2-means-calculation-e4",
+          "type": "concept",
+          "title": "Monthly floor and ceiling, book's 2020 thresholds",
+          "page": "Chapter 2 § D.2.b.iv (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Lowest threshold $8,175/60=$136.25 per month; highest $13,650/60=$227.50. Under $136.25 never presumed by formula; $227.50 or above always presumed by formula for above-median qualifying debtor; intermediate depends on unsecured debt.",
+          "laymanExplanation": "Under ~$136/month: math screen usually safe. Over ~$228/month: old formula always flags. In middle compare debt size.",
+          "legalExplanation": "When a debtor qualifies for §707(b)(7) below-median harbor, means-test presumption not triggered regardless of monthly net.",
+          "examApplication": "Spot eligibility BEFORE using numeric floor/ceiling.",
+          "examTrap": "'Never presumed' ≠ no discretionary §707(b)(3) dismissal."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-means-rebuttal",
+      "title": "D.2(b)(v–vii) — Special Circumstances, Motions, Burdens and Lawyer Sanctions",
+      "description": "§707(b)(2)(B) rebuttal, §704(b) trustee review, standing constraints and Rule 9011/§707(b)(4) duties.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-means-rebuttal-e1",
+          "type": "rule",
+          "title": "§707(b)(2)(B): special-circumstances rebuttal",
+          "page": "Chapter 2 § D.2.b.v (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Documented necessary adjustment to expenses or income with no reasonable alternative can rebut presumption; examples serious medical condition, activated military service; sworn detailed statements and sufficient changed formula required.",
+          "laymanExplanation": "Recent layoff or serious health cost can justify deviating from past averages, but must prove and document.",
+          "legalExplanation": "List each adjustment, supporting materials, reason unavoidable, recalculated outcome and sworn attestation.",
+          "examApplication": "If presumption applies, burden on debtor to demonstrate qualifying adjusted values.",
+          "examTrap": "Not enough to allege generic hardship; rebuttal must flip formula below trigger."
+        },
+        {
+          "id": "bank-ch2-means-rebuttal-e2",
+          "type": "rule",
+          "title": "US Trustee §704(b) presumption review and required statement",
+          "page": "Chapter 2 § D.2.b.vi (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "US trustee examines means statement; under §704(b)(1) typically files presumption statement within 10 days after first creditors meeting; where presumption and relevant income thresholds meet, ordinarily must move to dismiss/convert within 30 days of statement or explain why not.",
+          "laymanExplanation": "Federal reviewer has specific check-and-report deadlines after creditor meeting.",
+          "legalExplanation": "Book describes separate creditor notices, §342(d) and §704(b)(1).",
+          "examApplication": "Lay out whose motion, how timely and what documents start review clock.",
+          "examTrap": "Do not equate clerk's 10-day notice with US Trustee's postmeeting 10-day deadline."
+        },
+        {
+          "id": "bank-ch2-means-rebuttal-e3",
+          "type": "rule",
+          "title": "Who may move under §707(b)",
+          "page": "Chapter 2 § D.2.b.vi (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Above-median debtors: court, US trustee or party in interest may generally seek abuse dismissal subject to statutory standing; below-median: §707(b)(7) bars means-test motions and §707(b)(6) restricts general-abuse motions to court/US trustee/administrator.",
+          "laymanExplanation": "An ordinary creditor cannot always file a means-test abuse motion against a low-income debtor.",
+          "legalExplanation": "Check §707(b)(6),(7) and debtors' household income; book highlights distinctions and historical procedural account.",
+          "examApplication": "Always identify proper movant and legal ground before merits.",
+          "examTrap": "A creditor's factual concern doesn't give standing under every subsection."
+        },
+        {
+          "id": "bank-ch2-means-rebuttal-e4",
+          "type": "rule",
+          "title": "§707(b)(4) and Bankruptcy Rule 9011 counsel certification",
+          "page": "Chapter 2 § D.2.b.vii (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Attorney signing Chapter 7 petition certifies reasonable investigation, factual support and no knowing incorrect schedules; frivolous/abusive filings may trigger expense-shifting and civil penalties.",
+          "laymanExplanation": "Lawyer must actually investigate debtor finances before signing, not rubber-stamp client story.",
+          "legalExplanation": "§707(b)(4)(C),(D), Rule 9011; casebook notes cost increases and potentially chilling close cases.",
+          "examApplication": "Problem 2.5 planned cessation of jobs/car debt raises professional diligence and candor.",
+          "examTrap": "An abuse dismissal does not automatically mean counsel will be sanctioned without separate findings."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-abuse-without-presumption",
+      "title": "D.2(c) — Bad Faith and Totality: Abuse Even After Passing Means Test",
+      "description": "§707(b)(3), business-debt §707(a) dilemma, future income, extravagant debt, timing and Problems 2.13–2.14.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-abuse-without-presumption-e1",
+          "type": "rule",
+          "title": "§707(b)(3) bad faith OR totality of circumstances",
+          "page": "Chapter 2 § D.2.c (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "If numerical presumption does not arise or is rebutted, judge still considers filing bad faith or financial totality to determine abuse of Chapter 7 by consumer debtor.",
+          "laymanExplanation": "Math isn't a license to game the bankruptcy system; judge can examine likely future earning and luxury spending.",
+          "legalExplanation": "Majority courts consider ability to pay in totality despite passing mean test; treat distinct textual routes.",
+          "examApplication": "Ask if debtor's income jumped after petition or large recently incurred luxury mortgage artificially lowered net.",
+          "examTrap": "Some commentators argue means test exclusive for can-pay debtors, but book says majority rejected."
+        },
+        {
+          "id": "bank-ch2-abuse-without-presumption-e2",
+          "type": "rule",
+          "title": "Below-median historically versus high future capacity",
+          "page": "Chapter 2 § D.2.c (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "Low six-month average can give safe harbor yet new lucrative job may indicate future repayment ability for totality purposes.",
+          "laymanExplanation": "A freshly hired worker may have low past pay but substantial future income.",
+          "legalExplanation": "Casebook references In re Henebury dismissing in context of new earnings despite below-median past.",
+          "examApplication": "For Problem 2.13(a) compare postfiling teaching income $2,800 and original negative net −$1,100 to new positive $1,700.",
+          "examTrap": "Don't substitute new salary into historical formula; discuss separate §707(b)(3)."
+        },
+        {
+          "id": "bank-ch2-abuse-without-presumption-e3",
+          "type": "rule",
+          "title": "Luxury mortgage and good faith inquiry",
+          "page": "Chapter 2 § D.2.c (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "High secured expense can permit formula pass, yet huge housing expense, lifestyle and when debt incurred can be assessed for bad faith/totality, with conflicting fact-dependent outcomes.",
+          "laymanExplanation": "Borrowing for a million-dollar house might reduce test capacity but judge may think budget too extravagant.",
+          "legalExplanation": "Book contrasts Durczynski (dismissal) and Jensen (no dismissal) to show variability.",
+          "examApplication": "Problem 2.13(b) compare 2003 vs 2007 house construction and $6k monthly mortgage after pay cut.",
+          "examTrap": "Not every large mortgage equals abusive case."
+        },
+        {
+          "id": "bank-ch2-abuse-without-presumption-e4",
+          "type": "rule",
+          "title": "Primarily business debt: §707(a) bad-faith question",
+          "page": "Chapter 2 § D.2.c (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+          "summary": "§707(b) excludes primarily nonconsumer Chapter 7 debt; courts disagree whether bad faith qualifies as 'cause' under §707(a), illustrated by In re Piazza case facts.",
+          "laymanExplanation": "The law still may allow dismissal of a business-debt debtor despite no consumer means test, depending authority.",
+          "legalExplanation": "Piazza facts: $319k business debt, $161k judgment plus interest, years refusing to pay despite $10k household earnings and transfers, petition one day before collection disclosure deadline. Full opinion not provided.",
+          "examApplication": "Problem 2.14 asks both legal standard and application; avoid resolving as a study problem.",
+          "examTrap": "Don't say Piazza a full assigned case excerpt or that all circuits apply same §707(a) test."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch2-p2-8",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Problem 2.8",
+      "kind": "Casebook Problem 2.8 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+      "prompt": "Which paycheck deductions count as means-test expenses? (a) income tax withholding; (b) term life insurance; (c) mandatory state retirement contribution 8%; (d) voluntary 401(k) contribution; (e) United Way donation. Examine correct category with no answers.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-9",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Problem 2.9",
+      "kind": "Casebook Problem 2.9 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+      "prompt": "Ferrari car ownership deduction under book's means test in three cases: (a) 60 × $900 monthly payments; (b) 60 × $300; (c) free and clear. Decide with secured and ownership allowance distinct, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-10",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Problem 2.10",
+      "kind": "Casebook Problem 2.10 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+      "prompt": "Debtor and spouse: two adult unemployed children and 80-year-old mother move in before Chapter 7. Determine National Standards household size and allowance, and any missing dependency facts, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-11",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Problem 2.11",
+      "kind": "Casebook Problem 2.11 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+      "prompt": "Alimony and child support obligation $3,000/month unpaid for one year, resulting in $36,000 arrearages at filing. Determine priority-claim means-test deduction and calculation, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-12",
+      "topicId": "bank-ch2-means-calculation",
+      "title": "Problem 2.12",
+      "kind": "Casebook Problem 2.12 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+      "prompt": "Casebook means test: debtor has $28k nonpriority unsecured debt, $5,150 CMI, allowable deductions $5k/month. Calculate 60-month capacity and source-era threshold; do not provide the outcome.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-13",
+      "topicId": "bank-ch2-abuse-without-presumption",
+      "title": "Problem 2.13",
+      "kind": "Casebook Problem 2.13 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+      "prompt": "Two case studies under §707(b)(3): (a) married couple with 3 children CMI $8k above median, allowed net −$1,100, wife takes $2,800/month teaching job just after filing giving new $1,700 net and potential 100% Chapter13 repayment, vary below median; (b) $1m home built 2003, $1.1m mortgage, $900k value, $6k monthly housing, pilot pay cut, compare if built 2007. Determine casebook outcomes without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-14",
+      "topicId": "bank-ch2-abuse-without-presumption",
+      "title": "Problem 2.14",
+      "kind": "Casebook Problem 2.14 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.2.b(iii–vii), D.2.c; Effross Fall 2026 general syllabus pp.79–170",
+      "prompt": "Primarily business-debt Chapter7 case; In re Piazza fact pattern: $319k debts, much business guarantee including unpaid judgment $161k plus $48k interest, $10k+/month family earnings, mortgage gifts and spouse 401(k), filed one day before court-mandated discovery. Decide (a) whether bad faith is §707(a) cause and (b) whether case should be dismissed. Unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
