@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+  "coverage": {
+    "chapter": 3,
+    "scope": "B. Inclusions: Harrell revocable expectations, Segal contingent interests, Schmitz postpetition federal fishing quotas",
+    "note": "Segal is described in textbook discussion, not a full assigned judicial opinion excerpt."
+  },
+  "topics": [
+    {
+      "id": "bank-ch3-harrell",
+      "title": "B. In re Harrell — Season Tickets and Revocable Renewal Expectations",
+      "chapterGroup": "bank-ch3",
+      "description": "Ninth Circuit; Phoenix Suns renewal privileges under Arizona law and conflict with broad federal property concept.",
+      "entries": [
+        {
+          "id": "bank-ch3-harrell-e1",
+          "type": "case",
+          "title": "In re Harrell, 73 F.3d 218 (9th Cir. 1996)",
+          "page": "Ch. 3 § B / Harrell opinion (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "No. Under Arizona law, unguaranteed chance of renewal is merely a speculative expectancy, not a legally enforceable property right; Ninth Circuit affirmed district court's exclusion of renewal opportunity.",
+          "laymanExplanation": "Where creditor/debtor has only unprotected revocable renewal expectancy and other party retains absolute discretion, state law may leave no debtor property right for §541(a)(1) estate.",
+          "legalExplanation": "Ninth Circuit applied Butner and Arizona decisions Gannett/Whiteco, emphasizing holders cannot compel Suns to renew even if nearly always offered. Transferable tickets for existing season differ from right to renew new contract; possible market price for chance doesn't create enforceable entitlement. Court distinguished Pennsylvania precedent permitting Steelers season-ticket renewal sale.",
+          "examApplication": "Compare current season tickets versus next year's privilege, Suns terms, applicable AZ law, Pennsylvania NFL case distinction.",
+          "examTrap": "Do not claim existing fully paid ticket or currently granted playoff ticket was categorically excluded; decision specifically concerns renewal opportunity.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpt in the uploaded Chapter 3",
+          "facts": "Trustee sought to sell debtor's Phoenix Suns season and playoff tickets and opportunity to renew future season tickets. Suns notices each year described renewal as a revocable privilege and denied any guarantee; team's discretionary renewal power remained. Bankruptcy judge allowed sale; district court rejected renewal privilege as state-law property and trustee appealed.",
+          "issue": "Is a highly probable but contractually revocable opportunity to renew future Phoenix Suns season tickets property of the estate under §541(a)(1)?",
+          "holding": "No. Under Arizona law, unguaranteed chance of renewal is merely a speculative expectancy, not a legally enforceable property right; Ninth Circuit affirmed district court's exclusion of renewal opportunity.",
+          "reasoning": "Ninth Circuit applied Butner and Arizona decisions Gannett/Whiteco, emphasizing holders cannot compel Suns to renew even if nearly always offered. Transferable tickets for existing season differ from right to renew new contract; possible market price for chance doesn't create enforceable entitlement. Court distinguished Pennsylvania precedent permitting Steelers season-ticket renewal sale.",
+          "rule": "Where creditor/debtor has only unprotected revocable renewal expectancy and other party retains absolute discretion, state law may leave no debtor property right for §541(a)(1) estate."
+        },
+        {
+          "id": "bank-ch3-harrell-e2",
+          "type": "rule",
+          "title": "Arizona Gannett rule: expectation is not legal entitlement",
+          "page": "Ch. 3 § B / Harrell (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Even longstanding practice of renewing leases or tickets doesn't transform a landlord/team's uncommitted intention into presently enforceable renewal interest.",
+          "laymanExplanation": "'They always renew me' is not the same as 'they must renew me.'",
+          "legalExplanation": "If counterparty can decline each year, renewal's value may be speculative rather than legal property under applicable nonbankruptcy law.",
+          "examApplication": "Ask what written agreement promises and whether holder can compel renewal.",
+          "examTrap": "Economic probability and legal enforceability separate."
+        },
+        {
+          "id": "bank-ch3-harrell-e3",
+          "type": "rule",
+          "title": "Why Harrell and Chicago Board of Trade are in tension",
+          "page": "Ch. 3 § B / Harrell and Johnson (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Johnson looked past Illinois nonproperty label to find transferable economic seat, but Harrell relied heavily on Arizona's denial of enforceable right; court treats expectations differently from existing legally transferable membership.",
+          "laymanExplanation": "A seat that can be sold under conditions is not the same as an offer for seats that nobody must make.",
+          "legalExplanation": "Analytical reconciliation: state law sets whether enforceable underlying interest exists; federal definition decides inclusion, not state label. Casebook deliberately asks whether Harrell is faithful to Johnson.",
+          "examApplication": "In compare-and-contrast essay argue both why Harrell fits Butner and why Johnson could imply broader property test.",
+          "examTrap": "Neither case says market value alone is conclusive in every circumstance."
+        },
+        {
+          "id": "bank-ch3-harrell-e4",
+          "type": "rule",
+          "title": "§541(c)(1)(A) discussion: restrictions on transfer",
+          "page": "Ch. 3 § B / Harrell questions (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "The book asks whether anti-transfer clauses might be overridden by §541(c)(1)(A), in contrast to situation where debtor had no underlying enforceable right at all.",
+          "laymanExplanation": "Clause restricting transfer of an existing contract is different from lack of contract to renew at all.",
+          "legalExplanation": "§541(c)(1) generally brings interests into estate despite provisions restricting transfer, but does not fabricate a nonexistent substantive right.",
+          "examApplication": "If there is some renewal right subject only to no-assignment term, compare §541(c)(1) with pure revocable discretion.",
+          "examTrap": "Don't automatically equate nonassignable interest to nonproperty."
+        },
+        {
+          "id": "bank-ch3-harrell-e5",
+          "type": "concept",
+          "title": "If trustee sold 'renewal opportunity,' what could purchaser enforce?",
+          "page": "Ch. 3 § B / Harrell questions (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Question remains what legal rights a buyer would receive if Suns can refuse renewal; Harrell majority says none against Suns.",
+          "laymanExplanation": "Paying for a chance does not give buyer a guaranteed seat next year.",
+          "legalExplanation": "This is casebook's policy/analytical question left for self-testing; no assigned problem answered.",
+          "examApplication": "Analyze enforceability rather than just sale price.",
+          "examTrap": "Avoid adding guaranteed contractual right to buyer without support."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch3-segal-rooted",
+      "title": "B. Segal v. Rochelle — The ‘Sufficiently Rooted’ Contingent-Interest Principle",
+      "chapterGroup": "bank-ch3",
+      "description": "Referenced Supreme Court case summarized by casebook, not a full brief; tax refund roots and postpetition conditions.",
+      "entries": [
+        {
+          "id": "bank-ch3-segal-rooted-e1",
+          "type": "rule",
+          "title": "Segal v Rochelle (1966) — prepetition losses and later tax refunds",
+          "page": "Ch. 3 § B / Segal discussion (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Debtors' federal income-tax loss-carryback refunds could not be claimed until tax year closed after filing, but filing-date prepetition tax payments and operative business losses were already present; Supreme Court treated claims as estate property.",
+          "laymanExplanation": "A refund check arrives later, but the meaningful tax payments and losses creating it had already occurred.",
+          "legalExplanation": "Casebook describes Supreme Court 'sufficiently rooted in prebankruptcy past' analysis, emphasizing present contingent interest despite later formal vesting.",
+          "examApplication": "For asset received after filing separate substantive origin from date cash/check delivered.",
+          "examTrap": "Segal discussion is NOT a full opinion excerpt in Chapter 3."
+        },
+        {
+          "id": "bank-ch3-segal-rooted-e2",
+          "type": "rule",
+          "title": "‘Rooted in prebankruptcy past’ is about substantive prepetition events",
+          "page": "Ch. 3 § B / Segal (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Uncertain future amount/date does not necessarily bar estate inclusion where all legally significant qualifying facts had occurred by petition, despite remaining formal conditions.",
+          "laymanExplanation": "All ingredients for refund are already in the bowl, even if IRS must wait for tax year to end.",
+          "legalExplanation": "Segal looks at tax law creation and content of refund interest, not just name on future check.",
+          "examApplication": "Draw timeline prepetition tax payments, losses, end of tax year, refund application and payment.",
+          "examTrap": "Don't collapse 'later receipt' into 'later created right'."
+        },
+        {
+          "id": "bank-ch3-segal-rooted-e3",
+          "type": "rule",
+          "title": "Segal and Schmitz: competing ways to view contingency",
+          "page": "Ch. 3 § B / Segal–Schmitz (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Segal's past losses had already set legal conditions for refund under existing law; Schmitz's future fishing allotment did not exist under any adopted regulation at filing.",
+          "laymanExplanation": "Existing lottery ticket with contingent prize differs from government creating a lottery after bankruptcy.",
+          "legalExplanation": "In Schmitz future legal enactment and discretionary award created right, not merely matured preexisting claim.",
+          "examApplication": "For contingent licenses ask whether law existed and debtor had legally cognizable application right at petition.",
+          "examTrap": "Having past work history that eventually affects award is not by itself debtor's estate property."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch3-schmitz",
+      "title": "B. In re Schmitz — Fishing Rights Created After Petition",
+      "chapterGroup": "bank-ch3",
+      "description": "Ninth Circuit full opinion on postpetition quota regulations and prefiling work history, contrast with Segal.",
+      "entries": [
+        {
+          "id": "bank-ch3-schmitz-e1",
+          "type": "case",
+          "title": "In re Schmitz, 270 F.3d 1254 (9th Cir. 2001)",
+          "page": "Ch. 3 § B / Schmitz opinion (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "No. No quota regulations or rights legally existed at filing; prepetition catch history was only expectancy that lawmakers might later create opportunities. Future rights govern postpetition fishing activity, not compensation for past work. Ninth Circuit reversed and remanded.",
+          "laymanExplanation": "Property under §541(a)(1) must be debtor's actual existing interest at commencement, not hoped-for interest dependent on postpetition new law; future rights reflecting work history not necessarily estate proceeds.",
+          "legalExplanation": "Federal fishery regulations defined rights; proposed rulemaking uncertain until finalized. Even if quota allocations referenced 1988–90 past catches, like current salary influenced by old education, connection doesn't make entire new earning opportunity prepetition property. Contingent-right cases had preexisting binding statutes/contracts; here legal creation itself postpetition. Fresh-start rationale supported debtor retaining rights.",
+          "examApplication": "Timeline: 1992 filing, Nov1993 rule, 1994 effective/application, Dec1996 certificates, 1997 sales. Test existence of qualifying law, required steps and nature as compensation vs prospect.",
+          "examTrap": "Holding is not that all postpetition receipts linked to prepetition services escape estate (compare Segal and Andrews).",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpt in the uploaded Chapter 3",
+          "facts": "Commercial Alaska fisherman caught halibut/sablefish 1988–90, filed Chapter 7 April 7, 1992 while proposed fisheries quota program merely under study. Commerce adopted final regulations Nov.1993 effective Jan.1994; Schmitz applied 1994 and got quota certificates Dec.1996; he sold allocations Jan.1997 for ~$44,360.50 and $2,205. Trustee sued to recover proceeds and revoke discharge; bankruptcy court/BAP treated quotas as rooted in prefiling catch history.",
+          "issue": "Were the federally created quota-share/individual-fishing-quota rights issued years after bankruptcy included in estate under §541(a)(1) because calculated from debtor's prepetition fishing history?",
+          "holding": "No. No quota regulations or rights legally existed at filing; prepetition catch history was only expectancy that lawmakers might later create opportunities. Future rights govern postpetition fishing activity, not compensation for past work. Ninth Circuit reversed and remanded.",
+          "reasoning": "Federal fishery regulations defined rights; proposed rulemaking uncertain until finalized. Even if quota allocations referenced 1988–90 past catches, like current salary influenced by old education, connection doesn't make entire new earning opportunity prepetition property. Contingent-right cases had preexisting binding statutes/contracts; here legal creation itself postpetition. Fresh-start rationale supported debtor retaining rights.",
+          "rule": "Property under §541(a)(1) must be debtor's actual existing interest at commencement, not hoped-for interest dependent on postpetition new law; future rights reflecting work history not necessarily estate proceeds."
+        },
+        {
+          "id": "bank-ch3-schmitz-e2",
+          "type": "rule",
+          "title": "The timing rule — regulations not adopted at filing",
+          "page": "Ch. 3 § B / Schmitz (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "An agency consideration or proposed rule is not a legal entitlement to benefit under a program that might not exist in that form; court noted comment and objections can prevent finalization.",
+          "laymanExplanation": "You can't own a fishing quota before government creates fishing quota rights.",
+          "legalExplanation": "At filing no final recommendation, notice of proposed rule or assurance program would be implemented as favorable to debtor.",
+          "examApplication": "For tax credit or subsidy not yet enacted, ask whether legislature created right before filing.",
+          "examTrap": "Agency discussing a plan for years ≠ vested entitlement."
+        },
+        {
+          "id": "bank-ch3-schmitz-e3",
+          "type": "rule",
+          "title": "Catch history serves future earning capacity rather than deferred compensation",
+          "page": "Ch. 3 § B / Schmitz (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Quota governed future fishing catches; past landing records used as metric for who may harvest, not an unpaid fee for historical fish already sold.",
+          "laymanExplanation": "Old resume gets you future job, but resume itself isn't owed salary from future employer.",
+          "legalExplanation": "Compare accrued commission/contingent contract payment earned before filing to privileges created later for future labor.",
+          "examApplication": "Distinguish property rights in prepetition goodwill from personal postpetition earning power.",
+          "examTrap": "Do not equate transferable quota's eventual economic value with property status 1992."
+        },
+        {
+          "id": "bank-ch3-schmitz-e4",
+          "type": "rule",
+          "title": "Distinguishing binding contingency contracts",
+          "page": "Ch. 3 § B / Schmitz (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Schmitz contrasted Neuton, Ryerson, Jess, Minoco and Bialac where prefiling enforceable trusts/contracts/contingent clauses existed and later conditions triggered payment.",
+          "laymanExplanation": "An existing contract that will pay if event occurs is more than hope an agency writes new rules.",
+          "legalExplanation": "Estate can hold a contingent claim subject to later future event; prepetition source of legal obligation decisive.",
+          "examApplication": "Ask whether necessary predicate was legal instrument in force, or government action creating brand-new legal asset.",
+          "examTrap": "A contingent right need not be liquid or currently payable to be estate property."
+        },
+        {
+          "id": "bank-ch3-schmitz-e5",
+          "type": "rule",
+          "title": "In re Vote disaster payments analogy",
+          "page": "Ch. 3 § B / Schmitz (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "The casebook opinion cited farmer whose prefiling crop loss preceded later Congressional crop-aid statute; subsequent disaster payment wasn't estate property because relief law created after petition.",
+          "laymanExplanation": "A crop loss last year doesn't mean farmer owned future disaster subsidy before Congress voted for one.",
+          "legalExplanation": "Statutory benefit must have legal basis at petition to qualify as presently existing contingent right under cited reasoning.",
+          "examApplication": "Use for after-enacted federal aid or relief checks.",
+          "examTrap": "Don't claim every postpetition tax refund resembles later disaster law; compare Segal."
+        },
+        {
+          "id": "bank-ch3-schmitz-e6",
+          "type": "rule",
+          "title": "Fresh start and ex-ante versus ex-post valuation",
+          "page": "Ch. 3 § B / Schmitz questions (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Debtor's post-bankruptcy income potential should be preserved; book asks whether eventual sales show 1992 catch history had market value and whether analysis should view 1992 uncertainties rather than later hindsight.",
+          "laymanExplanation": "Looking backward after $44k sale makes quota seem certain, but filing-date law was still uncertain.",
+          "legalExplanation": "Schmitz judges legal existence on filing date, not wealth eventually earned; valuation and legal status of prepetition rights are separate.",
+          "examApplication": "Discuss both ex ante likelihood and ex post realized value when contrasting Segal.",
+          "examTrap": "A property right's future sale price can't retroactively create the right at filing."
+        },
+        {
+          "id": "bank-ch3-schmitz-e7",
+          "type": "concept",
+          "title": "Source's dissent? None excerpted; opinion reversed",
+          "page": "Ch. 3 § B / Schmitz (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3 Part B (Harrell, Segal discussion, Schmitz); Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Excerpt contains Ninth Circuit majority opinion, not a separate dissent; appellate reversal of BAP also undercut prior discharge revocation.",
+          "laymanExplanation": "Trustee lost claim that the quota had been estate asset, so earlier basis to revoke discharge was remanded.",
+          "legalExplanation": "The source identifies bankruptcy court/BAP adverse holdings and Ninth Circuit final disposition.",
+          "examApplication": "Keep procedural posture clear in brief.",
+          "examTrap": "Do not fabricate dissent or characterize lower court analysis as Ninth Circuit holding."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
