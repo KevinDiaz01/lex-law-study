@@ -1,0 +1,375 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+  "coverage": {
+    "chapter": 2,
+    "scope": "A Introduction; B Voluntary Bankruptcy: eligibility, venue, petition and filing effects",
+    "syllabus": "Chapter 2 generally pp. 79–170; specific reading lists not supplied",
+    "notice": "Textbook dollar fees/forms and thresholds may reflect 2020–2021, not 2026."
+  },
+  "topics": [
+    {
+      "id": "bank-ch2-overview",
+      "title": "A. Introduction — Six Bankruptcy Chapters and Voluntary vs. Involuntary",
+      "description": "Chapter selection and legal mechanisms to commence, dismiss, convert or abstain.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-overview-e1",
+          "type": "rule",
+          "title": "Six chapters of bankruptcy relief",
+          "page": "Chapter 2 § A (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Ch. 7 liquidation; 9 municipal adjustment; 11 reorganization; 12 family farmer/fisherman income plan; 13 individual regular-income adjustment; 15 ancillary cross-border proceedings.",
+          "laymanExplanation": "The chapter is the type of bankruptcy: sell, reorganize, make income payments, protect municipality, or coordinate foreign cases.",
+          "legalExplanation": "Eligibility defined §109 for chapters 7,9,11,12,13; Chapter 15 special §§1501–1502. Chapter 12 made permanent and Chapter 15 created in 2005.",
+          "examApplication": "Always ask WHO the debtor is and WHICH chapter they can use before petition analysis.",
+          "examTrap": "Chapter 9 is limited to municipalities; 13 only individuals with regular income."
+        },
+        {
+          "id": "bank-ch2-overview-e2",
+          "type": "rule",
+          "title": "§§301–303: voluntary, joint and involuntary petition",
+          "page": "Chapter 2 § A (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "One debtor files voluntarily under §301; spouses file jointly under §302; qualifying creditors can initiate involuntary case §303, only under Chapters 7 and 11.",
+          "laymanExplanation": "Individual usually decides to file; creditors can push a debtor into only certain chapters.",
+          "legalExplanation": "§303(a) prohibits involuntary 9, 12, 13; §301(b) automatic order for relief in voluntary case but contested involuntary requires court ruling.",
+          "examApplication": "Distinguish filing date from order-for-relief date in involuntary cases.",
+          "examTrap": "A creditor cannot force an individual into Chapter 13."
+        },
+        {
+          "id": "bank-ch2-overview-e3",
+          "type": "concept",
+          "title": "Case posture and court decisions",
+          "page": "Chapter 2 § A (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Case may proceed, be dismissed, converted, or subject to discretionary abstention; each uses different statutory tests.",
+          "laymanExplanation": "Filing isn't the end of legal analysis: courts may reject improper or abusive cases.",
+          "legalExplanation": "§§348,349 effects of conversion/dismissal; §305 abstention; §707(b) individual consumer abuse.",
+          "examApplication": "Draw procedural map: eligible debtor → proper venue → valid petition → effects → possible challenge.",
+          "examTrap": "Never conflate conversion to another chapter with dismissal of bankruptcy."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-eligibility",
+      "title": "B.1 — Debtor Eligibility, §109(a)/(h), Credit Counseling and Chapter Restrictions",
+      "description": "Eligible person, U.S. connection, types of debtors, legal entities, counseling waivers and chapter choice.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-eligibility-e1",
+          "type": "rule",
+          "title": "§109(a) person plus territorial link",
+          "page": "Chapter 2 § B.1 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Only a person residing, domiciled, having a place of business or having property in the United States, or a municipality, may be Title 11 debtor.",
+          "laymanExplanation": "You need a legally eligible debtor and at least one U.S. link—owning property here may be enough.",
+          "legalExplanation": "§101(41) person includes individual, partnership, corporation, not governmental unit; §102(3) 'includes' not limiting; municipality only Chapter 9; special foreign debtor definition §1502.",
+          "examApplication": "For Problem 2.1 classify legal form and whether there is U.S. residence/business/property, then chapter eligibility.",
+          "examTrap": "Non-U.S. citizenship alone does NOT preclude filing with qualifying U.S. property/business."
+        },
+        {
+          "id": "bank-ch2-eligibility-e2",
+          "type": "rule",
+          "title": "Individuals, corporations, partnerships; estates and trusts",
+          "page": "Chapter 2 § B.1 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "§101(41) recognizes natural persons, state-law partnerships, corporations; an estate/trust generally an 'entity' §101(15) but not automatically a 'person'; municipal exception.",
+          "laymanExplanation": "Living people and business entities usually qualify; a dead person's probate estate isn't an ordinary filing person.",
+          "legalExplanation": "Broad §101(9) corporation concept may reach LLC/other associations depending attributes; state law determines partnership; §102(3) inclusion may admit similar entities.",
+          "examApplication": "Analyze general partnership, condominium association, insurance company and probate estate distinctly.",
+          "examTrap": "Do not assume all noncorporate organizations excluded from §109(a)."
+        },
+        {
+          "id": "bank-ch2-eligibility-e3",
+          "type": "rule",
+          "title": "Castillo condominium association eligibility vs dismissal",
+          "page": "Chapter 2 § B.1 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "In re Asociación de Titulares de Condominio Castillo (BAP 1st Cir. 2018) treated Puerto Rico condominium association as potentially eligible 'person' despite noncorporate state characterization, but upheld §707(a) dismissal because case served no cognizable bankruptcy purpose.",
+          "laymanExplanation": "A strange organization may qualify for filing, but court can still dismiss a pointless filing.",
+          "legalExplanation": "§102(3) 'includes' not limiting; §707(a) cause is separate from §109 gatekeeping.",
+          "examApplication": "Problem 2.1(o) tests person and purpose separately.",
+          "examTrap": "Do not characterize Castillo as holding all condo associations categorically ineligible."
+        },
+        {
+          "id": "bank-ch2-eligibility-e4",
+          "type": "rule",
+          "title": "Insolvency usually NOT required for voluntary relief",
+          "page": "Chapter 2 § B.1 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "§109(a) does not require general balance-sheet insolvency, unlike Chapter 9's insolvency requirement under §109(c).",
+          "laymanExplanation": "You needn't be completely broke to file; other filing-purpose and good-faith doctrines still matter.",
+          "legalExplanation": "§1112(b) and case SGL Carbon separate good-faith reorganization from insolvency prerequisite.",
+          "examApplication": "Distinguish financially healthy filer from bad faith filer.",
+          "examTrap": "Do not impose insolvency as universal eligibility test."
+        },
+        {
+          "id": "bank-ch2-eligibility-e5",
+          "type": "rule",
+          "title": "§109(h) approved prepetition credit counseling",
+          "page": "Chapter 2 § B.1 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Individual must receive approved agency counseling during 180 days before petition under §109(h)(1); applies to all bankruptcy chapters for individual debtors.",
+          "laymanExplanation": "Before you file, you generally need a credit-counseling briefing, not just a plan to get it next week.",
+          "legalExplanation": "Counseling includes available options/budget review, §111 agencies reasonable fees without regard to ability to pay; phone/online/group permitted.",
+          "examApplication": "Foreclosure emergency often tempts filing without certificate, but noncompliance risks dismissal.",
+          "examTrap": "Pre-filing counseling different from post-filing debtor education before discharge."
+        },
+        {
+          "id": "bank-ch2-eligibility-e6",
+          "type": "rule",
+          "title": "§109(h) exceptions and exigent circumstances",
+          "page": "Chapter 2 § B.1 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Exceptions: approved-agency unavailability under §109(h)(2); exigent circumstances and statutory temporary deferral under §109(h)(3); incapacity, disability or military combat duty under §109(h)(4).",
+          "laymanExplanation": "Exception takes proof; a last-minute foreclosure doesn't automatically erase counseling rule.",
+          "legalExplanation": "Exigent waiver conditions and timing must be assessed under statute, as illustrated In re Dixon.",
+          "examApplication": "Ask whether debtor requested counseling in time, emergency is sufficiently documented, and applicable certification submitted.",
+          "examTrap": "An 'exigent circumstances' statement isn't an open-ended permanent waiver."
+        },
+        {
+          "id": "bank-ch2-eligibility-e7",
+          "type": "rule",
+          "title": "§727(a)(11) debtor education later in case",
+          "page": "Chapter 2 § B.1 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Financial management instructional course completed during case is separate requirement for individual Chapter 7 discharge.",
+          "laymanExplanation": "First counseling lets you file; later course helps qualify for discharge.",
+          "legalExplanation": "Rule 1007 and discharge statutes set documentation/timing.",
+          "examApplication": "Spot two distinct certification stages.",
+          "examTrap": "Don't treat prefiling briefing as satisfying postfiling education."
+        },
+        {
+          "id": "bank-ch2-eligibility-e8",
+          "type": "rule",
+          "title": "Chapter-specific §109 eligibility map",
+          "page": "Chapter 2 § B.1 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Ch7 §109(b); Ch9 §109(c) plus municipality §101(40); Ch11 §109(d) (including railroad/small business subchapters); Ch12 §109(f) + §§101(18)–(21),(19A); Ch13 §109(e) + §101(30); Ch15 §§1501–1502.",
+          "laymanExplanation": "After basic eligibility, each chapter asks extra debtor-type questions.",
+          "legalExplanation": "Banks, insurers and similar entities may be excluded from ordinary chapters; farmers, railroads, municipalities, foreign liquidator and corporations differ; current debt-limit values vary by date.",
+          "examApplication": "For Problem 2.1 list each of 15 examples and missing facts rather than give one universal answer.",
+          "examTrap": "2021 statutory debt ceilings listed in book are not current 2026 ceilings."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-venue",
+      "title": "B.2 — Bankruptcy Court Jurisdiction, 180-Day Venue Rule and Transfer",
+      "description": "28 USC §§1334,157,1408,1409,1412; case vs adversary proceeding and affiliate venue.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-venue-e1",
+          "type": "rule",
+          "title": "Federal jurisdiction and bankruptcy court reference",
+          "page": "Chapter 2 § B.2 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "District courts have original bankruptcy jurisdiction under 28 USC §1334; §157 lets district judges refer routine matters to bankruptcy court; core/noncore distinction.",
+          "laymanExplanation": "Bankruptcy judge usually hears the case, but federal district court holds the jurisdictional foundation.",
+          "legalExplanation": "Bankruptcy judges are non-Article III units of district courts; §1334(e) estate property exclusive jurisdiction.",
+          "examApplication": "Separate subject matter jurisdiction, legal authority to enter final judgment and geographical venue.",
+          "examTrap": "Wrong court venue is not same as subject-matter ineligibility."
+        },
+        {
+          "id": "bank-ch2-venue-e2",
+          "type": "rule",
+          "title": "28 USC §1408 case venue: 180-day longer-portion test",
+          "page": "Chapter 2 § B.2 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Permits case in district with domicile, residence, principal U.S. business or principal U.S. assets located for 180 days preceding filing or longer portion of that 180-day period than in any other district.",
+          "laymanExplanation": "Look backward six months; district where you spent more of period may remain proper after move.",
+          "legalExplanation": "Each listed connecting factor is independent potential basis; 'longer portion' can matter after recent moves.",
+          "examApplication": "For June 1 filing following March 1 move, draw exact day count of Illinois and Iowa.",
+          "examTrap": "Do not assume new residence is automatically proper when recent move occurred."
+        },
+        {
+          "id": "bank-ch2-venue-e3",
+          "type": "rule",
+          "title": "Affiliate/general partner/partnership venue option",
+          "page": "Chapter 2 § B.2 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "§1408(2) allows case where a pending bankruptcy exists for debtor's affiliate, general partner or partnership.",
+          "laymanExplanation": "An affiliated company may file first in favored district and make venue possible there for group.",
+          "legalExplanation": "Must be genuine pending related case and qualifying affiliate relationship.",
+          "examApplication": "Enron/NY small affiliate tests proper use of affiliate rule.",
+          "examTrap": "Do not treat any unrelated debtor case in desirable district as anchor."
+        },
+        {
+          "id": "bank-ch2-venue-e4",
+          "type": "rule",
+          "title": "§1409 proceeding venue vs case venue; §1412 transfer",
+          "page": "Chapter 2 § B.2 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Adversary proceeding presumptively brought in district of pending bankruptcy case §1409(a), with protective home district rules for smaller defendants. Court may transfer case/proceeding for justice or convenience §1412.",
+          "laymanExplanation": "A trustee suing a distant small creditor may have to sue where that creditor lives.",
+          "legalExplanation": "Textbook 2019 thresholds: $1,375 other claims, $20,450 consumer, $25,000 certain noninsider business claims—historical, indexed, not present values.",
+          "examApplication": "For Maine creditor $8k preference suit filed in Hawaii, classify consumer/business, insider status and applicable date-indexed cutoff.",
+          "examTrap": "Do not apply older 2019 dollar figures as current law without checking."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-filing",
+      "title": "B.3 — Voluntary Petition, Verification, Fees, Schedules and Filing Deadlines",
+      "description": "§§301,302,521 and Rules 1002,1007,1008,1006; 14/30/45 day deadlines and consequences.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-filing-e1",
+          "type": "rule",
+          "title": "§301 voluntary petition automatically creates order for relief",
+          "page": "Chapter 2 § B.3 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "A qualifying debtor commences voluntary case by filing Chapter-specific petition with bankruptcy clerk; commencement itself constitutes order for relief §301(b); spouses may file one joint petition §302.",
+          "laymanExplanation": "A debtor files the petition and instantly obtains the legal bankruptcy order without waiting for hearing.",
+          "legalExplanation": "Rule 1002 form B101; filing date controls stay, estate and timing.",
+          "examApplication": "Write exact filing time to decide any foreclosure minutes later.",
+          "examTrap": "In involuntary case filing is NOT ordinarily automatic order for relief."
+        },
+        {
+          "id": "bank-ch2-filing-e2",
+          "type": "rule",
+          "title": "Petition sworn and signed; organizational authorization",
+          "page": "Chapter 2 § B.3 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Debtor verifies petition or unsworn perjury declaration, Rule 1008; debtor attorney signs under Rule 9011. Corporate/partnership authorized agent must act pursuant to governing law; partnership generally requires all general partners for voluntary case.",
+          "laymanExplanation": "Owner cannot file corporation case without proper authority; debtor signs truth declaration.",
+          "legalExplanation": "Knowingly fraudulent false declarations may be bankruptcy crimes under 18 USC §152(3). Dissenter partnership context may implicate §303(b)(3).",
+          "examApplication": "Identify authority and accuracy; lawyer can't replace debtor's personal attestation.",
+          "examTrap": "Attorney signature is not mere ceremonial: Rule 9011 certification duties."
+        },
+        {
+          "id": "bank-ch2-filing-e3",
+          "type": "rule",
+          "title": "Filing fee, installments and limited waiver",
+          "page": "Chapter 2 § B.3 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Rule 1006 permits up to four installments and §1930(f) allows eligible individual unable to pay in installments with income below 150% poverty guideline a potential waiver, as casebook describes.",
+          "laymanExplanation": "Fee can sometimes be paid gradually or waived for qualified individual.",
+          "legalExplanation": "United States v Kras held constitution does not guarantee free access to bankruptcy discharge. Exact chapter fee amounts in 2021 text reflect 2018 updates.",
+          "examApplication": "Separate access to fees from §109(h) mandatory counseling costs.",
+          "examTrap": "No constitutional right to discharge just because debtor is indigent."
+        },
+        {
+          "id": "bank-ch2-filing-e4",
+          "type": "rule",
+          "title": "§521(a)(1)/Rule 1007 universal schedules",
+          "page": "Chapter 2 § B.3 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "File creditor mailing list with petition, schedules of assets/liabilities, income/expenses, executory contracts/leases, SOFA within 14 days unless exception/extension; Ch9/11 top-20 unsecured creditor list with petition, Ch11 equity holders list.",
+          "laymanExplanation": "You cannot just file a one-page petition forever; tell court what you owe, own, earn and spend.",
+          "legalExplanation": "Debtor lists all creditors and assets, including encumbered/exempt property; deadline calculations matter.",
+          "examApplication": "Use chronology: petition-day matrix and within-14-day matrix.",
+          "examTrap": "Missing creditor from schedules can affect notice and debtor rights."
+        },
+        {
+          "id": "bank-ch2-filing-e5",
+          "type": "rule",
+          "title": "Individual debtor additional disclosures",
+          "page": "Chapter 2 § B.3 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Individual filings also involve §522 exemption schedule, §521(a)(2) intent for secured property, payment advices for 60 days, counseling certificate, tax returns and possible financial-management certificate.",
+          "laymanExplanation": "Court needs recent income, claimed protected property, plans for car/house and tax records.",
+          "legalExplanation": "Tax return to trustee no later than seven days before first §341 meeting; statement of intention often within 30 days; other statutory/Rules deadlines apply.",
+          "examApplication": "Create checklist distinguishing all-debtor docs from natural-person docs.",
+          "examTrap": "Avoid treating '14 days' as governing every required document."
+        },
+        {
+          "id": "bank-ch2-filing-e6",
+          "type": "rule",
+          "title": "§521(i) 45-day filing sanctions and tax return rules",
+          "page": "Chapter 2 § B.3 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Book describes individual failure to file required §521(a) info by 45 days as 'automatic' dismissal on day 46 subject to extensions/good-faith trustee intervention; courts debate automatic effect. §521(e)(2) tax-return failure and §521(j) taxing authority mechanism also can lead to dismissal or conversion.",
+          "laymanExplanation": "Missing paperwork after petition can kill the whole case, even if filing started protections.",
+          "legalExplanation": "Distinguish item deadline (often 14 days) from 45-day statutory consequence, 7-day-before-meeting return, and tax authority's 90-day postrequest grace.",
+          "examApplication": "Flag what document was omitted, party's motion, court extension, timing.",
+          "examTrap": "Book discusses In re Riddle criticism; don't assume every late filing mechanically voids months of case acts."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-effects",
+      "title": "B.4 — Immediate Filing Effects: Estate, Stay, Utilities and Deadline Extensions",
+      "description": "§§301,541,362,366,108 and important filing-time consequences.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-effects-e1",
+          "type": "rule",
+          "title": "§541 bankruptcy estate and §323 trustee",
+          "page": "Chapter 2 § B.4 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Petition creates estate containing debtor's legal/equitable property interests at filing; trustee representative of estate §323; §1334(e) bankruptcy jurisdiction over property.",
+          "laymanExplanation": "At filing, assets go into a legally defined pot for bankruptcy distribution; trustee manages it.",
+          "legalExplanation": "Property of estate and later exempt property are distinct; §541 scope explored Chapter 3.",
+          "examApplication": "Identify property interest exactly as of petition timestamp.",
+          "examTrap": "Do not say exempt assets were never part of estate."
+        },
+        {
+          "id": "bank-ch2-effects-e2",
+          "type": "rule",
+          "title": "§362 stay starts automatically at petition",
+          "page": "Chapter 2 § B.4 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Filing triggers broad statutory stay of collection and acts against debtor/estate; effective without creditor receiving notice; textbook calls violating acts void.",
+          "laymanExplanation": "If Chapter 7 petition is filed at 10:05 and foreclosure starts 10:06, stay already exists.",
+          "legalExplanation": "Coverage, exceptions and consequences are detailed in Chapter 4; repeat-filer complexities not detailed here.",
+          "examApplication": "For exam, mark pre/post filing and identify actor, action, exception and relief from stay.",
+          "examTrap": "Stay is not blanket cancellation of the underlying debt."
+        },
+        {
+          "id": "bank-ch2-effects-e3",
+          "type": "rule",
+          "title": "§366 utility protection and assurance",
+          "page": "Chapter 2 § B.4 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "Utility cannot cut off service solely for prepetition unpaid bill; may require adequate assurance for continued service under statutory timing (textbook describes 20 days for §366(b)).",
+          "laymanExplanation": "You usually get a short time to arrange future payments rather than lose power immediately due to old debt.",
+          "legalExplanation": "§366(c) has special assurance terms and varied Chapter 11 details; section governs services and future-payment security.",
+          "examApplication": "Ask utility's basis for shutoff and whether assurance tendered.",
+          "examTrap": "Prepetition debts and future service assurance are different."
+        },
+        {
+          "id": "bank-ch2-effects-e4",
+          "type": "rule",
+          "title": "§108 time extensions overview",
+          "page": "Chapter 2 § B.4 (syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+          "summary": "§108(a) can extend trustee's time to commence prepetition debtor's causes of action to later of applicable expiration or two years after order for relief; §108(b) later of normal deadline or 60 days after order for relief for specified non-suit acts; §108(c) addresses certain creditor litigation deadlines and 30 days after termination of stay.",
+          "laymanExplanation": "Bankruptcy can buy time to sue, cure or preserve rights—different rules for different deadlines.",
+          "legalExplanation": "Textbook simplifies subsection (c) as creditor 30-day extension; precise statute also references suspension of limitation periods and relevant stay expiration/termination.",
+          "examApplication": "Categorize debtor cause of action vs other act vs creditor lawsuit before choosing 2 years / 60 days / 30 days.",
+          "examTrap": "§108 is not one universal 'pause all clocks' rule."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch2-p2-1",
+      "topicId": "bank-ch2-eligibility",
+      "title": "Problem 2.1",
+      "kind": "Casebook Problem 2.1 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+      "prompt": "Eligibility under Chapters 7/9/11/12/13/15 and missing facts for 15 named debtors: (a) Bill Gates, (b) General Motors, (c) law firm partnership, (d) NY Yankees, (e) Toronto Blue Jays, (f) California-resident Russian tennis professional, (g) Detroit municipality, (h) probate estate of Kate Spade, (i) Reading Railroad, (j) insurance company, (k) HMO, (l) retiree on $750 Social Security/month with $25k credit cards, (m) farmer with $1.1m debt/$900k farm debt, (n) Cayman liquidator seeking U.S. asset protection, (o) Puerto Rico unincorporated condominium legal association. Preserve 15 subparts unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-2",
+      "topicId": "bank-ch2-venue",
+      "title": "Problem 2.2",
+      "kind": "Casebook Problem 2.2 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 (Invoking Bankruptcy Relief); Prof. Effross Fall 2026 syllabus general Chapter 2 range pp. 79–170",
+      "prompt": "Bankruptcy venue: (a) Debtor moves Illinois→Iowa March 1, files Chapter 7 June 1; apply §1408's longer portion. (b) Enron Texas business/Oregon incorporation, NY affiliate; consider affiliate venue. (c) Hawaii Chapter 11 estate sues Maine supplier on $8k preference, vary insider status; analyze protective §1409 home-district venue. Unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
