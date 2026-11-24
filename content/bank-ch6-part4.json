@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+  "coverage": {
+    "chapter": 6,
+    "scope": "C. Undersecured creditor bifurcation and cramdown, principal residence anti-modification, wholly valueless junior lien, 910-day PMSI rules and full In re Wright opinion with §506 state-law recourse deficiency and opposing approaches"
+  },
+  "topics": [
+    {
+      "id": "bank-ch6-bifurcation",
+      "title": "C. §506(a) Bifurcation: Splitting Secured and Unsecured Claim",
+      "chapterGroup": "bank-ch6",
+      "description": "Secured collateral value, deficiency balance and present-value plan cramdown.",
+      "entries": [
+        {
+          "id": "bank-ch6-bifurcation-e1",
+          "type": "rule",
+          "title": "An undersecured creditor has debt larger than collateral",
+          "page": "Ch.6 §C opening",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "If allowed loan is $20,000 but pledged collateral is $15,000, lender is undersecured. Under §506(a)(1), secured portion $15,000 and unsecured deficiency $5,000 absent exception.",
+          "laymanExplanation": "Bank is only secured for value actually protecting debt; extra $5k is ordinary loan owed.",
+          "legalExplanation": "Statutory bifurcation classifies allowed claim; lien modification or destruction is different inquiry under §506(d).",
+          "examApplication": "Write secured=min(claim, collateral net recoverable), deficiency=max(claim-secured,0).",
+          "examTrap": "Don't say the entire $20k is 'secured' when lender holds inadequate collateral."
+        },
+        {
+          "id": "bank-ch6-bifurcation-e2",
+          "type": "rule",
+          "title": "The deficiency participates with general unsecured creditors",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "After bifurcation, lender's unsecured portion receives distribution like other allowed unsecured claims, while secured value generally must be satisfied in full through lien/collateral or plan.",
+          "laymanExplanation": "Bank may get car value plus pennies-on-dollar on unpaid remainder.",
+          "legalExplanation": "In Chapter 7 creditor may hold in rem lien on collateral even as personal deficiency discharged; compare later Dewsnup.",
+          "examApplication": "Add deficiency claim to §726 tier2 pool if properly allowed.",
+          "examTrap": "Unsecured deficiency doesn't automatically gain §507 priority because lender held a lien for other portion."
+        },
+        {
+          "id": "bank-ch6-bifurcation-e3",
+          "type": "rule",
+          "title": "Chapter11, 12, 13 can cram down allowed secured value with present-value interest",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "Under plan provisions §1129(b)(2)(A)(i),1225(a)(5)(B),1325(a)(5)(B), debtor may retain property and pay secured component by deferred payments meeting present value, while deficiency treated as unsecured.",
+          "laymanExplanation": "Keep $15k car collateral and repay secured value with interest over time even if owed $20k total.",
+          "legalExplanation": "Subject to home-mortgage and 910 PMSI exceptions; Till rate and Rash value may apply.",
+          "examApplication": "First value collateral, split claim, then choose rate/payment period.",
+          "examTrap": "Secured collateral amount alone without interest is not enough for delayed payments."
+        },
+        {
+          "id": "bank-ch6-bifurcation-e4",
+          "type": "rule",
+          "title": "Separate concepts: strip down, strip off, discharge",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "Stripdown reduces protected secured portion to collateral value; strip-off treats valueless junior lien as unsecured in qualifying reorganization; personal discharge terminates in personam liability but liens may survive.",
+          "laymanExplanation": "Changing lien amount isn't same as forgiving borrower personally or taking collateral back.",
+          "legalExplanation": "Different Code chapters and statutes modify each separately; Dewsnup prohibits ordinary Chapter7 §506(d) stripdown.",
+          "examApplication": "State procedural context and relevant authority before using 'strip'.",
+          "examTrap": "Court confirmation in Chapter13 and Chapter7 discharge are not interchangeable."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-principal-home",
+      "title": "C. Residential Mortgages: Nobelman Protection and Valueless Junior Liens",
+      "chapterGroup": "bank-ch6",
+      "description": "Principal residence exceptions to undersecured stripdown and book's distinction with wholly unsecured juniors.",
+      "entries": [
+        {
+          "id": "bank-ch6-principal-home-e1",
+          "type": "rule",
+          "title": "Home mortgage anti-modification under §§1123(b)(5),1322(b)(2)",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "In specified Chapter11/13 plans claim secured ONLY by security interest in real property debtor principally resides in cannot generally be stripped down despite undersecured value; Chapter13 Nobelman protects mortgagee's contractual rights.",
+          "laymanExplanation": "Can't always cram down first mortgage on primary home to current lower home price.",
+          "legalExplanation": "Be precise on claim secured only by principal residence as statute requires; nonresidential realty may differ.",
+          "examApplication": "If mortgage debt $200k on home worth $150k, check special anti-modification before bifurcation.",
+          "examTrap": "Not a general ban on stripping every lien on every type of real property."
+        },
+        {
+          "id": "bank-ch6-principal-home-e2",
+          "type": "rule",
+          "title": "Nobelman v. American Savings Bank is casebook-referenced decision",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "Supreme Court confirmed §1322(b)(2) protection of partially secured home mortgage in Chapter13 despite §506(a) undersecured classification.",
+          "laymanExplanation": "If home collateral has SOME value for mortgage holder, cannot simply eliminate deficiency from plan repayment under source rule.",
+          "legalExplanation": "Nobelman is mentioned but not full excerpt in Chapter6; don't label full judicial case brief.",
+          "examApplication": "Use in first mortgage or partially secured second mortgage scenarios.",
+          "examTrap": "Nobelman doesn't decide all questions concerning wholly worthless junior liens."
+        },
+        {
+          "id": "bank-ch6-principal-home-e3",
+          "type": "rule",
+          "title": "Wholly underwater junior mortgage strip-off exception (book account)",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "Casebook says circuits considering completely valueless second mortgage (first mortgage exhausts entire property value) allow Chapter13 plan strip-off because junior has no secured claim at all for anti-modification protection.",
+          "laymanExplanation": "House worth $80k, first mortgage $85k, second mortgage $20k: junior collateral value zero.",
+          "legalExplanation": "Unlike partially undersecured junior, lien is entirely unsecured under §506(a) in the reorganization context.",
+          "examApplication": "Calculate value minus prior senior loans and determine if ANY positive value for junior.",
+          "examTrap": "Do not apply this rule to Chapter7 §506(d) despite similarly valueless lien; Dewsnup distinction matters."
+        },
+        {
+          "id": "bank-ch6-principal-home-e4",
+          "type": "rule",
+          "title": "Secured solely by residence: special limitations",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "Anti-modification turns on dwelling as debtor's principal residence and nature of mortgage; property securing other collateral may require different characterization.",
+          "laymanExplanation": "A car loan isn't a protected principal residence loan, and a vacation home may not qualify.",
+          "legalExplanation": "Book addresses core exception without exhaustive statutory extensions; do not invent more rules.",
+          "examApplication": "Spot collateral description and whether debtor actually lives there.",
+          "examTrap": "Not all home-secured debt is categorically nondischargeable personal liability."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-hanging-paragraph",
+      "title": "C. Chapter13 '910-Day' Hanging Paragraph: Retaining vs Surrendering Vehicle",
+      "chapterGroup": "bank-ch6",
+      "description": "BAPCPA anti-stripdown timing, purchase money and recourse deficiency controversy.",
+      "entries": [
+        {
+          "id": "bank-ch6-hanging-paragraph-e1",
+          "type": "rule",
+          "title": "§1325(a) hanging paragraph bars §506(a) for qualifying PMSI",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "For Chapter13 plan under §1325(a)(5), §506 doesn't apply if debt for creditor's PMSI in personal-use motor vehicle incurred within preceding 910 days, or other qualifying personal property debt within one year.",
+          "laymanExplanation": "Recent family car loan may have to be paid whole when debtor keeps car despite vehicle worth less.",
+          "legalExplanation": "Check motor vehicle purchased for personal USE by debtor, PMSI, 910 days loan incurrence (not only car title date).",
+          "examApplication": "With dates May1 2018–May1 2020 vs May1 2021 analyze window before computing car value.",
+          "examTrap": "No anti-bifurcation for all car loans and all Chapter13 debtors."
+        },
+        {
+          "id": "bank-ch6-hanging-paragraph-e2",
+          "type": "rule",
+          "title": "Retained 910 car: pay total allowed claim, not merely collateral value",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "If debtor keeps 910 vehicle, cannot use §506(a) to reduce secured plan principal to lower fair market value; must treat entire allowed debt as secured for §1325(a)(5) purposes and include proper present-value compensation.",
+          "laymanExplanation": "You owe $20k on $15k recent family car, but keeping may require paying $20k + time value.",
+          "legalExplanation": "Exception effectively blocks standard $15k secured/$5k unsecured division.",
+          "examApplication": "First check hanging paragraph—valuation under Rash/§506(a)(2) may be moot for Chapter13 retention.",
+          "examTrap": "Do not apply 910 rule to later older car loan outside statutory time."
+        },
+        {
+          "id": "bank-ch6-hanging-paragraph-e3",
+          "type": "rule",
+          "title": "Other-goods 1-year PMSI clause",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "Separate part protects qualifying PMSI on things of value other than specified motor vehicles where debt incurred during one-year period preceding Chapter13 filing.",
+          "laymanExplanation": "Newly financed couch/equipment may be covered even if no car.",
+          "legalExplanation": "Statutory text applies 'any other thing of value' with one-year horizon; source does not detail contested interpretations.",
+          "examApplication": "For consumer goods bought 10 months before petition identify alternate branch.",
+          "examTrap": "Do not use 910 days for ALL PMSIs."
+        },
+        {
+          "id": "bank-ch6-hanging-paragraph-e4",
+          "type": "rule",
+          "title": "Surrender paradox: statutory §506 inapplicability and deficiency",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "If debtor surrenders 910 car under §1325(a)(5)(C), some bankruptcy courts initially treated surrender as full satisfaction due to no bifurcation; Wright found state-law recourse deficiency survives.",
+          "laymanExplanation": "Returning car worth less than loan doesn't necessarily wipe out unpaid balance.",
+          "legalExplanation": "Textbook contrasts majority bankruptcy-court view and post-Wright several circuit courts adopting lenders' deficiency position.",
+          "examApplication": "In exam analyze whether lender may file ordinary unsecured deficiency after foreclosure.",
+          "examTrap": "Don't apply 910 retention rule to presume surrender eliminates entire obligation."
+        },
+        {
+          "id": "bank-ch6-hanging-paragraph-e5",
+          "type": "rule",
+          "title": "Surrender: contract and UCC recourse rights matter",
+          "page": "Ch.6 §C",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "When car returned and repossession sale proceeds credited against debt, recourse contract/UCC Article9 may leave borrower personally liable for shortfall, unless nonrecourse agreement or applicable law otherwise.",
+          "laymanExplanation": "Bank sells returned car for $10k against $14k owed; $4k may remain as unsecured deficit.",
+          "legalExplanation": "Under Wright §506 is not source of rights; nonbankruptcy law decides remaining deficiency when Code silent.",
+          "examApplication": "Look for explicit agreement 'buyer liable for deficiency' and UCC 9-615(d)(2).",
+          "examTrap": "Contract recourse isn't automatically a secured right to collect deficit against other assets."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-wright",
+      "title": "C. In re Wright (2007) — Full Hanging-Paragraph Surrender Case",
+      "chapterGroup": "bank-ch6",
+      "description": "Easterbrook Seventh Circuit, Butner primacy, §506 not exclusive source, competing statutory readings.",
+      "entries": [
+        {
+          "id": "bank-ch6-wright-e1",
+          "type": "case",
+          "title": "In re Wright, 492 F.3d 829 (7th Cir. 2007)",
+          "page": "Ch.6 §C / Wright full excerpt",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "No. Seventh Circuit affirmed: §506(a) not sole basis for lender's deficiency. Contract and applicable state UCC create recourse debt under Butner; upon surrender loan's remaining balance can be asserted as general unsecured claim in Chapter13; debtors' plan paying nothing on this deficit while paying other unsecured creditors could not be confirmed as proposed.",
+          "laymanExplanation": "For 910 Chapter13 surrender, where state law and recourse agreement entitle lender to deficiency after liquidation, treat shortfall as unsecured claim rather than deeming entire debt satisfied merely from §506 inapplicability.",
+          "legalExplanation": "Easterbrook explained §506 normally partitions secured and unsecured portions but does not CREATE liens or contractual debts. Hanging paragraph simply makes §506 inapplicable; where Code supplies no contrary rule, state contract law/UCC governs. Interpreting omission as converting all recourse 910 loans into nonrecourse contradicts Congress's 'Restoring the Foundation for Secured Credit' legislative purpose. He rejected debtor and amicus proposals including all-unsecured recharacterization. Casebook criticism: result asymmetrically protects lender in retention (full claim treated secured) yet allows bifurcation-like deficiency on surrender, despite single paragraph applying both routes; asks whether state law should control federal bankruptcy treatment and whether textual scope is meaningful.",
+          "examApplication": "State case facts 910-day loan, surrendered car, express contractual personal recourse, UCC 9-615(d)(2), the proposed exclusion of shortfall and competing interpretations.",
+          "examTrap": "Wright does NOT say secured lender must be paid full deficiency in cash immediately; deficiency shares with other general unsecured claims.",
+          "assignedOpinion": true,
+          "sourceRole": "Full Seventh Circuit opinion excerpted in uploaded Chapter 6",
+          "facts": "Craig Wright and LaChone Giles-Wright owed more than value of purchase-money financed car; bought within 910 days of Chapter13 filing, meeting hanging paragraph. They proposed Chapter13 plan surrendering car while paying NOTHING on remaining loan deficiency. Financing contract expressly said lienholder can seize/sell car, credit surplus to debtor and debtor remains liable for deficiency; UCC Article9 §9-615(d)(2) likewise preserves recourse. Bankruptcy judge rejected plan's failure to treat deficiency as unsecured; Seventh Circuit reviewed issue.",
+          "issue": "Does §1325(a) hanging paragraph's exclusion of §506 mean Chapter13 debtor who surrenders qualifying 910 car fully satisfies loan and eliminates lender's otherwise valid deficiency claim?",
+          "holding": "No. Seventh Circuit affirmed: §506(a) not sole basis for lender's deficiency. Contract and applicable state UCC create recourse debt under Butner; upon surrender loan's remaining balance can be asserted as general unsecured claim in Chapter13; debtors' plan paying nothing on this deficit while paying other unsecured creditors could not be confirmed as proposed.",
+          "reasoning": "Easterbrook explained §506 normally partitions secured and unsecured portions but does not CREATE liens or contractual debts. Hanging paragraph simply makes §506 inapplicable; where Code supplies no contrary rule, state contract law/UCC governs. Interpreting omission as converting all recourse 910 loans into nonrecourse contradicts Congress's 'Restoring the Foundation for Secured Credit' legislative purpose. He rejected debtor and amicus proposals including all-unsecured recharacterization. Casebook criticism: result asymmetrically protects lender in retention (full claim treated secured) yet allows bifurcation-like deficiency on surrender, despite single paragraph applying both routes; asks whether state law should control federal bankruptcy treatment and whether textual scope is meaningful.",
+          "rule": "For 910 Chapter13 surrender, where state law and recourse agreement entitle lender to deficiency after liquidation, treat shortfall as unsecured claim rather than deeming entire debt satisfied merely from §506 inapplicability."
+        },
+        {
+          "id": "bank-ch6-wright-e2",
+          "type": "rule",
+          "title": "Majority-of-bankruptcy-courts view when Wright decided",
+          "page": "Ch.6 §C / Wright",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "Some bankruptcy judges held hanging paragraph excluding §506 prevents splitting claim, so surrender is full satisfaction—effectively making 910 loan nonrecourse irrespective of contract.",
+          "laymanExplanation": "Debtor says if car must count as whole debt for retention, handing over car must satisfy whole debt.",
+          "legalExplanation": "Textbook situates Wright's state-law position as then-minority later adopted by other circuit courts.",
+          "examApplication": "In statutory analysis give counterargument, not misleadingly state undisputed plain meaning.",
+          "examTrap": "Bankruptcy courts' then-majority is not Wright outcome."
+        },
+        {
+          "id": "bank-ch6-wright-e3",
+          "type": "rule",
+          "title": "Butner means nonbankruptcy rights survive absent explicit Code override",
+          "page": "Ch.6 §C / Wright",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "State law creates secured loan and borrower recourse deficiency; §506 merely federal treatment mechanism, so making it inapplicable doesn't erase state contractual obligation.",
+          "laymanExplanation": "Bankruptcy rules can change payout, but don't silently repeal your signed agreement's deficiency clause.",
+          "legalExplanation": "Easterbrook used Butner plus Travelers and Raleigh to preserve creditor contract rights.",
+          "examApplication": "If question asks why §506(a) isn't superfluous, separate bankruptcy bifurcation from independent state-law obligation.",
+          "examTrap": "Butner permits bankruptcy law to override state law where congressional interest calls for it."
+        },
+        {
+          "id": "bank-ch6-wright-e4",
+          "type": "rule",
+          "title": "§502 allowance vs §506 collateral classification",
+          "page": "Ch.6 §C / Wright",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "§502 determines whether valid contractual debt is allowable; §506 normally allocates backed vs unbacked portions; state law creates underlying contract/lien.",
+          "laymanExplanation": "A claim doesn't cease to exist because federal calculator for dividing it is disabled.",
+          "legalExplanation": "Wright rejected amicus argument that without §506 no 'secured' rights exist at all.",
+          "examApplication": "Use four distinct categories: enforceable claim, lien, chapter treatment, plan confirmability.",
+          "examTrap": "Don't say §506 creates the car lien."
+        },
+        {
+          "id": "bank-ch6-wright-e5",
+          "type": "rule",
+          "title": "Easterbrook's policy and title argument",
+          "page": "Ch.6 §C / Wright",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "2005 Act section titled 'Restoring the Foundation for Secured Credit' indicated Congress wasn't trying to convert ordinary car loans into mandatory nonrecourse debts.",
+          "laymanExplanation": "Law intended protecting car lenders, not extinguishing remaining debt after car return.",
+          "legalExplanation": "Book challenges resort to section title if statutory text supposedly unambiguous and the anomalous difference between §1325(a)(5)(B)/(C).",
+          "examApplication": "Present this as court reasoning and book's critical question separately.",
+          "examTrap": "Heading alone isn't independent statutory command."
+        },
+        {
+          "id": "bank-ch6-wright-e6",
+          "type": "rule",
+          "title": "Plan must not omit post-surrender unsecured deficiency",
+          "page": "Ch.6 §C / Wright",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "Under Seventh Circuit treatment, lender's claim after car return has secured component satisfied by collateral and surviving shortfall general unsecured; proposed plan must account for that shortfall with similarly situated unsecured creditors.",
+          "laymanExplanation": "Returning keys isn't permission to exclude one car-loan creditor from otherwise shared unsecured plan payout.",
+          "legalExplanation": "Case doesn't guarantee lender full deficiency or forbid permissible class-based distinctions under general provisions.",
+          "examApplication": "In essay identify prospective amount after collateral liquidation, then how Chapter13 treats general claims.",
+          "examTrap": "No full contract balance necessarily remains after crediting collateral proceeds."
+        },
+        {
+          "id": "bank-ch6-wright-e7",
+          "type": "rule",
+          "title": "The text-versus-purpose critique of Wright is assigned question",
+          "page": "Ch.6 §C / Wright / questions",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6 §C: stripdown/bifurcation, home-mortgage exception, Chapter13 910-day hanging paragraph and full In re Wright opinion",
+          "summary": "Book asks whether applying hanging paragraph to both retention and surrender should generate same no-bifurcation rule and whether invoking Butner disregards bankruptcy-specific plan distribution requirements.",
+          "laymanExplanation": "Court may preserve a state right but is federal plan still authorized to ignore it?",
+          "legalExplanation": "Book quotes Timbers holistic statutory reading and challenges asymmetrical 'heads lender wins' approach.",
+          "examApplication": "Explain both courts' approaches neutrally and clearly label book prompts unresolved for user.",
+          "examTrap": "Do not silently treat casebook critique as Seventh Circuit holding."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
