@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+  "coverage": {
+    "chapter": 9,
+    "scope": "Original complete Problems9.6–9.9 all subsections UNANSWERED, transaction details retained, missing image placeholders not invented"
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch9-p9-6-a",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.6(a) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Consider again the facts of Problem 9.4 under each variation presented. Which constitute constructive fraud under the UFTA and UVTA? Those facts are:\n\na. Debtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-6-b",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.6(b) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Consider again the facts of Problem 9.4 under each variation presented. Which constitute constructive fraud under the UFTA and UVTA? Those facts are:\n\nOriginal part (a) scenario:\nDebtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.\n\nb. Same facts as in a., except Debtor sells the painting to Art Mann for $20,000, and Art Mann then gives the painting to his daughter.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-6-c",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.6(c) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Consider again the facts of Problem 9.4 under each variation presented. Which constitute constructive fraud under the UFTA and UVTA? Those facts are:\n\nOriginal part (a) scenario:\nDebtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.\n\nc. Same facts as in a., except Debtor sells the painting to her mother.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-6-d",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.6(d) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Consider again the facts of Problem 9.4 under each variation presented. Which constitute constructive fraud under the UFTA and UVTA? Those facts are:\n\nOriginal part (a) scenario:\nDebtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.\n\nd. Same facts as in a., except Debtor gives the painting to her mother.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-6-e",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.6(e) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Consider again the facts of Problem 9.4 under each variation presented. Which constitute constructive fraud under the UFTA and UVTA? Those facts are:\n\nOriginal part (a) scenario:\nDebtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.\n\ne. Same facts as in a., except Debtor donates the painting to the Art Institute.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-6-f",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.6(f) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Consider again the facts of Problem 9.4 under each variation presented. Which constitute constructive fraud under the UFTA and UVTA? Those facts are:\n\nOriginal part (a) scenario:\nDebtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.\n\nf. Same facts as b., except that after purchasing the painting from Debtor, Art Mann sells the painting to an art dealer in exchange for gold coins worth $40,000, and he then gives one of the gold coins (worth $1,000) to his daughter as a birthday present.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-7-a",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.7 original guarantee",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Boering Corp. is a manufacturer of jet aircrafts whose primary customer is Deltoid Airlines. Deltoid began experiencing severe financial difficulties and, eventually, fuel suppliers refused to sell Deltoid any more fuel on credit. In order to keep Deltoid flying, Boering agreed with Deltoid's fuel suppliers to guarantee repayment for any future fuel shipments to Deltoid on ordinary credit terms. Deltoid's financial problems were beyond repair, though, and Deltoid ceased operations three months later, at which time Deltoid owed fuel suppliers $6 million for purchases guaranteed by Boering. Deltoid's demise and Boering's consequent customer loss and guaranty liability also strained the financial resources of Boering, who filed a chapter 11 petition six months after Deltoid ceased operations. Boering, as chapter 11 debtor in possession, has brought an action to avoid its guaranty of Deltoid's fuel purchases as constructively fraudulent. How should the court rule?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-7-b",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.7 sister-company variation",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Boering Corp. is a manufacturer of jet aircrafts whose primary customer is Deltoid Airlines. Deltoid began experiencing severe financial difficulties and, eventually, fuel suppliers refused to sell Deltoid any more fuel on credit. In order to keep Deltoid flying, Boering agreed with Deltoid's fuel suppliers to guarantee repayment for any future fuel shipments to Deltoid on ordinary credit terms. Deltoid's financial problems were beyond repair, though, and Deltoid ceased operations three months later, at which time Deltoid owed fuel suppliers $6 million for purchases guaranteed by Boering. Deltoid's demise and Boering's consequent customer loss and guaranty liability also strained the financial resources of Boering, who filed a chapter 11 petition six months after Deltoid ceased operations. Boering, as chapter 11 debtor in possession, has brought an action to avoid its guaranty of Deltoid's fuel purchases as constructively fraudulent. How should the court rule?\n\nDoes your analysis changeif Boering and Deltoid were at all relevant times sister corporations, both wholly owned by Holding Corp.?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-8-a",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.8(a) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Amelia Alpha and O.J. Omega were top executives of Target Corp., a medical supply firm. Target Corp. had no secured debt, $15 million in unsecured debt, and assets estimated at $23 million, leaving equity of $8 million. Alpha and Omega decided to buy out Target and take it private, believing that the company would make huge profits if it refocused its business on cloning. Alpha and Omega agreed to buy all of the existing stock for $8 million, putting up $500,000 of their own money and borrowing $7.5 million from Lender. They also gave Lender a security interest in all of Target's assets, and had Target guarantee payment of the $7.5 million debt. The old stockholders were cashed out for $8 million, and Alpha and Omega took control of Target. After this transaction — a “leveraged buyout” (LBO) — Target had total debt of $22.5 million ($15 million unsecured plus $7.5 million secured) and assets estimated to be worth $23 million, leaving equity of at most $500,000.\n\nThe next year cloning was outlawed by treaty. Target went bankrupt. The trustee challenged the LBO as a fraudulent transfer, and sought (1) to avoid Lender's security interest in Target's assets, and (2) to recover the money paid to the original stockholders of Target.\n\na. What is the “transfer” that is potentially subject to avoidance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-8-b",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.8(b) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Amelia Alpha and O.J. Omega were top executives of Target Corp., a medical supply firm. Target Corp. had no secured debt, $15 million in unsecured debt, and assets estimated at $23 million, leaving equity of $8 million. Alpha and Omega decided to buy out Target and take it private, believing that the company would make huge profits if it refocused its business on cloning. Alpha and Omega agreed to buy all of the existing stock for $8 million, putting up $500,000 of their own money and borrowing $7.5 million from Lender. They also gave Lender a security interest in all of Target's assets, and had Target guarantee payment of the $7.5 million debt. The old stockholders were cashed out for $8 million, and Alpha and Omega took control of Target. After this transaction — a “leveraged buyout” (LBO) — Target had total debt of $22.5 million ($15 million unsecured plus $7.5 million secured) and assets estimated to be worth $23 million, leaving equity of at most $500,000.\n\nThe next year cloning was outlawed by treaty. Target went bankrupt. The trustee challenged the LBO as a fraudulent transfer, and sought (1) to avoid Lender's security interest in Target's assets, and (2) to recover the money paid to the original stockholders of Target.\n\nb. What was the “exchange” made per that transfer? I.e., who transferred what, and what did they receive in return?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-8-c",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.8(c) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Amelia Alpha and O.J. Omega were top executives of Target Corp., a medical supply firm. Target Corp. had no secured debt, $15 million in unsecured debt, and assets estimated at $23 million, leaving equity of $8 million. Alpha and Omega decided to buy out Target and take it private, believing that the company would make huge profits if it refocused its business on cloning. Alpha and Omega agreed to buy all of the existing stock for $8 million, putting up $500,000 of their own money and borrowing $7.5 million from Lender. They also gave Lender a security interest in all of Target's assets, and had Target guarantee payment of the $7.5 million debt. The old stockholders were cashed out for $8 million, and Alpha and Omega took control of Target. After this transaction — a “leveraged buyout” (LBO) — Target had total debt of $22.5 million ($15 million unsecured plus $7.5 million secured) and assets estimated to be worth $23 million, leaving equity of at most $500,000.\n\nThe next year cloning was outlawed by treaty. Target went bankrupt. The trustee challenged the LBO as a fraudulent transfer, and sought (1) to avoid Lender's security interest in Target's assets, and (2) to recover the money paid to the original stockholders of Target.\n\nc. Who is potentially harmed by this transfer? Why?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-8-d",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.8(d) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Amelia Alpha and O.J. Omega were top executives of Target Corp., a medical supply firm. Target Corp. had no secured debt, $15 million in unsecured debt, and assets estimated at $23 million, leaving equity of $8 million. Alpha and Omega decided to buy out Target and take it private, believing that the company would make huge profits if it refocused its business on cloning. Alpha and Omega agreed to buy all of the existing stock for $8 million, putting up $500,000 of their own money and borrowing $7.5 million from Lender. They also gave Lender a security interest in all of Target's assets, and had Target guarantee payment of the $7.5 million debt. The old stockholders were cashed out for $8 million, and Alpha and Omega took control of Target. After this transaction — a “leveraged buyout” (LBO) — Target had total debt of $22.5 million ($15 million unsecured plus $7.5 million secured) and assets estimated to be worth $23 million, leaving equity of at most $500,000.\n\nThe next year cloning was outlawed by treaty. Target went bankrupt. The trustee challenged the LBO as a fraudulent transfer, and sought (1) to avoid Lender's security interest in Target's assets, and (2) to recover the money paid to the original stockholders of Target.\n\nd. What issues may be dispositive when an LBO is challenged for constructive fraud?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-8-e",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.8(e) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Amelia Alpha and O.J. Omega were top executives of Target Corp., a medical supply firm. Target Corp. had no secured debt, $15 million in unsecured debt, and assets estimated at $23 million, leaving equity of $8 million. Alpha and Omega decided to buy out Target and take it private, believing that the company would make huge profits if it refocused its business on cloning. Alpha and Omega agreed to buy all of the existing stock for $8 million, putting up $500,000 of their own money and borrowing $7.5 million from Lender. They also gave Lender a security interest in all of Target's assets, and had Target guarantee payment of the $7.5 million debt. The old stockholders were cashed out for $8 million, and Alpha and Omega took control of Target. After this transaction — a “leveraged buyout” (LBO) — Target had total debt of $22.5 million ($15 million unsecured plus $7.5 million secured) and assets estimated to be worth $23 million, leaving equity of at most $500,000.\n\nThe next year cloning was outlawed by treaty. Target went bankrupt. The trustee challenged the LBO as a fraudulent transfer, and sought (1) to avoid Lender's security interest in Target's assets, and (2) to recover the money paid to the original stockholders of Target.\n\ne. Is an LBO ever vulnerable to an actual fraud charge as well?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-8-f",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.8(f) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Amelia Alpha and O.J. Omega were top executives of Target Corp., a medical supply firm. Target Corp. had no secured debt, $15 million in unsecured debt, and assets estimated at $23 million, leaving equity of $8 million. Alpha and Omega decided to buy out Target and take it private, believing that the company would make huge profits if it refocused its business on cloning. Alpha and Omega agreed to buy all of the existing stock for $8 million, putting up $500,000 of their own money and borrowing $7.5 million from Lender. They also gave Lender a security interest in all of Target's assets, and had Target guarantee payment of the $7.5 million debt. The old stockholders were cashed out for $8 million, and Alpha and Omega took control of Target. After this transaction — a “leveraged buyout” (LBO) — Target had total debt of $22.5 million ($15 million unsecured plus $7.5 million secured) and assets estimated to be worth $23 million, leaving equity of at most $500,000.\n\nThe next year cloning was outlawed by treaty. Target went bankrupt. The trustee challenged the LBO as a fraudulent transfer, and sought (1) to avoid Lender's security interest in Target's assets, and (2) to recover the money paid to the original stockholders of Target.\n\nf. Even if a cause of action for constructive (or actual) fraud is shown, who is liable?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-8-g",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.8(g) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Amelia Alpha and O.J. Omega were top executives of Target Corp., a medical supply firm. Target Corp. had no secured debt, $15 million in unsecured debt, and assets estimated at $23 million, leaving equity of $8 million. Alpha and Omega decided to buy out Target and take it private, believing that the company would make huge profits if it refocused its business on cloning. Alpha and Omega agreed to buy all of the existing stock for $8 million, putting up $500,000 of their own money and borrowing $7.5 million from Lender. They also gave Lender a security interest in all of Target's assets, and had Target guarantee payment of the $7.5 million debt. The old stockholders were cashed out for $8 million, and Alpha and Omega took control of Target. After this transaction — a “leveraged buyout” (LBO) — Target had total debt of $22.5 million ($15 million unsecured plus $7.5 million secured) and assets estimated to be worth $23 million, leaving equity of at most $500,000.\n\nThe next year cloning was outlawed by treaty. Target went bankrupt. The trustee challenged the LBO as a fraudulent transfer, and sought (1) to avoid Lender's security interest in Target's assets, and (2) to recover the money paid to the original stockholders of Target.\n\ng. Remembering the moral of BFP (if there is one), should an LBO be subject to a fraudulent conveyance challenge, as a matter of first principles?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-9-a",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.9(a) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Parent has filed a chapter 7 petition. Each of the following transactions occurred within the two years before the petition date, at a time when Parent was insolvent. For each transaction, analyze whether there was a transfer made or obligation incurred that is avoidable as either actually or constructively fraudulent? If so, from whom (if anyone) can the trustee recover?\n\na. Parent made a gift to her adult child, Child 1, to enable Child 1 to pay Child 1's college tuition at University. Upon receipt of those funds from Parent, Child 1 paid them to University in satisfaction of Child 1's tuition obligation to University. University took those funds in good faith and without knowledge of the voidability of any transfer or obligation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-9-b",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.9(b) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Parent has filed a chapter 7 petition. Each of the following transactions occurred within the two years before the petition date, at a time when Parent was insolvent. For each transaction, analyze whether there was a transfer made or obligation incurred that is avoidable as either actually or constructively fraudulent? If so, from whom (if anyone) can the trustee recover?\n\nb. Parent borrowed money from Lender for the purpose of paying the college tuition of her adult child, Child 2. Upon receipt of the loan proceeds, Parent made a gift of those loan proceeds to Child 2 to enable Child 2 to pay Child 2's college tuition at University. Upon receipt of those funds from Parent, Child 2 paid them to University in satisfaction of Child 2's tuition obligation to University. University took those funds in good faith and without knowledge of the voidability of any transfer or obligation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-9-c",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.9(c) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Parent has filed a chapter 7 petition. Each of the following transactions occurred within the two years before the petition date, at a time when Parent was insolvent. For each transaction, analyze whether there was a transfer made or obligation incurred that is avoidable as either actually or constructively fraudulent? If so, from whom (if anyone) can the trustee recover?\n\nc. Parent directly paid to University the college tuition of her minor child, Child 3. University took those funds in good faith and without knowledge of the voidability of any transfer or obligation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-9-d",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.9(d) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Parent has filed a chapter 7 petition. Each of the following transactions occurred within the two years before the petition date, at a time when Parent was insolvent. For each transaction, analyze whether there was a transfer made or obligation incurred that is avoidable as either actually or constructively fraudulent? If so, from whom (if anyone) can the trustee recover?\n\nd. As a gift to her adult child, Child 4, Parent directly paid Child 4's college tuition to University, which took those funds in satisfaction of Child 4's tuition obligation to University, in good faith, and without knowledge of the voidability of any transfer or obligation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-9-e",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "Problem 9.9(e) original",
+      "kind": "Original Chapter 9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.6–9.9 in user-uploaded excerpt",
+      "prompt": "Parent has filed a chapter 7 petition. Each of the following transactions occurred within the two years before the petition date, at a time when Parent was insolvent. For each transaction, analyze whether there was a transfer made or obligation incurred that is avoidable as either actually or constructively fraudulent? If so, from whom (if anyone) can the trustee recover?\n\ne. As a gift to her adult child, Child 5, Parent borrowed from Lender the funds necessary to pay Child 5's college tuition to University. Lender disbursed the loan proceeds directly to University, which took those funds in satisfaction of Child 5's tuition obligation to University, in good faith, and without knowledge of the voidability of any transfer or obligation.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
