@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+  "coverage": {
+    "chapter": 9,
+    "scope": "§547(c)(1)–(9) defenses, §547(h), pre/post-2005 ordinary course subjective/objective, full National Gas Distributors opinion, subsequent advance and 30-day enabling loan, floating liens two-point insufficiency rule, Problems9.12–9.14 preserved separately unanswered"
+  },
+  "topics": [
+    {
+      "id": "bank-ch9-ordinary-course",
+      "title": "E.4 Ordinary Course §547(c)(2): Subjective OR Objective",
+      "chapterGroup": "bank-ch9",
+      "description": "Diligence, baseline practice, industry evidence, BAPCPA change.",
+      "entries": [
+        {
+          "id": "bank-ch9-ordinary-course-e1",
+          "type": "rule",
+          "title": "§547(c)(2) gateway: debt itself incurred in ordinary course",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Debtor's underlying debt must have arisen during ordinary business/financial affairs of debtor and creditor, and qualifying payment be made either subjectively normal for these parties OR objectively normal industry terms.",
+          "laymanExplanation": "Regular supplier invoices may pass gateway; an unusual insider side-deal might not.",
+          "legalExplanation": "This gateway requirement remains conjunctive with whichever of (A)/(B) alternatives succeeds.",
+          "examApplication": "Start with debt origination, then payment character.",
+          "examTrap": "Not all payments between repeat partners are ordinary if debt itself extraordinary."
+        },
+        {
+          "id": "bank-ch9-ordinary-course-e2",
+          "type": "rule",
+          "title": "§547(c)(2)(A) subjective: this debtor-creditor historic course",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Proof payment consistent with parties' own past practice: timings, amounts, invoicing, pressure, collection changes; long ordinary history is strongest baseline.",
+          "laymanExplanation": "Company always paid supplier 45 days after invoice and continues same schedule.",
+          "legalExplanation": "Even if other industry participants usually pay sooner, BAPCPA OR rule can protect source-conformity.",
+          "examApplication": "Compare preference period to months well before financial distress.",
+          "examTrap": "Don't assume payment is ordinary simply because made within contracted due date."
+        },
+        {
+          "id": "bank-ch9-ordinary-course-e3",
+          "type": "rule",
+          "title": "§547(c)(2)(B) objective: ordinary business terms",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Creditor can show transaction conforms to credible industry practice and sound general business standards, even if no established bilateral relationship. Source National Gas asks debtor industry, creditor industry or both.",
+          "laymanExplanation": "Banks usually accept near-maturity debt repayments but special year-end personal-guaranty payoff may fail objective norms.",
+          "legalExplanation": "Case requires transaction-specific evidence, not vague industry-wide label.",
+          "examApplication": "Identify comparator firms, range, whether transaction distinctive.",
+          "examTrap": "Generic affidavit 'loans usually paid when due' may be inadequate."
+        },
+        {
+          "id": "bank-ch9-ordinary-course-e4",
+          "type": "rule",
+          "title": "BAPCPA 2005 changed AND to OR",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Before 2005, creditor needed both parties' ordinary course and industry ordinary terms; after amendment §547(c)(2)(A) OR (B) suffices once underlying debt ordinary. Book emphasizes defendant-favorable major change.",
+          "laymanExplanation": "Prior practice alone can save payment now, even if industry looks irregular.",
+          "legalExplanation": "National Gas bank abandoned subjective (A), relied solely objective (B).",
+          "examApplication": "Do not recite pre-2005 conjunctive standard on present exam.",
+          "examTrap": "Textbook mistakenly mentions §547(b)(2)(A)/(B) once in exposition; actual statute and case quote are §547(c)(2)."
+        },
+        {
+          "id": "bank-ch9-ordinary-course-e5",
+          "type": "rule",
+          "title": "Rationale of objective prong and dispute over relevant industry",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Industry evidence can cross-check creditor's self-serving claim and deter prearranged preferential sweetheart deals. Fourth Circuit old Advo-System creditor-industry focus, but National Gas post-BAPCPA considered debtor's as well and general sound commercial norms.",
+          "laymanExplanation": "If bank's actions routine for banks but ruin customer's operations unusually, judge asks beyond lender's own routine.",
+          "legalExplanation": "Competing authorities consider differing baseline, source explicitly questions NGD method.",
+          "examApplication": "In essay show standard under NGD, then competing creditor-industry-only view.",
+          "examTrap": "Book poses normative question whether expansion strengthens/weakens anti-race policy."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-national-gas",
+      "title": "E.4 In re National Gas Distributors (2006) — Full Objective-Ordinariness Case",
+      "chapterGroup": "bank-ch9",
+      "description": "Unsecured bank debt paid near maturity to shield owners' personal guarantees.",
+      "entries": [
+        {
+          "id": "bank-ch9-national-gas-e1",
+          "type": "case",
+          "title": "In re National Gas Distributors, LLC, 346 B.R. 394 (Bankr. E.D.N.C. 2006)",
+          "page": "Ch9 §E.4 full opinion",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "No. Bankruptcy court granted trustee summary judgment, avoided/recovered $3,263,516.15 plus judgment interest; BB&T failed sufficiently specific objective ordinary-business-terms evidence; payment to relieve owner's guaranties during collapse not normal from borrower/overall business perspective.",
+          "laymanExplanation": "Court emphasized 2005 changed conjunctive subjective+objective to independent OR routes, making objective prong non-subordinate to bilateral baseline. Objective evidence must assess lender practices plus borrower energy industry and general standards of sound business, not 'banks accept payments when due' at high abstraction. Borrower with no continuing financing paid major corporate notes instead of continuing operations to protect personal owners. Bank could innocently receive payment but couldn't prove §547(c)(2)(B). Court acknowledged earlier Fourth Circuit Advo-System creditor-industry emphasis, considered amendment changing framework.",
+          "legalExplanation": "Court emphasized 2005 changed conjunctive subjective+objective to independent OR routes, making objective prong non-subordinate to bilateral baseline. Objective evidence must assess lender practices plus borrower energy industry and general standards of sound business, not 'banks accept payments when due' at high abstraction. Borrower with no continuing financing paid major corporate notes instead of continuing operations to protect personal owners. Bank could innocently receive payment but couldn't prove §547(c)(2)(B). Court acknowledged earlier Fourth Circuit Advo-System creditor-industry emphasis, considered amendment changing framework.",
+          "examApplication": "$755,329.80+$2,508,186.35=$3,263,516.15; December payments Jan20 petition, personally guaranteed unsecured NGD debt, 2005 'or', generic bank affidavit.",
+          "examTrap": "Do not say every bank repayment before maturity extraordinary or that buyer must satisfy both (A) and (B) after 2005.",
+          "assignedOpinion": true,
+          "sourceRole": "Full bankruptcy court opinion excerpt included in supplied Chapter9",
+          "facts": "National Gas (NGD) energy distributor owned by Paul Lawing borrowed from BB&T, unsecured by NGD assets but personally guaranteed by Paul and Ann Lawing, secured by Ann's assets. Dec15 and Dec19 2005 NGD paid BB&T $755,329.80 and $2,508,186.35 ahead of maturity Dec23; filed Chapter11 Jan20 2006. Trustee sought $3,263,516.15 preference. §547(b) conceded. BB&T claimed objective ordinary business terms §547(c)(2)(B), noting no lender pressure, no default and routine banks accept repayment before note matures; NGD ostensibly paying due to Lawings' personal year-end estate planning.",
+          "issue": "Does BB&T establish post-BAPCPA objective 'ordinary business terms' defense where payments fell near maturity but were aimed at erasing shareholder-guaranteed bank debt while debtor's business collapsed?",
+          "holding": "No. Bankruptcy court granted trustee summary judgment, avoided/recovered $3,263,516.15 plus judgment interest; BB&T failed sufficiently specific objective ordinary-business-terms evidence; payment to relieve owner's guaranties during collapse not normal from borrower/overall business perspective.",
+          "reasoning": "Court emphasized 2005 changed conjunctive subjective+objective to independent OR routes, making objective prong non-subordinate to bilateral baseline. Objective evidence must assess lender practices plus borrower energy industry and general standards of sound business, not 'banks accept payments when due' at high abstraction. Borrower with no continuing financing paid major corporate notes instead of continuing operations to protect personal owners. Bank could innocently receive payment but couldn't prove §547(c)(2)(B). Court acknowledged earlier Fourth Circuit Advo-System creditor-industry emphasis, considered amendment changing framework.",
+          "rule": "Objective §547(c)(2)(B) defense requires sufficiently specific evidence that unusual transaction fits ordinary business terms; in National Gas near-maturity repayment of insider-guaranteed debt failed."
+        },
+        {
+          "id": "bank-ch9-national-gas-e2",
+          "type": "rule",
+          "title": "Why BB&T's bank-industry affidavit was not enough",
+          "page": "Ch9 §E.4 / NGD",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Bare claim that 'banks usually collect loans by maturity' provided too generic comparator; ignored customer's industry, unusual end-year motives and lack of replacement working capital.",
+          "laymanExplanation": "Normal to repay a loan, abnormal to drain collapsing corporation solely to save owners' collateral.",
+          "legalExplanation": "Evidence must match specific maturity extension pattern, financing alternatives and transactions.",
+          "examApplication": "Ask what genuine representative industry evidence might have shown.",
+          "examTrap": "The court accepted bank didn't press for payment or know problems, still rejected defense."
+        },
+        {
+          "id": "bank-ch9-national-gas-e3",
+          "type": "rule",
+          "title": "Owner-guaranty motivation changes objective business character",
+          "page": "Ch9 §E.4 / NGD",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "NGD's corporate assets paid loan guaranteed personally by Lawings instead of continuing planned business refinancing, functionally improving owner position and bank at others' expense.",
+          "laymanExplanation": "Owners protect own family assets using company funds near collapse.",
+          "legalExplanation": "§547(b) doesn't require wrongful intent, but defense evaluates atypical last-minute purpose.",
+          "examApplication": "Compare with §547(i) one-year insider benefits on different time frame.",
+          "examTrap": "Not automatically an independently actually fraudulent transfer without separate proof."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-new-value-defenses",
+      "title": "E.4 New Value, Enabling Loans and Minor Transfers §547(c)(1),(3),(4),(7)-(9)",
+      "chapterGroup": "bank-ch9",
+      "description": "The importance of who gave new value when, actual repayment, and thresholds.",
+      "entries": [
+        {
+          "id": "bank-ch9-new-value-defenses-e1",
+          "type": "rule",
+          "title": "§547(c)(1) contemporaneous exchange for NEW value",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Avoidance blocked to extent transfer parties intended substantially contemporaneous exchange of new value and it was in fact substantially contemporaneous; paying in cash upon delivery usually not old-debt preference.",
+          "laymanExplanation": "Pay $1k today for $1k inventory delivered today, estate receives equivalent fresh asset.",
+          "legalExplanation": "Intention plus objective timing, partial exception applies to new-value portion.",
+          "examApplication": "Contrast old unpaid balance and fresh delivery.",
+          "examTrap": "Delayed perfection exception §547(c)(3) has distinct required criteria."
+        },
+        {
+          "id": "bank-ch9-new-value-defenses-e2",
+          "type": "rule",
+          "title": "§547(c)(4) SUBSEQUENT new value defense",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "After otherwise preferential transfer, creditor later gives debtor new goods/services or fresh unsecured credit not secured by unavoidable security interest, and not otherwise paid by unavoidable transfer; such later value reduces preference exposure.",
+          "laymanExplanation": "Supplier got paid old $8.5k on Apr1, then shipped new $4k on credit Apr15; new risk to estate can offset prior preference.",
+          "legalExplanation": "Chronology vital: new value must FOLLOW the challenged preference to offset; multiple payments/new value require rolling ledger.",
+          "examApplication": "For Problem9.12 draw running preference/new value table, leave original amounts unsolved.",
+          "examTrap": "Earlier goods already owed at time of payment don't count as subsequent value."
+        },
+        {
+          "id": "bank-ch9-new-value-defenses-e3",
+          "type": "rule",
+          "title": "§547(c)(3) purchase-money/enabling loan 30-day perfection",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "If creditor actually extends NEW VALUE to enable debtor acquire collateral, debtor actually uses loan for acquisition and secured creditor perfects within 30 days after debtor receives possession, lien may survive preference challenge.",
+          "laymanExplanation": "Car lender gets narrow deadline to file title/security paperwork after delivery.",
+          "legalExplanation": "Different clocks: UCC §9-317(e) 20-day relation-back for strong arm; §547(c)(3) 30-day enabling preference defense, §547(e) timing also 30.",
+          "examApplication": "Apply both under separate statutory schemes, not just single cutoff.",
+          "examTrap": "Ordinary refinancing not acquisition loan, thus §547(c)(3) may not apply."
+        },
+        {
+          "id": "bank-ch9-new-value-defenses-e4",
+          "type": "rule",
+          "title": "§547(c)(6) statutory liens; (c)(7) family support",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Exempts specified fixing of statutory liens not avoidable under §545 and qualified domestic support payments, subject statutory conditions.",
+          "laymanExplanation": "Some legally arising liens and support duties protected despite §547(b) appearance.",
+          "legalExplanation": "Need code-subsection requirements for actual litigation.",
+          "examApplication": "List category and applicable exception separately.",
+          "examTrap": "Do not assume a contractual consensual lien is statutory simply because filed."
+        },
+        {
+          "id": "bank-ch9-new-value-defenses-e5",
+          "type": "rule",
+          "title": "§547(c)(8),(9) de minimis historically printed amounts",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Source prints $600 consumer individual and $6,825 nonconsumer aggregate transfer thresholds (source-era figures), adjusted periodically under Code. §547(h) certain counseling-agency alternative payment plans also protected.",
+          "laymanExplanation": "Very tiny preference lawsuits not generally worth it and statutorily barred if thresholds met.",
+          "legalExplanation": "Amounts must be checked for applicable historical filing date; do not silently substitute current unverified dollars.",
+          "examApplication": "For Problem9.12(e) analyze aggregate and type of debtor under printed source.",
+          "examTrap": "These source-era dollar figures may not be current in November2026."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-floating-lien-defense",
+      "title": "E.4 Floating Liens §547(c)(5): Two-Point Improvement-in-Position Test",
+      "chapterGroup": "bank-ch9",
+      "description": "Inventory/receivables after-acquired collateral may refresh without preference except gain in secured position.",
+      "entries": [
+        {
+          "id": "bank-ch9-floating-lien-defense-e1",
+          "type": "rule",
+          "title": "Floating lien covers after-acquired inventory and receivables",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Lender perfects security interest in debtor's constantly rotating inventory and proceeds, including inventory acquired during 90-day preference period; §547(e)(3) gives later-acquired collateral transfer timing.",
+          "laymanExplanation": "Every crate sold and replaced under lien could look like new debtor-to-bank transfer, but Congress protects inventory finance.",
+          "legalExplanation": "§547(c)(5) uses improvement test, not avoid every fresh item acquired during 90 days.",
+          "examApplication": "Build beginning and petition collateral/debt values.",
+          "examTrap": "No distinction from new cash payment if separate old debt repayment changes deficiency."
+        },
+        {
+          "id": "bank-ch9-floating-lien-defense-e2",
+          "type": "rule",
+          "title": "Two-point deficiency formula",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Deficiency at any time = MAX(0, amount of secured debt − value of qualifying perfected inventory/receivables). §547(c)(5) preferential improvement = MAX(0, deficiency on day90 (or first new-value date) − deficiency at petition), subject creditor prejudice and specifics.",
+          "laymanExplanation": "Lender's unsecured shortfall shrank by $20k from 90 days earlier: improved status potentially avoidable.",
+          "legalExplanation": "Measure two endpoints, not intermediate dip/rebound.",
+          "examApplication": "In Problem9.14 compare Apr1 and Jun30, not June15 alone.",
+          "examTrap": "Don't treat gross rise in collateral as gain if creditor fully secured at both endpoints."
+        },
+        {
+          "id": "bank-ch9-floating-lien-defense-e3",
+          "type": "rule",
+          "title": "Interim collateral swings generally not enough",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "Source Problem9.14(d) makes June15 lower inventory value recover to original June30; no gain by two-point endpoint despite midperiod fluctuation unless other legal facts.",
+          "laymanExplanation": "Collateral might fall and recover before filing without lender ultimately getting ahead.",
+          "legalExplanation": "Look to bankruptcy-date comparison statutory scheme.",
+          "examApplication": "Record all intermediate events but select statutory endpoints.",
+          "examTrap": "Don't conclude every temporary decrease triggers liability."
+        },
+        {
+          "id": "bank-ch9-floating-lien-defense-e4",
+          "type": "rule",
+          "title": "Payments of underlying debt alter two-point comparison",
+          "page": "Ch9 §E.4",
+          "source": "User-uploaded Bankruptcy Chapter9 §E.4 defenses to preference liability, full In re National Gas Distributors (2006), original Problems9.12–14",
+          "summary": "If debtor pays bank $20k in period, debt drops and resulting deficiency changes; §547(c)(5) does not necessarily immunize separate cash payment simply because floating lien protected.",
+          "laymanExplanation": "Lender can improve position through receiving cash rather than increased inventory.",
+          "legalExplanation": "Problem9.14(e) expressly requires factoring payment with lien coverage; keep question unanswered.",
+          "examApplication": "Distinguish amount recoverable from cash versus after-acquired collateral.",
+          "examTrap": "Don't compute using collateral only while ignoring principal repayments."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
