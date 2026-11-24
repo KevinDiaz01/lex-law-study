@@ -1,0 +1,368 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+  "coverage": {
+    "chapter": 9,
+    "scope": "Comprehensive UVTA Appendix §1 definitions, §§2 insolvency, 3 value/foreclosure, 4 actual and financial-risk fraud, 5 present creditor and insider debt, 6 transfers made, 7 remedies, 8 defenses and subsequent transfers, 9 extinguishment, 10 choice law, 12/13 supplementary and uniformity, 15 title"
+  },
+  "topics": [
+    {
+      "id": "bank-ch9-uvta-key-definitions",
+      "title": "D Appendix: UVTA §1–§3 Core Definitions, Insolvency and Value",
+      "chapterGroup": "bank-ch9",
+      "description": "The actual statutory criteria, not merely the general fraud summary.",
+      "entries": [
+        {
+          "id": "bank-ch9-uvta-key-definitions-e1",
+          "type": "rule",
+          "title": "§1(2) Asset means unencumbered, nonexempt property",
+          "page": "Ch9 UVTA §1(2)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Asset excludes property to extent subject to VALID lien, property generally exempt outside bankruptcy, qualifying entirety interest unreachable by one spouse's creditors.",
+          "laymanExplanation": "Secured half of house is not free debtor asset for state UVTA analysis.",
+          "legalExplanation": "Distinguish federal §548 'interest in property' from state §1 asset definition.",
+          "examApplication": "Analyze equity and whether existing lien valid.",
+          "examTrap": "Do not value collateral gross without subtracting valid lien when UVTA specifies asset."
+        },
+        {
+          "id": "bank-ch9-uvta-key-definitions-e2",
+          "type": "rule",
+          "title": "§1(3) claim includes contingent, disputed, unmatured",
+          "page": "Ch9 UVTA §1(3)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "State fraudulent transfer claimant includes right to payment regardless judgment, liquidated status, contingency, maturity, dispute, law or equity, secured or unsecured; broad 'creditor' = holder claim.",
+          "laymanExplanation": "You can be a creditor even before invoice due or verdict entered.",
+          "legalExplanation": "Distinguish §544(b)'s actual unsecured creditor special federal trigger.",
+          "examApplication": "Determine claim date for present vs future standing.",
+          "examTrap": "A person not yet entitled to any payment is not automatically present creditor."
+        },
+        {
+          "id": "bank-ch9-uvta-key-definitions-e3",
+          "type": "rule",
+          "title": "§1(6)/(8) debtor and insider",
+          "page": "Ch9 UVTA §1",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Debtor person liable on claim; insider includes relatives of individual/partners, officers/directors/person controlling corporation, certain affiliated businesses and their insiders, managing agents. Affiliate can turn on 20% voting interest or substantial control.",
+          "laymanExplanation": "Transfers to mother, controlling officer, sibling business can trigger insider red flags/§5(b).",
+          "legalExplanation": "§1(1) affiliate identifies 20%-vote interownership and lease/control relationships, with exclusions for security-only holdings.",
+          "examApplication": "Map actors and indirect control, not only formal title.",
+          "examTrap": "Any friend isn't automatically statutory insider."
+        },
+        {
+          "id": "bank-ch9-uvta-key-definitions-e4",
+          "type": "rule",
+          "title": "§1(9),(16),(17): lien, transfer and valid lien",
+          "page": "Ch9 UVTA §1",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Transfer includes direct/indirect, voluntary/involuntary dispositions of assets or interests including payment, release, lease, license, encumbrance; lien includes agreement, judicial process and statute; valid lien must defeat later lien creditor.",
+          "laymanExplanation": "Even granting security interest or forgiving a debt can be transfer.",
+          "legalExplanation": "Applicable state priority decides 'valid lien'.",
+          "examApplication": "Identify borrower lien encumbrance as transfer even if no cash physically leaves.",
+          "examTrap": "Valid lien test matters for UVTA 'asset' net value."
+        },
+        {
+          "id": "bank-ch9-uvta-key-definitions-e5",
+          "type": "rule",
+          "title": "UVTA §2 balance-sheet insolvency, presumption for nonpayment",
+          "page": "Ch9 UVTA §2",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Debtor insolvent if debts > assets at FAIR valuation; generally failing to pay debts as due (except bona fide dispute) presumes insolvency unless rebutted. Exclude concealed/fraudulently transferred assets and secured obligations matched to excluded assets under specified §2(c),(d).",
+          "laymanExplanation": "If liabilities $800k exceed qualifying assets $600k, balance-sheet insolvent; regular unpaid bills provide rebuttable shortcut.",
+          "legalExplanation": "§2(b) shifts presumption by putting burden of proving noninsolvency more probable on other side.",
+          "examApplication": "For each hypothetical distinguish measured asset types, disputed debt and rebuttal.",
+          "examTrap": "Don't equate nonpayment of one genuinely disputed invoice to general nonpayment presumption."
+        },
+        {
+          "id": "bank-ch9-uvta-key-definitions-e6",
+          "type": "rule",
+          "title": "UVTA §3(a): value includes property and satisfaction/security of antecedent debt",
+          "page": "Ch9 UVTA §3(a)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Value given if property transferred or antecedent debt secured/satisfied, but unperformed extraordinary promise of support outside ordinary business NOT value.",
+          "laymanExplanation": "Paying valid old debt can be full value even if it disadvantages other creditors.",
+          "legalExplanation": "Separate UVTA insider preference §5(b) from ordinary constructively fraudulent no-value transfers.",
+          "examApplication": "Identify what debtor received, not beneficiary's happy reaction.",
+          "examTrap": "A vague promise to support child someday may be excluded."
+        },
+        {
+          "id": "bank-ch9-uvta-key-definitions-e7",
+          "type": "rule",
+          "title": "UVTA §3(b): regularly conducted foreclosure safe harbor",
+          "page": "Ch9 UVTA §3(b)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "For constructive voidability under UVTA §§4(a)(2),5, properly conducted noncollusive foreclosure or power-of-sale under mortgage/trust/security agreement conclusively provides reasonably equivalent value.",
+          "laymanExplanation": "Legally run foreclosure can satisfy value despite discount compared to appraisal.",
+          "legalExplanation": "This is EXPRESS state model statutory rule unlike federal BFP majority's construction.",
+          "examApplication": "Compare BFP v RTC and §548; analyze actual adopted statute.",
+          "examTrap": "Not safe harbor for collusive or unlawful sale or necessarily actual-fraud §4(a)(1)."
+        },
+        {
+          "id": "bank-ch9-uvta-key-definitions-e8",
+          "type": "rule",
+          "title": "UVTA §3(c): present value/substantial contemporaneity",
+          "page": "Ch9 UVTA §3(c)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Present value when parties intended exchange to be contemporaneous and actually substantially contemporaneous.",
+          "laymanExplanation": "A genuine cash-for-goods exchange is different from paying old invoice.",
+          "legalExplanation": "Useful in §8 defenses and comparisons with preference §547(c)(1).",
+          "examApplication": "Distinguish present value and antecedent debt.",
+          "examTrap": "Not mechanical 'same minute' requirement."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-uvta-causes",
+      "title": "D Appendix: UVTA §4 and §5 Fraud/Insider Preference Causes",
+      "chapterGroup": "bank-ch9",
+      "description": "The divide between all creditors and present creditors.",
+      "entries": [
+        {
+          "id": "bank-ch9-uvta-causes-e1",
+          "type": "rule",
+          "title": "§4(a)(1) actual hindrance/delay/fraud: present or future",
+          "page": "Ch9 UVTA §4(a)(1)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Transfer or obligation avoidable as to creditor whether claim arose before OR after transfer if debtor intended to hinder, delay or defraud ANY creditor.",
+          "laymanExplanation": "Fraudulent hiding a mansion can hurt somebody who lends later.",
+          "legalExplanation": "Prove actual intent from §4(b) badges, no sole test.",
+          "examApplication": "Use §4(b) matrix, not retroactive objective criteria alone.",
+          "examTrap": "Does not require insolvency as separate element."
+        },
+        {
+          "id": "bank-ch9-uvta-causes-e2",
+          "type": "rule",
+          "title": "§4(a)(2)(i) unreasonably small assets: present or future",
+          "page": "Ch9 UVTA §4(a)(2)(i)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Less than reasonably equivalent value, AND debtor engaged/about to engage transaction leaving remaining assets unreasonably small relative to business/transaction; both present and future may sue.",
+          "laymanExplanation": "Business is left unable to fund predicted expenses after undervalued transfer.",
+          "legalExplanation": "Capital sufficiency forward-looking; no separate actual fraud intent.",
+          "examApplication": "Analyze projections, capital needs and risk.",
+          "examTrap": "Can apply even solvent on traditional balance sheet."
+        },
+        {
+          "id": "bank-ch9-uvta-causes-e3",
+          "type": "rule",
+          "title": "§4(a)(2)(ii) debts beyond ability to pay: present or future",
+          "page": "Ch9 UVTA §4(a)(2)(ii)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Less than reasonable value AND debtor intended, believed, or reasonably should have believed would incur debts beyond ability to pay as due.",
+          "laymanExplanation": "Debtor gifts property despite knowing upcoming obligations can't be met.",
+          "legalExplanation": "Future creditors covered even though not on scene at gift.",
+          "examApplication": "Track projected income/expenses and knowledge.",
+          "examTrap": "Requires more than hindsight bankruptcy."
+        },
+        {
+          "id": "bank-ch9-uvta-causes-e4",
+          "type": "rule",
+          "title": "§4(b) 11 factors, nonexclusive; §4(c) burden",
+          "page": "Ch9 UVTA §4(b),(c)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Insider, retained control, concealment, suit threat, substantially all assets, abscond, removed assets, no equivalent value, insolvency, substantial debt timing, business asset-to-lienor-to-insider route; party challenging §4 bears PREPONDERANCE burden.",
+          "laymanExplanation": "Set of overlapping warning lights, not automatic win after X lights.",
+          "legalExplanation": "UVTA §4(b) 'among other factors' allows circumstances beyond enumerated eleven.",
+          "examApplication": "Make evidence column for each badge.",
+          "examTrap": "Don't say presence of one factor proves actual fraud."
+        },
+        {
+          "id": "bank-ch9-uvta-causes-e5",
+          "type": "rule",
+          "title": "§5(a) insolvency constructive fraud: present creditors only",
+          "page": "Ch9 UVTA §5(a)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Transfer/obligation to debtor's PRESENT creditor (claim already arose) if less equivalent value AND debtor insolvent at transfer or rendered insolvent.",
+          "laymanExplanation": "Only lenders already in line when company gave away property may use this state-law ground.",
+          "legalExplanation": "Different §4(a)(2) conditions available to future creditors.",
+          "examApplication": "For §544(b) identify actual allowable unsecured present creditor at petition.",
+          "examTrap": "Do not treat §5(a) as authorizing every future creditor."
+        },
+        {
+          "id": "bank-ch9-uvta-causes-e6",
+          "type": "rule",
+          "title": "§5(b) insider preference: special PRESENT-creditor remedy",
+          "page": "Ch9 UVTA §5(b)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Insider given transfer for ANTECEDENT debt, debtor insolvent, insider had reasonable cause to know insolvent, and claimant present creditor. Safe harbors §8(f), one-year §9(c).",
+          "laymanExplanation": "Owner gets repaid old shareholder loan while suppliers unpaid.",
+          "legalExplanation": "This is UVTA avoiding power separate from federal §547 and distinct from §548 insider employment category.",
+          "examApplication": "Identify insider status, antecedent debt, proof of awareness.",
+          "examTrap": "Unlike §548(a)(1)(B), doesn't require less than equivalent value."
+        },
+        {
+          "id": "bank-ch9-uvta-causes-e7",
+          "type": "rule",
+          "title": "§5(c) claim burdens and §2(b) insolvency presumption",
+          "page": "Ch9 UVTA §5(c)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Claimant must prove applicable §5(a)/(b) elements by preponderance, subject to §2(b) burden-shifting insolvency presumption.",
+          "laymanExplanation": "Accuser must prove case but nonpayer can face insolvency presumption.",
+          "legalExplanation": "Proof allocation may affect whether discovery of missing ledgers matters.",
+          "examApplication": "State evidentiary burden as given.",
+          "examTrap": "Do not assume creditors automatically win because debtor bankrupt later."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-uvta-timing",
+      "title": "D Appendix: UVTA §6 and §9 Transfer Timing / Extinguishment",
+      "chapterGroup": "bank-ch9",
+      "description": "When transfers count as made and how long creditor may sue.",
+      "entries": [
+        {
+          "id": "bank-ch9-uvta-timing-e1",
+          "type": "rule",
+          "title": "§6(1) realty date: defeat bona fide purchaser standard",
+          "page": "Ch9 UVTA §6(1)(i)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Realty transfer made when so far perfected BFP from debtor cannot gain superior interest; sometimes recording controls.",
+          "laymanExplanation": "Deed signed but never recorded may not start statutory transfer clock.",
+          "legalExplanation": "State recording priority facts dictate whether transfer perfected under UVTA.",
+          "examApplication": "Use real estate purchaser priority.",
+          "examTrap": "Don't use simple signature date if statute postpones transfer until perfection."
+        },
+        {
+          "id": "bank-ch9-uvta-timing-e2",
+          "type": "rule",
+          "title": "§6(1) personalty date: defeat later lien creditor standard",
+          "page": "Ch9 UVTA §6(1)(ii)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Nonrealty transfer made when sufficiently perfected so ordinary creditor could not obtain superior judicial lien.",
+          "laymanExplanation": "Secret goods lien counts later than debtor's original security agreement.",
+          "legalExplanation": "Connect UCC Article9 public filing and §544(a)(1).",
+          "examApplication": "Timeline attachment/perfection against lien creditor.",
+          "examTrap": "Transfers not perfected by suit may be deemed made immediately before action §6(2)."
+        },
+        {
+          "id": "bank-ch9-uvta-timing-e3",
+          "type": "rule",
+          "title": "§6(3)–(5): no perfection, acquired rights, oral/written obligations",
+          "page": "Ch9 UVTA §6",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "If not legally perfectible, transfer effective when between parties; no transfer before debtor owns rights in asset. Oral obligation incurred upon effective agreement; signed record when delivered to obligee.",
+          "laymanExplanation": "Can't transfer collateral you don't yet own for statute timing.",
+          "legalExplanation": "§6(2) unperfected transfer when avoidance suit filed treated immediately before action.",
+          "examApplication": "Track creation date, legal effectiveness and recording separately.",
+          "examTrap": "Do not date future-acquired collateral before debtor acquired rights."
+        },
+        {
+          "id": "bank-ch9-uvta-timing-e4",
+          "type": "rule",
+          "title": "§9(a) actual fraud: 4 years OR 1 year discovery",
+          "page": "Ch9 UVTA §9(a)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "§4(a)(1) extinguishes unless suit within four years of transfer/obligation OR, if later, within one year after actual or reasonably discoverable transfer/obligation.",
+          "laymanExplanation": "Hidden transfer found later may give additional one-year route for actual fraud.",
+          "legalExplanation": "Discovery alternative specifically actual intent claim.",
+          "examApplication": "For timeline use later of standard and discovery within given state model.",
+          "examTrap": "Not same discovery extension for every constructive fraud."
+        },
+        {
+          "id": "bank-ch9-uvta-timing-e5",
+          "type": "rule",
+          "title": "§9(b) §4(a)(2)/§5(a): 4 years; §9(c) insider debt: 1 year",
+          "page": "Ch9 UVTA §9(b),(c)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Unreasonably small capital / inability to pay and insolvent-gift claims extinguish 4 years; insider antecedent-debt §5(b) extinguishes 1 year.",
+          "laymanExplanation": "Old insider repayment has much shorter special challenge window.",
+          "legalExplanation": "State extinguishment differs from federal action filing §546(a).",
+          "examApplication": "Always identify statutory subtype before counting years.",
+          "examTrap": "Don't apply four years to §5(b) automatically."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-uvta-remedies",
+      "title": "D Appendix: UVTA §§7–8 Remedies and Good-Faith Defense",
+      "chapterGroup": "bank-ch9",
+      "description": "Limited satisfaction, beneficiary, derivative title, special safe harbors, proof.",
+      "entries": [
+        {
+          "id": "bank-ch9-uvta-remedies-e1",
+          "type": "rule",
+          "title": "§7 remedies: avoidance, attachment, injunction, receiver, execution",
+          "page": "Ch9 UVTA §7",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Creditor may avoid to extent necessary to satisfy claim, get provisional attachment/injunction/receiver, other equitable relief, or judgment-creditor levy on asset or proceeds.",
+          "laymanExplanation": "Can freeze property before suspect sells it again.",
+          "legalExplanation": "Outside bankruptcy individual creditor recovery limited by own claim; contrast Moore v Bay whole transfer for trustee via §544(b).",
+          "examApplication": "Separate avoidance and later recovery.",
+          "examTrap": "Don't automatically give one outside creditor entire asset when smaller claim."
+        },
+        {
+          "id": "bank-ch9-uvta-remedies-e2",
+          "type": "rule",
+          "title": "§8(a) good faith + reasonably equivalent value shields ACTUAL fraud transfer",
+          "page": "Ch9 UVTA §8(a)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "§4(a)(1) transfer not voidable against good-faith person who gave reasonably equivalent value to debtor or any subsequent transferee/obligee.",
+          "laymanExplanation": "Innocent honest collector paying full value can keep property despite seller's fraudulent intent.",
+          "legalExplanation": "Source Alan Drey illustrates when buyer has red flags defeating good faith.",
+          "examApplication": "Check consideration and red flags.",
+          "examTrap": "This provision is defense to §4(a)(1); other statutory protection differs."
+        },
+        {
+          "id": "bank-ch9-uvta-remedies-e3",
+          "type": "rule",
+          "title": "§8(b),(c) monetary judgment and chain of transferees",
+          "page": "Ch9 UVTA §8(b),(c)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Recovery up to LESSER transferred asset value (possibly equity-adjusted) or creditor's claim amount; defendant first transferee or benefit recipient, or immediate/mediate transferee except protected value/good-faith person and good-faith derivative successor. Value measured at transfer with equitable adjustment.",
+          "laymanExplanation": "If creditor owed $5k, can't get $20k cash just because property worth $20k.",
+          "legalExplanation": "Similar §550 but UVTA individual recovery caps claim amount.",
+          "examApplication": "Trace initial, intermediate, end recipient and status.",
+          "examTrap": "Good-faith subsequent recipient for value may shield successors in good faith."
+        },
+        {
+          "id": "bank-ch9-uvta-remedies-e4",
+          "type": "rule",
+          "title": "§8(d) innocent recipient lien/retention/offset for given value",
+          "page": "Ch9 UVTA §8(d)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Good-faith transferee despite voidability entitled lien/right retain interest, enforce qualifying obligation or reduction of judgment to extent value given debtor.",
+          "laymanExplanation": "Someone who paid $10k in good faith may get credit for $10k even if purchase avoidable.",
+          "legalExplanation": "Defense protects value contributed, not necessarily full resale appraised amount.",
+          "examApplication": "Distinguish voidability and compensating value.",
+          "examTrap": "A gift recipient gave no value and receives little such protection."
+        },
+        {
+          "id": "bank-ch9-uvta-remedies-e5",
+          "type": "rule",
+          "title": "§8(e) excluded certain lease terminations and UCC collateral enforcement",
+          "page": "Ch9 UVTA §8(e)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Constructive §4(a)(2)/§5 avoidance unavailable for lease termination upon contract/legal default and certain Article9 security interest enforcement except acceptance of collateral in full/partial satisfaction.",
+          "laymanExplanation": "Regular repossession may be insulated by special state rule.",
+          "legalExplanation": "Do not generalize beyond specified subsections and exceptions.",
+          "examApplication": "Check actual vs constructive basis.",
+          "examTrap": "Cannot use §8(e) to excuse deliberate secret transfer with actual intent."
+        },
+        {
+          "id": "bank-ch9-uvta-remedies-e6",
+          "type": "rule",
+          "title": "§8(f) special §5(b) insider defenses",
+          "page": "Ch9 UVTA §8(f)",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Insider preference excluded to extent insider supplied subsequent UNSECURED new value, transaction ordinary course, or good-faith rehabilitation securing present value and antecedent debt.",
+          "laymanExplanation": "Insider that supplies new money after repayment may have partial defense.",
+          "legalExplanation": "Compare federal §547(c)(4) new value with independent state safe harbor.",
+          "examApplication": "Match individual payment chronology and new value security.",
+          "examTrap": "A new value secured by valid lien may not count under stated exclusion."
+        },
+        {
+          "id": "bank-ch9-uvta-remedies-e7",
+          "type": "rule",
+          "title": "§8(g),(h) proof by preponderance; §10 choice of law",
+          "page": "Ch9 UVTA §8(g)(h),§10",
+          "source": "Uploaded Bankruptcy Chapter9 Appendix Uniform Voidable Transactions Act (UVTA), §§1–10,12–13,15, full statutory text in user source",
+          "summary": "Specific parties bear proof for invoked defenses; creditor proves main cause. State governing law based on debtor's location when transfer made: individual principal residence; entity one business place or chief executive office.",
+          "laymanExplanation": "Need correct state's UVTA enactment, not creditor's favorite forum.",
+          "legalExplanation": "§12 law/equity supplements act unless displaced; §13 uniform construction; §15 name UVTA.",
+          "examApplication": "For conflict exam identify debtor location as of disputed transaction.",
+          "examTrap": "Not all defendants or businesses governed by forum-state law."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
