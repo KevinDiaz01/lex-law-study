@@ -1,0 +1,518 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+  "coverage": {
+    "chapter": 4,
+    "scope": "A. Overview; B.1 Scope of Acts Stayed; Citizens Bank v. Strumpf; Problem 4.1(a)-(n)",
+    "assigned": "Bankruptcy syllabus Chapter 4 general pp.201–237, precise distributed reading list not yet provided",
+    "pageNote": "Ebook text does not identify exact printed page breaks; headings, case names and problem numbers are used as locations."
+  },
+  "topics": [
+    {
+      "id": "bank-ch4-stay-overview",
+      "title": "A. Overview — Six Characteristics and Functions of the Automatic Stay",
+      "chapterGroup": "bank-ch4",
+      "description": "Automatic injunction, start time, self-executing effect, damages, termination and relief.",
+      "entries": [
+        {
+          "id": "bank-ch4-stay-overview-e1",
+          "type": "rule",
+          "title": "§362 stay serves debtor and collective-creditor goals",
+          "page": "Ch.4 §A (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Automatic stay gives debtor a breathing spell by suspending creditor collection and preserves estate from individual creditor race, maintaining petition-date status quo.",
+          "laymanExplanation": "The filing is a timeout: no creditor gets to grab assets while the bankruptcy court sorts out everyone’s rights.",
+          "legalExplanation": "Protecting debtor from harassment and collective creditors from destructive individual enforcement are distinct policies; reorganization may preserve going concern.",
+          "examApplication": "State both policy purposes in essays, even where debtor wants to keep vehicle for work.",
+          "examTrap": "The stay isn't exclusively for debtor; it prevents a creditor race."
+        },
+        {
+          "id": "bank-ch4-stay-overview-e2",
+          "type": "rule",
+          "title": "Characteristic 1: injunction with §362(a)/(b) boundaries",
+          "page": "Ch.4 §A (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "The automatic stay is a statutory injunction against covered prepetition claim collection and interference with estate property, subject to enumerated exceptions.",
+          "laymanExplanation": "A legal stop sign automatically bars certain acts.",
+          "legalExplanation": "The covered scope is §362(a), exceptions §362(b); postpetition debts and independent third-party obligations generally not stayed under basic rule.",
+          "examApplication": "Classify act, claim origin and person/property at issue before saying ‘stayed’.",
+          "examTrap": "Stay isn't broad ban on every dispute involving debtor or every government action."
+        },
+        {
+          "id": "bank-ch4-stay-overview-e3",
+          "type": "rule",
+          "title": "Characteristic 2: automatic at filing, no notice/order",
+          "page": "Ch.4 §A (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "The stay arises instantly when petition filed, applicable to all entities without separate court order or prior notice.",
+          "laymanExplanation": "Even if repossession company has not heard about petition, it cannot lawfully sell car afterward if §362(a) applies.",
+          "legalExplanation": "A 1:59 p.m. petition preceding 2 p.m. sale changes legal result; ignorance may matter to sanctions but not stay applicability.",
+          "examApplication": "Put precise event times on timeline.",
+          "examTrap": "Don't require service on creditor for stay to exist."
+        },
+        {
+          "id": "bank-ch4-stay-overview-e4",
+          "type": "rule",
+          "title": "Characteristic 3: stay violation generally ineffective, annulment possible",
+          "page": "Ch.4 §A (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Under chapter's formulation, act that violates stay has no operative legal effect; §362(d) allows court to annul stay retroactively, validating action. Courts sometimes characterize violation as void vs voidable depending doctrine.",
+          "laymanExplanation": "A postpetition foreclosure doesn't count unless bankruptcy court retroactively permits that result.",
+          "legalExplanation": "Recognize judge may annul stay; practical default no legal effect, even where actor unaware of filing.",
+          "examApplication": "Separate whether act valid from whether actor deserves damages.",
+          "examTrap": "Don't state every violation is incurable forever or that a sale automatically stands merely because creditor lacked notice."
+        },
+        {
+          "id": "bank-ch4-stay-overview-e5",
+          "type": "rule",
+          "title": "Characteristic 4: sanctions for knowing violations",
+          "page": "Ch.4 §A (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Willful/knowing stay violators may face damages under §362(k) or contempt sanctions. §362(k)(1) individual injured by willful violation may recover actual damages, costs/fees, and appropriate punitive damages.",
+          "laymanExplanation": "Once collector knows of filing and intentionally acts anyway, court may order compensation.",
+          "legalExplanation": "Strict stay operation does not equate with automatic damages; actual knowing continuation and statutory claimant requirements matter.",
+          "examApplication": "For notice/damages ask when actor learned bankruptcy, whether intentional act occurred and injury.",
+          "examTrap": "Creditor ignorance does not defeat stay itself, but may affect a willful-violation claim."
+        },
+        {
+          "id": "bank-ch4-stay-overview-e6",
+          "type": "rule",
+          "title": "Characteristic 5: temporary, §362(c) termination",
+          "page": "Ch.4 §A (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Stay terminates by Code conditions such as case dismissal/closing, property leaving estate, or discharge for individual debtors, after which §524(a) discharge injunction can govern covered debts.",
+          "laymanExplanation": "The timeout has an endpoint; discharge imposes a different continuing bar on discharged debt.",
+          "legalExplanation": "Separate stay as to property of estate (§362(c)(1)) from stay as to debtor/other acts (§362(c)(2)); identify triggering event.",
+          "examApplication": "If asset abandoned or exempted, do not automatically treat debtor-protection provision terminated too.",
+          "examTrap": "Stay ending does not mean discharged debt becomes collectible."
+        },
+        {
+          "id": "bank-ch4-stay-overview-e7",
+          "type": "rule",
+          "title": "Characteristic 6: §362(d)–(g) relief mechanism",
+          "page": "Ch.4 §A (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Bankruptcy court may grant creditor case-specific relief from stay, especially secured creditors; Chapter 7 of the casebook addresses detailed relief standards.",
+          "laymanExplanation": "A lender can ask judge for permission instead of repossessing secretly.",
+          "legalExplanation": "Difference between exception (stay never applies), termination (expires), and relief (judicial order modifying it).",
+          "examApplication": "Before foreclosing secured collateral during open case determine whether exception or court order exists.",
+          "examTrap": "Having a valid lien does not alone end stay."
+        },
+        {
+          "id": "bank-ch4-stay-overview-e8",
+          "type": "rule",
+          "title": "Six-characteristics source question remains unanswered",
+          "page": "Ch.4 §A / Question (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Book asks student to identify all six stay characteristics from overview: injunction, automatic, self-executing, enforceable sanctions, temporary and possible relief.",
+          "laymanExplanation": "Use six traits as memorization checklist.",
+          "legalExplanation": "This is a source question for study, not an original statute holding.",
+          "examApplication": "Explain each trait with one concrete fact pattern.",
+          "examTrap": "Don't collapse retroactive annulment into same issue as sanctions."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch4-stay-scope",
+      "title": "B.1 — §362(a) Acts Stayed and §362(b) Exceptions: Two-Step Analysis",
+      "chapterGroup": "bank-ch4",
+      "description": "Coverage and actor/asset/time, eight subparagraphs of §362(a), distinct protected interests.",
+      "entries": [
+        {
+          "id": "bank-ch4-stay-scope-e1",
+          "type": "rule",
+          "title": "Two-step statutory analysis: (a) first, then (b)",
+          "page": "Ch.4 §B.1 (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "(1) Determine whether any §362(a) paragraph covers an act; (2) if covered, determine whether §362(b) exception permits it. If no paragraph applies or exception exists, automatic stay does not block it.",
+          "laymanExplanation": "Ask first whether the stop sign covers activity; then check whether activity has legal pass.",
+          "legalExplanation": "Different §362(a) paragraphs can apply simultaneously; exceptions sometimes limit a particular paragraph rather than all.",
+          "examApplication": "For each Problem 4.1 part identify paragraph(s), then possible §362(b); do not decide by intuition alone.",
+          "examTrap": "Exception inquiry is pointless if no §362(a) coverage."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e2",
+          "type": "rule",
+          "title": "§362(a)(1): suits and proceedings on prepetition claims",
+          "page": "Ch.4 §B.1 (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Stays commencing/continuing judicial, administrative or other proceedings against debtor that could have begun before filing, or to recover a prepetition claim.",
+          "laymanExplanation": "Ordinary lawsuit for an old bill pauses when debtor files.",
+          "legalExplanation": "Includes prosecution of prepetition private civil claims; government police/criminal exceptions checked separately.",
+          "examApplication": "For NLRB, SEC or lawsuit against Mom ask who proceeding is against.",
+          "examTrap": "Not all lawsuits brought BY debtor are stayed under (a)(1)."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e3",
+          "type": "rule",
+          "title": "§362(a)(2): enforcing earlier judgment",
+          "page": "Ch.4 §B.1 (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Stays enforcing prepetition judgment against debtor or estate property.",
+          "laymanExplanation": "A winning lawsuit still can't be used to send sheriff to seize property after filing.",
+          "legalExplanation": "Distinct from suing to establish liability under (a)(1); both may apply.",
+          "examApplication": "Analyze entry of judgment vs issue/levy of execution writ.",
+          "examTrap": "Judgment alone is not an automatic exception."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e4",
+          "type": "rule",
+          "title": "§362(a)(3): possession or affirmative control of estate property",
+          "page": "Ch.4 §B.1; Fulton (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Stays postpetition acts obtaining possession of estate property or estate property from another, and acts exercising control; Fulton holds passive retention of property lawfully seized before bankruptcy not an act under (a)(3).",
+          "laymanExplanation": "You cannot tow/boot/sell estate car after filing; keeping car already impounded before filing isn't automatically this subsection's violation.",
+          "legalExplanation": "Distinguish ‘maintain status quo’ from positive postpetition act, and separate duty to turn over under §542.",
+          "examApplication": "Problem 4.1(g)/(n) asks intangible/nonpossessory control; identify legally protected estate rights.",
+          "examTrap": "Do not equate §542 turnover duty with automatic §362(a)(3) duty."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e5",
+          "type": "rule",
+          "title": "§362(a)(4)–(5): lien creation, perfection, enforcement",
+          "page": "Ch.4 §B.1 (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Stays postpetition acts to create/perfect/enforce liens against estate property (a)(4), and analogous liens against debtor's property securing prepetition claims (a)(5), subject to specific perfection exceptions.",
+          "laymanExplanation": "A creditor can't race to make or enforce a lien just after filing.",
+          "legalExplanation": "§362(b)(3) may preserve narrow retroactive state-law perfection where conditions met; Problem 4.2(g) probes purchase money timing.",
+          "examApplication": "Mark collateral property as estate vs debtor and date security interest attached/perfection.",
+          "examTrap": "Don't say every postpetition financing statement is forbidden irrespective of §362(b)(3)."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e6",
+          "type": "rule",
+          "title": "§362(a)(6): any collection of a prepetition claim",
+          "page": "Ch.4 §B.1 (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Broad catchall stays any act to collect, assess or recover claim against debtor arising before commencement, including indirect pressure beyond a formal lawsuit.",
+          "laymanExplanation": "Shaming someone to get payment, withholding a diploma as leverage, or threatening collection may be covered even without sheriff.",
+          "legalExplanation": "Focus on purpose and coercive nature of action; examine request to reaffirm vs demand and third-party right.",
+          "examApplication": "Problems 4.1(g)-(j) distinguish moral pressure, service denial and consensual inquiry.",
+          "examTrap": "Don't assume all socially unpleasant speech automatically qualifies as act to collect."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e7",
+          "type": "rule",
+          "title": "§362(a)(7): no exercising setoff against prepetition bank debt",
+          "page": "Ch.4 §B.1; Strumpf (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Stays setoff of debt owing to debtor arising before case against claim against debtor. Proper existing setoff right may be preserved under §553, but execution needs stay relief.",
+          "laymanExplanation": "Bank can't simply erase $5,000 deposit balance to pay itself $5,000 on old loan.",
+          "legalExplanation": "A bank deposit is debt bank owes depositor. §542(b) exception and Strumpf allow temporary protective hold under facts.",
+          "examApplication": "Compare actual ledger debit to temporary administrative hold.",
+          "examTrap": "A bank may preserve potential setoff without permanently applying it."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e8",
+          "type": "rule",
+          "title": "§362(a)(8): limited U.S. Tax Court proceedings",
+          "page": "Ch.4 §B.1 statutory map (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Eighth subsection addresses defined U.S. Tax Court proceedings concerning debtor tax liabilities; source notes eight subsections but does not develop its detailed limits.",
+          "laymanExplanation": "Tax Court litigation has its own specific stay rule, not same as generic creditor lawsuit.",
+          "legalExplanation": "This statutory-map reminder supplements the chapter's enumeration; if issue appears, consult actual §362(a)(8) terms and applicable tax-period categories.",
+          "examApplication": "Use as issue spotter, do not assume all IRS proceedings stayed under (a)(8).",
+          "examTrap": "Source excerpt doesn't provide full statutory text of (a)(8)."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e9",
+          "type": "rule",
+          "title": "Prepetition claim versus later claim demarcation",
+          "page": "Ch.4 §B.1 (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "§362(a)(1),(2),(6),(7) focus on claims arising prefiling; new postpetition debt is generally not subject to stay, but estate property is separately protected.",
+          "laymanExplanation": "New plumber bill after filing is generally different from old credit card balance.",
+          "legalExplanation": "Claim accrual timing can diverge from underlying injury events; fuller treatment in casebook Chapter 5.",
+          "examApplication": "Identify earliest act, legal claim accrual and prefiling relationship.",
+          "examTrap": "Do not assume invoice date is necessarily date a bankruptcy claim arises."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e10",
+          "type": "rule",
+          "title": "Protected beneficiaries: debtor, debtor property, estate property",
+          "page": "Ch.4 §B.1 (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Ordinary stay doesn't automatically protect co-obligors, mother who cosigned, directors, shareholders or nondebtor third parties; corporate derivative suit may instead implicate rights owned by estate.",
+          "laymanExplanation": "Debtor is sheltered, but debtor's mother who cosigned may still be sued directly.",
+          "legalExplanation": "Estate property under §1334(e)(1) and §541; distinguish derivative claim belonging to corporation from independent direct claims.",
+          "examApplication": "For Problem 4.1(m)/(n) ask legal owner of sued claim and party being sued.",
+          "examTrap": "Don't categorically extend a corporate stay to all officers/directors."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e11",
+          "type": "rule",
+          "title": "Criminal prosecutions and police regulation",
+          "page": "Ch.4 §B.1 (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Bankruptcy doesn't immunize debtor from criminal law or protective government police action: §362(b)(1),(b)(4) carve out major public-interest activities.",
+          "laymanExplanation": "A Chapter 7 filing cannot halt criminal case or avoid safety laws.",
+          "legalExplanation": "Government acting as creditor pursuing money-judgment execution may be stayed despite regulatory origin.",
+          "examApplication": "Separate regulatory injunction vs judgment collection (Penn Terra/Brennan).",
+          "examTrap": "Don't confuse entry of monetary liability with enforced collection."
+        },
+        {
+          "id": "bank-ch4-stay-scope-e12",
+          "type": "rule",
+          "title": "If no automatic stay, an ordinary injunction may still be available",
+          "page": "Ch.4 §B.1 (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "A court-ordered injunction might restrain action not reached by §362(a) or protected by an exception, but only on normal substantive/procedural injunction requirements.",
+          "laymanExplanation": "Not covered by automatic stop sign doesn't mean nobody can ask judge for a separate stop order.",
+          "legalExplanation": "Stay cannot be casually expanded without statutory text; independent equitable relief follows different burden.",
+          "examApplication": "Distinguish automatic stay from sought injunction and Rule 65 style relief.",
+          "examTrap": "Not every undesirable collection tactic becomes automatically stayed."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch4-strumpf",
+      "title": "B.1 — Citizens Bank of Maryland v. Strumpf: Bank Holds vs. Setoff",
+      "chapterGroup": "bank-ch4",
+      "description": "Full Supreme Court holding, bank deposit as a debt, preserving mutual prepetition setoff and interaction §§362,542,553.",
+      "entries": [
+        {
+          "id": "bank-ch4-strumpf-e1",
+          "type": "case",
+          "title": "Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995)",
+          "page": "Ch.4 §B.1 / Strumpf opinion (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "No on these facts. A temporary administrative hold was not actual setoff under §362(a)(7); nor a prohibited taking/control or collection under (a)(3) or (a)(6). The Court did not decide if hold exceeded valid setoff amount or was otherwise wrongful.",
+          "laymanExplanation": "A temporary limited administrative hold to protect an otherwise valid setoff while promptly seeking §362(d) relief is not itself prohibited setoff; actually permanently applying deposited funds to loan is stayed.",
+          "legalExplanation": "Scalia distinguished temporary refusal to honor debt from permanently offsetting reciprocal debts: normally decision, affirmative action accomplishing setoff, and entry on account books show real setoff. §553(a) preserves nonbankruptcy setoff rights subject to stay, and §542(b) excuses immediate turnover of debt subject to setoff. Reading (a)(3)/(6) as requiring payout would nullify those provisions. Depositor's account is a bank promise to pay, not cash held as depositor's separate property.",
+          "examApplication": "For Problem 4.1(e)/(f) compare explicit $5k debit ($8k→$3k owed) versus temporary freeze; check amount, duration and prompt request for relief.",
+          "examTrap": "Not a blanket rule authorizing unlimited holds or every refusal to return property; court expressly reserved excess hold/other wrongfulness.",
+          "assignedOpinion": true,
+          "sourceRole": "Full opinion excerpt in Chapter 4",
+          "facts": "Chapter 13 borrower owed bank $5,068.75 and had checking account at bank. Eight months after petition bank placed administrative hold only on amount potentially subject to mutual setoff, preventing withdrawals reducing account below loan amount; five days later sought §362(d) stay relief to exercise setoff. Debtor moved for contempt. Bankruptcy court sanctioned bank, court of appeals agreed; Supreme Court reversed.",
+          "issue": "Is temporarily freezing an account to preserve a valid prepetition setoff right, while promptly requesting stay relief, an actual setoff or prohibited act of control/collection under §362(a)(7),(3),(6)?",
+          "holding": "No on these facts. A temporary administrative hold was not actual setoff under §362(a)(7); nor a prohibited taking/control or collection under (a)(3) or (a)(6). The Court did not decide if hold exceeded valid setoff amount or was otherwise wrongful.",
+          "reasoning": "Scalia distinguished temporary refusal to honor debt from permanently offsetting reciprocal debts: normally decision, affirmative action accomplishing setoff, and entry on account books show real setoff. §553(a) preserves nonbankruptcy setoff rights subject to stay, and §542(b) excuses immediate turnover of debt subject to setoff. Reading (a)(3)/(6) as requiring payout would nullify those provisions. Depositor's account is a bank promise to pay, not cash held as depositor's separate property.",
+          "rule": "A temporary limited administrative hold to protect an otherwise valid setoff while promptly seeking §362(d) relief is not itself prohibited setoff; actually permanently applying deposited funds to loan is stayed."
+        },
+        {
+          "id": "bank-ch4-strumpf-e2",
+          "type": "rule",
+          "title": "Setoff requires more than a provisional hold",
+          "page": "Ch.4 §B.1 / Strumpf (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Actual setoff typically requires decision, completed applying of credits, and accounting entry showing permanent cancellation of mutual debts.",
+          "laymanExplanation": "Keeping bank balance frozen to ask permission isn't same as using money to pay loan.",
+          "legalExplanation": "Federal interpretation under §362(a)(7) emphasizes permanently settling mutual obligations.",
+          "examApplication": "Identify whether bank debited loan and reduced deposit or only temporarily froze access.",
+          "examTrap": "Do not treat a clerical 'hold' label as dispositive if substantive transfer happened."
+        },
+        {
+          "id": "bank-ch4-strumpf-e3",
+          "type": "rule",
+          "title": "§553 preserves setoff; §362 suspends exercise",
+          "page": "Ch.4 §B.1 / Strumpf (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "§553 does not independently create setoff but preserves otherwise valid nonbankruptcy law mutual setoff rights; §362(a)(7) bars executing them until stay lifted.",
+          "laymanExplanation": "Bank may still have right to offset, but must ask permission before actually doing it.",
+          "legalExplanation": "State law (here Maryland) established mutual prepetition setoff right; §542(b) exempts from mandatory payover debt subject to offset.",
+          "examApplication": "Identify bank-as-debtor and creditor roles, mutuality and timing.",
+          "examTrap": "Don't say §553 itself creates an automatic right against any checking account."
+        },
+        {
+          "id": "bank-ch4-strumpf-e4",
+          "type": "rule",
+          "title": "§542(b): bank debt turnover and its statutory exception",
+          "page": "Ch.4 §B.1 / Strumpf (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Entity owing matured/payable debt to estate usually must pay trustee, except to extent §553 setoff applies; this supports reasonable temporary preservation.",
+          "laymanExplanation": "Bank owes deposit to customer as debt, but law need not force payout that destroys bank's preserved setoff right.",
+          "legalExplanation": "Harmonize §362(a), §542(b) and §553; statutory text avoids contradictory commands.",
+          "examApplication": "If trustee demands bank account funds, ask if genuine setoff defense exists.",
+          "examTrap": "§542(b) is not a blanket shield for all blocked accounts."
+        },
+        {
+          "id": "bank-ch4-strumpf-e5",
+          "type": "rule",
+          "title": "Bank account is claim against bank—not physical cash stored for depositor",
+          "page": "Ch.4 §B.1 / Strumpf (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Ordinary deposit creates bank-to-depositor debt; temporary failure to pay can differ from taking possession of debtor's physical property.",
+          "laymanExplanation": "Your bank balance is legally the bank promising to pay you, not a marked pile of your bills in vault.",
+          "legalExplanation": "Court rejected treating temporary hold as possession/control or collection where preserving setoff permitted.",
+          "examApplication": "Compare bank deposit, estate ownership of claim, and act bank took.",
+          "examTrap": "Don't imply bank account is never estate property: depositor's claim may be an estate asset."
+        },
+        {
+          "id": "bank-ch4-strumpf-e6",
+          "type": "rule",
+          "title": "Limits left open in Strumpf",
+          "page": "Ch.4 §B.1 / Strumpf (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Court did not consider whether excess funds were improperly frozen, long delays, or other circumstances could independently violate law; its holding narrow.",
+          "laymanExplanation": "Short, proportional hold with prompt court motion differs from indefinite refusal on unrelated debt.",
+          "legalExplanation": "§542(b) exception is only to extent legally eligible setoff.",
+          "examApplication": "If bank holds more than valid setoff sum, flag open issue.",
+          "examTrap": "Don't treat every refusal to pay as per se lawful."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch4-problem-4-1",
+      "title": "B.1 — Problem 4.1: Fourteen Acts Possibly Stayed",
+      "chapterGroup": "bank-ch4",
+      "description": "Separate source fact patterns remain fully unanswered.",
+      "entries": [
+        {
+          "id": "bank-ch4-problem-4-1-e1",
+          "type": "rule",
+          "title": "Exam method for each subpart (unsolved)",
+          "page": "Ch.4 §B.1 / Problem 4.1 (general assigned pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "For each of (a)–(n): identify prepetition claim, who actor targets, debtor/estate/third party property, act and timing, every plausible §362(a) subsection, any §362(b) exception, and how Strumpf/Fulton affect result.",
+          "laymanExplanation": "Write a few columns instead of guessing yes/no from sympathy.",
+          "legalExplanation": "The problem expressly asks which subparagraph applies, not only whether act is stayed.",
+          "examApplication": "Use exact §362(a) section; leave outcomes for user's practice.",
+          "examTrap": "Don't conflate postpetition refusal, affirmative postpetition sale and actual setoff."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch4-p4-1-a",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(a)",
+      "kind": "Original casebook Problem 4.1(a) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Secured creditor had perfected Jeep lien for $15,000; after Chapter 7 filing creditor repossesses and sells Jeep without notice of bankruptcy. Identify §362(a) subsections and legal effect; unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-b",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(b)",
+      "kind": "Original casebook Problem 4.1(b) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Jeep already repossessed before bankruptcy; sale scheduled May 1 at 2 p.m.; debtor petitions at 1:59 p.m., creditor completes sale at 2 p.m. Determine coverage and timing; unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-c",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(c)",
+      "kind": "Original casebook Problem 4.1(c) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Prepetition $10,000 judgment; after May 1 Chapter 7 filing creditor gets writ May 2 and orders sheriff to levy nonexempt debtor property. Identify applicable provisions; unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-d",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(d)",
+      "kind": "Original casebook Problem 4.1(d) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Employer served with ongoing wage garnishment June 1; debtor petitions Chapter 7 June 2; employer forwards 25% of wages June 9 automatically under prior order. Is conduct stayed? Examine actor and timing; unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-e",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(e)",
+      "kind": "Original casebook Problem 4.1(e) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Corporate Chapter 11 debtor has $5,000 checking account and owes bank $8,000; bank actually offsets deposits, reducing loan to $3,000 and account to zero. Which provision governs? Unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-f",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(f)",
+      "kind": "Original casebook Problem 4.1(f) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Same as (e) but bank only freezes account rather than offsetting loan; distinguish Strumpf and required additional facts, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-g",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(g)",
+      "kind": "Original casebook Problem 4.1(g) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Restaurant tenant defaults, files Chapter 11, landlord posts own-property lobby sign labeling debtor deadbeat and unpaid. Determine whether communicative pressure is stayed, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-h",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(h)",
+      "kind": "Original casebook Problem 4.1(h) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Chapter 7 debtor owes university $2,000 parking fines; university refuses diploma or transcript after petition. Analyze collection pressure and debtor/estate rights, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-i",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(i)",
+      "kind": "Original casebook Problem 4.1(i) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Chiropractor owed $500 prepetition refuses further treatment even for current cash unless debtor pays old debt. Analyze stay and relevant rights, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-j",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(j)",
+      "kind": "Original casebook Problem 4.1(j) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Same chiropractor politely asks debtor if willing to reaffirm prepetition debt. Analyze permitted inquiry versus coercion, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-k",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(k)",
+      "kind": "Original casebook Problem 4.1(k) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Insurance company may cancel policy on 30 days’ notice for any reason; cancels one day after debtor company's Chapter 11 filing. Analyze estate contract rights and §362(a), unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-l",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(l)",
+      "kind": "Original casebook Problem 4.1(l) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Insurance company gave 30-day cancellation notice one day BEFORE Chapter 11 petition. Evaluate whether expiration after filing violates stay, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-m",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(m)",
+      "kind": "Original casebook Problem 4.1(m) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Creditor loans debtor $5,000 and Mom cosigns; debtor files Chapter 7; creditor sues Mom. Analyze third-party limits, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-1-n",
+      "topicId": "bank-ch4-problem-4-1",
+      "title": "Problem 4.1(n)",
+      "kind": "Original casebook Problem 4.1(n) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 (Automatic Stay), supplied complete text; Effross Fall 2026 syllabus general pp.201–237 — §B.1",
+      "prompt": "Chapter 11 corporation debtor; shareholder sues officers/directors in derivative state-court action for breach of fiduciary duty. Is corporate claim estate property or act against debtor? Analyze without resolving.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
