@@ -26,7 +26,7 @@ function current(){return db.courses.find(c=>c.id===courseId)||db.courses[0]}
 function topic(){return current()?.topics.find(t=>t.id===sectionId)}
 function groups(c){const map=new Map();for(const t of c.topics){let id=t.chapterGroup||t.id;if(!map.has(id))map.set(id,[]);map.get(id).push(t)}return [...map.values()]}
 function groupFor(t){return groups(current()).find(g=>g.some(q=>q.id===t?.id))||[]}
-function groupTitle(g){if(courseId==='admin'&&g[0]?.chapterGroup==='admin-ch9')return 'Chapter 9 — Scope of Judicial Review';if(g[0]?.chapterGroup==='tax-ch2')return 'Chapter 2 — The Why and the What of Taxing Income';if(g[0]?.chapterGroup==='tax-ch3')return 'Chapter 3 — The Private Sphere and the Public Sphere';if(g[0]?.chapterGroup==='tax-ch4')return 'Chapter 4 — When Is It Income?';if(g[0]?.chapterGroup==='tax-ch5')return 'Chapter 5 — Debt and Financial Instruments';if(g[0]?.chapterGroup==='tax-ch6')return 'Chapter 6 — Tax Progressivity and Assignment of Income';if(g[0]?.chapterGroup==='tax-ch7')return 'Chapter 7 — Expenses of Earning Income';if(g[0]?.chapterGroup==='tax-ch8')return 'Chapter 8 — Tax Shelters and Tax Planning';if(g[0]?.chapterGroup==='tax-ch9')return 'Chapter 9 — Mixed Business and Personal Expenses';if(g[0]?.chapterGroup==='tax-ch10')return 'Chapter 10 — Personal Deductions';if(g[0]?.chapterGroup==='tax-ch11')return 'Chapter 11 — Capital Gains and Losses';return g[0]?.title||'Chapter'}
+function groupTitle(g){if(courseId==='bankruptcy'&&g[0]?.chapterGroup==='bank-ch1')return 'Chapter 1 — Introduction to Debt Collection and Bankruptcy';if(courseId==='admin'&&g[0]?.chapterGroup==='admin-ch9')return 'Chapter 9 — Scope of Judicial Review';if(g[0]?.chapterGroup==='tax-ch2')return 'Chapter 2 — The Why and the What of Taxing Income';if(g[0]?.chapterGroup==='tax-ch3')return 'Chapter 3 — The Private Sphere and the Public Sphere';if(g[0]?.chapterGroup==='tax-ch4')return 'Chapter 4 — When Is It Income?';if(g[0]?.chapterGroup==='tax-ch5')return 'Chapter 5 — Debt and Financial Instruments';if(g[0]?.chapterGroup==='tax-ch6')return 'Chapter 6 — Tax Progressivity and Assignment of Income';if(g[0]?.chapterGroup==='tax-ch7')return 'Chapter 7 — Expenses of Earning Income';if(g[0]?.chapterGroup==='tax-ch8')return 'Chapter 8 — Tax Shelters and Tax Planning';if(g[0]?.chapterGroup==='tax-ch9')return 'Chapter 9 — Mixed Business and Personal Expenses';if(g[0]?.chapterGroup==='tax-ch10')return 'Chapter 10 — Personal Deductions';if(g[0]?.chapterGroup==='tax-ch11')return 'Chapter 11 — Capital Gains and Losses';return g[0]?.title||'Chapter'}
 function openPage(p,s=null){page=p;if(s!==null)sectionId=s;search='';$('search').value='';$('sidebar').classList.remove('open');render();window.scrollTo({top:0,behavior:'instant'})}
 function chooseCourse(id){courseId=id;sectionId=current()?.topics[0]?.id||null;showChapter=new Set();openPage('overview')}
 function render(){
@@ -270,7 +270,7 @@ async function boot(){
  try{
   const r=await fetch('./'+contentPath+'?v='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const raw=await r.json();if(!valid(raw))throw Error('Invalid published data');db=overlay(raw,pending);
  }catch(e){const stored=JSON.parse(localStorage.getItem(STORAGE)||'null');if(valid(stored))db=stored;else{$('notice').hidden=false;$('notice').textContent='Unable to load published course data: '+e.message;return}}
- // Import Admin Law source-based supplements; never overwrite published Tax or Bankruptcy content.
+ // Import source-based course supplements. Existing user-edited entry IDs take priority.
  // Existing entry IDs (including user edits) take priority over imports.
  for(const file of ['admin-ch1.json','admin-ch2.json','admin-ch3-part1.json','admin-ch3-part2.json','admin-ch3-part3.json','admin-ch4-part1.json','admin-ch4-part2.json','admin-ch5-part1.json','admin-ch5-part2.json','admin-ch5-part3.json','admin-ch5-part4.json','admin-ch5-part5.json','admin-ch5-part6.json','admin-ch5-part7.json','admin-ch6-part1.json','admin-ch6-part2.json','admin-ch6-part3.json','admin-ch9-part1.json','admin-ch9-part2.json','admin-ch9-part3.json','admin-ch9-part4.json','admin-ch9-part5.json','admin-ch9-part6.json','admin-ch10-part1.json','admin-ch10-part2.json','admin-ch10-part3.json','admin-ch11-part1.json','admin-ch11-part2.json','admin-ch11-part3.json','admin-appointments.json','admin-removal.json','admin-delegation.json','admin-legislative-controls.json','admin-executive-oversight.json','admin-discussion-questions.json']){
   try{
@@ -293,6 +293,29 @@ async function boot(){
    for(const p of supplement.problems||[])if(!problemIds.has(p.id)){admin.problems.push(copy(p));problemIds.add(p.id);}
    admin.formulas??=[];
   }catch(error){console.warn('Administrative Law supplement not loaded: '+file,error);}
+ }
+ // Import Bankruptcy chapter content without overwriting existing user-edited material.
+ for(const file of ['bank-ch1-part1.json','bank-ch1-part2.json','bank-ch1-part3.json','bank-ch1-part4.json']){
+  try{
+   const response=await fetch('./content/'+file+'?v=1',{cache:'no-store'});
+   if(!response.ok)throw Error('HTTP '+response.status);
+   const supplement=await response.json();
+   if(supplement.version!==1||supplement.courseId!=='bankruptcy'||!Array.isArray(supplement.topics))continue;
+   let course=db.courses.find(c=>c.id==='bankruptcy');
+   if(!course){course={id:'bankruptcy',name:'Bankruptcy & Creditors\u2019 Rights',topics:[],formulas:[],problems:[]};db.courses.push(course);}
+   course.topics=course.topics.filter(t=>t.id!=='bank-pending'||(t.entries||[]).length);
+   for(const topic of supplement.topics){
+    const existing=course.topics.find(t=>t.id===topic.id);
+    if(!existing){course.topics.push(copy(topic));continue;}
+    existing.entries??=[];
+    const entryIds=new Set(existing.entries.map(e=>e.id));
+    for(const entry of topic.entries||[])if(!entryIds.has(entry.id)){existing.entries.push(copy(entry));entryIds.add(entry.id);}
+   }
+   course.problems??=[];
+   const questionIds=new Set(course.problems.map(p=>p.id));
+   for(const p of supplement.problems||[])if(!questionIds.has(p.id)){course.problems.push(copy(p));questionIds.add(p.id);}
+   course.formulas??=[];
+  }catch(error){console.warn('Bankruptcy chapter supplement not loaded: '+file,error);}
  }
  sectionId=current()?.topics[0]?.id||null;showChapter=new Set();save();render();
 }
