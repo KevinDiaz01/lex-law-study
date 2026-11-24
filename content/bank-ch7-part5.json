@@ -1,0 +1,369 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+  "coverage": {
+    "chapter": 7,
+    "scope": "E. serial filing abuse, §109(g) 180-day bar, §§362(c)(3),(4) and 362(b)(21) multiple filings, §521(i) 45/46-day incomplete paperwork, §362(d)(4) in rem property relief, §§362(b)(20),(22),(23),(l),(m) and eviction, integrated exam workflow",
+    "notice": "Source dates and wording are historical casebook treatment. Notes preserve source rather than independently certifying postpublication changes."
+  },
+  "topics": [
+    {
+      "id": "bank-ch7-serial-filing",
+      "title": "E. Serial Bankruptcy Filings: §109(g) and Stay-Limiting Refiling Provisions",
+      "chapterGroup": "bank-ch7",
+      "description": "Stopping repeated skeletal petitions used to interrupt foreclosures and evictions.",
+      "entries": [
+        {
+          "id": "bank-ch7-serial-filing-e1",
+          "type": "rule",
+          "title": "Why broad self-executing automatic stay invites face-sheet filing abuse",
+          "page": "Ch.7 §E intro",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Filing skeletal §301 petition can trigger stay without elaborate motion; debtor may omit schedules, allow dismissal, then file again on next foreclosure date, using stay as delay tool not legitimate bankruptcy debt adjustment.",
+          "laymanExplanation": "Someone repeatedly files enough papers to freeze house auction and then does nothing to resolve debt.",
+          "legalExplanation": "Source describes commercial abuses targeting distressed owners/tenants; creditor needs mechanisms to stop repetitive interruptions.",
+          "examApplication": "In hypothetical identify sequence of filings, dismissals, lack of schedules and goal of delaying a specific lender.",
+          "examTrap": "Do not treat every second bankruptcy as automatically fraudulent; statute defines triggers."
+        },
+        {
+          "id": "bank-ch7-serial-filing-e2",
+          "type": "rule",
+          "title": "§109(g)(1): 180-day debtor eligibility bar for willful noncompliance",
+          "page": "Ch.7 §E / Serial filing provisions",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "An individual whose previous case was dismissed for willful failure to obey court orders or appear in proper prosecution within preceding 180 days is ineligible to file new bankruptcy.",
+          "laymanExplanation": "Miss hearings on purpose, court dismisses, then can't immediately file again.",
+          "legalExplanation": "Requires statutory misconduct trigger and time measurement, not any ordinary dismissal.",
+          "examApplication": "Check dismissal grounds, willfulness, date of new petition.",
+          "examTrap": "Not every procedural mistake or every dismissal qualifies under (g)(1)."
+        },
+        {
+          "id": "bank-ch7-serial-filing-e3",
+          "type": "rule",
+          "title": "§109(g)(2): voluntary dismissal after stay-relief motion",
+          "page": "Ch.7 §E / Serial filing provisions",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Chapter13 debtor voluntarily dismissing AFTER creditor files motion for stay relief may trigger 180-day ineligibility under §109(g)(2).",
+          "laymanExplanation": "Can't reliably avoid penalty by quitting before judge decides lender's stay motion.",
+          "legalExplanation": "Requires relation of pending stay relief request and voluntary dismissal as source describes.",
+          "examApplication": "Build timeline lender motion → debtor voluntary dismissal → next filing.",
+          "examTrap": "Don't conflate court-dismissed willful nonappearance with voluntary-dismissal branch."
+        },
+        {
+          "id": "bank-ch7-serial-filing-e4",
+          "type": "rule",
+          "title": "§362(b)(21): new petitions violating refiling prohibition no stay",
+          "page": "Ch.7 §E",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "§362(b)(21)(A) excepts cases filed in violation of §109(g) 180-day eligibility bar; (B) excepts filing contrary to court order prohibiting another filing.",
+          "laymanExplanation": "Invalid repeat filing can't automatically pause foreclosure again.",
+          "legalExplanation": "Works with §109(g) and broader judicial refiling injunction.",
+          "examApplication": "Identify prior order and its terms as well as any 180-day clock.",
+          "examTrap": "Don't assume unrelated debtor's new eligible filing necessarily invalid under §109(g)."
+        },
+        {
+          "id": "bank-ch7-serial-filing-e5",
+          "type": "rule",
+          "title": "§362(c)(3): one case dismissed in prior year, 30-day stay termination",
+          "page": "Ch.7 §E",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "For individual Chapter7/11/13 with previous case dismissed within year (excluding specified §707(b) scenario), subsequent automatic stay described as terminating after day30 absent successful timely request proving good faith.",
+          "laymanExplanation": "After one recent failed case, protection may run out after a month unless debtor justifies new filing.",
+          "legalExplanation": "Presumptions of bad faith in §362(c)(3)(C) may demand clear and convincing rebuttal, statutory details important.",
+          "examApplication": "Distinguish initial stay in place with impending expiration vs no stay at all.",
+          "examTrap": "Source's shorthand does not resolve all later judicial interpretation disputes about scope of §362(c)(3)."
+        },
+        {
+          "id": "bank-ch7-serial-filing-e6",
+          "type": "rule",
+          "title": "§362(c)(4): two or more recent dismissals, no initial stay",
+          "page": "Ch.7 §E",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Where two prior individual bankruptcy cases dismissed within preceding year, later filing generally has NO automatic stay on filing; debtor can seek order imposing stay via prompt request within 30 days and affirmative good faith showing.",
+          "laymanExplanation": "After repeated recent cases, bankruptcy filing no longer freezes foreclosure immediately.",
+          "legalExplanation": "§362(c)(4)(D) bad-faith presumption and clear-and-convincing rebuttal may apply.",
+          "examApplication": "Compare one prior dismissal (stay begins then lapses) to two (stay doesn't begin).",
+          "examTrap": "Don't say §362(c)(3) and (c)(4) have identical default results."
+        },
+        {
+          "id": "bank-ch7-serial-filing-e7",
+          "type": "rule",
+          "title": "Bad-faith presumption and clear convincing proof",
+          "page": "Ch.7 §E",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Statutes §§362(c)(3)(C),(c)(4)(D) specify circumstances presuming new filing not in good faith, rebuttable only by clear and convincing evidence.",
+          "laymanExplanation": "Debtor may need solid proof new case truly aimed at viable debt resolution.",
+          "legalExplanation": "Discuss missed prior plan, changed finances or real new prospect as fact-based rebuttal evidence (examples are analysis, not stipulated facts).",
+          "examApplication": "Ask why earlier cases failed and what changed.",
+          "examTrap": "No universal presumption covering every single second filing under all circumstances."
+        },
+        {
+          "id": "bank-ch7-serial-filing-e8",
+          "type": "rule",
+          "title": "§521(i): incomplete individual petitions may automatically dismiss day46",
+          "page": "Ch.7 §E / Serial filing provisions",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Source describes failure to file §521(a)(1) required schedules/statements/certificates within 45 days leading to automatic dismissal on 46th; debtor may request up to 45 more days for sufficient justification; trustee may invoke creditor-benefit/good-faith payment-evidence exception; court confirms dismissal upon request.",
+          "laymanExplanation": "Handing in cover page isn't enough to keep case forever without financial documents.",
+          "legalExplanation": "The two exceptions and court order confirmation under §521(i)(2) are separate timelines.",
+          "examApplication": "For repeated face-sheet pattern note 45-day document clock and statutory possible extensions/waiver.",
+          "examTrap": "Automatic dismissal provisions have procedural nuances; don't claim no judicial action can ever affect them."
+        },
+        {
+          "id": "bank-ch7-serial-filing-e9",
+          "type": "rule",
+          "title": "Clock comparison: 180 days, one year, 30 days and 45/46",
+          "page": "Ch.7 §E",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "§109(g) 180-day eligibility; §362(c)(3)/(4) look back one year and provide 30-day stay continuation/imposition request; §521(i) documents by day45/dismissal day46, subject exceptions.",
+          "laymanExplanation": "Four different clocks solve four different problems: eligibility, prior cases, stay duration, missing paperwork.",
+          "legalExplanation": "Memorize statute and starting event for each; don't swap clocks.",
+          "examApplication": "Write deadline timeline rather than memorizing number without trigger.",
+          "examTrap": "Not a single universal '30-day bankruptcy deadline'."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-in-rem-relief",
+      "title": "E. §362(d)(4) In Rem Stay Relief: Property-Specific Foreclosure Protection",
+      "chapterGroup": "bank-ch7",
+      "description": "Fractional interest transfers and recorded two-year orders binding later bankruptcy filers.",
+      "entries": [
+        {
+          "id": "bank-ch7-in-rem-relief-e1",
+          "type": "rule",
+          "title": "Fractional-interest transfers exploit person-specific stay",
+          "page": "Ch.7 §E / In rem stay relief",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Property owner facing foreclosure transfers tiny fractional real estate interests to multiple nominal holders; separate holder files a bankruptcy in succession to make 100% sale impossible, evading limits on original debtor's refiling.",
+          "laymanExplanation": "People rotate tiny ownership percentages into new bankruptcy petitions so auction keeps being blocked.",
+          "legalExplanation": "Source explains why §109(g) and §362(c) person-based serial rules are insufficient.",
+          "examApplication": "Identify deed transfer dates, multiple different debtors and same target property.",
+          "examTrap": "Don't mistake ordinary coownership alone for fraudulent scheme; intent and statutory predicates matter."
+        },
+        {
+          "id": "bank-ch7-in-rem-relief-e2",
+          "type": "rule",
+          "title": "§362(d)(4): realty scheme to delay, hinder and defraud (source wording)",
+          "page": "Ch.7 §E / In rem stay relief",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Textbook edition describes court authority to grant real-property stay relief for petition as part of scheme to delay/hinder/defraud involving (A) transfer of any interest without secured creditor consent or (B) multiple bankruptcy filings affecting real property.",
+          "laymanExplanation": "Judge can stop rotating filings from freezing the SAME house.",
+          "legalExplanation": "Source's phrasing is its historical statutory wording; use quote of assigned source when studying, do not silently update text.",
+          "examApplication": "Test scheme evidence and one of transfer/multiple filing alternatives.",
+          "examTrap": "No automatic (d)(4) remedy just because someone filed once and owes mortgage."
+        },
+        {
+          "id": "bank-ch7-in-rem-relief-e3",
+          "type": "rule",
+          "title": "Recorded in rem order binds later cases involving same property for two years",
+          "page": "Ch.7 §E / In rem stay relief",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "If §362(d)(4) order recorded in public real-property interest/lien records, it binds other bankruptcy cases purporting to affect the same property filed within two years; §362(b)(20) provides corresponding exception.",
+          "laymanExplanation": "Even if a new coowner files, the recorded order follows real estate for two years.",
+          "legalExplanation": "Grounded on property, not just debtor identity; ensures foreclosure can proceed despite rotating filers.",
+          "examApplication": "Include recordation and 2-year clock in answer.",
+          "examTrap": "Without proper recordation, do not assume statutory two-year effect automatically applies."
+        },
+        {
+          "id": "bank-ch7-in-rem-relief-e4",
+          "type": "rule",
+          "title": "Subsequent debtor may seek relief from in rem order",
+          "page": "Ch.7 §E / In rem stay relief",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Later debtor can request relief from recorded order for changed circumstances or good cause after notice and hearing; until then bankruptcy filing does not stay lien enforcement on that land under §362(b)(20).",
+          "laymanExplanation": "A genuine new owner may ask court to reconsider if situation materially changed.",
+          "legalExplanation": "Safeguards legitimate parties against overbroad lasting order.",
+          "examApplication": "Identify new financial/property facts and formal request.",
+          "examTrap": "A recorded order isn't necessarily unchallengeable for two years."
+        },
+        {
+          "id": "bank-ch7-in-rem-relief-e5",
+          "type": "rule",
+          "title": "Comparison: personal refiling versus property-specific in rem",
+          "page": "Ch.7 §E / In rem stay relief",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "§109(g) and §362(c)(3)/(4) target individual's repeated cases; §362(d)(4) and §362(b)(20) target repeat filings by ANY individual affecting same real property through recorded order.",
+          "laymanExplanation": "If borrowers rotate, property-focused order succeeds where person-focused bar fails.",
+          "legalExplanation": "This is critical conceptual contrast in casebook questions.",
+          "examApplication": "Use separate columns: whose conduct, trigger, effect and duration.",
+          "examTrap": "Do not confuse §362(d)(4) in rem relief with §362(c)(4) no stay after two personal dismissals."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-eviction",
+      "title": "E. Residential Eviction Exceptions: Possession Judgment, Cure and Danger",
+      "chapterGroup": "bank-ch7",
+      "description": "§362(b)(22) and (23) plus §362(l)/(m) limited procedures.",
+      "entries": [
+        {
+          "id": "bank-ch7-eviction-e1",
+          "type": "rule",
+          "title": "§362(b)(22): prepetition residential possession judgment exception",
+          "page": "Ch.7 §E / Eviction actions",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Under 2005 amendment, lessor with state-law judgment for possession of residential tenancy entered BEFORE bankruptcy may proceed with eviction despite normally broad stay, subject statutory §362(l) temporary cure process.",
+          "laymanExplanation": "Landlord already won possession before bankruptcy; tenant's filing may not stop eviction.",
+          "legalExplanation": "Recognizes residual possessory interest could otherwise trigger stay despite eviction judgment.",
+          "examApplication": "Identify judgment entry relative petition; don't equate mere late rent with possession judgment.",
+          "examTrap": "Judgment required for this particular exception, not merely landlord notice."
+        },
+        {
+          "id": "bank-ch7-eviction-e2",
+          "type": "rule",
+          "title": "§362(l): limited 30-day cure route for residential tenant",
+          "page": "Ch.7 §E / Eviction actions",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "When applicable nonbankruptcy law permits curing basis for possession judgment, tenant may file timely certification with petition to obtain limited 30-day stay and must effect cure and certify within that period to preserve stated protection.",
+          "laymanExplanation": "Tenant may get 30 days to fix unpaid-rent problem if state law allows that.",
+          "legalExplanation": "Very specific petition-time certificate and cure requirements; state cure rights matter.",
+          "examApplication": "Compare case where law permits paying rent to undo judgment vs final noncurable possession.",
+          "examTrap": "Not universal 30-day extension without certifications or legal cure right."
+        },
+        {
+          "id": "bank-ch7-eviction-e3",
+          "type": "rule",
+          "title": "§362(b)(23), §362(m): dangerous property or drug-related use",
+          "page": "Ch.7 §E / Eviction actions",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Special expedited landlord process when eviction grounded in endangerment of rental property or illegal controlled substance use at premises, as described by §362(b)(23) and implemented by §362(m).",
+          "laymanExplanation": "Dangerous tenant activity gets different protection than ordinary overdue rent.",
+          "legalExplanation": "Understand separate from judgment-for-possession exception and required lessor certification/procedures.",
+          "examApplication": "When facts mention property danger or illegal drug use, flag separate path.",
+          "examTrap": "Do not assume all eviction claims are identical or automatically stayed."
+        },
+        {
+          "id": "bank-ch7-eviction-e4",
+          "type": "rule",
+          "title": "Why residential possessory interest matters despite judgment",
+          "page": "Ch.7 §E / Eviction questions",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Before explicit §362(b)(22), debtor's residual rights of possession under lease and state eviction law could be regarded as estate property or acts against debtor, potentially staying enforcement; Congress crafted targeted exception.",
+          "laymanExplanation": "Even an eviction judgment may leave tenant holding an interest that automatic stay would protect without special exception.",
+          "legalExplanation": "Book poses exact why-statute-needed question; avoid overclaiming state rights identical in every jurisdiction.",
+          "examApplication": "Discuss why initial automatic stay might otherwise apply despite judgment.",
+          "examTrap": "The exception isn't proof debtor has no property interest whatsoever."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-chapter7-exam-map",
+      "title": "Chapter 7 Master Exam Map: Which Stay-Relief Ground, Which Clock, Which Remedy?",
+      "chapterGroup": "bank-ch7",
+      "description": "Integrated algorithm and arithmetic checklists for final exam issue spotting.",
+      "entries": [
+        {
+          "id": "bank-ch7-chapter7-exam-map-e1",
+          "type": "concept",
+          "title": "Step 1: identify chapter, asset and stay duration",
+          "page": "Ch.7 §§A–E synthesis",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Determine what act is stayed, against estate or debtor, bankruptcy chapter and whether §362(c) already ended protection. Assess any serial-filer or eviction exception before asking for discretionary relief.",
+          "laymanExplanation": "Don't litigate stay relief if no stay actually in effect.",
+          "legalExplanation": "Check §362(c), (b)(20)-(23), §109(g) and filing history first.",
+          "examApplication": "Mark filing, dismissal, prior cases, debt nature, court judgments.",
+          "examTrap": "Automatic stay is broad but not immortal."
+        },
+        {
+          "id": "bank-ch7-chapter7-exam-map-e2",
+          "type": "concept",
+          "title": "Step 2: independent §362(d)(1) adequacy and §362(d)(2) equity/plan tests",
+          "page": "Ch.7 §§A–C synthesis",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "If stay remains: cause under (d)(1), especially actual lien-value decline unprotected; separately (d)(2) creditor proves no debtor equity, opposing party shows asset needed for realistically successful reorganization.",
+          "laymanExplanation": "Ask two questions: bank harmed? Is property genuinely needed for viable bankruptcy?",
+          "legalExplanation": "Alyucan/Timbers limit protections and Pegasus requires verifiable feasibility.",
+          "examApplication": "Show which side bears proof for EACH issue.",
+          "examTrap": "No equity and lack of AP are not same statutory requirement."
+        },
+        {
+          "id": "bank-ch7-chapter7-exam-map-e3",
+          "type": "concept",
+          "title": "Step 3: choose §361 remedy then fallback §507(b)",
+          "page": "Ch.7 §§B–C synthesis",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "If threatened decline, use cash depreciation coverage, new lien, indubitable equivalent; if initial protection later fails consider §507(b) superpriority. Interest-based opportunity cost alone excluded for undersecured by Timbers.",
+          "laymanExplanation": "Protect lender against property losing value, not merely waiting to foreclose.",
+          "legalExplanation": "§361(3) does not permit simply granting admin expense initially; later §507(b) distinct.",
+          "examApplication": "For Problems 7.1–7.2 separate collateral loss, expected payment and actual result.",
+          "examTrap": "Don't automatically substitute contractual interest for AP payment."
+        },
+        {
+          "id": "bank-ch7-chapter7-exam-map-e4",
+          "type": "concept",
+          "title": "Step 4: check §552 cash collateral and special SARE interest",
+          "page": "Ch.7 §§C–D synthesis",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Prepetition lien on proceeds or rents may attach postpetition under §552(b) when applicable rights perfected, despite §552(a) default; §363 regulates cash use. If SARE §101(51B), debtor timely files feasible plan OR pays secured-value monthly nondefault interest under (d)(3).",
+          "laymanExplanation": "Is money actually bank's collateral? And does property qualify as passive real estate?",
+          "legalExplanation": "Problem7.4 old/new contracts; 7.5 rents; 7.6 SARE and rent overlap.",
+          "examApplication": "Compute separate secured interest, rent gross/net and SARE rate.",
+          "examTrap": "Do not give bank every postpetition paycheck based on prefiling blanket lien."
+        },
+        {
+          "id": "bank-ch7-chapter7-exam-map-e5",
+          "type": "concept",
+          "title": "Step 5: fast procedures, terms and renewals",
+          "page": "Ch.7 §§A–E synthesis",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Under §362(e), §362(f) emergency and 2005 individual-specific deadline, choose hearing pace, potential conditioning vs termination; early stay relief denial doesn't bar later motion when plan prospects decline.",
+          "laymanExplanation": "Judge can say 'keep property if debtor pays and files plan in 60 days' rather than binary keep/end.",
+          "legalExplanation": "Time clocks vary; distinguish §362(d)(4) property orders from (c)(4) repeated-person filing.",
+          "examApplication": "Write both clock and event that starts it.",
+          "examTrap": "A court denying motion once hasn't conclusively blessed debtor's plan forever."
+        },
+        {
+          "id": "bank-ch7-chapter7-exam-map-e6",
+          "type": "rule",
+          "title": "Numeric calculator 1: debtor equity under §362(d)(2)(A)",
+          "page": "Ch.7 §C.2 / formula",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Equity of debtor in property = debtor's legally valued property interest − sum of all secured liens, using evidence and applicable proposed use/disposition. If ≤0, no residual equity; creditor proves this fact.",
+          "laymanExplanation": "Only the money after ALL mortgages is debtor equity.",
+          "legalExplanation": "Loan-to-value percentage of ONE lien is not debtor's total equity.",
+          "examApplication": "Use for Problem7.3; keep result unsolved.",
+          "examTrap": "Do not subtract first mortgage alone while ignoring second."
+        },
+        {
+          "id": "bank-ch7-chapter7-exam-map-e7",
+          "type": "rule",
+          "title": "Numeric calculator 2: depreciation cushion and §507(b) shortfall framework",
+          "page": "Ch.7 §B.2 / formula",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Projected AP need per month corresponds to loss in secured interest from depreciation (subject protected-value limits). Cushion horizon = cushion÷(monthly collateral decline+relevant debt increase). For failed AP, quantify actual protected-interest decline and compare value already given via ordered protection, then analyze §507(b) entitlement.",
+          "laymanExplanation": "A $50k margin eroding $3k per month lasts about 16.7 months; actual unexpected loss may need statutory remedy.",
+          "legalExplanation": "Avoid double counting already paid cash and property sale proceeds against underlying claim.",
+          "examApplication": "Apply framework to 7.1 & 7.2, not answers.",
+          "examTrap": "Do not treat any negative margin as automatic superpriority without statutory prerequisites."
+        },
+        {
+          "id": "bank-ch7-chapter7-exam-map-e8",
+          "type": "rule",
+          "title": "Numeric calculator 3: SARE interest, principal selection",
+          "page": "Ch.7 §D / formula",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Monthly interest obligation when §362(d)(3)(B) applies can be framed as nondefault contract annual rate × value of allowed SECURED claim ÷12, distinct from lender's larger total loan and total property rents.",
+          "laymanExplanation": "Pay interest on lien collateral value, not fictitious fully secured $25m when property supports less.",
+          "legalExplanation": "Source Problem7.6 gives both $125k whole-debt interest and $100k secured interest to test correct statutory base.",
+          "examApplication": "Place gross rents, net collateral rents, secured claim and total debt on separate lines.",
+          "examTrap": "Do not mistake rent available to pay interest for required interest principal."
+        },
+        {
+          "id": "bank-ch7-chapter7-exam-map-e9",
+          "type": "rule",
+          "title": "Case selection one-line map",
+          "page": "Ch.7 §§A–E synthesis",
+          "source": "User-provided Bankruptcy casebook Chapter 7 §E The Automatic Stay and Abusive Serial Filings, plus chapter-wide structured exam maps; statutes as described in assigned source-era edition",
+          "summary": "Alyucan: no mandated preservation of interest-eroding cushion with stable realty; Timbers: undersecured no lost foreclosure opportunity AP; Pegasus: reject speculative reorganization feasibility; Larry Goodwin Golf: active golf services outside passive SARE.",
+          "laymanExplanation": "Each opinion matches a different legal inquiry: cushion, delay, real plan, property classification.",
+          "legalExplanation": "When asked case analogy lead with issue and section, not just case name.",
+          "examApplication": "In exam, apply cases to statute §361, §362(d)(1), (d)(2), (d)(3) in that order.",
+          "examTrap": "Don't cite golf course classification as if deciding Timbers opportunity cost."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
