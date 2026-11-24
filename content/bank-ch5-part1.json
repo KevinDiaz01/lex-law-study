@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+  "coverage": {
+    "chapter": 5,
+    "scope": "A. Definition of Claim; §101(5), claim timing approaches and full In re Grossman's opinion; §524(g) future claimant protections",
+    "pageNote": "Section locators refer to uploaded textbook text; no invented printed page spans."
+  },
+  "topics": [
+    {
+      "id": "bank-ch5-claim-definition",
+      "title": "A. Definition of Claim — §101(5), Debt and Bankruptcy Consequences",
+      "chapterGroup": "bank-ch5",
+      "description": "Why rights to payment enter claims process, how debts correlate and what happens when an obligation is not a claim.",
+      "entries": [
+        {
+          "id": "bank-ch5-claim-definition-e1",
+          "type": "rule",
+          "title": "§101(5)(A): extremely broad right to payment",
+          "page": "Ch.5 §A (opening)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "A claim includes any right to payment, whether reduced to judgment or not, liquidated/unliquidated, fixed/contingent, matured/unmatured, disputed/undisputed, legal/equitable, secured/unsecured.",
+          "laymanExplanation": "Creditor's right to get money can count even if payment is years away, amount uncertain or debtor contests it.",
+          "legalExplanation": "1978 Code moved beyond narrow pre-Code provability; §101(5)(A) broadly includes future/uncertain monetary obligations subject to temporal and constitutional limitations.",
+          "examApplication": "Use §101(5) exact modifiers when spotting not-yet-due, contingent tort or breach.",
+          "examTrap": "'Not yet payable' isn't automatically 'not a claim'."
+        },
+        {
+          "id": "bank-ch5-claim-definition-e2",
+          "type": "rule",
+          "title": "§101(5)(B): equitable remedy giving rise to right to payment",
+          "page": "Ch.5 §A",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "A right to an equitable remedy for breach of performance is a bankruptcy claim insofar as the breach gives rise to an alternative right to payment, even though remedy may be an injunction or specific performance.",
+          "laymanExplanation": "An order to do something might be treated as debt if law lets claimant receive money instead.",
+          "legalExplanation": "Kovacs, Apex and Shearin test when obligation is a payment claim rather than unavoidable nonmonetary duty.",
+          "examApplication": "Identify state/federal law right to substitute damages, not merely defendant's cost to comply.",
+          "examTrap": "An expensive injunction is NOT automatically a right to payment."
+        },
+        {
+          "id": "bank-ch5-claim-definition-e3",
+          "type": "rule",
+          "title": "§101(12) debt = liability on a claim",
+          "page": "Ch.5 §A",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "The Code defines 'debt' as liability on a §101(5) claim; bankruptcy processes claims and discharges corresponding debts.",
+          "laymanExplanation": "A claim is creditor's side of equation; debt is debtor's liability side.",
+          "legalExplanation": "This definitional equivalence underlies §727, §1141 and plan-treatment analysis.",
+          "examApplication": "When asked dischargeability, first determine whether any statutory debt/claim exists.",
+          "examTrap": "Discharge isn't same thing as whether proof of claim was allowed."
+        },
+        {
+          "id": "bank-ch5-claim-definition-e4",
+          "type": "rule",
+          "title": "Four consequences of classification as claim",
+          "page": "Ch.5 §A",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "Claim status determines discharge coverage, eligibility for estate distribution, scope of the collection stay and voting rights in Chapter 11.",
+          "laymanExplanation": "Calling something a bankruptcy claim gives its holder a place in the bankruptcy process—but often also subjects it to discharge.",
+          "legalExplanation": "A claim can be discharged even if not allowed; 'claim' ≠ 'allowed claim' and not all claims are actually paid.",
+          "examApplication": "Discuss §362, §501–502, §727/1141 and §§1125–1126 separately.",
+          "examTrap": "Don't equate participation in payout with full payment or assumption claim is dischargeable under all conditions."
+        },
+        {
+          "id": "bank-ch5-claim-definition-e5",
+          "type": "rule",
+          "title": "If individual debtor's obligation is NOT a claim",
+          "page": "Ch.5 §A",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "A truly nonclaim obligation is not discharged and can't receive a bankruptcy distribution; it may remain enforceable against an individual after bankruptcy.",
+          "laymanExplanation": "If court says your duty wasn't 'debt,' creditor might get no bankruptcy check but could still enforce duty later.",
+          "legalExplanation": "Compare personal fresh start and equitable nonmonetary obligations after case.",
+          "examApplication": "Explain both inability to share distribution and postbankruptcy survival.",
+          "examTrap": "Nonclaim status is not always favorable to debtor."
+        },
+        {
+          "id": "bank-ch5-claim-definition-e6",
+          "type": "rule",
+          "title": "If corporate debtor's obligation is NOT a claim",
+          "page": "Ch.5 §A",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "For liquidating corporation, nonclaim receives no payout, and after dissolution often no surviving entity to enforce against; for reorganizing corporation, genuine nonclaim obligation remains enforceable in full against reorganized entity.",
+          "laymanExplanation": "If corporation disappears, no debtor to sue; if it survives Chapter 11, unprocessed obligation can survive too.",
+          "legalExplanation": "Distinguish Chapter 7 liquidation from Chapter 11 reorganization and the constitutional notice question.",
+          "examApplication": "Include debtor form and chapter in Grossman's-style analysis.",
+          "examTrap": "Can't apply individual Chapter 7 postdischarge enforcement consequences mechanically to corporation."
+        },
+        {
+          "id": "bank-ch5-claim-definition-e7",
+          "type": "rule",
+          "title": "Davenport and Johnson demonstrate broad inclusion",
+          "page": "Ch.5 §A",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "Casebook refers to Davenport (criminal restitution treated as debt/claim) and Johnson v. Home State Bank (mortgage lien surviving Chapter 7 personal discharge is in rem claim eligible for Chapter 13); both illustrate breadth.",
+          "laymanExplanation": "Even court-ordered restitution or mortgage tied only to property may be a claim in legal sense.",
+          "legalExplanation": "References are casebook discussions, not complete opinion excerpts; separate §523 exceptions and later statutory amendments from bare claim characterization.",
+          "examApplication": "Classify in rem versus in personam liability and ask what discharges.",
+          "examTrap": "Claim existence does NOT establish dischargeability, especially criminal restitution."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-claim-timing",
+      "title": "A. When Does a Claim Arise? Accrual, Conduct, Exposure and Relationship Tests",
+      "chapterGroup": "bank-ch5",
+      "description": "Different circuit tests and constitutional notice distinct from the broad statutory claim definition.",
+      "entries": [
+        {
+          "id": "bank-ch5-claim-timing-e1",
+          "type": "rule",
+          "title": "Petition date usually divides prepetition from new debts",
+          "page": "Ch.5 §A / Grossman's introduction",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "Whether a claim arose prepetition affects §362 stay, distribution and discharge. Torts may involve sale/exposure before filing but symptoms decades later.",
+          "laymanExplanation": "What happened before filing might cause an injury diagnosed ten years afterward.",
+          "legalExplanation": "The Code contemplates contingent and unmatured claims; bankruptcy date is not always state-law accrual date.",
+          "examApplication": "Construct timeline of prefiling manufacture, exposure, filing, confirmation, diagnosis and notice.",
+          "examTrap": "Don't assume discovery of illness creates first bankruptcy claim."
+        },
+        {
+          "id": "bank-ch5-claim-timing-e2",
+          "type": "rule",
+          "title": "Frenville accrual test (overruled in Third Circuit)",
+          "page": "Ch.5 §A / Grossman's",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "Under Frenville, a bankruptcy claim arose when state-law cause of action accrued, often at injury manifestation or third-party suit, even if defendant's conduct was much earlier. Grossman's overruled this restrictive test.",
+          "laymanExplanation": "Old approach waited until someone could sue under state law before it counted as a bankruptcy claim.",
+          "legalExplanation": "Frenville indemnification/accountant claim and Van Brunts later cancer manifestations exposed mismatch with contingent/unmatured language in §101(5).",
+          "examApplication": "Identify Frenville as rejected precedent in Third Circuit; discuss why §101(5) supports earlier claim recognition.",
+          "examTrap": "Never cite Frenville accrual as current controlling Third Circuit standard."
+        },
+        {
+          "id": "bank-ch5-claim-timing-e3",
+          "type": "rule",
+          "title": "Conduct test (Grady example)",
+          "page": "Ch.5 §A / Grossman's",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "Broad conduct approach looks to debtor's prefiling acts giving rise to liability, rather than manifestation; Grady involved prepetition use of Dalkon Shield with later injuries.",
+          "laymanExplanation": "If unsafe device implanted before filing, injury may create contingent prefiling claim even before symptoms.",
+          "legalExplanation": "Concern: an unlimited conduct-only theory could encompass future strangers who use product after case and lack notice.",
+          "examApplication": "Discuss Grady's known exposure compared with Piper criticism of universally encompassing manufactured products.",
+          "examTrap": "Conduct test doesn't solve future unknown claimant's constitutional notice by itself."
+        },
+        {
+          "id": "bank-ch5-claim-timing-e4",
+          "type": "rule",
+          "title": "Prepetition relationship/contact test (Lemelle, Piper)",
+          "page": "Ch.5 §A / Grossman's",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "Relationship theory generally requires prefiling connection such as purchase/use/exposure/impact/privity with product. Piper specifically allowed relationship before plan confirmation for products resulting from prepetition conduct.",
+          "laymanExplanation": "A defect in old manufactured airplane isn't enough if no one had any contact with it before bankruptcy confirmation, under Piper's framework.",
+          "legalExplanation": "Piper states two-part test: relationship from events prior to confirmation plus basis in debtor's prepetition design/manufacture/sale; Lemelle required evidence enabling identification/notice of claimants.",
+          "examApplication": "Compare an exposed worker, future purchaser who first buys after filing, and child not yet born.",
+          "examTrap": "Piper's preconfirmation variant isn't identical to absolute prepetition relationship wording."
+        },
+        {
+          "id": "bank-ch5-claim-timing-e5",
+          "type": "rule",
+          "title": "Grossman's exposure test in Third Circuit",
+          "page": "Ch.5 §A / Grossman's",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "An individual's claim arises when he or she is exposed prepetition to product or other debtor conduct giving rise to injury, even if injury manifests only later; court held 1977 asbestos exposure was claim origin.",
+          "laymanExplanation": "Someone inhaled asbestos long before bankruptcy; cancer diagnosis later doesn't undo earlier contingent claim.",
+          "legalExplanation": "Third Circuit en banc abandoned Frenville and adopted prepetition exposure test; distinct notice inquiry must follow.",
+          "examApplication": "Ask when exposure, not when doctor diagnosed mesothelioma or tort complaint filed.",
+          "examTrap": "Prepetition claim classification DOES NOT automatically mean debt actually discharged."
+        },
+        {
+          "id": "bank-ch5-claim-timing-e6",
+          "type": "rule",
+          "title": "Due process limits discharge of unknown future claims",
+          "page": "Ch.5 §A / Grossman's",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "A bankruptcy claim is not validly discharged without constitutionally adequate notice/opportunity to be heard; highly latent injuries raise special difficulty.",
+          "laymanExplanation": "You can't erase unknown person's rights without giving them a meaningful chance to be represented.",
+          "legalExplanation": "Grossman's reversed and remanded for separate notice inquiry; earlier notices only by general publication without asbestos focus, Van Brunt had no symptoms.",
+          "examApplication": "Analyze known/unknown creditor, exposure knowledge, publication adequacy, bar-date awareness, representation and constitutional fairness.",
+          "examTrap": "Never state Van Brunts' claim WAS discharged merely because Third Circuit called it prepetition."
+        },
+        {
+          "id": "bank-ch5-claim-timing-e7",
+          "type": "rule",
+          "title": "§524(g) future asbestos trust and channeling protections",
+          "page": "Ch.5 §A / Grossman's",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "Section 524(g) permits qualifying asbestos debtor to channel present/future demands to funded trust, with future claimants' representative, fair/equitable plan treatment and specified supermajority vote; subject detailed statutory requirements.",
+          "laymanExplanation": "A company funds a common asbestos claims trust, even for people not diagnosed yet, instead of declaring them wiped out.",
+          "legalExplanation": "Manville Trust inspired statute; Grossman's plan did not create §524(g) trust and wasn't automatically protected by those procedures.",
+          "examApplication": "For mass asbestos plan ask whether representative, substantial trust funding, voting and fairness safeguards exist.",
+          "examTrap": "Do not apply §524(g) to every tort claim or presume it cures all unknown-claimant due process problems."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-grossmans",
+      "title": "A. In re Grossman's Inc. — Asbestos Exposure, Claim Timing and Due Process",
+      "chapterGroup": "bank-ch5",
+      "description": "Complete Third Circuit en banc opinion and reversal of Frenville, claim versus discharge.",
+      "entries": [
+        {
+          "id": "bank-ch5-grossmans-e1",
+          "type": "case",
+          "title": "In re Grossman's Inc., 607 F.3d 114 (3d Cir. 2010) (en banc)",
+          "page": "Ch.5 §A / Grossman's full opinion",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "Third Circuit en banc expressly overruled Frenville. Prepetition exposure to asbestos product gave rise to contingent claim in 1977 under broad §101(5). But court did NOT determine whether discharge occurred: due-process adequacy of notice required separate factual analysis on remand. Reversed/remanded.",
+          "laymanExplanation": "For Third Circuit product liability, claim arises upon prepetition exposure to product/conduct underlying injury, even if later manifested; whether discharged also requires constitutional notice and proper procedures.",
+          "legalExplanation": "Sloviter reviewed §101(5) modifiers contingent/unmatured/unliquidated, rejected conflating bankruptcy claim with accrued state-law tort action. Compared Grady conduct test, Lemelle/Piper relationship and identifiability concerns; adopted prepetition exposure approach. Constitutional Mullane notice means unknown latent victim cannot be erased without meaningful procedure; §524(g) Manville model gives trust/future representative protections, absent from Grossman's plan. Lower courts never analyzed notice after ruling under Frenville.",
+          "examApplication": "Make a 1977→1997 petition/confirmation→2006 symptoms→2007 diagnosis timeline; identify separate statutory classification and due process tests; discuss §524(g) trust option.",
+          "examTrap": "Result is NOT that Van Brunts were definitively discharged; outcome of discharge left open for remand.",
+          "assignedOpinion": true,
+          "sourceRole": "Full case opinion excerpted in uploaded Chapter 5",
+          "facts": "Mary Van Brunt purchased allegedly asbestos-containing products from Grossman's in 1977 and was exposed during home remodel. Grossman's sought Chapter 11 in April 1997, knew it sold asbestos and risks, gave generic publication bar-date notice without future asbestos liability, and confirmed plan December 1997. Van Brunt first showed symptoms in 2006 and diagnosed mesothelioma 2007; she and spouse sued successor JELD-WEN. Bankruptcy and district courts applied Frenville state-law manifestation-accrual test to hold no 1997 claim/discharge.",
+          "issue": "When did a bankruptcy 'claim' arise for latent asbestos injury where exposure occurred before Chapter 11 but manifestation and diagnosis occurred years after confirmation; does finding a claim establish it was discharged?",
+          "holding": "Third Circuit en banc expressly overruled Frenville. Prepetition exposure to asbestos product gave rise to contingent claim in 1977 under broad §101(5). But court did NOT determine whether discharge occurred: due-process adequacy of notice required separate factual analysis on remand. Reversed/remanded.",
+          "reasoning": "Sloviter reviewed §101(5) modifiers contingent/unmatured/unliquidated, rejected conflating bankruptcy claim with accrued state-law tort action. Compared Grady conduct test, Lemelle/Piper relationship and identifiability concerns; adopted prepetition exposure approach. Constitutional Mullane notice means unknown latent victim cannot be erased without meaningful procedure; §524(g) Manville model gives trust/future representative protections, absent from Grossman's plan. Lower courts never analyzed notice after ruling under Frenville.",
+          "rule": "For Third Circuit product liability, claim arises upon prepetition exposure to product/conduct underlying injury, even if later manifested; whether discharged also requires constitutional notice and proper procedures."
+        },
+        {
+          "id": "bank-ch5-grossmans-e2",
+          "type": "rule",
+          "title": "Why state accrual and bankruptcy claims differ",
+          "page": "Ch.5 §A / Grossman's",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "State-law tort action might be barred until injury manifests, yet bankruptcy claim may exist earlier as contingent/unmatured for federal proceedings.",
+          "laymanExplanation": "You may not be able to file a lawsuit today, yet bankruptcy may identify future legal exposure as a claim.",
+          "legalExplanation": "§101(5) would be emptied of breadth if court waited for state law final cause of action.",
+          "examApplication": "Contrast 1977 exposure and 2006 manifestation, old Frenville vs current exposure test.",
+          "examTrap": "Do not conflate right to sue today with right potentially payable later."
+        },
+        {
+          "id": "bank-ch5-grossmans-e3",
+          "type": "rule",
+          "title": "Grossman's due process remand factors",
+          "page": "Ch.5 §A / Grossman's",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "On remand notice inquiry may consider exposure circumstances, victim awareness, bar date notice actual receipt, known vs unknown creditors, colorable claim and practical feasibility of future-claim trust.",
+          "laymanExplanation": "Was the asbestos victim reasonably identifiable or represented when bankruptcy plan purported to bind her?",
+          "legalExplanation": "Even a valid preconfirmation claim may survive if notice constitutionally inadequate; publication alone not universally enough for known creditors.",
+          "examApplication": "Include analysis of debtor knowledge that it sold asbestos, publication's omission, and absence of symptoms.",
+          "examTrap": "Don't mechanically equate notice to general public with adequate notice of future latent asbestos obligations."
+        },
+        {
+          "id": "bank-ch5-grossmans-e4",
+          "type": "rule",
+          "title": "Lemelle, Chemetron, Piper: future claimant comparison",
+          "page": "Ch.5 §A / Grossman's",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "Lemelle mobile-home postconfirmation fatal fire without proven prepetition relationship, Piper future aircraft injury claimant, Chemetron plaintiff not yet born at discharge: notice/representation challenges differ from earlier exposure.",
+          "laymanExplanation": "Courts struggle with people nobody could identify at petition time.",
+          "legalExplanation": "Grossman's opinion describes authorities to explain competing narrower definition and direct due-process approach.",
+          "examApplication": "Compare claimant first exposed before vs after filing/confirmation, and if future rep appointed.",
+          "examTrap": "These referenced authorities are not full opinions excerpted in this chapter."
+        },
+        {
+          "id": "bank-ch5-grossmans-e5",
+          "type": "rule",
+          "title": "The distinction between legal claim and ultimate discharge",
+          "page": "Ch.5 §A / Grossman's",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), user-uploaded complete Chapter 5, Unsecured Claims, §A, In re Grossman's Inc.; section-based locations (ebook lacks printed page markers)",
+          "summary": "§101(5) defines what may be addressed, but §1141 confirmation discharge must also satisfy due process notice and statutory conditions.",
+          "laymanExplanation": "A file may be listed in bankruptcy, yet cannot be legally erased if holder never had proper warning.",
+          "legalExplanation": "The case reversed lower reasoning but did not enter judgment holding asbestos victim permanently barred.",
+          "examApplication": "Always present both questions with separate headings on exam.",
+          "examTrap": "A claimant losing Frenville's argument does not necessarily lose lawsuit."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
