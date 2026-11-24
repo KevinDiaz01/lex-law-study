@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+  "coverage": {
+    "chapter": 4,
+    "scope": "Securities & Exchange Commission v. Brennan full Second Circuit majority and dissent; compare Penn Terra and government money-judgment exception; integrated Chapter 4 analytical map",
+    "note": "Sources limited to provided complete Chapter 4 excerpt and cited Code provisions."
+  },
+  "topics": [
+    {
+      "id": "bank-ch4-brennan",
+      "title": "C. SEC v. Brennan — Regulatory Money Judgment and Offshore Trust Repatriation",
+      "chapterGroup": "bank-ch4",
+      "description": "Full Second Circuit majority/Calabresi dissent, post-judgment repatriation, forum centralization and §362(b)(4).",
+      "entries": [
+        {
+          "id": "bank-ch4-brennan-e1",
+          "type": "case",
+          "title": "Securities and Exchange Commission v. Brennan, 230 F.3d 65 (2d Cir. 2000)",
+          "page": "Ch.4 §C / Brennan opinion (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "No. Repatriation order went beyond mere entry of SEC money judgment and served to enforce that judgment; therefore government money-judgment exception-to-exception applied and stay barred the order. Second Circuit vacated. Calabresi dissented.",
+          "laymanExplanation": "A governmental regulator may enter a money judgment during bankruptcy but cannot invoke §362(b)(4) to enforce it through asset-repatriation/seizure steps; character, effect and stage of action matter, not solely declared protective purpose.",
+          "legalExplanation": "Cabranes emphasized government can litigate and enter money judgment under §362(b)(4), but additional order moving defendant's assets toward satisfaction of that judgment is enforcement even if regulator disclaims priority and plans pro rata payout. Stay also centralizes all estate-property disputes in bankruptcy forum, supports §507 priorities/discharge and bars duplicative efforts where trustee already failed in New Jersey court. The 1998 merger of exceptions did not authorize government to move assets to satisfy money awards. Calabresi would focus on objective impact: order only preserved assets for New Jersey bankruptcy court, did not enrich SEC at other creditors' expense, and regulatory goals should permit such preservation.",
+          "examApplication": "Contrast Penn Terra injunction requiring physical reclamation with Brennan ordering funds repatriated after final $75m money award; identify forum, potential distributions, earlier trustee denial and dissent's preservation theory.",
+          "examTrap": "Majority's post-judgment line is case-specific; don't imply every pre-judgment government collection action allowed or every bona fide nonmoney injunction barred.",
+          "assignedOpinion": true,
+          "sourceRole": "Full Second Circuit majority and dissent excerpted from Chapter 4",
+          "facts": "SEC sued discount broker Robert Brennan and First Jersey for securities fraud, obtaining about $75 million joint disgorgement/interest money judgment July 1995 following extensive trial. Brennan filed Chapter 11 August 1995. During earlier trial he had transferred $5m securities into Gibraltar offshore Cardinal Trust; moved assets under flight clause to Mauritius then Nevis; trust named sons/foundation, with reversion to Brennan after 10 years. Bankruptcy trustee tried New Jersey bankruptcy court repatriation and was denied. SEC separately convinced New York district court to order assets returned into court registry pending estate ownership determination, arguing no preferential cash distribution and prevention of asset dissipation. Brennan appealed that repatriation order.",
+          "issue": "After SEC obtains prepetition fraud disgorgement money judgment, may its postpetition order forcing debtor to repatriate offshore-trust assets fall within §362(b)(4) police/regulatory exception if SEC says it seeks only preservation for all creditors?",
+          "holding": "No. Repatriation order went beyond mere entry of SEC money judgment and served to enforce that judgment; therefore government money-judgment exception-to-exception applied and stay barred the order. Second Circuit vacated. Calabresi dissented.",
+          "reasoning": "Cabranes emphasized government can litigate and enter money judgment under §362(b)(4), but additional order moving defendant's assets toward satisfaction of that judgment is enforcement even if regulator disclaims priority and plans pro rata payout. Stay also centralizes all estate-property disputes in bankruptcy forum, supports §507 priorities/discharge and bars duplicative efforts where trustee already failed in New Jersey court. The 1998 merger of exceptions did not authorize government to move assets to satisfy money awards. Calabresi would focus on objective impact: order only preserved assets for New Jersey bankruptcy court, did not enrich SEC at other creditors' expense, and regulatory goals should permit such preservation.",
+          "rule": "A governmental regulator may enter a money judgment during bankruptcy but cannot invoke §362(b)(4) to enforce it through asset-repatriation/seizure steps; character, effect and stage of action matter, not solely declared protective purpose.",
+          "dissent": "Calabresi argues only actual collection or preferential appropriation is forbidden; SEC sought restoration of trust assets to court custody for neutral bankruptcy determination, so no government creditor priority. Denying preservation aids fraudster asset dissipation and defeats collective creditor recovery."
+        },
+        {
+          "id": "bank-ch4-brennan-e2",
+          "type": "rule",
+          "title": "Regulatory liability entry vs enforcement of money judgment",
+          "page": "Ch.4 §C / Brennan (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "Government can adjudicate fraud and obtain fixed money judgment under police/regulatory exception; separate postjudgment effort to secure or collect property toward satisfaction is money judgment enforcement under majority.",
+          "laymanExplanation": "SEC can win fraud case on paper, but cannot independently seize assets to collect after debtor files.",
+          "legalExplanation": "Cabranes drew bright line at judgment entry to prevent governmental exception swallowing general stay and bankruptcy centralization.",
+          "examApplication": "Ask whether actual decree is merely identifying liability, or is follow-on order physically moving debtor property.",
+          "examTrap": "A government proceeding's regulatory origin does not immunize its later execution phase."
+        },
+        {
+          "id": "bank-ch4-brennan-e3",
+          "type": "rule",
+          "title": "Trust funds and legal forum",
+          "page": "Ch.4 §C / Brennan (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "Cardinal Trust beneficiary, reversion and offshore laws left estate ownership unresolved; New Jersey bankruptcy court had authority and had already declined trustee's repatriation request.",
+          "laymanExplanation": "Even if money may be hidden abroad, another court doesn't automatically replace bankruptcy judge's authority.",
+          "legalExplanation": "§541(c)(2), fraudulent transfer/avoidance questions remain separate; Second Circuit decided stay question and did not adjudicate trust estate ownership.",
+          "examApplication": "Do not confuse trustee failure to repatriate with proof that trust excluded from estate.",
+          "examTrap": "Brennan does not hold offshore trust funds legally belong to debtor/estate as final property judgment."
+        },
+        {
+          "id": "bank-ch4-brennan-e4",
+          "type": "rule",
+          "title": "Why debtor's promised pro rata distribution didn't save SEC",
+          "page": "Ch.4 §C / Brennan (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "SEC said it would not take more than its pro rata share; majority nevertheless found repatriation tied to enforcing its $75m judgment and threatened centralized forum and discharge protections.",
+          "laymanExplanation": "Even if SEC promises to share, it cannot use a second court to grab estate-related assets outside coordinated process.",
+          "legalExplanation": "Money judgment exception protects more than equality against direct SEC preference: also uniform administration and discharge.",
+          "examApplication": "Discuss forum shopping and why SEC supported trustee's unsuccessful earlier action.",
+          "examTrap": "Not all nonpreferential preservation actions are automatically permissible under §362(b)(4)."
+        },
+        {
+          "id": "bank-ch4-brennan-e5",
+          "type": "rule",
+          "title": "1998 merger of b(4)/(5) retained money judgment limitation",
+          "page": "Ch.4 §C / Brennan (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "Congress merged prior police-power exception and money-judgment restriction into current §362(b)(4) and added reference to (a)(3), but did not authorize collection of money judgments through possession/control.",
+          "laymanExplanation": "Editing statute's structure didn't erase safeguard against government jumping queue to collect.",
+          "legalExplanation": "Brennan rejects argument that post-1998 text creates unrestricted government power to move debtor's property.",
+          "examApplication": "In older opinions identify former (b)(5) and translate into modern combined (b)(4).",
+          "examTrap": "Don't cite repealed separate §362(b)(5) as current distinct exception."
+        },
+        {
+          "id": "bank-ch4-brennan-e6",
+          "type": "rule",
+          "title": "Dissent: objective preservation not government enrichment",
+          "page": "Ch.4 §C / Brennan dissent (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "Calabresi reasoned returning trust to court registry only protects for collective distribution; it is not payment to SEC, and any SEC money still depends on bankruptcy court's priority decision.",
+          "laymanExplanation": "A neutral escrow of hidden assets might help all creditors, not just watchdog agency.",
+          "legalExplanation": "Dissent sees 'enforce money judgment' at collection/satisfaction, not any remedial step after judgment; purpose is prevent preferential government benefits.",
+          "examApplication": "Compare objective effect and majority's motive/stage/forum concerns in a balanced essay.",
+          "examTrap": "Dissent not binding; majority still vacated repatriation order."
+        },
+        {
+          "id": "bank-ch4-brennan-e7",
+          "type": "rule",
+          "title": "Dissent: government power can preserve against dissipation",
+          "page": "Ch.4 §C / Brennan dissent (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "Dissent cites cases authorizing government freezes/receiverships to preserve assets from concealment while ultimate ownership/distribution left bankruptcy court, and condemns rewarding evasive fraudsters.",
+          "laymanExplanation": "If person keeps moving assets between Gibraltar/Mauritius/Nevis, government may need ability to bring them home.",
+          "legalExplanation": "Counterargument: bankruptcy trustee could seek lawful recovery in bankruptcy case; independent SEC action risks inconsistent court rulings.",
+          "examApplication": "Explain strongest policy argument for preservation despite debt collection limits.",
+          "examTrap": "An asset-freeze by government before judgment is analytically distinct from order issued to enforce existing money award."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch4-government-cases",
+      "title": "C. Penn Terra vs Brennan — Government Regulatory Enforcement Matrix",
+      "chapterGroup": "bank-ch4",
+      "description": "Compare prospective compliance and postjudgment preservation/collection; majority and dissent and automatic stay goals.",
+      "entries": [
+        {
+          "id": "bank-ch4-government-cases-e1",
+          "type": "concept",
+          "title": "Penn Terra vs Brennan — doctrinal fork",
+          "page": "Ch.4 §C (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "Penn Terra: mandatory environmental restoration injunction permitted under government police exception despite spending estate money. Brennan: after securities fraud money award, court-ordered repatriation stayed despite SEC preservation claim.",
+          "laymanExplanation": "Regulator can force real cleanup, but can't use separate court to collect assets to back up a money award.",
+          "legalExplanation": "One is genuine nonmoney operational injunction aimed at preventing ongoing harm; other is secondary order following money judgment aimed at assets.",
+          "examApplication": "Ask what public harm specifically must be stopped, whether remedy can be satisfied by paying money, prior adjudication and who receives assets.",
+          "examTrap": "Expensive remedy ≠ collection by itself; collection-protective label also not decisive."
+        },
+        {
+          "id": "bank-ch4-government-cases-e2",
+          "type": "concept",
+          "title": "§362(b)(4) essay five-question framework",
+          "page": "Ch.4 §C (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "1) Government unit? 2) Genuine police/regulatory purpose? 3) Remedy prospective nonmoney compliance or fixed liability? 4) Does action go beyond entry of money judgment to enforcement? 5) Does independent forum interfere with estate, priorities or discharge?",
+          "laymanExplanation": "Test purpose, action and mechanism—not just who filed.",
+          "legalExplanation": "Apply Penn Terra to remediation and Brennan to postjudgment asset recovery; include Calabresi counterargument on neutral preservation.",
+          "examApplication": "Use with NLRB reinstatement/back pay in Problem 4.2(d,e), and state grain seizure (f).",
+          "examTrap": "Don't say one broad ‘public good’ claim resolves all five inquiries."
+        },
+        {
+          "id": "bank-ch4-government-cases-e3",
+          "type": "concept",
+          "title": "Three automatic stay policy objectives implicated by cases",
+          "page": "Ch.4 §A, B, C (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "Stay stops harassment/coercion; preserves estate assets for all creditors; channels estate disputes through single bankruptcy forum. Public safety enforcement sometimes overrides first two under statutory exceptions, but independent asset enforcement may undercut third.",
+          "laymanExplanation": "Stay protects individuals, the pot, and the court that manages it.",
+          "legalExplanation": "Penn Terra grants room for police power with economic costs; Brennan emphasizes central administration; Fulton describes freeze/status quo and maintains distinct turnover process.",
+          "examApplication": "In policy exam expressly separate these objectives and conflicts.",
+          "examTrap": "An act benefiting total recovery can still be stayed because forum coordination matters."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch4-stay-issue-map",
+      "title": "Chapter 4 — Integrated §362 / §542 Exam Checklist",
+      "chapterGroup": "bank-ch4",
+      "description": "Rapid source-derived issue-spotting, including §§362(a),(b),(c),(d),(k), 542 and 553.",
+      "entries": [
+        {
+          "id": "bank-ch4-stay-issue-map-e1",
+          "type": "concept",
+          "title": "Six-step automatic-stay issue spotting",
+          "page": "Ch.4 §A–C (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "(1) Date/time bankruptcy petition; (2) actor, conduct, debtor versus third party and property rights; (3) applicable §362(a) paragraphs; (4) §362(b) exclusions; (5) if stay applies, effect, notice/sanctions, relief/termination; (6) turnover/setoff/adequate protection separately.",
+          "laymanExplanation": "Time → target → subsection → exception → consequence → alternative remedy.",
+          "legalExplanation": "Source cases illustrate independent tracks: Strumpf (account hold), Whiting Pools (§542), Fulton passive retention, Penn Terra (police injunction), Brennan (judgment enforcement).",
+          "examApplication": "Use same template for all 21 subparts in Problems 4.1–4.2 without solving them.",
+          "examTrap": "Avoid answering ‘yes stayed’ without section citation."
+        },
+        {
+          "id": "bank-ch4-stay-issue-map-e2",
+          "type": "rule",
+          "title": "Separate §362, §542, §553 and §363",
+          "page": "Ch.4 §B (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "§362 stops covered new actions; §542 commands turnover of qualifying property/debt under exceptions; §553 preserves qualifying nonbankruptcy setoff rights; §363 authorizes use/sale/lease subject secured creditor protection.",
+          "laymanExplanation": "Four different legal levers; filing doesn't make them interchangeable.",
+          "legalExplanation": "Strumpf balances §542(b)/§553; Whiting Pools §542(a)/§363(e); Fulton §362(a)(3) can't replace §542.",
+          "examApplication": "State what relief requested and procedural vehicle.",
+          "examTrap": "Do not use automatic stay as universal mandatory delivery order."
+        },
+        {
+          "id": "bank-ch4-stay-issue-map-e3",
+          "type": "rule",
+          "title": "Void/annulment, willfulness and duration are distinct questions",
+          "page": "Ch.4 §A (general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 §C, full SEC v. Brennan majority and Calabresi dissent, user uploaded; Effross Fall 2026 general assigned pp.201–237",
+          "summary": "Even unknowing violation is generally ineffective under chapter's formulation; court may annul retroactively; knowing intentional violation may trigger §362(k)/contempt; §362(c) governs end of stay, §524(a) later discharge injunction.",
+          "laymanExplanation": "One question is was sale valid; another was seller punishable; third is whether stay still exists.",
+          "legalExplanation": "Apply exact notice timeline and relief order separately.",
+          "examApplication": "In short issue-spotter, append validity, damages and exception/relief analysis after coverage.",
+          "examTrap": "Don't conclude all technically stayed acts automatically bring punitive damages."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
