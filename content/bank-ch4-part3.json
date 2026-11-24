@@ -1,0 +1,307 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+  "coverage": {
+    "chapter": 4,
+    "scope": "C. Scope of Stay Exceptions §362(b); seven Problem 4.2 subparts; full Penn Terra v Pennsylvania DER opinion",
+    "note": "Penn Terra quoted former 1984-era separate §362(b)(4),(5); statute merged money-judgment restriction into current §362(b)(4) in 1998."
+  },
+  "topics": [
+    {
+      "id": "bank-ch4-stay-exceptions",
+      "title": "C. §362(b) — Exceptions: Domestic Relations, Public Regulation and Perfection",
+      "chapterGroup": "bank-ch4",
+      "description": "Bankruptcy is not immunity from criminal, family, safety or regulatory law; government money judgment limit.",
+      "entries": [
+        {
+          "id": "bank-ch4-stay-exceptions-e1",
+          "type": "rule",
+          "title": "§362(b): exception must be separately tested after coverage",
+          "page": "Ch.4 §C (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "An act may fit §362(a) and yet escape stay via §362(b). These include criminal prosecution, police/regulatory enforcement, family-law and narrow perfection activities.",
+          "laymanExplanation": "First apply stay; then check written permission for special activity.",
+          "legalExplanation": "Exception applies only as statute specifies; some exceptions are narrowed to certain paragraphs of §362(a).",
+          "examApplication": "In Problem 4.2(a)-(g) name precise exception and note any limits before concluding.",
+          "examTrap": "Do not say government/school/parent exempt just because public purpose."
+        },
+        {
+          "id": "bank-ch4-stay-exceptions-e2",
+          "type": "rule",
+          "title": "§362(b)(1): criminal proceedings",
+          "page": "Ch.4 §C (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "The Code permits criminal prosecution notwithstanding bankruptcy filing; creditors cannot use bankruptcy as shield from criminal enforcement.",
+          "laymanExplanation": "If criminal theft charges filed, Chapter 7 doesn't wipe out prosecutor's power to try case.",
+          "legalExplanation": "Separate criminal prosecution from private debt collection disguised as a criminal proceeding.",
+          "examApplication": "Analyze what government is doing rather than label all fines as criminal.",
+          "examTrap": "Criminal proceedings exception not automatic license for collecting civil money judgments."
+        },
+        {
+          "id": "bank-ch4-stay-exceptions-e3",
+          "type": "rule",
+          "title": "§362(b)(2): domestic relations/support issues",
+          "page": "Ch.4 §C / Problem 4.2(a)-(c) (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "The Code contains distinct exceptions for specified domestic relations actions and collection of domestic-support obligations, including important estate/non-estate property distinctions.",
+          "laymanExplanation": "Support and custody issues may still proceed when debtor files, but wage seizure depends on which property is targeted.",
+          "legalExplanation": "Problem 4.2 separates existing $300 support garnishment from request to increase support to $400 and termination of visitation.",
+          "examApplication": "For each subpart identify obligation type, action nature and whether source of payment estate property.",
+          "examTrap": "Do not lump every divorce/support/custody remedy into a single unrestricted exception."
+        },
+        {
+          "id": "bank-ch4-stay-exceptions-e4",
+          "type": "rule",
+          "title": "§362(b)(3): narrow time-sensitive perfection",
+          "page": "Ch.4 §C / Problem 4.2(g) (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Certain perfection acts may proceed despite stay where relation-back rights or Code's statutory requirements allow; casebook PMSI May1/May8 scenario invites precise date analysis.",
+          "laymanExplanation": "A lender might be allowed to file a security-interest notice after petition to preserve an earlier credit purchase under strict conditions.",
+          "legalExplanation": "Problem refers May1 gizmo purchase, May5 petition and May8 financing statement; relevant Bankruptcy Code/Article 9 timing rules must be consulted rather than blanket prohibition.",
+          "examApplication": "Track attachment, filing, purchase-money nature, look-back/grace and §546(b) interplay.",
+          "examTrap": "Do not simply say every postpetition financing statement is valid or invalid."
+        },
+        {
+          "id": "bank-ch4-stay-exceptions-e5",
+          "type": "rule",
+          "title": "§362(b)(4): government police/regulatory protection",
+          "page": "Ch.4 §C (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "A governmental unit may commence/continue action enforcing police/regulatory power; protects society from fraud, workplace violations, environmental pollution, safety harms and similar matters.",
+          "laymanExplanation": "Bankruptcy cannot grant license to pollute or violate workers' rights.",
+          "legalExplanation": "Relevant statutory exception not general power to collect government debts; §362(b)(4) includes nonmoney judgment enforcement.",
+          "examApplication": "Identify government unit, genuine policy purpose, nature of remedy and whether it seeks money judgment enforcement.",
+          "examTrap": "Agency can enter regulatory money judgment yet cannot use exception to seize debtor assets to collect it."
+        },
+        {
+          "id": "bank-ch4-stay-exceptions-e6",
+          "type": "rule",
+          "title": "‘Exception to exception’: government cannot enforce money judgment",
+          "page": "Ch.4 §C / Penn Terra and Brennan (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Current §362(b)(4) permits regulatory proceedings and enforcement of nonmoney judgments but does not authorize enforcement of money judgment for government's own creditor recovery.",
+          "laymanExplanation": "A regulator may order cleanup, but generally can't leap ahead of other creditors to grab cash on its own money award.",
+          "legalExplanation": "The book discusses prior §§362(b)(4),(5) merged into one (b)(4) in 1998; differentiate liability fixing from collection.",
+          "examApplication": "For each agency suit ask whether remedy compels future compliance or collects liquidated liability.",
+          "examTrap": "Because an injunction costs money does not automatically make it a money judgment."
+        },
+        {
+          "id": "bank-ch4-stay-exceptions-e7",
+          "type": "rule",
+          "title": "Two governmental functions and the harm being addressed",
+          "page": "Ch.4 §C (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Penn Terra focuses on remediation and preventing new harm; Brennan focuses on actions after SEC has obtained fixed monetary disgorgement judgment.",
+          "laymanExplanation": "An environmental cleanup order can be permitted even if expensive, while SEC attempt to seize hidden assets on $75m judgment might be stayed.",
+          "legalExplanation": "Government's mixed regulatory and creditor roles require remedies' form, substance, stage of lawsuit and effect on central court.",
+          "examApplication": "Identify prospective injunctive work vs collection on past injury and who controls fund.",
+          "examTrap": "Avoid treating an agency's public reputation as automatic proof its conduct qualifies."
+        },
+        {
+          "id": "bank-ch4-stay-exceptions-e8",
+          "type": "rule",
+          "title": "How the exception reflects competing federalism and distribution goals",
+          "page": "Ch.4 §C (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Bankruptcy preserves collective fund, but civil/criminal law enforcement necessary for public welfare sometimes legitimately consumes estate resources; specific statutory exemptions choose priorities.",
+          "laymanExplanation": "Keeping estate money safe is important, but protecting public from toxins may be more important.",
+          "legalExplanation": "Penn Terra Third Circuit rejects universal rule that estate-maximization always dominates because then §362(b) would be meaningless.",
+          "examApplication": "Use as policy balancing paragraph in exam.",
+          "examTrap": "A costly government order isn't necessarily a disguised money demand."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch4-problem-4-2",
+      "title": "C. Problem 4.2 — Seven Exception Hypotheticals (Unsolved)",
+      "chapterGroup": "bank-ch4",
+      "description": "Distinct support, family law, labor regulation, state regulatory receivership and purchase-money perfection.",
+      "entries": [
+        {
+          "id": "bank-ch4-problem-4-2-e1",
+          "type": "rule",
+          "title": "Method for Problem 4.2 (leave conclusions unanswered)",
+          "page": "Ch.4 §C / Problem 4.2 (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "First identify applicable §362(a) subsection; second classify candidate exception (§362(b)(2),(3),(4)); third determine whether action asserts public welfare, determines liability, actually recovers funds or perfects prefiling interest.",
+          "laymanExplanation": "Separate each letter into ‘covered? / excepted? / limits?’ columns.",
+          "legalExplanation": "Each subpart deliberately distinguishes legal processes from execution against estate.",
+          "examApplication": "Use exact facts and Code provision without filling in outcome.",
+          "examTrap": "Don't solve exercise simply by invoking broad policy."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch4-penn-terra",
+      "title": "C. Penn Terra Ltd. v. DEP — Environmental Cleanup Injunction",
+      "chapterGroup": "bank-ch4",
+      "description": "Full Third Circuit opinion, prospective remedies, government police exception and nonmoney judgment despite expense.",
+      "entries": [
+        {
+          "id": "bank-ch4-penn-terra-e1",
+          "type": "case",
+          "title": "Penn Terra Ltd. v. Department of Environmental Resources, 733 F.2d 267 (3d Cir. 1984)",
+          "page": "Ch.4 §C / Penn Terra opinion (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Police/regulatory exception applies. DER's environmental cleanup injunction was not enforcing monetary damages judgment: it compelled actual remedial work to prevent ongoing/future environmental harm. Third Circuit reversed lower courts.",
+          "laymanExplanation": "Government may enforce genuine police/regulatory nonmoney injunction even if debtor must spend scarce estate funds; whether money judgment is being enforced turns on remedy's substantive nature, not compliance cost alone.",
+          "legalExplanation": "Garth relied on purpose and legal form/substance: state's action protected public health and environment, didn't demand sum certain in Commonwealth's coffers, and order could only be satisfied by reclamation performance (backfill, erosion control, reseeding). Not every order costing money equates to money judgment—virtually all compliance costs money. Historical former (b)(4),(5) allowed regulatory suit and nonmoney judgment enforcement; current combined (b)(4) retains restriction on money judgment execution.",
+          "examApplication": "Compare cleanup injunction to liability judgment/execution; ask future environmental hazard, work to be done, sum certain, regulator recipient and control of debtor's assets.",
+          "examTrap": "Does not authorize state to distribute estate funds directly to itself as general prepetition creditor or give regulators unlimited lien priority.",
+          "assignedOpinion": true,
+          "sourceRole": "Full Third Circuit opinion excerpted in user-uploaded Chapter 4",
+          "facts": "Penn Terra coal mines had 36 Pennsylvania environmental violations. DER and president agreed November 1981 consent order to reclaim abandoned mining areas, stabilize soil, close pits; company didn't comply. Chapter 7 filed March 15,1982 after operations ceased, listed only $14k assets ($13.5k DER reclamation bonds) versus $660k debts. In April DER sought and obtained state-court injunction compelling remediation; lower bankruptcy/district courts enjoined DER as de facto money-judgment enforcement because reclamation cost would exceed estate resources.",
+          "issue": "Does governmental environmental injunction requiring bankrupt company to spend money to restore hazardous land fall within §362(b)(4) police power or instead count as prohibited ‘enforcement of a money judgment’?",
+          "holding": "Police/regulatory exception applies. DER's environmental cleanup injunction was not enforcing monetary damages judgment: it compelled actual remedial work to prevent ongoing/future environmental harm. Third Circuit reversed lower courts.",
+          "reasoning": "Garth relied on purpose and legal form/substance: state's action protected public health and environment, didn't demand sum certain in Commonwealth's coffers, and order could only be satisfied by reclamation performance (backfill, erosion control, reseeding). Not every order costing money equates to money judgment—virtually all compliance costs money. Historical former (b)(4),(5) allowed regulatory suit and nonmoney judgment enforcement; current combined (b)(4) retains restriction on money judgment execution.",
+          "rule": "Government may enforce genuine police/regulatory nonmoney injunction even if debtor must spend scarce estate funds; whether money judgment is being enforced turns on remedy's substantive nature, not compliance cost alone."
+        },
+        {
+          "id": "bank-ch4-penn-terra-e2",
+          "type": "rule",
+          "title": "Environmental enforcement is within police power",
+          "page": "Ch.4 §C / Penn Terra (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "State law remedy addressing public health/safety from toxic coal operations falls squarely within police exception.",
+          "laymanExplanation": "The agency isn't just collecting an old invoice; it is trying to stop land from eroding and poisoning public.",
+          "legalExplanation": "Report legislative history specifically identified environmental protection as police power; both state and federal interests serious.",
+          "examApplication": "Identify physical work demanded and statutory violations.",
+          "examTrap": "Not all government action labeled environmental automatically protective (state grain distribution example)."
+        },
+        {
+          "id": "bank-ch4-penn-terra-e3",
+          "type": "rule",
+          "title": "Money judgment defined by fixed amount and payment recipient",
+          "page": "Ch.4 §C / Penn Terra (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Traditional money judgment adjudges liability to pay definite amount to plaintiff; later execution uses debtor assets to satisfy it. Injunction compelling physical remediation isn't that.",
+          "laymanExplanation": "'Pay Pennsylvania $2m' is different from 'repair polluted mine and halt runoff.'",
+          "legalExplanation": "DER sought prospective equitable compliance, not cash compensation or collection of a specific debt; court looked past artful pleading as well.",
+          "examApplication": "Compare remedial vs damages prayer; fixed amount and whether payer could satisfy with check.",
+          "examTrap": "Don't rely exclusively on form: court explicitly considered substance to prevent artful pleading."
+        },
+        {
+          "id": "bank-ch4-penn-terra-e4",
+          "type": "rule",
+          "title": "Prevention of future harm vs compensation for past injury",
+          "page": "Ch.4 §C / Penn Terra (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Question whether remedy protects against ongoing/future injury or compensates past realized harm helps distinguish permissible injunction from monetary recovery.",
+          "laymanExplanation": "Cleanup can restore soil and prevent continuing contamination even though initial mining offense happened years earlier.",
+          "legalExplanation": "Court reasoned harm prevention typically not reducible to sum certain; remedial work must actually occur.",
+          "examApplication": "If state asks victim compensation for past injuries, closer to money judgment; if future safety compliance, closer to police action.",
+          "examTrap": "Not categorical that remediation after past conduct is exclusively future harm; look at actual remedy."
+        },
+        {
+          "id": "bank-ch4-penn-terra-e5",
+          "type": "rule",
+          "title": "An order that costs money is not necessarily money judgment",
+          "page": "Ch.4 §C / Penn Terra (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "The lower courts equated mandatory expenditure with money enforcement because estate had $14k versus huge cleanup costs; appellate court rejected such reductive test.",
+          "laymanExplanation": "Safety regulations always cost something; that doesn't transform them into ordinary loans.",
+          "legalExplanation": "If cost itself barred exception, §362(b)(4) would have almost no force.",
+          "examApplication": "Discuss relative size of compliance cost and public risk but don't let size determine legal classification.",
+          "examTrap": "High price alone doesn't flip injunction to judgment enforcement."
+        },
+        {
+          "id": "bank-ch4-penn-terra-e6",
+          "type": "rule",
+          "title": "Federalism and practical distribution effects",
+          "page": "Ch.4 §C / Penn Terra (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Permissible environmental injunction may deplete estate before unsecured creditors paid, reflecting Congress's choice not to subordinate public safety to complete creditor recoveries.",
+          "laymanExplanation": "Creditors may end with less because mine must be reclaimed first.",
+          "legalExplanation": "Court recognized policy conflict but held statutory exception resolves it for this action.",
+          "examApplication": "In essay make clear economic effect and why Congress deliberately accepted it.",
+          "examTrap": "Do not say Penn Terra itself establishes specific §507 claim priority class."
+        },
+        {
+          "id": "bank-ch4-penn-terra-e7",
+          "type": "rule",
+          "title": "Penn Terra vs casebook discussion of Kovacs",
+          "page": "Ch.4 §C / Penn Terra (general syllabus pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Lower courts used In re Kovacs to characterize cleanup as money judgment where state receiver took control to perform remediation; Third Circuit refused to extend broad 'any money expense' concept to Penn Terra's mandatory injunction.",
+          "laymanExplanation": "Receiver seeking cash payout and order to perform work can be legally different.",
+          "legalExplanation": "Textbook later contrasts outcomes and procedural posture; Penn Terra quoted vacated Sixth Circuit Kovacs decision in its analysis.",
+          "examApplication": "Analyze whether obligation is reduced to payment claim through receivership versus specific physical performance.",
+          "examTrap": "Don't treat Kovacs discussed reference as full excerpted opinion or Penn Terra's binding holding."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch4-p4-2-a",
+      "topicId": "bank-ch4-problem-4-2",
+      "title": "Problem 4.2(a)",
+      "kind": "Original casebook Problem 4.2(a) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237 §C",
+      "prompt": "Prepetition court-ordered child support $300/month unpaid for months; debtor files Chapter 7; ex-wife garnishes debtor wages afterward. Which §362(b) exception if any, and estate/nonestate character? Do not answer.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-2-b",
+      "topicId": "bank-ch4-problem-4-2",
+      "title": "Problem 4.2(b)",
+      "kind": "Original casebook Problem 4.2(b) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237 §C",
+      "prompt": "Same unpaid support; after Chapter 7 filing ex-wife sues in state court to raise monthly support to $400. Distinguish adjudication from collection, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-2-c",
+      "topicId": "bank-ch4-problem-4-2",
+      "title": "Problem 4.2(c)",
+      "kind": "Original casebook Problem 4.2(c) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237 §C",
+      "prompt": "After debtor's Chapter 7 filing ex-wife seeks termination of visitation rights. Identify domestic-relations exception and scope, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-2-d",
+      "topicId": "bank-ch4-problem-4-2",
+      "title": "Problem 4.2(d)",
+      "kind": "Original casebook Problem 4.2(d) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237 §C",
+      "prompt": "Company terminates workers contrary to labor law; workers complain to NLRB, company files Chapter 11, NLRB then conducts hearing and orders reinstatement. Evaluate §362(b)(4), unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-2-e",
+      "topicId": "bank-ch4-problem-4-2",
+      "title": "Problem 4.2(e)",
+      "kind": "Original casebook Problem 4.2(e) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237 §C",
+      "prompt": "Same as (d), NLRB additionally awards back pay. Analyze regulatory liability finding vs collection of award, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-2-f",
+      "topicId": "bank-ch4-problem-4-2",
+      "title": "Problem 4.2(f)",
+      "kind": "Original casebook Problem 4.2(f) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237 §C",
+      "prompt": "State grain law directs officials to seize insolvent elevator grain for distribution; elevator files Chapter 11 then state seizes grain. Compare regulator vs collective-creditor distribution, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-p4-2-g",
+      "topicId": "bank-ch4-problem-4-2",
+      "title": "Problem 4.2(g)",
+      "kind": "Original casebook Problem 4.2(g) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-uploaded Chapter 4 §C, Problem 4.2, Penn Terra; Prof. Effross Fall 2026 syllabus general pp.201–237 §C",
+      "prompt": "Debtor purchases gizmo on May 1 granting purchase-money security interest; files Chapter 7 May 5; creditor files UCC financing statement May 8. Assess §362(b)(3) perfection exception and timing, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
