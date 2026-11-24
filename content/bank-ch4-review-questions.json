@@ -1,0 +1,625 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+  "coverage": {
+    "chapter": 4,
+    "paraphrasedOriginalQuestions": 18,
+    "extraStudyQuestions": 43,
+    "originalNumberedProblems": "Problem 4.1(a)-(n) in part1 and 4.2(a)-(g) in part3, all unanswered",
+    "questionPolicy": "Practice prompts are paraphrases, not complete reproduced book paragraphs; no answer keys."
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch4-bookq-01",
+      "topicId": "bank-ch4-stay-overview",
+      "title": "Casebook question — Six characteristics",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What six characteristics of automatic stay did Chapter 4 A identify, and what do they do?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-02",
+      "topicId": "bank-ch4-strumpf",
+      "title": "Casebook question — Administrative hold vs setoff",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why does a temporary bank administrative hold not meet §362(a)(7) setoff, and why did the Court also reject §362(a)(6) on these facts?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-03",
+      "topicId": "bank-ch4-strumpf",
+      "title": "Casebook question — Bank account property",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Is deposit account a legal interest in §541 estate, and why doesn't bank's short hold count as §362(a)(3) estate control on Strumpf's reasoning?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-04",
+      "topicId": "bank-ch4-strumpf",
+      "title": "Casebook question — Debt turnover §542(b)",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How does §542(b) relate to §362(a), and does the Code require a separate court turnover order?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-05",
+      "topicId": "bank-ch4-turnover-bridge",
+      "title": "Casebook question — Whiting Pools estate interest",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What legal interest counted as property of the estate in IRS-seized equipment in Whiting Pools?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-06",
+      "topicId": "bank-ch4-turnover-bridge",
+      "title": "Casebook question — Fulton estate interest",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What legal interest counted as property of estate in prepetition city-impounded cars in Fulton?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-07",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — Control and omission",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why doesn't passively holding a vehicle after a filing count as act exercising control in majority's reading despite ordinary definitions of possession?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-08",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — Status quo language",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What interpretive work does petition-date status quo concept do in the majority opinion?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-09",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — Negative vs mandatory injunction",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Does Fulton effectively interpret §362 as prohibitory injunction and §542 as possible mandatory injunction?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-10",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — Distinct turnover statute",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Does majority's reasoning amount to rule that §542 may compel changed possession while §362(a)(3) can't?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-11",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — Status quo of what",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What is §362(a)(3)'s status quo, and what conduct do other §362(a) paragraphs preserve against?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-12",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — 1984 added language",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "If retention isn't ‘exercise control,’ what postpetition acts is 1984 phrase meant to prevent? Compare insurance policy cancellation and derivative action.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-13",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — Remote disable",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Does booting or remote ignition kill-switch activation after petition count as affirmative nonpossessory control? What if boot existed before petition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-14",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — Enforcement of turnover",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Is §542(a) itself an automatically enforceable injunction, or does trustee need court order? What did Supreme Court leave unresolved?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-15",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — Adequate protection condition",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why does §542 focus on property trustee may use under §363, and when may court condition turnover on adequate protection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-16",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — Possible (a)(4)/(6)",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Does city conditioning return on paying fines implicate lien enforcement or collection under subsections other than (a)(3)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-17",
+      "topicId": "bank-ch4-fulton",
+      "title": "Casebook question — Sotomayor problem",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Is requirement to litigate §542 turnover before vehicle return compatible with need to earn wages in Chapter 13 and adequate protection of secured creditor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-bookq-18",
+      "topicId": "bank-ch4-penn-terra",
+      "title": "Casebook question — Practical effect of cleanup",
+      "kind": "Ch4 original question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "If Penn Terra estate had only about $14k and needed costly reclamation, what impact does regulatory injunction have on other creditors, and does that make it money judgment enforcement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-01",
+      "topicId": "bank-ch4-stay-overview",
+      "title": "Review — Stay timing",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How would a court treat an auction conducted one minute after bankruptcy filing without seller's knowledge?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-02",
+      "topicId": "bank-ch4-stay-overview",
+      "title": "Review — Void versus retroactive annulment",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How can an ineffective stay-violating act be validated through §362(d), and how does that differ from prospective relief?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-03",
+      "topicId": "bank-ch4-stay-overview",
+      "title": "Review — Willful damages",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why might stay exist despite lack of notice but claim for §362(k) damages depend on knowledge and deliberate conduct?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-04",
+      "topicId": "bank-ch4-stay-overview",
+      "title": "Review — End of stay",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How do dismissal, discharge and property abandonment affect different stay protections?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-05",
+      "topicId": "bank-ch4-stay-overview",
+      "title": "Review — Discharge injunction",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why must lawyer distinguish temporary §362 stay from §524(a) discharge injunction?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-06",
+      "topicId": "bank-ch4-stay-scope",
+      "title": "Review — 8-paragraph checklist",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Map the eight §362(a) subsections to proceedings, judgments, estate control, liens, claims, setoff and tax matters.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-07",
+      "topicId": "bank-ch4-stay-scope",
+      "title": "Review — Judgment vs execution",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How does entering a judgment against debtor differ from attempting to execute that judgment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-08",
+      "topicId": "bank-ch4-stay-scope",
+      "title": "Review — Co-debtor case",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why is lawsuit against cosigner generally distinct from collection against Chapter 7 filer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-09",
+      "topicId": "bank-ch4-stay-scope",
+      "title": "Review — Corporate derivative action",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Who legally owns corporation derivative causes of action after corporate Chapter 11 petition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-10",
+      "topicId": "bank-ch4-stay-scope",
+      "title": "Review — Prepetition boundary",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What if underlying tort occurred before petition but claim accrues later—what source chapter flags the issue?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-11",
+      "topicId": "bank-ch4-stay-scope",
+      "title": "Review — Written pressure",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How might written shaming, university transcript withholding and denial of new services each implicate §362(a)(6)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-12",
+      "topicId": "bank-ch4-strumpf",
+      "title": "Review — Mutual debts",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "If bank is simultaneously loan creditor and deposit debtor, which debts would mutual setoff extinguish?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-13",
+      "topicId": "bank-ch4-strumpf",
+      "title": "Review — Three elements",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Describe a decision, affirmative entry and permanent accounting adjustment as evidence of true setoff.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-14",
+      "topicId": "bank-ch4-strumpf",
+      "title": "Review — Excess hold",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why did Supreme Court leave open a challenge to freeze exceeding claimed lawful offset amount?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-15",
+      "topicId": "bank-ch4-turnover-bridge",
+      "title": "Review — Ownership and possession",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why can a creditor physically hold collateral yet debtor own estate interest?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-16",
+      "topicId": "bank-ch4-turnover-bridge",
+      "title": "Review — Turnover requirements",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What conditions and exceptions govern §542(a) return of collateral to trustee or DIP?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-17",
+      "topicId": "bank-ch4-turnover-bridge",
+      "title": "Review — Adequate protection",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How can secured lien value be protected if creditor returns an essential vehicle or business equipment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-18",
+      "topicId": "bank-ch4-whiting-pools",
+      "title": "Review — Three money values",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How do $92k tax claim, $35k liquidation and $162,876 going-concern value influence rationale for turnover?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-19",
+      "topicId": "bank-ch4-whiting-pools",
+      "title": "Review — IRS property title",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why did tax levy alone not transfer property ownership from Whiting Pools?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-20",
+      "topicId": "bank-ch4-whiting-pools",
+      "title": "Review — Reorganization property",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How does §541 estate inclusion facilitate continued business under §1108?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-21",
+      "topicId": "bank-ch4-whiting-pools",
+      "title": "Review — Whiting Pools protection terms",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What cash and lien protections did bankruptcy judge impose before IRS turnover?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-22",
+      "topicId": "bank-ch4-whiting-pools",
+      "title": "Review — Fulton tension",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What remained binding after Fulton about duty to return seized collateral under §542(a)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-23",
+      "topicId": "bank-ch4-fulton",
+      "title": "Review — After-filing sale",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How is selling already-impounded car after filing different from keeping it in impound lot?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-24",
+      "topicId": "bank-ch4-fulton",
+      "title": "Review — Ransom side effects",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why might a debtor need impounded car to fund Chapter 13 even if (a)(3) is not violated by retention?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-25",
+      "topicId": "bank-ch4-fulton",
+      "title": "Review — Other relief",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why did Court expressly leave open §542 operation and §362(a)(4),(6) theories?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-26",
+      "topicId": "bank-ch4-stay-exceptions",
+      "title": "Review — Exception sequence",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why must every §362(b) exception be tested against specific triggered §362(a) paragraph?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-27",
+      "topicId": "bank-ch4-stay-exceptions",
+      "title": "Review — Domestic-support collection",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why does whether wages are estate property matter to domestic-support recovery?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-28",
+      "topicId": "bank-ch4-stay-exceptions",
+      "title": "Review — Regulation vs distribution",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why is NLRB reinstatement analytically different from grain-regulator seizure of grain for statutory distribution?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-29",
+      "topicId": "bank-ch4-stay-exceptions",
+      "title": "Review — Perfection window",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why is UCC financing-statement filed three days after petition not automatically forbidden without examining §362(b)(3)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-30",
+      "topicId": "bank-ch4-stay-exceptions",
+      "title": "Review — Government judgment stage",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "When may government determine liability and when must it pause to let bankruptcy court distribute estate assets?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-31",
+      "topicId": "bank-ch4-penn-terra",
+      "title": "Review — Form vs economic cost",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why does the Third Circuit reject 'requires money' as test for money judgment enforcement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-32",
+      "topicId": "bank-ch4-penn-terra",
+      "title": "Review — Future harm vs past compensation",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What features of mine reclamation injunction made it protective rather than monetary liability collection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-33",
+      "topicId": "bank-ch4-penn-terra",
+      "title": "Review — Kovacs comparison",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How did Penn Terra distinguish preexisting receiver situation discussed from action compelling actual environmental work?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-34",
+      "topicId": "bank-ch4-brennan",
+      "title": "Review — Brennan timeline",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What happened between 1995 SEC fraud money judgment, Chapter 11 petition, offshore trust transfers and repatriation order?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-35",
+      "topicId": "bank-ch4-brennan",
+      "title": "Review — SEC claimed purpose",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why did majority disagree with SEC's stated aim to bring trust back for all creditors?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-36",
+      "topicId": "bank-ch4-brennan",
+      "title": "Review — Prior court denial",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What role did New Jersey bankruptcy court's prior denial play in Second Circuit's centralization concern?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-37",
+      "topicId": "bank-ch4-brennan",
+      "title": "Review — Majority/dissent divide",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Where exactly do Brennan majority and Calabresi dissent place the line between neutral preservation and money-judgment enforcement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-38",
+      "topicId": "bank-ch4-brennan",
+      "title": "Review — Trust estate membership",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Why didn't Second Circuit need to decide whether Cardinal Trust was property of bankruptcy estate?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-39",
+      "topicId": "bank-ch4-brennan",
+      "title": "Review — 1998 amendment",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How did combining old §§362(b)(4),(5) influence but not erase money-judgment limitation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-40",
+      "topicId": "bank-ch4-government-cases",
+      "title": "Review — Penn Terra vs Brennan fact pattern",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "Compare an environmental injunction requiring costly work with SEC postjudgment order returning an offshore trust. Which doctrinal factors matter?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-41",
+      "topicId": "bank-ch4-government-cases",
+      "title": "Review — Regulatory but mixed motive",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "How should court test government action seeking safety compliance plus creditor recovery?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-42",
+      "topicId": "bank-ch4-stay-issue-map",
+      "title": "Review — Integrated case selection",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "For frozen bank account, repossessed truck, impounded vehicle, mine cleanup order and postjudgment asset repatriation, name governing case and subsection.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch4-review-43",
+      "topicId": "bank-ch4-stay-issue-map",
+      "title": "Review — Remedy separation",
+      "kind": "Ch4 supplemental review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 4 Automatic Stay: uploaded Chapter 4 ‘Question(s)’ and source concepts; Effross Fall 2026 syllabus general pp.201–237",
+      "prompt": "What does each of §§362(a), 362(b), 362(d), 362(k), 542, 553 and 363 do in Chapter 4 analysis?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
