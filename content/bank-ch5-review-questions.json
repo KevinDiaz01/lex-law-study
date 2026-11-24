@@ -1,0 +1,1515 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+  "coverage": {
+    "chapter": 5,
+    "casebookQuestionsParaphrased": 92,
+    "additionalReviewQuestions": 58,
+    "originalNumberedProblems": "Problem5.1 (one scenario), Problem5.2(a)-(f), Problem5.3(a)-(c), stored separately and unanswered",
+    "noAnswers": true
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch5-bookq-001",
+      "topicId": "bank-ch5-claim-definition",
+      "title": "Casebook question 1 — What is a bankruptcy 'claim' under §101(5), including continge",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What is a bankruptcy 'claim' under §101(5), including contingent, unmatured and equitable-payment interests?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-002",
+      "topicId": "bank-ch5-claim-definition",
+      "title": "Casebook question 2 — What does legally classifying a creditor's right as a 'claim' ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What does legally classifying a creditor's right as a 'claim' do to stay, payment, plan voting and discharge?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-003",
+      "topicId": "bank-ch5-claim-definition",
+      "title": "Casebook question 3 — What does nonclaim classification mean for an individual debto",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What does nonclaim classification mean for an individual debtor compared with a liquidating corporation and reorganizing corporation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-004",
+      "topicId": "bank-ch5-claim-timing",
+      "title": "Casebook question 4 — Which competing accrual, debtor-conduct, product-exposure and ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Which competing accrual, debtor-conduct, product-exposure and prefiling-relationship tests have courts employed to determine claim timing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-005",
+      "topicId": "bank-ch5-claim-timing",
+      "title": "Casebook question 5 — How would claim classification and ultimate claimant recovery ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How would claim classification and ultimate claimant recovery differ between Chapter 7 versus 11 and individual versus corporate debtor? Should those consequences shape definition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-006",
+      "topicId": "bank-ch5-claim-timing",
+      "title": "Casebook question 6 — Why did commentators and other circuits sharply reject Frenvil",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why did commentators and other circuits sharply reject Frenville's state-law accrual test?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-007",
+      "topicId": "bank-ch5-claim-timing",
+      "title": "Casebook question 7 — Does a readily identifiable exposed claimant (Grady) present d",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Does a readily identifiable exposed claimant (Grady) present different claim and due process issues than unknown future victims in Lemelle, Piper and Grossman's?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-008",
+      "topicId": "bank-ch5-grossmans",
+      "title": "Casebook question 8 — Did Grossman's actually discharge the Van Brunts' claims, and ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Did Grossman's actually discharge the Van Brunts' claims, and what claim-arising test did the Third Circuit adopt?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-009",
+      "topicId": "bank-ch5-grossmans",
+      "title": "Casebook question 9 — Why did Piper describe a relationship-based approach as more c",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why did Piper describe a relationship-based approach as more consistent with bankruptcy purposes than a universal conduct test? Which policies compete?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-010",
+      "topicId": "bank-ch5-grossmans",
+      "title": "Casebook question 10 — Using unborn post-discharge Chemetron claimant, is future-clai",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Using unborn post-discharge Chemetron claimant, is future-claim notice/representative enough for due process, and should due process directly—not restrictive claim definition—address latent-claim fairness?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-011",
+      "topicId": "bank-ch5-kovacs",
+      "title": "Casebook question 11 — Did Ohio's equitable environmental remedy constitute a bankrup",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Did Ohio's equitable environmental remedy constitute a bankruptcy claim in Kovacs, and what facts led Court to that conclusion?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-012",
+      "topicId": "bank-ch5-kovacs",
+      "title": "Casebook question 12 — Which aspects of original toxic-waste injunction might remain ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Which aspects of original toxic-waste injunction might remain nonclaim even if receiver's demand for cleanup money was a claim?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-013",
+      "topicId": "bank-ch5-kovacs",
+      "title": "Casebook question 13 — What distribution and discharge consequences follow from the C",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What distribution and discharge consequences follow from the Court treating state obligation as a claim?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-014",
+      "topicId": "bank-ch5-kovacs",
+      "title": "Casebook question 14 — What did Kovacs explicitly leave undecided about prosecution, ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What did Kovacs explicitly leave undecided about prosecution, penalties, receiver timing, ongoing pollution and property owners?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-015",
+      "topicId": "bank-ch5-kovacs",
+      "title": "Casebook question 15 — How does O'Connor's concurrence about state-law liens and corp",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How does O'Connor's concurrence about state-law liens and corporate liquidation affect understanding of environmental enforcement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-016",
+      "topicId": "bank-ch5-apex-oil",
+      "title": "Casebook question 16 — If RCRA offered EPA both specific cleanup injunction and alter",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "If RCRA offered EPA both specific cleanup injunction and alternative government reimbursement suit, would Apex's injunction be a claim? Compare Chateaugay's removal-versus-ongoing-pollution distinction, Posner's reasoning and specific-performance hypotheticals.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-017",
+      "topicId": "bank-ch5-shearin",
+      "title": "Casebook question 17 — Does Shearin mean only purchaser's elected monetary remedy is ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Does Shearin mean only purchaser's elected monetary remedy is dischargeable while alternative real estate specific performance survives?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-018",
+      "topicId": "bank-ch5-shearin",
+      "title": "Casebook question 18 — What if Building B cannot be built and specific performance is",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What if Building B cannot be built and specific performance is impossible—how would §101(5)(B) apply, and why compare Apex's hypothetical?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-019",
+      "topicId": "bank-ch5-shearin",
+      "title": "Casebook question 19 — Do nonclaim injunctions create an economic priority outside §5",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Do nonclaim injunctions create an economic priority outside §507, and is that desirable under bankruptcy policy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-020",
+      "topicId": "bank-ch5-shearin",
+      "title": "Casebook question 20 — How did Chateaugay differentiate cleanup subject to response-c",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How did Chateaugay differentiate cleanup subject to response-cost reimbursement from abatement of ongoing pollution? Why does casebook challenge that distinction and connect to Midlantic?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-021",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 21 — Why does it matter that a claim is allowed rather than merely ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why does it matter that a claim is allowed rather than merely exists?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-022",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 22 — What is first step in ordinary claims allowance process under ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What is first step in ordinary claims allowance process under §501?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-023",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 23 — What is a proof of claim and which form/rules govern",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What is a proof of claim and which form/rules govern?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-024",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 24 — Who may file proof—including holder, trustee, debtor and cosig",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Who may file proof—including holder, trustee, debtor and cosigner under limited circumstances?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-025",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 25 — Under which Chapter 11 schedule circumstances is separate proo",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Under which Chapter 11 schedule circumstances is separate proof unnecessary?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-026",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 26 — How are creditors informed about petition, deadline and bar da",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How are creditors informed about petition, deadline and bar date?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-027",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 27 — What happens to distribution/discharge when claimant doesn't r",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What happens to distribution/discharge when claimant doesn't receive adequate bankruptcy notice?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-028",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 28 — How are filing deadlines determined for private creditors, gov",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How are filing deadlines determined for private creditors, governments and Chapter 11 court-set dates?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-029",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 29 — What happens to late proofs, including notice exception and pr",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What happens to late proofs, including notice exception and priority claim rules?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-030",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 30 — What evidentiary/allowance effect does a proper proof have bef",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What evidentiary/allowance effect does a proper proof have before objection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-031",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 31 — Who may object and how does court allow/disallow through §502(",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Who may object and how does court allow/disallow through §502(b)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-032",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 32 — Which court resolves contested proofs, including special perso",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Which court resolves contested proofs, including special personal injury or wrongful death issues?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-033",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 33 — How are contingent and unliquidated claims estimated for inclu",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How are contingent and unliquidated claims estimated for inclusion?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-034",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Casebook question 34 — What law governs production and persuasion burdens after claim",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What law governs production and persuasion burdens after claim objection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-035",
+      "topicId": "bank-ch5-chapter7-distribution",
+      "title": "Casebook question 35 — Explain Chapter 7 distribution scheme and §726 controlling ord",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Explain Chapter 7 distribution scheme and §726 controlling order.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-036",
+      "topicId": "bank-ch5-chapter7-distribution",
+      "title": "Casebook question 36 — What is a Chapter 7 no-asset case and why can debtor still own",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What is a Chapter 7 no-asset case and why can debtor still own property?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-037",
+      "topicId": "bank-ch5-chapter7-distribution",
+      "title": "Casebook question 37 — Between secured and unsecured creditors, who first receives co",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Between secured and unsecured creditors, who first receives collateral/property value?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-038",
+      "topicId": "bank-ch5-chapter7-distribution",
+      "title": "Casebook question 38 — Which priority and general unsecured creditor groups get paid ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Which priority and general unsecured creditor groups get paid first and next?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-039",
+      "topicId": "bank-ch5-chapter7-distribution",
+      "title": "Casebook question 39 — If tier has insufficient money, how is within-tier pro rata re",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "If tier has insufficient money, how is within-tier pro rata recovery calculated?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-040",
+      "topicId": "bank-ch5-chapter7-distribution",
+      "title": "Casebook question 40 — Can Chapter 7 debtor ever receive surplus after all creditors ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Can Chapter 7 debtor ever receive surplus after all creditors and interest?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-041",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Casebook question 41 — On what basis are unsecured creditors paid in reorganization r",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "On what basis are unsecured creditors paid in reorganization rather than liquidation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-042",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Casebook question 42 — How must §507 priority claims generally be treated in Chapters",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How must §507 priority claims generally be treated in Chapters 11,12,13 plans?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-043",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Casebook question 43 — Why does Chapter 11 classify substantially similar unsecured c",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why does Chapter 11 classify substantially similar unsecured claims?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-044",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Casebook question 44 — When a creditor votes no but its Chapter 11 class accepts, is ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "When a creditor votes no but its Chapter 11 class accepts, is dissenter bound and what personal floor remains?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-045",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Casebook question 45 — What is §1129(a)(7) Chapter 11 best-interests test for dissent",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What is §1129(a)(7) Chapter 11 best-interests test for dissenting holder?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-046",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Casebook question 46 — What protections apply when Chapter 11 unsecured CLASS rejects",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What protections apply when Chapter 11 unsecured CLASS rejects, and how differs Subchapter V cramdown?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-047",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Casebook question 47 — Do unsecured creditors vote in Chapter 12 or Chapter 13",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Do unsecured creditors vote in Chapter 12 or Chapter 13?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-048",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Casebook question 48 — What does equal treatment and unfair-discrimination restrictio",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What does equal treatment and unfair-discrimination restriction mean for Chapters 12/13 classification?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-049",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Casebook question 49 — What is Chapter 12/13 hypothetical Chapter 7 liquidation minim",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What is Chapter 12/13 hypothetical Chapter 7 liquidation minimum?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-050",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Casebook question 50 — In which individual Chapter 11/Subchapter V/Chapter 12/Chapter",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "In which individual Chapter 11/Subchapter V/Chapter 12/Chapter 13 settings does projected disposable income restrict plan, and for what periods?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-051",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Casebook question 51 — What makes a claim 'priority' and is priority the same as secu",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What makes a claim 'priority' and is priority the same as secured status?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-052",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Casebook question 52 — Which federal statute establishes unsecured priority ranking",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Which federal statute establishes unsecured priority ranking?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-053",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Casebook question 53 — Why do courts construe §507 priorities narrowly and place proo",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why do courts construe §507 priorities narrowly and place proof burden on claimant?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-054",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Casebook question 54 — Can bankruptcy court create a priority simply for equitable fa",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Can bankruptcy court create a priority simply for equitable fairness?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-055",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Casebook question 55 — How many numbered §507(a) priority classes exist in casebook",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How many numbered §507(a) priority classes exist in casebook?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-056",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Casebook question 56 — Are §507 priorities ordinal, and how does equality work within",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Are §507 priorities ordinal, and how does equality work within same class?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-057",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Casebook question 57 — Can states enact bankruptcy-specific payment priorities or ins",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Can states enact bankruptcy-specific payment priorities or insolvency-triggered liens?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-058",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Casebook question 58 — What superpriorities exist for failed adequate protection and ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What superpriorities exist for failed adequate protection and court-authorized postpetition financing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-059",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Casebook question 59 — What are de facto superpriorities from current compliance/perf",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What are de facto superpriorities from current compliance/performance, versus statutory priorities?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-060",
+      "topicId": "bank-ch5-admin-expenses",
+      "title": "Casebook question 60 — What kinds of actual necessary business operation and case adm",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What kinds of actual necessary business operation and case administration claims qualify under §503(b), and why grant priority?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-061",
+      "topicId": "bank-ch5-admin-expenses",
+      "title": "Casebook question 61 — Which statute governs administrative expenses and where do the",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Which statute governs administrative expenses and where do they rank?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-062",
+      "topicId": "bank-ch5-admin-expenses",
+      "title": "Casebook question 62 — Is §503(b)'s list exclusive given the Code's word 'including'",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Is §503(b)'s list exclusive given the Code's word 'including'?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-063",
+      "topicId": "bank-ch5-admin-expenses",
+      "title": "Casebook question 63 — Do all §503(b) expense categories share an equal rank or ordin",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Do all §503(b) expense categories share an equal rank or ordinal order?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-064",
+      "topicId": "bank-ch5-admin-expenses",
+      "title": "Casebook question 64 — Why are administrative expenses scrutinized rather than broadl",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why are administrative expenses scrutinized rather than broadly awarded?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-065",
+      "topicId": "bank-ch5-admin-expenses",
+      "title": "Casebook question 65 — What two traditional criteria (estate transaction and estate b",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What two traditional criteria (estate transaction and estate benefit) make a cost administrative?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-066",
+      "topicId": "bank-ch5-admin-expenses",
+      "title": "Casebook question 66 — What two broad families of admin expenses include operating/pr",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What two broad families of admin expenses include operating/preservation and trustee/professional process compensation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-067",
+      "topicId": "bank-ch5-jartran",
+      "title": "Casebook question 67 — Why didn't postpetition benefit from Yellow Pages ads justify ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why didn't postpetition benefit from Yellow Pages ads justify administration priority when publication after filing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-068",
+      "topicId": "bank-ch5-jartran",
+      "title": "Casebook question 68 — Classify ad ordered irrevocably before bankruptcy and publishe",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Classify ad ordered irrevocably before bankruptcy and published before bankruptcy.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-069",
+      "topicId": "bank-ch5-jartran",
+      "title": "Casebook question 69 — Classify ad ordered irrevocably before bankruptcy but publishe",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Classify ad ordered irrevocably before bankruptcy but published during Chapter 11.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-070",
+      "topicId": "bank-ch5-jartran",
+      "title": "Casebook question 70 — Classify ad whose irrevocable closing date and publication occ",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Classify ad whose irrevocable closing date and publication occur during Chapter 11.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-071",
+      "topicId": "bank-ch5-jartran",
+      "title": "Casebook question 71 — If nondebtor party must perform after petition under prepetiti",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "If nondebtor party must perform after petition under prepetition contract, when might postfiling acceptance create administrative expense, and why wasn't Jartran one?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-072",
+      "topicId": "bank-ch5-reclamation-goods",
+      "title": "Casebook question 72 — Could Jartran ad agencies qualify under §503(b)(9) prepetition",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Could Jartran ad agencies qualify under §503(b)(9) prepetition goods priority, and why?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-073",
+      "topicId": "bank-ch5-reclamation-goods",
+      "title": "Casebook question 73 — What must seller establish to receive §503(b)(9) value of good",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What must seller establish to receive §503(b)(9) value of goods received 20 days before petition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-074",
+      "topicId": "bank-ch5-reclamation-goods",
+      "title": "Casebook question 74 — What is state/UCC theory of reclaiming goods delivered on cred",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What is state/UCC theory of reclaiming goods delivered on credit to insolvent buyer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-075",
+      "topicId": "bank-ch5-reclamation-goods",
+      "title": "Casebook question 75 — What §546(c) insolvency, goods receipt, seller business, writt",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What §546(c) insolvency, goods receipt, seller business, written demand and possession requirements govern reclamation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-076",
+      "topicId": "bank-ch5-reclamation-goods",
+      "title": "Casebook question 76 — Does reclamation prevail over senior perfected inventory secur",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Does reclamation prevail over senior perfected inventory security interest, and what alternative claim may remain?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-077",
+      "topicId": "bank-ch5-reclamation-goods",
+      "title": "Casebook question 77 — Why does successful return of goods or debtor-in-possession pa",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why does successful return of goods or debtor-in-possession paying again have economic priority effect?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-078",
+      "topicId": "bank-ch5-np-mining",
+      "title": "Casebook question 78 — Would punitive fines assessed during ongoing postpetition oper",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Would punitive fines assessed during ongoing postpetition operation but attributable to violations committed prepetition receive administrative priority under N.P. Mining's analysis? Why did Court distinguish old and new violations?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-079",
+      "topicId": "bank-ch5-employee-priorities",
+      "title": "Casebook question 79 — Which priority applies to wages earned during postpetition Cha",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Which priority applies to wages earned during postpetition Chapter 11 operations?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-080",
+      "topicId": "bank-ch5-employee-priorities",
+      "title": "Casebook question 80 — What priorities and limitations apply to wages and benefit con",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What priorities and limitations apply to wages and benefit contributions earned before filing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-081",
+      "topicId": "bank-ch5-employee-priorities",
+      "title": "Casebook question 81 — Why did Congress prioritize employees—job retention, weak cred",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why did Congress prioritize employees—job retention, weak creditor information, financial hardship?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-082",
+      "topicId": "bank-ch5-employee-priorities",
+      "title": "Casebook question 82 — How do source-era caps, 180-day timing and service accrual res",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How do source-era caps, 180-day timing and service accrual restrict wage/benefit rank?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-083",
+      "topicId": "bank-ch5-tax-priorities",
+      "title": "Casebook question 83 — What priority applies to tax liabilities incurred by the estat",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What priority applies to tax liabilities incurred by the estate after bankruptcy petition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-084",
+      "topicId": "bank-ch5-tax-priorities",
+      "title": "Casebook question 84 — Under what §507(a)(8) categories/time tests do taxes owed prep",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Under what §507(a)(8) categories/time tests do taxes owed prepetition receive priority?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-085",
+      "topicId": "bank-ch5-tax-priorities",
+      "title": "Casebook question 85 — Beyond rank8 priority, what consequence follows for individual",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Beyond rank8 priority, what consequence follows for individual debtor's discharge when §523(a)(1)(A) applies?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-086",
+      "topicId": "bank-ch5-subordination",
+      "title": "Casebook question 86 — Define equitable subordination under §510(c) and distinguish f",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Define equitable subordination under §510(c) and distinguish from disallowance.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-087",
+      "topicId": "bank-ch5-subordination",
+      "title": "Casebook question 87 — What early Supreme Court cases gave rise to Deep Rock and insi",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What early Supreme Court cases gave rise to Deep Rock and insider-claim subordination?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-088",
+      "topicId": "bank-ch5-subordination",
+      "title": "Casebook question 88 — Did Congress's 1978 §510(c) codification freeze or preserve ca",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Did Congress's 1978 §510(c) codification freeze or preserve case development?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-089",
+      "topicId": "bank-ch5-subordination",
+      "title": "Casebook question 89 — What three Mobile Steel elements govern equitable subordinatio",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What three Mobile Steel elements govern equitable subordination?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-090",
+      "topicId": "bank-ch5-subordination",
+      "title": "Casebook question 90 — What types of fraudulent, fiduciary, undercapitalization and a",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What types of fraudulent, fiduciary, undercapitalization and alter ego conduct are commonly sufficient?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-091",
+      "topicId": "bank-ch5-subordination",
+      "title": "Casebook question 91 — How does insider status change scrutiny compared with arm's-le",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How does insider status change scrutiny compared with arm's-length noninsider creditors?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-bookq-092",
+      "topicId": "bank-ch5-subordination",
+      "title": "Casebook question 92 — Can court subordinate all claims of a category based solely on",
+      "kind": "Chapter 5 casebook question — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Can court subordinate all claims of a category based solely on nature without case-specific equities after Noland and CF&I?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-001",
+      "topicId": "bank-ch5-claim-definition",
+      "title": "Exam review 1 — Do you have a claim if contract payment due three years f",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Do you have a claim if contract payment due three years from now and debtor disputes breach? Explain status and remedy separately.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-002",
+      "topicId": "bank-ch5-claim-definition",
+      "title": "Exam review 2 — If prefiling lender loses personal liability in prior Cha",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "If prefiling lender loses personal liability in prior Chapter7 but holds mortgage lien, how can lien still be treated in Chapter13?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-003",
+      "topicId": "bank-ch5-claim-timing",
+      "title": "Exam review 3 — Manufacturer made dangerous product in 1990, user first b",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Manufacturer made dangerous product in 1990, user first buys and uses in 2020, manufacturer Chapter11 confirmed 2015: compare conduct vs relationship tests.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-004",
+      "topicId": "bank-ch5-claim-timing",
+      "title": "Exam review 4 — Worker exposed to asbestos in 1995, debtor files 2005, wo",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Worker exposed to asbestos in 1995, debtor files 2005, worker diagnosed 2016 without formal bar-date notice: separate claim arising from discharge.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-005",
+      "topicId": "bank-ch5-claim-timing",
+      "title": "Exam review 5 — Why might two victims injured from same defective product",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why might two victims injured from same defective product receive different bankruptcy treatment based on exposure and notice?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-006",
+      "topicId": "bank-ch5-grossmans",
+      "title": "Exam review 6 — Write a two-part exam answer to Grossman's facts with hea",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Write a two-part exam answer to Grossman's facts with heading CLAIM CREATED and DISCHARGE / DUE PROCESS.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-007",
+      "topicId": "bank-ch5-grossmans",
+      "title": "Exam review 7 — Could general newspaper publication satisfy notice for un",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Could general newspaper publication satisfy notice for unidentifiable asbestos claimant? Which known/unknown questions must you discuss?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-008",
+      "topicId": "bank-ch5-equitable-remedies",
+      "title": "Exam review 8 — Differentiate legal option to pay damages from injunction",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Differentiate legal option to pay damages from injunction that imposes large compliance expenses.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-009",
+      "topicId": "bank-ch5-equitable-remedies",
+      "title": "Exam review 9 — How does direct government's clean-up reimbursement deman",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How does direct government's clean-up reimbursement demand differ from order to remove hazardous waste with defendant's own contractor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-010",
+      "topicId": "bank-ch5-equitable-remedies",
+      "title": "Exam review 10 — If employee owes damages for early resignation but separa",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "If employee owes damages for early resignation but separate injunction for later competition, is one alternative to other? Analyze without resolving original Problem5.1.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-011",
+      "topicId": "bank-ch5-kovacs",
+      "title": "Exam review 11 — Why did receiver possession matter in converting cleanup ",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why did receiver possession matter in converting cleanup into money claim? What changes if no receiver appointed?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-012",
+      "topicId": "bank-ch5-kovacs",
+      "title": "Exam review 12 — Could criminal prosecution for toxic dumping continue aft",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Could criminal prosecution for toxic dumping continue after monetary cleanup obligation discharged?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-013",
+      "topicId": "bank-ch5-apex-oil",
+      "title": "Exam review 13 — Analyze $150m cleanup estimate, RCRA's limited remedy and",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Analyze $150m cleanup estimate, RCRA's limited remedy and why cost isn't EPA payment claim.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-014",
+      "topicId": "bank-ch5-apex-oil",
+      "title": "Exam review 14 — Would same answer necessarily hold if Congress gave EPA a",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Would same answer necessarily hold if Congress gave EPA an alternative statutory cleanup-cost recovery remedy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-015",
+      "topicId": "bank-ch5-shearin",
+      "title": "Exam review 15 — Could buyers of unique completed condos be forced to take",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Could buyers of unique completed condos be forced to take refunded deposit while developer reorganizes? Identify contract enforcement and §101(5)(B).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-016",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Exam review 16 — Chapter 11 debtor lists creditor $20k as disputed; credit",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Chapter 11 debtor lists creditor $20k as disputed; creditor misses court deadline. What must creditor prove to receive distribution?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-017",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Exam review 17 — Chapter7 creditor lacks any notice and files after bar da",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Chapter7 creditor lacks any notice and files after bar date but before trustee distribution. Which tier might include its claim and why?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-018",
+      "topicId": "bank-ch5-allowance-process",
+      "title": "Exam review 18 — How may debtor use Rule3004 to file claim for creditor wh",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How may debtor use Rule3004 to file claim for creditor whose debt may survive discharge?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-019",
+      "topicId": "bank-ch5-disallowance",
+      "title": "Exam review 19 — Debtor files before contract interest would accrue next y",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Debtor files before contract interest would accrue next year. What amount can creditor prove, and when might §506(b) differ?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-020",
+      "topicId": "bank-ch5-disallowance",
+      "title": "Exam review 20 — What §502 subsection applies to unenforceable contract pa",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What §502 subsection applies to unenforceable contract past limitations date?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-021",
+      "topicId": "bank-ch5-disallowance",
+      "title": "Exam review 21 — How does a new tort after filing differ from an earlier c",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How does a new tort after filing differ from an earlier contingent tort claim?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-022",
+      "topicId": "bank-ch5-disallowance",
+      "title": "Exam review 22 — Why may creditor's demand be valid nonbankruptcy contract",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why may creditor's demand be valid nonbankruptcy contract but partially disallowed by Bankruptcy Code?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-023",
+      "topicId": "bank-ch5-landlord-cap",
+      "title": "Exam review 23 — A commercial lease has 4 years remaining with $4k monthly",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "A commercial lease has 4 years remaining with $4k monthly rent. Calculate cap months then cap dollars, not actual mitigation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-024",
+      "topicId": "bank-ch5-landlord-cap",
+      "title": "Exam review 24 — A lease has 12 years remaining at $10k/month. Which is la",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "A lease has 12 years remaining at $10k/month. Which is larger: 12mo floor or 15% and does 36mo ceiling apply?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-025",
+      "topicId": "bank-ch5-landlord-cap",
+      "title": "Exam review 25 — If statutory cap $300k but valid net damages $150k after ",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "If statutory cap $300k but valid net damages $150k after mitigation, what legal principle controls upper allowable amount?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-026",
+      "topicId": "bank-ch5-employee-damage-cap",
+      "title": "Exam review 26 — Employee owed 3 years of $100k annual contract compensati",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Employee owed 3 years of $100k annual contract compensation after prepetition firing. Calculate permitted one-year future damages ceiling separately from statutory wage priority.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-027",
+      "topicId": "bank-ch5-chapter7-distribution",
+      "title": "Exam review 27 — After priority payment, $12k remains and tier2 claims tot",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "After priority payment, $12k remains and tier2 claims total $30k. Determine payout percentage and distribution to $3k claim.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-028",
+      "topicId": "bank-ch5-chapter7-distribution",
+      "title": "Exam review 28 — Estate owns $50k collateral but $45k mortgage plus $5k ex",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Estate owns $50k collateral but $45k mortgage plus $5k exemption. What remains for ordinary unsecured?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-029",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Exam review 29 — Corporate Chapter11 plan pays rejecting unsecured class 2",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Corporate Chapter11 plan pays rejecting unsecured class 20% while old equity keeps shares: identify cramdown issue.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-030",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Exam review 30 — Individual Chapter13 has zero nonexempt assets but substa",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Individual Chapter13 has zero nonexempt assets but substantial projected future earnings: what two independent plan tests apply?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-031",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Exam review 31 — Compare whether creditors vote in Chapter11 vs Chapter13",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Compare whether creditors vote in Chapter11 vs Chapter13, and how objections are considered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-032",
+      "topicId": "bank-ch5-reorganization-distribution",
+      "title": "Exam review 32 — Is Subchapter V owner retention protected by same absolut",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Is Subchapter V owner retention protected by same absolute priority as traditional Chapter11? Identify substitute income commitment.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-033",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Exam review 33 — Rank overdue support, recent wages, old income taxes and ",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Rank overdue support, recent wages, old income taxes and generic medical bills under §507 and §726.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-034",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Exam review 34 — If rank1 claims exceed estate fund, can any rank2 attorne",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "If rank1 claims exceed estate fund, can any rank2 attorney fees or rank8 tax be paid? Consider statutory carveout.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-035",
+      "topicId": "bank-ch5-priority-general",
+      "title": "Exam review 35 — Explain §507(b) failed adequate protection versus §364(c)",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Explain §507(b) failed adequate protection versus §364(c)(1) lender superpriority.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-036",
+      "topicId": "bank-ch5-admin-expenses",
+      "title": "Exam review 36 — Seller shipped goods before Chapter11; estate knowingly a",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Seller shipped goods before Chapter11; estate knowingly accepts after petition. What casebook distinction matters?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-037",
+      "topicId": "bank-ch5-admin-expenses",
+      "title": "Exam review 37 — Company publishes previously locked advertising after fil",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Company publishes previously locked advertising after filing—why is benefit alone insufficient?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-038",
+      "topicId": "bank-ch5-jartran",
+      "title": "Exam review 38 — For directory ad at prepetition irrevocable deadline but ",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "For directory ad at prepetition irrevocable deadline but billing postpetition, identify what occurred during debtor vs DIP.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-039",
+      "topicId": "bank-ch5-jartran",
+      "title": "Exam review 39 — Explain why Jartran's failure to reject ads wasn't volunt",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Explain why Jartran's failure to reject ads wasn't voluntary postpetition acceptance.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-040",
+      "topicId": "bank-ch5-reclamation-goods",
+      "title": "Exam review 40 — Supplier delivered inventory 15 days before petition, deb",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Supplier delivered inventory 15 days before petition, debtor insolvent, demand day10 after petition. Compare §503(b)(9) and §546(c).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-041",
+      "topicId": "bank-ch5-reclamation-goods",
+      "title": "Exam review 41 — Supplier delivers goods 35 days before petition and sends",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Supplier delivers goods 35 days before petition and sends demand 25 days after. Which separate deadlines matter?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-042",
+      "topicId": "bank-ch5-reclamation-goods",
+      "title": "Exam review 42 — What if bank holds blanket senior inventory lien covering",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What if bank holds blanket senior inventory lien covering all reclaimed goods?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-043",
+      "topicId": "bank-ch5-reading-midlantic",
+      "title": "Exam review 43 — Postpetition negligence fire injures neighbors; does dire",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Postpetition negligence fire injures neighbors; does direct estate benefit have to exist to grant administrative priority?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-044",
+      "topicId": "bank-ch5-reading-midlantic",
+      "title": "Exam review 44 — When can trustee NOT abandon polluted worthless property",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "When can trustee NOT abandon polluted worthless property, and what is dissent's public fisc objection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-045",
+      "topicId": "bank-ch5-np-mining",
+      "title": "Exam review 45 — Mine ceases operations upon trustee appointment; agency f",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Mine ceases operations upon trustee appointment; agency fines estate for years-old violations. Distinguish case phases.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-046",
+      "topicId": "bank-ch5-np-mining",
+      "title": "Exam review 46 — Why does §959(b) state-law compliance justify penalty pri",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Why does §959(b) state-law compliance justify penalty priority even though penalties don't compensate anyone?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-047",
+      "topicId": "bank-ch5-np-mining",
+      "title": "Exam review 47 — What if the state fines new active postpetition pollution",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What if the state fines new active postpetition pollution but issues assessment after mine shuts down? Which dates matter?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-048",
+      "topicId": "bank-ch5-employee-priorities",
+      "title": "Exam review 48 — Employee's annual vacation cash vests postpetition. How c",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Employee's annual vacation cash vests postpetition. How can work-earned share cross priority categories?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-049",
+      "topicId": "bank-ch5-employee-priorities",
+      "title": "Exam review 49 — What distinguishes past-wage rank4 from new postfiling wa",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "What distinguishes past-wage rank4 from new postfiling wages administrative rank2?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-050",
+      "topicId": "bank-ch5-tax-priorities",
+      "title": "Exam review 50 — 2016 income tax with 2020 bankruptcy: why is tax year alo",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "2016 income tax with 2020 bankruptcy: why is tax year alone inadequate to determine three-year priority?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-051",
+      "topicId": "bank-ch5-tax-priorities",
+      "title": "Exam review 51 — Compare tax assessed 100 days before petition to tax last",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Compare tax assessed 100 days before petition to tax last due 5 years ago; what distinct statutory tests matter?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-052",
+      "topicId": "bank-ch5-misc-priorities",
+      "title": "Exam review 52 — Health club accepts prepaid training and closes 30 days l",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Health club accepts prepaid training and closes 30 days later: what facts establish value of undelivered personal services?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-053",
+      "topicId": "bank-ch5-misc-priorities",
+      "title": "Exam review 53 — If government has assigned support versus family direct s",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "If government has assigned support versus family direct support, does rank1 contain separate order?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-054",
+      "topicId": "bank-ch5-subordination",
+      "title": "Exam review 54 — Controlling shareholder loots company while lender with a",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Controlling shareholder loots company while lender with arm's-length loan merely demands payment. Compare §510(c) standards.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-055",
+      "topicId": "bank-ch5-subordination",
+      "title": "Exam review 55 — Government punitive tax claim has priority but behaved fa",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Government punitive tax claim has priority but behaved fairly. What does Noland bar?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-056",
+      "topicId": "bank-ch5-subordination",
+      "title": "Exam review 56 — How does subordination differ from §726 penalty rank and ",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "How does subordination differ from §726 penalty rank and denial of claim under §502?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-057",
+      "topicId": "bank-ch5-chapter5-exam-workflow",
+      "title": "Exam review 57 — Apply §101(5)→§502→§507→§726→§510 to debt-collection hypo",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Apply §101(5)→§502→§507→§726→§510 to debt-collection hypothetical; why is sequence important?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-review-058",
+      "topicId": "bank-ch5-chapter5-exam-workflow",
+      "title": "Exam review 58 — Compare Pennsylvania mine environmental injunction, Ohio ",
+      "kind": "Chapter 5 source-based review — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete uploaded Chapter 5 question sets (§§A–E), paraphrased for active recall; original Problems 5.1, 5.2(a-f), 5.3(a-c) separately stored",
+      "prompt": "Compare Pennsylvania mine environmental injunction, Ohio receiver money claim and Apex RCRA cleanup order without collapsing separate questions.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
