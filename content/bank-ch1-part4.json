@@ -1,0 +1,437 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+  "coverage": {
+    "chapter": 1,
+    "included": "C. Introduction to Bankruptcy: history, theorists, collective creditor action, liquidation and reorganization, Problems 1.18–1.19",
+    "assignedPages": "General syllabus 1–77",
+    "note": "Historical dollar limits and 2020 bankruptcy statistics are labeled as textbook-era descriptions, not asserted as current 2026 figures."
+  },
+  "topics": [
+    {
+      "id": "bank-ch1-bankruptcy-intro",
+      "title": "C. Introduction — Why Bankruptcy, Collective Proceedings and Two Objectives",
+      "chapterGroup": "bank-ch1",
+      "description": "Definition, federal jurisdiction and philosophy, historical examples and casebook data labeled 2021 edition.",
+      "entries": [
+        {
+          "id": "bank-ch1-bankruptcy-intro-e1",
+          "type": "rule",
+          "title": "Bankruptcy is a compulsory collective process",
+          "page": "Ch. 1 § C (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Bankruptcy corrals competing creditors into one legal process, centralizes distribution and prevents individual races; may also free honest individual debtors from prior liabilities.",
+          "laymanExplanation": "Instead of ten people fighting to grab the same scarce property, one proceeding coordinates what everyone receives.",
+          "legalExplanation": "Bankruptcy Clause Art I §8 cl4 authorizes uniform laws; Code 11 USC. Central mechanisms stay §362, estate §541, trustee and priority/discharge rules.",
+          "examApplication": "When explaining bankruptcy's function, distinguish collectivization from optional individual discharge.",
+          "examTrap": "Debt discharge is important modern purpose but was absent in original collective bankruptcy system."
+        },
+        {
+          "id": "bank-ch1-bankruptcy-intro-e2",
+          "type": "rule",
+          "title": "Two major purposes: collective equity and debtor fresh start",
+          "page": "Ch. 1 § C (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Bankruptcy promotes creditor-group fair/efficient collection and, for individual debtors, a fresh start via exemptions and discharge.",
+          "laymanExplanation": "A fair split for creditors, a chance to rebuild for the debtor.",
+          "legalExplanation": "Secured and priority claimants still receive special status. Liquidation need not imply discharge for entity debtors.",
+          "examApplication": "Present both purposes and how they may conflict.",
+          "examTrap": "Not all creditors receive equal dollars; not all debts discharged."
+        },
+        {
+          "id": "bank-ch1-bankruptcy-intro-e3",
+          "type": "concept",
+          "title": "Book-era statistics: bankruptcy chapters and filing rates",
+          "page": "Ch. 1 § C (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Textbook reports 529,106 cases in 2020, 96–97% non-business, roughly 60–65% Chapter 7 and 34–39% Chapter 13; Chapter 11 under 1%.",
+          "laymanExplanation": "Most cases are ordinary individual debt problems, not newsworthy corporate reorganizations.",
+          "legalExplanation": "Figures describe textbook's 2020 data and should not be used as current filing statistics for 2026.",
+          "examApplication": "If question tests historical system, distinguish consumer vs business caseload.",
+          "examTrap": "No unverified statement that 2020 filing numbers hold today."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-history",
+      "title": "C.1 — Historical Development: English Bankruptcy, U.S. Legislation and Court Authority",
+      "chapterGroup": "bank-ch1",
+      "description": "From compulsory collective trader liquidation through discharge, voluntary bankruptcy, 1978 Code, Marathon/BAFJA and 2005 BAPCPA.",
+      "entries": [
+        {
+          "id": "bank-ch1-history-e1",
+          "type": "concept",
+          "title": "Early systems favored creditor coercion and collective realization",
+          "page": "Ch. 1 § C.1 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Ancient societies could imprison or enslave insolvent debtors; English 1543 and 1571 acts assembled multiple merchant creditors, sold assets pro rata, no debtor-initiated case or discharge.",
+          "laymanExplanation": "Bankruptcy originally helped creditors divide ruined merchant's property, not forgive debts.",
+          "legalExplanation": "England allowed creditor-only involuntary merchant cases; first meaningful discharge in 1706 conditional on cooperation.",
+          "examApplication": "Use to explain why collective remedy predates individual fresh start.",
+          "examTrap": "Historical debtor's prison details are context, not modern enforcement rule."
+        },
+        {
+          "id": "bank-ch1-history-e2",
+          "type": "concept",
+          "title": "Statute of Anne discharge (1706) and insolvency distinction",
+          "page": "Ch. 1 § C.1 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "English 1706 introduced debtor discharge as incentive to cooperate with creditors, while old insolvency laws freed imprisoned nonmerchant debtors without extinguishing debt.",
+          "laymanExplanation": "Discharge was carrot; early law's noncooperation punishments were severe.",
+          "legalExplanation": "Bankruptcy meant multi-creditor trader process; insolvency was debtor relief; contemporary U.S. terminology largely merges meanings.",
+          "examApplication": "Contrast loss of custody vs discharge of personal payment obligation.",
+          "examTrap": "Avoid using obsolete 1706 rules as current statutory law."
+        },
+        {
+          "id": "bank-ch1-history-e3",
+          "type": "rule",
+          "title": "Constitution Bankruptcy Clause and limited 19th-century laws",
+          "page": "Ch. 1 § C.1 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Article I §8 cl4 authorizes Congress uniform bankruptcy laws; statutes sporadically 1800–03, 1841–43, 1867–78, permanent 1898. State discharge limited by Contracts Clause and interstate creditors.",
+          "laymanExplanation": "Congress has national power because debt and property cross state borders.",
+          "legalExplanation": "Sturges v Crowninshield bars retroactive state contract impairment; Ogden v Saunders protects out-of-state creditors from state discharge as casebook describes.",
+          "examApplication": "Use historical policy argument for nationwide system and state limits.",
+          "examTrap": "No uninterrupted federal bankruptcy code from founding."
+        },
+        {
+          "id": "bank-ch1-history-e4",
+          "type": "concept",
+          "title": "1841 voluntary filing and 1874 composition",
+          "page": "Ch. 1 § C.1 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "1841 first American statute permitted individual debtor to file voluntarily and extended relief beyond traders; 1874 composition bound even dissenters upon requisite acceptance.",
+          "laymanExplanation": "People could finally initiate bankruptcy; debtor could keep property and negotiate percentage-payment plan.",
+          "legalExplanation": "Composition prefigures modern Chapter 11 and Chapter 13 collective reorganization plans.",
+          "examApplication": "Mention as roots of current collective holdout solution.",
+          "examTrap": "A consensual private workout alone ordinarily cannot bind a refusing creditor."
+        },
+        {
+          "id": "bank-ch1-history-e5",
+          "type": "concept",
+          "title": "1898 Act, Depression reforms, Chandler Act 1938, 1978 Code",
+          "page": "Ch. 1 § C.1 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "1898 permanent Act followed Panic 1893; Depression added railroad/corporate/farmers and wage-earner alternatives; 1938 Chandler Act reorganized chapters; 1978 created present Title 11 Code.",
+          "laymanExplanation": "Bankruptcy expanded from forced liquidation to saving businesses and allowing income-payment plans.",
+          "legalExplanation": "Law developed as response to recessions and business continuity needs; Code's modern chapters have distinct purposes.",
+          "examApplication": "Frame laws chronologically in policy essay.",
+          "examTrap": "Chapter numbers in Chandler Act differ from today's Code."
+        },
+        {
+          "id": "bank-ch1-history-e6",
+          "type": "rule",
+          "title": "Northern Pipeline / Marathon (1982): Article III limits",
+          "page": "Ch. 1 § C.1 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "1978 broad final decision power to non-Article III bankruptcy judges challenged. Northern Pipeline v Marathon held grant of core Article III judicial power to adjunct judges unconstitutional.",
+          "laymanExplanation": "You can't give non-Article III judges the same unchecked powers as life-tenured federal judges in every dispute.",
+          "legalExplanation": "Congress responded after temporary Emergency Rule with BAFJA (1984) creating core/noncore distinction and district-court reference structure.",
+          "examApplication": "Classify bankruptcy proceeding as core vs noncore and constitutionally private right.",
+          "examTrap": "Do not assume statutory 'core' classification always constitutionally sufficient."
+        },
+        {
+          "id": "bank-ch1-history-e7",
+          "type": "case",
+          "title": "Stern v. Marshall, 564 U.S. 2 (2011)",
+          "page": "Ch. 1 § C.1 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Supreme Court held bankruptcy judge lacked constitutional authority to enter final judgment on particular state-law private-right counterclaim even though Congress labeled it core.",
+          "laymanExplanation": "Calling case 'core' doesn't always let bankruptcy judge decide it conclusively.",
+          "legalExplanation": "Textbook uses as modern reminder of Article III limits and Marathon legacy.",
+          "examApplication": "Separate statutory jurisdiction from constitutional power.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Case referenced or used as textbook hypothetical; full opinion not excerpted"
+        },
+        {
+          "id": "bank-ch1-history-e8",
+          "type": "concept",
+          "title": "BAPCPA 2005 and means-test shift",
+          "page": "Ch. 1 § C.1 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "2005 amendments introduced Chapter 7 means test to identify 'can-pay' individual debtors; shifted law towards creditor concerns; filing rates surged before October 17 implementation.",
+          "laymanExplanation": "People rushed to file before stricter Chapter 7 gatekeeping began.",
+          "legalExplanation": "§707(b)(2) means test and §707(b)(3) bad faith/totality are distinct routes to dismissal/abuse.",
+          "examApplication": "Link history to modern chapter choice.",
+          "examTrap": "Textbook describes 2005 amendment effects, not necessarily current means-test thresholds."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-theories",
+      "title": "C.2 — Story, Levinthal, Radin and Tabb: What Bankruptcy Is For",
+      "chapterGroup": "bank-ch1",
+      "description": "Four excerpted scholarly accounts, their differences, and debtor/creditor conflict.",
+      "entries": [
+        {
+          "id": "bank-ch1-theories-e1",
+          "type": "concept",
+          "title": "Justice Joseph Story (1833): equitable allocation and release from perpetual bondage",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Story framed twin goals: applying debtor estate toward creditor claims pro tanto and relieving honest distressed person from indefinite imprisonment or lifelong seizure of wages.",
+          "laymanExplanation": "Pay creditors fairly, but don't make an unfortunate person's entire future belong to them.",
+          "legalExplanation": "Story emphasized family, labor incentives, relief from coercion, while retaining value of contract obligations.",
+          "examApplication": "In theory essay contrast Story's debtor-relief focus with Levinthal's creditor-centered universal goals.",
+          "examTrap": "Not a contemporary statutory holding or binding judicial standard."
+        },
+        {
+          "id": "bank-ch1-theories-e2",
+          "type": "concept",
+          "title": "Louis Levinthal (1918): two universal creditor-protection objects",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "All bankruptcy systems seek equitable division of scarce estate among creditors AND prevention of debtor conduct harmful to creditors; debtor discharge is optional third object historically.",
+          "laymanExplanation": "Protect creditors from each other and from a debtor hiding assets; discharge is a newer add-on.",
+          "legalExplanation": "Protecting claimants collectively is more defining across centuries than fresh start.",
+          "examApplication": "Identify these as distinct from Story's stronger moral relief account.",
+          "examTrap": "Do not say debtor discharge was inherent in every historic bankruptcy."
+        },
+        {
+          "id": "bank-ch1-theories-e3",
+          "type": "concept",
+          "title": "Max Radin (1940): compelling creditors to adjust rights to a common fund",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Bankruptcy's distinctive institutional function is grouping creditors and forcing collective adjustment/distribution from common debtor fund, not merely collection or punishment of fraud.",
+          "laymanExplanation": "The special feature is making every creditor share rules, not just an officer confiscating property.",
+          "legalExplanation": "Radin distinguishes state execution, fraudulent transfer actions and bankruptcy: all can collect or prevent misconduct, only latter binds multiple creditors to group solution.",
+          "examApplication": "Use to distinguish bankruptcy from merely several unrelated collection lawsuits.",
+          "examTrap": "No requirement that any specific system forgive debts to qualify conceptually."
+        },
+        {
+          "id": "bank-ch1-theories-e4",
+          "type": "concept",
+          "title": "Charles Jordan Tabb (2020): dual modern structure",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Tabb frames modern bankruptcy as resolving many competing claims and freeing individual debtor from financial past; liquidation vs rehabilitation, compulsory collective process and fresh start.",
+          "laymanExplanation": "Modern system is simultaneously an organized asset-sharing court and new beginning for a human debtor.",
+          "legalExplanation": "§541 estate, §362 automatic stay, §726 pro rata, §§507,522,727 and rehabilitation chapters operationalize these purposes.",
+          "examApplication": "Cite mechanism, not just policy slogan, in essays.",
+          "examTrap": "Reorganization may protect economic value even without human debtor fresh start."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-collective-action",
+      "title": "C.2 — Grab Law, Common-Pool Losses and the Compulsory Stay",
+      "chapterGroup": "bank-ch1",
+      "description": "Economic numerical worked example, pro rata sharing, prisoner's dilemma and bankruptcy's compulsory mechanisms.",
+      "entries": [
+        {
+          "id": "bank-ch1-collective-action-e1",
+          "type": "rule",
+          "title": "Grab law outside bankruptcy creates costly race among creditors",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "With insolvency and multiple unsecured creditors, fast lien enforcement rewards earlier action, causes winners and losers and wastes group collection costs.",
+          "laymanExplanation": "Everyone rushes to take last $1,000, spending money fighting and shrinking what is left.",
+          "legalExplanation": "Bankruptcy's collective action and stay reduce waste and share estate, after respecting secured/priority claims.",
+          "examApplication": "Ask whether debtor has multiple creditors and insufficient assets; one creditor/solvent debtor has less coordination problem.",
+          "examTrap": "Bankruptcy pro rata applies within relevant unsecured claim class after statutory priorities."
+        },
+        {
+          "id": "bank-ch1-collective-action-e2",
+          "type": "concept",
+          "title": "Textbook calculation: four creditors race for $1,000",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Four creditors each owed $500 = $2,000 liabilities; debtor has $1,000; each spends $100 racing: total collection cost $400, total creditor net recovery $600, average per creditor $150.",
+          "laymanExplanation": "All four spend $100 to race, and collectively only take home $600.",
+          "legalExplanation": "Formula group recovery = 1,000 – (4 × 100) = 600; mean = 600/4 = 150. Individual winners may receive $400 net, losers -$100 cost.",
+          "examApplication": "Work with exact assumptions and report both collective and ex ante average outcomes.",
+          "examTrap": "$150 is EXPECTED group average, not what actual two winners receive."
+        },
+        {
+          "id": "bank-ch1-collective-action-e3",
+          "type": "concept",
+          "title": "Textbook calculation: group representative raises recovery to $900",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "If one representative spends $100, $900 remains; 4 equal unsecured creditors share $225 each, versus $150 expected after race. Collective gain $300 or $75 per creditor.",
+          "laymanExplanation": "Only one person pays recovery cost rather than all four, so each gets more.",
+          "legalExplanation": "Recovery = 1,000 – 100 = 900; each = 900/4 = 225; excess versus individual race = 900–600 = 300.",
+          "examApplication": "If problem varies participants/costs, recompute and identify equal percentage recovery.",
+          "examTrap": "Pro rata does not always mean equal dollar payment when debt amounts differ."
+        },
+        {
+          "id": "bank-ch1-collective-action-e4",
+          "type": "concept",
+          "title": "Defection and holdout: why mere private agreement fails",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Any creditor might defect and collect $500 minus $100 = $400 instead of $225 group share; anticipating this others race. Binding compulsion is essential.",
+          "laymanExplanation": "Everyone agrees to cooperate until one creditor sees it could make $400 alone.",
+          "legalExplanation": "Prisoner's-dilemma/free-rider dynamics justify federal stay and group administration instead of voluntary cooperation.",
+          "examApplication": "Mention §362 automatic stay, §549 recovery of unauthorized transfers, §1141(a) binding plan.",
+          "examTrap": "The example presumes a defector can collect in full; facts may change incentive."
+        },
+        {
+          "id": "bank-ch1-collective-action-e5",
+          "type": "rule",
+          "title": "Stay, estate, trustee and priority distribution are core mechanics",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "§362 restrains individual collection; §541 creates estate; trustee gathers/liquidates (§704); secured claims paid against collateral, priority unsecured claims under §507 before general unsecured, latter share under §726.",
+          "laymanExplanation": "One official gathers assets and distributes under legal ranking instead of first creditor taking all.",
+          "legalExplanation": "Stay and distribution operate together; trustee acts for estate/creditor body in Chapter 7.",
+          "examApplication": "Sequence secured collateral first, administrative/priority buckets, then ordinary unsecured pool.",
+          "examTrap": "General pro rata doesn't displace consensual secured lien."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-rehabilitation",
+      "title": "C.2 — Liquidation vs Reorganization: Chapters 7, 11, 12, 13 and Subchapter V",
+      "chapterGroup": "bank-ch1",
+      "description": "Valuation rationale and holdouts, debtor chapter choice, individual means test, family farms and textbook-era small business limits.",
+      "entries": [
+        {
+          "id": "bank-ch1-rehabilitation-e1",
+          "type": "rule",
+          "title": "Chapter 7 liquidation and individual fresh start",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Trustee gathers estate assets §541, returns exempt property §522, sells nonexempt property and pays creditors §§704,726. Individual qualifying debtor usually receives discharge §727(b) protecting future income.",
+          "laymanExplanation": "Sell what nonexempt property you own now; keep protected basics and (usually) later earnings.",
+          "legalExplanation": "Secured creditors retain collateral rights; some claims nondischargeable; entities liquidated rather than human discharge.",
+          "examApplication": "Compare debtor with few existing assets and high future earnings to alternative plans.",
+          "examTrap": "The bankruptcy estate includes many property interests even if later exempted."
+        },
+        {
+          "id": "bank-ch1-rehabilitation-e2",
+          "type": "rule",
+          "title": "Chapter 11: going-concern surplus and binding holdouts",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Reorganization can preserve operating value above breakup, keep jobs and allow future revenue payments. §362 prevents individual levies; §1141(a) binds dissenting creditors to confirmed plan.",
+          "laymanExplanation": "Save profitable business rather than auction it as scrap; a holdout creditor cannot ruin an agreed rescue by individual collection.",
+          "legalExplanation": "Out-of-court workouts fail if holdouts aren't bound; bankruptcy supplies compulsion. Critics favor §363 sale/market solutions and question cost of slow Chapter 11.",
+          "examApplication": "Compare going concern value vs forced sale and expected plan present value.",
+          "examTrap": "An automatically 'worth more alive' claim must be justified by numbers and risk."
+        },
+        {
+          "id": "bank-ch1-rehabilitation-e3",
+          "type": "rule",
+          "title": "Chapter 13 voluntary individual repayment plan",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Individuals with regular income and qualifying debts may keep property while paying creditors over three-to-five-year plan; creditors cannot force Chapter 13 petition under §303(a).",
+          "laymanExplanation": "Keep your car/house and pay over time rather than surrender nonexempt assets.",
+          "legalExplanation": "Debtors with more future income may prefer Chapter 7 for wage freedom; §707(b) abuse can restrict Chapter 7 access.",
+          "examApplication": "Compare debtor asset value, future earnings, secured debt, ability to make plan and likelihood of abuse.",
+          "examTrap": "A Chapter 7 dismissal for abuse is not itself involuntary Chapter 13 conversion."
+        },
+        {
+          "id": "bank-ch1-rehabilitation-e4",
+          "type": "rule",
+          "title": "Means test: §§707(b)(2) and (b)(3)",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "BAPCPA targets debtors with projected disposable income: statutory formula may create presumption of Chapter 7 abuse, subject to special circumstances, and bad faith/totality can independently justify dismissal.",
+          "laymanExplanation": "Even if debtor wants quick Chapter 7, law may force them to consider voluntary payments or no bankruptcy.",
+          "legalExplanation": "Use actual applicable income/expense limits from Code/current guidance in later chapter; excerpt introduces tests conceptually, no full calculations given.",
+          "examApplication": "Distinguish numerical presumption from totality analysis.",
+          "examTrap": "Not all individuals automatically subjected to same means test."
+        },
+        {
+          "id": "bank-ch1-rehabilitation-e5",
+          "type": "rule",
+          "title": "Chapter 12 and Chapter 9 specialized rehabilitation",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Chapter 12 facilitates family farmers and fishermen keeping farms via tailored 3–5 year plan; Chapter 9 allows qualifying municipal debt adjustment.",
+          "laymanExplanation": "Farmers get tailored relief; towns have separate reorganization system.",
+          "legalExplanation": "Chapter 12 introduced 1986, made permanent and extended fishermen in 2005; different debt and feasibility requirements.",
+          "examApplication": "State debtor type before selecting chapter.",
+          "examTrap": "Special chapter eligibility is statutory, not just debtor preference."
+        },
+        {
+          "id": "bank-ch1-rehabilitation-e6",
+          "type": "rule",
+          "title": "Subchapter V small business Chapter 11 option (textbook-era)",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "2019 Small Business Reorganization Act added subchapter V as easier Chapter 11 track for eligible business debtors; textbook gives $2,725,625 threshold and half business debts, reflecting then-current law.",
+          "laymanExplanation": "Small businesses can use streamlined Chapter 11 instead of giant-company procedures.",
+          "legalExplanation": "Some businesses (certain real-estate models) excluded; statutory debt thresholds periodically changed, so 2021 book dollar value not assumed current 2026.",
+          "examApplication": "Use for conceptual eligibility and compare to ordinary Chapter 11; verify present threshold later if precise calculation needed.",
+          "examTrap": "Never claim 2021 debt ceiling automatically applies in 2026."
+        },
+        {
+          "id": "bank-ch1-rehabilitation-e7",
+          "type": "concept",
+          "title": "Business rehabilitation criticisms",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Critics argue long and costly reorganization may destroy rather than preserve value; §363 sales may rescue productive assets within liquidation framework; supporters emphasize continuing jobs/community, surplus and coordinating holdouts.",
+          "laymanExplanation": "Maybe selling business as a going concern is quicker than saving company through long plan.",
+          "legalExplanation": "Policy debate in book; both creditor recovery value and noncreditor social interests matter.",
+          "examApplication": "Argue both the efficient quick sale and the multi-party going concern approach.",
+          "examTrap": "Do not equate 'liquidation' with forced scrap-sale when going-concern auction is possible."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-bankruptcy-hypotheticals",
+      "title": "C.2 — Whiting Pools and Lehman: Competing Bankruptcy Policies",
+      "chapterGroup": "bank-ch1",
+      "description": "Two unsolved textbook issues integrating going concern vs liquidation and debtor discharge moral hazard.",
+      "entries": [
+        {
+          "id": "bank-ch1-bankruptcy-hypotheticals-e1",
+          "type": "case",
+          "title": "United States v. Whiting Pools, Inc., 462 U.S. 198 (1983) — fact pattern",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "IRS seized debtor's business equipment for $92,000 taxes; liquidation value up to $35,000; continued business going-concern value $162,876. Chapter 11 debtor sought turnover of essential property.",
+          "laymanExplanation": "An IRS auction might yield $35k while business with equipment could be worth over $162k.",
+          "legalExplanation": "In source the full opinion is NOT excerpted; this is specifically the facts given for Problem 1.18, whose case-law turnover issue is not resolved in notes.",
+          "examApplication": "Compare stakeholder values, liens and protections without answering statutory turnover question.",
+          "examTrap": "Do not misclassify assigned excerpt as full case brief or solve problem.",
+          "assignedOpinion": false,
+          "sourceRole": "Case referenced or used as textbook hypothetical; full opinion not excerpted"
+        },
+        {
+          "id": "bank-ch1-bankruptcy-hypotheticals-e2",
+          "type": "case",
+          "title": "In re Lehman, 226 B.R. 805 (Bankr. D. Vt. 1998) — undue hardship facts",
+          "page": "Ch. 1 § C.2 (syllabus pp.1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77",
+          "summary": "Student borrower attended expensive universities, trained for teaching but opted for low-income pottery after mental stress, earned $4k and $7k annually, sought student loan discharge under §523(a)(8). Judge questioned whether occupational choice was beyond debtor control.",
+          "laymanExplanation": "When debtor can possibly earn more but chooses low-paid art, how should bankruptcy balance relief and creditor interests?",
+          "legalExplanation": "Case appears only as Problem 1.19 fact pattern and judge's comment; full outcome not supplied in excerpt.",
+          "examApplication": "Discuss ability, hardship, good faith, policy of honest debtor relief vs moral hazard, and separate legal elements only as supplied.",
+          "examTrap": "Do not invent holding that loan was discharged or denied; actual opinion not excerpted.",
+          "assignedOpinion": false,
+          "sourceRole": "Case referenced or used as textbook hypothetical; full opinion not excerpted"
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch1-p1-18",
+      "topicId": "bank-ch1-bankruptcy-hypotheticals",
+      "title": "Problem 1.18",
+      "kind": "Casebook Problem 1.18 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77 (C.2 — Whiting Pools and Lehman: Competing Bankruptcy Policies)",
+      "prompt": "Whiting Pools: company owed IRS $92,000; seized business assets liquidation $35,000 versus going concern $162,876. Should any bankruptcy relief be available, on what terms/constraints, whose interests and how reconcile? Do NOT resolve turnover or recovery.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-19",
+      "topicId": "bank-ch1-bankruptcy-hypotheticals",
+      "title": "Problem 1.19",
+      "kind": "Casebook Problem 1.19 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § C Introduction to Bankruptcy (complete user-uploaded chapter); Professor Effross Fall 2026 syllabus pp.1–77 (C.2 — Whiting Pools and Lehman: Competing Bankruptcy Policies)",
+      "prompt": "Lehman: student debt §523(a)(8), low-income potter with costly education and prior teaching, stress reasons. Should debts be discharged? Can borrower choose low income and claim hardship? Compare bright-line legislative rule versus judicial discretion, without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
