@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+  "coverage": {
+    "chapter": 2,
+    "scope": "D.2(d): Chapter 13 projected disposable income, Hamilton v Lanning and Ransom (full majority/dissent opinions), follow-on study exercises",
+    "note": "Ransom 2006 $471 table and Lanning 2006 income amounts are historical case facts."
+  },
+  "topics": [
+    {
+      "id": "bank-ch2-chapter13-projecting",
+      "title": "D.2(d) — Coordinating Chapter 7 Means Test and Chapter 13 Plan",
+      "chapterGroup": "bank-ch2",
+      "description": "§1325(b) projected disposable income, plan objections and distinction between current monthly income and known future changes.",
+      "entries": [
+        {
+          "id": "bank-ch2-chapter13-projecting-e1",
+          "type": "rule",
+          "title": "§1325(b)(1) full repayment or all projected disposable income",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "Upon trustee/unsecured creditor objection to Chapter 13 plan, confirmation generally requires either full payment of unsecured claims or commitment of all projected disposable income during applicable commitment period.",
+          "laymanExplanation": "To get payment-plan protection, debtor can't leave money out of plan if creditors object.",
+          "legalExplanation": "§1325(b)(2) defines disposable income referencing CMI, §1325(b)(3) means-test expenses above median; Chapter 13 forward-looking function differs from Ch7 presumption.",
+          "examApplication": "When plan income changes, start with CMI but ask whether known virtually certain changes alter projection.",
+          "examTrap": "Not all future projections reduce to multiplying historical CMI blindly."
+        },
+        {
+          "id": "bank-ch2-chapter13-projecting-e2",
+          "type": "rule",
+          "title": "Chapter 13 and Chapter 7 means-test link",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "Chapter 7 uses §707(b) expenses to screen for abuse; Chapter 13 incorporates standardized expense deductions in projected disposable income, but with forward-looking interpretation when changes certain.",
+          "laymanExplanation": "Same formula can affect different questions: eligibility for Chapter 7 versus what to pay in Chapter 13.",
+          "legalExplanation": "Ransom addresses expense eligibility; Lanning addresses known virtually certain future income/expense changes at confirmation.",
+          "examApplication": "Clarify which chapter and question before using outcome.",
+          "examTrap": "Passing Ch7 means test does not resolve full Chapter13 plan amount."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-lanning",
+      "title": "D.2(d) — Hamilton v. Lanning: Projected Disposable Income",
+      "chapterGroup": "bank-ch2",
+      "description": "Supreme Court full majority and Scalia dissent; historical CMI vs one-time windfall, known or virtually certain income shifts.",
+      "entries": [
+        {
+          "id": "bank-ch2-lanning-e1",
+          "type": "case",
+          "title": "Hamilton v. Lanning, 560 U.S. 505 (2010)",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "Forward-looking approach: starting with statutory disposable income, court may account for changes in debtor's income or expenses that are known or virtually certain at confirmation; affirm.",
+          "laymanExplanation": "Court starts with statutory CMI/disposable-income calculation, adjusting for known/virtually certain income/expense changes when projecting Chapter 13 payments.",
+          "legalExplanation": "Justice Alito majority relied on 'projected,' 'to be received,' 'as of effective date,' 'applied to make payments', pre-BAPCPA practice and avoiding impossible/hollow results of treating one-time severance as future monthly recurring wages. Scalia dissent argued statutory formula is deliberately mechanical, judges cannot reshape six-month lookback under guise of projection, and must not use policy to rewrite text.",
+          "examApplication": "Lay out mathematical gap: historical ~1,114.98 disposable vs $149.03 actual, proposed $144; 60 months and evidence of one-off buyout. Discuss known future job earnings too.",
+          "examTrap": "Rule is not unbounded discretion to use whichever forecast court finds equitable; known or virtually certain changes must be supported.",
+          "assignedOpinion": true,
+          "sourceRole": "Full excerpt of U.S. Supreme Court majority and dissent in Chapter 2",
+          "facts": "Lanning filed Chapter 13 with about $36,793 unsecured debt. In lookback she received unusual employer buyout, inflating monthly historical CMI to $5,343.70; standardized expenses $4,228.71 gave approx $1,114.98 disposable monthly. At new job actual Schedule I income $1,922; Schedule J expenses $1,772.97 → $149.03 available. Proposed plan $144/month for 36 months; trustee demanded mechanical $756/month for 60 months. Bankruptcy court allowed $144 but set 60 months; appeals sustained.",
+          "issue": "For §1325(b)(1)(B), is projected disposable income rigid CMI-based calculation, or may court consider significant known future changes in income and expense when confirming plan?",
+          "holding": "Forward-looking approach: starting with statutory disposable income, court may account for changes in debtor's income or expenses that are known or virtually certain at confirmation; affirm.",
+          "reasoning": "Justice Alito majority relied on 'projected,' 'to be received,' 'as of effective date,' 'applied to make payments', pre-BAPCPA practice and avoiding impossible/hollow results of treating one-time severance as future monthly recurring wages. Scalia dissent argued statutory formula is deliberately mechanical, judges cannot reshape six-month lookback under guise of projection, and must not use policy to rewrite text.",
+          "rule": "Court starts with statutory CMI/disposable-income calculation, adjusting for known/virtually certain income/expense changes when projecting Chapter 13 payments.",
+          "dissent": "Justice Scalia would enforce mechanically defined six-month CMI and payment period, reasoning Congress deliberately chose detailed formula and courts should not erase it due to seemingly unfair outcomes."
+        },
+        {
+          "id": "bank-ch2-lanning-e2",
+          "type": "rule",
+          "title": "Lanning computation: one-off windfall should not recur",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "Historical CMI $5,343.70 less allowed $4,228.71 ≈ $1,114.99, but current Schedule I $1,922 minus Schedule J $1,772.97 = $149.03; future prediction adjusts when one-time former employer payout known not to repeat.",
+          "laymanExplanation": "If a buyout happened last spring, don't project it every month for the next five years.",
+          "legalExplanation": "Use actual opinion's reported historical disposable $1,114.98 (rounding); trustee argued $756 monthly for 60 months due to full repayment.",
+          "examApplication": "Distinguish CMI arithmetic from projected plan calculation; payment period affects amount.",
+          "examTrap": "Do not assume all real-world expenses replace above-median statutory table automatically."
+        },
+        {
+          "id": "bank-ch2-lanning-e3",
+          "type": "rule",
+          "title": "Known or virtually certain standard",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "As of plan confirmation, court can depart from mechanical projected income for demonstrably known or virtually certain changed employment, income or expense.",
+          "laymanExplanation": "A signed new job contract or completed layoff may alter repayment forecast; imagined future raises shouldn't.",
+          "legalExplanation": "Court says begin with statute, use documented exceptional adjustments not free-form wishful thinking.",
+          "examApplication": "For hypothetical debtor starting $140k law salary, ask when change known and which chapter analyzed.",
+          "examTrap": "A mere possibility of a future increase is not virtually certain."
+        },
+        {
+          "id": "bank-ch2-lanning-e4",
+          "type": "concept",
+          "title": "Lanning Scalia dissent on statutory structure",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "Dissent views Congress's explicit six-month backward-looking CMI definition as deliberate and regards majority's judicial alteration as textual addition.",
+          "laymanExplanation": "Better to follow rigid imperfect formula than let judges rewrite numbers.",
+          "legalExplanation": "Contrasts statutory textualism with majority context/real-world plan feasibility and creditor recovery.",
+          "examApplication": "If asked compare Lanning vs Ransom, both invoke purpose but disagree on role of formula.",
+          "examTrap": "Dissent is not controlling."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-ransom",
+      "title": "D.2(d) — Ransom v. FIA Card Services: Vehicle Ownership vs Operating",
+      "chapterGroup": "bank-ch2",
+      "description": "Supreme Court majority and Scalia dissent, statutory 'applicable' versus 'actual' with real $471/$338/60-month example.",
+      "entries": [
+        {
+          "id": "bank-ch2-ransom-e1",
+          "type": "case",
+          "title": "Ransom v. FIA Card Services, N.A., 562 U.S. 61 (2011)",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "No. Local Standard ownership amount not 'applicable' because debtor incurs no car-loan/lease cost. Operating allowance may be claimed separately; affirm Ninth Circuit.",
+          "laymanExplanation": "A debtor may deduct vehicle Local Standard ownership cost only if he has qualifying loan/lease payments, not where car is fully paid off; separate operating allowance remains.",
+          "legalExplanation": "Justice Kagan majority read 'applicable' in §707(b)(2)(A)(ii)(I) as category matching actual circumstances; car ownership table means loan/lease cost, not wear/gas/insurance; those are operating. Distinguished applicable standardized amounts from 'actual' Other Necessary Expenses. BAPCPA purpose is maximum affordable creditor repayment. Scalia dissent read 'applicable' to select one-car or two-car table column, not to require payments; Congress said 'actual' elsewhere and bright-line formulas have anomalies.",
+          "examApplication": "Identify Ransom's 2006 $471 ownership and $338 operating and 60×$471=$28,260 effect; note book's separate 2020 $521 table is later.",
+          "examTrap": "Does not categorically rule amounts for borrower whose actual loan payment is below standard; leaves partial-cost question unresolved.",
+          "assignedOpinion": true,
+          "sourceRole": "Full excerpt of U.S. Supreme Court majority and dissent in Chapter 2",
+          "facts": "Jason Ransom Chapter 13 debtor owed over $82,500 unsecured; owned debt-free 2004 Toyota Camry worth $14,000. Monthly income $4,248.56 and reported expense $4,038.01 included car 'ownership' $471 plus separate operating cost $338; showed disposable $210.55, proposed 5-year 25% plan. Card issuer objected because car had no loan or lease; removing $471 would yield $681.55 monthly and roughly $28,260 extra over 60 months. Lower courts disallowed deduction.",
+          "issue": "May a Chapter 13 debtor with free-and-clear car claim IRS Local Standard transportation 'Ownership Costs' deduction though debtor has no car loan or lease payment?",
+          "holding": "No. Local Standard ownership amount not 'applicable' because debtor incurs no car-loan/lease cost. Operating allowance may be claimed separately; affirm Ninth Circuit.",
+          "reasoning": "Justice Kagan majority read 'applicable' in §707(b)(2)(A)(ii)(I) as category matching actual circumstances; car ownership table means loan/lease cost, not wear/gas/insurance; those are operating. Distinguished applicable standardized amounts from 'actual' Other Necessary Expenses. BAPCPA purpose is maximum affordable creditor repayment. Scalia dissent read 'applicable' to select one-car or two-car table column, not to require payments; Congress said 'actual' elsewhere and bright-line formulas have anomalies.",
+          "rule": "A debtor may deduct vehicle Local Standard ownership cost only if he has qualifying loan/lease payments, not where car is fully paid off; separate operating allowance remains.",
+          "dissent": "Justice Scalia argued plain statutory text refers to amount specified in table for one vs two cars regardless of actual loan; majority improperly imports interpretive guidance, and Congress deliberately differentiated 'specified' vs 'actual' expenses."
+        },
+        {
+          "id": "bank-ch2-ransom-e2",
+          "type": "rule",
+          "title": "Ransom arithmetic with no car debt",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "Case facts: $4,248.56 CMI − $4,038.01 claimed expenses = $210.55; removal of $471 ownership allowance makes expense $3,567.01 and disposable $681.55; 60 months difference = $28,260.",
+          "laymanExplanation": "One $471 imaginary deduction would divert over $28k from creditors across five-year plan.",
+          "legalExplanation": "These numbers are from 2006 Ransom record; don't treat as today's IRS allowance.",
+          "examApplication": "Apply same annualized consequence to other monthly allowances: change ×60.",
+          "examTrap": "Ransom permitted separate actual category operating standardized cost, so don't remove $338 too."
+        },
+        {
+          "id": "bank-ch2-ransom-e3",
+          "type": "rule",
+          "title": "'Applicable' expenses and 'actual' Other Necessary Expenses",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "National/Local deduction may use standardized amount if corresponding kind of expense is applicable; Other Necessary Expenses measured by actual allowable costs. Having a cost is different from calculating exact standardized figure.",
+          "laymanExplanation": "No payment → no car loan category. Having payment → a standard amount may apply even if actual smaller, issue reserved.",
+          "legalExplanation": "§707(b)(2)(A)(ii)(I) distinct adjectives important; interpretation of 'applicable' controls eligibility for expense category not necessarily amount.",
+          "examApplication": "Analyze loan free/one payment/$100 or $700 payments separately; read footnote 8 reservation.",
+          "examTrap": "Do not assert debtors can always deduct full table even if real loan lower; Court reserved it."
+        },
+        {
+          "id": "bank-ch2-ransom-e4",
+          "type": "rule",
+          "title": "Timing anomaly of last remaining car payment",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "Ransom acknowledges one last payment before filing may allow ownership standard, while payment finished before filing bars it; standardized formulas imperfect.",
+          "laymanExplanation": "Two neighbors with same car but one tiny last loan installment can receive different deductions.",
+          "legalExplanation": "Majority accepts bright-line effects as inevitable, and uses §1329 plan modification for future surprises.",
+          "examApplication": "Book's Ransom question 14.e: single $471 payment, should court account for certain immediate payoff? Discuss Lanning and §1329 in a practice response later, not answer now.",
+          "examTrap": "Do not automatically use court to predict imaginary future expense for paid-off car."
+        },
+        {
+          "id": "bank-ch2-ransom-e5",
+          "type": "concept",
+          "title": "Scalia dissent and debtor fresh-start policy",
+          "page": "Ch. 2 § D.2.d (general pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, 5th ed. (2021), Chapter 2 §D.2.d: full excerpted Supreme Court opinions Hamilton v. Lanning and Ransom v. FIA Card Services; Effross Fall 2026 general pp.79–170",
+          "summary": "Dissent stressed Congress uses 'actual' when it intends to tie deduction to real outlay; 'applicable monthly expense amount specified' may mean selecting car-count column. Majority emphasizes purpose and matching expense to need.",
+          "laymanExplanation": "Both read same sentence but prioritize different ways to understand 'applicable'.",
+          "legalExplanation": "Textual vs purposive dispute; dissent sees no statutory support for importing IRS Collection Financial Standards as conditions.",
+          "examApplication": "Compare both opinions as legal reasoning, not personal party sympathy.",
+          "examTrap": "Justice Scalia's result is minority dissent in this case."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
