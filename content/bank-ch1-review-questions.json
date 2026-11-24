@@ -1,0 +1,653 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+  "coverage": {
+    "chapter": "1",
+    "included": "62 additional end-of-section review prompts, source-grounded and kept unanswered",
+    "note": "In addition to all 19 separately numbered casebook Problems 1.1–1.19 in other Chapter 1 parts."
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch1-review-01",
+      "topicId": "bank-ch1-foundations",
+      "title": "Review — Creditor vs debtor",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why is showing that a debt exists not the same thing as collecting the debt?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-02",
+      "topicId": "bank-ch1-foundations",
+      "title": "Review — Creditor vs third parties",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What is a priority dispute and why does insolvency sharpen the conflict between creditors?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-03",
+      "topicId": "bank-ch1-foundations",
+      "title": "Review — Future income and human capital",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How do human capital and minimum subsistence justify individual exemptions, garnishment limits and discharge?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-04",
+      "topicId": "bank-ch1-foundations",
+      "title": "Review — Secured planning",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why would a lender insist on security before extending credit?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-05",
+      "topicId": "bank-ch1-foundations",
+      "title": "Review — Speed and policy",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "When does timing determine rights outside bankruptcy, and how does bankruptcy change those incentives?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-06",
+      "topicId": "bank-ch1-fdcpa",
+      "title": "Review — Collector definition",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Who qualifies as a 'debt collector' under each of the FDCPA's two major statutory prongs?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-07",
+      "topicId": "bank-ch1-fdcpa",
+      "title": "Review — Consumer debt",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How are natural-person consumer debts different from debts owed by companies and personal business obligations?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-08",
+      "topicId": "bank-ch1-fdcpa",
+      "title": "Review — Debt buyer and loan servicer",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What statutory distinction makes the outcome of Henson depend on who owns debt at collection, and what did Henson leave open?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-09",
+      "topicId": "bank-ch1-fdcpa",
+      "title": "Review — Collection attorney",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why does Heintz include regularly collecting attorneys under FDCPA?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-10",
+      "topicId": "bank-ch1-fdcpa",
+      "title": "Review — Conduct provisions",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How do §§804–809 separate third-party location, communications, harassment, deception, unfair practices and debt validation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-11",
+      "topicId": "bank-ch1-fdcpa",
+      "title": "Review — Remedies and defenses",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What types of private FDCPA recovery exist, what time limit applies and what does bona fide error require?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-12",
+      "topicId": "bank-ch1-collateral",
+      "title": "Review — Secured and unsecured comparison",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What enforcement rights does a secured party have without first obtaining a money judgment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-13",
+      "topicId": "bank-ch1-collateral",
+      "title": "Review — Breach of peace factors",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How do entry onto restricted property, consent, immediate objection and impersonation of police change a self-help repossession?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-14",
+      "topicId": "bank-ch1-collateral",
+      "title": "Review — Sale ordering",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "In what order are commercially reasonable Article 9 sale proceeds distributed?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-15",
+      "topicId": "bank-ch1-collateral",
+      "title": "Review — Deficiency and notice",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "When does deficiency arise and how might sale notice/commercial reasonableness affect a consumer or nonconsumer deficiency?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-16",
+      "topicId": "bank-ch1-execution",
+      "title": "Review — Execution steps",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What are the six ordered steps in executing a money judgment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-17",
+      "topicId": "bank-ch1-execution",
+      "title": "Review — Writ duration",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What does a writ's return date signify and what are the effects of early nulla bona return?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-18",
+      "topicId": "bank-ch1-execution",
+      "title": "Review — Dormancy and repeated attempts",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How do a judgment's dormancy and revival differ from issuing a new writ on an unexpired judgment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-19",
+      "topicId": "bank-ch1-execution",
+      "title": "Review — Delivery versus levy",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "At what event does a majority state create an execution lien, compared with a minority state, and why must a minority creditor still levy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-20",
+      "topicId": "bank-ch1-execution",
+      "title": "Review — Exempt property",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why cannot a sheriff seize exempt items, and what damages might follow an unlawful levy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-21",
+      "topicId": "bank-ch1-execution",
+      "title": "Review — Sale and proceeds",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why do sheriff sales often yield poor prices; what appraisal, redemption and set-aside protections exist?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-22",
+      "topicId": "bank-ch1-execution",
+      "title": "Review — Senior and junior liens",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What happens to liens senior and junior to executing creditor's lien after execution sale?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-23",
+      "topicId": "bank-ch1-execution-cases",
+      "title": "Review — Vitale successive levies",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Under Vitale when must a sheriff attempt repeated nighttime levies, and what limits the creditor's demands?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-24",
+      "topicId": "bank-ch1-execution-cases",
+      "title": "Review — Vitale amercement",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What was the basis for making the sheriff pay for nonperformance rather than requiring creditor to find other remedies?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-25",
+      "topicId": "bank-ch1-execution-cases",
+      "title": "Review — Illi five versus two creditors",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why did the five nonlevying creditors lose priority despite sheriff receiving writs, while two creditors retained liens?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-26",
+      "topicId": "bank-ch1-execution-cases",
+      "title": "Review — Illi payment plan",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why wasn't accepting installments after timely levy automatic abandonment of liens?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-27",
+      "topicId": "bank-ch1-judgment-liens",
+      "title": "Review — Judgment lien creation",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How is a judgment lien created on same-county land in majority and minority recording states?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-28",
+      "topicId": "bank-ch1-judgment-liens",
+      "title": "Review — Land in other place",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How does a judgment creditor reach land in another county or sister state?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-29",
+      "topicId": "bank-ch1-judgment-liens",
+      "title": "Review — After-acquired property",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why do statutory real-property judgment liens reach land acquired later without a new levy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-30",
+      "topicId": "bank-ch1-judgment-liens",
+      "title": "Review — Homestead and purchase-money",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How might exemptions and purchase-money mortgages change priority otherwise dictated by docketing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-31",
+      "topicId": "bank-ch1-judgment-liens",
+      "title": "Review — McDermott priority",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why did the IRS's filed notice outrank a prior state docketed judgment lien on property acquired later?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-32",
+      "topicId": "bank-ch1-judgment-liens",
+      "title": "Review — After-acquired competing liens",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "If both state judgment liens were recorded before debtor obtained land, how do majority and minority rules order them?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-33",
+      "topicId": "bank-ch1-garnishment",
+      "title": "Review — Garnishment parties",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Who is the garnishor and garnishee and why is a bank or employer commonly named?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-34",
+      "topicId": "bank-ch1-garnishment",
+      "title": "Review — Subrogation",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How does garnishor step into debtor's shoes, and what setoff/exemption defenses does this preserve?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-35",
+      "topicId": "bank-ch1-garnishment",
+      "title": "Review — Service snapshot",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What is the exact critical time for bank account garnishment and when is garnishment lien created?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-36",
+      "topicId": "bank-ch1-garnishment",
+      "title": "Review — Future wages",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why does the ordinary snapshot rule require special statutes for continuing wage deductions?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-37",
+      "topicId": "bank-ch1-garnishment",
+      "title": "Review — Wage cap",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What two competing federal disposable-earnings formulas limit ordinary garnishment, and when can stricter state rules apply?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-38",
+      "topicId": "bank-ch1-garnishment",
+      "title": "Review — Garnishee's double-liability limits",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What are garnishee duties to creditor and debtor and when could defective notice or exemptions lead to added liability?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-39",
+      "topicId": "bank-ch1-prejudgment",
+      "title": "Review — Purpose and scarcity",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What makes prejudgment relief 'provisional,' powerful and disfavored?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-40",
+      "topicId": "bank-ch1-prejudgment",
+      "title": "Review — Four remedies",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How do attachment, garnishment, replevin and lis pendens differ in whose property is reached and what creditor must show?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-41",
+      "topicId": "bank-ch1-prejudgment",
+      "title": "Review — Safeguards",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Which affidavit, bond, judicial supervision and opportunity-to-quash safeguards protect debtor in ex parte attachment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-42",
+      "topicId": "bank-ch1-prejudgment",
+      "title": "Review — Lien relation-back",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How can a provisional levy give priority against purchaser before final judgment, and what dissolves it?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-43",
+      "topicId": "bank-ch1-prejudgment",
+      "title": "Review — Preference risk",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why can bankruptcy soon after a state attachment defeat a creditor's attempted priority?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-44",
+      "topicId": "bank-ch1-grupo-mexicano",
+      "title": "Review — Grupo equity holding",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Did Grupo decide courts had inherent authority to freeze unsecured debtor's assets before judgment in ordinary contract damages case?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-45",
+      "topicId": "bank-ch1-grupo-mexicano",
+      "title": "Review — Rules 64 and 65",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why isn't Rule 65 a substitute for statutory prejudgment remedies available through Rule 64?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-46",
+      "topicId": "bank-ch1-grupo-mexicano",
+      "title": "Review — Majority versus dissent",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How did Scalia and Ginsburg differ over historical equity, technological asset mobility and creditor's absence of property interest?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-47",
+      "topicId": "bank-ch1-grupo-mexicano",
+      "title": "Review — Bankruptcy alternative",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How would broad freezes potentially distort collective bankruptcy and creditor equality?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-48",
+      "topicId": "bank-ch1-history",
+      "title": "Review — Ancient to English bankruptcy",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why did early English law add a collective process when individual writs of execution already existed?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-49",
+      "topicId": "bank-ch1-history",
+      "title": "Review — Discharge introduction",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What did Statute of Anne add and why did it condition debt forgiveness on cooperation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-50",
+      "topicId": "bank-ch1-history",
+      "title": "Review — Voluntary filing",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What was significant about the 1841 Bankruptcy Act and the 1874 composition device?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-51",
+      "topicId": "bank-ch1-history",
+      "title": "Review — Constitution",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why is a uniform federal bankruptcy power suited to interstate debtor assets and creditors?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-52",
+      "topicId": "bank-ch1-history",
+      "title": "Review — Judicial powers",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How did Marathon, BAFJA, and Stern reshape bankruptcy judges' final-judgment authority?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-53",
+      "topicId": "bank-ch1-history",
+      "title": "Review — BAPCPA history",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How did 2005 changes replace simple voluntary chapter choice with presumptive abuse scrutiny?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-54",
+      "topicId": "bank-ch1-theories",
+      "title": "Review — Story versus Levinthal",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How does Story's account of fair distribution and human freedom differ from Levinthal's two universal creditor-protection objects?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-55",
+      "topicId": "bank-ch1-theories",
+      "title": "Review — Radin distinctive function",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why is bankruptcy more than execution or fraudulent conveyance law in Radin's account?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-56",
+      "topicId": "bank-ch1-theories",
+      "title": "Review — Tabb modern dual mission",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "How does modern fresh-start discharge coexist with an older collective-creditor remedy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-57",
+      "topicId": "bank-ch1-collective-action",
+      "title": "Review — Race and group calculation",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Using textbook's four $500 debts, $1,000 assets and $100 collection cost per creditor, compare race versus collective net recoveries and each creditor's average.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-58",
+      "topicId": "bank-ch1-collective-action",
+      "title": "Review — Defection incentive",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Why would a creditor earning $225 under collective agreement be tempted to defect and race for $400 net?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-59",
+      "topicId": "bank-ch1-collective-action",
+      "title": "Review — Equal treatment limits",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "When is pro rata equal treatment limited by secured collateral and statutory priority claims?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-60",
+      "topicId": "bank-ch1-rehabilitation",
+      "title": "Review — Individual liquidation vs plan",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What assets/future earnings does Chapter 7 tend to sacrifice or protect compared with Chapter 13?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-61",
+      "topicId": "bank-ch1-rehabilitation",
+      "title": "Review — Business liquidation vs going concern",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Under what economic facts can a Chapter 11 plan create value absent from piecemeal sales?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-62",
+      "topicId": "bank-ch1-rehabilitation",
+      "title": "Review — Binding Chapter 11 plan",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What specific bankruptcy powers solve the creditor holdout problem outside workouts?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-63",
+      "topicId": "bank-ch1-rehabilitation",
+      "title": "Review — Chapter 12 and subchapter V",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "Who are the specialized debtors served by Chapter 12 and small business Chapter 11 subchapter V?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-review-64",
+      "topicId": "bank-ch1-rehabilitation",
+      "title": "Review — Abuse and means test",
+      "kind": "Chapter 1 end-of-section Questions (paraphrased) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, casebook end-of-section Questions (user-uploaded); Effross Fall 2026 pp.1–77",
+      "prompt": "What roles do §707(b)(2) projected means test and §707(b)(3) bad faith/totality play?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
