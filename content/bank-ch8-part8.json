@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+  "coverage": {
+    "chapter": 8,
+    "scope": "Source-grounded whole-chapter exam synthesis, stepwise issue checklist and generic arithmetic for profitable contract alternatives, rejection damages/date, rents and administrative-vs-unsecured claims. No numbered original problem solved."
+  },
+  "topics": [
+    {
+      "id": "bank-ch8-chapter8-exam-map",
+      "title": "Chapter 8 Master Framework: Contract Status → Choice → Limits → Effects",
+      "chapterGroup": "bank-ch8",
+      "description": "Exam-useful decision tree anchored to Code and assigned opinions.",
+      "entries": [
+        {
+          "id": "bank-ch8-chapter8-exam-map-e1",
+          "type": "concept",
+          "title": "1. What debtor possesses: asset plus obligations",
+          "page": "Ch.8 §§A–B synthesis",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Ask §541 debtor's right, whether still live at filing, who owes what, and whether Countryman two-sided MATERIAL nonperformance would allow breach by either to excuse other; only then use §365.",
+          "laymanExplanation": "Don't analyze assumption if only an unpaid invoice or expired option.",
+          "legalExplanation": "Sudbury cautions reciprocal actual performance duties vs administrative reprioritizing tricks.",
+          "examApplication": "Sketch counterparties' each outstanding duty and breach consequence.",
+          "examTrap": "Every unexpired contract is not automatically executory."
+        },
+        {
+          "id": "bank-ch8-chapter8-exam-map-e2",
+          "type": "concept",
+          "title": "2. Which §365 option and at what deadline",
+          "page": "Ch.8 §§C–E synthesis",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Four choices—assume, assign AFTER assume, reject, or delay. Ordinary Chapter7 §365(d)(1) 60 days; reorganization until confirmation §365(d)(2); nonresidential lease §365(d)(4) 120 days + 90 court with extra only landlord written consent. Check court approval and deemed rejection.",
+          "laymanExplanation": "The same contract might be good if you can sell it, bad if you must perform, and worth waiting on.",
+          "legalExplanation": "Special timing for realty leases vs payment after 60 days for Chapter11 equipment must not be conflated.",
+          "examApplication": "Write petition date, order date, motion and order, confirmation in chronological table.",
+          "examTrap": "In Chapter7 no unlimited option to postpone."
+        },
+        {
+          "id": "bank-ch8-chapter8-exam-map-e3",
+          "type": "concept",
+          "title": "3. Before assumption, classify effect and limits",
+          "page": "Ch.8 §§F.1–F.3 synthesis",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Ask whether still live; cum onere; cure default/actual loss/future assurance §365(b)(1); no bankruptcy-only ipso facto cure §365(e); shopping center extra §365(b)(3); financial accommodation §365(c)(2) bar; nondelegation §365(c)(1) if personal/patent.",
+          "laymanExplanation": "Choose full agreement and prove ability to honor it.",
+          "legalExplanation": "DIP may face hypothetical vs actual test circuit split for nondelegable agreements.",
+          "examApplication": "State law on termination and contract clauses before monetary outcome.",
+          "examTrap": "§365(f) antiassignment override is not carte blanche for all identity-sensitive agreements."
+        },
+        {
+          "id": "bank-ch8-chapter8-exam-map-e4",
+          "type": "concept",
+          "title": "4. Rejection: separate estate, counterparty and other vested rights",
+          "page": "Ch.8 §D synthesis",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Rejection equals not-assumption + deemed prefiling BREACH, ordinarily gives unsecured money damages, NOT automatic rescission; pre-conveyed trademark/realty/IP rights and genuine nonmonetary equitable remedies may survive according to Mission/Ortiz/special statutes.",
+          "laymanExplanation": "Bankruptcy can reduce cash cost but not magically rewind what debtor already transferred.",
+          "legalExplanation": "After prior assumption, §365(g)(2) administrative exposure instead of §365(g)(1) prefiling classification.",
+          "examApplication": "Analyze existence of property right, then claims under §101(5) and state remedies.",
+          "examTrap": "Don't say all duties always discharged merely because rejection approved."
+        },
+        {
+          "id": "bank-ch8-chapter8-exam-map-e5",
+          "type": "concept",
+          "title": "5. Limbo: nondebtor performs, estate pays actual benefits or special full lease",
+          "page": "Ch.8 §E synthesis",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Before assumption counterparty can be compelled to perform while debtor estate not fully bound; actual benefit usually admin §503. Nonres realty §365(d)(3) full rent postfiling; Chapter11 commercial personalty §365(d)(5) full contract after day60 subject equities; §365(d)(2) motion can force earlier decision.",
+          "laymanExplanation": "Services after petition should be paid for, but old debt remains old debt absent assumption.",
+          "legalExplanation": "Whitcomb and lease statutes critical contrast.",
+          "examApplication": "List asset and monthly contract bills/market benefit and when protection changes.",
+          "examTrap": "Do not call limbo 'free' or 'assumed by conduct'."
+        },
+        {
+          "id": "bank-ch8-chapter8-exam-map-e6",
+          "type": "concept",
+          "title": "6. Assignment: assignee assurance and nondelegation",
+          "page": "Ch.8 §F.2–3 synthesis",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Assume with cure; assign §365(f)(2) after demonstrable future assurance, release estate §365(k). Antiassignment contract usually ineffective §365(f)(1), but outside identity-sensitive law under §365(c)(1) and shopping-center agreements can constrain.",
+          "laymanExplanation": "Estate may sell cheap lease and eliminate responsibility for buyer's later rent, but buyer must be reliable.",
+          "legalExplanation": "Martin Paint favors nonshopping flexibility, Catapult and Magness limit nondelegation.",
+          "examApplication": "Identify law source of restriction, not only text.",
+          "examTrap": "Sublease keeps estate liable and may enforce anti-subletting terms."
+        },
+        {
+          "id": "bank-ch8-chapter8-exam-map-e7",
+          "type": "concept",
+          "title": "7. Special labor: §1113 before modifying CBA",
+          "page": "Ch.8 §D.3 synthesis",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "CBA rejects require information-based necessary/fair proposal, negotiations and good faith, union unreasonable refusal, balancing clearly for rejection; interim change requires court order essential to continuing business/preventing irreparable harm; §1114 retiree benefits.",
+          "laymanExplanation": "Union contracts are protected differently than a retail supply deal.",
+          "legalExplanation": "Bildisco old interim modification ruling overturned by Congress.",
+          "examApplication": "In essay use nine-part checklist if CBA facts.",
+          "examTrap": "Never substitute ordinary business-judgment rule for labor statute."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-chapter8-calculations",
+      "title": "Chapter 8 Calculation Toolkit: Price Spreads, Lease Claims, Future Rent and Percentages",
+      "chapterGroup": "bank-ch8",
+      "description": "General numeric formulas and examples independent of original problems.",
+      "entries": [
+        {
+          "id": "bank-ch8-chapter8-calculations-e1",
+          "type": "rule",
+          "title": "Cash economic upside from assuming a goods contract",
+          "page": "Ch.8 §§C–D / calculation",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Generic gross bargain value on goods purchased = current available equivalent market or provable resale value − contractual purchase price − incremental performance costs. Compare with reject option and expected UNSECURED claim treatment; do not assume damages simply equal price spread.",
+          "laymanExplanation": "Buying for $8k something verifiably worth $10k gives $2k gross spread before costs.",
+          "legalExplanation": "Under bankruptcy, private counterparty rejection claim payout not necessarily equal full damage amount; choice subject business judgment.",
+          "examApplication": "For original Problems8.2–8.3 construct separate assumed and rejected cashflow columns but leave original numeric result blank.",
+          "examTrap": "A profitable contract need not be economically optimal after alternatives."
+        },
+        {
+          "id": "bank-ch8-chapter8-calculations-e2",
+          "type": "rule",
+          "title": "Expected unsecured claims recovery",
+          "page": "Ch.8 §§C–D / calculation",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "If general unsecured claim nominal amount D and plan predicts dividend p, expected payout ≈ D×p; estate cost and legal allowance depend contracts, valuation, court and actual plan. Example independent: $10,000 allowed claim at 20% yields $2,000 estimated payout.",
+          "laymanExplanation": "The estate's decision can be affected by paying only part of an ordinary breach claim.",
+          "legalExplanation": "Do not treat nominal breach amount as same as cash paid; Enron warns calculation date may determine claim amount.",
+          "examApplication": "State both face claim and estimated distribution separately.",
+          "examTrap": "Expected payout is not legally controlling if business judgment or fairness differs."
+        },
+        {
+          "id": "bank-ch8-chapter8-calculations-e3",
+          "type": "rule",
+          "title": "Above-market contract/lease assignment value",
+          "page": "Ch.8 §F.2 / calculation",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Gross remaining lease spread = (market rental for comparable site − fixed contract rent) × remaining periods if comparable; adjustment for discounted cash flows, cure, commissions and risk may change sale value. E.g., 2 years at annual market $20k vs contracted $16k implies undiscounted gross $8k.",
+          "laymanExplanation": "Cheap lease is economic asset that can be sold.",
+          "legalExplanation": "§365(f) favors preserving contract surplus for estate subject third-party safeguards.",
+          "examApplication": "For Problem8.9 isolate annual delta, percentage covenant, duration, no final ruling.",
+          "examTrap": "Do not say $8k gross equals actual sale price if risk/cure costly."
+        },
+        {
+          "id": "bank-ch8-chapter8-calculations-e4",
+          "type": "rule",
+          "title": "Administrative claim math: contract rent versus actual use value",
+          "page": "Ch.8 §E / calculation",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Ordinary gap §503 amount ≈ reasonable market value of property/services actually benefited estate for duration used. Nonres §365(d)(3) may require full lease bills arising after petition; Chapter11 equipment §365(d)(5) shifts to full bills after day60 unless court modifies. Example unrelated: 5 units at $200 each/month but uses 2, market $150 each => ordinary used-value $300 vs full contract $1k.",
+          "laymanExplanation": "Rule determines which figure to apply BEFORE arithmetic.",
+          "legalExplanation": "Different law for real property, personal equipment, Chapter7 and plan period.",
+          "examApplication": "Create monthly grid period × used units × market rent × full contract rent × statute.",
+          "examTrap": "Never blindly pay contract rate for unused equipment in first 60-day ordinary gap."
+        },
+        {
+          "id": "bank-ch8-chapter8-calculations-e5",
+          "type": "rule",
+          "title": "Rent/tax proration compared with billing-date formula",
+          "page": "Ch.8 §E / calculation",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Under PRORATION, postfiling rent ≈ full rental charge × postpetition days (or eligible period) / total service days; under BILLING DATE, obligation arising/due after filing may trigger full amount and billed before petition may not under §365(d)(3), but §503 actual benefit separate. Example independent: $3,000 monthly rent for 30-day month, petition day11 leaves 20 days postpetition => $2,000 prorated.",
+          "laymanExplanation": "Bill date and days actually used can yield different bankruptcy obligations.",
+          "legalExplanation": "Courts divided in source; Problem8.4 tests rent/tax accrual and 8.5 stub rent when bill PREpetition.",
+          "examApplication": "Show both approaches without asserting which controls jurisdiction.",
+          "examTrap": "Don't just divide $95k by 6 and treat as mandatory original answer."
+        },
+        {
+          "id": "bank-ch8-chapter8-calculations-e6",
+          "type": "rule",
+          "title": "Postassignment release versus contingent liability",
+          "page": "Ch.8 §F.2 / calculation",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "After valid §365(f) assignment, later assignee defaults generally not estate liability §365(k). If instead estate SUBLEASES, it remains obliged for full landlord rent though may receive rent from subtenant. Compute exposure as contracted landlord rent − actual recoverable subtenant receipts.",
+          "laymanExplanation": "No debt on buyer's later default under assignment, but secondary renter risk persists on sublease.",
+          "legalExplanation": "This matters when comparing same cash proceeds from selling versus subletting.",
+          "examApplication": "Model cash risks before choosing transaction.",
+          "examTrap": "Do not assume any new occupant instantly relieves estate of full lease duty."
+        },
+        {
+          "id": "bank-ch8-chapter8-calculations-e7",
+          "type": "rule",
+          "title": "Damages valuation has DATE choice before price arithmetic",
+          "page": "Ch.8 §D.2 / Enron",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "§365(g)(1) deems rejection prefiling breach for priority; Enron lower court also measured amount petition-day under §502(g), whereas book critiques using this legal fiction when market changes and counterparty continues performing. Separately estimate replacement procurement cost and contract loss as of each candidate date.",
+          "laymanExplanation": "One power contract may flip from benefit to huge loss across market changes.",
+          "legalExplanation": "Identify damages date before applying contract's NPV, forward curve and transaction costs.",
+          "examApplication": "In source Enron keep court's historic amounts and textbook critique distinct.",
+          "examTrap": "No universal formula valid regardless statutory date or governing contract/UCC law."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-chapter8-case-map",
+      "title": "Chapter 8 Case-to-Issue Map: All Nine Full Opinions",
+      "chapterGroup": "bank-ch8",
+      "description": "Choose case based on §365 question, not just fact that contract exists.",
+      "entries": [
+        {
+          "id": "bank-ch8-chapter8-case-map-e1",
+          "type": "rule",
+          "title": "Nine source full opinions in exam sequence",
+          "page": "Ch.8 §§B–F synthesis",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Sudbury (Countryman reciprocity); Enron (§502(g) rejection damage valuation date); Mission Product (rejection breach not rescission of trademark license); Ortiz (nonmoney injunction vs discharge); Whitcomb & Keller (limbo/no implied assumption); Klein Sleep (assumed lease admin damage, 2005 exception); Martin Paint (nonshopping use clause/assignment); Catapult (hypothetical nonassignment); Magness (personal club rights and §363(e)).",
+          "laymanExplanation": "Each opinion does different work: identify contract, reject, retain rights, postpone, assume, assign, or limit transfer.",
+          "legalExplanation": "Case chapter includes only summaries of other authorities like Bildisco, Jartran, Lubrizol, Kkemko, not full opinions.",
+          "examApplication": "In essays use relevant one/two rather than broad generic 'assume or reject' proposition.",
+          "examTrap": "Don't ignore statutory amendment when citing Klein."
+        },
+        {
+          "id": "bank-ch8-chapter8-case-map-e2",
+          "type": "rule",
+          "title": "High-frequency contrasting pairs",
+          "page": "Ch.8 §§B–F synthesis",
+          "source": "Casebook-grounded Chapter8 §§A–F exam synthesis; Chapter8 user-uploaded markdown; formulas are independent instructor-style study aids and do not solve original numbered problems",
+          "summary": "Sudbury vs Countryman superficial performance; Mission vs Ortiz (property grants vs equitable rights); Whitcomb vs Klein (no assumption vs formal assumption); Martin Paint vs Magness (commercial antiuse flexibility vs personal relationship); Catapult actual vs hypothetical; ordinary §365(d)(3) vs equipment §365(d)(5).",
+          "laymanExplanation": "Tests often ask why similar-looking cases yield different debtor liabilities.",
+          "legalExplanation": "Match dispositive distinctions: executoriness, contract effect, assumption, third-party right, statute/circuit.",
+          "examApplication": "Use a 2-column contrast in answer.",
+          "examTrap": "Case facts matter more than number of contracts."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
