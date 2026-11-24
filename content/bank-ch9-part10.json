@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+  "coverage": {
+    "chapter": 9,
+    "scope": "Whole-chapter master decision framework and independent calculations (avoid/recover/preserve, secured waterfall, state present creditor, fraud value, preference dividends, subsequent new value, floating liens, setoff insufficiency, Ponzi net winners), 13-case map; no original textbook problem answered"
+  },
+  "topics": [
+    {
+      "id": "bank-ch9-master-issue-map",
+      "title": "Chapter 9 Exam Roadmap: Classify Avoidance Power Before Calculating",
+      "chapterGroup": "bank-ch9",
+      "description": "Which statute fits what transfer, what date, what beneficiary and what defense?",
+      "entries": [
+        {
+          "id": "bank-ch9-master-issue-map-e1",
+          "type": "concept",
+          "title": "Step 1: identify transaction and affected estate interest",
+          "page": "Ch9 A–G synthesis",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Was debtor's own property transferred prepetition, lien imperfectly perfected, asset gifted/sold, old creditor paid, account netted, or collateral seized postpetition? Identify transferor, recipient, consideration and petition timeline.",
+          "laymanExplanation": "Different conduct activates different lawsuit.",
+          "legalExplanation": "§544(a) priority; §544(b)/§548 fraudulent transfers; §547 preference; §549 unauthorized postpetition; §553 prepetition setoff; §550 recovery and §551 preservation.",
+          "examApplication": "Write transaction flowchart and dates before legal conclusions.",
+          "examTrap": "Cannot use all avoidance statutes interchangeably."
+        },
+        {
+          "id": "bank-ch9-master-issue-map-e2",
+          "type": "concept",
+          "title": "Step 2: select law and standing",
+          "page": "Ch9 A–D synthesis",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "§544(a): hypothetical petition-date lien creditor/execution creditor/BFP; §544(b): ACTUAL allowable unsecured creditor qualified under state law; §548: trustee federal statutory power; §547: trustee preference; DIP under §1107(a) usually trustee analogue.",
+          "laymanExplanation": "For (a), pretend claimant exists; for (b), find a real creditor.",
+          "legalExplanation": "Keep state transfer law vs federal Code source distinct, verify ordinary limitation/transaction types.",
+          "examApplication": "State actual creditor, timing and governing state law.",
+          "examTrap": "Borrowing §544(b) still requires someone with an allowable unsecured claim."
+        },
+        {
+          "id": "bank-ch9-master-issue-map-e3",
+          "type": "concept",
+          "title": "Step 3: distinguish voidability, recipient liability, recovered value",
+          "page": "Ch9 A & D synthesis",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Apply underlying avoiding power; after invalidation, §550 identifies first legal transferee, benefited guarantor, protected subsequent buyer and §550(d) single satisfaction; §502(h) claim may revive; §551 saves avoided lien priority.",
+          "laymanExplanation": "Judicial declaration not itself cash; need proper recovery defendant.",
+          "legalExplanation": "Video Depot, Railworks and Moore v Bay illustrate special consequences.",
+          "examApplication": "Draw transfer arrows and title/benefit separately.",
+          "examTrap": "Mere conduit never identical to first recipient legal dominion."
+        },
+        {
+          "id": "bank-ch9-master-issue-map-e4",
+          "type": "concept",
+          "title": "Step 4: public title snapshot or intent/value analysis",
+          "page": "Ch9 B–D synthesis",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "For §544(a), ask UCC/realty recording priority at petition, 20-day purchase-money relation-back etc. For §544(b)/§548, ask debtor property, state triggering creditor, actual intent badges OR value deficiency plus qualifying financial condition, recovery defenses.",
+          "laymanExplanation": "A secret UCC lien is different from insolvent gift; evaluate accordingly.",
+          "legalExplanation": "Costas property disclaimer, Omegas equitable remedy and BFP foreclosure illustrate property definitions and exceptions.",
+          "examApplication": "Name selected theory first, then prove each element.",
+          "examTrap": "Avoid presuming hindsight bad outcome demonstrates no equivalent value."
+        },
+        {
+          "id": "bank-ch9-master-issue-map-e5",
+          "type": "concept",
+          "title": "Step 5: §547 preference -> defendant §547(c) safe harbors",
+          "page": "Ch9 E synthesis",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Trustee establishes seven preference elements including creditor, antecedent debt, insolvency, 90-day/insider year and better-than-Ch7. THEN recipient may prove ordinary-course, contemporaneous/new value, enabling loan, floating lien or other defense.",
+          "laymanExplanation": "Payment on real old invoice can be attacked, but ordinary trade payment may be safe.",
+          "legalExplanation": "Do not blend §547(c)(3) 30-day enabling with UCC §9-317(e) 20-day strong-arm exception.",
+          "examApplication": "Use stepwise burden chart and defendant timeline.",
+          "examTrap": "Creditor's insolvency knowledge not prima facie requirement."
+        },
+        {
+          "id": "bank-ch9-master-issue-map-e6",
+          "type": "concept",
+          "title": "Step 6: §553 setoff or recoupment, avoid confusing with preference",
+          "page": "Ch9 F synthesis",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Setoff requires two-way same-capacity PREpetition mutual debt and state entitlement, subject §362 stay and §553(a)(2)/(3) conditions; ACTUAL setoff before petition invokes §553(b) two-point insufficiency. Recoupment can span petition if same integrated transaction.",
+          "laymanExplanation": "Same person owing each other money can net, but different affiliate or new purchase often cannot.",
+          "legalExplanation": "SemCrude, insurer/publisher and Banjo Problem9.15 fact patterns.",
+          "examApplication": "Track distinct persons/capacities and two date balances.",
+          "examTrap": "A right to pay less via triangular offset isn't automatically independent §101(5) claim."
+        },
+        {
+          "id": "bank-ch9-master-issue-map-e7",
+          "type": "concept",
+          "title": "Step 7: Ponzi alternative claims and net-winner division",
+          "page": "Ch9 G synthesis",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Use §548 actual presumption for fraudulent scheme, §548 constructive no-value fake profits, §548(c) principal value/good faith, §547 90-day principal payments/ordinary course; no free-floating universal equity power.",
+          "laymanExplanation": "Winner's paid fictitious interest different from getting one's original cash back.",
+          "legalExplanation": "Independent Clearing House and Cunningham compared.",
+          "examApplication": "Distinguish claim size, net return, good faith, legal lookback.",
+          "examTrap": "Net loser may still face preference on recent principal repayment."
+        },
+        {
+          "id": "bank-ch9-master-issue-map-e8",
+          "type": "concept",
+          "title": "Step 8: judicial opinion versus book challenge",
+          "page": "Ch9 Whole chapter",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Case holding is only one piece: book critiques Omegas/Costas property definitions, BFP Scalia-v-Souter state deference, Marshall borrowing substitution, National Gas ordinary industry standard, Railworks conduit liability and SemCrude nonrecourse guarantee.",
+          "laymanExplanation": "Professor may ask 'why should the case have come out differently?'",
+          "legalExplanation": "Make two-sided analysis but label actual holding, dissent and textbook critique.",
+          "examApplication": "Use relevant precise source facts and statutory terms.",
+          "examTrap": "Don't rewrite historical cases to pretend amended law existed then."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-calculation-toolkit",
+      "title": "Chapter 9 Calculations: All Formula Types and Worked Independent Examples",
+      "chapterGroup": "bank-ch9",
+      "description": "Source-preserving mathematical practice without answering original Problems9.1–9.15.",
+      "entries": [
+        {
+          "id": "bank-ch9-calculation-toolkit-e1",
+          "type": "concept",
+          "title": "Lien preservation §551 collateral waterfall",
+          "page": "Ch9 A / independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Collateral $52,000, avoided senior lien securing $17,000, junior lien securing $80,000: estate occupies former senior $17k priority and residual collateral $35k available to junior; junior still has unsecured deficiency.",
+          "laymanExplanation": "Avoiding senior doesn't hand its priority slot to junior.",
+          "legalExplanation": "Amount captured is lesser of avoided lien priority and realizable collateral, subject other interests.",
+          "examApplication": "Draw senior estate first, junior second.",
+          "examTrap": "Don't apply $10k/$20k textbook example as user's unsolved assignment outcome."
+        },
+        {
+          "id": "bank-ch9-calculation-toolkit-e2",
+          "type": "concept",
+          "title": "Moore v Bay triggering creditor vs whole transfer",
+          "page": "Ch9 B / independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Total estate unsecured $70k, property wrongfully transferred $26k, one eligible actual creditor only $250: if §544(b) claim properly establishes avoidable transaction, entire $26k transfer may be avoided and shared estate-wide, not capped $250.",
+          "laymanExplanation": "One small real creditor unlocks whole recovery.",
+          "legalExplanation": "Separate state-law creditor standing from estate recoverable transfer and shared distribution.",
+          "examApplication": "Model money flow; preserve original Problem9.1 unsolved.",
+          "examTrap": "Do not assume UVTA individual creditor §7 itself gives full 26k personal recovery."
+        },
+        {
+          "id": "bank-ch9-calculation-toolkit-e3",
+          "type": "concept",
+          "title": "§548 constructively fraudulent value gap",
+          "page": "Ch9 D / independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "A debtor with $90k assets and $130k debts gifts a $12k machine for $3k: nominal value shortfall $9k; evaluate whether $3k cash actually retained/returned, §548(c) credit, and transfer vs recovery separately.",
+          "laymanExplanation": "Giving $12k for $3k while insolvent removes $9k value before creditor relief.",
+          "legalExplanation": "Difference suggests insufficient equivalence but formal remedy can involve whole transfer subject defenses.",
+          "examApplication": "Do not jump from shortfall arithmetic to full recipient personal liability.",
+          "examTrap": "Economically different from selling at reasonable market value then hiding proceeds with actual intent."
+        },
+        {
+          "id": "bank-ch9-calculation-toolkit-e4",
+          "type": "concept",
+          "title": "§547(b)(5) more-than-liquidation comparison formula",
+          "page": "Ch9 E / Palmer Clay independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "If unsecured creditor has $24k original claim, receives $6k before filing, and Ch7 pays remaining unsecured claims 30%, with payment kept gets $6k+0.30×$18k=$11.4k; without payment gets 0.30×$24k=$7.2k. Improvement $4.2k = $6k×(1−0.30).",
+          "laymanExplanation": "Early $6k plus dividend on remaining invoice beats simple 30% claim payout.",
+          "legalExplanation": "Illustrative simplified fixed-dividend assumption, actual Chapter7 pool may be recalculated.",
+          "examApplication": "For fully-secured or partly secured claims compute secured portions first.",
+          "examTrap": "Don't apply unsecured algebra mechanically to original secured Problem9.11."
+        },
+        {
+          "id": "bank-ch9-calculation-toolkit-e5",
+          "type": "concept",
+          "title": "§547(c)(4) subsequent NEW value running ledger",
+          "page": "Ch9 E / independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Start avoidable prefiling old debt payment $12,000; creditor then ships NEW $4,500 unsecured inventory and then another $2,000 on credit, both after preference and qualifying, no disqualifying repayment: provisional net vulnerable amount $12,000−$4,500−$2,000=$5,500, subject statutory details.",
+          "laymanExplanation": "Fresh goods given after a preference offset previous favored payment.",
+          "legalExplanation": "Order controls: if goods precede payment, not subsequent new value for that payment.",
+          "examApplication": "Mark each payment vs shipment +/− in dates grid.",
+          "examTrap": "This is NOT worked answer to original Problem9.12."
+        },
+        {
+          "id": "bank-ch9-calculation-toolkit-e6",
+          "type": "concept",
+          "title": "PMSI clock comparison: UCC20 vs federal §547(c)(3)30",
+          "page": "Ch9 C & E / independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Debtor receives new financed tool day0, files bankruptcy day10; lender files public financing day18: analyze UCC relation-back ≤20 days for §544 and independent §547 enabling-loan ≤30 days. For filing day25, don't confuse Code30 with UCC20.",
+          "laymanExplanation": "One document deadline protects a fictional lien creditor, another protects from preference.",
+          "legalExplanation": "Need separate statutory facts and time of transfer under §547(e).",
+          "examApplication": "Use separate test grids.",
+          "examTrap": "Exact grace period may vary by collateral/statute; examples source simple goods."
+        },
+        {
+          "id": "bank-ch9-calculation-toolkit-e7",
+          "type": "concept",
+          "title": "§547(c)(5) floating lien two-point deficiency",
+          "page": "Ch9 E / independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Day90 lender claim $150k, inventory $105k → deficiency $45k. Petition claim $150k, inventory $127k → deficiency $23k. Improvement $22k, potentially avoidable if security/value conditions satisfied.",
+          "laymanExplanation": "Lender became $22k more secured without new money.",
+          "legalExplanation": "Two-point look at unsecured shortfall, floor zero; inventory turnover does not itself equal preference.",
+          "examApplication": "For original Problem9.14 preserve numerical subparts.",
+          "examTrap": "Don't use June15 low point rather than statutory endpoints."
+        },
+        {
+          "id": "bank-ch9-calculation-toolkit-e8",
+          "type": "concept",
+          "title": "§553(b) insufficiency two-point",
+          "page": "Ch9 F / independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Day90 bank claim $40k, bank owes depositor $12k → insufficiency $28k. Day of actual prefiling setoff claim $40k and bank debt $25k → insufficiency $15k. Improvement $13k potential §553(b) recovery; remaining claim restored under §502(h).",
+          "laymanExplanation": "Bigger customer deposits make old bank claim more collectible.",
+          "legalExplanation": "Unlike §553(a)(3), §553(b) does not require purpose or insolvency proof.",
+          "examApplication": "Always use date of actual setoff, not petition if different.",
+          "examTrap": "If no prefiling setoff, apply (a)/(stay) instead."
+        },
+        {
+          "id": "bank-ch9-calculation-toolkit-e9",
+          "type": "concept",
+          "title": "§553(a) straightforward netting and mutuality",
+          "page": "Ch9 F / independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "D owes C $4,200 for accounting while C owes D $5,000 for goods, same capacities both prepetition: valid setoff if nonbankruptcy law permits up to $4,200, estate receives $800; if amounts owed by C's subsidiary, no ordinary mutuality.",
+          "laymanExplanation": "Only remaining balance crosses table.",
+          "legalExplanation": "Find underlying contract right and §362 permission if after petition.",
+          "examApplication": "Keep distinct debtors' balances and capacities.",
+          "examTrap": "This does not solve original banjo Problem9.15."
+        },
+        {
+          "id": "bank-ch9-calculation-toolkit-e10",
+          "type": "concept",
+          "title": "Ponzi gross receipts, contributed principal and fake net profits",
+          "page": "Ch9 G / independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "An investor contributed $30k total and withdrew $37k before filing; net gain $7k. Candidate constructive fake-profit portion up to $7k; $30k return of principal can extinguish restitution debt and be protected if good faith/value. Actual fraud theory and §547 timing can still affect principal.",
+          "laymanExplanation": "Paid winnings beyond cash invested is different from reimbursement.",
+          "legalExplanation": "Use aggregate amounts per beneficiary and analyze temporal accounting under controlling law.",
+          "examApplication": "Don't assume 100% of $37k automatically collectible.",
+          "examTrap": "Recipient good faith separate question; avoid double recovery §550(d)."
+        },
+        {
+          "id": "bank-ch9-calculation-toolkit-e11",
+          "type": "concept",
+          "title": "Chomakos ex ante payoff versus creditor limited liability",
+          "page": "Ch9 D / independent example",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "For RANDOM gamble, expected gamble gross payout = sum(probability×payoff). But creditor expected recovery ≈ sum(probability×MIN(payoff, creditor claim)), and debtor expected residual ≈ sum(probability×MAX(0,payoff−creditor claim)). Example stake $6k, debts $8k, win $12k with 50%: gross expectation $6k; creditor capped expectation $4k; debtor residual expectation $2k. Compare no-bet $6k available to creditors, debtor $0.",
+          "laymanExplanation": "A fair-dollar lottery can lower creditor expected collection even if debtor sees chance of personal upside.",
+          "legalExplanation": "Illustrative ONLY, expressly NOT answering original $10k/$12k Chomakos exercise.",
+          "examApplication": "Write separate probability columns; show bankruptcy limited liability.",
+          "examTrap": "Value-in-exchange law not automatically creditor-welfare expected-recovery rule."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-case-comparison-map",
+      "title": "Chapter 9 Thirteen Full Cases: Issue and Contrast Map",
+      "chapterGroup": "bank-ch9",
+      "description": "Fast way to recall the assigned opinions by their controlling question.",
+      "entries": [
+        {
+          "id": "bank-ch9-case-comparison-map-e1",
+          "type": "concept",
+          "title": "All thirteen full source excerpts in chapter order",
+          "page": "Ch9 A–G",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Video Depot (§550 initial transferee/cashier check); Railworks (conduit not beneficiary on agency liability); Omegas (unimposed constructive trust); Costas (prepetition inheritance disclaimer); Alan Drey (actual intent/red flag buyer); BFP (regular foreclosure price safe harbor, 4-justice dissent); Chomakos (ex ante lawful gambling value); Cunningham (Ponzi victim tracing/§547); Marshall (credit card loan proceeds/earmarking); Palmer Clay (§547(b)(5) dividend); National Gas (objective ordinary-course defense); SemCrude (triangular setoff mutuality); Independent Clearing House (Ponzi principal vs profits/presumption).",
+          "laymanExplanation": "Each case supplies a distinct doctrinal fork.",
+          "legalExplanation": "All 13 have separate full case brief note with facts, issue, holding, reasoning, rule.",
+          "examApplication": "Choose closest two and contrast.",
+          "examTrap": "Don't brief Moore v Bay/Twyne/Belisle as full opinions absent excerpts."
+        },
+        {
+          "id": "bank-ch9-case-comparison-map-e2",
+          "type": "concept",
+          "title": "Contrasts that resolve exam confusion",
+          "page": "Ch9 A–G",
+          "source": "User-supplied Bankruptcy Chapter9 §§A–G synthesis, derived independent study aids (no original numbered problems solved)",
+          "summary": "Video Depot legal dominion of recipient vs Marshall debtor control of borrowed loan proceeds; Railworks mere conduit vs genuine guarantor beneficiary; Omegas general trust skepticism vs Cunningham traced victim money; Costas deference vs BFP federalism; BFP forced realty value vs Chomakos chance value; National Gas vs Independent Ponzi ordinary course; SemCrude setoff vs actual distinct guarantee.",
+          "laymanExplanation": "Same vocabulary 'dominion' or 'value' does not mean same test.",
+          "legalExplanation": "Identify which statute and whose property right is at stake.",
+          "examApplication": "Use this comparison as final paragraph after applying relevant Code element.",
+          "examTrap": "Do not extrapolate lower-court holding to universal rule without procedural context."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
