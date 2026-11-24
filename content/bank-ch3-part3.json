@@ -1,0 +1,327 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+  "coverage": {
+    "chapter": 3,
+    "scope": "C. Exclusions: §§541(b),(c),(d); Patterson v. Shumate; qualified retirement and education assets; postpetition wages; all Problem 3.1(a)-(d)",
+    "notice": "IRA and education-account dollar caps quoted in the casebook are indexed and NOT current 2026 figures."
+  },
+  "topics": [
+    {
+      "id": "bank-ch3-exclusions",
+      "title": "C. Exclusions — §541(b), §541(c), §541(d) and Exemption vs Exclusion",
+      "chapterGroup": "bank-ch3",
+      "description": "Basic difference between no estate interest, restricted transfer, trust beneficial rights and later exemption.",
+      "entries": [
+        {
+          "id": "bank-ch3-exclusions-e1",
+          "type": "rule",
+          "title": "Exclusion versus §522 exemption: sequence matters",
+          "page": "Ch. 3 § C (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Statutory exclusions under §541 mean qualifying interest never becomes property of estate. Exempt property enters estate initially but individual debtor claims §522 protection; once allowed, exempt property withdrawn for debtor.",
+          "laymanExplanation": "Exclusion: basket never takes the item. Exemption: item enters basket then debtor legally removes it.",
+          "legalExplanation": "Exemptions are for individuals and can be challenged; estate title/inclusion analysis remains necessary before §522.",
+          "examApplication": "Answer in order: §541(a) included? §541(b)/(c)(2)/(d) limited? If included, §522 exemption?",
+          "examTrap": "Do not say exempt property never belonged to estate."
+        },
+        {
+          "id": "bank-ch3-exclusions-e2",
+          "type": "rule",
+          "title": "§541(b): specific excluded categories",
+          "page": "Ch. 3 § C (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Congress identifies interests outside estate, including certain funds withheld from workers for specified retirement/benefit plans and qualified education funds subject conditions.",
+          "laymanExplanation": "Some money is legally ring-fenced before the trustee ever gets it.",
+          "legalExplanation": "§541(b)(5),(6),(7) casebook describes special limitations and time windows; read requirements separately.",
+          "examApplication": "When question gives employee withholding or tuition account, identify precise subsection and beneficiary/date.",
+          "examTrap": "No universal exemption for all money in retirement or tuition account under §541(b)."
+        },
+        {
+          "id": "bank-ch3-exclusions-e3",
+          "type": "rule",
+          "title": "§541(c)(1): many anti-transfer limitations do not prevent estate entry",
+          "page": "Ch. 3 § C / contrast (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Interests generally enter estate despite certain contractual or legal restrictions on transfers or conditions activated by debtor bankruptcy; exceptions matter.",
+          "laymanExplanation": "A contract can't usually keep otherwise owned asset out of estate just by saying 'can't sell it on bankruptcy.'",
+          "legalExplanation": "§541(c)(1) overcomes ordinary anti-alienation/forfeiture effects; §541(c)(2) expressly preserves enforceable restrictions on beneficial interests in trusts.",
+          "examApplication": "Analyze whether real beneficial trust restraint fits §541(c)(2) instead of generic no-assignment term.",
+          "examTrap": "Anti-transfer contract term alone isn't equivalent to ERISA-qualified spendthrift trust."
+        },
+        {
+          "id": "bank-ch3-exclusions-e4",
+          "type": "rule",
+          "title": "§541(d): trustee gets legal title only if debtor held no equitable interest",
+          "page": "Ch. 3 § C (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Where debtor holds mere legal title and another person holds equitable ownership, estate takes debtor's legal-title interest but not another's equitable interest.",
+          "laymanExplanation": "If borrower is holding someone else's property in trust, bankruptcy cannot turn it into debtor's beneficial wealth.",
+          "legalExplanation": "Reflects 'estate takes no more than debtor had' rule; trust rights often governed by nonbankruptcy law.",
+          "examApplication": "For escrow/trust/hypothetical, identify equitable owner and any trustee duties.",
+          "examTrap": "The estate never gets more beneficial interest than debtor owned."
+        },
+        {
+          "id": "bank-ch3-exclusions-e5",
+          "type": "rule",
+          "title": "§541(a)(6): individual Chapter 7 postpetition personal-service income excluded",
+          "page": "Ch. 3 § C (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Proceeds, rent and profits of estate property generally included, but earnings from services personally performed by an individual debtor after commencement excluded under §541(a)(6).",
+          "laymanExplanation": "Your new Chapter 7 wages from working after filing are usually yours to keep.",
+          "legalExplanation": "Purpose of carveout is fresh start; distinguish business goodwill sale proceeds and passive income from actual personal labor.",
+          "examApplication": "Ask whether payment was earned by individual after filing and whether payment is actually for services.",
+          "examTrap": "A company cannot use the individual-wages carveout, and §1115/1306 change rule in individual reorganization cases."
+        },
+        {
+          "id": "bank-ch3-exclusions-e6",
+          "type": "rule",
+          "title": "Sale proceeds versus postpetition wages under §541(a)(6)",
+          "page": "Ch. 3 § C (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "A contract paying in installments after petition may be entirely prepetition capital/asset sale value rather than postpetition services; origin and economic substance control.",
+          "laymanExplanation": "Getting money in next month's checking account doesn't make it next month's paycheck.",
+          "legalExplanation": "Andrews provides test when prepetition sale agreement includes noncompetition payments; Segal roots are relevant but not sole wording.",
+          "examApplication": "Trace contract creation, consideration, date services performed, and timing of payment.",
+          "examTrap": "Not all conduct that benefits payor qualifies as 'services performed'."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch3-patterson",
+      "title": "C. Patterson v. Shumate — ERISA Anti-Alienation Exclusion",
+      "chapterGroup": "bank-ch3",
+      "description": "Supreme Court full opinion: §541(c)(2) federal nonbankruptcy law, enforceability and plan assets.",
+      "entries": [
+        {
+          "id": "bank-ch3-patterson-e1",
+          "type": "case",
+          "title": "Patterson v. Shumate, 504 U.S. 753 (1992)",
+          "page": "Ch. 3 § C / Patterson opinion (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Yes. 'Applicable nonbankruptcy law' includes federal ERISA as well as state trust law; ERISA-qualified plan's enforceable no-alienation term satisfies §541(c)(2). Supreme Court affirmed, protecting Shumate's vested pension from bankruptcy estate.",
+          "laymanExplanation": "A debtor's beneficial interest in a trust subject to a restriction on transfer enforceable under applicable nonbankruptcy law—including ERISA—is excluded under §541(c)(2), where statutory elements met.",
+          "legalExplanation": "Justice Blackmun relied on unqualified statutory text; Congress used 'state law' expressly elsewhere when intended. ERISA §206(d)(1), IRC §401(a)(13) require prohibition on assignment, enforceable via fiduciary duties and civil actions. Creditors couldn't reach pension outside bankruptcy; Butner anti-windfall, retirement security and national consistency support same outcome. Legislative history didn't overcome plain text.",
+          "examApplication": "Identify ERISA-qualified trust, precise anti-alienation, enforcement mechanism and whether interest is beneficial in trust; compare estate inclusion vs §522 exemptions.",
+          "examTrap": "Not a blanket exclusion of every retirement account or every personal contractual promise not to assign.",
+          "assignedOpinion": true,
+          "sourceRole": "Full Supreme Court opinion excerpt from Chapter 3",
+          "facts": "Shumate, long-term Coleman Furniture executive, had $250,000 vested interest in ERISA-qualified Coleman pension with express anti-alienation clause. Coleman and Shumate both filed bankruptcy; after plan liquidation trustee Patterson demanded Shumate's share for bankruptcy estate. District court read §541(c)(2) nonbankruptcy law as limited to state spendthrift trusts and ruled plan funds estate property; Fourth Circuit reversed.",
+          "issue": "Does §541(c)(2)'s exclusion for enforceable restrictions on transfer under 'applicable nonbankruptcy law' include ERISA-required federal pension anti-alienation provisions, allowing qualified pension to stay outside estate?",
+          "holding": "Yes. 'Applicable nonbankruptcy law' includes federal ERISA as well as state trust law; ERISA-qualified plan's enforceable no-alienation term satisfies §541(c)(2). Supreme Court affirmed, protecting Shumate's vested pension from bankruptcy estate.",
+          "reasoning": "Justice Blackmun relied on unqualified statutory text; Congress used 'state law' expressly elsewhere when intended. ERISA §206(d)(1), IRC §401(a)(13) require prohibition on assignment, enforceable via fiduciary duties and civil actions. Creditors couldn't reach pension outside bankruptcy; Butner anti-windfall, retirement security and national consistency support same outcome. Legislative history didn't overcome plain text.",
+          "rule": "A debtor's beneficial interest in a trust subject to a restriction on transfer enforceable under applicable nonbankruptcy law—including ERISA—is excluded under §541(c)(2), where statutory elements met."
+        },
+        {
+          "id": "bank-ch3-patterson-e2",
+          "type": "rule",
+          "title": "Why federal ERISA counts as nonbankruptcy law",
+          "page": "Ch. 3 § C / Patterson (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Text says 'applicable nonbankruptcy law,' not 'state law,' and can encompass federal statutes governing pensions.",
+          "laymanExplanation": "A federal pension law is still outside bankruptcy law, so it can protect plan under bankruptcy provision.",
+          "legalExplanation": "IRS §401(a)(13) and ERISA §206(d)(1) coordinate anti-alienation; enforceability exists through ERISA plan and suits.",
+          "examApplication": "Look for 'applicable nonbankruptcy law' wording and resist automatically limiting to state spendthrift rules.",
+          "examTrap": "The nonbankruptcy law must actually make restraint enforceable, not merely express sentiment."
+        },
+        {
+          "id": "bank-ch3-patterson-e3",
+          "type": "rule",
+          "title": "ERISA plan fiduciaries and enforceable prohibition",
+          "page": "Ch. 3 § C / Patterson (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Plan required benefits neither assigned nor alienated, and ERISA empowered suits to enjoin conduct violating plan's terms; satisfied §541(c)(2) 'enforceable' requirement.",
+          "laymanExplanation": "It isn't just a private promise; federal law provides teeth.",
+          "legalExplanation": "§1104(a)(1)(D) fiduciary compliance and §1132 enforcement support.",
+          "examApplication": "When analyzing a savings account called 'pension,' verify qualified trust and legal restrictions.",
+          "examTrap": "Unsecured personal retirement savings plan isn't automatically ERISA-trust excluded."
+        },
+        {
+          "id": "bank-ch3-patterson-e4",
+          "type": "rule",
+          "title": "Patterson bankruptcy policy: no forum-based pension windfall",
+          "page": "Ch. 3 § C / Patterson (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Creditors should not get pension indirectly in bankruptcy if unable to garnish it outside; ERISA protects retirement stream for worker/dependents.",
+          "laymanExplanation": "Filing should not suddenly make protected nest egg attachable.",
+          "legalExplanation": "Court ties Butner uniform treatment to ERISA purpose and clear statutory text.",
+          "examApplication": "In rule synthesis cite §541(c)(2) before §522 retirement exemptions when applicable.",
+          "examTrap": "Don't treat federal bankruptcy pro-creditor estate scope as superseding clear anti-alienation exception."
+        },
+        {
+          "id": "bank-ch3-patterson-e5",
+          "type": "rule",
+          "title": "Who receives Shumate's $250,000?",
+          "page": "Ch. 3 § C / Patterson (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Because pension interest was outside estate, Shumate retained claim to payout protected by qualified plan rather than estate trustee using it to pay creditors.",
+          "laymanExplanation": "Trustee cannot take that pension share for general unsecured creditors.",
+          "legalExplanation": "Patterson holds exclusion, unlike exemption process which removes estate property later.",
+          "examApplication": "Distinguish beneficiary of plan, trustee of debtor estate and trustee of pension.",
+          "examTrap": "Don't say an excluded asset is estate property but later exempted."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch3-retirement-education",
+      "title": "C. Retirement and Education Account Protections — §541(b) and §522",
+      "chapterGroup": "bank-ch3",
+      "description": "2005 BAPCPA provisions, inherited IRA, state/federal law retirement protections and indexed 2021 thresholds.",
+      "entries": [
+        {
+          "id": "bank-ch3-retirement-education-e1",
+          "type": "rule",
+          "title": "§541(b)(7) employee benefit plan payroll withholding",
+          "page": "Ch. 3 § C / Patterson questions (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "BAPCPA exclusion for specified wages withheld by employer to contribute to ERISA/§403(b)/§457 eligible retirement or health plans, per casebook description.",
+          "laymanExplanation": "Money properly withheld from paycheck into authorized benefit plan may never become estate property.",
+          "legalExplanation": "Book notes this exclusion only partially moots Patterson, since employer contributions and later income are not covered in same way.",
+          "examApplication": "Identify who contributed: employee payroll deduction vs employer money vs investment appreciation.",
+          "examTrap": "Do not treat all employer-funded pension contributions as §541(b)(7) excluded simply because employee withholding protected."
+        },
+        {
+          "id": "bank-ch3-retirement-education-e2",
+          "type": "rule",
+          "title": "§522(b)(3)(C), §522(d)(12) retirement-fund exemptions",
+          "page": "Ch. 3 § C / Patterson questions (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "2005 added bankruptcy exemptions for qualifying tax-exempt retirement funds under IRC §§401,403,408,408A,414,457,501(a), including qualifying traditional/Roth IRAs.",
+          "laymanExplanation": "Some funds may be estate assets but can still be shielded from creditor distribution through exemption.",
+          "legalExplanation": "This is an EXEMPTION rather than Patterson's EXCLUSION; qualified retirement fund status and applicable caps/rollover rules matter.",
+          "examApplication": "If ERISA exclusion unavailable, test §522 retirement exemption next.",
+          "examTrap": "Do not assume exempting every account requires no bankruptcy filing or estate entry."
+        },
+        {
+          "id": "bank-ch3-retirement-education-e3",
+          "type": "rule",
+          "title": "IRA cap as printed in 2021 textbook; indexed",
+          "page": "Ch. 3 § C / Patterson questions (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Casebook listed IRA-related retirement exemption cap $1,362,800 per debtor / $2,725,600 joint for its edition; these figures may be updated by statutory indexing, not reliable for 2026 calculation.",
+          "laymanExplanation": "Book's dollar cap is a dated example, not today's legal allowance.",
+          "legalExplanation": "§522(n) special cap context; distinguish account type, rollover and ordinary IRA issues.",
+          "examApplication": "If professor's hypothetical uses printed figures, show that they're from assigned book, otherwise verify current indexed amount.",
+          "examTrap": "Not all retirement fund exemptions subject to same dollar cap."
+        },
+        {
+          "id": "bank-ch3-retirement-education-e4",
+          "type": "rule",
+          "title": "Clark v Rameker inherited IRA treated differently",
+          "page": "Ch. 3 § C / Patterson questions (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Clark v. Rameker, 573 U.S. 122 (2014), held inherited IRA funds do not qualify as 'retirement funds' under §522 exemptions; inheritor can withdraw for any purpose and isn't saving own retirement.",
+          "laymanExplanation": "Inherited IRA isn't the same as your own workplace retirement account.",
+          "legalExplanation": "Casebook cites as discussion only (not excerpted majority opinion); characterization turns on statutory purpose and inherited-account rights.",
+          "examApplication": "Ask original accountholder vs inherited holder and type of IRA.",
+          "examTrap": "Do not claim every inherited IRA is automatically protected as retirement funds."
+        },
+        {
+          "id": "bank-ch3-retirement-education-e5",
+          "type": "rule",
+          "title": "Rousey v Jacoway IRA support exemption and 2005 expansion",
+          "page": "Ch. 3 § C / Patterson questions (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Rousey, 544 U.S.320 (2005), held individual retirement accounts may qualify under §522(d)(10)(E) payments reasonably necessary for debtor/dependents; Congress later provided separate broader retirement exemption sections.",
+          "laymanExplanation": "Old rule protected enough retirement income to live; later Code includes extra retirement-fund routes.",
+          "legalExplanation": "Casebook references Rousey but does not excerpt opinion.",
+          "examApplication": "Spot the different exemption's 'reasonably necessary' requirement vs later tax-qualified status.",
+          "examTrap": "Do not mix pre-2005 Rousey limitation into all newer retirement exemptions."
+        },
+        {
+          "id": "bank-ch3-retirement-education-e6",
+          "type": "rule",
+          "title": "§541(b)(5),(6) child/grandchild tuition account exclusions",
+          "page": "Ch. 3 § C / Patterson questions (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Textbook discusses qualified education IRA and §529 plan funds contributed for child/grandchild at least 365 days before petition; contributions between 365 and 720 days have source-era $6,825 per-beneficiary cap.",
+          "laymanExplanation": "Depositing for child's college just before filing may not be sheltered, but older qualifying contributions may be excluded.",
+          "legalExplanation": "Special §541(b)(5),(6) conditions depend on account beneficiary, age of contributions and indexed cap; as of 2021 printed $6,825 figure historical.",
+          "examApplication": "Construct timeline of deposits 720+ days, 365–720, within 365 and identify qualifying beneficiary.",
+          "examTrap": "Don't assume anyone's education savings, or recent contributions, entirely excluded."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch3-postpetition-chapters",
+      "title": "C. Chapter 7 vs 11 vs 13 — Postpetition Earnings and Estate Acquisitions",
+      "chapterGroup": "bank-ch3",
+      "description": "Corporate Chapter 11 new assets, individual Chapter 7 wages, individual Chapter 13 plan earnings, individual Chapter 11 §§1115.",
+      "entries": [
+        {
+          "id": "bank-ch3-postpetition-chapters-e1",
+          "type": "rule",
+          "title": "Corporate Chapter 11: estate new business earnings generally captured",
+          "page": "Ch. 3 § C / Problem 3.1(a) (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "A corporate debtor-in-possession's business operation acquires new estate property and proceeds under §541(a)(6),(7); §1107 debtor in possession generally has trustee authority and §1108 may operate business.",
+          "laymanExplanation": "Company's sales and new inventory after Chapter 11 filing aren't corporate officers' personal earnings.",
+          "legalExplanation": "Corporations are not individual debtors eligible for §541(a)(6) personal services exclusion.",
+          "examApplication": "For Debtor Inc. compare prepetition equipment and postpetition receivables/inventory.",
+          "examTrap": "Don't take officer's individual wage exception and apply it to the corporate debtor."
+        },
+        {
+          "id": "bank-ch3-postpetition-chapters-e2",
+          "type": "rule",
+          "title": "Worker A Chapter 7: postpetition service wages excluded",
+          "page": "Ch. 3 § C / Problem 3.1(b) (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Natural person Chapter 7's postfiling salary from actual labor ordinarily stays outside estate under §541(a)(6), while petition-date bank accounts and accrued wage rights can enter.",
+          "laymanExplanation": "Worker A generally keeps wages earned from work performed after filing.",
+          "legalExplanation": "Need distinguish paycheck paid afterward but earned before filing; the labor service date can matter.",
+          "examApplication": "In hypothetical ask which pay period wages correspond to.",
+          "examTrap": "Don't classify all checks received after filing as postpetition earnings."
+        },
+        {
+          "id": "bank-ch3-postpetition-chapters-e3",
+          "type": "rule",
+          "title": "Worker B Chapter 13: §1306 broadens estate to postpetition earnings",
+          "page": "Ch. 3 § C / Problem 3.1(c) (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "§1306 generally adds postpetition property and personal-service earnings through case milestones for Chapter 13, coordinating plan funding and §1322/§1325; vesting under §1327 can affect property status.",
+          "laymanExplanation": "Worker B must generally use later earnings to finance a 3–5 year repayment plan, unlike Worker A Chapter 7.",
+          "legalExplanation": "Chapter 13's express provision supplements baseline §541(a)(6) worker protection; interpret plan confirmation/vesting provision where relevant.",
+          "examApplication": "Distinguish property-of-estate legal status and disposable income required in plan.",
+          "examTrap": "Do not claim §541(a)(6) wage exclusion defeats §1306."
+        },
+        {
+          "id": "bank-ch3-postpetition-chapters-e4",
+          "type": "rule",
+          "title": "Prez individual Chapter 11: §1115 expands estate",
+          "page": "Ch. 3 § C / Problem 3.1(d) (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "For natural-person Chapter 11, §1115 generally includes postpetition property acquisitions and earnings from debtor's services while case active, enabling reorganization plan payments.",
+          "laymanExplanation": "CEO filing personal Chapter 11 may have future pay included for restructuring even if own employer also has a Chapter 11.",
+          "legalExplanation": "§1115 and §§1123(a)(8),1129(a)(15) link future income to individual plans; §1141 discharge/vesting effects distinct.",
+          "examApplication": "Analyze CEO individual estate separately from corporation's separate estate; do not merge assets.",
+          "examTrap": "The corporation and its CEO are different debtors and separate §541 estates."
+        },
+        {
+          "id": "bank-ch3-postpetition-chapters-e5",
+          "type": "rule",
+          "title": "§541(a)(6) earnings versus §541(a)(7) estate acquisitions",
+          "page": "Ch. 3 § C / Problem 3.1 (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Company's postpetition business property acquired by estate enters under §541(a)(7); individual's new labor can be excluded under §541(a)(6), except reorganization chapters overriding by §§1306/1115.",
+          "laymanExplanation": "Ask who earned/acquired and which chapter, not just date of check.",
+          "legalExplanation": "Create 4-case table: corporation Ch11, individual Ch7, individual Ch13, individual Ch11.",
+          "examApplication": "For each wages/property issue: prepetition interest? postpetition earnings? special chapter?",
+          "examTrap": "Don't conflate estate assets of separately filing people or operating company."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch3-p3-1",
+      "topicId": "bank-ch3-postpetition-chapters",
+      "title": "Problem 3.1",
+      "kind": "Casebook Problem 3.1 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 3 § C, Patterson v Shumate, Problem 3.1; Effross Fall 2026 syllabus general pp.171–199",
+      "prompt": "Problem 3.1 four linked hypothetical debtors on May 1: (a) Debtor Inc., operating Chapter 11 as DIP and generating postpetition business property, identify estate property §§541(a)(1),(6),(7),1107,1108; (b) its employee Worker A filed Chapter 7 and earned new wages; (c) employee Worker B filed Chapter 13 and earned new wages, use §§1306,1322,1325,1327,1328; (d) CEO Prez separately filed individual Chapter 11 and continued earning pay, use §§1115,1123,1129,1141. Compare inclusion of new property and wages under each chapter; leave all four subparts unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
