@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+  "coverage": {
+    "chapter": 9,
+    "scope": "Original Problems 9.1–9.5 and all lettered variations, retained as unanswered casebook prompts"
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch9-p9-1-a",
+      "topicId": "bank-ch9-actual-creditor-544b",
+      "title": "Problem 9.1(a) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Assume that Debtor has a total of $20,000 in unsecured claims when it files bankruptcy. Three years prior to filing bankruptcy, Debtor made a constructively fraudulent transfer of property worth $18,000 to Party X. The only remaining creditor in the bankruptcy with standing to avoid the transfer to X under the state fraudulent transfer law is Creditor A (who had a present claim at the time of the transfer to X). A's claim is $100. The rest of the Debtor's creditors, with total claims of $19,900, had future claims and thus could not avoid the transfer to X under state law.\n\nDebtor's bankruptcy trustee sues to avoid the transfer to X under § 544(b).\n\na. In what amount will the trustee be able to set aside the transfer to X?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-1-b",
+      "topicId": "bank-ch9-actual-creditor-544b",
+      "title": "Problem 9.1(b) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Assume that Debtor has a total of $20,000 in unsecured claims when it files bankruptcy. Three years prior to filing bankruptcy, Debtor made a constructively fraudulent transfer of property worth $18,000 to Party X. The only remaining creditor in the bankruptcy with standing to avoid the transfer to X under the state fraudulent transfer law is Creditor A (who had a present claim at the time of the transfer to X). A's claim is $100. The rest of the Debtor's creditors, with total claims of $19,900, had future claims and thus could not avoid the transfer to X under state law.\n\nDebtor's bankruptcy trustee sues to avoid the transfer to X under § 544(b).\n\nb. Will the proceeds recovered by the trustee be distributed only to Creditor A or to all creditors of the estate?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-2-a",
+      "topicId": "bank-ch9-544a1-perfection",
+      "title": "Problem 9.2(a) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "May the trustee avoid any of the following under § 544(a)(1)?\n\na. On May 1, Debtor grants Creditor a security interest in tangible personal property worth $10,000 to secure a $10,000 debt. On May 10, Debtor files chapter 7. Creditor has not perfected its security interest by May 10.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-2-b",
+      "topicId": "bank-ch9-544a1-perfection",
+      "title": "Problem 9.2(b) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Reference facts from part (a):\nOn May 1, Debtor grants Creditor a security interest in tangible personal property worth $10,000 to secure a $10,000 debt. On May 10, Debtor files chapter 7. Creditor has not perfected its security interest by May 10.\n\nMay the trustee avoid any of the following under § 544(a)(1)?\n\nb. Assume the same facts as in a., except that Creditor perfected its security interest by filing a financing statement on May 9.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-2-c",
+      "topicId": "bank-ch9-544a1-perfection",
+      "title": "Problem 9.2(c) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Reference facts from part (a):\nOn May 1, Debtor grants Creditor a security interest in tangible personal property worth $10,000 to secure a $10,000 debt. On May 10, Debtor files chapter 7. Creditor has not perfected its security interest by May 10.\n\nMay the trustee avoid any of the following under § 544(a)(1)?\n\nc. Assume the same facts as in a., except that on May 1 Debtor granted Creditor a mortgage in real property worth $10,000 to secure a $10,000 debt, and Creditor had not recorded the mortgage in the real property records by May 10, when Debtor filed chapter 7. Under state law, a bona fide purchaser for value without actual knowledge of an unrecorded conveyance of real estate would take free of that conveyance, but a judgment creditor that obtains a judicial lien on a debtor's real property is not considered a bona fide purchaser.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-2-d",
+      "topicId": "bank-ch9-544a1-perfection",
+      "title": "Problem 9.2(d) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "May the trustee avoid any of the following under § 544(a)(1)?\n\nd. On May 1, Creditor sells Debtor a gizmo on credit and Debtor grants Creditor a purchase money security interest in the gizmo to secure the payments. Debtor takes possession of the gizmo immediately. On May 5, Debtor files chapter 7. On May 8, Creditor files a financing statement perfecting the security interest.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-3-a",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "Problem 9.3(a) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "May the trustee (or debtor in possession) avoid any of the following under § 544(a)(3)?\n\na. Assume the same facts as in Problem 9.2.c.: On May 1 Debtor granted Creditor a mortgage in real property worth $10,000 to secure a $10,000 debt, and Creditor had not recorded the mortgage in the real property records by May 10, when Debtor filed chapter 7. Under state law, a bona fide purchaser for value without actual knowledge of an unrecorded conveyance of real estate would take free of that conveyance, but a judgment creditor that obtains a judicial lien on a debtor's real property is not considered a bona fide purchaser.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-3-b",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "Problem 9.3(b) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "May the trustee (or debtor in possession) avoid any of the following under § 544(a)(3)?\n\nb. Debtor conveys Blackacre to X, but the conveyance is not recorded. Under state law, a bona fide purchaser for value without actual knowledge of an unrecorded conveyance of real estate would take free of that conveyance. Debtor files chapter 7.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-3-c",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "Problem 9.3(c) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Reference facts from part (a):\nAssume the same facts as in Problem 9.2.c.: On May 1 Debtor granted Creditor a mortgage in real property worth $10,000 to secure a $10,000 debt, and Creditor had not recorded the mortgage in the real property records by May 10, when Debtor filed chapter 7. Under state law, a bona fide purchaser for value without actual knowledge of an unrecorded conveyance of real estate would take free of that conveyance, but a judgment creditor that obtains a judicial lien on a debtor's real property is not considered a bona fide purchaser.\n\nMay the trustee (or debtor in possession) avoid any of the following under § 544(a)(3)?\n\nc. Same facts as in b., except Debtor is a corporation that files chapter 11, is continued as debtor in possession (DIP), and as DIP sues to avoid the conveyance to X.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-3-d",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "Problem 9.3(d) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Reference facts from part (a):\nAssume the same facts as in Problem 9.2.c.: On May 1 Debtor granted Creditor a mortgage in real property worth $10,000 to secure a $10,000 debt, and Creditor had not recorded the mortgage in the real property records by May 10, when Debtor filed chapter 7. Under state law, a bona fide purchaser for value without actual knowledge of an unrecorded conveyance of real estate would take free of that conveyance, but a judgment creditor that obtains a judicial lien on a debtor's real property is not considered a bona fide purchaser.\n\nMay the trustee (or debtor in possession) avoid any of the following under § 544(a)(3)?\n\nd. Same facts as in b., except X takes up residence on Blackacre. Under state law, a purchaser who establishes “clear and open possession” provides constructive notice to the world of the purchaser's interest.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-4-a",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "Problem 9.4(a) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Which of the following constitutes an actually fraudulent transfer? In which will the transferee be protected from recovery?\n\na. Debtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-4-b",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "Problem 9.4(b) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Reference facts from part (a):\nDebtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.\n\nWhich of the following constitutes an actually fraudulent transfer? In which will the transferee be protected from recovery?\n\nb. Same facts as in a., except Debtor sells the painting to Art Mann for $20,000, and Art Mann then gives the painting to his daughter.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-4-c",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "Problem 9.4(c) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Reference facts from part (a):\nDebtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.\n\nWhich of the following constitutes an actually fraudulent transfer? In which will the transferee be protected from recovery?\n\nc. Same facts as in a., except Debtor sells the painting to her mother.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-4-d",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "Problem 9.4(d) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Reference facts from part (a):\nDebtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.\n\nWhich of the following constitutes an actually fraudulent transfer? In which will the transferee be protected from recovery?\n\nd. Same facts as in a., except Debtor gives the painting to her mother.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-4-e",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "Problem 9.4(e) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Reference facts from part (a):\nDebtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.\n\nWhich of the following constitutes an actually fraudulent transfer? In which will the transferee be protected from recovery?\n\ne. Same facts as in a., except Debtor donates the painting to the Art Institute.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-4-f",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "Problem 9.4(f) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Reference facts from part (a):\nDebtor owes 10 creditors $50,000, and is in default on 7 of the debts. Five creditors bring lawsuits against the Debtor. Debtor's only nonexempt asset is a valuable painting she inherited from her father, worth $40,000. Debtor sells the painting to Art Mann, a wealthy collector, for $38,000. Art Mann knows nothing of Debtor's financial situation. Debtor deposits the cash in her bank, wire transfers the money to a Swiss bank, and disappears. Two months later, an involuntary chapter 7 order for relief is entered against Debtor.\n\nWhich of the following constitutes an actually fraudulent transfer? In which will the transferee be protected from recovery?\n\nf. Same facts as b., except that after purchasing the painting from Debtor, Art Mann sells the painting to an art dealer in exchange for gold coins worth $40,000, and he then gives one of the gold coins (worth $1,000) to his daughter as a birthday present.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-5-a",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "Problem 9.5(a) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "a. Nine years ago, Debtor was planning to start a new commercial real estate business as a sole proprietorship. At the time, he had debts of $500,000 and assets of $1,000,000. He had no lawsuits pending against him. His projected income statements showed a net positive monthly cash flow of $90,000 (expenses of $150,000, income of $240,000). However, the income projection depended on Debtor accurately predicting commercial rental and occupancy rates. Debtor had spent the last 20 years working in the commercial real estate field. Recognizing the inherent riskiness of his business plan, Debtor transferred $500,000 to an asset protection trust in the Cook Islands. Debtor was the sole beneficiary of this trust. For several years, his business worked well. However, commercial rental and occupancy rates fell dramatically last year. Debtor, unfortunately, had made a big investment predicting a steady increase in commercial rental and occupancy rates. Debtor filed chapter 7 bankruptcy last month. At the time of filing, Debtor had assets of $2,500,000 and debts of $9,000,000. The trustee brought suit to avoid the transfer to the Cook Islands trust nine years ago. What result?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-5-b",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "Problem 9.5(b) — original",
+      "kind": "Original Chapter 9 problem — UNSOLVED",
+      "source": "Original user-uploaded Chapter9 textbook Problems9.1–9.5 verbatim, expressly UNSOLVED",
+      "prompt": "Reference facts from part (a):\nNine years ago, Debtor was planning to start a new commercial real estate business as a sole proprietorship. At the time, he had debts of $500,000 and assets of $1,000,000. He had no lawsuits pending against him. His projected income statements showed a net positive monthly cash flow of $90,000 (expenses of $150,000, income of $240,000). However, the income projection depended on Debtor accurately predicting commercial rental and occupancy rates. Debtor had spent the last 20 years working in the commercial real estate field. Recognizing the inherent riskiness of his business plan, Debtor transferred $500,000 to an asset protection trust in the Cook Islands. Debtor was the sole beneficiary of this trust. For several years, his business worked well. However, commercial rental and occupancy rates fell dramatically last year. Debtor, unfortunately, had made a big investment predicting a steady increase in commercial rental and occupancy rates. Debtor filed chapter 7 bankruptcy last month. At the time of filing, Debtor had assets of $2,500,000 and debts of $9,000,000. The trustee brought suit to avoid the transfer to the Cook Islands trust nine years ago. What result?\n\nb. Same facts as in a., but Debtor made the transfer to the Cook Islands trust two months ago.\n\nImage",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
