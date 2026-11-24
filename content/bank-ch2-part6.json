@@ -1,0 +1,348 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+  "coverage": {
+    "chapter": 2,
+    "scope": "E. Involuntary bankruptcy: petition, qualified creditors, 12-creditor test, generally not paying, gap and §303(i); F. Abstention §305; Problems 2.15–2.17",
+    "notice": "2021-book involuntary petition minimum $16,750 is indexed every 3 years and is not a current 2026 amount."
+  },
+  "topics": [
+    {
+      "id": "bank-ch2-involuntary-overview",
+      "title": "E.1–3 — Involuntary Bankruptcy: Eligibility and Available Chapters",
+      "chapterGroup": "bank-ch2",
+      "description": "Creditor-initiated Chapter 7/11, excluded debtors, why a forcible filing is rare and §303(a).",
+      "entries": [
+        {
+          "id": "bank-ch2-involuntary-overview-e1",
+          "type": "rule",
+          "title": "§303 only Chapter 7 or 11",
+          "page": "Chapter 2 § E.1–2 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Involuntary bankruptcy petition can be initiated by qualified creditors under Chapters 7 and 11 alone, unlike voluntary §301; no involuntary Chapters 9,12,13.",
+          "laymanExplanation": "Creditors may force a financially distressed corporation into Chapter 7 or 11, but not an ordinary person into Chapter 13 wage-payment plan.",
+          "legalExplanation": "Involuntary filings historically normal but now less than 1%; proposed debtor can contest order for relief.",
+          "examApplication": "Check debtor class and chapter before creditor count.",
+          "examTrap": "Involuntary filing may create an estate and stay immediately, but order for relief is not automatic."
+        },
+        {
+          "id": "bank-ch2-involuntary-overview-e2",
+          "type": "rule",
+          "title": "§303(a) protects farmers and noncommercial corporations",
+          "page": "Chapter 2 § E.3 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "No involuntary cases against farmer (§101(20)), family farmer (§101(18)), or corporation not 'moneyed, business, or commercial' even if chapter otherwise available.",
+          "laymanExplanation": "Congress protects some agricultural/charitable entities from coercive creditor filings.",
+          "legalExplanation": "Distinguish debtor type from §109 voluntary eligibility. Chapter 12 family farmers still may voluntarily petition.",
+          "examApplication": "Classify nonprofit corporation and farm operator.",
+          "examTrap": "Do not confuse Chapter 7 farmer availability voluntarily with availability involuntarily."
+        },
+        {
+          "id": "bank-ch2-involuntary-overview-e3",
+          "type": "concept",
+          "title": "Why Congress allows involuntary relief",
+          "page": "Chapter 2 § E.1 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Protect creditor collective interest where debtor won't file despite nonpayment; danger involuntary suits themselves can damage reputations or pressure settlement.",
+          "laymanExplanation": "Creditors can force a single orderly case instead of losing value while debtor delays.",
+          "legalExplanation": "1978 Code replaced obsolete 'acts of bankruptcy' with §303(h) tests and coupled with sanctions for bad-faith petitions.",
+          "examApplication": "Discuss balancing group efficiency vs false threat.",
+          "examTrap": "Involuntary bankruptcy is not ordinary collection judgment."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-involuntary-petitioners",
+      "title": "E.4 — Petitioning Creditors: Qualified Claims, Numbers and Joinder",
+      "chapterGroup": "bank-ch2",
+      "description": "§303(b) noncontingent/undisputed claims, secured undercollateralized shares, threshold, three vs one petitioners and counting exclusions.",
+      "entries": [
+        {
+          "id": "bank-ch2-involuntary-petitioners-e1",
+          "type": "rule",
+          "title": "Qualified petitioner: §303(b) claim",
+          "page": "Chapter 2 § E.4.a (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Petitioner creditor or indenture trustee must hold prepetition claim not contingent as to liability and not subject to bona fide dispute as to liability or amount; qualifying unsecured claims aggregate to statutory indexed minimum.",
+          "laymanExplanation": "Creditors fighting about whether any real debt exists can't use bankruptcy petition to bully debtor into paying.",
+          "legalExplanation": "If petitioner's claim secured, only unsecured deficiency portion may count toward unsecured aggregate. Book's minimum $16,750 is 2021 historical, not current 2026 threshold.",
+          "examApplication": "Check each petitioner individually for disputed/contingent claim, then total eligible unsecured dollars.",
+          "examTrap": "A valid judgment creditor may be qualified even if debtor refuses payment, absent bona fide dispute."
+        },
+        {
+          "id": "bank-ch2-involuntary-petitioners-e2",
+          "type": "rule",
+          "title": "Noncontingent vs disputed liability or amount",
+          "page": "Chapter 2 § E.4.a (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "A claim contingent on event not yet occurred fails noncontingency requirement; bona fide dispute as to liability OR amount (2005 change) can disqualify; courts question if undisputed subset of amount counts.",
+          "laymanExplanation": "If debtor legitimately contests $1,000 of a $5,000 account, legal effect on petitioning status can be contested.",
+          "legalExplanation": "Textbook specifically poses open question whether admitted $4,000 portion counts or entire debt disqualified under statute.",
+          "examApplication": "Analyze bona fide dispute, documentation and governing circuit carefully.",
+          "examTrap": "Cannot silently resolve disputed-amount question with assumption in all jurisdictions."
+        },
+        {
+          "id": "bank-ch2-involuntary-petitioners-e3",
+          "type": "rule",
+          "title": "§303(b): three petitioners if 12+ qualifying creditors; else one",
+          "page": "Chapter 2 § E.4.b (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Debtor with 12 or more eligible counted creditors requires at least 3 qualified petitioners; with fewer than 12 one qualified petitioner sufficient; petitioners must together satisfy minimum aggregate unsecured claims.",
+          "laymanExplanation": "If debtor owes 30 ordinary separate people, three creditors must file together; if owes 5, one may petition.",
+          "legalExplanation": "Each individual petitioning creditor must be qualified; not every person claiming money counts in 12-creditor denominator.",
+          "examApplication": "Create creditor roster and remove statutory exclusions before counting to 12.",
+          "examTrap": "Not 'three creditors each holding minimum dollar amount'; statute measures total unsecured petitioning claims."
+        },
+        {
+          "id": "bank-ch2-involuntary-petitioners-e4",
+          "type": "rule",
+          "title": "12-creditor denominator exclusions",
+          "page": "Chapter 2 § E.4.b (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "When counting 12, exclude employee creditors, insiders, transferees of voidable transfers, holders of contingent claims and bona fide disputed claimants; some courts controversially exclude tiny recurring bills.",
+          "laymanExplanation": "Counting to 12 is more complicated than list of every invoice, because some relationships excluded.",
+          "legalExplanation": "§303(b) statutory categories and Rule 1003; denominator exclusions differ from petitioning creditor predicates.",
+          "examApplication": "Use table of creditor, reason in/out, allowed claim.",
+          "examTrap": "Do not count employees/insiders as ordinary outsiders just to demand 3 signatures."
+        },
+        {
+          "id": "bank-ch2-involuntary-petitioners-e5",
+          "type": "rule",
+          "title": "Rule 1003 assignment prohibition and §303(c) joinder",
+          "page": "Chapter 2 § E.4.b (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Claim assignee generally can't qualify as petitioner if claim assigned for purpose of filing; qualified creditors can join petition before dismissal under §303(c) and Rule 1003(b), but courts differ if initial filing in bad faith.",
+          "laymanExplanation": "You can't manufacture three 'creditors' by splitting one claim; late joiners may cure short petition under conditions.",
+          "legalExplanation": "Book mentions judicial good-faith gloss over purported technical curing.",
+          "examApplication": "Analyze how many originally petitioned, how many valid later joined and whether initial filer acted in good faith.",
+          "examTrap": "Do not assume initial shortage necessarily fatal despite timely qualified joinder."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-involuntary-grounds",
+      "title": "E.5 — Court's Order for Relief: Generally Not Paying and Custodian Alternative",
+      "chapterGroup": "bank-ch2",
+      "description": "§303(h) two alternative grounds, bona fide dispute exclusion, balance-sheet vs equity insolvency, flexible nonpayment factors.",
+      "entries": [
+        {
+          "id": "bank-ch2-involuntary-grounds-e1",
+          "type": "rule",
+          "title": "§303(h)(1): generally not paying debts as due",
+          "page": "Chapter 2 § E.5 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "After timely contested involuntary petition court orders relief if debtor generally not paying debts as they come due, excluding bona fide disputed debts from assessment.",
+          "laymanExplanation": "If business isn't paying its routine creditors broadly, forced bankruptcy may be warranted.",
+          "legalExplanation": "Fact-intensive analysis of number, fraction and amount unpaid, delinquency age and debtor's overall financial conduct.",
+          "examApplication": "For 2.15 one large judgment unpaid while 27 others current; for 2.16 most creditors unpaid except one worked-out judgment—compare size and counts.",
+          "examTrap": "A single $70k unpaid debt may dominate dollars but not automatically prove 'generally' unpaid."
+        },
+        {
+          "id": "bank-ch2-involuntary-grounds-e2",
+          "type": "rule",
+          "title": "§303(h)(2) custodian alternative: 120 days",
+          "page": "Chapter 2 § E.5 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Order for relief also available if qualifying custodian appointed or took possession of substantially all debtor property within 120 days before petition, subject statutory terms.",
+          "laymanExplanation": "Receiver or assignment for benefit of creditors recently took over most business assets; bankruptcy can supersede that collective process.",
+          "legalExplanation": "In fact pattern, check timing, substantially all property and whether abstention under §305 better serves estate.",
+          "examApplication": "Distinguish §303(h) from former old acts-of-bankruptcy triggers.",
+          "examTrap": "Do not assume ordinary appointment over one small asset satisfies substantially-all."
+        },
+        {
+          "id": "bank-ch2-involuntary-grounds-e3",
+          "type": "rule",
+          "title": "Nonpayment equity insolvency vs balance sheet",
+          "page": "Chapter 2 § E.5 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "§303(h)(1) asks whether debtor actually is generally paying due debts (equity insolvency concept), not whether total liabilities exceed total assets (balance-sheet insolvency).",
+          "laymanExplanation": "A company may own expensive real estate but still fail to pay bills this month.",
+          "legalExplanation": "A firm can be insolvent by asset values yet pay currently or solvent on paper yet miss most bills.",
+          "examApplication": "Separate cash-flow/nonpayment analysis from asset-minus-debt accounting.",
+          "examTrap": "Chapter 9 municipal insolvency test distinct."
+        },
+        {
+          "id": "bank-ch2-involuntary-grounds-e4",
+          "type": "rule",
+          "title": "No rigid percentage test; six practical factors",
+          "page": "Chapter 2 § E.5 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Courts weigh number of defaulted debts, percentage numerically, percentage in dollar amounts, total delinquent dollars, age of delinquencies versus industry and overall financial conduct.",
+          "laymanExplanation": "One big creditor vs dozens of unpaid suppliers can tell different stories.",
+          "legalExplanation": "The book refuses a single mathematical cutoff; §303(h) intentionally flexible.",
+          "examApplication": "For Problems 2.15/16 compute number unpaid and value proportions as evidence but not automatic result.",
+          "examTrap": "Do not decide purely by 3 of 30 or 70% of value without other factors."
+        },
+        {
+          "id": "bank-ch2-involuntary-grounds-e5",
+          "type": "rule",
+          "title": "Bona fide disputes excluded from general nonpayment calculus",
+          "page": "Chapter 2 § E.5 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Statute excludes debts that are subject to bona fide disputes as to liability or amount so creditors cannot weaponize disputed invoices.",
+          "laymanExplanation": "You don't count an honestly contested claim as an ignored bill for involuntary-filing pressure.",
+          "legalExplanation": "Debt not due, contingent and legitimately disputed differ; casebook frames debtor protection vs evasion risk.",
+          "examApplication": "In 2.15 judgment after litigation generally resolves earlier liability dispute, but analyze given status.",
+          "examTrap": "Not every debtor's subjective refusal proves 'bona fide' dispute."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-involuntary-gap",
+      "title": "E.6 — Operations Between Filing and Order for Relief",
+      "chapterGroup": "bank-ch2",
+      "description": "Gap estate/stay, debtor-in-possession rights, interim trustee, gap credit/new value, payments and Problem 2.17.",
+      "entries": [
+        {
+          "id": "bank-ch2-involuntary-gap-e1",
+          "type": "rule",
+          "title": "Filing triggers automatic estate and stay despite no order yet",
+          "page": "Chapter 2 § E.6 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Even contested involuntary petition creates §541 estate and §362 stay immediately to protect assets while court decides order for relief.",
+          "laymanExplanation": "Business isn't declared bankrupt yet, but creditors are paused from snatching property.",
+          "legalExplanation": "§303 timing: petition first, possible hearing, then order for relief or dismissal.",
+          "examApplication": "Distinguish filing timestamp and 'order for relief' when assessing gap transactions.",
+          "examTrap": "Do not presume automatic order on involuntary filing."
+        },
+        {
+          "id": "bank-ch2-involuntary-gap-e2",
+          "type": "rule",
+          "title": "§303(f): debtor may continue operation/use property in gap",
+          "page": "Chapter 2 § E.6 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Absent court order, target of involuntary case may continue operating business and using property during contested gap; §303(g) court may appoint interim trustee to prevent loss.",
+          "laymanExplanation": "Airline usually keeps flying scheduled routes while court decides whether bankruptcy forced.",
+          "legalExplanation": "Court can require petitioner bond §303(e), interim trustee if needed; property turnover via debtor bond.",
+          "examApplication": "Problem 2.17(a) airline flights after Dec 20 involuntary filing.",
+          "examTrap": "Operating business doesn't mean lawful to pay every old debt."
+        },
+        {
+          "id": "bank-ch2-involuntary-gap-e3",
+          "type": "rule",
+          "title": "§303(g) interim trustee and bond",
+          "page": "Chapter 2 § E.6 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Court may appoint interim trustee when needed to preserve estate or prevent loss, and debtor may regain possession by posting bond.",
+          "laymanExplanation": "Judge can put someone in charge if debtor is dissipating assets during contest.",
+          "legalExplanation": "Even without full relief order, special protection of estate can be implemented.",
+          "examApplication": "Look for evidence business cash disappearing versus ordinary operation.",
+          "examTrap": "Interim appointment isn't automatic merely on petition."
+        },
+        {
+          "id": "bank-ch2-involuntary-gap-e4",
+          "type": "rule",
+          "title": "Gap financing and priority §502(f),§507(a)(3)",
+          "page": "Chapter 2 § E.6 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Credit extended in ordinary course during gap may receive statutory priority in case eventually adjudicated; third priority in textbook discussion.",
+          "laymanExplanation": "Food supplier may keep feeding flights with special protection for new deliveries.",
+          "legalExplanation": "Differentiate debt incurred before involuntary petition from postpetition gap credit and split mixed invoices by delivery date.",
+          "examApplication": "For 2.17(c) $50k invoice straddles Dec15–Jan15; classify each portion by when goods delivered.",
+          "examTrap": "Don't treat mixed-date invoice as one single prepetition or postpetition debt."
+        },
+        {
+          "id": "bank-ch2-involuntary-gap-e5",
+          "type": "rule",
+          "title": "§549 gap transfers, prepetition debt payments and new value",
+          "page": "Chapter 2 § E.6 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Prepetition claims generally cannot be selectively paid during gap without avoidance risk; under §549(b) transferees giving new value during gap get protection to value given.",
+          "laymanExplanation": "Old bill payments may be clawed back; fresh goods delivered for new payment get different treatment.",
+          "legalExplanation": "§549(b) protects new-value transfers under specified requirements, not unconditional permission for all distributions.",
+          "examApplication": "For 2.17(b) Jan1 wage payment, determine whether earned pre-Dec20 vs after; for supplier divide before/after Dec20.",
+          "examTrap": "No blanket permission to pay antecedent claims because Chapter 11-like ordinary operation continues."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-involuntary-dismissal",
+      "title": "E.7 and F — Dismissal, §303(i) Sanctions and §305 Abstention",
+      "chapterGroup": "bank-ch2",
+      "description": "False involuntary filing costs and penalties; collective posture even after petitioners consent to withdrawal; out-of-court workout abstention.",
+      "entries": [
+        {
+          "id": "bank-ch2-involuntary-dismissal-e1",
+          "type": "rule",
+          "title": "§303(j): involuntary petition can't always be dismissed by parties alone",
+          "page": "Chapter 2 § E.7 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Court may dismiss for petitioners' failure to prove grounds, consent, want of prosecution, or abstention, but must protect body of creditors when petitioners/debtor agree to withdrawal.",
+          "laymanExplanation": "Involuntary case affects everyone, not just original three creditors; their private deal doesn't always end it.",
+          "legalExplanation": "§303(j) requires statutory process with notice/hearing protection before consent dismissal.",
+          "examApplication": "If petitioners settle privately, ask if other creditors could be harmed.",
+          "examTrap": "Do not treat involuntary petition like ordinary two-party voluntary civil dismissal."
+        },
+        {
+          "id": "bank-ch2-involuntary-dismissal-e2",
+          "type": "rule",
+          "title": "§303(i) fees, compensatory and punitive damages",
+          "page": "Chapter 2 § E.7 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "If involuntary case dismissed outside specified consent exceptions, court may award costs and reasonable attorneys' fees; if petitioners acted in bad faith court may award proximately caused damages and punitive damages.",
+          "laymanExplanation": "Wrongful creditor-forced bankruptcy can be financially costly for petitioners.",
+          "legalExplanation": "§303(i)(1) costs/fees; §303(i)(2) actual and punitive damages if bad faith. §303(e) petitioner's bond may secure.",
+          "examApplication": "Separate baseline fee recovery from heightened bad-faith sanctions.",
+          "examTrap": "Punitive damages not automatic simply because involuntary petition failed."
+        },
+        {
+          "id": "bank-ch2-involuntary-dismissal-e3",
+          "type": "rule",
+          "title": "§305(a)(1): abstention when better for debtor and creditors",
+          "page": "Chapter 2 § F (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Even legally valid bankruptcy can be dismissed/suspended if interests of creditors and debtor better served by nonbankruptcy arrangement; discretionary court determination.",
+          "laymanExplanation": "A negotiated restructuring could work better than bankruptcy if it protects all affected creditors.",
+          "legalExplanation": "Classic: minority holdout threatening involuntary filing to extract payment despite fair, cheaper workout supported by others.",
+          "examApplication": "Compare collective efficiency, cost, consent, creditor risk, prejudice and timing.",
+          "examTrap": "Abstention is not finding debtor ineligible or petitioners lacked cause."
+        },
+        {
+          "id": "bank-ch2-involuntary-dismissal-e4",
+          "type": "rule",
+          "title": "In re Colonial Ford voluntary-case abstention example",
+          "page": "Chapter 2 § F (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+          "summary": "Book cites Colonial Ford: car dealership had comprehensive pre-bankruptcy creditor workout with nine months to sell/refinance then foreclosure; debtor failed and filed Chapter 11 to delay agreed foreclosure; court abstained.",
+          "laymanExplanation": "After agreeing to a good outside workout, debtor can't always use Chapter 11 as endless delay.",
+          "legalExplanation": "Case appears as described example, not full opinion excerpt; illustrates §305 even voluntary case.",
+          "examApplication": "Discuss why court would respect prior arm's-length workout.",
+          "examTrap": "Do not describe it as full brief or universal rule that every workout bars filing."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch2-p2-15",
+      "topicId": "bank-ch2-involuntary-grounds",
+      "title": "Problem 2.15",
+      "kind": "Casebook Problem 2.15 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+      "prompt": "Three petitioners Alpha ($70k final undisputed judgment), Beta ($100), Gamma ($100), 30 creditors and $100k total debts; only petitioners unpaid; decide whether generally not paying under §303(h)(1), including creditor count and dollar ratios. Unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-16",
+      "topicId": "bank-ch2-involuntary-grounds",
+      "title": "Problem 2.16",
+      "kind": "Casebook Problem 2.16 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+      "prompt": "Three petitioners Beta/Gamma/Delta each undisputed $5k; 30 creditors, $100k debt; all creditors unpaid except Alpha on a $90k judgment after $20k payment and installment schedule for $70k remainder. Determine §303(h)(1) general nonpayment from numeric and value proportions, without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-17",
+      "topicId": "bank-ch2-involuntary-gap",
+      "title": "Problem 2.17",
+      "kind": "Casebook Problem 2.17 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice, Fifth Edition (2021), full uploaded Chapter 2 §§E–F; Effross Fall 2026 syllabus general pp.79–170",
+      "prompt": "Gap period airline hypothetical: creditors file involuntary case Dec20; (a) scheduled holiday flights, (b) Jan1 $1m wages, (c) $50k inflight meals invoice Jan15 for services Dec15 through Jan15. Distinguish ordinary business operation, prepetition/postpetition portions, new value and statutory priority, all unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
