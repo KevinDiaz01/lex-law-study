@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+  "coverage": {
+    "chapter": 5,
+    "scope": "E. §510(c) equitable subordination, Mobile Steel, Taylor/Deep Rock, Pepper, Clark Pipe, Noland and CF&I; integrated exam decision trees and calculations",
+    "note": "These §E decisions are discussed in textbook prose, NOT full excerpted opinions."
+  },
+  "topics": [
+    {
+      "id": "bank-ch5-subordination",
+      "title": "E. §510(c) Equitable Subordination: Case-Specific Misconduct and Fairness",
+      "chapterGroup": "bank-ch5",
+      "description": "Historic Deep Rock/Pepper, Mobile Steel three-part framework, insider vs outsider and Noland/CF&I limits.",
+      "entries": [
+        {
+          "id": "bank-ch5-subordination-e1",
+          "type": "rule",
+          "title": "§510(c)(1): court can subordinate otherwise allowed claim",
+          "page": "Ch.5 §E",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "Court may reorder all or part of claimant's otherwise allowed claim BELOW other allowed claims to remedy inequity; extraordinary narrow remedy.",
+          "laymanExplanation": "Creditor may really be owed money but gets sent to back of payment line for abusive conduct.",
+          "legalExplanation": "Different from claim disallowance under §502 and statutory penalty tier §726(a)(4).",
+          "examApplication": "Check claim is legally valid, then misconduct/priority separately.",
+          "examTrap": "Don't label subordinated debt automatically fraudulent or invalid."
+        },
+        {
+          "id": "bank-ch5-subordination-e2",
+          "type": "rule",
+          "title": "Historical Deep Rock and Pepper v Litton",
+          "page": "Ch.5 §E",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "Taylor v Standard Gas (Deep Rock) subordinated parent that undercapitalized/mismanaged subsidiary; Pepper v Litton subordinated controlling shareholder exploiting corporation for own benefit.",
+          "laymanExplanation": "Insider who rigs business to put its own loan ahead of others may lose distribution position.",
+          "legalExplanation": "Foundations codified in 1978 §510(c) with common law development still relevant.",
+          "examApplication": "On facts of parent-affiliate insider loans, identify domination, capitalization and fairness.",
+          "examTrap": "A parent stockholder's status alone doesn't require subordination."
+        },
+        {
+          "id": "bank-ch5-subordination-e3",
+          "type": "rule",
+          "title": "Mobile Steel: three elements",
+          "page": "Ch.5 §E",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "Common framework: (1) inequitable conduct by claimant; (2) injury to debtor creditors or unfair advantage to claimant; (3) subordination not inconsistent with Code statutory requirements.",
+          "laymanExplanation": "Bad conduct + harm/unfair gain + consistency with law.",
+          "legalExplanation": "Courts continue to follow Mobile Steel though Supreme Court later refused broad categorical uses of equitable subordination.",
+          "examApplication": "Build explicit three-prong heading in essay.",
+          "examTrap": "Equitable subordination is not just 'judge thinks debt unfair'."
+        },
+        {
+          "id": "bank-ch5-subordination-e4",
+          "type": "rule",
+          "title": "Three recurring misconduct categories",
+          "page": "Ch.5 §E",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "(1) fraud/illegality/breach of fiduciary duty; (2) undercapitalization; (3) using debtor as mere instrumentality/alter ego.",
+          "laymanExplanation": "Lying, intentionally starving subsidiary of cash, or controlling company as personal puppet.",
+          "legalExplanation": "Evidence must relate to injury or advantage, not only unsavory behavior.",
+          "examApplication": "In parent company financing hypothetical compare capitalization/records/control and disproportionate benefits.",
+          "examTrap": "Undercapitalization alone can be fact-intensive; no automatic remedy based solely on hardship."
+        },
+        {
+          "id": "bank-ch5-subordination-e5",
+          "type": "rule",
+          "title": "Insider claims get heightened scrutiny",
+          "page": "Ch.5 §E",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "Officer/director/controlling shareholder's dealings closely scrutinized because fiduciary duty and conflict; on material evidence unfair insider conduct, insider may have burden to establish good faith/fairness.",
+          "laymanExplanation": "When CEO lends to own failing company and gets paid before workers, court closely examines deal.",
+          "legalExplanation": "Insider status alone isn't violation, but unequal control and duties distinguish ordinary arm's-length creditor.",
+          "examApplication": "Identify insider §101(31) status, relevant control and insider's explanation of transaction.",
+          "examTrap": "Don't conclude all insider loans subordinate automatically."
+        },
+        {
+          "id": "bank-ch5-subordination-e6",
+          "type": "rule",
+          "title": "Noninsider creditor usually may enforce arm's-length contract",
+          "page": "Ch.5 §E",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "Ordinary independent lender need not save debtor or other creditors; aggressive collection generally not inequitable absent domination, fraud or other serious conduct.",
+          "laymanExplanation": "Bank can protect its own debt using agreed loan terms, even if debtor gets worse off.",
+          "legalExplanation": "Clark Pipe originally subordinated lender but on rehearing rejected due to absence of total control beyond arms-length borrowing.",
+          "examApplication": "Use degree of control: did creditor actually manage debtor as instrumentality?",
+          "examTrap": "Merely lending less or accelerating collection isn't enough."
+        },
+        {
+          "id": "bank-ch5-subordination-e7",
+          "type": "rule",
+          "title": "Noland and CF&I (1996): no categorical subordination by claim type",
+          "page": "Ch.5 §E",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "Supreme Court invalidated broad rule subordinating all government noncompensatory tax penalties without case-specific inequity merely because such claims look punitive; Court did NOT decide whether misconduct is necessary in every case.",
+          "laymanExplanation": "Court can't invent a new universal payment rule to replace Congress's tax priority.",
+          "legalExplanation": "Equitable subordination must rest on individual case's equities and avoid conflict with §507 statutory ranking.",
+          "examApplication": "When fine appears punitive ask whether actual conduct/equities warrant §510(c), and apply §726(a)(4) if applicable.",
+          "examTrap": "Don't cite these as deciding inequitable conduct always mandatory for all imaginable cases."
+        },
+        {
+          "id": "bank-ch5-subordination-e8",
+          "type": "rule",
+          "title": "Subordination extent should address harm, not punish freely",
+          "page": "Ch.5 §E",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "§510(c) grants flexibility to subordinate all or part of claim, but based on unfair creditor advantage or injury; remedy can't override Congress's general ranking for an entire categorical type.",
+          "laymanExplanation": "If abusive insider gained $30k, court examines tailored remedy rather than automatically erasing $1m valid debt.",
+          "legalExplanation": "Mobile Steel framework aims to redress injury/advantage; exact measure depends case and applicable law.",
+          "examApplication": "In exam identify nexus between misconduct and creditors' loss.",
+          "examTrap": "Don't confuse full claim disallowance and calibrated distribution rank."
+        },
+        {
+          "id": "bank-ch5-subordination-e9",
+          "type": "rule",
+          "title": "Claim-type penalty under §726 vs equitable remedy under §510",
+          "page": "Ch.5 §E",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "Noncompensatory penalty often already occupies fourth §726 tier; §510 adds discretionary case-specific remedy where equity proven, not a substitute legislative priority system.",
+          "laymanExplanation": "Code itself lowers general penalties; court shouldn't reflexively lower already statutorily favored tax penalties too.",
+          "legalExplanation": "Noland/CF&I enforce statutory legislative decisions.",
+          "examApplication": "For claims involving taxes/penalties ask first whether §507 priority applies, then §510 case-specific.",
+          "examTrap": "§510 isn't free general authority to rewrite distribution structure."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-chapter5-exam-workflow",
+      "title": "Chapter 5 — Exam Map: Claim → Allowance → Priority → Payout → Subordination",
+      "chapterGroup": "bank-ch5",
+      "description": "Comprehensive five-stage issue spotting, case selection and math discipline.",
+      "entries": [
+        {
+          "id": "bank-ch5-chapter5-exam-workflow-e1",
+          "type": "concept",
+          "title": "Stage 1: classify right as claim and when arose",
+          "page": "Ch.5 §§A–E synthesis",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "§101(5)(A) payment or §101(5)(B) equitable payment alternative; prepetition vs later origin via Grossman's exposure and other timing tests; separate notice/due process discharge.",
+          "laymanExplanation": "Start by asking if creditor has a seat at bankruptcy table at all.",
+          "legalExplanation": "Referenced cases Kovacs/Apex/Shearin distinguish monetary vs surviving equitable obligation.",
+          "examApplication": "Use facts of time, legal right and remedy.",
+          "examTrap": "Never start distribution calculation before classifying obligation."
+        },
+        {
+          "id": "bank-ch5-chapter5-exam-workflow-e2",
+          "type": "concept",
+          "title": "Stage 2: determine allowance and exact petition-date amount",
+          "page": "Ch.5 §§A–E synthesis",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "§501 proof/deemed filing, timely/late, §502(b) statutory defenses, valuation/estimation, exclude unmatured interest, landlord and employee damage caps.",
+          "laymanExplanation": "Valid debt can be chopped down by bankruptcy-specific cap.",
+          "legalExplanation": "Use Code §502 and any source-era relevant Rules; note no-asset exceptions.",
+          "examApplication": "Write allowed dollar amount and subsection.",
+          "examTrap": "Don't assume creditor's face invoice equals allowed claim."
+        },
+        {
+          "id": "bank-ch5-chapter5-exam-workflow-e3",
+          "type": "concept",
+          "title": "Stage 3: secured status, §507 statutory rank and §503 administration",
+          "page": "Ch.5 §§A–E synthesis",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "Check valid secured collateral first; priority category §507(a) rank1–10; §503(b) postpetition induced estate transaction/benefit or Reading/§959(b) exception; §507/§364 superpriority; leave ordinary unsecured in §726 tier2.",
+          "laymanExplanation": "Before splitting pie, take out secured property and put each remaining bill in correct queue.",
+          "legalExplanation": "Jartran denied priority for locked prepetition ads; N.P. Mining allowed only new operating-law penalties.",
+          "examApplication": "Mark when labor/goods performed, active operation, state regulation, and caps.",
+          "examTrap": "A 'high-priority' claim needs specific statutory authority."
+        },
+        {
+          "id": "bank-ch5-chapter5-exam-workflow-e4",
+          "type": "concept",
+          "title": "Stage 4: distributions or reorganization plan confirmation",
+          "page": "Ch.5 §§C–D synthesis",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "For Chapter 7 order §726 tiers and calculate pro rata; for Chapters 11/12/13 apply best interests, priority full treatment, disposable income and Chapter11 class voting/cramdown rules as appropriate.",
+          "laymanExplanation": "Chapter 7 pool is split now; reorganization pays over time under court-approved plan.",
+          "legalExplanation": "Distinguish liquidation floor and projected future income tests, which can both bind debtor.",
+          "examApplication": "Use actual estate net equity and class acceptance facts.",
+          "examTrap": "Don't apply Chapter 11 class voting rules to Chapter 13."
+        },
+        {
+          "id": "bank-ch5-chapter5-exam-workflow-e5",
+          "type": "concept",
+          "title": "Stage 5: challenge inequitable insider/noninsider claims via §510(c)",
+          "page": "Ch.5 §§E synthesis",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "When claim valid but creditor behaved inequitably, test Mobile Steel and insider control, injury or unfair gain and statutory consistency; §510 changes rank, not original existence.",
+          "laymanExplanation": "Debt might be real, but creditor may lose favored place in line if abused debtor.",
+          "legalExplanation": "Noland/CF&I block blanket category-based rewriting of §507 priorities.",
+          "examApplication": "Analyze impropriety only after allowance/priority in chronology.",
+          "examTrap": "Do not use equitable subordination as substitute for proof deadline or §502 disallowance."
+        },
+        {
+          "id": "bank-ch5-chapter5-exam-workflow-e6",
+          "type": "rule",
+          "title": "Universal cap formula cheat sheet (book)",
+          "page": "Ch.5 §§B–D synthesis",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "Landlord future cap months=max(12,min(0.15×remaining lease months,36)), plus eligible pretermination rent; §502(b)(7) 1 year termination compensation + unpaid due; same-rank payout = fund×claim÷total; §503(b)(9) received prefiling 20 days; reclamation §546(c) received within 45 days and written demand postfiling 20 days.",
+          "laymanExplanation": "Four numbers to memorize: 12/15%/36, 1 year, 20/45/20 days, proportional payment.",
+          "legalExplanation": "Caps give ceilings; actual legally enforceable damage and senior ranks may produce much less.",
+          "examApplication": "Practice 5.2(e) 91-year lease limit 36mo; 5.2(f) $25m/year; 5.3 ratios; leave source problem answers unanswered.",
+          "examTrap": "Formula entry is study aid, not a response resolving all textbook problems."
+        },
+        {
+          "id": "bank-ch5-chapter5-exam-workflow-e7",
+          "type": "rule",
+          "title": "Regulatory obligations comparison (cross-chapter)",
+          "page": "Ch.5 §§A,D synthesis",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §E Subordination and chapter-wide exam synthesis",
+          "summary": "Penn Terra (Chapter4) regulatory nonmoney injunction can proceed under §362(b)(4); Kovacs (Chapter5) receiver turned clean-up into payment claim; Apex Oil mandatory cleanup nonclaim; Midlantic unsafe property abandonment restricted; N.P. Mining new punitive fines during active operation potentially admin.",
+          "laymanExplanation": "Same pollution facts can present five distinct statutory questions, not one environmental bankruptcy answer.",
+          "legalExplanation": "Stay exception, discharge claim definition, property abandonment and priority are independent lenses.",
+          "examApplication": "Read exact issue in fact pattern before selecting case.",
+          "examTrap": "Do not use a valid §362(b)(4) exception as automatic proof a debt is non-dischargeable."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
