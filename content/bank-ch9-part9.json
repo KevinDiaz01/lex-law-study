@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+  "coverage": {
+    "chapter": 9,
+    "scope": "§G synthesis all §547/§548/§550 tools, principal vs fictitious profits, restitution, nontracing, Ponzi intent presumption, ordinary-course possibility, §546(e) discussion, 1987 original 1-year vs modern 2-year §548; full Independent Clearing House assigned opinion"
+  },
+  "topics": [
+    {
+      "id": "bank-ch9-ponzi-clawbacks",
+      "title": "G. Ponzi Scheme Synthesis: Equal Treatment Versus Statutory Limits",
+      "chapterGroup": "bank-ch9",
+      "description": "Net winning investors, actual/constructive fraud and preference differences.",
+      "entries": [
+        {
+          "id": "bank-ch9-ponzi-clawbacks-e1",
+          "type": "rule",
+          "title": "A Ponzi 'clawback' is not one separate legal cause",
+          "page": "Ch9 §G",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Trustee may use §548 actual fraud, §548 constructive fraud, §547 preferences, possible §544(b) state claims and §550 recovery, each with distinct times, elements and defendants.",
+          "laymanExplanation": "Early winner must return false profits under transfer fraud; recent repayment can be preference even when principal.",
+          "legalExplanation": "Independent Clearing House considered three different claims and rejected blanket equitable disgorgement.",
+          "examApplication": "Always identify exact cause and reachback; 'clawback' just popular label.",
+          "examTrap": "No automatic statute permitting redistribution of every old payment ever made."
+        },
+        {
+          "id": "bank-ch9-ponzi-clawbacks-e2",
+          "type": "rule",
+          "title": "Investor contributions are debtor property if commingled, untraceable, accepted as contractual investment",
+          "page": "Ch9 §G",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "When victims' money mixed with others and no tracing possible, and investors accept payouts pursuant to agreement, funds treated debtor property for §547/548. Cunningham v Brown similar.",
+          "laymanExplanation": "Money from latest victim pays earlier investors; earlier investor cannot say money is still exclusively their own original deposit.",
+          "legalExplanation": "Common-law fraud may create restitution claim but not special asset title absent tracing.",
+          "examApplication": "Document fund tracing and rescission.",
+          "examTrap": "Contrasts segregated express trust with real proprietary claim."
+        },
+        {
+          "id": "bank-ch9-ponzi-clawbacks-e3",
+          "type": "rule",
+          "title": "Principal return reduces valid antecedent restitution/debt",
+          "page": "Ch9 §G",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "From moment investor advances funds to fraudulent scheme, investor has at least claim for return principal, regardless enforceability of promised fake profits; payout up to CONTRIBUTED principal discharges debt of debtor and therefore gives VALUE §548(d)(2)(A).",
+          "laymanExplanation": "You gave $10k and get $8k back; debtor's $10k repayment obligation shrinks to $2k.",
+          "legalExplanation": "Not constructively fraudulent if equivalent principal debt reduced; may still be ACTUALLY fraudulent unless §548(c) good-faith defense.",
+          "examApplication": "Separate net principal received before comparing profits.",
+          "examTrap": "Principal payments are not automatically exempt from preference avoidance §547."
+        },
+        {
+          "id": "bank-ch9-ponzi-clawbacks-e4",
+          "type": "rule",
+          "title": "Fictitious profits beyond principal are NOT reasonably equivalent value",
+          "page": "Ch9 §G",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Ponzi interest/returns paid ABOVE money investor gave not enforceable under public policy because only funded by victim deposits; no enforceable antecedent debt for fictional profits, so paid surplus lacks value and is avoidable as constructive fraud (assuming insolvency etc).",
+          "laymanExplanation": "Someone deposited $10k and withdrew $15k; extra $5k was stolen from later investors.",
+          "legalExplanation": "Source rejects treating fraud-perpetuation use of money as value given debtor for false profits.",
+          "examApplication": "In exam calculate total withdrawn minus original cash invested; don't double count individual transactions.",
+          "examTrap": "Not simply classify EVERY withdrawal as no value while investor still unrepaid principal."
+        },
+        {
+          "id": "bank-ch9-ponzi-clawbacks-e5",
+          "type": "rule",
+          "title": "Ponzi presumption of actual fraudulent intent",
+          "page": "Ch9 §G",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Operating an inherently insolvent Ponzi scheme knowing later investors inevitably defrauded supports inference every payout in furtherance of scheme made with intent to hinder, delay or defraud creditors, including principal payouts; but §548(c) protects transferee to extent good-faith value given.",
+          "laymanExplanation": "Keeping scheme alive by paying investors deceives later lenders into entering.",
+          "legalExplanation": "Proof of scheme operation may substitute repeated separate testimony of intent.",
+          "examApplication": "Analyze both actual fraudulent intent and recipient good faith separately.",
+          "examTrap": "Ponzi scheme presumption isn't proof every innocent investor lacked good faith."
+        },
+        {
+          "id": "bank-ch9-ponzi-clawbacks-e6",
+          "type": "rule",
+          "title": "§548(c) good faith and value shield principal differently from fake profit",
+          "page": "Ch9 §G",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Innocent investor receiving principal may argue good faith and giving value to debtor by extinguishing restitution debt; false-profit recipient gave no legally recognized value for excess, so can't keep excess via §548(c).",
+          "laymanExplanation": "Lose fake 'investment profit' but may keep actual contribution returned if truly innocent and protected.",
+          "legalExplanation": "Inquiry notice of insolvency/fraud could defeat good faith; excessively high returns alone may not always prove it.",
+          "examApplication": "Facts include unusual early withdrawal, warning letters, knowledge of insolvency.",
+          "examTrap": "Don't say all participants fraudulent just for investing."
+        },
+        {
+          "id": "bank-ch9-ponzi-clawbacks-e7",
+          "type": "rule",
+          "title": "Preference §547 has arbitrary near-bankruptcy window and ordinary-course defenses",
+          "page": "Ch9 §G",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Even if Ponzi insolvent from day1, preference statute ordinarily targets payments in immediate 90 days (insider extra), not all old payouts. Independent Clearing House said routine payouts under objectively fraudulent Ponzi operations not EXCLUDED per se from §547(c)(2) ordinary course; individual defendant needs fact proof.",
+          "laymanExplanation": "Investor paid last week might face preference suit while earlier fully repaid last year escapes due cutoff.",
+          "legalExplanation": "Court recognized statutory rule can produce inequity but cannot rewrite reachback.",
+          "examApplication": "Compare accelerated withdrawal on bad news to normal contractual payout schedule.",
+          "examTrap": "Source opinion uses pre-BAPCPA statute; modern ordinary course OR tests differ."
+        },
+        {
+          "id": "bank-ch9-ponzi-clawbacks-e8",
+          "type": "rule",
+          "title": "§546(e) financial safe harbor raises importance of actual fraud",
+          "page": "Ch9 §G / Q9",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Book notes financial-transfer 'stock broker' defense §546(e) can block SOME avoidance routes but contains express carveout for §548(a)(1)(A) actual-intent claims, amplifying importance of Ponzi intent inference.",
+          "laymanExplanation": "If ordinary transfer fraud theory barred, actual fraudulent intent may remain open route.",
+          "legalExplanation": "Need analyze exact statutory covered entities/transactions in actual case; source sets issue in question not full coverage.",
+          "examApplication": "Mention limited statutory exception but don't assume every Ponzi payout protected or excluded.",
+          "examTrap": "Not blanket permission to ignore §548 lookback."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-independent-clearing",
+      "title": "G. In re Independent Clearing House (D. Utah 1987) — Full Case",
+      "chapterGroup": "bank-ch9",
+      "description": "Modern landmark for principal-versus-profit recoveries and Ponzi presumption.",
+      "entries": [
+        {
+          "id": "bank-ch9-independent-clearing-e1",
+          "type": "case",
+          "title": "In re Independent Clearing House Co., 77 B.R. 843 (D. Utah 1987)",
+          "page": "Ch9 §G full en banc opinion",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Court (1) treated commingled untraceable receipts as debtor property; (2) REFUSED unlimited bankruptcy-equity power; (3) held net fictitious profits beyond principal paid no equivalent value and recoverable under constructive fraud; (4) inferred scheme-level actual fraud for ALL transfers in then lookback, subject good-faith value defense and fact disputes; (5) recognized transfers within 90 days could be preferential, but reversed blanket denial of ordinary course exception and remanded defense determination.",
+          "laymanExplanation": "In Ponzi cases, fraudulent-transfer recovery generally targets returns ABOVE contributed principal as no reasonably equivalent value, while ALL transfers can carry debtor's actual fraudulent intent; innocence/value defenses govern principal; §547 preference and ordinary-course must be independently analyzed.",
+          "legalExplanation": "Fraudulent investor has claim to restitution/principal from initial investment; return of principal reduces antecedent debt and counts as §548(d)(2)(A) value, unlike contractually fake profits unenforceable on public policy. Ponzi run by design creates never-pay-later-victims intention so all sustaining transfers actually fraudulent; defendant may prove §548(c) value/good faith, with inquiry-notice fact disputes. General bankruptcy equitable authority cannot rewrite §548 statutory limits. §547(c)(2) routine payment may be ordinarily made in Ponzi scheme, even when enterprise itself fraudulent; accelerated payments not. Court acknowledged impossible perfect justice because old early winners outside statutory periods; court must apply law.",
+          "examApplication": "Note original then 1-YEAR §548 lookback now generally 2 years; 90-day preference; ~2,000 suits; no genuine clients; undertaking 9 months; three different claims and §502(d).",
+          "examTrap": "Do not portray court as ordering all investors disgorge ALL distributions, denying all §548(c) defenses or declaring fraud alone wipes §547(c)(2).",
+          "assignedOpinion": true,
+          "sourceRole": "Full en-banc opinion excerpt in uploaded Chapter9",
+          "facts": "Independent Clearing House (ICH), Universal Clearing House (UCH), Accounting Services (ASC) purported to handle client accounts payable but in fact ASC had NO clients; 'undertakers' placed money for 9 months promised substantial 'earnings' daily/monthly or end. New investor money paid earlier principal and fake returns. ICH/UCH filed Chapter11 Sep16 1981, ASC Dec17. Trustee Robert Merrill filed ~2,000 adversary claims in Sep1983; sued investors paid within then 1-year §548 lookback and 90-day §547 period, including winners taking more than contributions and less-than-principal recipients. Bankruptcy court granted trustee relief for excess profits and preferences but denied all-payout claims; en banc district reviewed.",
+          "issue": "Which transfers to investors may trustee undo under (a) general equity, (b) §548 actual/constructive fraud and (c) §547 preference, when each investor has right to restitution of principal but false promised profit?",
+          "holding": "Court (1) treated commingled untraceable receipts as debtor property; (2) REFUSED unlimited bankruptcy-equity power; (3) held net fictitious profits beyond principal paid no equivalent value and recoverable under constructive fraud; (4) inferred scheme-level actual fraud for ALL transfers in then lookback, subject good-faith value defense and fact disputes; (5) recognized transfers within 90 days could be preferential, but reversed blanket denial of ordinary course exception and remanded defense determination.",
+          "reasoning": "Fraudulent investor has claim to restitution/principal from initial investment; return of principal reduces antecedent debt and counts as §548(d)(2)(A) value, unlike contractually fake profits unenforceable on public policy. Ponzi run by design creates never-pay-later-victims intention so all sustaining transfers actually fraudulent; defendant may prove §548(c) value/good faith, with inquiry-notice fact disputes. General bankruptcy equitable authority cannot rewrite §548 statutory limits. §547(c)(2) routine payment may be ordinarily made in Ponzi scheme, even when enterprise itself fraudulent; accelerated payments not. Court acknowledged impossible perfect justice because old early winners outside statutory periods; court must apply law.",
+          "rule": "In Ponzi cases, fraudulent-transfer recovery generally targets returns ABOVE contributed principal as no reasonably equivalent value, while ALL transfers can carry debtor's actual fraudulent intent; innocence/value defenses govern principal; §547 preference and ordinary-course must be independently analyzed."
+        },
+        {
+          "id": "bank-ch9-independent-clearing-e2",
+          "type": "rule",
+          "title": "Court rejected broad equitable rewrite of statute",
+          "page": "Ch9 §G / Independent Clearing",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Even if theoretically equalizing ALL investors best remedy, bankruptcy court limited to enacted statutory causes, lookback and defenses. Never invent unbounded §105 power.",
+          "laymanExplanation": "Justice aspirations don't let court abolish statutory cutoff.",
+          "legalExplanation": "Difference between equitable remedy under Code versus free-floating private redistribution.",
+          "examApplication": "Discuss constraints on clawback ages.",
+          "examTrap": "Don't say fraud lets trustee ignore §546 limitations."
+        },
+        {
+          "id": "bank-ch9-independent-clearing-e3",
+          "type": "rule",
+          "title": "Actual fraud from scheme plus independent recipient good faith",
+          "page": "Ch9 §G / Independent Clearing",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Ponzi administrators intentionally used payouts to attract investors knowing inevitable loss; but even with scheme intent, each investor's good-faith defense depends inquiry notice, warning evidence, legitimate-looking purported factoring business.",
+          "laymanExplanation": "The person sending cash is intentionally perpetuating scam; person receiving cash may not know.",
+          "legalExplanation": "§548(c) to extent value given debtor; net gain no value.",
+          "examApplication": "Separate corporate intent and investor investigation.",
+          "examTrap": "Unrealistic promised yield alone not necessarily court conclusively treated investor as bad-faith."
+        },
+        {
+          "id": "bank-ch9-independent-clearing-e4",
+          "type": "rule",
+          "title": "Returns above principal and principal paid distinguish §548(b)/§547",
+          "page": "Ch9 §G / Independent Clearing",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Total transfers exceed original advancement => surplus unenforceable profits, no value; below original principal => value by reducing claimant restitution obligation, but can still be avoidable preference if §547 tests met.",
+          "laymanExplanation": "Fraud victim getting back what gave may have preferential timing, while profits are no-value transfers.",
+          "legalExplanation": "This explains simultaneous cases for different legal theories.",
+          "examApplication": "Use account-by-account net ledger.",
+          "examTrap": "Not automatic restitution in full to net-loser from trustee without pro rata process."
+        },
+        {
+          "id": "bank-ch9-independent-clearing-e5",
+          "type": "rule",
+          "title": "Ordinary-course defense may apply to routine Ponzi payouts",
+          "page": "Ch9 §G / Independent Clearing",
+          "source": "User-uploaded Bankruptcy Chapter9 §G Ponzi Scheme Clawbacks, full In re Independent Clearing House Co. (D. Utah en banc 1987) excerpt",
+          "summary": "Court found payments made on normal contract terms arguably ordinary in fraudulent operation and may not trigger creditor race, so remanded for proof; unusual accelerated withdrawals amid rumors could differ.",
+          "laymanExplanation": "Some regular Ponzi investor payments were used to keep fraud going, not unusually drawn due bankruptcy.",
+          "legalExplanation": "Statute text and purpose prevented treating Ponzi setting categorical bar at then law.",
+          "examApplication": "Discuss modern §547(c)(2) 2005 OR modification separately.",
+          "examTrap": "No guarantee defendant wins after remand."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
