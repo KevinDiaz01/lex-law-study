@@ -1,0 +1,271 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+  "coverage": {
+    "chapter": 8,
+    "scope": "§A four trustee options; §B Countryman material breach, contracts substantially performed, In re Sudbury full opinion and original Problem 8.1(a)-(d) UNSOLVED"
+  },
+  "topics": [
+    {
+      "id": "bank-ch8-overview",
+      "title": "A. Executory Contracts — §365 Master Architecture",
+      "chapterGroup": "bank-ch8",
+      "description": "Asset plus contractual liability and all possible choices in bankruptcy.",
+      "entries": [
+        {
+          "id": "bank-ch8-overview-e1",
+          "type": "rule",
+          "title": "§541 property PLUS §365 special treatment",
+          "page": "Ch.8 §A",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "Debtor's unexpired leases and executory contracts can enter estate as property §541, but contract's potential upside is intertwined with contingent duty to perform; §365 lets trustee decide whether to assume, assign or reject.",
+          "laymanExplanation": "An estate cannot keep only benefits of a supply deal and ignore the promised purchase price if it assumes.",
+          "legalExplanation": "§365(a) assumption/rejection with court approval; §365(f) assignment; §365(d) timing; §365(b)/(c) limitations; §365(g) etc. effects.",
+          "examApplication": "When spotting contract, distinguish asset value, corresponding cost, and special statutory regime.",
+          "examTrap": "Property status alone never means estate automatically assumed performance duties."
+        },
+        {
+          "id": "bank-ch8-overview-e2",
+          "type": "rule",
+          "title": "Four options: assume, assume+assign, reject or do nothing",
+          "page": "Ch.8 §A–C.1",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "Assume: estate becomes liable and receives performance; assume/assign: transfer contract to assignee and release estate for postassignment breach §365(k); reject: breach treated prepetition, generally unsecured damages; do nothing: gap period with limited estate duty pending deadline.",
+          "laymanExplanation": "Accept the deal, sell the deal, walk away with claim, or defer decision.",
+          "legalExplanation": "The options have different costs, court approvals, cures, procedural triggers and exposure.",
+          "examApplication": "Start every executory fact-pattern with four-way tree and deadline.",
+          "examTrap": "Do nothing cannot continue after deemed-rejection deadline."
+        },
+        {
+          "id": "bank-ch8-overview-e3",
+          "type": "rule",
+          "title": "DIP is treated like trustee in Chapter11",
+          "page": "Ch.8 §A",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "§1107(a) gives Chapter11 debtor in possession relevant rights and restrictions of trustee, including §365 decisions.",
+          "laymanExplanation": "Company running its own reorganization makes these choices itself, subject to court.",
+          "legalExplanation": "The statutory shorthand 'trustee' commonly includes DIP.",
+          "examApplication": "Use correct actor for each chapter.",
+          "examTrap": "Trustee in Chapter7 and Chapter11 DIP not identical case settings."
+        },
+        {
+          "id": "bank-ch8-overview-e4",
+          "type": "rule",
+          "title": "Ipso facto, commercial lessors and collective bargaining have special regimes",
+          "page": "Ch.8 §A",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "§365(e) generally invalidates bankruptcy-triggered termination; §365(d)(3)–(5) give special limbo/timing rights for lessors; §1113 CBAs and §1114 retiree benefits impose additional Chapter11 rules.",
+          "laymanExplanation": "Some contracts get extra protections that override usual business judgment or gap rules.",
+          "legalExplanation": "Identify category before applying generic §365 choice; separate exceptions like §365(c)(2) financial accommodation.",
+          "examApplication": "Use code subsection to outline specific deviation.",
+          "examTrap": "General §365(a) permission does not override all category-specific limits."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-countryman",
+      "title": "B. Countryman Definition: Materially Unperformed on Both Sides",
+      "chapterGroup": "bank-ch8",
+      "description": "Executory status depends on mutual material breach, not bare future tasks.",
+      "entries": [
+        {
+          "id": "bank-ch8-countryman-e1",
+          "type": "rule",
+          "title": "Countryman material breach test",
+          "page": "Ch.8 §B",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "A contract is executory where at filing significant performance remains due on BOTH debtor and counterparty sides, such that either party's failure to perform would constitute a material breach excusing the other's duties.",
+          "laymanExplanation": "Both sides still owe something serious enough that failure lets other stop performing.",
+          "legalExplanation": "Code no express definition; influential Countryman definition focuses value of reciprocal performance obligations.",
+          "examApplication": "Ask outstanding duties and state-law material breach / conditionality on each side at petition.",
+          "examTrap": "Two minor paperwork duties do not necessarily make contract executory."
+        },
+        {
+          "id": "bank-ch8-countryman-e2",
+          "type": "rule",
+          "title": "Substantial performance by either party usually defeats executory classification",
+          "page": "Ch.8 §B",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "If one party completed material performance prepetition, contract remaining is solely estate asset (nondebtor still owes) OR solely prepetition liability (debtor still owes), so §365 assumption/rejection serves no purpose.",
+          "laymanExplanation": "If store already received gizmos and only owes money, ordinary unpaid debt; if paid in full and only waiting delivery, asset to collect.",
+          "legalExplanation": "Material reciprocal performance is decisive, not whether literally any act remains.",
+          "examApplication": "List payment/delivery timing and what breach would excuse performance.",
+          "examTrap": "One unpaid $5k invoice doesn't automatically make the contract executory."
+        },
+        {
+          "id": "bank-ch8-countryman-e3",
+          "type": "rule",
+          "title": "Nondebtor substantially performed: creditor holds prepetition claim",
+          "page": "Ch.8 §B",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "If supplier fully delivered before filing, debtor's unpaid purchase price becomes standard prepetition contract liability rather than §365 assumption obligation.",
+          "laymanExplanation": "Seller delivered box, company owes invoice and can't use §365 to prioritize that invoice alone.",
+          "legalExplanation": "Classify §502 allowed unsecured unless collateral/priority independent.",
+          "examApplication": "Distinguish from postpetition supply contract.",
+          "examTrap": "Payment due alone does not count as two-sided material nonperformance."
+        },
+        {
+          "id": "bank-ch8-countryman-e4",
+          "type": "rule",
+          "title": "Debtor substantially performed: estate holds right to counterparty performance",
+          "page": "Ch.8 §B",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "If debtor paid price before filing, only supplier delivery remains; right to delivery is estate property without further exchange of material obligations under Countryman.",
+          "laymanExplanation": "You already paid and seller still must ship; trustee can demand delivery without assuming a new payment obligation.",
+          "legalExplanation": "§541 property can be valuable without §365 status.",
+          "examApplication": "Ask what material debtor obligation remains.",
+          "examTrap": "No §365 rejection power needed to free estate of nonexistent future liability."
+        },
+        {
+          "id": "bank-ch8-countryman-e5",
+          "type": "rule",
+          "title": "Option contracts and source's functional critique",
+          "page": "Ch.8 §B / Problem8.1(d)",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "An unexercised option to buy has special questions whether optionee's continuing obligations meet Countryman and how option expiration/§108 affect exercise; separate this from ordinary bilateral supply sale.",
+          "laymanExplanation": "An option isn't automatically identical to a signed purchase order.",
+          "legalExplanation": "Source sets October15 filing and November1 exercise deadline; later Problem8.7 builds on option's expiration.",
+          "examApplication": "Preserve legal issue of option executoriness and deadline without answering original problem.",
+          "examTrap": "Do not assume trustee can revive lapsed option merely because later market price rises."
+        },
+        {
+          "id": "bank-ch8-countryman-e6",
+          "type": "rule",
+          "title": "Countryman is tool, not sole mechanical definition",
+          "page": "Ch.8 §B / Sudbury",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "Legislative history broadly references performance 'due to some extent on both sides' but Sudbury cites Sixth Circuit purpose-based analysis: evaluate whether assumption/rejection would confer meaningful bankruptcy benefit.",
+          "laymanExplanation": "Ask whether rejecting really saves costs and assuming really wins useful rights.",
+          "legalExplanation": "Sudbury relies on material conditional relationship between promises, not trivial notice obligations.",
+          "examApplication": "Where Countryman odd fit examine bargain and administrative-priority consequences.",
+          "examTrap": "Don't quote legislative broad formulation as if binding Code definition."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-sudbury",
+      "title": "B. In re Sudbury (1993) — Full Insurance Contract Opinion",
+      "chapterGroup": "bank-ch8",
+      "description": "Retrospective premiums, notice/cooperation duties and no meaningful §365 choice.",
+      "entries": [
+        {
+          "id": "bank-ch8-sudbury-e1",
+          "type": "case",
+          "title": "In re Sudbury, Inc., 153 B.R. 776 (Bankr. N.D. Ohio 1993)",
+          "page": "Ch.8 §B / Sudbury full opinion",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "No. Bankruptcy court held policies and premium arrangements NOT executory: insurer's coverage is not conditioned on payment of retrospective premiums, and ancillary notice/cooperation does not furnish reciprocal materially unperformed consideration making whole policy executory. Debtor need not assume or reject.",
+          "laymanExplanation": "Outstanding obligations on both sides do NOT suffice if neither's unperformed obligation is material reciprocal basis for other's remaining performance; executoriness should reflect real §365 assumption/rejection function.",
+          "legalExplanation": "Countryman requires remaining duties whose material breach excuses other's performance. Bankruptcy clauses explicitly bar insurer termination for unpaid premiums caused by insolvency; cooperating with individual defense may affect coverage of that individual claim but not discharge insurer of ALL policy promises and is largely ministerial. Assumption gives estate no needed new coverage rights but creates unjustified full premium priority; rejection could improperly injure third-party claimants despite policies' survival. Prepetition premiums' priority decided under §503, not by artificial §365 executory label. Court invoked Sixth Circuit functional approach to purpose of assumption/rejection.",
+          "examApplication": "Discuss expired occurrence policies, retrospective premiums, mandatory bankruptcy clause, individual cooperation duties, insurer administrative-priority motive.",
+          "examTrap": "Holding did not eliminate insurer's possible defense to a PARTICULAR claim for actual noncooperation or rule a §503 claim can never qualify.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted from supplied Chapter 8",
+          "facts": "Chapter11 debtor Sudbury had expired occurrence-based policies from National Union and Continental covering injuries from BEFORE petition. Premium agreements called for retrospective annual premiums based on past covered claims, millions remained unpaid. Insurers still owed defense and indemnity on covered old occurrences; debtor still owed premiums and duties to timely give notice and cooperate. Policies stated insurer obligations survive insured bankruptcy/insolvency. Insurers wanted policies treated as executory to elevate retrospective premium debt to administrative expense. Debtor requested nonexecutory ruling or rejection.",
+          "issue": "Are expired occurrence-based policies 'executory' under Countryman because both insurer has outstanding claims obligations and debtor owes retrospective premiums/cooperation duties?",
+          "holding": "No. Bankruptcy court held policies and premium arrangements NOT executory: insurer's coverage is not conditioned on payment of retrospective premiums, and ancillary notice/cooperation does not furnish reciprocal materially unperformed consideration making whole policy executory. Debtor need not assume or reject.",
+          "reasoning": "Countryman requires remaining duties whose material breach excuses other's performance. Bankruptcy clauses explicitly bar insurer termination for unpaid premiums caused by insolvency; cooperating with individual defense may affect coverage of that individual claim but not discharge insurer of ALL policy promises and is largely ministerial. Assumption gives estate no needed new coverage rights but creates unjustified full premium priority; rejection could improperly injure third-party claimants despite policies' survival. Prepetition premiums' priority decided under §503, not by artificial §365 executory label. Court invoked Sixth Circuit functional approach to purpose of assumption/rejection.",
+          "rule": "Outstanding obligations on both sides do NOT suffice if neither's unperformed obligation is material reciprocal basis for other's remaining performance; executoriness should reflect real §365 assumption/rejection function."
+        },
+        {
+          "id": "bank-ch8-sudbury-e2",
+          "type": "rule",
+          "title": "Retrospective premium debt lacks reciprocity because of bankruptcy clause",
+          "page": "Ch.8 §B / Sudbury",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "Policy continued to cover past incidents regardless of debtor insolvency or unpaid premium; insurer did not gain right to stop coverage just because debtor failed to pay outstanding retrospective balance.",
+          "laymanExplanation": "Old coverage survives even though corporation didn't pay premium adjustments.",
+          "legalExplanation": "Countryman not satisfied simply by outstanding debt and ongoing coverage unrelated to debtor default.",
+          "examApplication": "Quote insolvency clause function and analyze cross-default excuse.",
+          "examTrap": "Don't confuse unperformed payment with material condition of insurer's coverage."
+        },
+        {
+          "id": "bank-ch8-sudbury-e3",
+          "type": "rule",
+          "title": "Cooperation duties per-claim, not exchange for entire policy",
+          "page": "Ch.8 §B / Sudbury",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "Notice, investigation cooperation, testimony, settlement consent and subrogation protection are ancillary; failure could allow insurer to contest PARTICULAR claim, not generally excuse every outstanding policy obligation.",
+          "laymanExplanation": "Missing evidence on one accident doesn't cancel insurer's other covered accidents.",
+          "legalExplanation": "State-law defenses to individual claims survive classification decision.",
+          "examApplication": "Distinguish conditional defense and contract-wide material repudiation.",
+          "examTrap": "Court didn't hold notice/cooperation clauses meaningless."
+        },
+        {
+          "id": "bank-ch8-sudbury-e4",
+          "type": "rule",
+          "title": "§503 governs premium administrative status",
+          "page": "Ch.8 §B / Sudbury",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "Insurers tried to force assumption and prefiling arrears paid at administrative priority, even though coverage already existed; judge insisted §503 normal actual/necessary test decides priority.",
+          "laymanExplanation": "Can't upgrade old invoices to top priority simply calling policy executory.",
+          "legalExplanation": "Relate Jartran Chapter5 principles and whether postpetition activities benefit estate.",
+          "examApplication": "If asked whether insurer deserves priority discuss actual new postpetition benefit independently.",
+          "examTrap": "An insurer may still have separate valid postpetition admin expense on different facts."
+        },
+        {
+          "id": "bank-ch8-sudbury-e5",
+          "type": "rule",
+          "title": "Rejection could impermissibly harm third-party victims",
+          "page": "Ch.8 §B / Sudbury",
+          "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+          "summary": "Treating old policies as rejectable could threaten liability payment to injured third parties, though the policies barred insolvency escape; estate got no reciprocal benefit from such maneuver.",
+          "laymanExplanation": "The real people needing defense and payments weren't parties choosing bankruptcy.",
+          "legalExplanation": "Functional approach aims to preserve claimants and avoid useless assumption/rejection.",
+          "examApplication": "Ask who actually gains if contract rejected.",
+          "examTrap": "Not correct to say every insurance policy categorically nonexecutory."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-problem8-1",
+      "title": "B. Original Problem 8.1(a)–(d): Countryman Classification (UNSOLVED)",
+      "chapterGroup": "bank-ch8",
+      "description": "Four purchase-performance and option hypotheticals.",
+      "entries": []
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch8-p8-1-a",
+      "topicId": "bank-ch8-problem8-1",
+      "title": "Problem 8.1(a) prepaid purchase",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+      "prompt": "Debtor pays Jones $5,000 for truckload of gizmos before petition; Jones has not delivered at filing. Is contract executory under Countryman? Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-1-b",
+      "topicId": "bank-ch8-problem8-1",
+      "title": "Problem 8.1(b) goods delivered, unpaid",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+      "prompt": "Jones already delivered truckload of gizmos; debtor has not paid $5,000 at filing. Is contract executory under Countryman? Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-1-c",
+      "topicId": "bank-ch8-problem8-1",
+      "title": "Problem 8.1(c) neither performed",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+      "prompt": "Debtor promised $5,000 in return for Jones's delivery of truckload of gizmos within 30 days; at petition NEITHER party performed. Determine executoriness, leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-1-d",
+      "topicId": "bank-ch8-problem8-1",
+      "title": "Problem 8.1(d) outstanding purchase option",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded Chapter 8 Executory Contracts, A Overview B Definition and full In re Sudbury (1993), casebook Problem 8.1",
+      "prompt": "Debtor has an OPTION to purchase truckload of gizmos for $5,000; option must be exercised by November1, petition filed October15. Is option executory under Countryman? Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
