@@ -1,0 +1,341 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+  "coverage": {
+    "chapter": 8,
+    "scope": "F.1 assumption effects, complete Klein Sleep Second Circuit case with source-era holding and note 2005 §503(b)(7) abrogation for commercial realty, cure/default, cum onere, ipso facto, financial accommodation and unexpired option; original Problems 8.7 & 8.8(a–d) unanswered"
+  },
+  "topics": [
+    {
+      "id": "bank-ch8-assumption-effects",
+      "title": "F.1(a) Assumption: Estate Substitution, Cure and Administrative Expense",
+      "chapterGroup": "bank-ch8",
+      "description": "Why formal assumption creates vastly more expensive debt than temporary use.",
+      "entries": [
+        {
+          "id": "bank-ch8-assumption-effects-e1",
+          "type": "rule",
+          "title": "Assumption makes estate a party to FULL executory contract",
+          "page": "Ch.8 §F.1(a)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Court-approved §365(a) assumption gives estate right to counterparty's performance, while estate assumes all contractual duties including future obligation and defaults, subject statutory exceptions.",
+          "laymanExplanation": "Unlike limbo, saying yes means company now fully owns obligations of the deal.",
+          "legalExplanation": "Estate replaces debtor in contract and cannot cherry-pick under cum onere.",
+          "examApplication": "Compare unpaid obligation before/after assumption in priority analysis.",
+          "examTrap": "Assumption isn't merely permission to use goods or tenancy for a week."
+        },
+        {
+          "id": "bank-ch8-assumption-effects-e2",
+          "type": "rule",
+          "title": "§365(b)(1) prefiling default cure, losses and future assurance",
+          "page": "Ch.8 §F.1(a)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Generally assumed defaulted contract requires cure or assurance of prompt cure, compensation of actual pecuniary loss or assurance, and adequate assurance of future performance.",
+          "laymanExplanation": "Old missed rent must be paid if landlord's lease truly assumed.",
+          "legalExplanation": "This elevates previously unsecured arrears above ordinary claimants as condition of valuable estate contract.",
+          "examApplication": "Write cure, compensate, assure as 3 separate elements.",
+          "examTrap": "Cure not optional simply because trustee claims assumption beneficial."
+        },
+        {
+          "id": "bank-ch8-assumption-effects-e3",
+          "type": "rule",
+          "title": "Assumed contract later breached/rejected creates administrative damages",
+          "page": "Ch.8 §F.1(a)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Once estate assumes contract, it is as if estate entered fresh postpetition deal; liability for later rejection/breach receives administration priority under §365(g)(2), generally not §502(b) limits—except special subsequently enacted §503(b)(7) for assumed commercial property leases.",
+          "laymanExplanation": "Risky long-term lease may wipe estate's administrative pool when failed reorganization returns premises.",
+          "legalExplanation": "Klein Sleep source illustrates historical uncapped version; casebook notes 2005 rule reversed lease-specific holding.",
+          "examApplication": "Always check assumption order date and whether (g)(2) applies.",
+          "examTrap": "Do not use Klein Sleep pre-2005 unlimited commercial lease rule as current statute."
+        },
+        {
+          "id": "bank-ch8-assumption-effects-e4",
+          "type": "rule",
+          "title": "Assumption can neutralize §547 preference recapture",
+          "page": "Ch.8 §F.1(a)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Source explains nondebtor who received prepetition preferential payments may retain them when contract assumed because full retroactive performance/cure required; preference liability cannot be used to undermine assumption's exchange.",
+          "laymanExplanation": "Landlord can retain cure payments otherwise questionable if contract gets fully assumed.",
+          "legalExplanation": "Rationale: estate entitled benefits only by honoring consideration; source uses §547 preference context.",
+          "examApplication": "Distinguish independent valid preference avoidance if contract not assumed.",
+          "examTrap": "Not all preferential transfers to all counterparties are exempt by contract existence."
+        },
+        {
+          "id": "bank-ch8-assumption-effects-e5",
+          "type": "rule",
+          "title": "Court's business judgment at time of assumption matters",
+          "page": "Ch.8 §F.1(a)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Approving assumption represents finding estate presently benefits from rights and obligations; bad later outcome does not retroactively undo value at approval.",
+          "laymanExplanation": "Lease useful in 2021 doesn't cease having benefited estate when store later closes.",
+          "legalExplanation": "Klein Sleep reasoned benefit exists in retaining immediate/future use and assignability.",
+          "examApplication": "When trustee regrets choice show risk allocation.",
+          "examTrap": "No automatic administrative priority if estate merely occupied without approval."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-klein-sleep",
+      "title": "F.1(a) In re Klein Sleep Products (1996) — Full Opinion and 2005 Override",
+      "chapterGroup": "bank-ch8",
+      "description": "Assumed lease rejected later, full administrative future rent holding and §503(b)(7) abrogation.",
+      "entries": [
+        {
+          "id": "bank-ch8-klein-sleep-e1",
+          "type": "case",
+          "title": "In re Klein Sleep Products, Inc., 78 F.3d 18 (2d Cir. 1996)",
+          "page": "Ch.8 §F.1 / Klein Sleep full opinion",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Second Circuit held ALL postrejection future rent on ASSUMED lease was administrative expense, and §502(b)(6) proof-of-claim cap did NOT apply to §503 admin expenses. But casebook explicitly notes Congress in 2005 enacted §503(b)(7), overturning this precise unlimited landlord treatment for assumed NONRESIDENTIAL realty lease.",
+          "laymanExplanation": "Assumption converts later breach/rejection of contract into administrative liability; Klein Sleep held uncapped full future rent for an ASSUMED lease under pre-2005 law, but §503(b)(7) later changed nonresidential lease result.",
+          "legalExplanation": "Calabresi reasoned assumption is itself a present postpetition estate benefit and choice judicially approved, despite later failing business; §365(g)(2) dates breach on later actual rejection, unlike §365(g)(1) unassumed deemed prefiling. §502(g) reaches unassumed contracts and §502(b)(6) prepetition claims, whereas admin expenses requested §503. Prior Bankruptcy Act practice also favored all future assumed lease claims; Calabresi analogized Dewsnup reading ambiguous Code consistent with pre-Code. Court discussed leverage to force renegotiation and how overgenerous future rent might hurt general creditors. Statutory source postscript warns subsequent change.",
+          "examApplication": "Distinguish ~$18k liquidation expense, ~$6.8k preliquidation admin rent, ~$80k rejected future rent under §502(b)(6) lower-court categorization; and new statute note.",
+          "examTrap": "Do NOT present unlimited admin rent as present controlling rule for post-2005 assumed commercial real property leases; source says specific holding reversed by §503(b)(7).",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted from Chapter8",
+          "facts": "Klein Sleep leased New Jersey retail store from Nostas, filed Chapter11 June1991 and court-approved assumption with cure of back rent. Estate paid through Oct1992; by Jan1993 reorganization failed and estate insufficient even for administration. New trustee rejected lease Jan29 1993 and gave premises back. Nostas requested priority for Nov92-Jan93 arrears and ALL future rent. Bankruptcy/district courts limited future rent to prepetition general unsecured §502(b)(6) one-year cap; Second Circuit reversed on source-era law.",
+          "issue": "Under then-existing Code, after estate assumes nonresidential lease and later REJECTS it, are FUTURE rental damages administrative priority rather than prepetition unsecured and are they capped by §502(b)(6)?",
+          "holding": "Second Circuit held ALL postrejection future rent on ASSUMED lease was administrative expense, and §502(b)(6) proof-of-claim cap did NOT apply to §503 admin expenses. But casebook explicitly notes Congress in 2005 enacted §503(b)(7), overturning this precise unlimited landlord treatment for assumed NONRESIDENTIAL realty lease.",
+          "reasoning": "Calabresi reasoned assumption is itself a present postpetition estate benefit and choice judicially approved, despite later failing business; §365(g)(2) dates breach on later actual rejection, unlike §365(g)(1) unassumed deemed prefiling. §502(g) reaches unassumed contracts and §502(b)(6) prepetition claims, whereas admin expenses requested §503. Prior Bankruptcy Act practice also favored all future assumed lease claims; Calabresi analogized Dewsnup reading ambiguous Code consistent with pre-Code. Court discussed leverage to force renegotiation and how overgenerous future rent might hurt general creditors. Statutory source postscript warns subsequent change.",
+          "rule": "Assumption converts later breach/rejection of contract into administrative liability; Klein Sleep held uncapped full future rent for an ASSUMED lease under pre-2005 law, but §503(b)(7) later changed nonresidential lease result."
+        },
+        {
+          "id": "bank-ch8-klein-sleep-e2",
+          "type": "rule",
+          "title": "Why court treated assumption as benefit even when store later failed",
+          "page": "Ch.8 §F.1 / Klein Sleep",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "At time of assumption estate acquired immediate and future occupancy/assignable value, approved as beneficial; later abandonment doesn't erase initial valid bargain.",
+          "laymanExplanation": "Buying an asset that later crashes was still a purchase.",
+          "legalExplanation": "§503(b)(1)(A) benefit analysis assessed at assumption, rather than postrejection zero ongoing use.",
+          "examApplication": "Consider whether originally assumed with express court order.",
+          "examTrap": "General limbo benefit-only rule isn't same as assumed obligations."
+        },
+        {
+          "id": "bank-ch8-klein-sleep-e3",
+          "type": "rule",
+          "title": "§365(g)(2) versus (g)(1) breach-date priority",
+          "page": "Ch.8 §F.1 / Klein Sleep",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Unassumed rejection deemed prepetition breach §365(g)(1); later rejection of assumed contract deemed postpetition breach §365(g)(2)(A), tending to administrative treatment.",
+          "laymanExplanation": "One contract can be cheap to reject BEFORE signing on, expensive after.",
+          "legalExplanation": "Klein emphasized missing analog of §502(g) for assumed contracts.",
+          "examApplication": "Draw two event timelines in exam.",
+          "examTrap": "Don't misstate all rejection damages prefiling regardless assumption."
+        },
+        {
+          "id": "bank-ch8-klein-sleep-e4",
+          "type": "rule",
+          "title": "§502(b)(6) claim cap not governing §503 administrative expense in old holding",
+          "page": "Ch.8 §F.1 / Klein Sleep",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Then-applicable cap for prepetition landlords under §502(b)(6) did not reach §503 admin expenses; 2005 §503(b)(7) statutorily changed special case.",
+          "laymanExplanation": "Landlord got broad priority under old judicial decision; Congress responded.",
+          "legalExplanation": "When writing exam label historical holding vs later statute as chapter instructs.",
+          "examApplication": "Explicitly cite §503(b)(7) before relying on Klein for nonres realty.",
+          "examTrap": "Court's historic reading should not override amended statute."
+        },
+        {
+          "id": "bank-ch8-klein-sleep-e5",
+          "type": "rule",
+          "title": "Delay or renegotiation as leverage after Klein",
+          "page": "Ch.8 §F.1 / Klein Sleep",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Calabresi suggested courts may delay assumption choices and nudge DIP and landlord to mutually renegotiate shorter/less risky leases rather than forced binary choice; 2005 limited extensions for nonres lease constrain this strategy.",
+          "laymanExplanation": "Both sides can trade certainty for smaller rent exposure.",
+          "legalExplanation": "Book asks whether judge wanted to nullify 1984 §365(d)(4) limits and explains 2005 tightening.",
+          "examApplication": "In legal analysis distinguish source-era rhetoric from current deadlines.",
+          "examTrap": "Not a right to unlimited delay under revised §365(d)(4)."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-assumption-limits",
+      "title": "F.1(b) Limits: Alive Contract, Cum Onere, Cure, Ipso Facto and Financing",
+      "chapterGroup": "bank-ch8",
+      "description": "The detailed conditions that can bar or reshape assumed agreement.",
+      "entries": [
+        {
+          "id": "bank-ch8-assumption-limits-e1",
+          "type": "rule",
+          "title": "Contract must still exist at petition date",
+          "page": "Ch.8 §F.1(b)(i)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Bankruptcy estate under §541 cannot assume contract or option already FULLY terminated by nonbankruptcy law before filing; mere default while notice/cure window still open is different.",
+          "laymanExplanation": "Expired right cannot be resurrected just because price skyrockets in bankruptcy.",
+          "legalExplanation": "Distinguish complete termination, impending contractual deadline and continuing right.",
+          "examApplication": "For Problem8.7 assess option expiration and whether §108(b),§365(d)(2) change deadline.",
+          "examTrap": "Don't say all defaults erase contract."
+        },
+        {
+          "id": "bank-ch8-assumption-limits-e2",
+          "type": "rule",
+          "title": "§108(b) at least 60-day extension may protect cure, §365 timing perhaps longer",
+          "page": "Ch.8 §F.1(b)(i)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "If cure period unexpired on filing, §108(b) generally extends cure to later contractual/statutory deadline or 60 days after filing. Book suggests better view for §365 assumption cure may provide longer chapter-specific deadline such as to confirmation.",
+          "laymanExplanation": "Contract notice says 10 days, company files day9: bankruptcy may give additional time.",
+          "legalExplanation": "Source distinguishes general extension from bankruptcy special cure to assume; unresolved doctrinal nuances.",
+          "examApplication": "Identify contract deadline, prefiling expiration and special election time.",
+          "examTrap": "Do not apply §108(b) indiscriminately to revive expired option."
+        },
+        {
+          "id": "bank-ch8-assumption-limits-e3",
+          "type": "rule",
+          "title": "Cum onere: estate takes ALL burdens, not selective clauses",
+          "page": "Ch.8 §F.1(b)(ii)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Assumption includes entire bargain and less favorable contract terms, except Code-specific overrides such as ipso facto and cure exceptions.",
+          "laymanExplanation": "Can't keep cheap rent but refuse valid store-use restrictions unless bankruptcy exception actually applies.",
+          "legalExplanation": "Court protects nondebtor's exchange of consideration when estate demands benefits.",
+          "examApplication": "List relevant rent/use/exclusivity terms then permitted statutory modifications.",
+          "examTrap": "Not every unfavorable term automatically invalid."
+        },
+        {
+          "id": "bank-ch8-assumption-limits-e4",
+          "type": "rule",
+          "title": "§365(e)(1) ipso facto clauses invalid for ordinary contracts",
+          "page": "Ch.8 §F.1(b)(ii)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Termination or modification triggered solely by filing bankruptcy, insolvency, financial condition or similar factors generally not enforceable; §§365(b)(2)(A)–(C) remove cure for ipso facto default.",
+          "laymanExplanation": "Landlord can't end ordinary lease solely because company filed Chapter11.",
+          "legalExplanation": "Check exception where applicable law excuses performance or financial accommodation §365(e)(2).",
+          "examApplication": "Distinguish default for UNPAID rent (curable) from default SOLELY filing.",
+          "examTrap": "Nonbankruptcy personal service/financing exceptions can change result."
+        },
+        {
+          "id": "bank-ch8-assumption-limits-e5",
+          "type": "rule",
+          "title": "§365(b)(1) three-part cure test",
+          "page": "Ch.8 §F.1(b)(iii)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "If actual default: cure promptly (or assurance), compensate actual pecuniary loss (or assurance), and assure future performance. Shopping-center §365(b)(3) adds stricter assurance.",
+          "laymanExplanation": "Pay back rent, compensate real injury and prove future financial ability.",
+          "legalExplanation": "Default cure requirement separate from §365(a) business judgment approval.",
+          "examApplication": "Use formal three-step checklist in 8.8.",
+          "examTrap": "Don't substitute proposed future plan optimism for concrete adequate assurance."
+        },
+        {
+          "id": "bank-ch8-assumption-limits-e6",
+          "type": "rule",
+          "title": "No obligation to cure penalty-only default provisions §365(b)(2)(D)",
+          "page": "Ch.8 §F.1(b)(iii)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "For assumption trustee need not pay pure contractual penalty not tied to actual monetary loss; must still remedy breach and compensate real damages.",
+          "laymanExplanation": "$75k punishment for short business closure may be separable from actual financial injury.",
+          "legalExplanation": "Book contrasts liquidated-damages/50% rent escalation under facts without answering their precise classification.",
+          "examApplication": "Classify actual loss vs penalty and check enforceability rather than automatically waive every default escalation.",
+          "examTrap": "Not all contractually labelled 'liquidated damages' are necessarily pure noncompensatory penalty."
+        },
+        {
+          "id": "bank-ch8-assumption-limits-e7",
+          "type": "rule",
+          "title": "Incurable nonmonetary default and 'going dark' rule",
+          "page": "Ch.8 §F.1(b)(iii)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "2005 §365(b)(1)(A) exempts cure of incurable nonmoney default; going-dark nonresidential lease failure to operate cured by resuming contractually required business upon assumption, while actual monetary loss still compensable and future assurance required.",
+          "laymanExplanation": "If restaurant closed during bankruptcy, may be able to cure by reopening as agreed, not by switching to unrelated business.",
+          "legalExplanation": "Use clause and shopping center strictness may prevent different retail operation.",
+          "examApplication": "For 8.8 distinguish failure to operate from changing snowmobile-use clause.",
+          "examTrap": "Don't say reopening *any* enterprise automatically cures a stipulated use restriction."
+        },
+        {
+          "id": "bank-ch8-assumption-limits-e8",
+          "type": "rule",
+          "title": "Shopping-center §365(b)(3) demands rigorous compliance",
+          "page": "Ch.8 §F.1(b)(iii)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Special assurance covers source of rent, assignee comparable financial position, percentage rents, lease/master agreements including use/exclusivity/radius, tenant mix; nonshopping-center use deviations may be allowed under Martin Paint.",
+          "laymanExplanation": "A mall tenant cannot freely replace snowmobile dealer with Chinese takeout against all lease terms.",
+          "legalExplanation": "Congress protects economic reliance of whole carefully planned center.",
+          "examApplication": "If fact says 'shopping center', highlight stricter rules before considering cure.",
+          "examTrap": "Nonshopping-center actual-detriment flexibility does not carry automatically into shopping centers."
+        },
+        {
+          "id": "bank-ch8-assumption-limits-e9",
+          "type": "rule",
+          "title": "§365(c)(2) financial accommodation contracts categorically nonassumable",
+          "page": "Ch.8 §F.1(b)(iii)",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "Executory agreement to make a LOAN or extend debt financing/financial accommodation can't be assumed/assigned even with creditor consent under §365(c)(2); debtor must use §364 to authorize new bankruptcy credit; §365(e)(2)(B) permits ipso facto for these.",
+          "laymanExplanation": "Bankruptcy cannot force bank to advance undisbursed old line of credit.",
+          "legalExplanation": "Granting new priority debt affects all unsecured creditors, so court-controlled postpetition finance only.",
+          "examApplication": "Distinguish contractual promise to lend from debtor's duty to repay existing loan.",
+          "examTrap": "Do not rely on §365(e)(1) general ipso facto protection for lending commitments."
+        },
+        {
+          "id": "bank-ch8-assumption-limits-e10",
+          "type": "rule",
+          "title": "Personal service nondelegability differs from ordinary antiassignment clause",
+          "page": "Ch.8 §F.1(b)(iii) / F.3",
+          "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+          "summary": "§365(c)(1) may prohibit assumptions/assignments when applicable law independently excuses person from accepting third-party performance without consent (e.g. special personal-service/patent contexts).",
+          "laymanExplanation": "A client hired a specific painter, cannot be forced to accept substitute stranger.",
+          "legalExplanation": "Catapult and Magness give nuanced statutory interpretation in §F.3.",
+          "examApplication": "Identify contract clause-only restriction versus outside law identity-based rule.",
+          "examTrap": "Not all personal service contracts exactly equivalent to money-lending contract §365(c)(2)."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-problems8-7-8",
+      "title": "F.1 Original Problems 8.7 and 8.8(a–d) (UNSOLVED)",
+      "chapterGroup": "bank-ch8",
+      "description": "Option expiration, shopping center snowmobiles, defaults, damages and rent increases.",
+      "entries": []
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch8-p8-7",
+      "topicId": "bank-ch8-problems8-7-8",
+      "title": "Problem 8.7 option expires before price shock",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+      "prompt": "As 8.1(d), debtor option to buy truckload $5,000 from Jones must be exercised Nov1, files Chapter11 October15. International Brotherhood of Gizmo Workers strike Dec20 makes market price skyrocket to $15,000. On Dec21 DIP moves to exercise $5k option and assume underlying sale contract. Analyze contract existence/expiry, §108(b), §365 and option rights WITHOUT outcome.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-8-a",
+      "topicId": "bank-ch8-problems8-7-8",
+      "title": "Problem 8.8(a) dolls use default",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+      "prompt": "Shopping center lease only permits sale/rental/service/repair of SNOWMOBILES and related equipment; ceasing required business for 5 consecutive business days defaults/permits termination and $75,000 liquidated damages. Rent escalation adds 50% to month for late rent. Mild winter drives January debtor to sell 'Weeny Baby' dolls, Feb1 closes snowmobile store/files Chapter11 and misses $5,000 Feb1 rent. Feb15 seeks to assume while proposing to reopen as Chinese take-out restaurant, offering $5,000 back rent. Must Debtor cure the January 'Weeny Baby' use clause violation to assume? Analyze classification and statutory exceptions; leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-8-b",
+      "topicId": "bank-ch8-problems8-7-8",
+      "title": "Problem 8.8(b) $75k damages",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+      "prompt": "Shopping center lease only permits sale/rental/service/repair of SNOWMOBILES and related equipment; ceasing required business for 5 consecutive business days defaults/permits termination and $75,000 liquidated damages. Rent escalation adds 50% to month for late rent. Mild winter drives January debtor to sell 'Weeny Baby' dolls, Feb1 closes snowmobile store/files Chapter11 and misses $5,000 Feb1 rent. Feb15 seeks to assume while proposing to reopen as Chinese take-out restaurant, offering $5,000 back rent. Must $75,000 liquidated damages be paid on assumption or is it noncompensatory penalty under §365(b)(2)(D)? Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-8-c",
+      "topicId": "bank-ch8-problems8-7-8",
+      "title": "Problem 8.8(c) going-dark reopening as Chinese takeout",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+      "prompt": "Shopping center lease only permits sale/rental/service/repair of SNOWMOBILES and related equipment; ceasing required business for 5 consecutive business days defaults/permits termination and $75,000 liquidated damages. Rent escalation adds 50% to month for late rent. Mild winter drives January debtor to sell 'Weeny Baby' dolls, Feb1 closes snowmobile store/files Chapter11 and misses $5,000 Feb1 rent. Feb15 seeks to assume while proposing to reopen as Chinese take-out restaurant, offering $5,000 back rent. Does proposed Chinese take-out operation cure lease going-dark default under §365(b)(1)(A), shopping-center required use and adequate assurance? Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch8-p8-8-d",
+      "topicId": "bank-ch8-problems8-7-8",
+      "title": "Problem 8.8(d) escalation $5000 or $7500",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "Uploaded Chapter8 §F.1 assumption, full In re Klein Sleep Products (1996), §365(b),(c),(e), original Problems 8.7 and 8.8(a)-(d) UNSOLVED",
+      "prompt": "Shopping center lease only permits sale/rental/service/repair of SNOWMOBILES and related equipment; ceasing required business for 5 consecutive business days defaults/permits termination and $75,000 liquidated damages. Rent escalation adds 50% to month for late rent. Mild winter drives January debtor to sell 'Weeny Baby' dolls, Feb1 closes snowmobile store/files Chapter11 and misses $5,000 Feb1 rent. Feb15 seeks to assume while proposing to reopen as Chinese take-out restaurant, offering $5,000 back rent. Which February overdue rent payment, $5,000 or $7,500, must be paid under §365(b) to assume? Consider penalty vs actual loss; leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
