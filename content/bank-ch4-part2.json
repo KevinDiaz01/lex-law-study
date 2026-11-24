@@ -1,0 +1,325 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+  "coverage": {
+    "chapter": 4,
+    "scope": "§B.2 Secured Creditors and Turnover of Repossessed Collateral; full Whiting Pools and Fulton opinions; Sotomayor concurrence",
+    "casebookOpinionQuestions": "11 Fulton questions and 2 introductory questions included in separate source-based practice file",
+    "note": "Book text explains historical 2020 turnover procedure metrics; not assumed current."
+  },
+  "topics": [
+    {
+      "id": "bank-ch4-turnover-bridge",
+      "title": "B.2 — Repossessed Collateral: §541 Estate, §542 Turnover and §363 Adequate Protection",
+      "chapterGroup": "bank-ch4",
+      "description": "Why turnover and stay are two different statutes and secured creditor protections.",
+      "entries": [
+        {
+          "id": "bank-ch4-turnover-bridge-e1",
+          "type": "rule",
+          "title": "Prepetition repossession does not necessarily transfer ownership",
+          "page": "Ch.4 §B.2 (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "A secured creditor may legally seize equipment/auto prefiling but debtor may still have residual ownership; §541 estate can capture that interest, and §542(a) may require creditor to return property for estate use.",
+          "laymanExplanation": "A repossession isn't necessarily a sale: lender has custody while debtor may still legally own vehicle.",
+          "legalExplanation": "Whiting Pools tax levy gave IRS possessory lien, not title; ownership changed only upon later tax sale.",
+          "examApplication": "Ask whether creditor merely seized collateral or completed valid foreclosure sale prepetition.",
+          "examTrap": "If ownership transferred before petition, turnover question fundamentally different."
+        },
+        {
+          "id": "bank-ch4-turnover-bridge-e2",
+          "type": "rule",
+          "title": "§542(a): statutory turnover of useful estate property",
+          "page": "Ch.4 §B.2 (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Entity other than custodian in possession/custody/control during case of property estate representative may use/sell/lease under §363 (or debtor exempt §522) generally shall deliver/account, except inconsequential value/benefit and other terms.",
+          "laymanExplanation": "Trustee/DIP can seek court return of car or equipment needed to manage estate.",
+          "legalExplanation": "Whiting Pools confirms even secured creditor/IRS must comply with turnover when property qualifies; Fulton preserves distinct enforcement process.",
+          "examApplication": "Start with property-of-estate ownership, §363 use eligibility and §542 exceptions; don't skip these before remedy.",
+          "examTrap": "A right to turnover doesn't itself mean every refusal is violation of §362(a)(3)."
+        },
+        {
+          "id": "bank-ch4-turnover-bridge-e3",
+          "type": "rule",
+          "title": "§363(e) adequate protection substitutes for secured possession",
+          "page": "Ch.4 §B.2 (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Trustee/DIP use of collateral subject to secured lien must protect creditor's lien value upon request via statutory conditions; use/sale protections replace prebankruptcy leverage of exclusive possession.",
+          "laymanExplanation": "Bank may return work truck, but court can require insured collateral or periodic payments so lien doesn't deteriorate.",
+          "legalExplanation": "Whiting Pools bankruptcy court required $20,000 upfront, $1,000/month and IRS continued lien, with relief from stay if missed payments (case footnote).",
+          "examApplication": "If creditor demands protection, analyze lien value, insurance, cash payments, replacement lien etc.",
+          "examTrap": "Turnover does not destroy lien or require ignoring lawful request for adequate protection."
+        },
+        {
+          "id": "bank-ch4-turnover-bridge-e4",
+          "type": "rule",
+          "title": "Repossess before filing ≠ sell after filing",
+          "page": "Ch.4 §B.2 (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Keeping collateral seized before bankruptcy and selling it after bankruptcy are distinct actions. Fulton protects passive possession from (a)(3), not new affirmative postfiling disposition.",
+          "laymanExplanation": "Creditor can remain where it was at filing under narrow stay rule; auctioning car afterward changes status quo.",
+          "legalExplanation": "Compare Problem 4.1(a) fresh seizure; (b) later sale after prior seizure; and Fulton mere retention.",
+          "examApplication": "Always mark both seizure time and title-transfer sale time.",
+          "examTrap": "Don't extend Fulton to permit foreclosure sale after filing."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch4-whiting-pools",
+      "title": "B.2 — United States v. Whiting Pools: Turnover of Previously Seized Equipment",
+      "chapterGroup": "bank-ch4",
+      "description": "Supreme Court full majority; IRS tax levy, remaining debtor ownership, §542(a) and adequate protection.",
+      "entries": [
+        {
+          "id": "bank-ch4-whiting-pools-e1",
+          "type": "case",
+          "title": "United States v. Whiting Pools, Inc., 462 U.S. 198 (1983)",
+          "page": "Ch.4 §B.2 / Whiting Pools opinion (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Yes. §542(a) applies to debtor property previously seized by secured creditor; reorganization estate may use it subject to secured creditor adequate protection. IRS tax levy alone did not transfer ownership. Supreme Court affirmed Second Circuit.",
+          "laymanExplanation": "When debtor retains ownership at filing, estate can compel turnover of collateral seized prebankruptcy and useful for §363 operations, without extinguishing secured lien; creditor may demand adequate protection.",
+          "legalExplanation": "Blackmun harmonized estate breadth §541, turnover §542, use §363 and business-rehabilitation goal. Secured assets are included even if not in debtor's hands at commencement; lienholder receives adequate protection under §363(e), not exclusive retention. IRS is an 'entity' and no tax exemption exists. Tax seizure/levy gave lien and custody but title passes only upon bona fide purchaser tax sale, surplus otherwise returns debtor. Pre-Code reorganizations similarly recovered collateral.",
+          "examApplication": "Use numerical comparison $35k breakup vs $162,876 business use; distinguish secured tax interest from debtor legal title; identify statutory turnover and protection steps.",
+          "examTrap": "Don't say IRS lien or setoff rights vanish, or that filing automatically orders IRS to return property without process.",
+          "assignedOpinion": true,
+          "sourceRole": "Full opinion excerpted in Chapter 4",
+          "facts": "Swimming pool equipment business owed roughly $92,000 in payroll/social-security-related federal taxes. IRS tax lien attached; Jan.14,1981 IRS levied and seized operating equipment, trucks, inventory and supplies worth at most $35,000 in forced liquidation but $162,876 as part of operating company. Jan.15 Chapter 11 petition; DIP sought turnover under §542(a) to reorganize. IRS argued secured levy removed assets; bankruptcy court ordered return with adequate protection, appellate court approved.",
+          "issue": "May bankruptcy court order IRS (a secured creditor) to return property lawfully seized on tax lien before Chapter 11 petition where IRS had not yet completed title-passing tax sale?",
+          "holding": "Yes. §542(a) applies to debtor property previously seized by secured creditor; reorganization estate may use it subject to secured creditor adequate protection. IRS tax levy alone did not transfer ownership. Supreme Court affirmed Second Circuit.",
+          "reasoning": "Blackmun harmonized estate breadth §541, turnover §542, use §363 and business-rehabilitation goal. Secured assets are included even if not in debtor's hands at commencement; lienholder receives adequate protection under §363(e), not exclusive retention. IRS is an 'entity' and no tax exemption exists. Tax seizure/levy gave lien and custody but title passes only upon bona fide purchaser tax sale, surplus otherwise returns debtor. Pre-Code reorganizations similarly recovered collateral.",
+          "rule": "When debtor retains ownership at filing, estate can compel turnover of collateral seized prebankruptcy and useful for §363 operations, without extinguishing secured lien; creditor may demand adequate protection."
+        },
+        {
+          "id": "bank-ch4-whiting-pools-e2",
+          "type": "rule",
+          "title": "§541 broad inclusion aided by §542",
+          "page": "Ch.4 §B.2 / Whiting Pools (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Even debtor property in creditor's prefiling possession is within scope of Chapter 11 estate where debtor retains interest and turnover can supply use rights.",
+          "laymanExplanation": "The basket can include assets held by someone else, not just what debtor physically possesses.",
+          "legalExplanation": "The court rejected narrow reading that only possession at filing counts under §541(a)(1).",
+          "examApplication": "Assess estate interest first rather than only physical location.",
+          "examTrap": "Don't equate seizure with transfer of all debtor interests."
+        },
+        {
+          "id": "bank-ch4-whiting-pools-e3",
+          "type": "rule",
+          "title": "Going concern vs forced sale numbers",
+          "page": "Ch.4 §B.2 / Whiting Pools (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "IRS claim ~92,000; levy-sale estimated $35,000; business going-concern value $162,876; necessary productive property may yield higher shared recovery if reorganized.",
+          "laymanExplanation": "A pool installer needs trucks and equipment to create revenue; selling them for a fraction may hurt everyone.",
+          "legalExplanation": "Going-concern protection is rationale, not mathematical guarantee of successful plan; lien may still be paid/adequately protected.",
+          "examApplication": "When given two valuations, compare $162,876/$35,000≈4.65 but don't use ratio as legal presumption.",
+          "examTrap": "Higher value does not automatically justify denying adequate protection."
+        },
+        {
+          "id": "bank-ch4-whiting-pools-e4",
+          "type": "rule",
+          "title": "IRS tax levy differs from completed tax sale",
+          "page": "Ch.4 §B.2 / Whiting Pools (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "IRS has secured tax lien and seized possession but not ownership until completed tax sale to bona fide purchaser; unencumbered excess belongs debtor.",
+          "laymanExplanation": "Seized truck can still be debtor's property until ownership is sold.",
+          "legalExplanation": "Tax statutes recognized surplus and debtor as owner before sale; IRS covered as governmental 'entity'.",
+          "examApplication": "Ask what procedure was completed by petition, not merely whether IRS took keys.",
+          "examTrap": "Whiting Pools doesn't imply trustee can reclaim all property already sold to buyer before filing."
+        },
+        {
+          "id": "bank-ch4-whiting-pools-e5",
+          "type": "rule",
+          "title": "Adequate protection specific conditions in footnote",
+          "page": "Ch.4 §B.2 / Whiting Pools (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Bankruptcy court ordered Whiting to pay IRS $20k before turnover, $1k monthly until satisfied, preserve tax lien, with stay relief if debtor defaulted; exact arrangement grounded in case footnote.",
+          "laymanExplanation": "Return isn't free: business receives equipment in exchange for safeguarding IRS's lien.",
+          "legalExplanation": "§363(e) imposes protection on request; Chapter 7 of casebook later studies adequate-protection details.",
+          "examApplication": "Reference these precise conditions when asked whether secured creditor loses security.",
+          "examTrap": "Don't misstate monthly payments as nationwide statutory minimum."
+        },
+        {
+          "id": "bank-ch4-whiting-pools-e6",
+          "type": "rule",
+          "title": "Whiting Pools issue is §542 turnover, not mere §362(a)(3) violation",
+          "page": "Ch.4 §B.2 / Whiting Pools (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "The Court decided property/turnover duty, not that IRS's passive refusal automatically violated stay; Fulton later explicitly separated issues.",
+          "laymanExplanation": "One case asks 'must they give it back under turnover law?' not 'did keeping it itself break automatic stay?'",
+          "legalExplanation": "Distinction crucial to reconciling both cases without treating Fulton as overruling Whiting Pools.",
+          "examApplication": "Answer both questions separately in repossession problem.",
+          "examTrap": "Fulton did not eliminate §542 remedy."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch4-fulton",
+      "title": "B.2 — City of Chicago v. Fulton: Passive Retention Is Not §362(a)(3) Violation",
+      "chapterGroup": "bank-ch4",
+      "description": "Full unanimous Supreme Court opinion plus Sotomayor concurrence, status quo, surplusage/contradiction and unresolved sections.",
+      "entries": [
+        {
+          "id": "bank-ch4-fulton-e1",
+          "type": "case",
+          "title": "City of Chicago v. Fulton, 592 U.S. 154 (2021) (141 S. Ct. 585)",
+          "page": "Ch.4 §B.2 / Fulton opinion and concurrence (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "No. Mere passive retention of estate property after filing does not violate §362(a)(3). Court vacated and remanded; did not decide §542 enforcement or other §362(a) paragraphs.",
+          "laymanExplanation": "Passive preservation of possession lawfully obtained before filing does not, by itself, violate §362(a)(3); turnover eligibility remains under separate §542 with creditor adequate protection.",
+          "legalExplanation": "Alito interpreted 'stay,' 'act,' 'exercise control' to restrain postfiling affirmative change to petition-date status quo, not compel affirmative delivery. Otherwise §542 turnover mandate becomes largely redundant and sometimes contradictory because §542 has exceptions (e.g. inconsequential value). 1984 'exercise control' amendment broadens prohibition on new intangible/nonpossessory control acts, not mandatory turnover. Sotomayor concurred, stressing possible §§362(a)(4),(6) violations, unresolved §542 procedure and harmful delays for working-class debtors needing cars.",
+          "examApplication": "Apply to prefiling impound vs later lien enforcement, boot activation, sale, car return demand, creditor payment condition and distinct sections.",
+          "examTrap": "Do NOT claim city has unconditional right to retain forever, that §542 is unenforceable, or that Court ruled on (a)(4)/(6).",
+          "assignedOpinion": true,
+          "sourceRole": "Full opinion excerpted in Chapter 4",
+          "facts": "Chicago seized four debtors' cars prepetition for unpaid parking/traffic fines. They later filed Chapter 13 and requested cars for employment/repayment; city refused return until upfront payment or plan confirmation. Bankruptcy courts and Seventh Circuit held retention violated §362(a)(3) exercising control over estate property.",
+          "issue": "Does creditor violate automatic stay §362(a)(3) solely by retaining property it lawfully seized before the bankruptcy filing rather than turning it over immediately?",
+          "holding": "No. Mere passive retention of estate property after filing does not violate §362(a)(3). Court vacated and remanded; did not decide §542 enforcement or other §362(a) paragraphs.",
+          "reasoning": "Alito interpreted 'stay,' 'act,' 'exercise control' to restrain postfiling affirmative change to petition-date status quo, not compel affirmative delivery. Otherwise §542 turnover mandate becomes largely redundant and sometimes contradictory because §542 has exceptions (e.g. inconsequential value). 1984 'exercise control' amendment broadens prohibition on new intangible/nonpossessory control acts, not mandatory turnover. Sotomayor concurred, stressing possible §§362(a)(4),(6) violations, unresolved §542 procedure and harmful delays for working-class debtors needing cars.",
+          "rule": "Passive preservation of possession lawfully obtained before filing does not, by itself, violate §362(a)(3); turnover eligibility remains under separate §542 with creditor adequate protection.",
+          "concurrence": "Justice Sotomayor joined narrow majority but emphasized §362(a)(4),(6) and §542 may afford other remedies; slow adversary turnover harms Chapter 13 workers and all creditors. Policy fix should come from Congress/rulemakers."
+        },
+        {
+          "id": "bank-ch4-fulton-e2",
+          "type": "rule",
+          "title": "Three key operative words: stay, act, exercise control",
+          "page": "Ch.4 §B.2 / Fulton (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "In §362(a)(3), the normal sense of stayed 'act' exercising 'control' contemplates an affirmative exercise changing status quo at petition, not mere failure to return previously possessed object.",
+          "laymanExplanation": "Holding your existing position is different from doing something new to seize/control asset.",
+          "legalExplanation": "Court acknowledges omissions sometimes can be 'acts', but reads provision structurally with §542.",
+          "examApplication": "Compare creditor's remote postpetition ignition cut-off and old installed device remaining active.",
+          "examTrap": "Avoid rule that mere continued possession is new affirmative act solely because debtor demands return."
+        },
+        {
+          "id": "bank-ch4-fulton-e3",
+          "type": "rule",
+          "title": "§542 surplusage objection",
+          "page": "Ch.4 §B.2 / Fulton (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "If §362(a)(3) already automatically demanded turnover, detailed §542(a) mandate to deliver estate property would do nearly no independent work.",
+          "laymanExplanation": "Why write a special return-property law if automatic stay already requires return every time?",
+          "legalExplanation": "Statutory interpretation gives separate jobs: §362 freezes new interfering acts, §542 commands delivery via bankruptcy process.",
+          "examApplication": "Explain statutory redundancy as key holding support.",
+          "examTrap": "Don't reduce this case to dictionary analysis alone."
+        },
+        {
+          "id": "bank-ch4-fulton-e4",
+          "type": "rule",
+          "title": "§542 contradiction and exception for inconsequential value",
+          "page": "Ch.4 §B.2 / Fulton (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "§542(a) excuses turnover of inconsequential-value estate property; sweeping mandatory §362(a)(3) turnover would contradict it by requiring return anyway.",
+          "laymanExplanation": "The turnover statute says ‘don't bother returning worthless thing’ while stay can't silently order return of everything.",
+          "legalExplanation": "Whole-Code harmony led to narrower automatic stay construction.",
+          "examApplication": "If estate-value issue in car hypothetical, analyze §542 benefit separately.",
+          "examTrap": "Do not erase §542's statutory exceptions."
+        },
+        {
+          "id": "bank-ch4-fulton-e5",
+          "type": "rule",
+          "title": "1984 amendment rationale: nonpossessory control",
+          "page": "Ch.4 §B.2 / Fulton (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Congress added §362(a)(3) 'or to exercise control' in 1984, naturally covering new acts of control over intangible property and physical property short of seizure; text did not expressly mandate turnover.",
+          "laymanExplanation": "Remote booting a car or altering an intangible license postfiling may be act controlling property without taking it.",
+          "legalExplanation": "Court pointed to 1978 separate turnover and stay statutes, lack of 1984 cross-reference and status-quo function.",
+          "examApplication": "Problems ask about insurance cancellation and derivative action; evaluate control over debtor's property interest.",
+          "examTrap": "Do not assert Court decided any specific boot/kill-switch hypothetical."
+        },
+        {
+          "id": "bank-ch4-fulton-e6",
+          "type": "rule",
+          "title": "Distinguish present possession from postpetition sale or seizure",
+          "page": "Ch.4 §B.2 / Fulton (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Retention is passive only to extent creditor merely preserves existing possession. New disposal, fresh repossession, boot or obstructive use after filing may be affirmative acts.",
+          "laymanExplanation": "Keeping vehicle in lot differs from auctioning it after filing.",
+          "legalExplanation": "Case footnote expressly distinguishes afterpetition sale of already impounded vehicle.",
+          "examApplication": "On Problem 4.1(b) identify postpetition 2pm sale after 1:59 petition.",
+          "examTrap": "Fulton doesn't create blanket permission to complete foreclosure."
+        },
+        {
+          "id": "bank-ch4-fulton-e7",
+          "type": "rule",
+          "title": "Sotomayor concurrence: other stay sections left open",
+          "page": "Ch.4 §B.2 / Fulton concurrence (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Other paragraphs §362(a)(4) lien enforcement and (a)(6) claim collection may apply if city conditions return on payment, but majority expressly did not reach them.",
+          "laymanExplanation": "Parking-fine collector might be breaking another stop sign even if (a)(3) isn't the one.",
+          "legalExplanation": "She cites Kuehn withheld transcript; Chapter 13 workers need car to produce plan payments, and city demands may be coercion.",
+          "examApplication": "Separate pure passive hold from explicit 'pay $1,250 to get car back' demand, plus possible (a)(4)/(6).",
+          "examTrap": "Concurrence is not holding that all city retentions violated other sections."
+        },
+        {
+          "id": "bank-ch4-fulton-e8",
+          "type": "rule",
+          "title": "Sotomayor's practical problem: delayed turnover process",
+          "page": "Ch.4 §B.2 / Fulton concurrence (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Court left §542 enforcement open. Turnover property recovery typically required adversary proceedings (Rule 7001(1)); Sotomayor described 2019–2020 case data averaging more than 100 days to finish.",
+          "laymanExplanation": "A debtor without car could lose job while waiting over 3 months for order, undermining repayment to every creditor.",
+          "legalExplanation": "She suggested rule amendments or Congress expedite vehicle turnover and adequate-protection adjudications.",
+          "examApplication": "Use policy analysis to argue how procedural delay changes Chapter 13 feasibility.",
+          "examTrap": "2019–20 statistics are source-era, not verified current."
+        },
+        {
+          "id": "bank-ch4-fulton-e9",
+          "type": "rule",
+          "title": "§542(a) and adequate protection — still meaningful after Fulton",
+          "page": "Ch.4 §B.2 / Fulton concurrence (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Debtor may request turnover under §542(a) subject to conditions and may need to demonstrate sufficient insurance/adequate protection under §363(e); creditor can't opt out of bankruptcy process merely by withholding.",
+          "laymanExplanation": "A court can compel car return once protections for lien recognized; statute not optional.",
+          "legalExplanation": "Whiting Pools plus Fulton: existence of duty and enforcement of stay are distinct; question whether §542 self-executing unresolved by Fulton.",
+          "examApplication": "If creditor asks for adequate protection, flag that court must address request before use.",
+          "examTrap": "Do not assume §362(a)(3) automatically forces immediate delivery even if §542 case viable."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch4-turnover-synthesis",
+      "title": "B.2 — Turnover vs Stay: Rapid Case Comparison and Exam Workflow",
+      "chapterGroup": "bank-ch4",
+      "description": "Three cases Strumpf, Whiting Pools and Fulton as distinct doctrines.",
+      "entries": [
+        {
+          "id": "bank-ch4-turnover-synthesis-e1",
+          "type": "concept",
+          "title": "Three-case doctrine map",
+          "page": "Ch.4 §B.1–2 (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Strumpf: bank temporary hold ≠ setoff; Whiting Pools: seized useful debtor property can be ordered turned over; Fulton: retaining pre-seized property doesn't by itself breach §362(a)(3).",
+          "laymanExplanation": "Holding a bank balance, returning equipment and continuing impoundment are three different legal questions.",
+          "legalExplanation": "§362(a)(7), §542(a)/§363(e), and §362(a)(3) govern the respective issues; §362(a)(4),(6) possible independent grounds.",
+          "examApplication": "Choose case by act: offset; request for return; passive possession; new seizure/sale.",
+          "examTrap": "Do not cite Fulton as overturning Whiting Pools."
+        },
+        {
+          "id": "bank-ch4-turnover-synthesis-e2",
+          "type": "concept",
+          "title": "Two independent axes: possession and ownership",
+          "page": "Ch.4 §B.2 (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Whether creditor has physical possession and whether debtor retains legal/equitable rights are separate questions; case-specific state/tax law defines ownership, bankruptcy identifies estate property.",
+          "laymanExplanation": "Someone else holding keys doesn't mean they own car.",
+          "legalExplanation": "Whiting Pools tax levy left title with debtor; Fulton assumed cars estate property despite city's impound possession.",
+          "examApplication": "Draw prepetition possession, property title, creditor liens and postpetition actions.",
+          "examTrap": "Don't infer no §541 property just because secured party holds collateral."
+        },
+        {
+          "id": "bank-ch4-turnover-synthesis-e3",
+          "type": "concept",
+          "title": "From §542 turnover to §363 adequate protection",
+          "page": "Ch.4 §B.2 (assigned general pp.201–237)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-uploaded Chapter 4, B.2 Secured Creditors and Turnover; Whiting Pools and City of Chicago v. Fulton; Prof. Effross Fall 2026 syllabus general pp.201–237",
+          "summary": "Ordinarily sequence: debtor owns estate interest at petition → secured possession → estate representative seeks turnover under §542 → creditor requests adequate protection → court orders protection and return or otherwise decides statutory exceptions.",
+          "laymanExplanation": "To get car back, use turnover procedure, and protect valid lien.",
+          "legalExplanation": "This is a procedural analytical roadmap, not a conclusion that all turnovers require identical payments.",
+          "examApplication": "Record value, insurance and risk of loss before deciding specific protection.",
+          "examTrap": "Don't characterize proper protection of creditor as optional benevolence."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
