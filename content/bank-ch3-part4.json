@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+  "coverage": {
+    "chapter": 3,
+    "scope": "In re Andrews full Fourth Circuit majority/dissent; §554 abandonment, Midlantic reference; chapter-wide synthesis",
+    "note": "Midlantic is discussed by casebook in prose but its full judicial opinion is NOT excerpted in Chapter 3."
+  },
+  "topics": [
+    {
+      "id": "bank-ch3-andrews",
+      "title": "C. In re Andrews — Noncompete Payment or Postpetition Services?",
+      "chapterGroup": "bank-ch3",
+      "description": "Fourth Circuit majority and Widener dissent; sale-generated future cash vs future work under §541(a)(6).",
+      "entries": [
+        {
+          "id": "bank-ch3-andrews-e1",
+          "type": "case",
+          "title": "In re Andrews, 80 F.3d 906 (4th Cir. 1996)",
+          "page": "Ch. 3 § C / Andrews opinion (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Payments belonged to estate. Fourth Circuit affirmed bankruptcy and district court rulings because noncompetition payments were integral to prepetition sale value and refusing to compete was not 'services performed' in statutory sense.",
+          "laymanExplanation": "A payment deferred until after Chapter 7 filing can still be prepetition sale-derived estate asset; §541(a)(6) individual 'services performed' exclusion does not cover passive noncompetition payments integral to prepetition sale on these facts.",
+          "legalExplanation": "District Judge Ellis on appellate panel found 'perform' generally connotes action rather than inaction, but emphasized statutory fresh-start line: prepetition assets and proceeds go to creditors; new postpetition labor belongs to debtor. Covenant expressly conditioned $9m asset sale, with $1m goodwill and setoff provisions tying consideration to prepetition AMAX contacts. Reclassifying purchase price as postpetition noncompete wages could evade creditor pool. Court used Segal sufficiently-rooted approach. Judge Widener dissented, believing only Andrews personally could perform noncompetition promise and payments resulted from his postpetition compliance.",
+          "examApplication": "For hypothetical separate valuable prefiling goodwill/business sale, affirmative future work, contractual terms, duration, earnings vs capital proceeds and fresh-start ability.",
+          "examTrap": "Not categorical that EVERY noncompete payment must go to estate; consider bona fide compensation for substantial affirmative services and distinct contractual circumstances.",
+          "assignedOpinion": true,
+          "sourceRole": "Full majority and dissent judicial opinion excerpt in the uploaded Chapter 3",
+          "facts": "John Andrews co-owned AMAX ready-mix concrete company sold in 1989 to Tarmac for about $9m business assets plus $1m customer goodwill. Tarmac separately paid Andrews $1m in quarterly $62,500 installments plus interest for four-year noncompetition covenant in northern Virginia, D.C. and nearby Maryland; agreement was expressly condition of sale and barred his competing use of valuable prior contacts. Andrews filed individual Chapter 7 in Oct. 1992, leaving approximately $250,000 due postpetition. He argued living costs/fresh start required postpetition payments treated as earnings for refraining from competing.",
+          "issue": "Are installment payments under a prepetition noncompetition covenant for a sold business 'earnings from services performed' by an individual after filing excluded from estate under §541(a)(6), or prepetition contract/asset-sale proceeds?",
+          "holding": "Payments belonged to estate. Fourth Circuit affirmed bankruptcy and district court rulings because noncompetition payments were integral to prepetition sale value and refusing to compete was not 'services performed' in statutory sense.",
+          "reasoning": "District Judge Ellis on appellate panel found 'perform' generally connotes action rather than inaction, but emphasized statutory fresh-start line: prepetition assets and proceeds go to creditors; new postpetition labor belongs to debtor. Covenant expressly conditioned $9m asset sale, with $1m goodwill and setoff provisions tying consideration to prepetition AMAX contacts. Reclassifying purchase price as postpetition noncompete wages could evade creditor pool. Court used Segal sufficiently-rooted approach. Judge Widener dissented, believing only Andrews personally could perform noncompetition promise and payments resulted from his postpetition compliance.",
+          "rule": "A payment deferred until after Chapter 7 filing can still be prepetition sale-derived estate asset; §541(a)(6) individual 'services performed' exclusion does not cover passive noncompetition payments integral to prepetition sale on these facts.",
+          "dissent": "Widener argued debtor's personal abstention could only be 'performed' by Andrews, so amounts paid after petition should be excluded as his earnings from services under §541(a)(6)."
+        },
+        {
+          "id": "bank-ch3-andrews-e2",
+          "type": "rule",
+          "title": "Prepetition asset sale vs postpetition cash receipt",
+          "page": "Ch. 3 § C / Andrews (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "The legal right to receive $1m arose when business was sold prepetition; later scheduled installment timing did not transform consideration into new earned wages.",
+          "laymanExplanation": "Promise to pay you for sold business now but cash next year: the economic source is still yesterday's transaction.",
+          "legalExplanation": "§541(a)(1) existing contract claim and §541(a)(6) proceeds cover deferred capital value despite later payment; identify material conditions.",
+          "examApplication": "For each check ask what transaction generated payment, not date check was mailed.",
+          "examTrap": "A postpetition deposit into debtor personal account can belong to estate."
+        },
+        {
+          "id": "bank-ch3-andrews-e3",
+          "type": "rule",
+          "title": "Does ‘not competing’ qualify as performing services?",
+          "page": "Ch. 3 § C / Andrews (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Majority said abstaining from competition is more naturally refraining from conduct than performing affirmative labor, but relied on prepetition asset link; dissent emphasized debtor's personal performance.",
+          "laymanExplanation": "Not doing a competitor's job can be valuable to buyer, but may not be wages from new work.",
+          "legalExplanation": "‘Services performed’ is statutory limitation aimed at protecting human earning power after filing, not every promise benefiting buyer.",
+          "examApplication": "Hypothetical covenant requiring annual consultations introduces mixed affirmative services and potential allocation question.",
+          "examTrap": "Don't ignore dissent or reduce majority to pure dictionary meaning."
+        },
+        {
+          "id": "bank-ch3-andrews-e4",
+          "type": "rule",
+          "title": "Sale structure and avoidance of manipulation",
+          "page": "Ch. 3 § C / Andrews (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "If seller could shift business sale price into installment noncompetition covenant, debtor could shield prefiling sale value from creditors simply by deferring checks.",
+          "laymanExplanation": "Calling part of the sale price 'future salary' cannot automatically hide it from creditor recovery.",
+          "legalExplanation": "Covenant was express condition of sale and setoff cross-linked; goodwill was bought separately; facts establish asset sale consideration.",
+          "examApplication": "Look for nominal allocation to consulting/noncompete and economic substance.",
+          "examTrap": "Not every commercially legitimate covenant is fraudulent; question is estate property classification."
+        },
+        {
+          "id": "bank-ch3-andrews-e5",
+          "type": "rule",
+          "title": "Fresh-start argument has limits",
+          "page": "Ch. 3 § C / Andrews (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Protecting new wages doesn't protect money from prepetition business liquidation even if debtor needs that money while unable to work in same industry.",
+          "laymanExplanation": "Fresh start protects new labor, not previously sold asset value.",
+          "legalExplanation": "Majority noted covenant restricted only ready-mix business and was soon expiring, while debtor could pursue other business lines.",
+          "examApplication": "Contrast Schmitz future fishing labor and truly new regulatory right to Andrews fixed past contract rights.",
+          "examTrap": "No unrestricted right to keep all postfiling receipts for cost of living."
+        },
+        {
+          "id": "bank-ch3-andrews-e6",
+          "type": "rule",
+          "title": "Andrews dissent vs Schmitz majority",
+          "page": "Ch. 3 § C / Andrews–Schmitz (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Schmitz quota rights were created by postfiling law for future work; Andrews installment rights already fixed in prefiling contractual sale; dissent treats continuing promise as new personal services.",
+          "laymanExplanation": "One debtor received a brand-new opportunity to fish; the other received checks for yesterday's business sale.",
+          "legalExplanation": "Both cases use fresh-start language but reach different result based on legally existing prepetition asset and source of proceeds.",
+          "examApplication": "Use compare/contrast paragraph with rights existing on filing date and true consideration.",
+          "examTrap": "Do not assume factual overlap (both paid later) means identical §541 treatment."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch3-abandonment",
+      "title": "D. Abandonment — §554 and the Midlantic Public Safety Exception",
+      "chapterGroup": "bank-ch3",
+      "description": "Trustee's authority to abandon burdensome/no-benefit assets; polluted property and cleanup priorities.",
+      "entries": [
+        {
+          "id": "bank-ch3-abandonment-e1",
+          "type": "rule",
+          "title": "§554: abandon estate property if burdensome or inconsequential benefit",
+          "page": "Ch. 3 § D (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Trustee may abandon property that imposes net cost on estate or has inconsequential value/benefit, instead of liquidating it.",
+          "laymanExplanation": "If underwater property would cost the estate more to hold or sell than it returns, trustee can walk away.",
+          "legalExplanation": "Example heavily encumbered asset: valid lien exceeds value; debtor/secured creditor fight over it outside bankruptcy administration.",
+          "examApplication": "Compare fair market value, secured lien, holding/sale/cleanup expenses and likely unsecured benefit.",
+          "examTrap": "Abandonment isn't exemption and doesn't erase underlying lien."
+        },
+        {
+          "id": "bank-ch3-abandonment-e2",
+          "type": "rule",
+          "title": "Typical underwater asset analysis",
+          "page": "Ch. 3 § D (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "If lien fully consumes or exceeds realizable asset value, administration may yield nothing for unsecured creditors and §554 abandonment may preserve estate resources.",
+          "laymanExplanation": "$80k car/depot with $100k lien could give trustee no surplus, so why spend effort selling?",
+          "legalExplanation": "Determine actual secured claims, valuation, transfer costs and nonfinancial risks before concluding estate benefit inconsequential.",
+          "examApplication": "Write gross value minus secured debt minus estate costs = potential unsecured benefit; if nonpositive flag abandonment (not automatic).",
+          "examTrap": "An underwater collateral may still be important to debtor's use and creditor's foreclosure."
+        },
+        {
+          "id": "bank-ch3-abandonment-e3",
+          "type": "rule",
+          "title": "Midlantic National Bank v New Jersey DEP (1986) public safety limitation",
+          "page": "Ch. 3 § D (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Casebook summarizes Supreme Court restriction: trustee cannot abandon property contrary to state environmental protection regulation reasonably designed against identified hazards when necessary to protect public health/safety from imminent identifiable harm.",
+          "laymanExplanation": "Trustee can't simply dump leaking toxic waste on the public and leave taxpayers to clean it up.",
+          "legalExplanation": "Midlantic, 474 U.S.494 (1986), is DISCUSSED (not full excerpt). Narrow imminent-identifiable-harm limitation, not general environmental policy override.",
+          "examApplication": "Identify type of contamination, imminence, regulatory law, public exposure and whether abandonment would violate protections.",
+          "examTrap": "Don't say every polluted property automatically impossible to abandon."
+        },
+        {
+          "id": "bank-ch3-abandonment-e4",
+          "type": "rule",
+          "title": "Cleanup costs and de facto estate priority",
+          "page": "Ch. 3 § D (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Requiring trustee to safeguard contaminated property can consume estate money before general distribution, effectively prioritizing environmental compliance over ordinary creditor recovery.",
+          "laymanExplanation": "Safety cleanup gets paid from estate assets before creditors receive checks because trustee can't walk away.",
+          "legalExplanation": "Book flags cross-reference to Chapter 5 formal priority and administrative-expense debates; do not presume all cleanup liabilities identically prioritized by statute.",
+          "examApplication": "Compare creditor benefit of abandonment to public health costs and actual regulatory duties.",
+          "examTrap": "Midlantic does not by itself establish every government environmental claim as automatically statutory priority."
+        },
+        {
+          "id": "bank-ch3-abandonment-e5",
+          "type": "concept",
+          "title": "Abandonment versus liquidation versus exclusion",
+          "page": "Ch. 3 § D (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Excluded interests never enter estate; exempt interests leave estate by debtor's §522 claim; abandoned interests leave estate at trustee's §554 election because burden outweighs benefit.",
+          "laymanExplanation": "Three distinct paths out of the bankruptcy basket: never in, debtor gets exemption, trustee walks away.",
+          "legalExplanation": "Different moving party, legal basis and timing; liens persist where applicable.",
+          "examApplication": "If case asks 'who gets asset,' work through §541, then §522/§554 and creditor lien.",
+          "examTrap": "Conflating abandonment with discharge of secured obligations produces wrong answer."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch3-estate-rule-map",
+      "title": "Chapter 3 — Integrated §541 Issue-Spotting and Case Synthesis",
+      "chapterGroup": "bank-ch3",
+      "description": "Full source-driven issue map to connect six briefs, the exclusion categories and problem 3.1.",
+      "entries": [
+        {
+          "id": "bank-ch3-estate-rule-map-e1",
+          "type": "concept",
+          "title": "Four-stage property-of-estate decision tree",
+          "page": "Ch. 3 §§ A–D (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "(1) Identify legal/equitable interests at filing; (2) use controlling nonbankruptcy law for attributes, federal law for estate classification; (3) test postpetition inclusion and statutory exclusions/§522 exemptions; (4) consider liens and trustee §554 abandonment.",
+          "laymanExplanation": "Start with basket, then ask whose rights, timing, exceptions, and whether trustee can gain net value.",
+          "legalExplanation": "Casebook path: Butner → Johnson/Harrell → Segal/Schmitz → Patterson/Andrews → Midlantic.",
+          "examApplication": "For issue-spotter label each asset and apply a different rule tree, not blanket 'all assets'.",
+          "examTrap": "Don't decide creditor distribution before ownership, classification and applicable protections."
+        },
+        {
+          "id": "bank-ch3-estate-rule-map-e2",
+          "type": "concept",
+          "title": "Six excerpted opinions — one-sentence distinctions",
+          "page": "Ch. 3 §§ B–C (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Butner: rights defined outside bankruptcy. Johnson: federal property category, state restriction survives. Harrell: only revocable expectancy of renewal. Schmitz: future law-created quota. Patterson: ERISA-qualified trust exclusion. Andrews: deferred prepetition sale proceeds.",
+          "laymanExplanation": "These six cases answer six different questions; do not cite any as universal answer to all property disputes.",
+          "legalExplanation": "For §§541(a),(c)(2) identify whether claim is state right, federal classification, expectation, legal timing, anti-alienation or postpetition earnings.",
+          "examApplication": "In essays name controlling case for each subissue and explain why it fits facts.",
+          "examTrap": "Segal and Midlantic are referenced in text but not full briefs."
+        },
+        {
+          "id": "bank-ch3-estate-rule-map-e3",
+          "type": "concept",
+          "title": "Boundary cases: Segal–Schmitz–Andrews",
+          "page": "Ch. 3 §§ B–C (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Segal postpetition tax refund from existing prepetition qualifying facts → included; Schmitz rights arising only after new agency regulations → excluded; Andrews fixed prefiling contract value paid later → included.",
+          "laymanExplanation": "Money arriving tomorrow could be old asset value or new rights; check source in each.",
+          "legalExplanation": "Contrast pre-existing legal basis and consideration with future events and fresh-start service earnings.",
+          "examApplication": "Mark temporal root, nature of legal right and whether activity after filing produced value.",
+          "examTrap": "‘Sufficiently rooted’ does not mechanically decide every new later legal benefit."
+        },
+        {
+          "id": "bank-ch3-estate-rule-map-e4",
+          "type": "concept",
+          "title": "Economic-value exam trap: estate asset may yield zero dividend",
+          "page": "Ch. 3 §§ B,D (general syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 3, In re Andrews and § D. Abandonment; Effross Fall 2026 syllabus general pp.171–199",
+          "summary": "Johnson seat entered estate subject member claims exceeding value; secured property may be included yet have no net equity and be abandoned; protected pension may have substantial value but excluded entirely.",
+          "laymanExplanation": "High price doesn't mean creditors recover it; low value doesn't mean asset excluded.",
+          "legalExplanation": "Keep classification, encumbrance, exemption, enforceable transfer restrictions and administration net value as separate columns.",
+          "examApplication": "For each asset calculate value and senior interests only after legal ownership identified.",
+          "examTrap": "A zero estate recovery cannot by itself show §541 nonproperty."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
