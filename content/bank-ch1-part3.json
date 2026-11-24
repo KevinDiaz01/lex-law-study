@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+  "coverage": {
+    "chapter": 1,
+    "included": "B.2.b — Prejudgment Remedies, attachment, injunction, Grupo Mexicano",
+    "assignedPages": "General syllabus 1–77",
+    "note": "No print-page labels present in ebook extraction; casebook problem statements are preserved as unsolved descriptions."
+  },
+  "topics": [
+    {
+      "id": "bank-ch1-prejudgment",
+      "title": "B.2.b.i–iv — Prejudgment Attachment, Garnishment, Replevin and Due Process",
+      "chapterGroup": "bank-ch1",
+      "description": "Provisional security before liability established, federal procedural due process, state requirements, ex parte judicial oversight, lien relation-back and creditor risks.",
+      "entries": [
+        {
+          "id": "bank-ch1-prejudgment-e1",
+          "type": "rule",
+          "title": "Why provisional remedies are disfavored",
+          "page": "Ch. 1 § B.2.b.i (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "Prejudgment remedies preserve assets while litigation pending but burden defendant before creditor proves debt; usually require narrow statutory ground, due-process safeguards and bond.",
+          "laymanExplanation": "Freezing someone's property before they lose their lawsuit is a powerful weapon, so courts demand safeguards.",
+          "legalExplanation": "State prejudgment law generally governs; FRCP 64 makes forum-state seizure remedies available in federal court; avoid substituting ordinary postjudgment standard.",
+          "examApplication": "Distinguish pending suit vs final judgment; classify remedy and source.",
+          "examTrap": "An unsecured plaintiff cannot routinely seize assets just because it expects to win."
+        },
+        {
+          "id": "bank-ch1-prejudgment-e2",
+          "type": "rule",
+          "title": "Attachment vs garnishment vs replevin vs lis pendens",
+          "page": "Ch. 1 § B.2.b.ii (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "Attachment seizes defendant's own nonexempt goods via sheriff; garnishment reaches defendant's property with third party; replevin recovers particular collateral based on asserted superior property right; lis pendens clouds title to disputed real estate.",
+          "laymanExplanation": "Attach pig, garnish bank account, replevy the lender's car, or warn land buyers litigation is pending.",
+          "legalExplanation": "An attachment/garnishment can be ancillary money remedy; replevin may stand alone when property right claimed; receiver and injunction are additional options.",
+          "examApplication": "Use who possesses property and creditor's preexisting lien to choose procedure.",
+          "examTrap": "Prejudgment garnishment subject to stricter safeguards than postjudgment garnishment."
+        },
+        {
+          "id": "bank-ch1-prejudgment-e3",
+          "type": "rule",
+          "title": "Supreme Court due-process cases restrict secret seizure",
+          "page": "Ch. 1 § B.2.b.i–iii (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "Sniadach, Fuentes, Mitchell, North Georgia Finishing and Doehr assess constitutional fairness of withholding property before notice/hearing; not all ex parte remedies categorically unconstitutional.",
+          "laymanExplanation": "A judge can sometimes freeze assets without warning to prevent hiding, but the debtor must have meaningful procedural protection.",
+          "legalExplanation": "Procedures weigh creditor urgency, neutral judicial assessment, sworn facts, bond and prompt opportunity to challenge; casebook's summary emphasizes fair balance not universal pre-notice requirement.",
+          "examApplication": "If lawyer seeks ex parte relief evaluate whether judicial decision and evidence replace clerk rubber stamp.",
+          "examTrap": "Do not say Fuentes mandates prior adversary hearing for every provisional remedy."
+        },
+        {
+          "id": "bank-ch1-prejudgment-e4",
+          "type": "rule",
+          "title": "Five attachment procedural steps",
+          "page": "Ch. 1 § B.2.b.iii (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "(1) Creditor sues then files fact-based affidavit and bond; (2) judge evaluates likelihood of success plus statutory ground at ex parte hearing; (3) writ to sheriff; (4) sheriff levies and creates inchoate attachment lien; (5) debtor may substitute bond or seek quash; if creditor prevails lien matures/relates back.",
+          "laymanExplanation": "Sue, show why emergency freeze justified, secure a bond, judge issues writ, sheriff holds property, debtor can contest.",
+          "legalExplanation": "Common grounds imminent dissipation and nonresidency; strict statutory compliance is important.",
+          "examApplication": "Use chronological chart including filing, issuance, sheriff levy, intervening purchase and final judgment.",
+          "examTrap": "Merely signing affidavit is not the levy that gives lien priority."
+        },
+        {
+          "id": "bank-ch1-prejudgment-e5",
+          "type": "rule",
+          "title": "Attachment affidavit and creditor's bond",
+          "page": "Ch. 1 § B.2.b.iii (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "Creditor usually must set forth concrete facts showing likely winning and statutory danger; bond secures debtor for damages if seizure wrong.",
+          "laymanExplanation": "You need evidence debtor may move assets away, not just say 'they're untrustworthy.'",
+          "legalExplanation": "Statutes typically require judge to assess support in ex parte hearing and creditor to post security against wrongful seizure.",
+          "examApplication": "Spot false/conclusory claims and missing bond.",
+          "examTrap": "Probable cause of honest collection may not defeat liability for wrongful attachment."
+        },
+        {
+          "id": "bank-ch1-prejudgment-e6",
+          "type": "rule",
+          "title": "Inchoate attachment lien and relation back",
+          "page": "Ch. 1 § B.2.b.iii (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "Levy before judgment establishes conditional lien; if creditor wins final judgment, lien becomes choate and priority dates from prejudgment levy. If lawsuit dismissed, lien dissolves.",
+          "laymanExplanation": "Seizing Porky before trial reserves your spot if you eventually win; if you lose, spot vanishes.",
+          "legalExplanation": "Intervening purchasers and junior encumbrancers may take subject to earlier provisional lien.",
+          "examApplication": "For problems 1.15–1.17 compare March 3 levy, April sale and June judgment.",
+          "examTrap": "A writ merely issued to sheriff is not enough if no levy."
+        },
+        {
+          "id": "bank-ch1-prejudgment-e7",
+          "type": "rule",
+          "title": "Debtor motion to quash and bond substitution",
+          "page": "Ch. 1 § B.2.b.iii (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "Debtor may move to vacate flawed provisional seizure for weak merits or statutory/procedural defect, may substitute bond for property; wrongful attachment damages possible.",
+          "laymanExplanation": "Debtor can recover use of property by posting security or showing freeze unauthorized.",
+          "legalExplanation": "Judicial oversight and prompt opportunity to contest serve due process; creditor assumes liability risk.",
+          "examApplication": "Analyze possibility of debtor prevailing or creditor voluntarily dismissing.",
+          "examTrap": "Good intentions do not validate unauthorized writ."
+        },
+        {
+          "id": "bank-ch1-prejudgment-e8",
+          "type": "rule",
+          "title": "Bankruptcy may undo recent prepetition provisional lien",
+          "page": "Ch. 1 § B.2.b.iv (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "Casebook describes a 90-day avoidance risk under §547 if attachment/garnishment created shortly before filing, returning creditor to unsecured status when statutory preference elements met.",
+          "laymanExplanation": "The head start you got by grabbing property just before bankruptcy may be taken back.",
+          "legalExplanation": "Preference avoidance is element-driven and dates can matter; automatic consequence not appropriate without §547 elements; current book discussion previews later chapter.",
+          "examApplication": "Flag possible trustee preference lawsuit and avoid premature categorical result.",
+          "examTrap": "The 90-day window alone is not sufficient to conclude automatic avoidance."
+        },
+        {
+          "id": "bank-ch1-prejudgment-e9",
+          "type": "concept",
+          "title": "Strategic benefits and risks",
+          "page": "Ch. 1 § B.2.b.iv (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "Prejudgment seizure secures claim, priority and leverage, but imposes costs, bond, liability risk and may provoke bankruptcy or later preference avoidance.",
+          "laymanExplanation": "You may freeze property but could end up paying damages or losing lien in bankruptcy.",
+          "legalExplanation": "Ask whether asset dissipation danger justifies expensive interim fight and whether state statutes support relief.",
+          "examApplication": "Offer both creditor and debtor perspectives in issue spotter.",
+          "examTrap": ""
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-grupo-mexicano",
+      "title": "B.2.b.v — General-Creditor Asset-Freezes and Grupo Mexicano",
+      "chapterGroup": "bank-ch1",
+      "description": "Full Supreme Court majority and Ginsburg dissent; law vs equity, FRCP 64/65, Mareva freezes and distinction from bankruptcy.",
+      "entries": [
+        {
+          "id": "bank-ch1-grupo-mexicano-e1",
+          "type": "rule",
+          "title": "General unsecured claimant usually has no property lien before judgment",
+          "page": "Ch. 1 § B.2.b.v (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "Without a property/security interest or judgment, general creditor usually lacks the vested interest in debtor's assets needed for broad traditional equitable asset-freeze.",
+          "laymanExplanation": "Even if debtor owes you, you do not own its unencumbered bank account.",
+          "legalExplanation": "Traditional creditor's bill required prior judgment, and FRCP 65 cannot silently supply new substantive right; state attachment process may be available through Rule 64.",
+          "examApplication": "Ask if claim merely damages, or seeks specific equitable asset/trust/property.",
+          "examTrap": "Exception fact patterns involving existing lien, equitable claims or authorized statute require separate analysis."
+        },
+        {
+          "id": "bank-ch1-grupo-mexicano-e2",
+          "type": "case",
+          "title": "Grupo Mexicano de Desarrollo, S.A. v. Alliance Bond Fund, Inc., 527 U.S. 308 (1999)",
+          "page": "Ch. 1 § B.2.b.v (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "No. Federal equity under general authority did not historically permit such provisional asset-freeze for general nonjudgment creditor; Supreme Court reversed despite serious dissipation danger and likely meritorious claim.",
+          "laymanExplanation": "In ordinary pre-judgment money-damages case with no lien/equitable property claim, federal court lacks general inherent equity power to restrain disposition of debtor assets solely to assure future judgment.",
+          "legalExplanation": "Justice Scalia majority confined federal equity to historically recognized substantive boundaries; a general creditor lacks property interest before judgment. FRCP 65 does not expand substantive rights, and broad freezes would bypass Rule 64's forum-state remedies and reshape delicate debtor-creditor priorities by judicial fiat. Post-1975 English Mareva practice not historical U.S. equity power. Ginsburg dissent emphasized flexible evolving equity, strong merits, irreparable injury, bond and preserving status quo without granting priority; Congress could regulate.",
+          "examApplication": "Analyze Rule 64 state remedies versus Rule 65 federal injunction and why bankruptcy/fraudulent transfer legislation addresses group creditor issues.",
+          "examTrap": "Decision does not forbid every injunction involving assets or all equitable claims, and majority did not dispute district court's factual concern.",
+          "assignedOpinion": true,
+          "sourceRole": "Excerpted opinion, majority and dissent, in Chapter 1",
+          "facts": "Mexican toll-road holding company defaulted on unsecured notes, faced insolvency and planned to favor Mexican creditors with sole remaining Toll Road Notes. Unsecured bondholders sued for $80.9m damages and won preliminary injunction freezing notes pending trial. District court found near-certain success and irreparable collection injury; Second Circuit upheld.",
+          "issue": "May federal district court in ordinary contract damages suit freeze unencumbered assets before judgment to secure potential money judgment when plaintiffs have no lien or equitable interest in assets?",
+          "holding": "No. Federal equity under general authority did not historically permit such provisional asset-freeze for general nonjudgment creditor; Supreme Court reversed despite serious dissipation danger and likely meritorious claim.",
+          "reasoning": "Justice Scalia majority confined federal equity to historically recognized substantive boundaries; a general creditor lacks property interest before judgment. FRCP 65 does not expand substantive rights, and broad freezes would bypass Rule 64's forum-state remedies and reshape delicate debtor-creditor priorities by judicial fiat. Post-1975 English Mareva practice not historical U.S. equity power. Ginsburg dissent emphasized flexible evolving equity, strong merits, irreparable injury, bond and preserving status quo without granting priority; Congress could regulate.",
+          "rule": "In ordinary pre-judgment money-damages case with no lien/equitable property claim, federal court lacks general inherent equity power to restrain disposition of debtor assets solely to assure future judgment."
+        },
+        {
+          "id": "bank-ch1-grupo-mexicano-e3",
+          "type": "rule",
+          "title": "Mareva injunction contrasted with Grupo",
+          "page": "Ch. 1 § B.2.b.v (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "English Mareva asset-freeze introduced in 1975 could stop dissipation pending action, but majority refused import into inherent historical American federal equity.",
+          "laymanExplanation": "England permits certain emergency freezes; the Supreme Court would not let federal judges invent same broad tool for ordinary unsecured contract plaintiffs.",
+          "legalExplanation": "U.S. Congress or applicable statutory/state process may provide alternatives; FRCP 64 channels ordinary state provisional remedies.",
+          "examApplication": "Compare Rule 64 (forum state remedies) and Rule 65 (federal injunction procedure).",
+          "examTrap": "The fact that equity merged with law procedurally did not enlarge creditors' substantive property rights."
+        },
+        {
+          "id": "bank-ch1-grupo-mexicano-e4",
+          "type": "concept",
+          "title": "Ginsburg dissent: evolving equity and modern mobility of assets",
+          "page": "Ch. 1 § B.2.b.v (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "Dissent would affirm carefully tailored freeze with compelling proof, bond and little interference with operations because modern assets move fast and paper judgment may be worthless.",
+          "laymanExplanation": "A fair judgment is hollow if defendant can wire all assets away before trial.",
+          "legalExplanation": "Dissent contrasts dynamic conception of equity, irreparable harm and no priority creation with majority historical boundaries.",
+          "examApplication": "Explain why plaintiff's proposed restraint wasn't a perfected security interest.",
+          "examTrap": "Policy argument is dissent, not binding authority."
+        },
+        {
+          "id": "bank-ch1-grupo-mexicano-e5",
+          "type": "concept",
+          "title": "Equity, bankruptcy and collective-creditor implications",
+          "page": "Ch. 1 § B.2.b.v (pp. 1–77 syllabus)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77",
+          "summary": "A broad pre-judgment freezing tool might encourage a race of individual creditors and disrupt statutory bankruptcy, preferences and fraudulent transfer mechanisms.",
+          "laymanExplanation": "If everyone rushes to get injunctions, the failing business could collapse and other creditors suffer.",
+          "legalExplanation": "Majority treated systemic allocation choices as for Congress, not federal judges through generic equitable discretion.",
+          "examApplication": "Tie Grupo to central problem of protecting collective creditor pool.",
+          "examTrap": "A ban on ad hoc injunction doesn't make statutory bankruptcy impossible."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch1-p1-15",
+      "topicId": "bank-ch1-prejudgment",
+      "title": "Problem 1.15",
+      "kind": "Casebook Problem 1.15 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77 (B.2.b.i–iv — Prejudgment Attachment, Garnishment, Replevin and Due Process)",
+      "prompt": "Creditor sues Feb 1, writ obtained March 1, sheriff levies Porky March 3, debtor sells pig April 10, judgment June 1. Compare provisional relation-back and purchaser priority. Unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-16",
+      "topicId": "bank-ch1-prejudgment",
+      "title": "Problem 1.16",
+      "kind": "Casebook Problem 1.16 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77 (B.2.b.i–iv — Prejudgment Attachment, Garnishment, Replevin and Due Process)",
+      "prompt": "Same as 1.15 but creditor voluntarily dismisses underlying suit May 1 after agreeing $200/month payments. Determine effect on attached pig and purchaser, unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-17",
+      "topicId": "bank-ch1-prejudgment",
+      "title": "Problem 1.17",
+      "kind": "Casebook Problem 1.17 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Chapter 1, § B.2.b; Effross Fall 2026 general syllabus pp. 1–77 (B.2.b.i–iv — Prejudgment Attachment, Garnishment, Replevin and Due Process)",
+      "prompt": "Creditor A attaches $20k art collection May 17 and gets $5k August judgment; Creditor Z already holds perfected $18k Article 9 lien since previous year. Analyze priorities and available collateral equity without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
