@@ -1,0 +1,492 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+  "coverage": {
+    "chapter": 9,
+    "scope": "Original Chapter9 textbook Questions grouped 3/3, all answered status Not attempted; complete source phrasing including multi-paragraph and calculations"
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch9-q-3-preference-policy-1",
+      "topicId": "bank-ch9-preference-policy",
+      "title": "E.1 — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What is a preference?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-preference-policy-2",
+      "topicId": "bank-ch9-preference-policy",
+      "title": "E.1 — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What commercial law policy does the preference law undermine?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-preference-policy-3",
+      "topicId": "bank-ch9-preference-policy",
+      "title": "E.1 — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. What policies are said to support the preference law? How?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-preference-policy-4",
+      "topicId": "bank-ch9-preference-policy",
+      "title": "E.1 — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. Historically, how has the preference law given weight to the state of mind of either the preferring debtor or the preferred creditor? Why has it done so? How is that notion reflected in the modern preference law?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-cunningham-1",
+      "topicId": "bank-ch9-cunningham",
+      "title": "Cunningham — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. To which subsection of current Code § 547(b) is Cunningham v. Brown pertinent?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-cunningham-2",
+      "topicId": "bank-ch9-cunningham",
+      "title": "Cunningham — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. How do the facts of this case demonstrate the need for a preference law?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-cunningham-3",
+      "topicId": "bank-ch9-cunningham",
+      "title": "Cunningham — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. What overriding policy did the Court uphold?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-cunningham-4",
+      "topicId": "bank-ch9-cunningham",
+      "title": "Cunningham — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. Did the Court banish constructive trusts from bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-marshall-1",
+      "topicId": "bank-ch9-marshall",
+      "title": "Marshall — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. Which part of § 547(b) was at issue in the Marshall case?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-marshall-2",
+      "topicId": "bank-ch9-marshall",
+      "title": "Marshall — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What different tests did the court consider? How do those tests supposedly implement preference policy? How did the Tenth Circuit apply those tests?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-marshall-3",
+      "topicId": "bank-ch9-marshall",
+      "title": "Marshall — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. Why did the bankruptcy and district courts reach a different result? Which approach makes more sense?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-marshall-4",
+      "topicId": "bank-ch9-marshall",
+      "title": "Marshall — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. What is the “earmarking doctrine”? Why did the court conclude that earmarking was not applicable?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-marshall-5",
+      "topicId": "bank-ch9-marshall",
+      "title": "Marshall — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. Does the scenario in Marshall implicate the sorts of concerns that underlie the preference law? Is it fair to MBNA to find them liable for preferences? Do the Marshalls' other creditors get a windfall? In answering that question, is the appropriate reference point how other creditors would have fared had the Marshalls never drawn on their Capital One credit line, or is it how other creditors would have fared had the Marshalls not paid MBNA with the money drawn from their Capital One credit line? Is the dominion/control test helpful in choosing the appropriate reference point?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-marshall-6",
+      "topicId": "bank-ch9-marshall",
+      "title": "Marshall — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. After preference avoidance and recapture, what is MBNA's status? What about Capital One?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-palmer-clay-1",
+      "topicId": "bank-ch9-palmer-clay",
+      "title": "Palmer Clay — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. To which subsection of current Code § 547(b) is Palmer Clay Products pertinent?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-palmer-clay-2",
+      "topicId": "bank-ch9-palmer-clay",
+      "title": "Palmer Clay — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. Explain the difference between the petitioner's argument and the Court's holding.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-national-gas-1",
+      "topicId": "bank-ch9-national-gas",
+      "title": "National Gas — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What is the purpose of the preference statute? What is the purpose of the ordinary course of business exception? Can you reconcile those purposes?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-national-gas-2",
+      "topicId": "bank-ch9-national-gas",
+      "title": "National Gas — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What roles do the different subsections of § 547(c)(2) play, and how do those roles relate to the function of the preference law?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-national-gas-3",
+      "topicId": "bank-ch9-national-gas",
+      "title": "National Gas — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. According to the courts, what possible purposes might § 547(c)(2)(B) serve? How?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-national-gas-4",
+      "topicId": "bank-ch9-national-gas",
+      "title": "National Gas — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. Did the court require the creditor-defendant to prove conformity to an industry standard? Of which industry or industries?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-national-gas-5",
+      "topicId": "bank-ch9-national-gas",
+      "title": "National Gas — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. What meaning did the court give to “ordinary business terms”?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-national-gas-6",
+      "topicId": "bank-ch9-national-gas",
+      "title": "National Gas — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. Did the court believe that the creditor-defendant made the required showing? Why (not)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-national-gas-7",
+      "topicId": "bank-ch9-national-gas",
+      "title": "National Gas — original Question 7",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "7. Why did the creditor-defendant abandon the § 547(c)(2)(A) defense?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-national-gas-8",
+      "topicId": "bank-ch9-national-gas",
+      "title": "National Gas — original Question 8",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "8. Considering the reasons for having a separate objective test of “ordinariness,” do you think the BAPCPA amendments were prudent?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-semcrude-1",
+      "topicId": "bank-ch9-semcrude",
+      "title": "SemCrude — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What is a “triangular” setoff? Why would a triangular setoff (in the absence of a contractual agreement therefor) run afoul of § 553(a)'s mutuality requirement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-semcrude-2",
+      "topicId": "bank-ch9-semcrude",
+      "title": "SemCrude — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What is the significance of the fact that the SemCrude debtors' cases were consolidated for procedural purposes only under Bankruptcy Rule 1015(b)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-semcrude-3",
+      "topicId": "bank-ch9-semcrude",
+      "title": "SemCrude — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. Which of the three debtors in SemCrude (SemCrude, SemFuel, or SemStream) would be prejudiced if Chevron were permitted to effectuate the triangular setoff? Would any of the debtors be advantaged by the triangular setoff?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-semcrude-4",
+      "topicId": "bank-ch9-semcrude",
+      "title": "SemCrude — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. By contractually agreeing to triangular setoff, didn't SemCrude contractually guaranty SemFuel's and SemStream's debts to Chevron? Does the fact that Chevron only had recourse against one particular SemCrude asset (amounts Chevron owed SemCrude) as a means of enforcing SemCrude's guaranty obligation mean that Chevron had no “claim . . . against the debtor” (SemCrude) within the meaning of § 553(a)? See § 102(2), defining the phrase “claim against the debtor.”",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-semcrude-5",
+      "topicId": "bank-ch9-semcrude",
+      "title": "SemCrude — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. If the parties have all contractually agreed to the permissibility of triangular setoff and such a contractual triangular setoff is enforceable under state law in the absence of a bankruptcy filing, why shouldn't that contractual triangular setoff also be given effect in bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-semcrude-6",
+      "topicId": "bank-ch9-semcrude",
+      "title": "SemCrude — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. Does the court's policy rationale prove too much? Wouldn't the court's policy rationale, taken to its logical extreme, equally lead to prohibiting all setoffs in bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-semcrude-7",
+      "topicId": "bank-ch9-semcrude",
+      "title": "SemCrude — original Question 7",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "7. Isn't the means by which we determine whether to give effect to nonbankruptcy priorities in bankruptcy (such as the priority that the contractual triangular setoff would give Chevron in SemCrude's assets) via the strong-arm powers of § 544(a)? Outside of bankruptcy, if a judgment creditor of SemCrude sought to garnish amounts Chevron owed SemCrude, could Chevron withhold via a garnishment defense (asserting its contractual triangular setoff rights) amounts it was owed by SemCrude's affiliates?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-semcrude-8",
+      "topicId": "bank-ch9-semcrude",
+      "title": "SemCrude — original Question 8",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "8. Would SemCrude's nonrecourse contractual guaranty of SemFuel's and SemStream's debts to Chevron be avoidable as a fraudulent conveyance? Compare Problem 9.7, supra.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-1",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What is at stake in a Ponzi scheme bankruptcy case? I.e., who are the major competing constituencies in a Ponzi scheme bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-2",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. Are traditional bankruptcy avoidance actions (e.g., preference and fraudulent conveyance suits) well suited to address the competing interests at stake in a Ponzi scheme bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-3",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. What did the court mean when it said that every undertaker “had a claim against the debtors for the return of his money” from the moment he “entrusted his money to the debtors”? What was the legal basis for that claim?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-4",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. Why did the court give such short shrift to the trustee's “equitable” claim? In that regard, consider the following discussion from the Young decision, cited by the court:\n\n[I]t appears that Abrams received back the entire sum of $4,000 he had put in and $796.90 in addition.\n\n. . . [Young's] purpose from the inception of his scheme was to prey on those who intrusted money to him. From the beginning he sent false accounts, showing apparent profits, and paid out large sums as profit, for the purpose and with the effect of deceiving his customers, and enticing others into his net. His side of the business was fraudulent from beginning to end. On any day, therefore, from the moment of the first contribution to the day of the bankruptcy, the court of equity, at the instance of any victim alleging the facts, would have enjoined the scheme as fraudulent, laid hands on the funds so fraudulently obtained, and distributed them among the victims. If none of them had been paid back anything, and none could identify the money paid in by him, the fund would have been prorated, and each victim would have received the same per cent, of the amount paid.\n\nSince, however, Abrams and other contributors to the funds had been paid back money by Young at the time the court took possession of the fund, the method of equitable distribution depends on the relation of the contributors to each other. . . . [A]ll the contributors must stand on an equal footing, as stupid victims of a transparent fraud. Again it is to be borne in mind that there were no profits, and that all the payments made by Young were from the capital fund paid in by customers. Every cent paid to Abrams as profits was taken from the capital contributed by his coadventurers.\n\n. . . It follows that all sums paid as profits to one adventurer from the common fund . . . was an unjust enrichment of that adventurer. . . .\n\nThat is a concise statement of the tracing rules applicable to the rights of fraud victims inter se in a commingled fund, from the law of restitution and unjust enrichment. See Restatement (Third) of Restitution and Unjust Enrichment § 59 comment g (2011) [hereinafter R3RUE]. Indeed, so-called “clawback” suits against early participants in a Ponzi scheme who have received payments funded with the money of later defrauded victims present facts supporting orthodox restitution claims asserted on behalf of “net loser” Ponzi victims against the “net winners,” flowing from the state law right of fraud victims to “follow misappropriated property through any changes of form until it reaches the hands of a bona fide purchaser . . . or the equivalent defense of a bona fide payee.” Id. § 41 comment e, at 23–24. See generally Andrew Kull, Common-Law Restitution and the Madoff Liquidation, 92 B.U. L. Rev. 939 (2012). And that state law right of net-loser Ponzi victims to restitution from early participants who have received payments funded with the net losers' money is properly characterized as “avoidance” of the Ponzi debtor's subsequent transfers of the net losers' money to the net winners. See R3RUE § 54 comment a, at 264 & comment f, at 273.\n\nWhy, then, can't the Ponzi debtor's bankruptcy trustee step into the shoes of the net losers under the doctrine of Moore v. Bay, 284 U.S. 4 (1931), to avoid and recover the Ponzi debtor's payments to net winners as transfers “voidable under applicable law” of restitution and unjust enrichment “by a creditor holding an unsecured claim,” within the meaning of § 544(b)(1)? Wasn't the trustee in Independent Clearing House, through his “equitable” claim, simply asserting such a state law “equitable” restitution claim? From the trustee's perspective, what advantages might such a claim have over the trustee's actual fraudulent transfer claim? Or, alternatively, over the trustee's constructive fraud claim? What disadvantages?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-5",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. What is the relevance of Cunningham v. Brown, 265 U.S. 1 (1924), to the trustee's claims under § 547 and § 548?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-6",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. With respect to the trustee's constructive fraud claims under § 548(a)(1)(B), why did the defendants concede insolvency of the debtors? What did the court mean when it said that “[b]y definition, an enterprise engaged in a Ponzi scheme is insolvent from day one”? How so?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-7",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 7",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "7. With respect to the trustee's constructive fraud claims under § 548(a)(1)(B), why couldn't the trustee recover the entirety of the debtor's payments to the defendants?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-8",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 8",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "8. With respect to the trustee's actual fraud claims under § 548(a)(1)(A), how did the court conclude that actual intent to defraud was established as a matter of law? What did the court mean when it said that for a debtor perpetrating a Ponzi scheme, “by definition, all transfers by the debtor are fraudulent”?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-9",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 9",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "9. The court's reasoning regarding the debtors' actual intent to defraud the inevitable “net loser” victims has come to be known as the Ponzi scheme “presumption” of actual intent to defraud. From the trustee's perspective, the importance of the Ponzi presumption of actual intent to defraud is greatly intensified by the so-called “stock broker defense” of § 546(e). Do you see why?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-10",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 10",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "10. How would a defendant establish receipt of payments “in good faith” for purposes of the § 548(c) defense?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-11",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 11",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "11. From the trustee's perspective, what are the relative advantages and disadvantages of a constructive fraud claim as compared to an actual fraud claim? Why might the trustee also bring such claims under state fraudulent transfer law via § 544(b)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-12",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 12",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "12. What did the court mean when it said that “by definition all transfers in furtherance of a Ponzi scheme are preferential”? Why did the court think that § 547 is inadequate in the context of a Ponzi scheme bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-13",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 13",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "13. Under the court's reasoning, were the debtors' payouts of fictitious profits prima facie preferential under § 547(b)? Why (not)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-14",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 14",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "14. Why did the court believe that Ponzi scheme payouts may be “ordinary course” payments within the meaning of § 547(c)(2)? If the court is correct that each undertaker immediately had a fraud claim against the debtors for restitution of all money invested, from the very moment the money was entrusted to the debtors, how is such a restitution debt for fraud incurred “in the ordinary course of business or financial affairs of the debtor and the” fraud victim, within the meaning of § 547(c)(2)? Even if fraud is ordinary for the debtor because the debtor's only “business” is perpetrating a fraudulent Ponzi scheme, is being defrauded within the ordinary course of business or financial affairs of the victim?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-15",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 15",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "15. How would you describe the court's conception of “ordinary” for a fraudulent business? Would the National Gas Distributors court consider a Ponzi debtor's fraudulent debts and payments thereon to be “ordinary” within the meaning of § 547(c)(2)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-3-independent-clearing-16",
+      "topicId": "bank-ch9-independent-clearing",
+      "title": "Independent Clearing — original Question 16",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "16. Was the court's interpretation of “ordinary” as applied to a Ponzi debtor affected by its view that § 547 simply was not well designed to deal with payments by a Ponzi debtor? Did the court simply try to “fix” the statute?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
