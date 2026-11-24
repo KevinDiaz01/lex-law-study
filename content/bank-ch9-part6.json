@@ -1,0 +1,325 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+  "coverage": {
+    "chapter": 9,
+    "scope": "§E.1 preference policies equality vs deterrence, §E.2 §547(b) 7 elements, §547(c) 9 exceptions, timing and 1994 Deprizio / 2005 §547(i), §E.3 full Cunningham, Marshall, Palmer Clay opinions; Problems9.10–11 left unanswered"
+  },
+  "topics": [
+    {
+      "id": "bank-ch9-preference-policy",
+      "title": "E.1 Preferences: Equality, Deterrence, Ordinary Commercial Finality",
+      "chapterGroup": "bank-ch9",
+      "description": "Why perfectly legal old debt payments may be undone.",
+      "entries": [
+        {
+          "id": "bank-ch9-preference-policy-e1",
+          "type": "rule",
+          "title": "Preference ≠ fraudulent conveyance",
+          "page": "Ch9 §E.1",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Preference is transfer paying favored creditor more than equal creditors will receive. Paying genuine antecedent debt is VALUE for fraudulent-transfer purposes, yet can be voidable under §547.",
+          "laymanExplanation": "Company owing five vendors $10k each has only $10k; pays Vendor A all before filing, leaving others $0; bankruptcy would normally share $2k per vendor.",
+          "legalExplanation": "Fraudulent transfers police debtor injury/property concealment; preferences police distributions among same-class creditors.",
+          "examApplication": "Start with antecedent debt & benefit, not debtor deception.",
+          "examTrap": "No fraudulent intent or bad motive required under §547(b)."
+        },
+        {
+          "id": "bank-ch9-preference-policy-e2",
+          "type": "rule",
+          "title": "Equal pro rata bankruptcy distribution versus state race of diligence",
+          "page": "Ch9 §E.1",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Nonbankruptcy collection first-to-levy; bankruptcy collective system distributes among same-priority creditors. A near-petition payment to one hurts the others.",
+          "laymanExplanation": "A run on a failing bank lets fastest depositor get cash; preference law discourages inequitable distribution.",
+          "legalExplanation": "§547 enables recapture during statutory lookback while preserving many routine payments via §547(c).",
+          "examApplication": "Discuss bankruptcy transition timing and pro rata recoveries.",
+          "examTrap": "Not every fully paid creditor is automatically sued—lookback, insolvency, comparison and defenses."
+        },
+        {
+          "id": "bank-ch9-preference-policy-e3",
+          "type": "rule",
+          "title": "Deterrence/race-to-courthouse concern",
+          "page": "Ch9 §E.1",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Creditors anticipating insolvency may accelerate liens/payment, destabilizing debtor and undermining reorganizability. Preference exposure arguably deters race, although creditor loses only ill-gotten transfer if caught, making deterrence imperfect.",
+          "laymanExplanation": "Risk of being forced to give money back can slow aggressive last-minute collections but maybe not enough.",
+          "legalExplanation": "Source debates whether equality or deterrence better explains ordinary-course protection.",
+          "examApplication": "Mention historic insolvency knowledge requirement abandoned in 1978.",
+          "examTrap": "Do not reinsert knowledge of debtor insolvency as required §547(b) element."
+        },
+        {
+          "id": "bank-ch9-preference-policy-e4",
+          "type": "rule",
+          "title": "Ordinary course protects finality even at cost of absolute equality",
+          "page": "Ch9 §E.1",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Routine payments under §547(c)(2) may stay with payee despite inequality; policy protects ongoing trade and discourages creditors disrupting ordinary operations.",
+          "laymanExplanation": "Regular monthly bill payment is not treated like an extraordinary midnight debt payoff.",
+          "legalExplanation": "BAPCPA revised subjective/industry tests to alternatives; National Gas discusses industry inquiry.",
+          "examApplication": "In essay weigh statutory safe harbors over moral preference.",
+          "examTrap": "Not enough to argue payment was technically legal when made."
+        },
+        {
+          "id": "bank-ch9-preference-policy-e5",
+          "type": "rule",
+          "title": "Policy tension not perfectly coherent according to book",
+          "page": "Ch9 §E.1",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Source concludes §547 presently reflects inconsistent mix of equality, deterrence and commercial continuity; ordinary-course may preserve preferential imbalance while allowing irregular collection clawbacks.",
+          "laymanExplanation": "This is why textbook questions ask 'why protect normal payees?'",
+          "legalExplanation": "Make normative arguments separately from actual statutory rule.",
+          "examApplication": "Briefly explain inconsistency when invited.",
+          "examTrap": "Book's normative critique does not invalidate statute."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-preference-elements",
+      "title": "E.2 Seven §547(b) Preference Elements, Burdens and Insiders",
+      "chapterGroup": "bank-ch9",
+      "description": "Two-step: trustee prima facie then creditor affirmative safe harbors.",
+      "entries": [
+        {
+          "id": "bank-ch9-preference-elements-e1",
+          "type": "rule",
+          "title": "Preference seven-step statutory checklist §547(b)",
+          "page": "Ch9 §E.2",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "(1) transfer (2) debtor's property interest (3) to/for benefit CREDITOR (4) on account ANTECEDENT debt (5) while debtor insolvent (6) within 90 days prepetition, or 1 year if insider creditor benefited (7) enables more than hypothetical Chapter7 liquidation would give that creditor.",
+          "laymanExplanation": "Old debt payment to one vendor while insolvent shortly before petition, with advantage over regular liquidation, is prima facie avoidable.",
+          "legalExplanation": "§547(b)(5) asks counterfactual hypothetical Chapter7 and payment priority, not simply whether debt valid.",
+          "examApplication": "Write all seven elements with factual proof/date.",
+          "examTrap": "If creditor fully secured may fail 'greater-than-liquidation' despite payment."
+        },
+        {
+          "id": "bank-ch9-preference-elements-e2",
+          "type": "rule",
+          "title": "Insolvency presumed in 90 days §547(f)",
+          "page": "Ch9 §E.2",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Trustee benefits rebuttable insolvency presumption during immediate 90-day period. For insider 90–365 day slice the presumption may not apply, trustee must prove actual insolvency.",
+          "laymanExplanation": "Bankruptcy law assumes financial trouble close to filing to simplify proof.",
+          "legalExplanation": "A filing after transfer not itself evidence conclusive day-200 insolvency.",
+          "examApplication": "Map which portion of lookback gets presumption.",
+          "examTrap": "Don't automatically presume insolvency entire insider year."
+        },
+        {
+          "id": "bank-ch9-preference-elements-e3",
+          "type": "rule",
+          "title": "Insider special longer window and §547(i) limiting noninsider avoidance",
+          "page": "Ch9 §E.2",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Preference to/for insider benefit may be avoided up to 1 year; 1994 §550(c) prevents recovery from NONinsider initial recipient solely based on insider benefit after day90. 2005 §547(i) goes further: 90-to-365-day transfer to noninsider for insider advantage is avoided ONLY with respect to insider, preserving recipient's lien and shifting economic recovery to insider.",
+          "laymanExplanation": "Outside lender receives lien to secure CEO guaranteed debt on day200: estate may target insider CEO, not strip lender's protected lien.",
+          "legalExplanation": "Deprizio (7th Cir.) had allowed noninsider recovery; Congress enacted sequential fixes.",
+          "examApplication": "For Problem9.10 split lender Creditor vs guarantor Prez and different filing dates.",
+          "examTrap": "Do not say all one-year insider-related payments recoverable from lender."
+        },
+        {
+          "id": "bank-ch9-preference-elements-e4",
+          "type": "rule",
+          "title": "§547(b)(5) liquidation comparison looks at creditor's total payout",
+          "page": "Ch9 §E.2",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Measure whether challenged transfer plus distribution on remaining claim lets recipient get MORE than it would if transfer never occurred and creditor participated solely in hypothetical Chapter7 distribution. Palmer Clay demonstrates.",
+          "laymanExplanation": "Partial old debt payment still preference when other unsecured get less than 100%.",
+          "legalExplanation": "Protected priority/secured collateral and §547(b)(5) thresholds matter; original Problem9.11 tests collateral $20k vs $12k.",
+          "examApplication": "Build creditor outcome 'transfer kept' vs 'transfer returned + full claim paid by liquidation' without solving original.",
+          "examTrap": "No single numerical cutoff; test actual effect at filing."
+        },
+        {
+          "id": "bank-ch9-preference-elements-e5",
+          "type": "rule",
+          "title": "§547(c) defenses creditor bears burden",
+          "page": "Ch9 §E.2",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Once trustee shows (b), creditor proves c(1) contemporaneous new value, c(2) ordinary course, c(3) enabling loan, c(4) subsequent new value, c(5) floating lien, c(6) statutory lien, c(7) domestic support, c(8) small consumer, c(9) small nonconsumer. §547(h) credit counseling schedule adds special protection.",
+          "laymanExplanation": "Some preference-looking payments encourage fresh goods or safe routine dealing, so cannot all be clawed back.",
+          "legalExplanation": "Distinct affirmative defenses can partially reduce amount rather than blanket exemption.",
+          "examApplication": "Address each defense on same timeline and allocate burden.",
+          "examTrap": "Chapter's $600/$6,825 monetary thresholds reflect historical textbook figures, not validated current indexed amounts."
+        },
+        {
+          "id": "bank-ch9-preference-elements-e6",
+          "type": "rule",
+          "title": "SBRA 2019 reasonable due diligence and known defenses inquiry",
+          "page": "Ch9 §E.2",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Text of §547(b) as amended requires trustee appropriate reasonable due diligence given case circumstances and take into account defendant's known/reasonably knowable §547(c) affirmative defenses BEFORE pursuing avoidance.",
+          "laymanExplanation": "Trustee should not sue obvious good-faith trade supplier blindly if records establish safe harbor.",
+          "legalExplanation": "Diligence condition distinct from litigation defendant's burden of establishing defense.",
+          "examApplication": "Mention in exam if suit seems opportunistic with obvious statutory defense.",
+          "examTrap": "Not proof trustee automatically loses merely because defendant later establishes valid defense."
+        },
+        {
+          "id": "bank-ch9-preference-elements-e7",
+          "type": "rule",
+          "title": "Transfer timing §547(e) and postfiling perfection matter",
+          "page": "Ch9 §E.2",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Transfers for preference measured by when interest perfected relative to original creation, generally if perfected within statutory 30 days transfer may date earlier, otherwise perfection date; §547(e)(3) cannot transfer before debtor owns collateral.",
+          "laymanExplanation": "Security agreement signed in January but filing just before bankruptcy may be judged near filing.",
+          "legalExplanation": "Unlike strong arm §546(b) and UCC PMSI 20-day period, §547 has its own statutory timing/defense clocks.",
+          "examApplication": "Write time of attachment, debtor possession, filing, petition.",
+          "examTrap": "Do not combine 20-day UCC relation-back and 30-day §547(c)(3) enabling-loan mechanics."
+        },
+        {
+          "id": "bank-ch9-preference-elements-e8",
+          "type": "rule",
+          "title": "Preference remedy integrates §550, §551 and §502(h)",
+          "page": "Ch9 §E.2",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Avoided lien preserved estate under §551; returned old debt payment gives unsecured claim §502(h); §550 picks transfer recipient and liable insider with restrictions (c).",
+          "laymanExplanation": "Putting payment back lets all creditors including payee share.",
+          "legalExplanation": "A monetary payout and a lien avoidance require different recovery mechanism.",
+          "examApplication": "After (b)/(c) analyze how dollars/value enter estate.",
+          "examTrap": "Don't treat preference avoidance itself as damages punitive to recipient."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-cunningham",
+      "title": "E.3 Cunningham v. Brown (1924) — Full Charles Ponzi Opinion",
+      "chapterGroup": "bank-ch9",
+      "description": "Substance of prefiling repayment, no successful tracing, statutory equality.",
+      "entries": [
+        {
+          "id": "bank-ch9-cunningham-e1",
+          "type": "case",
+          "title": "Cunningham v. Brown, 265 U.S. 1 (1924)",
+          "page": "Ch9 §E.3 full opinion",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Supreme Court reversed: repayments under Ponzi's own early-pay policy, not proven rescissions; even if rescission, claimants failed to TRACE their own deposits because account was exhausted/replenished by others, so recipients were ordinary creditors and their race-for-repayment transfers were avoidable preferences.",
+          "laymanExplanation": "Even fraud victim's prefiling return of principal can be a preference if proceeds not traceable to that victim and transfer repays antecedent claim during preference period.",
+          "legalExplanation": "Early payout investors weren't repaid their identifiable original res; bank had other victims' deposits by time checks honored. Fraud victims could theoretically reclaim specifically traced property via resulting trust/equitable lien, but without tracing stand on equal unsecured ground. Court prioritized equal distribution and warned against rewards to fastest victims. Old Bankruptcy Act included knowledge standard; modern §547(b) does not require awareness.",
+          "examApplication": "Describe $100→$150 promise, continuous insolvency, August run, replenish deposits, no successful tracing, prefiling repayments.",
+          "examTrap": "Court did NOT declare constructive trusts impossible in bankruptcy; it acknowledged possible tracing when genuinely proven, unlike categorical Omegas approach.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpt included in Chapter9",
+          "facts": "Charles Ponzi from Dec1919 promised lenders $150 in 90 days for each $100 advanced, paid quick early withdrawals, created no real investments; raised ~$9.582m in 8 months with notes ~$14.374m and was continuously insolvent. News of failure triggered rush Aug1920; some investors got principal paid before collapse. Lower courts characterized recipients as rescinding fraud contracts and tracing their own money into bank account, so not preferences.",
+          "issue": "Are prebankruptcy repayments to a few investors in Ponzi's scheme recoverable preferences, or did victims rescind fraudulent loans and recover their OWN traceable trust money outside estate?",
+          "holding": "Supreme Court reversed: repayments under Ponzi's own early-pay policy, not proven rescissions; even if rescission, claimants failed to TRACE their own deposits because account was exhausted/replenished by others, so recipients were ordinary creditors and their race-for-repayment transfers were avoidable preferences.",
+          "reasoning": "Early payout investors weren't repaid their identifiable original res; bank had other victims' deposits by time checks honored. Fraud victims could theoretically reclaim specifically traced property via resulting trust/equitable lien, but without tracing stand on equal unsecured ground. Court prioritized equal distribution and warned against rewards to fastest victims. Old Bankruptcy Act included knowledge standard; modern §547(b) does not require awareness.",
+          "rule": "Even fraud victim's prefiling return of principal can be a preference if proceeds not traceable to that victim and transfer repays antecedent claim during preference period."
+        },
+        {
+          "id": "bank-ch9-cunningham-e2",
+          "type": "rule",
+          "title": "Trust tracing can defeat property-of-debtor requirement if successful",
+          "page": "Ch9 §E.3 / Cunningham",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Court considered traced claimant funds might constitute own property not debtor's and thus not preference; failed because deposits withdrawn and replaced by other customers' money.",
+          "laymanExplanation": "My $5k is still identifiable in bank escrow vs new $5k paid from someone else's deposit.",
+          "legalExplanation": "Contrasts Omegas skepticism about postfiling constructive trusts.",
+          "examApplication": "Ask whether money can be traced to specific fund/res.",
+          "examTrap": "No tracing merely because account always shows positive balance due new deposits."
+        },
+        {
+          "id": "bank-ch9-cunningham-e3",
+          "type": "rule",
+          "title": "Even innocent fraud victims cannot race for more distribution",
+          "page": "Ch9 §E.3 / Cunningham",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Public knowledge of Ponzi failure led creditors to make last-minute recovery demands, favoring those first in queue over remaining victims.",
+          "laymanExplanation": "Lucky withdrawal gets paid in full, unlucky one loses everything.",
+          "legalExplanation": "Preference action restores debtor's pooled fund while victims retain claims.",
+          "examApplication": "For Ponzi clawback revisit §547 and §548 separately.",
+          "examTrap": "Don't infer victims culpable merely because accepted repayment."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-marshall",
+      "title": "E.3 In re Marshall (10th Cir. 2008) — Full Credit-Card Balance Transfer Case",
+      "chapterGroup": "bank-ch9",
+      "description": "Transferred loan proceeds belong to debtor even when bank pays bank directly.",
+      "entries": [
+        {
+          "id": "bank-ch9-marshall-e1",
+          "type": "case",
+          "title": "In re Marshall, 550 F.3d 1251 (10th Cir. 2008)",
+          "page": "Ch9 §E.3 full opinion",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "YES transfer of debtor property. Tenth Circuit REVERSED: borrowers drew on discretionary credit, converted offer into LOAN PROCEEDS, directed their payment, even fleeting proceeds are debtor property; proceeds would have been in estate but for disbursement. Earmarking does not apply because Capital One did not REQUIRE payment of specific old debt as loan condition.",
+          "laymanExplanation": "Debtor's momentary power to direct newly borrowed funds to one old creditor constitutes debtor-property transfer subject §547, even without physical possession; mere balance-sheet creditor substitution not enough to negate preference.",
+          "legalExplanation": "Court separated electronic transaction into draw/new loan → borrower controls proceeds → borrower directs payment to MBNA. Depletion test asks if proceeds would be available to creditors absent diversion, not whether balance sheet net worth changed after offsetting loan liability. True earmarking occurs where third party/new lender dictates debt to be paid, traditionally codebtor/guarantor, avoiding debtor discretion. Different from one bank buying account from another without borrower role.",
+          "examApplication": "$17k+$21k=$38k, same date, bankruptcy Oct13, borrower chose lender funds distribution, no restriction by Capital One.",
+          "examTrap": "Dominion/control here pertains to DEBTOR PROPERTY under §547, not identical to legal initial-transferee test under §550 in Video Depot; source asks fairness/windfall critiques.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpt included in Chapter9",
+          "facts": "Bryan and Julie Marshall owed MBNA on two cards; July27 2005 directed Capital One to pay MBNA $17k and $21k in 'balance transfer' from lines of credit of $30k and $25k. Filed Chapter7 Oct13, within 90 days; trustee sought $38k preference recapture from MBNA. Bankruptcy/district courts called this no debtor property / simple creditor substitution, invoking earmarking. Court examined debtor control vs diminution and borrower instructions.",
+          "issue": "Are debtor-instructed electronic balance transfers from new Capital One credit lines to pay old MBNA cards §547(b) transfer of 'an interest of debtor in property', or nonestate bank-to-bank replacement exempt under earmarking?",
+          "holding": "YES transfer of debtor property. Tenth Circuit REVERSED: borrowers drew on discretionary credit, converted offer into LOAN PROCEEDS, directed their payment, even fleeting proceeds are debtor property; proceeds would have been in estate but for disbursement. Earmarking does not apply because Capital One did not REQUIRE payment of specific old debt as loan condition.",
+          "reasoning": "Court separated electronic transaction into draw/new loan → borrower controls proceeds → borrower directs payment to MBNA. Depletion test asks if proceeds would be available to creditors absent diversion, not whether balance sheet net worth changed after offsetting loan liability. True earmarking occurs where third party/new lender dictates debt to be paid, traditionally codebtor/guarantor, avoiding debtor discretion. Different from one bank buying account from another without borrower role.",
+          "rule": "Debtor's momentary power to direct newly borrowed funds to one old creditor constitutes debtor-property transfer subject §547, even without physical possession; mere balance-sheet creditor substitution not enough to negate preference."
+        },
+        {
+          "id": "bank-ch9-marshall-e2",
+          "type": "rule",
+          "title": "Earmarking doctrine requires constrained designated use, not unilateral wish",
+          "page": "Ch9 §E.3 / Marshall",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "If new lender advances only to discharge specified creditor's debt and debtor never can redirect, funds may never be debtor's estate property; Capital One simply honored debtors' own choice.",
+          "laymanExplanation": "Lender says 'must pay Supplier X' vs borrower independently chooses whom to pay.",
+          "legalExplanation": "Source footnote notes doctrine initially codebtor surety context and later extended.",
+          "examApplication": "Inspect loan agreement and actual discretion.",
+          "examTrap": "'Bank sent wire directly' does not establish earmarking."
+        },
+        {
+          "id": "bank-ch9-marshall-e3",
+          "type": "rule",
+          "title": "Diminution test asks assets but for transfer, not net equity change",
+          "page": "Ch9 §E.3 / Marshall",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Court said net estate value unchanged after replacing MBNA with Capital One claim, yet new cash proceeds existed as debtor property momentarily; transferring them to MBNA removed allocable asset for pro rata creditors.",
+          "laymanExplanation": "Having $38k new cash and $38k new debt doesn't mean debtor never owned cash.",
+          "legalExplanation": "§547 property test compares hypothetical cash asset retained rather than impossible world where no borrowing.",
+          "examApplication": "Be precise about alternative baseline when asked critique.",
+          "examTrap": "Book asks whether Marshall unfair windfall to other creditors, no single answer imposed."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-palmer-clay",
+      "title": "E.3 Palmer Clay Products v. Brown (1936) — Full More-Than-Ch7 Test",
+      "chapterGroup": "bank-ch9",
+      "description": "Measure actual effect at bankruptcy; partial debt payments are preferential.",
+      "entries": [
+        {
+          "id": "bank-ch9-palmer-clay-e1",
+          "type": "case",
+          "title": "Palmer Clay Products v. Brown, 297 U.S. 227 (1936)",
+          "page": "Ch9 §E.3 full opinion",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "Supreme Court (Brandeis) AFFIRMED trustee recovery: determine preference by actual EFFECT when bankruptcy results, not speculative liquidation on each prior payment date. Creditor paid part before petition gets higher total % when Chapter7 dividend below 100%.",
+          "laymanExplanation": "Partial prepetition payment to otherwise unsecured creditor can improve its total recovery, even if debtor was solvent enough earlier to make pro rata payment then; evaluate eventual Chapter7 baseline.",
+          "legalExplanation": "Court illustrated $10k claimant receiving $1k before bankruptcy, then 50% on $9k balance => total $5.5k; no-payment same-class $10k claim gets $5k. Thus transfer recipient got greater fraction. Rejects impractical many hypothetical earlier liquidations. Principle implemented current §547(b)(5).",
+          "examApplication": "Source $10,000/$1,000/50% -> $5,500 vs $5,000 independent Supreme Court example.",
+          "examTrap": "If creditor fully secured or 100% paid in Chapter7, result may differ; original Problem9.11 asks collateral value distinction, left unanswered.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpt included in Chapter9",
+          "facts": "Palmer Clay received several payments against overdue invoices from Metropolitan Builders Supply within old Act preference period; trustee recovered $1,843. Defendant argued each payment not preference if debtor could hypothetically have distributed same percentage to all creditors on exact PAYMENT DATE; lower court rejected.",
+          "issue": "Does preference comparison turn on debtor's capacity to distribute similarly to creditors when each payment occurred, or on eventual actual effect in resulting bankruptcy?",
+          "holding": "Supreme Court (Brandeis) AFFIRMED trustee recovery: determine preference by actual EFFECT when bankruptcy results, not speculative liquidation on each prior payment date. Creditor paid part before petition gets higher total % when Chapter7 dividend below 100%.",
+          "reasoning": "Court illustrated $10k claimant receiving $1k before bankruptcy, then 50% on $9k balance => total $5.5k; no-payment same-class $10k claim gets $5k. Thus transfer recipient got greater fraction. Rejects impractical many hypothetical earlier liquidations. Principle implemented current §547(b)(5).",
+          "rule": "Partial prepetition payment to otherwise unsecured creditor can improve its total recovery, even if debtor was solvent enough earlier to make pro rata payment then; evaluate eventual Chapter7 baseline."
+        },
+        {
+          "id": "bank-ch9-palmer-clay-e2",
+          "type": "rule",
+          "title": "§547(b)(5) numerical comparison",
+          "page": "Ch9 §E.3 / Palmer Clay",
+          "source": "Uploaded Bankruptcy Chapter9 §E Preferences §547, full Cunningham v Brown, In re Marshall, Palmer Clay Products v Brown",
+          "summary": "If claim C and prepayment P to old debt, and projected unsecured payout d, creditor keeping payment gains P + d(C−P); without P its claim C collects dC; DIFFERENCE = P(1−d), assuming same class and pool for illustration.",
+          "laymanExplanation": "Getting $1k early at 50% plan gives $500 extra compared to others.",
+          "legalExplanation": "Original book provides this independent numeric illustration; treat percentage baseline and plan values carefully.",
+          "examApplication": "Use general algebra; then discuss why secured collateral changes eligible claim.",
+          "examTrap": "Don't treat formula as substitute for statutory secured-creditor deficiency treatment."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
