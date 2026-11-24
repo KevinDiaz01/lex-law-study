@@ -1,0 +1,253 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+  "coverage": {
+    "chapter": 8,
+    "scope": "F.2 assumption-then-assignment, §365(f)(2) assignee assurance, §365(k) release, anti-assignment clause overriding, subleases vs assignments, nonshopping-center Martin Paint full case and special shopping-center restrictions, Problem8.9 unanswered"
+  },
+  "topics": [
+    {
+      "id": "bank-ch8-assignment-rules",
+      "title": "F.2(a–c) Assignment: Assume First, Release Estate, Antiassignment Override",
+      "chapterGroup": "bank-ch8",
+      "description": "Sale of valuable executory contract and new obligor's performance promise.",
+      "entries": [
+        {
+          "id": "bank-ch8-assignment-rules-e1",
+          "type": "rule",
+          "title": "Assume BEFORE assign and cure defaults §365(f)(2)(A), §365(b)",
+          "page": "Ch.8 §F.2(a–b)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Trustee can transfer valuable contract only after formal assumption, paying/correcting existing defaults and actual pecuniary losses; assignee offers adequate assurance of future performance §365(f)(2)(B).",
+          "laymanExplanation": "Can't flip an under-market retail lease to a new shop without bringing landlord current and proving assignee capable.",
+          "legalExplanation": "Cure protects counterparty against prebankruptcy arrears, which may otherwise be ordinary unsecured.",
+          "examApplication": "Set order: existence → §365(c) restriction → assumption/cure → assignee assurance → assignment approval.",
+          "examTrap": "Do not say §365(f)(1) allows transferring any dead/nonassumable agreement."
+        },
+        {
+          "id": "bank-ch8-assignment-rules-e2",
+          "type": "rule",
+          "title": "§365(k): estate relieved of postassignment breach",
+          "page": "Ch.8 §F.2(a)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "After assignment in bankruptcy trustee/estate has no liability for assignee's later performance breach, unlike common-law assignor responsibility; debtor's personal liability also affected by discharge.",
+          "laymanExplanation": "Old tenant sells cheap lease and is not guarantor of new tenant's later default under §365(k).",
+          "legalExplanation": "For that substitution nondebtor entitled meaningful evidence assignee will pay.",
+          "examApplication": "Compare with sublease where estate still owes rent.",
+          "examTrap": "Not automatic release merely because debtor sublets part of space."
+        },
+        {
+          "id": "bank-ch8-assignment-rules-e3",
+          "type": "rule",
+          "title": "Antiassignment clauses usually unenforceable §365(f)(1)",
+          "page": "Ch.8 §F.2(c)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Ordinary contractual restrictions prohibiting, restricting or conditioning assignment are overridden, even if in applicable law generally enforcing such clauses, subject narrow §365(c) identity-based nondelegation.",
+          "laymanExplanation": "Contract says 'landlord may veto any assignment'—usually not enough to stop valuable bankruptcy assignment.",
+          "legalExplanation": "Special personal-service/genuine nondelegability and shopping-center assurances may constrain.",
+          "examApplication": "For Problem8.9 consider how 75% profit-sharing condition restricts assignment; leave result unanswered.",
+          "examTrap": "Do not assume all statutory/identity-specific bars to assignment erased."
+        },
+        {
+          "id": "bank-ch8-assignment-rules-e4",
+          "type": "rule",
+          "title": "Financial value of discounted lease can be sold",
+          "page": "Ch.8 §F.2(c)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Example casebook: $8k/year remaining lease, market rent $13k/year, 1 year left => gross below-market contract spread $5k, before cure/transaction costs.",
+          "laymanExplanation": "Estate can sell opportunity to rent cheaply instead of let old landlord reclaim market spread.",
+          "legalExplanation": "Source distinguishes benefit captured for all creditors vs private lessor windfall.",
+          "examApplication": "Set up (market rent−contract rent)×remaining term, adjusted to cashflow and costs.",
+          "examTrap": "A negotiated assignment sale price may differ from theoretical spread."
+        },
+        {
+          "id": "bank-ch8-assignment-rules-e5",
+          "type": "rule",
+          "title": "Sublease versus assignment: duties and clauses differ",
+          "page": "Ch.8 §F.2(a)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Assignment under §365(k) releases estate on future breaches, assignee independently assures performance, §365(f)(1) limits anti-assignment provisions. Sublease: estate remains liable to landlord, sublessee no (f)(2)(B) statutory assurance, anti-subletting clauses not overridden by (f)(1).",
+          "laymanExplanation": "Letting someone rent your unit while you remain responsible isn't same as handing over the lease entirely.",
+          "legalExplanation": "These distinctions impact monetizing lease and third-party risk.",
+          "examApplication": "Identify assignment or sublease based on actual transaction terms.",
+          "examTrap": "Don't apply trustee-released §365(k) to subletting."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-assignment-assurance",
+      "title": "F.2(d–e) Adequate Assurance and Shopping Center vs Nonshopping-Center",
+      "chapterGroup": "bank-ch8",
+      "description": "Assignee's risk and special landlord/other-tenant protections.",
+      "entries": [
+        {
+          "id": "bank-ch8-assignment-assurance-e1",
+          "type": "rule",
+          "title": "§365(f)(2)(B) adequate assurance mandatory for EVERY assignment",
+          "page": "Ch.8 §F.2(d)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Even if debtor had no prepetition default, forced assignment requires assurance assignee will perform in future, typically financial statements, working capital, reserve, business projections, guarantees, prior performance.",
+          "laymanExplanation": "Original landlord shouldn't be forced to trade a reliable tenant for insolvent stranger.",
+          "legalExplanation": "Assumption only demands assurance under §365(b)(1)(C) when defaulted; assignment ALWAYS.",
+          "examApplication": "Separate proof of assignee finances from cure of old defaults.",
+          "examTrap": "An antiassignment waiver doesn't waive assurance."
+        },
+        {
+          "id": "bank-ch8-assignment-assurance-e2",
+          "type": "rule",
+          "title": "Bankruptcy court assesses real practical performance risk",
+          "page": "Ch.8 §F.2(d)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Legislative history expects full economic benefit of nondebtor's bargain; judges require evidence assignee won't create greater default risk than original tenant.",
+          "laymanExplanation": "Business plan with projected positive receipts is weaker than actual available cash and reliable guarantees.",
+          "legalExplanation": "Review operating history, market demand, tenant suitability, rent security.",
+          "examApplication": "List concrete documents and explain risk.",
+          "examTrap": "Assignee merely saying 'I'll pay' is inadequate."
+        },
+        {
+          "id": "bank-ch8-assignment-assurance-e3",
+          "type": "rule",
+          "title": "§365(l) lessor may require usual security deposit",
+          "page": "Ch.8 §F.2(d)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Lessor under assigned lease can obtain deposit/other security substantially same as voluntary lease to comparable tenant.",
+          "laymanExplanation": "Landlord can request ordinary market-standard deposit when court substitutes new company.",
+          "legalExplanation": "Distinct from right to outright veto bankruptcy assignment.",
+          "examApplication": "Compare requested security to peer similar tenant.",
+          "examTrap": "Not unlimited extra deposit to defeat §365(f)."
+        },
+        {
+          "id": "bank-ch8-assignment-assurance-e4",
+          "type": "rule",
+          "title": "Non-shopping-center may relax use clause upon actual/substantial detriment showing",
+          "page": "Ch.8 §F.2(d) / Martin Paint",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Without statutory §365(b)(3) shopping-center rule, court has discretion to approve deviation from nonshopping lease use restrictions unless landlord shows ACTUAL AND SUBSTANTIAL prejudice, not speculative competitive disadvantage.",
+          "laymanExplanation": "Paint store lease can go to apparel seller if landlord cannot prove real economic injury.",
+          "legalExplanation": "Source Martin Paint follows U.L. Radio reasoning and weighs landlord's financial expectations.",
+          "examApplication": "First determine whether location qualifies as shopping center.",
+          "examTrap": "Don't apply Martin Paint flexibility to special §365(b)(3) shopping-center leases."
+        },
+        {
+          "id": "bank-ch8-assignment-assurance-e5",
+          "type": "rule",
+          "title": "Shopping-center §365(b)(3) strict terms and tenant mix",
+          "page": "Ch.8 §F.2(e)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Mall/shopping center requires adequate assurance of source of rent, similar financial condition of assignee to original tenant, no substantial decline percentage rent, full compliance radius/location/use/exclusivity terms in its and related agreements, and no disruption of tenant mix.",
+          "laymanExplanation": "Mall built around coordinated anchor shops has stricter protections than stand-alone commercial building.",
+          "legalExplanation": "1984 amendments removed 'substantially' from compliance with use/exclusivity and tenant mix, tipping balance toward lessors.",
+          "examApplication": "In 8.8 note shopping center cannot simply rebrand into takeout violating snowmobile-only use.",
+          "examTrap": "Don't call every multi-tenant block automatically nonshopping; Joshua Slocum counted streetfront case as center."
+        },
+        {
+          "id": "bank-ch8-assignment-assurance-e6",
+          "type": "rule",
+          "title": "What counts as shopping center: functional planned integration",
+          "page": "Ch.8 §F.2(e)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Code leaves undefined; legislative history discusses planned integrated development, master agreements, rental percentages, common amenities, tenant-mix planning; Joshua Slocum even found downtown block with one landlord may qualify.",
+          "laymanExplanation": "A row of small shops can be a shopping center on facts despite no big mall parking lot.",
+          "legalExplanation": "Classification changes entire §365(b)(3) outcome.",
+          "examApplication": "List unit planning and use coordination, not merely number of floors.",
+          "examTrap": "A building being 'commercial' does not necessarily make it statutory shopping center."
+        },
+        {
+          "id": "bank-ch8-assignment-assurance-e7",
+          "type": "rule",
+          "title": "Shopping-center limits apply on assumption of default AND assignment",
+          "page": "Ch.8 §F.2(e)",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Assumption of defaulted shopping-center lease requires §365(b)(1)(C) future assurance; assignment always requires §365(f)(2)(B), each incorporates §365(b)(3) stringent criteria.",
+          "laymanExplanation": "Even staying as tenant can require assurances about required store use when in default.",
+          "legalExplanation": "Compare cure/going dark and new assignee proposal separately.",
+          "examApplication": "State triggering provision when applying shopping-center constraints.",
+          "examTrap": "Landlord's protections are not only for assignment cases."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-martin-paint",
+      "title": "F.2(d) In re Martin Paint Stores (1996) — Full Case Brief",
+      "chapterGroup": "bank-ch8",
+      "description": "Nonshopping-center paint store assignment to competing apparel seller, standing and legal impossibility.",
+      "entries": [
+        {
+          "id": "bank-ch8-martin-paint-e1",
+          "type": "case",
+          "title": "In re Martin Paint Stores, 199 B.R. 258 (Bankr. S.D.N.Y. 1996)",
+          "page": "Ch.8 §F.2(d) / Martin Paint full opinion",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Yes. Court overruled landlord Feldco and Persuasion objections and approved assignment: no actual and substantial harm to landlord shown, competing tenant lacked direct standing to challenge debtor lease, and court-approved assignment legally excused landlord from incompatible exclusivity promise under impossibility doctrine.",
+          "laymanExplanation": "For nonshopping-center lease, use clause deviation may be permitted absent proof actual/substantial landlord detriment; competing tenant doesn't automatically have standing to veto and possible conflicts with its lease may be excused through court-order impossibility on source facts.",
+          "legalExplanation": "For nonshopping-center leases, §365 policy favors capturing asset value; strict enforcement of use clause demands proof actual/substantial detriment, not speculative concern. Persuasion wasn't debtor creditor or beneficiary of Martin lease and lacked standing; court considered evidence anyway. Feldco fixed rent from rival regardless sales, many competitors nearby and new shop could bring customers, speculative 20% drop not enough. Court said judicial order rendered landlord's literal performance under separate exclusivity clause legally impossible without own fault, and avoided liability under state contract impossibility; otherwise other tenants could veto valuable estate assignments contrary §365(f). Shopping center §365(b)(3) explicitly different.",
+          "examApplication": "Mention $75k bid, $18k cure, $40k estate gain, $9.5k rent, fixed competitor rent, existing neighborhood clothing competitors, asserted 20% dip, tenant standing.",
+          "examTrap": "Not general authorization to breach ANY unrelated third-party lease without consequence; §365(b)(3) shopping centers enforce strict exclusivity, and impossibility rationale is contested in chapter questions.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in supplied Chapter8",
+          "facts": "Paint/hardware retailer Martin Paint Chapter11 filed Aug18 1995 with ~30 stores, failed reorganization and auctioned leases. Pretty Girl clothing company bid $75k for Bronx 947 Southern Blvd storefront lease at $9,500/month through July2007, with $18k arrears to Feldco landlord and estimated ~$40k net benefit after cure/commissions. Lease limited paint/hardware/home improvement. Other building tenant Persuasion Ladies' Stores had a lease barring landlord from leasing in same building to store selling ladies' clothes EXCLUSIVELY; Persuasion/landlord objected. Feldco admitted building not a shopping center. Rival already faced neighborhood competitors; rival's rent fixed not percent-of-sales; financial ability of Pretty Girl not disputed.",
+          "issue": "Can Chapter11 estate assume and assign NONshopping-center store lease from paint retailer to women's apparel company despite use clause and another tenant's exclusivity, when landowner claims lost rent/competition?",
+          "holding": "Yes. Court overruled landlord Feldco and Persuasion objections and approved assignment: no actual and substantial harm to landlord shown, competing tenant lacked direct standing to challenge debtor lease, and court-approved assignment legally excused landlord from incompatible exclusivity promise under impossibility doctrine.",
+          "reasoning": "For nonshopping-center leases, §365 policy favors capturing asset value; strict enforcement of use clause demands proof actual/substantial detriment, not speculative concern. Persuasion wasn't debtor creditor or beneficiary of Martin lease and lacked standing; court considered evidence anyway. Feldco fixed rent from rival regardless sales, many competitors nearby and new shop could bring customers, speculative 20% drop not enough. Court said judicial order rendered landlord's literal performance under separate exclusivity clause legally impossible without own fault, and avoided liability under state contract impossibility; otherwise other tenants could veto valuable estate assignments contrary §365(f). Shopping center §365(b)(3) explicitly different.",
+          "rule": "For nonshopping-center lease, use clause deviation may be permitted absent proof actual/substantial landlord detriment; competing tenant doesn't automatically have standing to veto and possible conflicts with its lease may be excused through court-order impossibility on source facts."
+        },
+        {
+          "id": "bank-ch8-martin-paint-e2",
+          "type": "rule",
+          "title": "Why rival Persuasion lacked standing",
+          "page": "Ch.8 §F.2 / Martin Paint",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Persuasion wasn't debtor creditor, debtor's lease party or intended beneficiary of Martin Paint use clause, so not entitled to demand §365 assurance, which belongs landlord; court considered equivalent evidence in landlord's own objection.",
+          "laymanExplanation": "Neighbor store can't independently veto just because it dislikes competition.",
+          "legalExplanation": "Court separates economic competitive concerns from statutory standing to object.",
+          "examApplication": "Who may invoke rights under particular lease?",
+          "examTrap": "A rival tenant can have its own contract claim against landlord; standing issue isn't necessarily substantive extinguishment."
+        },
+        {
+          "id": "bank-ch8-martin-paint-e3",
+          "type": "rule",
+          "title": "Actual and substantial detriment was NOT shown",
+          "page": "Ch.8 §F.2 / Martin Paint",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Persuasion's lease rent was fixed and no evidence Pretty Girl entry threatened collection; clothing competition already existed; landlord's worry about rival sales and percentage-rent nonexistent.",
+          "laymanExplanation": "More competition isn't automatically proof landlord will lose rent.",
+          "legalExplanation": "Protects estate's ~$40k surplus subject payment of arrears and assignee performance.",
+          "examApplication": "Use evidence and actual landlord exposure.",
+          "examTrap": "Not a blanket rule that tenant-mix concerns never matter."
+        },
+        {
+          "id": "bank-ch8-martin-paint-e4",
+          "type": "rule",
+          "title": "Impossibility defense for landlord's other exclusivity covenant",
+          "page": "Ch.8 §F.2 / Martin Paint",
+          "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+          "summary": "Court reasoned involuntary judicially approved assignment makes fulfillment of separate exclusivity promise legally impossible, without landlord causal fault, preventing landlord damages for unavoidable breach.",
+          "laymanExplanation": "Judge compelled new tenant, landlord didn't choose to violate rival's covenant.",
+          "legalExplanation": "Book calls a potentially sweeping Catch-22; shouldn't mechanically extrapolate.",
+          "examApplication": "Explain interplay of §365(f) and nondebtor third-party agreements.",
+          "examTrap": "This is lower-court holding under specific state-law impossibility reasoning."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-problem8-9",
+      "title": "F.2 Original Problem 8.9: 75% Assignment Premium Clause (UNSOLVED)",
+      "chapterGroup": "bank-ch8",
+      "description": "Lease value allocation and indirect contractual conditions.",
+      "entries": []
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch8-p8-9",
+      "topicId": "bank-ch8-problem8-9",
+      "title": "Problem 8.9 — 75% assignment premium",
+      "kind": "Original Chapter 8 casebook problem — UNSOLVED",
+      "source": "User-uploaded Bankruptcy Chapter8 §F.2 assignment, full In re Martin Paint Stores opinion, §§365(f),(k),(l),(b)(3), original Problem8.9",
+      "prompt": "Debtor tenant leases retail space for $20,000 annual rent. Clause requires tenant pay lessor 75% of all assignee amounts exceeding base rental as CONDITION of assignment. Debtor Chapter11 seeks assume and assign to assignee for $28,000/year. Lessor objects demanding $6,000, representing 75% of $8,000 yearly spread. Analyze §§365(f)(1),(f)(2), cure and anti-assignment restrictions, without solving original.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
