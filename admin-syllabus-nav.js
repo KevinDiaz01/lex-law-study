@@ -63,7 +63,15 @@ const units=[
   {title:'Electronic Rulemaking & Comments',detail:'§ 5.4.1b · pp. 262–267',ids:['admin-ch5-electronic']},
   {title:'Formal Rulemaking — Florida East Coast',detail:'§ 5.4.2 · pp. 267–273',ids:['admin-ch5-formal']},
   {title:'Hybrid Rulemaking — Vermont Yankee',detail:'§ 5.4.3 · pp. 273–283',ids:['admin-ch5-hybrid']},
-  {title:'Procedural Regularity & Regulatory Analysis',detail:'pp. 283–344',match:/procedural regularity|regulatory analysis/i},
+  {title:'Agency Heads & Rulemaking Record',detail:'§ 5.5.1 · pp. 283–284',ids:['admin-ch5-heads-rulemaking']},
+  {title:'Ex Parte Contacts — HBO & Sierra Club',detail:'§ 5.5.2 · pp. 284–298',ids:['admin-ch5-ex-parte-rulemaking']},
+  {title:'Bias & Prejudgment — ANA',detail:'§ 5.5.3 · pp. 298–306',ids:['admin-ch5-rulemaking-bias']},
+  {title:'Findings & Reasons — Independent Insurers',detail:'§ 5.6 · pp. 306–316',ids:['admin-ch5-findings-reasons']},
+  {title:'Issuance & Publication',detail:'§ 5.7 · pp. 316–324',ids:['admin-ch5-issuance-publication']},
+  {title:'Regulatory CBA — Sunstein vs Heinzerling',detail:'§ 5.8.1 · pp. 324–330',ids:['admin-ch5-cba-theory']},
+  {title:'Federal CBA Requirements & Michigan',detail:'§ 5.8.1 · pp. 330–335',ids:['admin-ch5-cba-federal']},
+  {title:'Corrosion Proof Fittings & TSCA',detail:'§ 5.8.2 · pp. 335–340',ids:['admin-ch5-corrosion-proof']},
+  {title:'State Regulatory Analysis',detail:'§ 5.8.3 · pp. 340–344',ids:['admin-ch5-state-reg-analysis']},
   {title:'Good Cause & Emergency Rules — Jifry',detail:'§ 6.1.1 · pp. 355–363',ids:['admin-ch6-good-cause']},
   {title:'Subject-Matter Rulemaking Exemptions',detail:'§ 6.1.2 · pp. 363–366',ids:['admin-ch6-categorical']},
   {title:'Procedural Rules — Public Citizen',detail:'§ 6.1.3 · pp. 366–369',ids:['admin-ch6-procedural']},
@@ -80,7 +88,9 @@ const units=[
   {title:'Other Legislative Controls',detail:'§ 7.4.3 · pp. 489–493',ids:['admin-legislative-other']},
   {title:'Presidential Review & OIRA',detail:'§ 7.6 · pp. 535–544',ids:['admin-executive-oira']},
   {title:'State Executive Oversight',detail:'§ 7.6 · pp. 544–551',ids:['admin-executive-state']},
-  {title:'Negotiated Rulemaking',detail:'pp. 344–353',match:/negotiated rulemaking/i}
+  {title:'Negotiated Rulemaking — NRA & Lubbers',detail:'§ 5.9 · pp. 344–347',ids:['admin-ch5-negotiated-rulemaking']},
+  {title:'Negotiated Rulemaking — Funk Critique',detail:'§ 5.9 · pp. 347–350',ids:['admin-ch5-negotiated-critique']},
+  {title:'Reg-Neg Judicial Review & FIFRA',detail:'§ 5.9 · pp. 350–353',ids:['admin-ch5-negotiated-judicial-review']}
  ]},
  {name:'VI. Judicial Review',caption:'Classes 21–26 · Nov 4–23',items:[
   {title:'Scope of Review — Introduction',detail:'§ 9 · pp. 579–580',ids:['admin-ch9-intro']},
