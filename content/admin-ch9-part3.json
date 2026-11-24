@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+  "coverage": {
+    "submittedPages": "620–668",
+    "includedPages": "622–632",
+    "syllabus": "Lubbers Fall 2026 Scope of Judicial Review: § 9.2.4, agency interpretations of own regulations, pp. 622–631, Kisor v Wilkie p.623",
+    "existingCoverage": "Major questions pp. 613–622 completed in Chapter 9 part 2"
+  },
+  "topics": [
+    {
+      "id": "admin-ch9-kisor-regulations",
+      "title": "§ 9.2.4 — Agency Interpretation of Own Regulations: Kisor, Auer & Seminole Rock (pp. 622–631)",
+      "chapterGroup": "admin-ch9",
+      "description": "Assigned Kisor opinion; limited regulatory deference, full doctrine and contrasted opinions, original-law/statute interpretation under Loper Bright and unsolved nursing-home hypothetical.",
+      "entries": [
+        {
+          "id": "admin-ch9-kisor-regulations-e1",
+          "type": "rule",
+          "title": "Auer / Seminole Rock doctrine after Kisor",
+          "page": "622–625",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Courts may defer to an agency's authoritative reasonable interpretation of its OWN regulation only under strict Kisor conditions. Seminole Rock (1945) and Auer (1997) remain precedents as narrowed by Kisor (2019).",
+          "laymanExplanation": "An agency can sometimes explain its own ambiguous rule, but it doesn't automatically win because it wrote that rule.",
+          "legalExplanation": "Kisor retained qualified Auer after rejecting wholesale overruling. Statute interpretation under Loper Bright is different from regulation interpretation; two doctrines must be separately evaluated.",
+          "examApplication": "First identify which text is being interpreted: statute enacted by Congress, or legislative regulation promulgated by agency.",
+          "examTrap": "Do not write that Loper Bright automatically overruled Kisor/Auer."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e2",
+          "type": "case",
+          "title": "Kisor v. Wilkie, 588 U.S. 558 (2019)",
+          "page": "623–629",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "No. The Court retained Auer/Seminole Rock but sharply limited availability to genuinely ambiguous rules and qualifying interpretations; vacated/remanded Federal Circuit's cursory deference. On remand court again ruled against Kisor after finding one reasonable reading, not owing Auer deference.",
+          "laymanExplanation": "Sequential Kisor limitations: (1) regulation genuinely ambiguous after exhausting interpretive tools; (2) agency interpretation within reasonable range; (3) authoritative agency view; (4) agency substantive expertise; (5) fair and considered judgment, not post hoc position or unfair surprise. Otherwise interpret independently, considering persuasiveness.",
+          "legalExplanation": "Justice Kagan plurality emphasized agency expertise, policy authority, interpretive uniformity and Congress's presumptive delegation; Chief Justice Roberts joined Parts II-B and III-B establishing binding limitations and stare decisis basis. Deference possible only after independent use of traditional tools, genuine ambiguity, agency reading reasonable and authoritative, expertise implicated and interpretation fair/considered without unfair surprise. Roberts viewed gap with Gorsuch smaller than rhetoric; Gorsuch argued plain meaning and Skidmore persuasive weight instead, favoring overruling Auer.",
+          "examApplication": "Run all five conditions. Identify official manual vs ad hoc litigator statement; analyze notice and unfair surprise especially where punitive sanctions are imposed.",
+          "examTrap": "Plurality rationale not necessarily majority; Roberts joined the controlling limitations. Kisor applies to regulation interpretation, not a statute like HEROES Act.",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpt in assigned textbook",
+          "facts": "Vietnam veteran James Kisor sought retroactive VA PTSD disability benefits. VA rejected claim based on interpretation of its own regulation. Federal Circuit found regulatory wording ambiguous and deferred under Auer. Supreme Court granted review specifically on whether to overrule Auer/Seminole Rock.",
+          "issue": "Should Supreme Court discard Auer's deference to reasonable agency interpretations of their own regulations, and how should judges decide whether any such deference is warranted?",
+          "holding": "No. The Court retained Auer/Seminole Rock but sharply limited availability to genuinely ambiguous rules and qualifying interpretations; vacated/remanded Federal Circuit's cursory deference. On remand court again ruled against Kisor after finding one reasonable reading, not owing Auer deference.",
+          "reasoning": "Justice Kagan plurality emphasized agency expertise, policy authority, interpretive uniformity and Congress's presumptive delegation; Chief Justice Roberts joined Parts II-B and III-B establishing binding limitations and stare decisis basis. Deference possible only after independent use of traditional tools, genuine ambiguity, agency reading reasonable and authoritative, expertise implicated and interpretation fair/considered without unfair surprise. Roberts viewed gap with Gorsuch smaller than rhetoric; Gorsuch argued plain meaning and Skidmore persuasive weight instead, favoring overruling Auer.",
+          "rule": "Sequential Kisor limitations: (1) regulation genuinely ambiguous after exhausting interpretive tools; (2) agency interpretation within reasonable range; (3) authoritative agency view; (4) agency substantive expertise; (5) fair and considered judgment, not post hoc position or unfair surprise. Otherwise interpret independently, considering persuasiveness."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e3",
+          "type": "rule",
+          "title": "Step 1: Exhaust interpretive tools before declaring regulation ambiguous",
+          "page": "624–625",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Court must read regulatory text, structure, history, purpose and other ordinary tools without using agency interpretation as shortcut. Only unresolved genuine ambiguity potentially triggers Auer.",
+          "laymanExplanation": "First try to figure out what rule actually means yourself; only if stuck proceed.",
+          "legalExplanation": "Kisor demands rigorous construction identical to court's exercise absent agency; ambiguity not merely disagreement among parties.",
+          "examApplication": "Identify competing meanings, context and whether text actually resolves dispute.",
+          "examTrap": "An agency saying 'ambiguous' does not suffice."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e4",
+          "type": "rule",
+          "title": "Step 2: Reading must be reasonable within genuine ambiguity",
+          "page": "625",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Even when regulation is genuinely ambiguous, agency's preferred interpretation must fit permissible semantic and contextual range.",
+          "laymanExplanation": "The rule may have two sensible meanings; agency cannot claim a third wild meaning.",
+          "legalExplanation": "Zone of ambiguity is defined after traditional interpretation; a reading inconsistent with clear text receives no Auer.",
+          "examApplication": "Quote regulation, compare interpretive meaning and limiting words.",
+          "examTrap": "Auer is not permission to revise regulation without rulemaking."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e5",
+          "type": "rule",
+          "title": "Step 3: Interpretation must be authoritative or official",
+          "page": "625–626",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Meaning must emanate from actors or vehicles recognized to speak officially for agency; some published staff memoranda qualify, offhand informal statements normally do not.",
+          "laymanExplanation": "An official policy manual might count, but random employee's opinion usually won't.",
+          "legalExplanation": "Formal promulgation or head approval not always required, but reliable chain of institutional policy matters.",
+          "examApplication": "Investigate status of CMS operations manual and who authorized it.",
+          "examTrap": "Don't assume any manual or website note necessarily authoritative."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e6",
+          "type": "rule",
+          "title": "Step 4: Substantive agency expertise must matter",
+          "page": "625–626",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Agency has comparative advantage on technical/administrative application in its field; no deference when deciding standard common-law property term or attorney fee issue unrelated to agency mission.",
+          "laymanExplanation": "FDA may be better on drug chemistry; judge may be as good on a generic legal term.",
+          "legalExplanation": "Kisor majority/principle recognizes policy/technical matters and special comparative experience.",
+          "examApplication": "Classify issue scientific, medical, engineering vs ordinary legal interpretation.",
+          "examTrap": "Agency label cannot turn generic legal meaning into exclusive technical expertise."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e7",
+          "type": "rule",
+          "title": "Step 5: Fair and considered judgment; avoid post hoc position and unfair surprise",
+          "page": "625–626",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Do not defer to convenient litigation position, post hoc rationalization, inconsistent casual interpretation, or new interpretation creating unfair surprise to regulated parties.",
+          "laymanExplanation": "Government cannot impose a fine using a hidden new reading that business couldn't reasonably foresee.",
+          "legalExplanation": "Fair notice and consistency limitations particularly important when regulated people face penalties.",
+          "examApplication": "Identify prior notice, change in position, reliance, sanction and interpretive timing.",
+          "examTrap": "Even textually reasonable agency reading can fail because surprise or lack of deliberation."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e8",
+          "type": "rule",
+          "title": "No Kisor deference if any threshold missing; Skidmore persuasion may remain",
+          "page": "624–628",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Failure of Kisor prerequisites means court independently interprets and may give agency view weight according to expertise, reasoning, consistency and persuasiveness.",
+          "laymanExplanation": "If no special deference, judge can still listen respectfully to agency expert.",
+          "legalExplanation": "Kagan recognizes power to persuade where no controlling Auer; Roberts distinguishes deference from persuasiveness; Gorsuch favors Skidmore only.",
+          "examApplication": "State legal outcome: independently determine best meaning, even if agency offers plausible view.",
+          "examTrap": "Do not treat zero deference as ignoring agency knowledge."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e9",
+          "type": "rule",
+          "title": "Kisor controlling portions versus plurality reasoning",
+          "page": "623–628",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Justice Kagan's full account was plurality; Chief Justice Roberts joined Parts II-B (limitations) and III-B (stare decisis), making controlling rules majority; other rationales did not uniformly command five.",
+          "laymanExplanation": "The justices agreed on safeguards more than on the theory justifying them.",
+          "legalExplanation": "On doctrine exam, cite binding limited test, then describe contrasting justification separately.",
+          "examApplication": "Avoid claiming entire Kagan opinion is five-Justice holding.",
+          "examTrap": "Justice Roberts did not endorse all plurality's delegation logic."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e10",
+          "type": "concept",
+          "title": "Kagan/Roberts rationale: expertise, accountability, uniformity and stare decisis",
+          "page": "624–628",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Agencies often best placed to elucidate technical rules and maintain consistent applications; Court retained long line of precedents. Roberts saw substantial overlap with Gorsuch when limits properly enforced.",
+          "laymanExplanation": "Agency expert may know why its technical language was used, so courts can defer narrowly.",
+          "legalExplanation": "Kagan's rationale claims presumed congressional intent to assign policy-laden gap filling to agencies, but Roberts' separate opinion was narrower.",
+          "examApplication": "Explain why uniformity matters to national program.",
+          "examTrap": "Historical agency authors may differ from later interpreters."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e11",
+          "type": "concept",
+          "title": "Gorsuch and Thomas objections: independent interpretation rather than deference",
+          "page": "628–629",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Gorsuch would retire Auer as systematic tilt to government, permitting Skidmore respect without surrender of judicial legal judgment. Criticized relying on internal author intent, administrations changing positions, and bureaucratic clarity incentives.",
+          "laymanExplanation": "Government shouldn't be able to define its own rules in court when citizens dispute their meaning.",
+          "legalExplanation": "Dissent-like concurrence in judgment invoked APA and constitutional principle; Kisor maintained doctrine despite these objections.",
+          "examApplication": "Present as contrast, not controlling holding.",
+          "examTrap": "Do not present Gorsuch position as Court's result."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e12",
+          "type": "concept",
+          "title": "Auer versus Loper Bright: regulations vs statutes",
+          "page": "627–631",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Kisor retained conditional deference on agency's own regulations, while Loper Bright later rejected Chevron ambiguity deference for statutes; casebook raises unsettled future consistency question.",
+          "laymanExplanation": "Rule made by agency is a different interpretive issue from law made by Congress.",
+          "legalExplanation": "Roberts in Kisor expressly segregated statute deference; book asks whether independent judgment of § 706 will someday displace Auer, not that it already has.",
+          "examApplication": "On exam start by text type; note potential tension as discussion.",
+          "examTrap": "Avoid inventing later Court outcome not in source."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e13",
+          "type": "concept",
+          "title": "Auer interpretation and APA notice/comment distinction",
+          "page": "626–627",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Kisor plurality rejected argument that deference to interpretive guidance automatically makes that guidance a legislative rule, citing Perez v Mortgage Bankers. Ambiguity interpretation remains subject to judicial meaning and notice safeguards.",
+          "laymanExplanation": "An agency FAQ isn't transformed into a binding new legislative rule just because court consults it.",
+          "legalExplanation": "The court still decides meaning of earlier promulgated legislative regulation; doctrine and procedure distinct.",
+          "examApplication": "Look for de facto new substantive obligation not foreseeable in published regulation.",
+          "examTrap": "Do not use Auer to enforce a new legislative rule without required procedures."
+        },
+        {
+          "id": "admin-ch9-kisor-regulations-e14",
+          "type": "concept",
+          "title": "FDA active moiety and expertise example",
+          "page": "630–631",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026)",
+          "summary": "Technical issue whether chemical joining approved active moiety to lysine by non-ester covalent bond creates a 'new active moiety'; casebook reports FDA's yes interpretation was upheld via Auer in Actavis Elizabeth.",
+          "laymanExplanation": "A judge might need sophisticated drug chemistry knowledge to understand technical regulation.",
+          "legalExplanation": "Notes question whether Skidmore expert persuasiveness could do same job as deference.",
+          "examApplication": "Discuss institutional competence without assuming all medical disputes require deference.",
+          "examTrap": "Technical expertise does not eliminate independent review if regulation unambiguous."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch9-cont3-p1",
+      "topicId": "admin-ch9-kisor-regulations",
+      "title": "Kisor five-gate test",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026) (p. 624–626)",
+      "prompt": "Given an ambiguous regulatory interpretation, write sequential analysis of exhaustive text/context, reasonableness, authoritativeness, substantive expertise, fair-considered judgment/no unfair surprise.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont3-p2",
+      "topicId": "admin-ch9-kisor-regulations",
+      "title": "Kisor vs Auer vs Loper Bright vs Skidmore",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026) (p. 622–631)",
+      "prompt": "Distinguish pre-Kisor Auer, binding post-Kisor limitations, statutory review after Loper Bright, and persuasive respect under Skidmore.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont3-p3",
+      "topicId": "admin-ch9-kisor-regulations",
+      "title": "Kisor fractured court votes and rationale",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026) (p. 623–629)",
+      "prompt": "Which portions of Kagan opinion commanded a majority with Roberts? What rationales did Gorsuch and Roberts emphasize?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont3-p4",
+      "topicId": "admin-ch9-kisor-regulations",
+      "title": "Agency litigation interpretation and fair notice",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026) (p. 625–626)",
+      "prompt": "A medical regulator first announces a strict reading of vague rule in litigation after fining facility. Analyze authoritativeness, pretext, expertise and unfair surprise.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont3-p5",
+      "topicId": "admin-ch9-kisor-regulations",
+      "title": "FDA active moiety expert interpretation",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026) (p. 630–631)",
+      "prompt": "If FDA defines 'new active moiety' when molecule joined through a non-ester covalent bond, should court give special deference or independent Skidmore respectful consideration? Compare Kagan and Gorsuch.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont3-p6",
+      "topicId": "admin-ch9-kisor-regulations",
+      "title": "Marsh Nursing Home / soft-cooked eggs — textbook problem",
+      "kind": "Textbook Problem 4 — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 622–632 (uploaded Nov. 24, 2026) (p. 631–632)",
+      "prompt": "CMS regulation requires nursing homes to serve food 'under sanitary conditions.' CMS manual specifies unpasteurized eggs cooked to order must reach 145°F for 15 seconds and says white completely set/yolk congealed. Marsh's yolks were soft but verified 153–156°F for required time. CMS fined $5k and suspended provider agreement (ALJ lifted suspension). Marsh claims fair notice and manual's yolk language advisory. Determine correct judicial review standard, regulation ambiguity, official/manual authority, expertise, fair and considered interpretation, unfair surprise; compare Elgin Nursing case without solving.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
