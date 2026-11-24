@@ -1,0 +1,462 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+  "coverage": {
+    "chapter": 9,
+    "scope": "Original Chapter9 textbook Questions grouped 2/3, all answered status Not attempted; complete source phrasing including multi-paragraph and calculations"
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch9-q-2-omegas-1",
+      "topicId": "bank-ch9-omegas",
+      "title": "Omegas — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. Would the Sixth Circuit have reached the same result if Omegas had stolen a big sack of cash from Datacomp's safe immediately before filing bankruptcy? Would Omegas's creditors really get to keep the stolen cash?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-omegas-2",
+      "topicId": "bank-ch9-omegas",
+      "title": "Omegas — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What does § 541(d) say that isn't already said by § 541(a)(1), properly construed in light of Chicago Board of Trade and Butner, discussed in Chapter 3?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-omegas-3",
+      "topicId": "bank-ch9-omegas",
+      "title": "Omegas — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. On the petition date, if Omegas held funds subject to Datacomp's state-law right to reclaim those funds via a “constructive trust,” doesn't the bankruptcy estate also succeed to Omegas's interest in those funds under § 541(a)(1) and (d) subject to Datacomp's superior claim to those funds? I.e., even if Datacomp's right to those funds is a “claim” within the meaning of § 101(5)(A), doesn't the state-law constructive trust remedy also give Datacomp a “lien” on those specific funds that must be recognized and adequately protected in the bankruptcy proceedings? See § 101(37). Should it matter whether state law calls Datacomp's claim to the funds a “property interest” or a “remedy”?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-omegas-4",
+      "topicId": "bank-ch9-omegas",
+      "title": "Omegas — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. Isn't the method by which bankruptcy sorts out the competing priority rights of creditors in a debtor's property via § 544(a)(1)? Why didn't the Omegas court ever ask whether a judgment creditor that levied on the funds at issue on the petition date would prevail over Datacomp's constructive trust claim to those funds? What do you think the answer would be? If state law affords constructive trust claims priority over the claims of general unsecured creditors, how are constructive trusts “anathema to the equities of bankruptcy”?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-omegas-5",
+      "topicId": "bank-ch9-omegas",
+      "title": "Omegas — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. The Sixth Circuit emphasized “the Code's placement of the trustee in the position of a first-in-line judgment creditor and bona fide purchaser for value.” Does a trustee have bona fide purchaser powers with respect to personal property, such as the funds at issue in Omegas?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-omegas-6",
+      "topicId": "bank-ch9-omegas",
+      "title": "Omegas — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. If Omegas had stolen the funds at issue from Datacomp and then used those stolen funds to buy Blackacre, Omegas would have a valid state-law constructive trust claim against Blackacre. However, if Omegas sold Blackacre to a bona fide purchaser, for value, without knowledge of Datacomp's unrecorded interest in Blackacre, that purchaser would take Blackacre free and clear of Datacomp's constructive trust claim. Does that mean that unrecorded constructive trust claims against a debtor's real property can be avoided routinely under § 544(a)(3)? Note, that unlike § 544(a)(1), § 544(a)(3) seems to speak only to “any transfer of property of the debtor” and avoidance of “such transfer.” In the case of Datacomp's constructive trust claim against Blackacre, what “transfer of property of the debtor” would a trustee be seeking to avoid?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-omegas-7",
+      "topicId": "bank-ch9-omegas",
+      "title": "Omegas — original Question 7",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "7. Would the outcome in Omegas be different if a state court had already imposed a constructive trust on the funds at issue prior to Omegas's bankruptcy filing? If a constructive trust is just a “remedy,” why should the timing matter? Aren't substantive rights more important than procedural mechanics? Doesn't bankruptcy itself simply supply a different set of procedural mechanics by which to vindicate parties' underlying substantive rights?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-omegas-8",
+      "topicId": "bank-ch9-omegas",
+      "title": "Omegas — original Question 8",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "8. Do the § 523(a) discharge exceptions apply to corporate debtors? Given the court's holding, what recourse (if any) does a party have if it is defrauded by a corporate debtor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-omegas-9",
+      "topicId": "bank-ch9-omegas",
+      "title": "Omegas — original Question 9",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "9. The court places considerable emphasis on the “equities of bankruptcy,” particularly that favoring ratable distribution to creditors. The direct effect of the court's holding is to award nondefrauded creditors a share of the debtor's spoils from fraud. Does “equity” command such an unearned windfall?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-fraudulent-transfers-1",
+      "topicId": "bank-ch9-fraudulent-transfers",
+      "title": "D.1 — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What is the purpose of fraudulent transfer law?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-fraudulent-transfers-2",
+      "topicId": "bank-ch9-fraudulent-transfers",
+      "title": "D.1 — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. Is fraudulent transfer law limited to bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-fraudulent-transfers-3",
+      "topicId": "bank-ch9-fraudulent-transfers",
+      "title": "D.1 — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. Historically, how did the fraudulent transfer law develop?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-fraudulent-transfers-4",
+      "topicId": "bank-ch9-fraudulent-transfers",
+      "title": "D.1 — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. What are the differences between actual fraud and constructive fraud?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-fraudulent-transfers-5",
+      "topicId": "bank-ch9-fraudulent-transfers",
+      "title": "D.1 — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. What are the two primary issues in analyzing a possible fraudulent transfer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-fraudulent-transfers-6",
+      "topicId": "bank-ch9-fraudulent-transfers",
+      "title": "D.1 — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. Who has standing to challenge a fraudulent transfer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-fraudulent-transfers-7",
+      "topicId": "bank-ch9-fraudulent-transfers",
+      "title": "D.1 — original Question 7",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "7. What is the period of vulnerability for a fraudulent transfer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-fraudulent-transfers-8",
+      "topicId": "bank-ch9-fraudulent-transfers",
+      "title": "D.1 — original Question 8",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "8. Is it possible in fraudulent transfer law to have “a right without a remedy,” i.e., to have a transfer that is fraudulent but for which there is no effective remedy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-costas-1",
+      "topicId": "bank-ch9-costas",
+      "title": "Costas — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. While it was heartening to see Judge Mills invoke the reasoning of Butner, wouldn't it have been appropriate for him also to assess the impact of Chicago Board of Trade? Can you see why? How might that make a difference? Note the following language in Drye, quoted by Judge Mills: “We look initially to state law to determine what rights the taxpayer has in the property the Government seeks to reach, then to federal law to determine whether the taxpayer's state-delineated rights qualify as ‘property’ or ‘rights to property’ within the compass of the federal tax lien legislation.” If you substitute the words “debtor” for “taxpayer” and “bankruptcy” for “tax lien,” doesn't that describe the Butner-CBOT property regime in bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-costas-2",
+      "topicId": "bank-ch9-costas",
+      "title": "Costas — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What is the proper Butner (and CBOT) question to ask in a case such as Costas?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-costas-3",
+      "topicId": "bank-ch9-costas",
+      "title": "Costas — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. How does Judge Mills distinguish Drye? Are you persuaded?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-costas-4",
+      "topicId": "bank-ch9-costas",
+      "title": "Costas — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. How would (or should) the case be decided if Dittlof had died within 180 days after Costas filed bankruptcy (see § 541(a)(5)(A)), and Costas then disclaimed? Or if Dittlof had died shortly before Costas filed bankruptcy, Costas filed bankruptcy without having disclaimed, and then Costas disclaimed? Would that be a violation of the automatic stay and an unauthorized post-petition transfer of estate property? If Costas has an “interest in property” within the meaning of Code § 541 in these scenarios, why wouldn't her pre-bankruptcy disclaimer constitute a “mode . . . of disposing of” that very same “interest in property” within the meaning of Code §§ 101(54) & 548(a). If § 541 gives creditors such a “windfall,” why wouldn't § 548 do the same? Is the meaning and scope of “interest of the debtor in property” different as between § 541 and § 548? Should it be?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-costas-5",
+      "topicId": "bank-ch9-costas",
+      "title": "Costas — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. What “federal interests” did the trustee argue justified a departure from state law? Why didn't Judge Mills find those “federal interests” sufficient?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-costas-6",
+      "topicId": "bank-ch9-costas",
+      "title": "Costas — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. Remember the Costas case when you read BFP v. Resolution Trust Corp., 511 U.S. 531 (1994), later in this chapter and consider whether the underlying principles of the two cases are consistent.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-actual-fraud-1",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "D.2 — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What is the meaning of an actual fraudulent transfer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-actual-fraud-2",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "D.2 — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What must a party seeking to establish actual fraud prove? How would they do that?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-actual-fraud-3",
+      "topicId": "bank-ch9-actual-fraud",
+      "title": "D.2 — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. What constituted the proof of actual fraud in Twyne's Case?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-constructive-fraud-1",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "D.3 — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What is “constructive” fraud?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-constructive-fraud-2",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "D.3 — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What principles justify constructive fraud?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-constructive-fraud-3",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "D.3 — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. What are the four principal types of constructive fraud?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-constructive-fraud-4",
+      "topicId": "bank-ch9-constructive-fraud",
+      "title": "D.3 — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. Of these, which is the most important?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-bfp-foreclosure-1",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "BFP — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. Which element of the cause of action for constructive fraud was at issue in BFP?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-bfp-foreclosure-2",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "BFP — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. Was there a potentially voidable “transfer” of property within the meaning of § 548(a)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-bfp-foreclosure-3",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "BFP — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. What was the debtor in possession's argument that “reasonably equivalent value” had not been received in exchange?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-bfp-foreclosure-4",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "BFP — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. How had different courts resolved this issue prior to BFP?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-bfp-foreclosure-5",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "BFP — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. How did the majority of the Supreme Court resolve the issue? What were the Court's primary arguments in support of its holding?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-bfp-foreclosure-6",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "BFP — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. Would you be surprised to learn that, when Congress amended the Bankruptcy Code in 1984 to bring foreclosure sales within the potential ambit of fraudulent transfer law, it considered — but did not adopt — the very same procedural presumptive value equivalency principle embraced by the BFP Court? Note that, in contrast, the UFTA (promulgated in 1984) did adopt such a statutory rule in § 3(b): “a person gives a reasonably equivalent value if the person acquires an interest of the debtor in an asset pursuant to a regularly conducted, noncollusive foreclosure sale or execution of a power of sale for the acquisition or disposition of the interest of the debtor upon default under a mortgage, deed of trust, or security agreement.”",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-bfp-foreclosure-7",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "BFP — original Question 7",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "7. What were Justice Souter's primary arguments in dissent? Isn't it somewhat embarrassing for Justice Scalia to be on the receiving end of a “plain meaning” argument?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-bfp-foreclosure-8",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "BFP — original Question 8",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "8. Both majority and dissent in BFP assumed that the “transfer” at issue took place when the property was sold at foreclosure. But, according to the Bankruptcy Code, when is that foreclosure sale “transfer” deemed to have taken place for purposes of a fraudulent conveyance challenge? See § 548(d)(1). What does this imply regarding the avoidability of a foreclosure sale as a fraudulent transfer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-bfp-foreclosure-9",
+      "topicId": "bank-ch9-bfp-foreclosure",
+      "title": "BFP — original Question 9",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "9. What are the consequences of BFP? Who wins? Who loses?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-chomakos-1",
+      "topicId": "bank-ch9-chomakos",
+      "title": "Chomakos — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. Why did the bankruptcy trustee argue that the debtors had not received a “fair consideration” (or, in alternative parlance, “reasonably equivalent value”)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-chomakos-2",
+      "topicId": "bank-ch9-chomakos",
+      "title": "Chomakos — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What is the relevant point in time at which to measure value equivalency?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-chomakos-3",
+      "topicId": "bank-ch9-chomakos",
+      "title": "Chomakos — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. What different reasons did the Sixth Circuit give for rejecting the trustee's contention?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-chomakos-4",
+      "topicId": "bank-ch9-chomakos",
+      "title": "Chomakos — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. How did the court distinguish the church contribution cases? Is that distinction consistent with the court's discussion of the avoidability of an expensive dinner? In the “dinner” case, is it the fact that the debtor received “psychic and other intangible values” that is relevant, or something else?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-chomakos-5",
+      "topicId": "bank-ch9-chomakos",
+      "title": "Chomakos — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. Would the outcome have been different if the “house advantage” had been 99%?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-2-chomakos-6",
+      "topicId": "bank-ch9-chomakos",
+      "title": "Chomakos — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. From the perspective of an insolvent debtor's creditors, is (a) a 50% chance of receiving $100 equivalent in value to (b) a 100% chance of receiving $50? Was the Sixth Circuit's analysis sensitive to the difference between (a) and (b)?\n\nTo see this, assume that Debtor has debts of $12,000 and assets of $10,000. She takes her entire $10,000 in assets and risks it all on a 50-50 bet (a flip of a coin), and the payoff if Debtor wins is $20,000 (i.e., no house advantage). Of course, if she loses the bet, the payoff is zero. Calculate the projected payout — before the coin is flipped — from the perspective of (i) creditors and (ii) Debtor. It might help if you compute the relative economic interests of the creditors and Debtor assuming (i) no bet is ever placed, versus (ii) the bet is placed.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
