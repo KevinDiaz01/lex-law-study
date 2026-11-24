@@ -1,0 +1,342 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+  "coverage": {
+    "chapter": 9,
+    "scope": "Original Chapter9 textbook Questions grouped 1/3, all answered status Not attempted; complete source phrasing including multi-paragraph and calculations"
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch9-q-1-avoidance-architecture-1",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "A.1 — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What does “avoidance” mean?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-avoidance-architecture-2",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "A.1 — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What is the effect of avoidance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-avoidance-architecture-3",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "A.1 — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. What does “recovery” mean, and how does it differ from avoidance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-avoidance-architecture-4",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "A.1 — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. From whom is recovery permitted?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-avoidance-architecture-5",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "A.1 — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. In what way is an initial transferee treated differently for recovery purposes than a subsequent transferee?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-avoidance-architecture-6",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "A.1 — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. Does an entity from whom a transfer is recovered have a bankruptcy claim?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-avoidance-architecture-7",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "A.1 — original Question 7",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "7. What is the meaning of “preservation” of an avoided transfer?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-avoidance-architecture-8",
+      "topicId": "bank-ch9-avoidance-architecture",
+      "title": "A.1 — original Question 8",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "8. What is the statute of limitations for bringing an avoidance action? A recovery action?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-video-depot-1",
+      "topicId": "bank-ch9-video-depot",
+      "title": "Video Depot — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. How, and why, is an initial transferee treated differently from a subsequent transferee?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-video-depot-2",
+      "topicId": "bank-ch9-video-depot",
+      "title": "Video Depot — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. Why did the court find that Hilton was an “initial transferee”?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-video-depot-3",
+      "topicId": "bank-ch9-video-depot",
+      "title": "Video Depot — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. The initial transferee of a transfer that is fraudulent under § 548 does have the benefit of a good-faith for-value defense, pursuant to § 548(c). Why couldn't Hilton invoke the defense of § 548(c)? See § 548(d)(2)(A).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-video-depot-4",
+      "topicId": "bank-ch9-video-depot",
+      "title": "Video Depot — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. If Arlynn was not a “transferee” of the fraudulent transfer, does that mean that the trustee has no recovery rights against Arlynn? See § 550(a)(1). If the trustee does have recovery rights versus Arlynn, why do you think the trustee went after Hilton instead?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-video-depot-5",
+      "topicId": "bank-ch9-video-depot",
+      "title": "Video Depot — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. Would Arlynn have been the initial tranferee if he had withdrawn the $65,000 from the corporate bank account in small unmarked bills, put the cash in a paper sack, and given the bag of money to Hilton in payment of his personal debt? If he had shipped the bag of cash to Hilton via UPS, would UPS have been the “initial transferee”?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-video-depot-6",
+      "topicId": "bank-ch9-video-depot",
+      "title": "Video Depot — original Question 6",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "6. Would the case have come out differently if Video Depot had issued a check for $65,000 to Arlynn, who then endorsed the check over to Hilton?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-railworks-1",
+      "topicId": "bank-ch9-railworks",
+      "title": "Railworks — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What is a “mere conduit”? Why was CPG a “mere conduit? Why is a “mere conduit” not considered an “initial transferee” within the meaning of § 550(a)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-railworks-2",
+      "topicId": "bank-ch9-railworks",
+      "title": "Railworks — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. What makes a party “an entity for whose benefit” an avoidable transfer was made, within the meaning of § 550(a)(1)? When a debtor makes an avoidable debt payment, why is a guarantor of that debt considered “an entity for whose benefit such transfer was made” within the meaning of § 550(a)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-railworks-3",
+      "topicId": "bank-ch9-railworks",
+      "title": "Railworks — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. Why did the court conclude that a “mere conduit” can not be “an entity for whose benefit” an avoidable transfer was made, within the meaning of § 550(a)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-railworks-4",
+      "topicId": "bank-ch9-railworks",
+      "title": "Railworks — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. Even if one accepts the court's reasoning that the contingent liability of a “mere conduit” for failure to remit transferred funds to the “initial transferee” is insufficient to make that conduit “an entity for whose benefit” an avoidable transfer was made, within the meaning of § 550(a)(1), can you nonetheless conclude that CPG had more than just this “mere conduit” contingent liability? Wasn't CPG also a guarantor of the debtor's premium debt (i.e., if the debtor had not made a premium payment to CPG, wasn't CPG personally liable to TIG for the amount of that premium payment)? If so, then why wasn't the district court correct that CPG was both a “mere conduit” and “an entity for whose benefit” the avoidable transfers at issue were made, within the meaning of § 550(a)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-railworks-5",
+      "topicId": "bank-ch9-railworks",
+      "title": "Railworks — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. Under the court's holding, can a debtor's guarantor immunize itself from any liability as an “entity for whose benefit [a debtor's] transfer was made,” by simply requiring the debtor to make all payments on the debt through the guarantor as a “mere conduit”?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-avoidance-policy-1",
+      "topicId": "bank-ch9-avoidance-policy",
+      "title": "A.2 — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. Which avoiding powers are designed to protect the integrity of bankruptcy as a collective proceeding, and how?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-avoidance-policy-2",
+      "topicId": "bank-ch9-avoidance-policy",
+      "title": "A.2 — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. Which avoiding power exists independently of a collective proceeding, and what interests does it seek to protect?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-strong-arm-544a-1",
+      "topicId": "bank-ch9-strong-arm-544a",
+      "title": "C.1 — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What general problem does the strong-arm clause address? How does it do so?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-strong-arm-544a-2",
+      "topicId": "bank-ch9-strong-arm-544a",
+      "title": "C.1 — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. In what four important ways is the application of the strong-arm clause limited?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-strong-arm-544a-3",
+      "topicId": "bank-ch9-strong-arm-544a",
+      "title": "C.1 — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. How do the three subsections of § 544(a) differ?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-544a1-perfection-1",
+      "topicId": "bank-ch9-544a1-perfection",
+      "title": "C.2 — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What is the most important application of § 544(a)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-544a1-perfection-2",
+      "topicId": "bank-ch9-544a1-perfection",
+      "title": "C.2 — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. How does § 544(a)(1) dovetail with UCC § 9-317?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-544a1-perfection-3",
+      "topicId": "bank-ch9-544a1-perfection",
+      "title": "C.2 — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. What is normally the decisive issue under § 544(a)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-544a1-perfection-4",
+      "topicId": "bank-ch9-544a1-perfection",
+      "title": "C.2 — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. How does § 544(a)(1) deal with nonbankruptcy relation-back rules?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-544a3-bfp-1",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "C.3 — original Question 1",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "1. What is the primary application of § 544(a)(3)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-544a3-bfp-2",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "C.3 — original Question 2",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "2. Is the debtor in possession's actual knowledge of a transfer sufficient to preclude avoidance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-544a3-bfp-3",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "C.3 — original Question 3",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "3. Can nonbankruptcy principles of constructive notice preclude avoidance under § 544(a)(3)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-544a3-bfp-4",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "C.3 — original Question 4",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "4. What is the supposed “conflict” that can arise between § 544(a)(3) and § 541(d)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-q-1-544a3-bfp-5",
+      "topicId": "bank-ch9-544a3-bfp",
+      "title": "C.3 — original Question 5",
+      "kind": "Original Chapter 9 textbook Question — UNSOLVED",
+      "source": "User-uploaded Chapter9 original 'Questions' sections (verbatim, never solved)",
+      "prompt": "5. Why is § 544(a)(3) difficult to justify?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
