@@ -1,0 +1,1173 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+  "coverage": {
+    "chapter": "2",
+    "included": "116 rewritten section review questions plus 17 separate casebook numbered problems in parts 1-6",
+    "questionStyle": "Study paraphrases, left unanswered"
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch2-review-001",
+      "topicId": "bank-ch2-eligibility",
+      "title": "Review — Who is a person?",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why does §101(41)'s word 'includes' not always exhaust categories of eligible debtor under §109(a)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-002",
+      "topicId": "bank-ch2-eligibility",
+      "title": "Review — U.S. nexus",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Can a foreign-incorporated company with only U.S. assets satisfy §109(a), and what else needs analysis?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-003",
+      "topicId": "bank-ch2-eligibility",
+      "title": "Review — Natural versus non-natural debtors",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How are people, business corporations, partnerships, estates and municipalities treated under bankruptcy eligibility?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-004",
+      "topicId": "bank-ch2-eligibility",
+      "title": "Review — Insolvency",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Which chapter requires insolvency as a distinct eligibility requirement, and why don't other voluntary filings require it?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-005",
+      "topicId": "bank-ch2-eligibility",
+      "title": "Review — Counseling timing",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What is the 180-day prepetition counseling window and how does it differ from postpetition debtor education?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-006",
+      "topicId": "bank-ch2-eligibility",
+      "title": "Review — Emergency waiver",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What proof is needed for statutory exigent-circumstances counseling relief?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-007",
+      "topicId": "bank-ch2-eligibility",
+      "title": "Review — Eligibility per chapter",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Which distinct §109 subsections govern Chapters 7, 9, 11, 12 and 13?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-008",
+      "topicId": "bank-ch2-venue",
+      "title": "Review — Venue connecting factors",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What four possible §1408(1) connecting factors can establish bankruptcy case venue?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-009",
+      "topicId": "bank-ch2-venue",
+      "title": "Review — 180-day move",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How does the 'longer portion of 180 days' rule work for a person who recently moved districts?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-010",
+      "topicId": "bank-ch2-venue",
+      "title": "Review — Affiliates",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Under what conditions can a bankrupt affiliate supply venue for a separate corporate debtor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-011",
+      "topicId": "bank-ch2-venue",
+      "title": "Review — Case versus proceeding",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do §§1408 and 1409 differ in deciding where a case or a trustee lawsuit should be filed?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-012",
+      "topicId": "bank-ch2-venue",
+      "title": "Review — Transfer",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "When may a court transfer an entire bankruptcy case for convenience or in interest of justice?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-013",
+      "topicId": "bank-ch2-filing",
+      "title": "Review — Petition mechanics",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How is voluntary case initiated and what distinguishes a joint §302 petition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-014",
+      "topicId": "bank-ch2-filing",
+      "title": "Review — Signer responsibilities",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why must debtor attest under penalty of perjury and what separate responsibility does counsel undertake?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-015",
+      "topicId": "bank-ch2-filing",
+      "title": "Review — Business authorization",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Who authorizes bankruptcy filings for corporate and partnership debtors?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-016",
+      "topicId": "bank-ch2-filing",
+      "title": "Review — Fees and access",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What do Rules 1006 and 28 USC §1930(f) permit for indigent filers and what did Kras hold?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-017",
+      "topicId": "bank-ch2-filing",
+      "title": "Review — Required schedules",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What documents must accompany petition versus be filed within 14 days?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-018",
+      "topicId": "bank-ch2-filing",
+      "title": "Review — Individual disclosures",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Which extra certifications, tax records, pay records, exemptions and intentions are required for individual filers?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-019",
+      "topicId": "bank-ch2-filing",
+      "title": "Review — Missed filing deadline",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do §521(i)'s 45-day consequence and other tax-filing dismissal rules operate?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-020",
+      "topicId": "bank-ch2-effects",
+      "title": "Review — Order for relief",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Does voluntary §301 filing need additional judge's ruling to become an order for relief?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-021",
+      "topicId": "bank-ch2-effects",
+      "title": "Review — Estate",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What property interests make up §541 estate at exact petition filing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-022",
+      "topicId": "bank-ch2-effects",
+      "title": "Review — Stay",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How can the §362 stay protect against foreclosure even before notice to creditor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-023",
+      "topicId": "bank-ch2-effects",
+      "title": "Review — Utilities",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "When can a utility lawfully terminate postfiling service under §366?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-024",
+      "topicId": "bank-ch2-effects",
+      "title": "Review — Three deadline rules",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Distinguish debtor's §108(a) lawsuit extension, §108(b) other-act grace, and creditor §108(c) deadline.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-025",
+      "topicId": "bank-ch2-conversion",
+      "title": "Review — Conversion eligibility",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Can an already-filed debtor convert to a chapter that §109 would have barred originally?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-026",
+      "topicId": "bank-ch2-conversion",
+      "title": "Review — Chapter 7 conversion",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What options can a Chapter 7 debtor request under §706, and what does bad faith change?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-027",
+      "topicId": "bank-ch2-conversion",
+      "title": "Review — Chapter 7 dismissal",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why is court approval or avoidance of legal prejudice important for voluntary Chapter 7 dismissal?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-028",
+      "topicId": "bank-ch2-conversion",
+      "title": "Review — Interested party action",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Can trustee or creditor force a Chapter 7 individual into Chapter 13?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-029",
+      "topicId": "bank-ch2-conversion",
+      "title": "Review — Chapter 11 standard",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What circumstances count as cause under §1112(b) and what are the alternatives to dismissal?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-030",
+      "topicId": "bank-ch2-conversion",
+      "title": "Review — Mandatory versus exceptions",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do §1112(b)(1)'s 'shall', unusual circumstances and §1112(b)(2) cure protections fit together?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-031",
+      "topicId": "bank-ch2-conversion",
+      "title": "Review — Chapter 13 choice",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What are debtor's rights and trustee's rights under §1307, and when are they restricted?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-032",
+      "topicId": "bank-ch2-conversion",
+      "title": "Review — Chapter 12 choice",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do §1208 rights differ from Chapter 7/11 approaches?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-033",
+      "topicId": "bank-ch2-conversion",
+      "title": "Review — Marrama and Law",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Which part of Marrama's anti-abuse rationale remains after Law v Siegel's interpretation of §105?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-034",
+      "topicId": "bank-ch2-conversion",
+      "title": "Review — Legal effects",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What differs legally between changing chapter under §348 and ending case under §349?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-035",
+      "topicId": "bank-ch2-sgl-carbon",
+      "title": "Review — Good faith source",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why did Third Circuit find a good-faith filing requirement without an expressly enumerated §1112(b)(4) factor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-036",
+      "topicId": "bank-ch2-sgl-carbon",
+      "title": "Review — SGL motive",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What was SGL trying to achieve regarding antitrust plaintiffs, and what financial evidence contradicted imminent distress?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-037",
+      "topicId": "bank-ch2-sgl-carbon",
+      "title": "Review — No insolvency condition",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What is the difference between a debtor lacking financial distress and an absolute insolvency filing requirement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-038",
+      "topicId": "bank-ch2-sgl-carbon",
+      "title": "Review — Early vs premature",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Under SGL when may a financially capable enterprise file before adverse judgment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-039",
+      "topicId": "bank-ch2-sgl-carbon",
+      "title": "Review — Comparative cases",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How did Bible Speaks and Johns-Manville present actual operational threats distinct from SGL?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-040",
+      "topicId": "bank-ch2-sgl-carbon",
+      "title": "Review — Plan good faith",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Does §1129(a)(3)'s plan-confirmation good faith obviate inquiry into petition-filing good faith?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-041",
+      "topicId": "bank-ch2-sgl-carbon",
+      "title": "Review — Alternate standard",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How might a subjective motive plus objective need test differ from SGL's totality analysis?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-042",
+      "topicId": "bank-ch2-sgl-carbon",
+      "title": "Review — Single-asset debtor",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Should a single-asset real-estate debtor's foreclosure stay be treated automatically as bad faith?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-043",
+      "topicId": "bank-ch2-consumer-choice",
+      "title": "Review — Immediate discharge",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Which Chapter 7 advantages are most important to a debtor with few nonexempt assets and high future earnings?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-044",
+      "topicId": "bank-ch2-consumer-choice",
+      "title": "Review — Nonexempt assets",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why could a debtor with significant nonexempt house equity prefer Chapter 13?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-045",
+      "topicId": "bank-ch2-consumer-choice",
+      "title": "Review — Foreclosure cure",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do §§1322(b)(3),(5) help a debtor keep car or home after default and acceleration?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-046",
+      "topicId": "bank-ch2-consumer-choice",
+      "title": "Review — Unsecured floor",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What is Chapter 13's §1325(a)(4) best-interest-of-creditors liquidation floor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-047",
+      "topicId": "bank-ch2-consumer-choice",
+      "title": "Review — Nondischargeable debt",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How might fraud debts, student loans and support obligations affect Chapter 7 versus 13 comparison?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-048",
+      "topicId": "bank-ch2-consumer-choice",
+      "title": "Review — Collateral treatment",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "When can Chapter 13 debtor pay collateral value rather than total secured debt, and what exceptions exist?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-049",
+      "topicId": "bank-ch2-means-framework",
+      "title": "Review — Scope of means test",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why does §707(b) screen individual primarily-consumer Chapter 7 filings rather than company cases?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-050",
+      "topicId": "bank-ch2-means-framework",
+      "title": "Review — Two abuse pathways",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do formula presumption and bad-faith/totality dismissal differ?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-051",
+      "topicId": "bank-ch2-means-framework",
+      "title": "Review — Median safe harbor",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do state of residence, household size and spousal income determine the median screen?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-052",
+      "topicId": "bank-ch2-means-framework",
+      "title": "Review — Core calculation",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What is correct order of subtracting expenses, annualizing income and projecting repayment over 60 months?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-053",
+      "topicId": "bank-ch2-means-framework",
+      "title": "Review — Nested threshold",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do max($8,175, 25% general unsecured claims) and min(result, $13,650) produce the 2021-book presumption threshold?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-054",
+      "topicId": "bank-ch2-means-framework",
+      "title": "Review — Perverse incentives",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What incentives may secured debt, child support arrears or prefiling timing create despite statutory test?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-055",
+      "topicId": "bank-ch2-means-income",
+      "title": "Review — Lookback",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "For a Jan 1 filing, what calendar months count under §101(10A)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-056",
+      "topicId": "bank-ch2-means-income",
+      "title": "Review — Income versus tax",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why does taxable-income exclusion under IRC not always remove a receipt from bankruptcy CMI?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-057",
+      "topicId": "bank-ch2-means-income",
+      "title": "Review — Household contributions",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "When are payments by parents/relatives included and when is co-resident wealth excluded?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-058",
+      "topicId": "bank-ch2-means-income",
+      "title": "Review — Spousal income",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why can nonfiling spouse's receipts matter and how does marital separation alter analysis?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-059",
+      "topicId": "bank-ch2-means-income",
+      "title": "Review — New job",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Should accepted postpetition $140k salary be included in historical CMI, and where else might it matter?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-060",
+      "topicId": "bank-ch2-means-income",
+      "title": "Review — One-time receipts",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do reimbursement, sale of personal car and tax refund pose 'is it income' questions?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-061",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Review — Standards distinction",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Explain statutory difference between applicable specified National/Local expense standards and actual Other Necessary Expenses.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-062",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Review — Transportation",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What separates car operating cost, car ownership loan/lease allowance and public transit expense?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-063",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Review — Ransom threshold",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why does paid-off car bar ownership allowance even though insurance/gas remain necessary?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-064",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Review — Double counts",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Demonstrate why deducting full $521 ownership standard plus separate $371 loan payment may double count under book's prevailing formula.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-065",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Review — Housing geography",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do county housing standard differences affect 60-month projected capacity?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-066",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Review — Secured deduction",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How does sum of due secured loan payments and necessary arrearage cures get converted into monthly 60-month deduction?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-067",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Review — Priority obligation",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why can overdue domestic support become a priority-claim deduction distinct from ongoing monthly support?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-068",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Review — Retirement deductions",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How does mandatory state retirement contribution differ from voluntary 401(k) funding?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-069",
+      "topicId": "bank-ch2-means-expenses",
+      "title": "Review — Charity",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How does §707(b)(1)'s charity provision relate to allowable expense claims and abuse analysis?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-070",
+      "topicId": "bank-ch2-means-calculation",
+      "title": "Review — Three debt tiers",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why does unsecured-debt size yield $8,175, 25%-based or $13,650 triggers in 2021 textbook?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-071",
+      "topicId": "bank-ch2-means-calculation",
+      "title": "Review — Compute monthly cutoff",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How are $136.25 and $227.50 derived from the textbook's 60-month triggers?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-072",
+      "topicId": "bank-ch2-means-calculation",
+      "title": "Review — Equality",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Is repayment capacity exactly equal to threshold sufficient to create presumption?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-073",
+      "topicId": "bank-ch2-means-calculation",
+      "title": "Review — Avoid outdated thresholds",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why should numerical casebook thresholds be distinguished from currently indexed statutory limits?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-074",
+      "topicId": "bank-ch2-means-rebuttal",
+      "title": "Review — Special circumstances",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What documentation and no-reasonable-alternative proof is necessary to rebut presumption?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-075",
+      "topicId": "bank-ch2-means-rebuttal",
+      "title": "Review — US Trustee deadline",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What §704(b) statement/motion duties and clock govern presumption review?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-076",
+      "topicId": "bank-ch2-means-rebuttal",
+      "title": "Review — Creditor standing",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What changes between above- and below-median debtors in who can seek §707(b) dismissal?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-077",
+      "topicId": "bank-ch2-means-rebuttal",
+      "title": "Review — Counsel sanctions",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What inquiry must debtor lawyer conduct and certify under §707(b)(4) and Rule 9011?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-078",
+      "topicId": "bank-ch2-abuse-without-presumption",
+      "title": "Review — Passing means test",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Can above-median filer still face totality/bad faith dismissal after formula says no presumption?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-079",
+      "topicId": "bank-ch2-abuse-without-presumption",
+      "title": "Review — New income",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How might a high-paying postfiling job affect projected ability to repay separate from six-month CMI?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-080",
+      "topicId": "bank-ch2-abuse-without-presumption",
+      "title": "Review — Luxury debt timing",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do mortgage size, lifestyle and when secured debt incurred influence totality?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-081",
+      "topicId": "bank-ch2-abuse-without-presumption",
+      "title": "Review — Business debts",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Can primarily business debts trigger special §707(b) abuse? What independent §707(a) question remains?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-082",
+      "topicId": "bank-ch2-chapter13-projecting",
+      "title": "Review — Plan objection",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What must a debtor commit under §1325(b)(1) after trustee/unsecured creditor objects to plan?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-083",
+      "topicId": "bank-ch2-chapter13-projecting",
+      "title": "Review — Chapter difference",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why is the same §707(b) formula applied to Chapter 7 abuse screening and Chapter 13 payment duty differently?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-084",
+      "topicId": "bank-ch2-lanning",
+      "title": "Review — Lanning issue",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What does 'projected' add to the defined phrase 'disposable income'?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-085",
+      "topicId": "bank-ch2-lanning",
+      "title": "Review — One-time buyout",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why did historical $5,343.70 CMI misstate Lanning's predictable future monthly earnings?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-086",
+      "topicId": "bank-ch2-lanning",
+      "title": "Review — Court rule",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What known or virtually certain income or expense changes can judge use at confirmation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-087",
+      "topicId": "bank-ch2-lanning",
+      "title": "Review — Statutory text",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How did majority rely on 'to be received' and 'as of the effective date'?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-088",
+      "topicId": "bank-ch2-lanning",
+      "title": "Review — Scalia dissent",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why did dissent regard forward-looking adjustments as impermissible rewriting of formula?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-089",
+      "topicId": "bank-ch2-lanning",
+      "title": "Review — Forecast certainty",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What evidence separates a virtually certain raise from speculative future earning capacity?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-090",
+      "topicId": "bank-ch2-ransom",
+      "title": "Review — Ransom issue",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How does the word 'applicable' control ownership-cost deduction for paid-off Toyota?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-091",
+      "topicId": "bank-ch2-ransom",
+      "title": "Review — Ownership vs operation",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why could Ransom keep $338 car operating but not $471 ownership deduction?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-092",
+      "topicId": "bank-ch2-ransom",
+      "title": "Review — Money at stake",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What additional 60-month distribution resulted from $471/month being disallowed?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-093",
+      "topicId": "bank-ch2-ransom",
+      "title": "Review — Actual vs specified",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why is an expense category eligibility condition distinct from the amount of standardized deduction?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-094",
+      "topicId": "bank-ch2-ransom",
+      "title": "Review — Dissent",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How did Scalia interpret 'applicable' as selection of one-car versus two-car columns?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-095",
+      "topicId": "bank-ch2-ransom",
+      "title": "Review — One last payment",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What anomaly arises if debtor has only one car payment remaining on filing date?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-096",
+      "topicId": "bank-ch2-ransom",
+      "title": "Review — Related expenses",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Would Court's holding automatically resolve housing, food, car-replacement or plan-modification questions?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-097",
+      "topicId": "bank-ch2-involuntary-overview",
+      "title": "Review — Coercive chapters",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why are creditors only able to file involuntary Chapter 7 or Chapter 11 rather than Chapter 13?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-098",
+      "topicId": "bank-ch2-involuntary-overview",
+      "title": "Review — Exempt debtors",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Which farm and nonprofit/business forms are insulated from §303 involuntary petition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-099",
+      "topicId": "bank-ch2-involuntary-petitioners",
+      "title": "Review — Claim qualifications",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What does §303(b) require regarding noncontingent claims and bona fide disputes about amount or liability?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-100",
+      "topicId": "bank-ch2-involuntary-petitioners",
+      "title": "Review — Creditor count",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What happens when debtor has exactly 12 counted creditors versus 11?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-101",
+      "topicId": "bank-ch2-involuntary-petitioners",
+      "title": "Review — Denominator exclusions",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why are insiders, employees, voidable transferees and disputed creditors excluded from 12-creditor test?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-102",
+      "topicId": "bank-ch2-involuntary-petitioners",
+      "title": "Review — Minimum claim",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Does indexed statutory unsecured minimum apply to each petitioner or the petitioners as a group?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-103",
+      "topicId": "bank-ch2-involuntary-petitioners",
+      "title": "Review — Claim assignment",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do Rule 1003 and §303(c) handle manufactured petitioners and late joinder?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-104",
+      "topicId": "bank-ch2-involuntary-grounds",
+      "title": "Review — Two grounds",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "State the §303(h)(1) general nonpayment and §303(h)(2) recent custodian appointment alternatives.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-105",
+      "topicId": "bank-ch2-involuntary-grounds",
+      "title": "Review — Cashflow vs balance sheet",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How does generally-not-paying differ from financial solvency under asset/liability comparison?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-106",
+      "topicId": "bank-ch2-involuntary-grounds",
+      "title": "Review — Holistic factors",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why isn't 3 out of 30 unpaid or 70% of dollars unpaid automatically dispositive?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-107",
+      "topicId": "bank-ch2-involuntary-grounds",
+      "title": "Review — Bona fide disputes",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why are genuinely disputed debts excluded from nonpayment ratio?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-108",
+      "topicId": "bank-ch2-involuntary-grounds",
+      "title": "Review — Custodian 120 days",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What does recent appointment over substantially all property indicate about need for collective proceedings?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-109",
+      "topicId": "bank-ch2-involuntary-gap",
+      "title": "Review — Stay and estate",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why do §362 and §541 apply when involuntary petition filed even before adjudication?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-110",
+      "topicId": "bank-ch2-involuntary-gap",
+      "title": "Review — Ordinary operations",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How can debtor operate under §303(f) while pending contest?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-111",
+      "topicId": "bank-ch2-involuntary-gap",
+      "title": "Review — Interim trustee",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "When can court appoint interim trustee under §303(g), and how can debtor regain possession?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-112",
+      "topicId": "bank-ch2-involuntary-gap",
+      "title": "Review — Paying gap invoices",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How do §§502(f),507(a)(3),549 classify new goods and old claim payments during gap?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-113",
+      "topicId": "bank-ch2-involuntary-dismissal",
+      "title": "Review — Dismissal consent",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "Why can original petitioners and debtor not always privately terminate involuntary case to detriment of other creditors?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-114",
+      "topicId": "bank-ch2-involuntary-dismissal",
+      "title": "Review — Penalties",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "What is difference between §303(i) fees/costs and additional bad-faith damages/punitive awards?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-115",
+      "topicId": "bank-ch2-involuntary-dismissal",
+      "title": "Review — Abstention interest test",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "When can court abstain under §305 even if statutory grounds otherwise satisfied?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-review-116",
+      "topicId": "bank-ch2-involuntary-dismissal",
+      "title": "Review — Existing workout",
+      "kind": "Chapter 2 end-of-section review — PARAPHRASED / UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-provided Chapter 2 end-of-section 'Questions' (paraphrased for study; original Problems 2.1–2.17 separately preserved); Effross Fall 2026 general pp.79–170",
+      "prompt": "How does Colonial Ford illustrate voluntary filing after creditor workout failing?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
