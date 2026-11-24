@@ -1,0 +1,254 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+  "coverage": {
+    "chapter": 9,
+    "scope": "D.3 constructive fraud 4 categories §548(a)(1)(B), insolvency/capital/paying debt, insider employment, reasonably equivalent value, full BFP majority/dissent, full Chomakos, LBO/guarantee issues as discussed; Problems 9.6–9.9 preserved separately unanswered"
+  },
+  "topics": [
+    {
+      "id": "bank-ch9-constructive-fraud",
+      "title": "D.3 Constructive Fraud: Four Alternatives and Equivalent Value",
+      "chapterGroup": "bank-ch9",
+      "description": "No debtor intent needed; value exchanged plus financial condition.",
+      "entries": [
+        {
+          "id": "bank-ch9-constructive-fraud-e1",
+          "type": "rule",
+          "title": "Constructive fraud = less than reasonably equivalent value AND qualifying financial condition",
+          "page": "Ch9 §D.3",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "§548(a)(1)(B)(i) requires debtor got less than reasonably equivalent value; §548(a)(1)(B)(ii) gives alternative distress/favoritism conditions. Intent to cheat NOT element; state UVTA §4(a)(2),§5(a) parallels.",
+          "laymanExplanation": "You gave friend a $30k asset for $1 when you couldn't pay debts.",
+          "legalExplanation": "Satisfying underlying debt IS value §548(d)(2)(A), so ordinary paying $10k genuine debt usually not constructive fraud even while insolvent.",
+          "examApplication": "First identify exchange from debtor's perspective, then financial criterion.",
+          "examTrap": "A bad investment is not per se lack of value based on hindsight."
+        },
+        {
+          "id": "bank-ch9-constructive-fraud-e2",
+          "type": "rule",
+          "title": "Alternative I: insolvency at transfer or caused by transfer",
+          "page": "Ch9 §D.3",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "§548(a)(1)(B)(ii)(I): debtor insolvent on transfer or rendered insolvent, AND failed reasonable value; UVTA §5(a) typically requires PRESENT creditors. Balance-sheet insolvency compares fair-valued debts/assets.",
+          "laymanExplanation": "Debtor owes more than owns and gifts boat to cousin.",
+          "legalExplanation": "Commonest constructive fraud type; source quotes 'be just before you are generous'.",
+          "examApplication": "Record dates, balance sheet and actual property-value comparisons.",
+          "examTrap": "Never equate inability to pay any invoice with balance-sheet insolvency without statute presumption."
+        },
+        {
+          "id": "bank-ch9-constructive-fraud-e3",
+          "type": "rule",
+          "title": "Alternative II: unreasonably small capital",
+          "page": "Ch9 §D.3",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "§548(a)(1)(B)(ii)(II): transfer leaves debtor with unreasonably small assets/capital for business/transaction, even before technically insolvent; UVTA §4(a)(2)(i).",
+          "laymanExplanation": "Business can have assets slightly higher than debts but be undercapitalized for predictable risks.",
+          "legalExplanation": "Classic leveraged buyout issue where projected cash flow and margin of safety inadequate.",
+          "examApplication": "Use postdeal capital, volatility, projections, contingent liabilities.",
+          "examTrap": "A 1%-equity business can be risky but context governs, not fixed ratio."
+        },
+        {
+          "id": "bank-ch9-constructive-fraud-e4",
+          "type": "rule",
+          "title": "Alternative III: intended/believed inability to pay future debts",
+          "page": "Ch9 §D.3",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "§548(a)(1)(B)(ii)(III): debtor intended, believed, or reasonably should have believed it would incur debts beyond ability to pay at maturity, combined with insufficient exchange; UVTA §4(a)(2)(ii).",
+          "laymanExplanation": "Company made giant debt promise with no realistic cash to pay installments.",
+          "legalExplanation": "Distinguish cash-flow solvency from balance-sheet snapshot.",
+          "examApplication": "Analyze maturity calendar and reasonably known projections.",
+          "examTrap": "Foreseeable inability to pay not identical to actual fraud subjective hiding intent."
+        },
+        {
+          "id": "bank-ch9-constructive-fraud-e5",
+          "type": "rule",
+          "title": "Alternative IV: insider employment contract out of ordinary course",
+          "page": "Ch9 §D.3",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "§548(a)(1)(B)(ii)(IV): for transfer to/for benefit insider under employment contract NOT in ordinary course; when less than reasonable equivalent value, no insolvency/small-capital proof needed.",
+          "laymanExplanation": "In otherwise profitable company, unusual giant CEO pay for little/no service may still be attacked.",
+          "legalExplanation": "BAPCPA 2005 addition; ordinary-course criterion and valuation of executive services uncertain.",
+          "examApplication": "Identify insider, contract, transaction and equivalent compensation separately.",
+          "examTrap": "Don't add insolvency as required element for this fourth theory."
+        },
+        {
+          "id": "bank-ch9-constructive-fraud-e6",
+          "type": "rule",
+          "title": "State-law insider antecedent-debt preference §5(b) separately",
+          "page": "Ch9 §D.3",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "UFTA/UVTA §5(b) state-specific constructive category: transfer to insider for antecedent debt while insolvent and insider with reasonable cause know. Present creditor necessary; separate from Code §548 insider employment category.",
+          "laymanExplanation": "Paying owner back an old loan can be actionable state-law insider preference.",
+          "legalExplanation": "Under §544(b) triggering actual creditor and UVTA §9 one-year §5(b) extinguishment matter.",
+          "examApplication": "Do not combine §5(b) elements with federal preference §547 90-day test.",
+          "examTrap": "Not general rule all insider debt payments forbidden."
+        },
+        {
+          "id": "bank-ch9-constructive-fraud-e7",
+          "type": "rule",
+          "title": "Reasonably equivalent value looks at contemporaneous rights, not ultimate success",
+          "page": "Ch9 §D.3",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "Value means property or satisfaction/securing of debtor debt §548(d)(2)(A). Monetary, debt-release, viable indirect benefits or enforceable chance of payoff can matter; compare VALUE at transfer time, not outcome.",
+          "laymanExplanation": "Paying $100 for a chance to win $200 can be valuable even if you lose.",
+          "legalExplanation": "BFP alters benchmark for regularly conducted mortgage foreclosure; Chomakos measures legal wager when placed.",
+          "examApplication": "State appraisal context, contract benefits and timing, never evaluate only eventual bankruptcy loss.",
+          "examTrap": "'Reasonably equivalent' not necessarily penny-for-penny equal."
+        },
+        {
+          "id": "bank-ch9-constructive-fraud-e8",
+          "type": "rule",
+          "title": "Indirect corporate benefits in guarantee and leveraged buyout",
+          "page": "Ch9 §D.3 / Problems9.7–9.8",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "A guaranty of customer's/sister's debt transfers contingent corporate value via obligation; direct consideration goes to third party, but debtor MAY gain economic viability/business synergies; LBO grants target liens/guarantee for shareholder buyout, creates risk of thin equity and creditor losses.",
+          "laymanExplanation": "Supplier keeps key buyer running by guaranteeing fuel; target finances managers buying its own shares.",
+          "legalExplanation": "Need identify obligor, transferee, direct/indirect value, insolvency at transaction, small capital, maturity ability, and avoidance/recovery target.",
+          "examApplication": "Preserve Problems9.7 and 9.8 as original unsolved hypotheticals.",
+          "examTrap": "Don't assert guarantee automatically fraudulent solely because beneficiary is another entity."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-bfp-foreclosure",
+      "title": "D.3 BFP v. Resolution Trust Corp. (1994) — Full Supreme Court Majority and Dissent",
+      "chapterGroup": "bank-ch9",
+      "description": "Regular noncollusive state foreclosure sale price is conclusively reasonably equivalent value.",
+      "entries": [
+        {
+          "id": "bank-ch9-bfp-foreclosure-e1",
+          "type": "case",
+          "title": "BFP v. Resolution Trust Corp., 511 U.S. 531 (1994)",
+          "page": "Ch9 §D.3 full opinion + Souter dissent",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "YES. Scalia majority affirmed: consideration received at regularly conducted noncollusive state-law real-estate foreclosure is reasonably equivalent value as matter of law; free-market appraisal percentages are inapt forced-sale benchmark. State-law irregularity or collusion can remove presumption/protection. Souter dissented for 4 justices, arguing Code text demands independent comparison and Congress explicitly included involuntary foreclosure transfers.",
+          "laymanExplanation": "Properly conducted noncollusive state REAL PROPERTY mortgage foreclosure price conclusively is reasonably equivalent value under §548(a)(1)(B); invalid/collusive/irregular sales and other contexts not automatically sheltered.",
+          "legalExplanation": "Majority: property sold under compulsory state foreclosure differs from open-market sale; §548 uses 'reasonably equivalent' not 'fair market'. Federal court setting a threshold or federally defined fair foreclosure price would destabilize land titles and intrude on extensive state foreclosure policy without clear congressional instruction. Historical foreclosure vs fraudulent transfer laws coexisted. Price is value in actual legally constrained market. Court preserves §548 when collusion/irregularity violates state law, plus ordinary private transfers. Souter dissent: plain text §548 requires court compare price with value regardless process, 1984 Code changes explicitly included foreclosure of equity of redemption and Congress didn't enact proposed safe harbor; rejecting independent review renders statute ineffectual for regular auctions.",
+          "examApplication": "$433k foreclosure vs claimed $725k market, 1984 transfer definition, Durrett 70% rule, Bundles fact-specific presumption, Scalia vs Souter statutory plain-text disagreement.",
+          "examTrap": "Does not say ANY foreclosure is immune from actual fraud or every personal-property auction gets BFP safe harbor; source highlights §548(d)(1) timing question.",
+          "assignedOpinion": true,
+          "sourceRole": "Full opinion excerpt included in supplied Chapter9",
+          "facts": "BFP partnership held California house securing $356,250 loan; defaulted. Imperial completed properly noticed state-law mortgage foreclosure July12 1989, property sold to Osborne for $433,000. BFP entered Chapter11 October; DIP attacked sale under federal constructively fraudulent transfer §548 because asserted fair market value exceeded $725,000. Sale was regular and noncollusive; lower courts rejected avoidance; Supreme Court reviewed price/value benchmark.",
+          "issue": "Does a NONCOLLUSIVE foreclosure of REAL PROPERTY completed in exact compliance with state law conclusively supply 'reasonably equivalent value' under §548(a)(1)(B), despite price far below appraisal fair market value?",
+          "holding": "YES. Scalia majority affirmed: consideration received at regularly conducted noncollusive state-law real-estate foreclosure is reasonably equivalent value as matter of law; free-market appraisal percentages are inapt forced-sale benchmark. State-law irregularity or collusion can remove presumption/protection. Souter dissented for 4 justices, arguing Code text demands independent comparison and Congress explicitly included involuntary foreclosure transfers.",
+          "reasoning": "Majority: property sold under compulsory state foreclosure differs from open-market sale; §548 uses 'reasonably equivalent' not 'fair market'. Federal court setting a threshold or federally defined fair foreclosure price would destabilize land titles and intrude on extensive state foreclosure policy without clear congressional instruction. Historical foreclosure vs fraudulent transfer laws coexisted. Price is value in actual legally constrained market. Court preserves §548 when collusion/irregularity violates state law, plus ordinary private transfers. Souter dissent: plain text §548 requires court compare price with value regardless process, 1984 Code changes explicitly included foreclosure of equity of redemption and Congress didn't enact proposed safe harbor; rejecting independent review renders statute ineffectual for regular auctions.",
+          "rule": "Properly conducted noncollusive state REAL PROPERTY mortgage foreclosure price conclusively is reasonably equivalent value under §548(a)(1)(B); invalid/collusive/irregular sales and other contexts not automatically sheltered."
+        },
+        {
+          "id": "bank-ch9-bfp-foreclosure-e2",
+          "type": "rule",
+          "title": "Why fair market value is wrong benchmark in compelled sale",
+          "page": "Ch9 §D.3 / BFP",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "Market appraisals assume willing seller with time, but foreclosure mandated deadlines and restricted bidding change the market, so value of property subject to forced foreclosure may differ greatly.",
+          "laymanExplanation": "A house auctioned at courthouse under state rules cannot command realtor's list price.",
+          "legalExplanation": "Majority treats compliance/process rather than a numeric percentage as conclusive benchmark.",
+          "examApplication": "Compare Durrett 57%/70% threshold and Bundles rebuttable facts-and-circumstances.",
+          "examTrap": "Don't mechanically compute 433/725 ratio and infer §548 liability despite BFP facts."
+        },
+        {
+          "id": "bank-ch9-bfp-foreclosure-e3",
+          "type": "rule",
+          "title": "Majority relies on state property system and land title security",
+          "page": "Ch9 §D.3 / BFP",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "Absent clear Congress mandate, federal fraudulent-transfer rule not used to unsettle thousands of settled land titles after proper foreclosures; state law balances creditor and borrower already.",
+          "laymanExplanation": "If every low-price foreclosure reversed on later Chapter11, no buyer could trust title.",
+          "legalExplanation": "Majority says ordinary §548 still meaningful outside foreclosure and for state procedure violations.",
+          "examApplication": "In statutory essay mention federalism/Butner plus actual §101(54) text.",
+          "examTrap": "Not just 'we prefer banks'; tied to legal market definition."
+        },
+        {
+          "id": "bank-ch9-bfp-foreclosure-e4",
+          "type": "rule",
+          "title": "Souter dissent: textual equivalence vs formal procedural safe harbor",
+          "page": "Ch9 §D.3 / BFP",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "Four dissenting justices viewed §548 as expressly reaching involuntary mortgage foreclosure and commanding value comparison, with state procedure irrelevant to separate substantive deficiency; proposed sale-safe-harbor declined by Congress.",
+          "laymanExplanation": "Even a legally advertised auction could sell $725k house at $433k; shouldn't creditors bear waste?",
+          "legalExplanation": "Points to 1984 explicit amendments and ordinary meaning 'reasonably equivalent'.",
+          "examApplication": "Give majority holding then dissent as competing interpretation.",
+          "examTrap": "Dissent is NOT rule in case; source notes UVTA separately codified §3(b) foreclosure defense."
+        },
+        {
+          "id": "bank-ch9-bfp-foreclosure-e5",
+          "type": "rule",
+          "title": "State irregularity or collusion removes conclusive sale-price protection",
+          "page": "Ch9 §D.3 / BFP",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "Court reserved avoidance where sale not compliant with all state foreclosure procedures or collusive; evaluation then may compare proper forced-sale value rather than appraisal.",
+          "laymanExplanation": "A shady private deal called a foreclosure is not protected.",
+          "legalExplanation": "§548(a)(1)(A) actual fraud may separately apply to collusive transfers.",
+          "examApplication": "Check notices, auction processes, collusion and state voidability.",
+          "examTrap": "Not proof any tiny procedural mistake automatically yields recovery; must satisfy §548 elements."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-chomakos",
+      "title": "D.3 In re Chomakos (6th Cir. 1995) — Full Gambling Value Case",
+      "chapterGroup": "bank-ch9",
+      "description": "Lawful bets assessed when placed, not after losing.",
+      "entries": [
+        {
+          "id": "bank-ch9-chomakos-e1",
+          "type": "case",
+          "title": "In re Chomakos, 69 F.3d 769 (6th Cir. 1995)",
+          "page": "Ch9 §D.3 full opinion",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "Sixth Circuit AFFIRMED no avoidance: lawful wager creates enforceable contingent right to monetary winnings valued when stake placed; reasonable equivalence supported by regulated odds/competition and entertainment value; trustee produced no opposing evidence. Eventual loss does not negate ex ante value.",
+          "laymanExplanation": "Compare debtor's stake to ex ante economically valuable chance and services when wager made, not final amount won or lost; small house advantage does not automatically make all losing bets transfers for no equivalent value.",
+          "legalExplanation": "Court likened uncertain casino contracts to futures contracts—right to potential payout has value before outcome. Even unfavorable house edge may still be reasonably equivalent in context; casino entertainment/intangible consumer services also real comparison to expensive dinners. Distinguished some charitable/church gifts where spiritual benefit generally not payable to creditors, but maintained ex ante economic opportunity may benefit creditors.",
+          "examApplication": "Use $7,710 net losses, 94%/95.73–97.43% payouts, legal bets, tiny blackjack edge, time of transfer.",
+          "examTrap": "Court did not claim 99% house advantage equivalent value; source asks hypothetical, and ex-ante benefit to debtor vs creditors critique.",
+          "assignedOpinion": true,
+          "sourceRole": "Full opinion excerpt included in supplied Chapter9",
+          "facts": "George and Nikki Chomakos filed Aug2 1990 after losing casino bets at Flamingo Hilton; trustee sued to recover money wagered during insolvency, invoking federal §548 and Michigan UFCA. Court found insolvent from Jan1988; Nikki won $9k and lost $14k in sampled slots, George net loss $2,710; combined net insolvency-period losses $7,710. Casino proved heavily regulated legal wagering, competitive games, slot payouts roughly 94% overall and 95.73–97.43% on Nikki's machines; blackjack house advantage ~1% or less with strategy. Trustee compared bets with net eventual loss.",
+          "issue": "Does legal chance of winning casino money plus entertainment at TIME OF BET constitute 'reasonably equivalent value', or is entire losing wager constructively fraudulent solely because debtor ultimately lost?",
+          "holding": "Sixth Circuit AFFIRMED no avoidance: lawful wager creates enforceable contingent right to monetary winnings valued when stake placed; reasonable equivalence supported by regulated odds/competition and entertainment value; trustee produced no opposing evidence. Eventual loss does not negate ex ante value.",
+          "reasoning": "Court likened uncertain casino contracts to futures contracts—right to potential payout has value before outcome. Even unfavorable house edge may still be reasonably equivalent in context; casino entertainment/intangible consumer services also real comparison to expensive dinners. Distinguished some charitable/church gifts where spiritual benefit generally not payable to creditors, but maintained ex ante economic opportunity may benefit creditors.",
+          "rule": "Compare debtor's stake to ex ante economically valuable chance and services when wager made, not final amount won or lost; small house advantage does not automatically make all losing bets transfers for no equivalent value."
+        },
+        {
+          "id": "bank-ch9-chomakos-e2",
+          "type": "rule",
+          "title": "Ex-ante valuation and risks",
+          "page": "Ch9 §D.3 / Chomakos",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "Measure enforceable chances at purchase of wager/futures, not hindsight; risk of losing is part of bargain and market price.",
+          "laymanExplanation": "A lottery ticket with chance to win is not worth $0 the moment it loses.",
+          "legalExplanation": "This principle bears on options, startups, contingent value and guarantees.",
+          "examApplication": "Frame expected value, cash risk and whether services matter in legal definition.",
+          "examTrap": "Do not conclude a losing gamble always protected regardless odds."
+        },
+        {
+          "id": "bank-ch9-chomakos-e3",
+          "type": "rule",
+          "title": "Casino entertainment versus charitable spiritual benefit",
+          "page": "Ch9 §D.3 / Chomakos",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "Court suggested restaurant dinner value would count despite no remaining asset, and casino offers excitement plus meaningful possible winnings. Source questions consistency with charitable gift cases.",
+          "laymanExplanation": "Meals vanish, yet paying for dinner isn't ordinarily gift fraud; gaming similarly supplies service.",
+          "legalExplanation": "Distinguish value TO DEBTOR at transaction from collectible value to creditors under narrower economic view.",
+          "examApplication": "State contrary counterargument: gambling often externalizes expected downside to creditors.",
+          "examTrap": "Book questions remain open; don't create definitive rule for all donations."
+        },
+        {
+          "id": "bank-ch9-chomakos-e4",
+          "type": "rule",
+          "title": "Creditors-versus-debtor asymmetric-risk exam issue",
+          "page": "Ch9 §D.3 / Chomakos Q6",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.3 Constructive Fraud, full BFP v Resolution Trust Corp Supreme Court majority+dissent and In re Chomakos 6th Cir opinion",
+          "summary": "Original hypothetical compares insolvent debtor with $10k assets/$12k debt before 50/50 gamble with $20k payout, asking different expected outcomes for creditors and debtor; risk neutrality of estate and caps on claims may cause different incentives.",
+          "laymanExplanation": "When upside beyond debts goes to debtor but downside mostly creditors, a 'fair' coin flip may still harm creditor expected recovery.",
+          "legalExplanation": "Separate full expected value of stake from creditor's capped claim and debtor residual equity.",
+          "examApplication": "Provide independent calculation toolkit but don't answer original question.",
+          "examTrap": "Don't assume same expected payoff to creditors and shareholder from same fair bet."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
