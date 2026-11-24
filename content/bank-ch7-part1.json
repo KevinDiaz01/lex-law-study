@@ -1,0 +1,409 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+  "coverage": {
+    "chapter": 7,
+    "scope": "A. Intro §362 stay relief, statutory grounds (d)(1)-(3), burdens, timing, form of relief, other causes; B.1 §361 adequate protection foundations and §507(b); B.2 opportunity cost overview and original Problems 7.1-7.2 left unsolved"
+  },
+  "topics": [
+    {
+      "id": "bank-ch7-stay-relief-intro",
+      "title": "A. Relief from the Automatic Stay: Balance, Termination and Why Creditors Move",
+      "chapterGroup": "bank-ch7",
+      "description": "The secured creditor’s substantive collateral value versus bankruptcy's reorganization purpose.",
+      "entries": [
+        {
+          "id": "bank-ch7-stay-relief-intro-e1",
+          "type": "rule",
+          "title": "Automatic stay ends under §362(c) but relief can be ordered earlier",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Stay's statutory duration differs by covered property and acts; property-of-estate stay ends when property leaves estate, individual-debtor protection ends under specified closing/dismissal/discharge events; secured creditors often seek earlier §362(d) relief.",
+          "laymanExplanation": "Filing freezes collection, not forever; a lender can ask court to let it repossess sooner.",
+          "legalExplanation": "Separate automatic end under §362(c) from judicial grant of §362(d) relief, and from a creditor's valid lien.",
+          "examApplication": "Ask date, what is stayed, whether estate holds property and whether discharge/closing/dismissal has occurred.",
+          "examTrap": "Do not claim all components of automatic stay end at the same moment solely because property leaves estate."
+        },
+        {
+          "id": "bank-ch7-stay-relief-intro-e2",
+          "type": "rule",
+          "title": "Congress balances lien value versus breathing room for reorganization",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Collateral value is lender's protected property interest, but immediate foreclosure may destroy going-concern value and prevent Chapter11 rehabilitation. §362(d) protects value while allowing bankruptcy time only when justified.",
+          "laymanExplanation": "Bank should not lose pledged property's value, but taking debtor's only truck can destroy the business.",
+          "legalExplanation": "Substantive value of lien protected more strongly than original nonbankruptcy foreclosure procedure.",
+          "examApplication": "In essay state creditor interest and reorganization purpose before statutory test.",
+          "examTrap": "Creditor's right to foreclose on Tuesday isn't itself unconditionally protected during stay."
+        },
+        {
+          "id": "bank-ch7-stay-relief-intro-e3",
+          "type": "rule",
+          "title": "Two independent core stay-relief grounds: cause/adequate protection and absence of bankruptcy purpose",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "§362(d)(1) grants relief for cause including lack of adequate protection. §362(d)(2) grants relief as to act against property when both debtor lacks equity and property unnecessary to an effective reorganization.",
+          "laymanExplanation": "You can lift stay when bank's property value is threatened OR when there is no bankruptcy reason to keep property frozen.",
+          "legalExplanation": "Tests independent—creditor can prevail under either without also winning the other.",
+          "examApplication": "First test §362(d)(1); separately test both subparts of §362(d)(2).",
+          "examTrap": "Don't collapse lack of equity with absence of adequate protection."
+        },
+        {
+          "id": "bank-ch7-stay-relief-intro-e4",
+          "type": "rule",
+          "title": "§362(d)(1) 'cause' is broader than secured creditor depreciation",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Cause includes insufficient adequate protection but also may justify returning unrelated probate fiduciary matters, nearly completed state trials or other litigation to nonbankruptcy fora.",
+          "laymanExplanation": "The bankruptcy court may allow a pending lawsuit to finish in state court instead of restarting everything.",
+          "legalExplanation": "§1334(c)(1) abstention and comity/efficiency can support stay relief; stay may protect individual debtor even in representative capacity.",
+          "examApplication": "For a noncollateral motion identify prejudice, trial progress, judicial economy, estate effect.",
+          "examTrap": "Cause isn't limited to unpaid mortgage or secured credit."
+        },
+        {
+          "id": "bank-ch7-stay-relief-intro-e5",
+          "type": "rule",
+          "title": "Chapter7 generally lacks reorganization reason to retain no-equity property",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "If collateral fully exhausts equity, trustee in liquidation ordinarily has no sale proceeds for unsecured estate; §362(d)(2)(B)'s reorganization rationale is absent, and trustee often abandons under §554.",
+          "laymanExplanation": "No leftover equity for estate; usually no reason to force bank to wait.",
+          "legalExplanation": "Statutory two-prong language remains but in Chapter7 no effective reorganization is contemplated.",
+          "examApplication": "Identify Chapter7 versus reorganization before analyzing necessity.",
+          "examTrap": "Not accurate to say a Chapter7 court can never retain encumbered asset for an estate-specific benefit."
+        },
+        {
+          "id": "bank-ch7-stay-relief-intro-e6",
+          "type": "rule",
+          "title": "Chapter11: no equity by itself cannot defeat reorganization necessity",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Where debtor has no equity, debtor can still need pledged machinery or premises to operate, preserve going-concern value and propose plausible Chapter11 plan; §362(d)(2)(B) also demands realistic feasibility.",
+          "laymanExplanation": "Business may be underwater yet need the property to generate revenue.",
+          "legalExplanation": "Both no-equity and no-necessity-for-feasible-reorganization must exist for §362(d)(2) relief.",
+          "examApplication": "Separate cash liquidation value from continuing operation/use and plan prospects.",
+          "examTrap": "No equity alone is NOT enough for §362(d)(2) in Chapter11."
+        },
+        {
+          "id": "bank-ch7-stay-relief-intro-e7",
+          "type": "rule",
+          "title": "§362(d)(3) special SARE fast route",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "For claim secured by single asset real estate §101(51B), debtor must within statutory period file plan with reasonable confirmation possibility OR start qualified monthly nondefault contract-rate interest payments; otherwise stay relief follows.",
+          "laymanExplanation": "Single rental-building company can't sit in bankruptcy for years without filing credible plan or paying lender.",
+          "legalExplanation": "Source explains earliest usual day90 after filing, or 30 days after SARE determination if later, subject permissible extensions.",
+          "examApplication": "Identify SARE first, then dates and plan/payment alternate.",
+          "examTrap": "Don't apply (d)(3) automatically to every real estate debtor."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-stay-burden-procedure",
+      "title": "A. §362(g), §362(e), §362(f): Burdens, Hearing Clocks and Conditional Relief",
+      "chapterGroup": "bank-ch7",
+      "description": "Creditor bears debtor equity, opposing party other issues, expedited procedures.",
+      "entries": [
+        {
+          "id": "bank-ch7-stay-burden-procedure-e1",
+          "type": "rule",
+          "title": "§362(g): only no-equity burden rests on movant",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Movant has burden as to debtor's equity in property §362(g)(1). On all other issues—adequate protection, necessity/feasibility and SARE grounds—party opposing stay relief bears proof under §362(g)(2).",
+          "laymanExplanation": "Bank proves zero leftover equity; debtor must show car is protected and genuinely needed for plausible plan.",
+          "legalExplanation": "Burden of persuasion allocation helps when expert values ambiguous or plan unsupported.",
+          "examApplication": "Make a mini two-column burden chart in essay.",
+          "examTrap": "Not all §362(d) grounds must be affirmatively proven by creditor."
+        },
+        {
+          "id": "bank-ch7-stay-burden-procedure-e2",
+          "type": "rule",
+          "title": "§362(e) 30-day expiration unless court continues stay",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "For property-of-estate stay, 30 days after request court must continue stay after notice/hearing; preliminary continuation requires reasonable likelihood opponent will prevail, and final hearing usually concluded within 30 days after preliminary hearing absent agreement/compelling circumstances.",
+          "laymanExplanation": "Court must act quickly or frozen collateral enforcement may resume.",
+          "legalExplanation": "This is statutory hearing framework as described in supplied edition; actual procedural timing depends statutory provisions and context.",
+          "examApplication": "Write clock from motion date, distinguish preliminary versus final hearing.",
+          "examTrap": "Not every stay-relief motion is allowed to linger indefinitely."
+        },
+        {
+          "id": "bank-ch7-stay-burden-procedure-e3",
+          "type": "rule",
+          "title": "§362(e)(2) individual-case 60-day final-decision mechanism",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "For individual debtor Chapters7,11,13, source describes stay termination 60 days after request unless final court decision continuing stay; parties may agree extension or court extend for good cause.",
+          "laymanExplanation": "Special individual-debtor clock pushes for decision within 60 days.",
+          "legalExplanation": "Compare §362(e) preliminary 30-day regime and 2005 §362(e)(2), mindful of overlaps.",
+          "examApplication": "When debtor is person not corporation, separately check 60-day rule.",
+          "examTrap": "Don't apply the individual-only 60-day provision to corporation."
+        },
+        {
+          "id": "bank-ch7-stay-burden-procedure-e4",
+          "type": "rule",
+          "title": "§362(f) urgent ex parte relief requires irreparable harm",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Court may grant emergency stay relief without ordinary notice if creditor demonstrates property interest will suffer irreparable damage absent immediate relief.",
+          "laymanExplanation": "Truck being destroyed tonight might justify quick order, not merely creditor wanting fast payment.",
+          "legalExplanation": "Extraordinary ex parte procedure addresses imminent loss, not routine default.",
+          "examApplication": "Describe specific immediate damage and inadequate normal hearings.",
+          "examTrap": "General inconvenience of waiting isn't necessarily irreparable harm."
+        },
+        {
+          "id": "bank-ch7-stay-burden-procedure-e5",
+          "type": "rule",
+          "title": "Mandatory relief if ground proven; flexible remedy form",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "§362(d) says court shall grant relief upon qualifying ground, but may terminate, annul, modify or condition stay instead of simply lifting entirely.",
+          "laymanExplanation": "Judge might say keep machines only if debtor pays monthly protection amount.",
+          "legalExplanation": "Conditioning may require payments, replacement lien or plan milestones; annulment is retroactive concept.",
+          "examApplication": "Propose tailored remedy and monitoring provisions.",
+          "examTrap": "Proving cause does not always mean immediate complete foreclosure authority."
+        },
+        {
+          "id": "bank-ch7-stay-burden-procedure-e6",
+          "type": "rule",
+          "title": "Denial without prejudice; changing feasibility facts support renewed motion",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Stay relief denial at a stage of case generally isn't res judicata; lender may renew when prospects worsen or debtor makes no tangible progress.",
+          "laymanExplanation": "A debtor may get breathing room early, but that runs out if nothing changes.",
+          "legalExplanation": "Reorganization courts often indulgent in early exclusivity period, stricter later.",
+          "examApplication": "Specify changes in evidence and time elapsed at second motion.",
+          "examTrap": "Do not assume lender permanently loses chance to move again."
+        },
+        {
+          "id": "bank-ch7-stay-burden-procedure-e7",
+          "type": "rule",
+          "title": "Other-forum cause: state trial and fiduciary litigation",
+          "page": "Ch.7 §A",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "§362(d)(1) can allow suit to be liquidated in state court (especially trial nearly completed) and probate matters where individual debtor acts as executor not personally; court may abstain under 28 USC §1334(c)(1).",
+          "laymanExplanation": "If trial was one day from verdict, restarting could waste everyone's time.",
+          "legalExplanation": "Distinguish claim liquidation from payment out of bankruptcy estate, which still governed by claims process.",
+          "examApplication": "Spot case management, expertise, comity and efficiency.",
+          "examTrap": "Granting forum relief doesn't itself let creditor seize estate assets to collect judgment."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-adequate-protection-core",
+      "title": "B.1 Adequate Protection §361: Value Preservation, Methods, Failure",
+      "chapterGroup": "bank-ch7",
+      "description": "Protection of lien-value decline, not wholesale restoration of original foreclosure rights.",
+      "entries": [
+        {
+          "id": "bank-ch7-adequate-protection-core-e1",
+          "type": "rule",
+          "title": "Adequate protection is temporary preservation of lien VALUE",
+          "page": "Ch.7 §B.1",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Adequate protection under §361 protects a creditor's legally valid interest in estate property against decrease caused by stay/use/financing while case pending; it replaces original state-law enforcement tools with federal interim safeguards.",
+          "laymanExplanation": "Can't seize pledged excavator right now, but debtor must protect bank from its value falling.",
+          "legalExplanation": "Property rights created by nonbankruptcy law; federal bankruptcy governs interim enforcement; concept rooted in Fifth Amendment discussion plus bankruptcy policy.",
+          "examApplication": "Identify value at start and end, link to bankruptcy actions, then select remedy.",
+          "examTrap": "Do not define adequate protection as guaranteed payment of full FACE claim."
+        },
+        {
+          "id": "bank-ch7-adequate-protection-core-e2",
+          "type": "rule",
+          "title": "Four interconnected Code applications",
+          "page": "Ch.7 §B.1",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "§363(e) may prohibit/condition use, sale or lease of collateral; §542 turnover may be ordered with protection; §362(d)(1) stay relief for inadequate protection; §364(d) priming lien demands protection of displaced lender.",
+          "laymanExplanation": "Estate can use machines, retrieve repossessed truck, or borrow ahead of bank only if bank's interest protected as required.",
+          "legalExplanation": "Each context involves same lien-value concept and distinct procedural statute.",
+          "examApplication": "When exam asks 'where is AP used,' name §§362,363,364,542.",
+          "examTrap": "§361 alone does not authorize possession or loan financing."
+        },
+        {
+          "id": "bank-ch7-adequate-protection-core-e3",
+          "type": "rule",
+          "title": "Two bases: constitutional protection and statutory policy",
+          "page": "Ch.7 §B.1",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Text discusses Fifth Amendment property-right concern plus Congress's policy that lender retains economic value of bargain even though procedural foreclosure timing differs; excerpt notes scholarly contest about scope of Takings Clause.",
+          "laymanExplanation": "Bank's pledged property has property-law significance, and Congress chose to safeguard it.",
+          "legalExplanation": "Court and legislation balance protection without giving lenders all state-law procedural remedies.",
+          "examApplication": "Explain both bases while recognizing textbook's cited critical scholarship.",
+          "examTrap": "Do not claim the source establishes a definitive independent constitutional minimum for every secured claim."
+        },
+        {
+          "id": "bank-ch7-adequate-protection-core-e4",
+          "type": "rule",
+          "title": "§361(1) cash payments equal to threatened decrease",
+          "page": "Ch.7 §B.1",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "DIP or trustee can make periodic payments protecting secured interest from depreciation attributable to stay/use.",
+          "laymanExplanation": "If freezer equipment loses $2k/month, monthly protection may cover that loss.",
+          "legalExplanation": "Cash payment offsets decline rather than buying contractual rate simply because lender is delayed.",
+          "examApplication": "Compare actual projected monthly depreciation to promised payments.",
+          "examTrap": "Regular note payment amount isn't automatically proper AP amount."
+        },
+        {
+          "id": "bank-ch7-adequate-protection-core-e5",
+          "type": "rule",
+          "title": "§361(2) additional or replacement liens",
+          "page": "Ch.7 §B.1",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Grant creditor lien on substitute property or other collateral to compensate decrease in value of first pledged property.",
+          "laymanExplanation": "A bank losing truck value gets lien on other business assets worth equivalent loss.",
+          "legalExplanation": "Requires real value and priority of substitute lien, not merely paper promise.",
+          "examApplication": "On Problem7.1 test whether debtor's real estate equity may support replacement lien.",
+          "examTrap": "Replacement lien should not be counted twice as protectable value."
+        },
+        {
+          "id": "bank-ch7-adequate-protection-core-e6",
+          "type": "rule",
+          "title": "§361(3) indubitable equivalent, not unsecured administrative rank",
+          "page": "Ch.7 §B.1",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Court may give other relief ensuring indubitable equivalent of lender's protected collateral interest, e.g., financially reliable third-party guaranty; §361(3) expressly excludes ordinary §503(b)(1) administrative expense as method of AP.",
+          "laymanExplanation": "Bank needs truly reliable value substitute, not just 'you'll be high on the list'.",
+          "legalExplanation": "The alternative must protect economic equivalent and cannot merely substitute second-priority unsecured administrative expense.",
+          "examApplication": "Distinguish §361 present protection from §507(b) later superpriority upon failure.",
+          "examTrap": "Court cannot initially call §503(b)(1) priority adequate protection."
+        },
+        {
+          "id": "bank-ch7-adequate-protection-core-e7",
+          "type": "rule",
+          "title": "§507(b) superpriority if protection later insufficient",
+          "page": "Ch.7 §B.1",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "If initially ordered AP proves inadequate and creditor suffers covered loss, §507(b) gives superpriority administrative claim for deficiency ahead of ordinary §507(a)(2) administrative claims, subject precise statutory predicates.",
+          "laymanExplanation": "Judge ordered $5k/month but asset depreciated more; under some circumstances bank gets special top administrative claim for uncovered loss.",
+          "legalExplanation": "Different from providing administrative rank upfront under prohibited §361(3); triggers when protection FAILS.",
+          "examApplication": "Problem7.2 asks to separate value drop, cash payments and amount left inadequately protected.",
+          "examTrap": "Not automatic for every decrease; must establish correct §507(b) predicates."
+        },
+        {
+          "id": "bank-ch7-adequate-protection-core-e8",
+          "type": "rule",
+          "title": "Value protected against decline, not equity cushion necessarily",
+          "page": "Ch.7 §B.1–B.2",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Protectable interest is lien value under §361, not the cushion itself; where value equals/surpasses debt, its preservation can be enough despite cushion shrinkage through interest accrual.",
+          "laymanExplanation": "Collateral can lose spare padding without bank actually losing protected $100k lien recovery.",
+          "legalExplanation": "Alyucan explored; Timbers discusses limits on interest/delay protection.",
+          "examApplication": "Compute lien recoverability separately from collateral-minus-debt margin.",
+          "examTrap": "Cushion disappearing doesn't mechanically prove lack of AP."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-opportunity-cost",
+      "title": "B.2 Interim Delay, Equity Cushion and Interest: Before Alyucan and Timbers",
+      "chapterGroup": "bank-ch7",
+      "description": "Distinguish loan interest from depreciation and lost foreclosure investment return.",
+      "entries": [
+        {
+          "id": "bank-ch7-opportunity-cost-e1",
+          "type": "rule",
+          "title": "Equity cushion = collateral value − debt, but not same as lien value",
+          "page": "Ch.7 §B.2",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Oversecured creditor has excess collateral supporting principal and potentially §506(b) interest; cushion can shrink as debt increases or property falls without automatic harm to value of currently recoverable lien.",
+          "laymanExplanation": "Car worth $150k and loan $100k has $50k buffer; not every buffer dollar is protected claim.",
+          "legalExplanation": "Alyucan rejected preservation of cushion as formula; a large cushion can nevertheless protect lien for months.",
+          "examApplication": "Ask whether actual recoverability drops below protected interest and whether deterioration likely.",
+          "examTrap": "Don't mistake mathematical cushion for standalone property right."
+        },
+        {
+          "id": "bank-ch7-opportunity-cost-e2",
+          "type": "rule",
+          "title": "Sufficient cushion can temporarily provide AP alone",
+          "page": "Ch.7 §B.2",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Example in chapter: $150k collateral, $100k loan, $50k buffer; property depreciates $2k/month and debt interest accrues $1k/month, $3k/month cushion erosion; buffer lasts about seventeen months. For 12-month plan, cushion may give enough interim safety.",
+          "laymanExplanation": "A $50k buffer covers roughly $3k monthly deterioration for about 16.7 months.",
+          "legalExplanation": "Source uses an illustrative projection; value and accrual evidence can change outcome.",
+          "examApplication": "Estimate duration as cushion÷combined monthly adverse changes; assess plan timing.",
+          "examTrap": "This is a math example, not blanket rule every 17-month cushion ensures AP."
+        },
+        {
+          "id": "bank-ch7-opportunity-cost-e3",
+          "type": "rule",
+          "title": "Undersecured lost foreclosure earnings are NOT automatically AP",
+          "page": "Ch.7 §B.2",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Creditor owed $100k secured by $80k may lose ability to foreclose and invest $80k during Chapter11; Timbers rejects treating forgone interest/time value as depreciation requiring payments.",
+          "laymanExplanation": "Bank can't demand interest just because debtor delays auction of underwater collateral.",
+          "legalExplanation": "§506(b) allocates postpetition interest to oversecured lenders with cushion, not undersecured lost opportunity cost.",
+          "examApplication": "Undersecured AP claim must show collateral decline or other real diminution, not theoretical investments.",
+          "examTrap": "Don't conflate §1325 plan present-value interest (later) with §361 stay-period AP."
+        },
+        {
+          "id": "bank-ch7-opportunity-cost-e4",
+          "type": "rule",
+          "title": "Single asset real estate §362(d)(3) and Chapter12 §1205 exceptions",
+          "page": "Ch.7 §B.2",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Book identifies situations where Timbers no-opportunity-interest baseline differs: SARE stay retention requires timely plan or interest payments, and family-farmer §1205(b)(3) can require reasonable rent for farmland.",
+          "laymanExplanation": "Some specialized cases expressly demand interim payments even though ordinary AP doesn't.",
+          "legalExplanation": "Distinguish source of payment rule §362(d)(3) or §1205, rather than attributing to Timbers holding.",
+          "examApplication": "When property a rental-only building or family farm, test alternative statute.",
+          "examTrap": "Not correct to say Timbers means no debtor ever pays interim interest."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-problems-7-1-2",
+      "title": "B. Problems 7.1 and 7.2 — Zamboni Collateral and Failed Protection (Unsolved)",
+      "chapterGroup": "bank-ch7",
+      "description": "Preserves complete multi-scenario Zamboni calculations and §507(b) analysis.",
+      "entries": [
+        {
+          "id": "bank-ch7-problems-7-1-2-e1",
+          "type": "rule",
+          "title": "Problem 7.1 issue checklist, no outcome",
+          "page": "Ch.7 §B.2 Problem 7.1",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "Analyze whether fleet is under/oversecured in alternate valuations, disputed $5k/month decline, whether $5.6k contractual payment partly interest, $200k preexisting real-property net equity, conditional cash/replacement lien under §361 and realistic reorganization necessity.",
+          "laymanExplanation": "What needs protecting: bank's collateral value, not necessarily its full original monthly loan payment.",
+          "legalExplanation": "§362(d)(1) can be cured with AP even if §362(d)(2) no equity + necessity applies differently.",
+          "examApplication": "Use both $425–500k and $600k scenarios, do not resolve source exercise.",
+          "examTrap": "Don't automatically use real estate equity for AP if senior liens or other restrictions preclude replacement lien."
+        },
+        {
+          "id": "bank-ch7-problems-7-1-2-e2",
+          "type": "rule",
+          "title": "Problem 7.2 loss accounting, no answer",
+          "page": "Ch.7 §B.2 Problem 7.2",
+          "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+          "summary": "List petition value $500k, sold value $410k, expected monthly decline $5k for ten months, actual drop $90k, ordered cash $50k; determine if initial protection failed and §507(b) entitlement from proven shortfall.",
+          "laymanExplanation": "Actual decline exceeded prediction; issue is whether protection gap creates statutory superpriority.",
+          "legalExplanation": "Identify separately payments already made, collateral sale proceeds and secured underlying claim to avoid double counting.",
+          "examApplication": "Show calculation framework with variables, without stating result to preserve exercise.",
+          "examTrap": "A simple subtraction does not alone establish §507(b) legal predicates."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch7-p7-1",
+      "topicId": "bank-ch7-problems-7-1-2",
+      "title": "Problem 7.1 — Zamboni stay and AP",
+      "kind": "Original textbook Problem — UNSOLVED",
+      "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+      "prompt": "Creditor holds valid interest in business Zamboni fleet securing $500,000. Chapter11 petition collateral value RANGE $425,000–$500,000, expected depreciation $5,000/month (creditor's estimate disputed), missed monthly contract payments $5,600 of which $3,000 represents interest. DIP will keep using Zambonis. Debtor has separate real estate value $800,000 with mortgage $600,000. Creditor requests stay relief or AP. Analyze, without giving outcome. Also analyze alternative Zamboni valuation $600,000. Consider §§361,362(d)(1),(2), §506(b), value decline, equity and available substitute collateral.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-p7-2",
+      "topicId": "bank-ch7-problems-7-1-2",
+      "title": "Problem 7.2 — Unexpected protection shortfall",
+      "kind": "Original textbook Problem — UNSOLVED",
+      "source": "User-provided Tabb & Brubaker bankruptcy casebook Chapter 7, Relief from Stay and Adequate Protection, §§A–B (pasted ebook excerpt); use section and problem references, no invented page numbers",
+      "prompt": "Same Zamboni setting. Court fixed fleet value at $500,000 and ordered AP CASH payments $5,000 monthly. After TEN MONTHS debtor sold fleet for $410,000 and remitted proceeds to creditor. Actual collateral decline $90,000 vs expected $50,000 (ten $5,000 payments). Determine creditor rights under §507(b), allowed collateral recovery and any uncovered shortfall, leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
