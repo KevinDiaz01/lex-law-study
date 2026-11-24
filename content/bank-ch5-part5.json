@@ -1,0 +1,316 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+  "coverage": {
+    "chapter": 5,
+    "scope": "D.2 Admin Expenses §503(b) including full In re Jartran; §503(b)(9) 20-day goods, §546(c) 45-day reclamation, Reading Co and Midlantic casebook notes",
+    "note": "Reading and Midlantic are textbook explanatory notes, NOT full judicial opinions excerpted in this Chapter 5."
+  },
+  "topics": [
+    {
+      "id": "bank-ch5-admin-expenses",
+      "title": "D.2 — §503(b) Administrative Expenses: Postpetition Transaction and Benefit",
+      "chapterGroup": "bank-ch5",
+      "description": "Second priority administration, necessity, case operation and limits to statutory equity.",
+      "entries": [
+        {
+          "id": "bank-ch5-admin-expenses-e1",
+          "type": "rule",
+          "title": "§507(a)(2) second priority; §503(b) nonexclusive categories",
+          "page": "Ch.5 §D.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Administrative expense priority includes actual necessary operating/preservation costs, professional fees/participation reimbursements and other specified §503(b) classes; 'including' makes list nonexclusive.",
+          "laymanExplanation": "People providing services to run the bankruptcy should be paid before most old unsecured creditors.",
+          "legalExplanation": "§503(b)(1)–(9) share administrative rank (apart from statutory superpriorities), all presumptively scrutinized narrowly because priority affects other creditors.",
+          "examApplication": "Classify each claim by when, with whom, and what service rather than merely creditor label.",
+          "examTrap": "Section 503(b) doesn't turn all unpaid obligations into admin expenses."
+        },
+        {
+          "id": "bank-ch5-admin-expenses-e2",
+          "type": "rule",
+          "title": "General two-part test (Mammoth Mart via Jartran)",
+          "page": "Ch.5 §D.2 / Jartran",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Ordinarily debt must (1) arise from POSTpetition transaction with debtor in possession/trustee and (2) benefit estate in operation/preservation; both normally required.",
+          "laymanExplanation": "Estate asked you after filing to ship supplies that helped business: likely admin; old signed order fulfilled later may be different.",
+          "legalExplanation": "Priority encourages parties to supply fresh postpetition credit; benefit alone insufficient absent estate inducement under Jartran.",
+          "examApplication": "Mark precise date contract irreversible and estate affirmatively accepted or ordered performance.",
+          "examTrap": "Don't take postpetition receipt or invoice date alone as transaction date."
+        },
+        {
+          "id": "bank-ch5-admin-expenses-e3",
+          "type": "rule",
+          "title": "Examples actual necessary operating/preservation costs",
+          "page": "Ch.5 §D.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Rent, employee wages for postpetition service, utility bills, taxes incurred by estate, insurance, new trade credit and necessary court/professional costs may qualify.",
+          "laymanExplanation": "Business in Chapter 11 still must pay new running costs to keep lights on.",
+          "legalExplanation": "§503(b)(1)(A) plus §§503(b)(2)–(9) for trustee/counsel/committee etc; case-specific allowance still applies.",
+          "examApplication": "Split ongoing contracts into before/after consideration, not just contractual term.",
+          "examTrap": "Paying old debt because business owner wants to isn't automatically necessary admin."
+        },
+        {
+          "id": "bank-ch5-admin-expenses-e4",
+          "type": "rule",
+          "title": "Why priority strict but §503(b) flexible",
+          "page": "Ch.5 §D.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Administrative priority favors successful rehabilitation and fair operation, yet diminishes dividends of prepetition creditors; courts scrutinize claimant and require statutory/public policy justification.",
+          "laymanExplanation": "Every extra priority dollar is one less dollar for ordinary creditors.",
+          "legalExplanation": "Book notes fairness exceptions for involuntary torts under Reading and statutory compliance under N.P. Mining.",
+          "examApplication": "Do not assume all valid claims have equal chance of being elevated.",
+          "examTrap": "Courts can't award special category simply from sympathy absent legal basis."
+        },
+        {
+          "id": "bank-ch5-admin-expenses-e5",
+          "type": "rule",
+          "title": "Postpetition accrual differs from postpetition performance",
+          "page": "Ch.5 §D.2 / Jartran",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Even if benefits realized after filing, prepetition irrevocable commitment can be ordinary prepetition claim; performance after filing alone isn't always estate transaction.",
+          "laymanExplanation": "Ad appeared after bankruptcy, but estate didn't place it or choose it after bankruptcy.",
+          "legalExplanation": "In Jartran priority depended on who induced advertising supplier: prefiling debtor or later DIP.",
+          "examApplication": "Use contract closing date and opportunity to reject/affirm.",
+          "examTrap": "Book later treats goods received 20 days before filing specially under §503(b)(9), not ordinary two-part test."
+        },
+        {
+          "id": "bank-ch5-admin-expenses-e6",
+          "type": "rule",
+          "title": "Postpetition pay for compensation and professionals",
+          "page": "Ch.5 §D.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Wages for work performed after filing, estate lawyers' reasonable compensation, trustee expenses and official committee contributions are typical statutory administration categories.",
+          "laymanExplanation": "Worker stocking shelf during Chapter 11 and attorney handling estate process can be entitled to priority.",
+          "legalExplanation": "§503(b)(2)–(9) categories distinct and require approval where applicable.",
+          "examApplication": "Check if professional hired by estate rather than individual shareholder.",
+          "examTrap": "Not all prebankruptcy attorney fees qualify."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-jartran",
+      "title": "D.2 — In re Jartran: When Were Postpetition Ads Actually Ordered?",
+      "chapterGroup": "bank-ch5",
+      "description": "Full Seventh Circuit decision on irrevocable directory orders and no debtor-in-possession inducement.",
+      "entries": [
+        {
+          "id": "bank-ch5-jartran-e1",
+          "type": "case",
+          "title": "In re Jartran, Inc., 732 F.2d 584 (7th Cir. 1984)",
+          "page": "Ch.5 §D.2 / Jartran full opinion",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "No. Ads irreversibly ordered prepetition were induced by prepetition debtor, not the postpetition DIP; no postfiling affirmative request/acceptance/renewed commitment. Benefit to estate by itself insufficient. Seventh Circuit affirmed denial.",
+          "laymanExplanation": "For postpetition goods/services priority, check if DIP/trustee actually induced or accepted the obligation after petition, not when vendor billed or product appeared; a prepetition irrevocable contract generally yields prepetition claim even if benefits realized postpetition.",
+          "legalExplanation": "Cudahy applied Mammoth Mart test: postpetition transaction with DIP AND benefit to estate. Benefit conceded, but crucial inducement occurred at directory closing date before bankruptcy. Postpetition debtor couldn't withdraw ads and made no postfiling affirmative choice. Analogy goods shipped before petition but accepted postpetition might differ due to fresh DIP acceptance; severance accrual analogy shows timing by performance. Fairness alone can't elevate one ordinary creditor above others.",
+          "examApplication": "Use Dec31 1981 filing, closing vs publication, $1,311,695.50, no postfiling consent and three source questions contrasting dates.",
+          "examTrap": "Don't claim every prepetition contract with any postpetition services must be disallowed as admin; DIP's later affirmative acceptance can change analysis.",
+          "assignedOpinion": true,
+          "sourceRole": "Full Seventh Circuit opinion excerpted from uploaded Chapter 5",
+          "facts": "Jartran truck rental chain hired Tinsley ad agency September 1979 to place Yellow Pages listings through Donnelley. Each city's directory ads became irrevocable by closing deadline months BEFORE publishing; contract required payment after directory publication. Jartran filed Chapter 11 Dec.31 1981. $1,311,695.50 advertising irrevocably ordered prefiling appeared in directories after filing; agencies requested §503(b)(1)(A) admin priority, noting continued publicity benefited ongoing business. Lower courts rejected.",
+          "issue": "Do advertising invoices generated after petition get administrative priority when the irrevocable commitment to run them arose before bankruptcy, even though postpetition publication benefits debtor in possession?",
+          "holding": "No. Ads irreversibly ordered prepetition were induced by prepetition debtor, not the postpetition DIP; no postfiling affirmative request/acceptance/renewed commitment. Benefit to estate by itself insufficient. Seventh Circuit affirmed denial.",
+          "reasoning": "Cudahy applied Mammoth Mart test: postpetition transaction with DIP AND benefit to estate. Benefit conceded, but crucial inducement occurred at directory closing date before bankruptcy. Postpetition debtor couldn't withdraw ads and made no postfiling affirmative choice. Analogy goods shipped before petition but accepted postpetition might differ due to fresh DIP acceptance; severance accrual analogy shows timing by performance. Fairness alone can't elevate one ordinary creditor above others.",
+          "rule": "For postpetition goods/services priority, check if DIP/trustee actually induced or accepted the obligation after petition, not when vendor billed or product appeared; a prepetition irrevocable contract generally yields prepetition claim even if benefits realized postpetition."
+        },
+        {
+          "id": "bank-ch5-jartran-e2",
+          "type": "rule",
+          "title": "Two-step Mammoth Mart / Jartran test in facts",
+          "page": "Ch.5 §D.2 / Jartran",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Step 1 new transaction with estate? prefiling irreversible closing means NO. Step 2 estate benefit? advertising exposure after filing means YES. Missing first defeats ordinary priority.",
+          "laymanExplanation": "Value is not enough if creditor didn't extend credit on strength of fresh bankruptcy estate.",
+          "legalExplanation": "Priority exists to attract voluntary suppliers to DIP who otherwise refuse to risk payment.",
+          "examApplication": "On exam make 2-column statutory test, then locate precise inducement event.",
+          "examTrap": "Don't use date Yellow Pages directory printed as automatically postpetition."
+        },
+        {
+          "id": "bank-ch5-jartran-e3",
+          "type": "rule",
+          "title": "Closing date, not publication/billing date, determines liability",
+          "page": "Ch.5 §D.2 / Jartran",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Advertisements contracted irreversibly before petition; vendors couldn't be canceled by DIP, though invoices generated on publication.",
+          "laymanExplanation": "Contract was locked when order signed, not when magazine mailed.",
+          "legalExplanation": "Facts show no action after filing to affirm, modify or order these listings.",
+          "examApplication": "Compare three original Jartran question variations: close before/publish before; close before/publish during; close during/publish during.",
+          "examTrap": "Don't confuse customer receiving benefit with legal incurrence."
+        },
+        {
+          "id": "bank-ch5-jartran-e4",
+          "type": "rule",
+          "title": "Postpetition acceptance of previously shipped goods is different",
+          "page": "Ch.5 §D.2 / Jartran",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Court recognized possible different result where supplier sends goods prepetition and DIP accepts postpetition, constituting fresh affirmative use/assumption; no such option existed for directory ads.",
+          "laymanExplanation": "If warehouse can reject shipment but keeps it, it chose to take goods postfiling; could trigger fresh obligation.",
+          "legalExplanation": "Jartran explicitly reserved what degree of postpetition affirmation would yield priority.",
+          "examApplication": "In hypothetical look for decision after petition, not mechanical publication.",
+          "examTrap": "Court didn't definitively decide every goods-delivery analogy."
+        },
+        {
+          "id": "bank-ch5-jartran-e5",
+          "type": "rule",
+          "title": "Severance pay services-year split analogy",
+          "page": "Ch.5 §D.2 / Jartran",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Mammoth Mart awarded administration only to portion of severance attributable to postpetition employment; prefiling years remain old claims even if paid after petition.",
+          "laymanExplanation": "Earning severance over many years doesn't make whole check new debt just because employment ends during case.",
+          "legalExplanation": "Use service accrual to divide periods.",
+          "examApplication": "For Problem 5.3 vacation pay split periods.",
+          "examTrap": "Do not use check's payment date as sole accrual measure."
+        },
+        {
+          "id": "bank-ch5-jartran-e6",
+          "type": "rule",
+          "title": "Equity alone doesn't upgrade creditor",
+          "page": "Ch.5 §D.2 / Jartran",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Suppliers all assume bankruptcy risk; giving admin just because losing money seems unfair would itself prejudice similarly situated prepetition creditors.",
+          "laymanExplanation": "One unlucky ad company can't jump line just because debtor got benefit.",
+          "legalExplanation": "Rule protects equality of creditor distribution unless Congress/Code authorizes priority.",
+          "examApplication": "Counter fairness plea with statutory inducement.",
+          "examTrap": "Court doesn't deny vendors valid ordinary prepetition claims."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-reclamation-goods",
+      "title": "D.2 — Prepetition Goods: §503(b)(9) and §546(c) Reclamation",
+      "chapterGroup": "bank-ch5",
+      "description": "Important exceptions to postpetition-incurrence norm, 20-day goods priority and 45-day reclamation.",
+      "entries": [
+        {
+          "id": "bank-ch5-reclamation-goods-e1",
+          "type": "rule",
+          "title": "§503(b)(9) priority for goods received in last 20 days",
+          "page": "Ch.5 §D.2 / Reclamation",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Allowed administrative expense for VALUE of goods received by debtor within 20 days before filing if sold in ordinary course of debtor's business.",
+          "laymanExplanation": "A store's goods supplier can get admin status for products delivered right before store files.",
+          "legalExplanation": "Requires goods, not services (thus Jartran advertising not protected); reception within 20-day lookback and ordinary-course sale.",
+          "examApplication": "Timeline petition day minus 20, delivery/receipt date, goods identification, value.",
+          "examTrap": "Signing contract 30 days ago doesn't disqualify goods received 5 days before filing."
+        },
+        {
+          "id": "bank-ch5-reclamation-goods-e2",
+          "type": "rule",
+          "title": "§503(b)(9) checklist and timing",
+          "page": "Ch.5 §D.2 / Reclamation",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "(1) seller of tangible goods, (2) goods received by debtor in 20 days before petition, (3) ordinary-course debtor business, (4) value established; payable as administration claim.",
+          "laymanExplanation": "20-day lookback from petition, not demand date.",
+          "legalExplanation": "Different from §546(c) reclamation which reaches 45-day window with separate tests.",
+          "examApplication": "Ask when debtor RECEIVED goods, not shipping or invoice alone.",
+          "examTrap": "No §503(b)(9) priority for ad placement, labor, or only services."
+        },
+        {
+          "id": "bank-ch5-reclamation-goods-e3",
+          "type": "rule",
+          "title": "§546(c) reclamation: 45 days before filing + 20-day written demand",
+          "page": "Ch.5 §D.2 / Reclamation",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Seller in ordinary seller business supplied goods on credit; debtor received within 45 days before petition while insolvent; seller must demand reclamation in writing no later than 20 days after petition; goods still in possession/identifiable for return, and subject to senior interests.",
+          "laymanExplanation": "If store got unpaid inventory recently while insolvent, supplier can timely ask for goods back rather than cash.",
+          "legalExplanation": "Requires compliance with Bankruptcy Code, which governs seller's state-law reclamation right.",
+          "examApplication": "Use two clocks: receive goods within previous 45 days, send written demand within next 20 days.",
+          "examTrap": "Don't conflate 20-day administration lookback and 45-day reclamation lookback."
+        },
+        {
+          "id": "bank-ch5-reclamation-goods-e4",
+          "type": "rule",
+          "title": "Reclamation subject to senior floating inventory lien",
+          "page": "Ch.5 §D.2 / Reclamation",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Even timely reclamation can lose to holder of superior perfected inventory security interest in goods/proceeds; supplier may still hold §503(b)(9) priority if goods received last 20 days.",
+          "laymanExplanation": "Bank with first lien on inventory may outrank reclamation seller.",
+          "legalExplanation": "§546(c) expressly subordinates reclamation to prior security interest.",
+          "examApplication": "Ask whether bank had blanket lien and collateral fully encumbered.",
+          "examTrap": "Seller does not automatically trump perfected security creditor."
+        },
+        {
+          "id": "bank-ch5-reclamation-goods-e5",
+          "type": "rule",
+          "title": "Successful reclamation can be de facto administrative priority",
+          "page": "Ch.5 §D.2 / Reclamation",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "If trustee surrenders reclaimed inventory, seller recovers in kind; debtor in possession keeping it may have to effectively buy goods again through new ordinary-course transaction.",
+          "laymanExplanation": "Store might pay supplier full value to keep shelves stocked instead of returning goods.",
+          "legalExplanation": "Distinguish in-kind property right from formally allowed priority; Chapter 11 retention can make full cash payment practical.",
+          "examApplication": "Discuss Chapters 7 versus 11 differences and §363(c)(1) ordinary course.",
+          "examTrap": "This is not classification of every reclamation claim as formal §507(a)(2) expense."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-reading-midlantic",
+      "title": "D.2 — Reading and Midlantic Discussed Authorities: Fairness, Environmental Hazards",
+      "chapterGroup": "bank-ch5",
+      "description": "Book notes (not full opinion excerpts), postpetition injury priority and limited abandonment safety restriction.",
+      "entries": [
+        {
+          "id": "bank-ch5-reading-midlantic-e1",
+          "type": "rule",
+          "title": "Reading Co. v. Brown (1968): postpetition negligent fire damages",
+          "page": "Ch.5 §D.2 / Reading note",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Supreme Court awarded administrative status under predecessor statute to negligent business fire victims harmed during Chapter XI receivership even though tort didn't benefit estate.",
+          "laymanExplanation": "People harmed by estate-operated business after filing should not subsidize its creditors.",
+          "legalExplanation": "Fairness to involuntary victims; costs ordinarily incident to operating business, including bad outcomes, can be actual/necessary.",
+          "examApplication": "Apply when estate employee negligence injures innocent outsider postpetition.",
+          "examTrap": "Reading is discussed in casebook prose here, not a full excerpted judicial opinion."
+        },
+        {
+          "id": "bank-ch5-reading-midlantic-e2",
+          "type": "rule",
+          "title": "Reading economic rationale: creditors bear risk and benefit",
+          "page": "Ch.5 §D.2 / Reading note",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Prebankruptcy unsecured creditors benefit if postfiling business succeeds; fairness suggests they bear losses inflicted by continuing operation on innocent third parties.",
+          "laymanExplanation": "Creditors hope business will recover, so they shouldn't offload risks of continued operations on fire victims.",
+          "legalExplanation": "Distinguish claim as cost of operating estate from purely punitive penalty, which doesn't compensate victim.",
+          "examApplication": "Ask who caused injury, when and whether debtor operated for creditors' benefit.",
+          "examTrap": "Not an unlimited free-standing rule that any postfiling cost gains priority."
+        },
+        {
+          "id": "bank-ch5-reading-midlantic-e3",
+          "type": "rule",
+          "title": "Midlantic National Bank v. NJ DEP (1986) narrow public-safety abandonment restriction",
+          "page": "Ch.5 §D.2 / Midlantic note",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Supreme Court barred abandonment of PCB-contaminated property in violation of reasonable public-health/safety laws protecting against imminent identifiable hazard, even if §554 burdensome/inconsequential valuation otherwise met.",
+          "laymanExplanation": "Trustee can't abandon toxic facility in a way that endangers neighboring public.",
+          "legalExplanation": "Majority used nonbankruptcy compliance, §959(b) and environmental policy; dissent viewed concern as indirect government priority/public fisc.",
+          "examApplication": "For polluted estate realty distinguish imminent hazard vs speculative future concern.",
+          "examTrap": "Book does not reproduce entire Midlantic opinion; its safety limit is narrow."
+        },
+        {
+          "id": "bank-ch5-reading-midlantic-e4",
+          "type": "rule",
+          "title": "Midlantic dissent warns of de facto priority to public fisc",
+          "page": "Ch.5 §D.2 / Midlantic note",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Rehnquist dissent argued regulators can act after notice to protect public but barring abandonment to force estate cleanup effectively privileges state cleanup budget over ordinary creditors without §507 authorization.",
+          "laymanExplanation": "Court order to clean before distribution can leave general creditors with nothing.",
+          "legalExplanation": "Show policy fight between saving health and respecting statutory rank.",
+          "examApplication": "In policy question contrast §554 abandonment mechanism with §503 admin expense and formal priorities.",
+          "examTrap": "Don't present dissent position as majority holding."
+        },
+        {
+          "id": "bank-ch5-reading-midlantic-e5",
+          "type": "rule",
+          "title": "Three kinds of nonbeneficial postpetition costs",
+          "page": "Ch.5 §D.2",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2: administrative expenses, In re Jartran opinion, prepetition goods priority/reclamation, Reading and Midlantic discussed authorities",
+          "summary": "Reading covers compensatory tort injury from operating estate; Midlantic concerns actual imminent environmental cleanup/nonabandonment; N.P. Mining addresses punitive state civil penalties during active postfiling operations.",
+          "laymanExplanation": "Injured victim, polluted land and statutory fine can have different legal priorities.",
+          "legalExplanation": "This sets up N.P. Mining's distinction between operation stage and later passive administration.",
+          "examApplication": "For each characterize compensation, cleanup and deterrent penalty separately.",
+          "examTrap": "Don't assume all environmental-related invoices are identical."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
