@@ -1,0 +1,354 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+  "coverage": {
+    "chapter": 9,
+    "scope": "§A avoidance/recovery/§550/§551/limits/policies, full Video Depot and Railworks; §B actual-creditor §544(b), present vs future and Moore v Bay (discussed case, not full opinion)"
+  },
+  "topics": [
+    {
+      "id": "bank-ch9-avoidance-architecture",
+      "title": "A.1 Core Architecture: Avoid, Recover, Preserve, Restore Claims",
+      "chapterGroup": "bank-ch9",
+      "description": "§§544–553, 550, 551 and recovery from each type of transferee.",
+      "entries": [
+        {
+          "id": "bank-ch9-avoidance-architecture-e1",
+          "type": "rule",
+          "title": "Avoidance and §550 recovery are separate steps",
+          "page": "Ch. 9 §A.1",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Avoidance is a court determination a transfer or obligation may be set aside under §§544–549, 547 or 548; recovery is an ADDITIONAL §550 step to reclaim the transferred property or court-ordered value; avoiding a lien by itself releases the collateral from that lien.",
+          "laymanExplanation": "Winning that an old payment was improper doesn't put the money back in the trustee's bank account; the trustee also needs recovery.",
+          "legalExplanation": "For outright property transfers: avoidance establishes voidability, §550 identifies recovery targets; lien avoidance commonly creates value immediately and §551 preserves rank.",
+          "examApplication": "Always write Step 1 statutory cause and Step 2 §550 liability, then Step 3 §551 priority.",
+          "examTrap": "Don't label transfer void ab initio; normally voidABLE and lawsuit required."
+        },
+        {
+          "id": "bank-ch9-avoidance-architecture-e2",
+          "type": "rule",
+          "title": "§550(a)(1) initial transferee strict liability and benefited entity",
+          "page": "Ch. 9 §A.1",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Once avoided, trustee may recover from initial transferee OR entity for whose benefit transfer was made; initial transferee generally lacks §550(b)'s subsequent-good-faith-defense, even if personally innocent.",
+          "laymanExplanation": "The first person who legally owns diverted money is on the hook, while a guarantor whose obligation was paid may also owe without receiving cash.",
+          "legalExplanation": "Initial transferee status requires legal dominion/control, as Video Depot; beneficiary is a separate category, as Railworks.",
+          "examApplication": "Draw money and benefit separately, not just names of intermediaries.",
+          "examTrap": "A mere agent/physical courier is not always initial transferee."
+        },
+        {
+          "id": "bank-ch9-avoidance-architecture-e3",
+          "type": "rule",
+          "title": "§550(a)(2),(b) subsequent-transferee defense",
+          "page": "Ch. 9 §A.1",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Immediate/mediate later transferees can be sued, but §550(b)(1) shields one that gave value, acted in good faith and lacked knowledge of voidability; derivative title §550(b)(2) protects later good-faith recipients through protected transferees.",
+          "laymanExplanation": "Second buyer paying honestly and without warning may keep the property; first payee has harder time avoiding recovery.",
+          "legalExplanation": "All requirements for direct §550(b)(1) defense; evaluate downstream immunity under (b)(2) separately.",
+          "examApplication": "Trace chain initial → immediate → mediate and identify statutory defenses.",
+          "examTrap": "Good faith alone not necessarily enough for first subsequent transferee."
+        },
+        {
+          "id": "bank-ch9-avoidance-architecture-e4",
+          "type": "rule",
+          "title": "§550(d) single satisfaction",
+          "page": "Ch. 9 §A.1",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Trustee can pursue permitted liable transferees but may collect only ONCE for the same avoided transfer.",
+          "laymanExplanation": "Trustee can't recover $65,000 twice from both payee and guarantor.",
+          "legalExplanation": "Different recovery defendants do not multiply compensatory estate recovery.",
+          "examApplication": "Cap total recovery at value of avoided transfer.",
+          "examTrap": "Do not confuse multiple potential defendants with multiple payouts."
+        },
+        {
+          "id": "bank-ch9-avoidance-architecture-e5",
+          "type": "rule",
+          "title": "§502(h): repayment restores transferee's allowable claim",
+          "page": "Ch. 9 §A.1",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Defendant who returns preferred debt repayment ordinarily regains prepetition allowable claim equal to returned amount; a preference recovery redistributes rather than magically eliminates original debt.",
+          "laymanExplanation": "If seller gives back $10,000 payment, seller again joins unsecured pool with its $10,000 invoice.",
+          "legalExplanation": "Avoidance/rescission reestablishes status quo; allowance independent of §502 defenses.",
+          "examApplication": "Analyze both estate cash recovery and resurrected unsecured claim.",
+          "examTrap": "Not automatic full cash repayment to creditor after return."
+        },
+        {
+          "id": "bank-ch9-avoidance-architecture-e6",
+          "type": "rule",
+          "title": "§551 automatic preservation of avoided lien's PRIORITY",
+          "page": "Ch. 9 §A.1",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Avoided lien is preserved for estate, preventing junior lienholder from jumping into senior's place. Source scenario asset $20k; senior avoided lien $10k; junior $25k, estate captures former $10k senior slot; junior receives only remaining $10k collateral value.",
+          "laymanExplanation": "Estate steps into senior lien's shoes, rather than gifting its former priority to junior lender.",
+          "legalExplanation": "§551 deals with relative rank; distinction from §550 transfer-value recovery.",
+          "examApplication": "Draw lien waterfall, avoided senior slice preserved before residual junior.",
+          "examTrap": "Avoiding senior lien does not render all junior claims unsecured in full."
+        },
+        {
+          "id": "bank-ch9-avoidance-architecture-e7",
+          "type": "rule",
+          "title": "Limitation periods §§546(a),549(d),550(f) distinct",
+          "page": "Ch. 9 §A.1",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Avoid §§544,545,547,548,553 by later of 2 years after order for relief or 1 year after first trustee appointed/elected before the initial 2-year term, and before case closing/dismissal; §549 postpetition transfer within 2 years of TRANSFER; §550 recovery within 1 year AFTER AVOIDANCE and before case closes/dismisses.",
+          "laymanExplanation": "Different clocks for attacking transfer and collecting it.",
+          "legalExplanation": "Classify cause of action before selecting clock; limitations exception and first trustee appointment date matter.",
+          "examApplication": "Build calendar with petition/order, trustee appointment, transfer, avoidance, closure.",
+          "examTrap": "Do not use §546(a) two-year clock to measure §550 recovery."
+        },
+        {
+          "id": "bank-ch9-avoidance-architecture-e8",
+          "type": "rule",
+          "title": "§548(c) good-faith transferee value protection is not §550(b)",
+          "page": "Ch. 9 §A.1 / Video Depot",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "A recipient of fraudulent transfer may retain lien/interest to extent of value given to debtor under §548(c), even if INITIAL transferee who cannot assert §550(b). Satisfaction of another person's debt is not necessarily value to debtor; source Video Depot asks this precisely.",
+          "laymanExplanation": "Casino got money for CEO's gambling—not value to electronics company merely because CEO owed it.",
+          "legalExplanation": "Different inquiries: avoidance transferee-protection §548(c) versus recovery subsequent-transferee shield §550(b).",
+          "examApplication": "Always ask who received VALUE from challenged transaction.",
+          "examTrap": "Don't read 'initial transferee strictly liable' to abolish all §548(c) defenses."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-video-depot",
+      "title": "A.1 In re Video Depot (9th Cir. 1997) — Full Case",
+      "chapterGroup": "bank-ch9",
+      "description": "Insider direction versus legal dominion; cashier check for executive's gambling.",
+      "entries": [
+        {
+          "id": "bank-ch9-video-depot-e1",
+          "type": "case",
+          "title": "In re Video Depot, Ltd., 127 F.3d 1195 (9th Cir. 1997)",
+          "page": "Ch. 9 §A.1 full opinion",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Hilton IS initial transferee and strictly exposed to §550(a)(1) recovery. Arlynn's managerial control and physical courier role did not give him LEGAL dominion/right to put disbursed funds to his own purposes; ledger's 'loan' not enough. Ninth Circuit affirmed recovery.",
+          "laymanExplanation": "For §550, initial transferee must acquire legal dominion/use at own discretion; directing corporate payment or physically carrying a check expressly payable to recipient does not automatically suffice.",
+          "legalExplanation": "Court applied Bonded Financial legal dominion test; cashier check payable from inception to Hilton so Arlynn could not legally redirect it upon disbursement. A corporate principal's power to order corporate disbursement is different from personally receiving unearmarked property. If money had first gone into his own personal bank account, result may differ. Policy: initial recipient of clearly corporate check most able to investigate wrongdoer's misappropriation; avoiding all initial recipient liability by inserting insider corporate agent would undermine §550.",
+          "examApplication": "Use $65k corporate cashier check, $225k personal gambling debt, Hilton payee, ledger 'loan', courier not transferee; note stipulated §548 issue, so question ONLY recovery.",
+          "examTrap": "Distinguish actual legal dominion from officer's operational power; §548(c) defense turns on value given debtor and is separate.",
+          "assignedOpinion": true,
+          "sourceRole": "Full opinion excerpt included in uploaded Chapter9",
+          "facts": "Jeffrey Arlynn controlled debtor Video Depot, used corporation to buy $65,000 cashier's check directly payable to Las Vegas Hilton, applied toward Arlynn's own $225,000 gambling loss. Check identified Video Depot as purchaser; Arlynn physically delivered it, alongside separate $10k personal check. Bankruptcy filed Sept14 1990; Hilton and trustee stipulated §548 fraudulent transfer. Hilton claimed Arlynn was initial transferee because he controlled company and book records described $65k as loan; company-to-insider-to-casino framing would grant Hilton subsequent transferee good-faith defense.",
+          "issue": "Is Hilton, recipient of $65k cashier check, initial transferee under §550(a)(1), or is principal Arlynn initial transferee making Hilton later eligible for §550(b)?",
+          "holding": "Hilton IS initial transferee and strictly exposed to §550(a)(1) recovery. Arlynn's managerial control and physical courier role did not give him LEGAL dominion/right to put disbursed funds to his own purposes; ledger's 'loan' not enough. Ninth Circuit affirmed recovery.",
+          "reasoning": "Court applied Bonded Financial legal dominion test; cashier check payable from inception to Hilton so Arlynn could not legally redirect it upon disbursement. A corporate principal's power to order corporate disbursement is different from personally receiving unearmarked property. If money had first gone into his own personal bank account, result may differ. Policy: initial recipient of clearly corporate check most able to investigate wrongdoer's misappropriation; avoiding all initial recipient liability by inserting insider corporate agent would undermine §550.",
+          "rule": "For §550, initial transferee must acquire legal dominion/use at own discretion; directing corporate payment or physically carrying a check expressly payable to recipient does not automatically suffice."
+        },
+        {
+          "id": "bank-ch9-video-depot-e2",
+          "type": "rule",
+          "title": "Dominion versus control: management power not a property entitlement",
+          "page": "Ch. 9 §A.1 / Video Depot",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Even controlling almost every corporate operation cannot freely use money legally after corporation issues check only payable to Hilton; legal entitlement to redirect is key.",
+          "laymanExplanation": "Being boss of bank account isn't the same as personally owning money paid out.",
+          "legalExplanation": "A principal could be liable separately as benefitted party under §550(a)(1), but not an 'initial transferee' solely because signed check.",
+          "examApplication": "Evaluate legal rights at exact disbursement.",
+          "examTrap": "Don't treat possession or check delivery itself as initial receipt."
+        },
+        {
+          "id": "bank-ch9-video-depot-e3",
+          "type": "rule",
+          "title": "Check named payee distinguishes personal account chain",
+          "page": "Ch. 9 §A.1 / Video Depot",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "If Video Depot issued unmarked cash or check to Arlynn himself, separate receipt could make Arlynn initial transferee and Hilton subsequent, whereas corporate-issued Hilton-payable cashier check bypasses him.",
+          "laymanExplanation": "Who is payee on bank check can change who bears recovery risk.",
+          "legalExplanation": "Book asks varied hypothetical cash sacks, UPS courier and endorsed checks without giving answers.",
+          "examApplication": "For original question bank preserve variants unanswered.",
+          "examTrap": "Do not assert source court actually resolved cash-sack hypotheticals."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-railworks",
+      "title": "A.1 In re Railworks (4th Cir. 2014) — Full Case",
+      "chapterGroup": "bank-ch9",
+      "description": "Insurance premium trust account, mere conduit and beneficiary question.",
+      "entries": [
+        {
+          "id": "bank-ch9-railworks-e1",
+          "type": "case",
+          "title": "In re Railworks Corp., 760 F.3d 398 (4th Cir. 2014)",
+          "page": "Ch. 9 §A.1 full opinion",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Fourth Circuit held NO. On source facts CPG a conduit, so not initial transferee and cannot be treated alternatively as benefited entity due solely to remittance-duty contingent exposure; reversed district court and restored bankruptcy court's CPG summary judgment.",
+          "laymanExplanation": "A fiduciary premium-collection intermediary without legal dominion is mere conduit under §550; in Railworks court such entity cannot simultaneously be 'beneficiary' on rationale its conduit liability ended on remittance.",
+          "legalExplanation": "§550(a)(1) beneficiary ordinarily is guarantor of debt to initial transferee who receives advantage without funds; but conduit by definition has duty to pass funds to recipient and would always be 'benefited' if reduction in duty to remit sufficed, destroying mere-conduit rule. Trust and separate account barred independent use of funds. Court regarded agency contingent debt exposure as inseparable from conduit role, despite express guarantee-like §5.1 obligation challenged in textbook questions.",
+          "examApplication": "Use trust §5.2, CPG collection role, separate premiums, net remittance duty §5.1, TIG actual insurer and recipient, district reversal.",
+          "examTrap": "Book critically asks whether independent 'pay whether or not collected' obligation makes CPG more like a guarantor; do not omit this counterargument.",
+          "assignedOpinion": true,
+          "sourceRole": "Full opinion excerpt included in uploaded Chapter9",
+          "facts": "Railworks purchased insurance from TIG. TIG appointed CPG managing general underwriter/agent to collect premiums, held collected funds in separate fiduciary PREMIUM TRUST ACCOUNT as TIG property and could deduct commission. Agreement also made CPG liable to remit net premiums to TIG whether or not collected. Railworks Chapter11 trustee pursued payments through CPG to TIG made within 90 days; bankruptcy court granted CPG summary judgment, district court said CPG benefited from reduction of contingent duty to TIG.",
+          "issue": "Can CPG, unanimously recognized as MERE CONDUIT lacking own dominion, nonetheless be 'entity for whose benefit' avoidable premium transfers were made because remittance reduces its contingent obligation under agency agreement?",
+          "holding": "Fourth Circuit held NO. On source facts CPG a conduit, so not initial transferee and cannot be treated alternatively as benefited entity due solely to remittance-duty contingent exposure; reversed district court and restored bankruptcy court's CPG summary judgment.",
+          "reasoning": "§550(a)(1) beneficiary ordinarily is guarantor of debt to initial transferee who receives advantage without funds; but conduit by definition has duty to pass funds to recipient and would always be 'benefited' if reduction in duty to remit sufficed, destroying mere-conduit rule. Trust and separate account barred independent use of funds. Court regarded agency contingent debt exposure as inseparable from conduit role, despite express guarantee-like §5.1 obligation challenged in textbook questions.",
+          "rule": "A fiduciary premium-collection intermediary without legal dominion is mere conduit under §550; in Railworks court such entity cannot simultaneously be 'beneficiary' on rationale its conduit liability ended on remittance."
+        },
+        {
+          "id": "bank-ch9-railworks-e2",
+          "type": "rule",
+          "title": "Two separate beneficiary concepts: guaranty versus conduit remittance",
+          "page": "Ch. 9 §A.1 / Railworks",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Guarantor whose debt repayment relieves independent guarantee ordinarily a §550(a)(1) beneficiary; conduit required to forward entrusted transfer isn't so treated by Fourth Circuit based on conduit duty alone.",
+          "laymanExplanation": "Difference between owing money because you guarantee someone else and owing money only if you fail to forward their property.",
+          "legalExplanation": "Railworks source has arguably BOTH duties in §§5.1 and 5.2; textbook critiques court treating them as identical.",
+          "examApplication": "Address whether premium remittance duty was independent contract liability.",
+          "examTrap": "Don't treat every extinguished contingent obligation as beneficiary."
+        },
+        {
+          "id": "bank-ch9-railworks-e3",
+          "type": "rule",
+          "title": "Trust segregation shows no dominion",
+          "page": "Ch. 9 §A.1 / Railworks",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "CPG must keep TIG premiums in trust account, label TIG property, and has only contractually allowed commission; physical collection ≠ own discretionary ownership.",
+          "laymanExplanation": "Collection agent can hold payments without getting to spend them.",
+          "legalExplanation": "Direct analogy cash courier/escrow agent and distinction from casino payee in Video Depot.",
+          "examApplication": "Trace separate trust and ability to divert.",
+          "examTrap": "Physical possession is not equivalent to legally transferable property interest."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-avoidance-policy",
+      "title": "A.2 Why Bankruptcy Has Avoiding Powers",
+      "chapterGroup": "bank-ch9",
+      "description": "Collective equality, public-record transparency, anti-fraud, security of exemptions.",
+      "entries": [
+        {
+          "id": "bank-ch9-avoidance-policy-e1",
+          "type": "rule",
+          "title": "Preference and postpetition avoidance enforce collective distribution",
+          "page": "Ch. 9 §A.2",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "§547 prefiling preference, §549 unauthorized postfiling transfer, §553(b) setoff improvement and §545 insolvency-triggered statutory liens police escape from equal treatment.",
+          "laymanExplanation": "Can't drain debtor just before filing to pay one favorite while others wait.",
+          "legalExplanation": "Equality of pro rata distribution requires clawing back transactions outside automatic stay's commencement.",
+          "examApplication": "Map each statute to race-of-diligence problem.",
+          "examTrap": "Don't merge preference with fraudulent conveyance; payment of genuine debt can be preference but not constructive fraud."
+        },
+        {
+          "id": "bank-ch9-avoidance-policy-e2",
+          "type": "rule",
+          "title": "Strong arm §544(a): ostensible ownership and secret lien recording",
+          "page": "Ch. 9 §A.2",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Trustee treats public record representation seriously, defeating unperfected liens/unrecorded interests to protect creditors misled by debtor's apparent ownership.",
+          "laymanExplanation": "If lenders never publicly filed mortgage/UCC financing, other creditors think assets unencumbered.",
+          "legalExplanation": "Compare §545(2) unrecorded statutory lien, §547 recently perfected secret lien.",
+          "examApplication": "When collateral at issue ask public notice priority before fraud.",
+          "examTrap": "Creditor may be morally innocent but still lose secret security interest."
+        },
+        {
+          "id": "bank-ch9-avoidance-policy-e3",
+          "type": "rule",
+          "title": "Fraudulent transfer protects creditors from DEBTOR misbehavior even outside bankruptcy",
+          "page": "Ch. 9 §A.2",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "§544(b) borrows state fraudulent conveyance rights, §548 federal two-year transfer fraud; standalone unfair-asset-removal doctrine predates collective bankruptcy.",
+          "laymanExplanation": "Debtor hides assets from a single judgment creditor; that creditor could sue outside bankruptcy too.",
+          "legalExplanation": "Contrasts unique redistribution rationale of preferences.",
+          "examApplication": "Explain debtor-versus-creditor fairness vs creditor-versus-creditor equality.",
+          "examTrap": "Do not make fraud subjective intent a required element for constructive transfer fraud."
+        },
+        {
+          "id": "bank-ch9-avoidance-policy-e4",
+          "type": "rule",
+          "title": "§522(f) limited debtor avoidance to preserve exemption",
+          "page": "Ch. 9 §A.2",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Individual debtor may avoid certain judicial liens or nonpossessory non-purchase-money liens on specified household goods only insofar as they impair exemption; separate from trustee's estate-wide power.",
+          "laymanExplanation": "Debtor can protect exempt sofa/equipment against specified liens.",
+          "legalExplanation": "Source defers details to Ch11.",
+          "examApplication": "Identify debtor as moving party.",
+          "examTrap": "Not blanket debtor power to void every consensual lien."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-actual-creditor-544b",
+      "title": "B. §544(b) Borrowing Actual Unsecured Creditors' State Fraud Rights",
+      "chapterGroup": "bank-ch9",
+      "description": "Standing creditor prerequisite, reach-back, Moore v Bay, all-creditor recovery.",
+      "entries": [
+        {
+          "id": "bank-ch9-actual-creditor-544b-e1",
+          "type": "rule",
+          "title": "§544(b)(1) actual unsecured creditor 'triggering' requirement",
+          "page": "Ch. 9 §B",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Trustee steps into shoes of at least ONE ACTUAL unsecured creditor at petition holding an allowable claim who had avoidance rights under applicable NONBANKRUPTCY law against transfer; cannot conjure hypothetical creditor as under §544(a).",
+          "laymanExplanation": "Find one real creditor with the right to sue and trustee takes that case for everyone.",
+          "legalExplanation": "Creditor eligible under applicable law must still hold allowable unsecured claim at petition.",
+          "examApplication": "In exam list creditor, date claim arose, state law, allowance and limitations.",
+          "examTrap": "Secured-only rights and recording acts aimed at buyers do not automatically supply §544(b)."
+        },
+        {
+          "id": "bank-ch9-actual-creditor-544b-e2",
+          "type": "rule",
+          "title": "Present/future creditor status controls constructive fraud",
+          "page": "Ch. 9 §B",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Under UFTA/UVTA §5(a), insolvent-debtor/reasonable-equivalent-value constructive fraud can be asserted by creditors already owed at transfer; §4(a)(1) actual intent and §4(a)(2) unreasonably-small-capital/beyond-ability-to-pay can reach future creditors too.",
+          "laymanExplanation": "If you didn't become creditor until after gift, some constructive fraud suit might be unavailable.",
+          "legalExplanation": "Trustee needs SOME remaining present creditor where §5 applies; all others can share after avoidance.",
+          "examApplication": "Build dates timeline for transfer and each claim.",
+          "examTrap": "Not all fraudulent-transfer grounds require present creditor."
+        },
+        {
+          "id": "bank-ch9-actual-creditor-544b-e3",
+          "type": "rule",
+          "title": "§544(b) often longer than §548 federal 2-year lookback",
+          "page": "Ch. 9 §B",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "State UFTA/UVTA commonly four years, potentially §9(a) discovery rule on actual fraud; trustee can borrow state cause for 3-year-old transfer when proper triggering creditor exists. §548 generally 2 years; asset-protection trust §548(e) 10-year exception.",
+          "laymanExplanation": "Trustee can reach farther back using one real creditor's state rights.",
+          "legalExplanation": "Distinguish state substantive extinguishment §9 from federal suit limit §546(a).",
+          "examApplication": "Test both §548 and §544(b) on older payments.",
+          "examTrap": "Do not assume trustee automatically can go 4 years without triggering creditor."
+        },
+        {
+          "id": "bank-ch9-actual-creditor-544b-e4",
+          "type": "rule",
+          "title": "§544(b) may capture state-law insider preferences missed federally",
+          "page": "Ch. 9 §B",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "State UFTA/UVTA §5(b) allows a present creditor to challenge certain insider antecedent-debt transfers with insolvency and insider knowledge, even where not federal §548 'fraud'.",
+          "laymanExplanation": "State rules sometimes catch family debt payoffs beyond federal preference window.",
+          "legalExplanation": "Apply full §5(b) elements and timing §9(c), subject state law.",
+          "examApplication": "When insider paid before bankruptcy identify present creditor and distinct avoidance basis.",
+          "examTrap": "§544(b) isn't unlimited general unsecured preference power."
+        },
+        {
+          "id": "bank-ch9-actual-creditor-544b-e5",
+          "type": "rule",
+          "title": "Moore v. Bay (1931): avoid entire transfer and share ALL estate creditors",
+          "page": "Ch. 9 §B / Moore discussion",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "Moore Supreme Court decided trustee borrowing few creditors' rights isn't limited to their claim amount: whole transfer avoided and benefits distributed across ALL creditors regardless own outside-law standing. Casebook notes terse opinion/ambiguities but contemporary rule clear.",
+          "laymanExplanation": "One creditor owed only $100 can unlock recovery of an entire $18k fraudulent transfer for everyone.",
+          "legalExplanation": "Source explains 1978 legislative history retained Moore despite critics.",
+          "examApplication": "Distinguish source of cause of action (single real creditor) and beneficiaries of recovery (all).",
+          "examTrap": "Original Problem9.1 $18k/$100 left unanswered."
+        },
+        {
+          "id": "bank-ch9-actual-creditor-544b-e6",
+          "type": "rule",
+          "title": "§544(b) versus §544(a): actual unsecured vs hypothetical lien/BFP",
+          "page": "Ch. 9 §B–C",
+          "source": "User-supplied Bankruptcy Chapter 9, Avoiding Powers, §§A–B, full In re Video Depot and In re Railworks opinions",
+          "summary": "§544(b) actual allowable unsecured claim borrows creditor's nonbankruptcy cause; §544(a) instantly endows trustee with fictional lien creditor/execution creditor/realty buyer at filing without needing anyone actually in that status.",
+          "laymanExplanation": "(b) 'find one real plaintiff'; (a) 'pretend trustee is first-in-line lien creditor/buyer'.",
+          "legalExplanation": "Their different sources, property scope and defenses matter more than number similarity.",
+          "examApplication": "Cite correct subsection and trigger.",
+          "examTrap": "Neither power by itself guarantees recoverable value from innocent recipient; §550 separate."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
