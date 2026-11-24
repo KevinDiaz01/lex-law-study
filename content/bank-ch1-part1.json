@@ -1,0 +1,348 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+  "coverage": {
+    "chapter": "1",
+    "assignedSyllabusPages": "1–77",
+    "included": "A. Introduction and B.1 Nonjudicial Collection",
+    "note": "Original ebook extraction has headings but not printed-page markers; page labels use syllabus range plus original § headings; separate distributed reading lists may later narrow coverage."
+  },
+  "topics": [
+    {
+      "id": "bank-ch1-foundations",
+      "title": "A. Introduction — Creditor vs Debtor, Priorities, Human Capital and Timing",
+      "chapterGroup": "bank-ch1",
+      "description": "Conceptual framework: why judgment does not equal collection, debtor versus third-party claims, consumer versus corporate relief, ex ante and ex post planning.",
+      "entries": [
+        {
+          "id": "bank-ch1-foundations-e1",
+          "type": "concept",
+          "title": "Debt owed is not the same as money collected",
+          "page": "Ch. 1 § A (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Proving liability and obtaining a judgment establish the debt, but collection law determines what assets can actually be reached.",
+          "laymanExplanation": "Winning a lawsuit doesn't put money in the bank if the debtor won't or can't pay.",
+          "legalExplanation": "Contracts and torts determine liability; debtors' and creditors' rights decide methods and limits of enforcement.",
+          "examApplication": "In any exam fact pattern distinguish validity of claim from collection tools and asset availability.",
+          "examTrap": "Judgment alone does not guarantee a priority lien in personal property."
+        },
+        {
+          "id": "bank-ch1-foundations-e2",
+          "type": "concept",
+          "title": "Two axes of debt-collection disputes",
+          "page": "Ch. 1 § A (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Creditor versus debtor asks how payment may be compelled; creditor versus third parties asks who has superior claim to assets and is chiefly a priority question.",
+          "laymanExplanation": "First fight is getting your debtor to pay; second fight is beating other creditors or transferees to the property.",
+          "legalExplanation": "Analyze each separately: remedies, transfer avoidance, liens, timing and distribution.",
+          "examApplication": "For competing claims write parties, assets, time of rights, and applicable priority rule.",
+          "examTrap": "Do not decide a third-party priority case with only evidence debtor owes claimant money."
+        },
+        {
+          "id": "bank-ch1-foundations-e3",
+          "type": "rule",
+          "title": "Insolvency and allocation of scarcity",
+          "page": "Ch. 1 § A (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Insolvency means assets insufficient to satisfy liabilities; not every creditor can be paid in full, forcing a distributive choice.",
+          "laymanExplanation": "There is not enough pie for all bills.",
+          "legalExplanation": "Outside bankruptcy first-in-time enforcement often governs; bankruptcy supplies collective distribution subject to secured and statutory priority.",
+          "examApplication": "State which creditors secured and which unsecured before assigning distribution.",
+          "examTrap": "Equal treatment in bankruptcy is NOT absolute."
+        },
+        {
+          "id": "bank-ch1-foundations-e4",
+          "type": "rule",
+          "title": "Individual debtor protections: exemptions, wages, discharge",
+          "page": "Ch. 1 § A (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Human debtors retain limited exempt assets and wages needed for basic needs and future earnings; bankruptcy discharge can release many past debts.",
+          "laymanExplanation": "The law may let a person keep a place to live and enough earnings to rebuild, even if creditors lose money.",
+          "legalExplanation": "Human capital and dependents justify exemptions, federal/state garnishment restrictions, and individual fresh start.",
+          "examApplication": "Mention exemption §522, stay §362, discharge §727, where relevant, without prematurely assuming applicable chapter.",
+          "examTrap": "A corporation does not get the same human-welfare protections."
+        },
+        {
+          "id": "bank-ch1-foundations-e5",
+          "type": "concept",
+          "title": "Corporate debtor: going-concern value not a human fresh start",
+          "page": "Ch. 1 § A (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "A company can dissolve after liquidation; Chapter 11 may be valuable if operating enterprise exceeds breakup value.",
+          "laymanExplanation": "The business matters because it could produce more alive than sold for parts.",
+          "legalExplanation": "Corporate relief is designed largely to preserve economically valuable operations; distinguishes individual debtor's human capital and survival needs.",
+          "examApplication": "Compare liquidation value with continued-operation value; identify employees and creditor recovery impacts.",
+          "examTrap": "Avoid treating corporate debt discharge as identical to an individual's fresh start."
+        },
+        {
+          "id": "bank-ch1-foundations-e6",
+          "type": "rule",
+          "title": "Speed and ex ante versus ex post planning",
+          "page": "Ch. 1 § A (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Outside bankruptcy timing can fix lien priority; parties can obtain collateral in advance to avoid the unsecured race.",
+          "laymanExplanation": "A lender who negotiates security before trouble often beats a creditor trying to grab property later.",
+          "legalExplanation": "First-in-time/first-in-right, race of diligence and collateral agreements; bankruptcy tempers but adds its own timing rules.",
+          "examApplication": "Make a dated timeline, classify when rights attach and perfect, then ask effects of bankruptcy filing.",
+          "examTrap": "Earlier judgment does not always mean earlier lien."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-fdcpa",
+      "title": "B.1(a)–(b) — Nonjudicial Collection, Tort Limits and FDCPA",
+      "chapterGroup": "bank-ch1",
+      "description": "Leverage, tort liability, FDCPA scope and sections 804–814, Henson, Heintz, remedies and casebook Problems 1.1–1.2.",
+      "entries": [
+        {
+          "id": "bank-ch1-fdcpa-e1",
+          "type": "rule",
+          "title": "Nonjudicial collection and permissible leverage",
+          "page": "Ch. 1 § B.1 (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Voluntary payment demands, bargaining and legitimate service leverage avoid litigation costs; abusive means may create tort and statutory liability.",
+          "laymanExplanation": "A creditor can ask for payment and warn it may sue, but cannot use every threatening tactic imaginable.",
+          "legalExplanation": "Unsecured creditors lack automatic right to seize collateral; secured creditors have property remedies; collection activities subject to tort and consumer-protection laws.",
+          "examApplication": "Classify caller, debt, conduct, and purpose before analyzing FDCPA.",
+          "examTrap": "Annoyance alone usually does not satisfy extreme/outrageous state tort tests."
+        },
+        {
+          "id": "bank-ch1-fdcpa-e2",
+          "type": "rule",
+          "title": "Tort remedies for extreme collections",
+          "page": "Ch. 1 § B.1.a (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Extreme collection methods may involve invasion of privacy, IIED, defamation, assault, battery, interference with contract, malicious prosecution, conversion or fraud.",
+          "laymanExplanation": "False public shaming, physical intimidation or unlawful seizure can be torts even if bill is valid.",
+          "legalExplanation": "State tort liability depends on elements; legitimate creditor interest permits reasonable collection pressure, so mere embarrassment may not suffice.",
+          "examApplication": "Analyze actual tort elements and factual conduct separately from FDCPA.",
+          "examTrap": "The federal statute does not preempt all state tort causes."
+        },
+        {
+          "id": "bank-ch1-fdcpa-e3",
+          "type": "rule",
+          "title": "FDCPA coverage — debt collector and consumer debt",
+          "page": "Ch. 1 § B.1.b.i (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "15 U.S.C. §1692a(6) generally covers principal-purpose debt-collection businesses or those regularly collecting debts owed to another; §1692a(5) covers natural-person personal/family/household obligations.",
+          "laymanExplanation": "First ask whether collector and debt fit the statutory definitions.",
+          "legalExplanation": "A business/commercial debt and debt owed by corporation generally fall outside federal coverage; originators collecting own accounts often not within regularly-for-another prong.",
+          "examApplication": "Use four-stage issue tree: natural person, personal debt, actor definition (both prongs), wrongful conduct.",
+          "examTrap": "Do not assume being rude or collecting any 'debt' alone proves FDCPA applies."
+        },
+        {
+          "id": "bank-ch1-fdcpa-e4",
+          "type": "case",
+          "title": "Henson v. Santander Consumer USA Inc., 137 S. Ct. 1718 (2017)",
+          "page": "Ch. 1 § B.1.b.i (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "No, not on this argued prong: a debt purchaser collecting loans it now owns does not collect debts owed another. The Court expressly left principal-purpose statutory coverage unaddressed.",
+          "laymanExplanation": "An owner collecting an acquired debt for its own account falls outside regularly-for-another prong, but may still be covered if principal purpose is collecting debts.",
+          "legalExplanation": "Justice Gorsuch relied on statutory text; the phrase 'owed another' refers to who owns claim at collection, not whether purchaser originated debt or bought it after default. This ruling does not resolve independent principal-purpose prong.",
+          "examApplication": "Analyze purchased versus merely serviced obligations and the separate principal-purpose prong; compare lender collecting originally issued loan.",
+          "examTrap": "Incorrect to claim all debt buyers are categorically exempt from every FDCPA definition.",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpt provided in Chapter 1",
+          "facts": "CitiFinancial originated car loans, borrowers defaulted, Santander acquired debts outright and collected the accounts for itself. Borrowers sued alleging FDCPA misconduct.",
+          "issue": "Does a company that buys previously defaulted loans and collects them for itself become a debt collector under the regularly-collects-debts-'owed another' phrase?",
+          "holding": "No, not on this argued prong: a debt purchaser collecting loans it now owns does not collect debts owed another. The Court expressly left principal-purpose statutory coverage unaddressed.",
+          "reasoning": "Justice Gorsuch relied on statutory text; the phrase 'owed another' refers to who owns claim at collection, not whether purchaser originated debt or bought it after default. This ruling does not resolve independent principal-purpose prong.",
+          "rule": "An owner collecting an acquired debt for its own account falls outside regularly-for-another prong, but may still be covered if principal purpose is collecting debts."
+        },
+        {
+          "id": "bank-ch1-fdcpa-e5",
+          "type": "rule",
+          "title": "Heintz: lawyers who regularly collect covered debts",
+          "page": "Ch. 1 § B.1.b.i (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Heintz v Jenkins (1995) holds attorneys regularly pursuing consumer debt litigation for clients covered; Congress repealed specific attorney exemption in 1986.",
+          "laymanExplanation": "Collection lawyer cannot evade the statute just by filing a lawsuit.",
+          "legalExplanation": "A regularly employed collection attorney can be a debt collector and court filings and contacts may implicate FDCPA provisions.",
+          "examApplication": "Apply to Alice Attorney in Problem 1.1.",
+          "examTrap": "One isolated unrelated representation may not establish regular debt collection."
+        },
+        {
+          "id": "bank-ch1-fdcpa-e6",
+          "type": "rule",
+          "title": "FDCPA §805: inconvenient times, workplace and cease-contact demand",
+          "page": "Ch. 1 § B.1.b.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "15 U.S.C. §1692c restricts communications with consumer and third parties; §1692c(c) lets consumer request in writing that collector cease communications, with limited statutory exceptions.",
+          "laymanExplanation": "Stop calling someone's job after told calls are prohibited; written cease-contact request sharply limits calls.",
+          "legalExplanation": "Consider known inconvenient time/place, employer prohibitions, third-party disclosure, attorney representation, cease notice and exceptions for required notifications.",
+          "examApplication": "Apply to problems with work calls and midnight contact.",
+          "examTrap": "A valid formal demand and truthful threat to sue are not per se unlawful."
+        },
+        {
+          "id": "bank-ch1-fdcpa-e7",
+          "type": "rule",
+          "title": "FDCPA §§804, 806, 807 and 808 prohibited conduct",
+          "page": "Ch. 1 § B.1.b.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "§1692b location inquiries constrained; §1692d forbids abusive harassment; §1692e forbids false/misleading methods; §1692f forbids unfair/unconscionable means.",
+          "laymanExplanation": "Calling six times in minutes, insulting a coworker or lying about legal threats can cross different sections.",
+          "legalExplanation": "Identify which provision fits each action; least-sophisticated-consumer perspective used for deceptive/harassing conduct as text describes.",
+          "examApplication": "Apply each of Problem 1.2(a)–(g) to relevant subsections and contextual facts.",
+          "examTrap": "Polite repeated calls may still be harassment; a truthful suit warning can be lawful."
+        },
+        {
+          "id": "bank-ch1-fdcpa-e8",
+          "type": "rule",
+          "title": "FDCPA §809 validation and debt dispute",
+          "page": "Ch. 1 § B.1.b.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "15 U.S.C. §1692g requires initial debt-related notices identifying creditor, amount and consumer's dispute/verification rights with statutory timing.",
+          "laymanExplanation": "Collector must tell debtor what debt it means and how to challenge it.",
+          "legalExplanation": "Validation duties, 30-day dispute window and collector's obligations need close statutory analysis; see Problem 1.2(f).",
+          "examApplication": "Distinguish timing of initial telephone call and subsequent written notice.",
+          "examTrap": "Do not treat 'within 30 days' as general ban on all contact."
+        },
+        {
+          "id": "bank-ch1-fdcpa-e9",
+          "type": "rule",
+          "title": "FDCPA §§810–812: payment allocation, venue and forms",
+          "page": "Ch. 1 § B.1.b.ii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Act governs allocation among disputed/multiple debts, where collection suits may be filed, and fake forms suggesting uninvolved third parties.",
+          "laymanExplanation": "Collectors cannot game a consumer's payment, choose improper courthouse, or impersonate another participant through forms.",
+          "legalExplanation": "§§1692h–j impose distinct conduct requirements beyond generic harassment prohibition.",
+          "examApplication": "If fact pattern has multiple accounts/venue/impersonation, map to distinct statutory rule.",
+          "examTrap": "Avoid relying only on §§806–808."
+        },
+        {
+          "id": "bank-ch1-fdcpa-e10",
+          "type": "rule",
+          "title": "FDCPA private remedies and bona fide error",
+          "page": "Ch. 1 § B.1.b.iii (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "15 U.S.C. §1692k provides actual damages + individual statutory damages up to $1,000 + fees/costs; class damages named plaintiff max $1,000 and other class members lesser of $500k or 1% net worth. §1692k(c) safe harbor for unintentional bona fide error despite preventive procedures; suit within one year.",
+          "laymanExplanation": "Debtor can sue for injury, up to $1,000 statutory penalty and attorney fees; inadvertent isolated clerical error may be excused.",
+          "legalExplanation": "Private litigation plus administrative FTC enforcement under §1692l; precise caps, burden and deadlines matter.",
+          "examApplication": "Separate compensatory/statutory/class damage buckets and test bona fide error elements.",
+          "examTrap": "A 'good faith' label alone is not sufficient if no reasonably adapted procedures."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch1-collateral",
+      "title": "B.1(c) — Security Interests, Repossession, Sale and Deficiency",
+      "chapterGroup": "bank-ch1",
+      "description": "UCC Article 9 self-help and judicial repo, no breach of peace, commercially reasonable disposition, waterfall, deficiency arithmetic and Problems 1.3–1.5.",
+      "entries": [
+        {
+          "id": "bank-ch1-collateral-e1",
+          "type": "rule",
+          "title": "Secured vs unsecured creditor at default",
+          "page": "Ch. 1 § B.1.c (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Secured creditor holds collateral enforceable through foreclosure, while unsecured creditor has no property right until judgment and appropriate lien.",
+          "laymanExplanation": "Bank with car lien can repo; ordinary unpaid medical creditor cannot simply take vehicle.",
+          "legalExplanation": "Personal property security interests under UCC Article 9; mortgage/deed of trust for land.",
+          "examApplication": "Identify collateral, perfection, default and competing senior liens.",
+          "examTrap": "Owning a debt doesn't itself establish collateral."
+        },
+        {
+          "id": "bank-ch1-collateral-e2",
+          "type": "rule",
+          "title": "UCC §9-609: self-help only without breach of peace",
+          "page": "Ch. 1 § B.1.c (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Following default creditor may recover collateral through court or nonjudicially only if it proceeds without breach of peace; entry into home/restricted place and debtor objection are strong breach factors.",
+          "laymanExplanation": "Repo man may tow an unattended car in open driveway, but cannot force entry into locked home or push past objecting owner.",
+          "legalExplanation": "Consent voluntarily given at time often permits entry; advance boilerplate agreement disputed; false representation as police officer may invalidate consent.",
+          "examApplication": "For 1.3 analyze location, presence, resistance, consent, force, officer impersonation and timing.",
+          "examTrap": "Unwatched unlocked door does NOT mean implied consent to enter a dwelling."
+        },
+        {
+          "id": "bank-ch1-collateral-e3",
+          "type": "rule",
+          "title": "UCC §§9-610, 9-615: commercially reasonable sale and distribution",
+          "page": "Ch. 1 § B.1.c (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Disposition after repossession must be commercially reasonable. Proceeds generally pay proper reasonable sale expenses first, foreclosing creditor next, subordinate secured interests next, then residual to debtor; senior security interests can survive sale.",
+          "laymanExplanation": "Sell the seized item fairly; pay costs, senior foreclosing claim, juniors, then any extra to debtor.",
+          "legalExplanation": "Expenses may include authorized legal costs; Article 9 statutory ordering and lien seniority shape outcome.",
+          "examApplication": "Calculate exact debt, eligible sale costs, lien ordering and residual or deficiency; note surviving senior rights.",
+          "examTrap": "Gross sale price is not all applied to principal, and not every junior automatically gets paid."
+        },
+        {
+          "id": "bank-ch1-collateral-e4",
+          "type": "rule",
+          "title": "Deficiency and commercially unreasonable sale",
+          "page": "Ch. 1 § B.1.c (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "If collateral sale proceeds insufficient, debtor ordinarily owes deficiency. In non-consumer Article 9, §9-626 rebuttable presumption caps by amount compliant sale would realize; consumer deficiency treatment left to state law.",
+          "laymanExplanation": "If $900 sale doesn't cover debt plus permitted costs, shortfall might survive; an unfair sale can reduce or eliminate recovery.",
+          "legalExplanation": "Creditor's UCC notice and commercial reasonableness duties affect deficiency; states differ for consumer sale.",
+          "examApplication": "Problems 1.4 and 1.5 require sale waterfall and separate missing-notice issue.",
+          "examTrap": "Do not assume identical consumer and non-consumer penalties."
+        },
+        {
+          "id": "bank-ch1-collateral-e5",
+          "type": "rule",
+          "title": "UCC §9-625 and wrongful repo liability",
+          "page": "Ch. 1 § B.1.c (syllabus pp. 1–77)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77",
+          "summary": "Breach of peace and noncompliance can expose secured party to statutory damages, tort damages, criminal consequences and consumer deficiency consequences.",
+          "laymanExplanation": "A bad repo may cost the collector more than it recovers.",
+          "legalExplanation": "Separate wrongful entry/false arrest/conversion of personal effects from failure to send sale notification.",
+          "examApplication": "When repo includes belongings or creditor claims police status, analyze multiple liabilities.",
+          "examTrap": "No one right to repo by force just because loan defaulted."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch1-p1-1",
+      "topicId": "bank-ch1-fdcpa",
+      "title": "Problem 1.1",
+      "kind": "Casebook Problem 1.1 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77 (B.1(a)–(b) — Nonjudicial Collection, Tort Limits and FDCPA)",
+      "prompt": "Five FDCPA coverage subparts: (a) creditor calls buyer of $2k computer debt, (b) hired collection agency, (c) agency purchases debt, (d) attorney writes and sues for client, (e) agency pursues corporate family-owned debtor. For each, identify both debt and collector; explain missing facts (e.g., consumer vs business use, principal-purpose practice). Do NOT answer.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-2",
+      "topicId": "bank-ch1-fdcpa",
+      "title": "Problem 1.2",
+      "kind": "Casebook Problem 1.2 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77 (B.1(a)–(b) — Nonjudicial Collection, Tort Limits and FDCPA)",
+      "prompt": "Seven alleged violations: work calls after notice, abusive coworker voicemail, midnight home call, six polite calls in 24 minutes, formal five-day attorney threat, mailed validation notice five days after phone contact, discounted offer to settle time-barred account. Identify specific FDCPA subsection and any missing facts without answering.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-3",
+      "topicId": "bank-ch1-collateral",
+      "title": "Problem 1.3",
+      "kind": "Casebook Problem 1.3 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77 (B.1(c) — Security Interests, Repossession, Sale and Deficiency)",
+      "prompt": "Five breach-of-peace variations: unlocked empty home/piano; impersonating sheriff for consent; advance entry clause; quiet tow from attached open carport at 3am; son actively objects as tow begins. Analyze each separately; leave outcome unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-4",
+      "topicId": "bank-ch1-collateral",
+      "title": "Problem 1.4",
+      "kind": "Casebook Problem 1.4 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77 (B.1(c) — Security Interests, Repossession, Sale and Deficiency)",
+      "prompt": "Debtor owes $1,000, creditor sells repossessed computer for $900; $100 authorized attorneys' fees, $100 sale expenses, junior secured party owed $400. Calculate distribution, foreclosing creditor deficiency and effect on junior, keeping analysis unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch1-p1-5",
+      "topicId": "bank-ch1-collateral",
+      "title": "Problem 1.5",
+      "kind": "Casebook Problem 1.5 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), Ch. 1 (user-provided full chapter); Prof. Effross Fall 2026 syllabus pp. 1–77 (B.1(c) — Security Interests, Repossession, Sale and Deficiency)",
+      "prompt": "Same as Problem 1.4, but foreclosing creditor failed to give debtor required UCC §9-611 sale notice. Determine deficiency treatment and whether more facts about consumer status/commercial reasonableness needed; leave unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
