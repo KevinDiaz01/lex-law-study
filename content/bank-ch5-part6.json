@@ -1,0 +1,403 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+  "coverage": {
+    "chapter": 5,
+    "scope": "Full In re N.P. Mining opinion; employee §§503/507, income tax §507(a)(8) tests, domestic support, fishermen/grain, deposits, DUI; Problem 5.3(a)-(c) unsolved",
+    "notice": "Indexed dollar caps in 2021 textbook are historical, not presented as verified for November 2026."
+  },
+  "topics": [
+    {
+      "id": "bank-ch5-np-mining",
+      "title": "D.2 — In re N.P. Mining: Punitive Fines During Active Postpetition Operation",
+      "chapterGroup": "bank-ch5",
+      "description": "Full Eleventh Circuit case, §959(b) state-law compliance, operation vs passive administration, fine timeline.",
+      "entries": [
+        {
+          "id": "bank-ch5-np-mining-e1",
+          "type": "case",
+          "title": "In re N.P. Mining Co., 963 F.2d 1449 (11th Cir. 1992)",
+          "page": "Ch.5 §D.2 / N.P. Mining full opinion",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Eleventh Circuit granted admin priority ONLY for penalties attributable to violations occurring during active postpetition operation of the mine by DIP/trustee, subject to prompt assessment filing/notice. Penalties for prepetition violations (even assessed later) and penalties after business stopped and trustee merely administered assets did not qualify. Reversed/remanded.",
+          "laymanExplanation": "Punitive civil penalties for postpetition legal violations incurred while DIP/trustee actively operates business can qualify as administrative expenses under §503(b)(1)(A), grounded in §959(b); timing of violation and operational status govern, not merely assessment date.",
+          "legalExplanation": "Kravitch rejected direct benefit, compensatory Reading fairness, or immediate public-health hazard as basis in this record. Instead relied on 28 USC §959(b) that trustee/DIP must operate estate in compliance with valid state law; regulation-related penalties from continuing active mining are costs ordinarily incident to doing business, avoiding unfair competitive advantage of bankrupt coal company. After trustee took control operations ceased (though some brokerage/asset preservation remained), so compliance rationale for MINING operations didn't extend to idle estate; prefiling unremedied violations belong to old bankruptcy liabilities. Claimed ~$2.349m far larger than estate, making priority consequential.",
+          "examApplication": "Draw 3 phases: active DIP, trustee with mining stopped, Chapter 7 liquidation. Identify when violation occurred (not when fine posted), whether caused by actual estate business operation, and source-era $399,700 vs ~$1.949m amounts.",
+          "examTrap": "Do NOT say all postpetition fines automatically admin priority, or that a fine assessed after filing for prefiling violation is admin.",
+          "assignedOpinion": true,
+          "sourceRole": "Full Eleventh Circuit majority opinion excerpted from uploaded Chapter 5",
+          "facts": "Alabama Surface Mining Commission enforced strip mine law. N.P. filed Chapter 11 Feb.6,1987 and continued mining as DIP. State assessed $399,700 punitive civil penalties during active DIP operations. Chapter 11 trustee appointed June15,1988 and mining stopped; approximately $1,949,400 additional penalties assessed when only preserving/liquidating assets. Case converted Chapter 7 Apr.14,1989. Commission sought admin priority for about $2.349m noncompensatory penalties, versus estate only $400k–500k. Many fines were attributable to nonabatement of old violations and most not tied to safety/public hazard. Bankruptcy/district courts denied all priority for no direct benefit.",
+          "issue": "Can purely punitive state environmental civil penalties assessed postpetition be §503(b)(1)(A) administrative expenses despite no estate benefit or compensation to victims, and does active operation versus passive estate administration matter?",
+          "holding": "Eleventh Circuit granted admin priority ONLY for penalties attributable to violations occurring during active postpetition operation of the mine by DIP/trustee, subject to prompt assessment filing/notice. Penalties for prepetition violations (even assessed later) and penalties after business stopped and trustee merely administered assets did not qualify. Reversed/remanded.",
+          "reasoning": "Kravitch rejected direct benefit, compensatory Reading fairness, or immediate public-health hazard as basis in this record. Instead relied on 28 USC §959(b) that trustee/DIP must operate estate in compliance with valid state law; regulation-related penalties from continuing active mining are costs ordinarily incident to doing business, avoiding unfair competitive advantage of bankrupt coal company. After trustee took control operations ceased (though some brokerage/asset preservation remained), so compliance rationale for MINING operations didn't extend to idle estate; prefiling unremedied violations belong to old bankruptcy liabilities. Claimed ~$2.349m far larger than estate, making priority consequential.",
+          "rule": "Punitive civil penalties for postpetition legal violations incurred while DIP/trustee actively operates business can qualify as administrative expenses under §503(b)(1)(A), grounded in §959(b); timing of violation and operational status govern, not merely assessment date."
+        },
+        {
+          "id": "bank-ch5-np-mining-e2",
+          "type": "rule",
+          "title": "§959(b): trustee/DIP must comply with valid state law while operating",
+          "page": "Ch.5 §D.2 / N.P. Mining",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Federal statute requires bankruptcy estate representative who manages and operates property to obey state laws like other operators; continuing mining cannot ignore pollution rules to save funds.",
+          "laymanExplanation": "Filing Chapter 11 doesn't give mining company a free competitive advantage by refusing fines.",
+          "legalExplanation": "Court used §959(b) policy to recognize punitive operating costs as actual/necessary despite no direct estate benefit.",
+          "examApplication": "For a regulated industry ask if business activity continued after filing and law applied to operation.",
+          "examTrap": "Does not create same priority for every unpaid prefiling fine."
+        },
+        {
+          "id": "bank-ch5-np-mining-e3",
+          "type": "rule",
+          "title": "Three phases change legal status",
+          "page": "Ch.5 §D.2 / N.P. Mining",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Active DIP mining (postpetition) can trigger administrative fines for new violations. After trustee takes over and mine operations end, fines from merely maintaining/liquidating estate lack active-operation basis. After Chapter 7 liquidation similarly no mining operations.",
+          "laymanExplanation": "During mining company works; afterward property simply awaits distribution—different legal function.",
+          "legalExplanation": "Court looked to substance of operations not generic case title, and trustee moved toward conversion within weeks.",
+          "examApplication": "Label activity by each time period and violation source.",
+          "examTrap": "Case not holding that trustee appointment always ends administration priority if business still operates."
+        },
+        {
+          "id": "bank-ch5-np-mining-e4",
+          "type": "rule",
+          "title": "The dates and amounts are evidence, not interchangeable",
+          "page": "Ch.5 §D.2 / N.P. Mining",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Book reports $399,700 during DIP operating and $1,949,400 later under trustee, total about $2.349m; most claimed penalties occurred when estate couldn't abate violations.",
+          "laymanExplanation": "Most fines arose after coal mining stopped; priority would exhaust all remaining assets.",
+          "legalExplanation": "Debtor estate value $400k–500k, hence priority would divert recovery drastically.",
+          "examApplication": "Calculate which share of assessed fines actually linked to qualifying new operating violations rather than assuming entire first-period total does.",
+          "examTrap": "Do not automatically award entire $399,700 without separating preexisting violations."
+        },
+        {
+          "id": "bank-ch5-np-mining-e5",
+          "type": "rule",
+          "title": "Why Reading fairness and Midlantic cleanup didn't control",
+          "page": "Ch.5 §D.2 / N.P. Mining",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "No compensatory victim injury and no identified imminent pollution hazard or cleanup cost in fines. Reading's involuntary harm rationale and Midlantic's public safety abandonment rationale inapplicable; §959(b) active-operation compliance justified narrow result.",
+          "laymanExplanation": "Punitive fine is not paying harmed victim or cleaning toxic land.",
+          "legalExplanation": "Distinguish compensatory remedy, actual cleanup costs and penal fines under specific state scheme.",
+          "examApplication": "For environmental agency assessment identify whether funds improve cleanup or only punish.",
+          "examTrap": "'Environmental' label alone doesn't justify administrative priority."
+        },
+        {
+          "id": "bank-ch5-np-mining-e6",
+          "type": "rule",
+          "title": "No admin priority for prefiling violation assessed later",
+          "page": "Ch.5 §D.2 / N.P. Mining",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Even when agency issues penalty after petition, if violation occurred before filing and simply remains uncorrected, court declined admin cost status under its rationale.",
+          "laymanExplanation": "Old penalty doesn't become new operating cost because the bill arrives during bankruptcy.",
+          "legalExplanation": "Case frames estate's fresh beginning and state alternative cessation orders when risks significant.",
+          "examApplication": "For late fines ask when noncompliance event actually began and what new acts occurred.",
+          "examTrap": "Don't confuse assessment date with violation date."
+        },
+        {
+          "id": "bank-ch5-np-mining-e7",
+          "type": "rule",
+          "title": "Case's qualification: prompt proof and notice",
+          "page": "Ch.5 §D.2 / N.P. Mining conclusion",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Qualifying operational penalty administrative priority conditional on Commission promptly filing each assessment with bankruptcy court and notifying DIP/trustee.",
+          "laymanExplanation": "State regulator must formally alert estate to fine instead of silently building massive priority debt.",
+          "legalExplanation": "This procedural predicate appears in court's express conclusion.",
+          "examApplication": "Include timing of assessment paperwork/notice in full answer.",
+          "examTrap": "Cannot claim priority simply from existence of state regulation."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-employee-priorities",
+      "title": "D.3(a) — Employee Wage and Benefit Priorities: Timing and Daily Accrual",
+      "chapterGroup": "bank-ch5",
+      "description": "Postpetition administrative wages, prepetition fourth/fifth rank, 180-day windows and source-era limits.",
+      "entries": [
+        {
+          "id": "bank-ch5-employee-priorities-e1",
+          "type": "rule",
+          "title": "Postpetition wages §503(b)(1)(A)(i) administration",
+          "page": "Ch.5 §D.3(a)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Wages and benefits earned during ongoing estate business operation/postpetition services receive administrative expense status where statutory conditions met; special back-pay §503(b)(1)(A)(ii) also may apply.",
+          "laymanExplanation": "Employees who work after company files usually aren't stuck in line with old credit card bills.",
+          "legalExplanation": "Back pay attributable to postpetition unemployment may qualify subject layoff-risk statutory condition.",
+          "examApplication": "For worker continuing after Chapter 11 filing split wages by service dates.",
+          "examTrap": "Wages earned before filing don't become admin just because paid afterward."
+        },
+        {
+          "id": "bank-ch5-employee-priorities-e2",
+          "type": "rule",
+          "title": "Prepetition wages fourth rank §507(a)(4)",
+          "page": "Ch.5 §D.3(a)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Wages, salaries and commission from services performed within 180 days before earlier petition or cessation of business eligible 4th rank up to indexed per-employee cap, printed $13,650 in book.",
+          "laymanExplanation": "Workers get extra protection for recent unpaid wages, but not unlimited amounts.",
+          "legalExplanation": "Separate ordinary allowed balance for earlier wages outside priority window.",
+          "examApplication": "For 5.3(a) last quarter vacation accrual work timing vs January 1 vesting.",
+          "examTrap": "Printed $13,650 is historical 2021 indexed figure, not 2026."
+        },
+        {
+          "id": "bank-ch5-employee-priorities-e3",
+          "type": "rule",
+          "title": "Benefit contributions fifth rank §507(a)(5)",
+          "page": "Ch.5 §D.3(a)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Unpaid qualifying employee benefit plan contributions for recent 180-day services receive fifth rank subject coordinated cap with individual wage priority.",
+          "laymanExplanation": "Retirement/health-plan money employer failed to fund is separately protected.",
+          "legalExplanation": "Temporal and amount limits similar but distinct from wages.",
+          "examApplication": "List wages and benefit contributions separately and reduce benefit max for certain fourth priority usage.",
+          "examTrap": "Don't count same worker payment twice."
+        },
+        {
+          "id": "bank-ch5-employee-priorities-e4",
+          "type": "rule",
+          "title": "Daily accrual rather than vesting controls 180-day allocation",
+          "page": "Ch.5 §D.3(a)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "For vacation, severance or sick leave pay, courts presume daily accrual from services rendered even if benefits vest on later date.",
+          "laymanExplanation": "If leave check becomes payable January 1, employee still earned portions across the year.",
+          "legalExplanation": "This protects only segment earned in statutory period, and postpetition segment can receive administration rank.",
+          "examApplication": "For Problem 5.3(a) $2k/year vacation earned before and after Oct1 petition; divide accrual by quarters/days then determine priorities.",
+          "examTrap": "Do not assign full $2k to whichever date contract says vesting occurs."
+        },
+        {
+          "id": "bank-ch5-employee-priorities-e5",
+          "type": "rule",
+          "title": "Policy bases: retention, knowledge disparity, hardship",
+          "page": "Ch.5 §D.3(a)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Congress protects vulnerable employees, incentivizes workers to remain with struggling enterprise and recognizes workers cannot assess employer credit like sophisticated lenders.",
+          "laymanExplanation": "Employees are less able to price bankruptcy risk and may flee if wages not protected.",
+          "legalExplanation": "Justifications support rank but don't override statute caps.",
+          "examApplication": "Use as rationale in exam policy paragraph.",
+          "examTrap": "Policy alone won't elevate older wage claim outside 180 days."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-tax-priorities",
+      "title": "D.3(b) — Prepetition Tax Priority §507(a)(8) and Postpetition Estate Taxes",
+      "chapterGroup": "bank-ch5",
+      "description": "Three timing pathways for income taxes plus types and discharge consequences.",
+      "entries": [
+        {
+          "id": "bank-ch5-tax-priorities-e1",
+          "type": "rule",
+          "title": "Estate-incurred tax = administrative §503(b)(1)(B),(C)",
+          "page": "Ch.5 §D.3(b)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Tax liability incurred by bankruptcy ESTATE during case usually admin expense at 2nd rank; prepetition tax qualifies for rank 8 only if specific §507(a)(8) category/time window.",
+          "laymanExplanation": "Tax on estate business after filing is higher priority than owner's old taxes.",
+          "legalExplanation": "Differentiate debtor personal prepetition tax, estate postpetition operating tax and postcase debtor income.",
+          "examApplication": "Mark taxable period and legal entity responsible.",
+          "examTrap": "Don't classify every IRS claim as automatic second rank."
+        },
+        {
+          "id": "bank-ch5-tax-priorities-e2",
+          "type": "rule",
+          "title": "§507(a)(8) seven categories share eighth rank",
+          "page": "Ch.5 §D.3(b)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Includes (A) income/gross receipts, (B) property, (C) withholding, (D) employment, (E) excise, (F) customs, (G) related penalty; no sub-ranking among these tax types.",
+          "laymanExplanation": "Different old taxes that qualify all share one eighth-priority tier.",
+          "legalExplanation": "Other temporal predicates vary by tax type and must be checked.",
+          "examApplication": "First select category, then dates.",
+          "examTrap": "Don't treat all taxes same or all old taxes entitled to priority."
+        },
+        {
+          "id": "bank-ch5-tax-priorities-e3",
+          "type": "rule",
+          "title": "Income-tax 3-year return due test §507(a)(8)(A)(i)",
+          "page": "Ch.5 §D.3(b)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Prepetition income tax qualifies if return (including extensions) was LAST due within three years before filing.",
+          "laymanExplanation": "Tax year 2016 return due 2017 may require comparing March2020 petition to 2017 last due date.",
+          "legalExplanation": "Calculate from legally operative last due (including extensions), not Dec31 tax year end.",
+          "examApplication": "For 5.3(b) show each relevant exact due date in hypothetical if established, note potential extensions.",
+          "examTrap": "Don't automatically compute three years from tax-year label."
+        },
+        {
+          "id": "bank-ch5-tax-priorities-e4",
+          "type": "rule",
+          "title": "Income-tax 240-day assessment test §507(a)(8)(A)(ii)",
+          "page": "Ch.5 §D.3(b)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Income tax also may qualify if assessed within 240 days before filing, subject applicable statutory suspensions.",
+          "laymanExplanation": "Even older income taxes can be priority if assessed recently.",
+          "legalExplanation": "Independent route from 3-year return last-due test.",
+          "examApplication": "Ask assessment date and count back 240 days.",
+          "examTrap": "Don't assume return filing date equals assessment date."
+        },
+        {
+          "id": "bank-ch5-tax-priorities-e5",
+          "type": "rule",
+          "title": "Income-tax assessable after filing §507(a)(8)(A)(iii)",
+          "page": "Ch.5 §D.3(b)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Third independent route covers tax that was not assessed before petition but remained assessable afterward, under statutory conditions.",
+          "laymanExplanation": "IRS can have priority even before it sends final assessment if law permits later assessment.",
+          "legalExplanation": "Check status and limitations affecting assessability.",
+          "examApplication": "If tax return wasn't filed, ask whether tax can still legally be assessed postpetition.",
+          "examTrap": "Not every unassessed amount qualifies, statute matters."
+        },
+        {
+          "id": "bank-ch5-tax-priorities-e6",
+          "type": "rule",
+          "title": "Priority tax is often nondischargeable for individual §523(a)(1)(A)",
+          "page": "Ch.5 §D.3(b)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Qualification for §507(a)(8) also ties to individual debtor discharge exception for listed taxes under §523(a)(1)(A).",
+          "laymanExplanation": "Some priority tax remains personally collectible after case unless fully paid.",
+          "legalExplanation": "Other tax nondischargeability routes may apply even without rank 8; source emphasizes dual significance.",
+          "examApplication": "After ranking tax, separately analyze discharge consequence.",
+          "examTrap": "Tax has to qualify under applicable rule; don't assume every tax nondischargeable."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-misc-priorities",
+      "title": "D.3(c) — Domestic Support, Consumer Deposits, Grain and DUI Injury",
+      "chapterGroup": "bank-ch5",
+      "description": "Special claim eligibility elements, family support subpriority and collection outside stay.",
+      "entries": [
+        {
+          "id": "bank-ch5-misc-priorities-e1",
+          "type": "rule",
+          "title": "Domestic support §101(14A) four-part definition",
+          "page": "Ch.5 §D.3(c)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Qualifying domestic support owed/recoverable by spouse/former spouse/child/guardian/government, in nature of alimony/maintenance/support, established in divorce/separation/court/admin order and accruing before/on/after relief including interest.",
+          "laymanExplanation": "Actual support obligation counts regardless of what divorce decree labels it.",
+          "legalExplanation": "Define based on substance and qualifying payee/order.",
+          "examApplication": "For 5.3(b) $20k divorce decree support classify nature and rightsholder.",
+          "examTrap": "Property division that isn't support may not be §101(14A) DSO."
+        },
+        {
+          "id": "bank-ch5-misc-priorities-e2",
+          "type": "rule",
+          "title": "Domestic support survives discharge and special collection",
+          "page": "Ch.5 §D.3(c)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Prepetition DSO §523(a)(5) not discharged even Chapter 13, can reach exempt property §522(c)(1), some proceedings and wage collection excepted §362(b)(2).",
+          "laymanExplanation": "Bankruptcy cannot simply wipe unpaid child support; support remains due.",
+          "legalExplanation": "Statutory exceptions differ estate vs nonestate income and by chapter.",
+          "examApplication": "Analyze case chapter, wage source, stay exception and plan support compliance separately.",
+          "examTrap": "Do not state all collection from every type of estate asset entirely unrestricted."
+        },
+        {
+          "id": "bank-ch5-misc-priorities-e3",
+          "type": "rule",
+          "title": "Support first priority subranking and trustee costs exception",
+          "page": "Ch.5 §D.3(c)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Direct support owed to spouse/child ranks ahead of assigned-government support within §507(a)(1); limited §507(a)(1)(C) exception for trustee's cost of administering assets otherwise available for support.",
+          "laymanExplanation": "The family's own unpaid support usually goes ahead of government reimbursement; some trustee costs needed to create fund may come off first.",
+          "legalExplanation": "States and private support claims not fully identical; eligible plan special treatment government support may vary.",
+          "examApplication": "When multiple support creditors distinguish family versus state agency.",
+          "examTrap": "General rule rank1 subject exact statutory implementation."
+        },
+        {
+          "id": "bank-ch5-misc-priorities-e4",
+          "type": "rule",
+          "title": "Postpetition DSO payments critical to plan and discharge",
+          "page": "Ch.5 §D.3(c)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Failure to pay ongoing support can trigger conversion/dismissal, prevent reorganization plan confirmation and Chapter 12/13 discharge certification; ongoing support reduces disposable income calculation.",
+          "laymanExplanation": "Plan debtor must keep support current as repayment program proceeds.",
+          "legalExplanation": "Source cites §§1112,1208,1307,1129,1225,1325,1228,1328 and trustee notice duties.",
+          "examApplication": "In case involving debtor current wages, list support compliance at each case milestone.",
+          "examTrap": "Claim ranking isn't the only support protection."
+        },
+        {
+          "id": "bank-ch5-misc-priorities-e5",
+          "type": "rule",
+          "title": "Grain/fisherman rank6 elements",
+          "page": "Ch.5 §D.3(c)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Eligible grain producer against storage debtor or U.S. fisher against fish processing/storage debtor, with historical book cap $6,725.",
+          "laymanExplanation": "A grain farmer whose storage elevator files bankruptcy may recover priority before ordinary trade claims.",
+          "legalExplanation": "History 1984 farmers forcibly reclaimed grain, prompting targeted statutory policy.",
+          "examApplication": "Identify creditor profession and business structure; validate cap year.",
+          "examTrap": "Not general agriculture debt priority."
+        },
+        {
+          "id": "bank-ch5-misc-priorities-e6",
+          "type": "rule",
+          "title": "Consumer layaway rank7 elements",
+          "page": "Ch.5 §D.3(c)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Individual who prepaid for personal/family/household goods or services and never received them can receive priority up to printed source-era indexed $3,025.",
+          "laymanExplanation": "A gym member prepaid training but gym closed may have priority for unused services.",
+          "legalExplanation": "Needs actual prefiling deposit, qualifying individual, domestic personal use and undelivered promise.",
+          "examApplication": "In 5.3(c) prepaid $2k annual personal training; compare delivered vs not delivered between Jan1-Feb1.",
+          "examTrap": "Not all money paid to failed business is 7th rank."
+        },
+        {
+          "id": "bank-ch5-misc-priorities-e7",
+          "type": "rule",
+          "title": "DUI rank10 and discharge exception",
+          "page": "Ch.5 §D.3(c)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "Nondischargeable death/personal-injury claims caused by unlawful operation of vehicle/vessel while intoxicated receive §507(a)(10) last priority rank.",
+          "laymanExplanation": "Drunk driver injury victim has special priority even beyond ordinary negligence.",
+          "legalExplanation": "Separate property damage and normal accident claims from death/personal injury.",
+          "examApplication": "Check alcohol/drug impairment and unlawful operation facts.",
+          "examTrap": "Not every DUI fine qualifies this particular civil injury priority."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-problem-5-3",
+      "title": "D.3 — Problem 5.3(a)–(c): Priority and Amount (Unsolved)",
+      "chapterGroup": "bank-ch5",
+      "description": "Three original numerical exercises—employee vacation, support/taxes, consumer health club.",
+      "entries": [
+        {
+          "id": "bank-ch5-problem-5-3-e1",
+          "type": "rule",
+          "title": "Separate valuation, tier and actual payout",
+          "page": "Ch.5 §D.3 / Problem 5.3",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+          "summary": "For each scenario identify original claim dollar amount; cap or accrued part eligible for priority; rank; unencumbered fund; then calculate payment only if higher classes satisfied and facts suffice.",
+          "laymanExplanation": "Eligible special claim may still go unpaid when earlier rank consumes the estate.",
+          "legalExplanation": "Do not misread 2021 caps as current, and don't invent missing 2016 assessment/extension facts.",
+          "examApplication": "Keep separate statutory eligibility from order of distribution.",
+          "examTrap": "Problems remain unanswered for independent attempt."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch5-p5-3-a",
+      "topicId": "bank-ch5-problem-5-3",
+      "title": "Problem 5.3(a)",
+      "kind": "Casebook Problem 5.3(a) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+      "prompt": "Worker had $2,000 vacation pay claim earned over one year's service, vested at beginning of calendar year. Debtor filed Chapter 11 October 1 (start Q4); worker stayed employed until next Jan1 vesting. Analyze split across prefiling fourth-priority 180-day window and postfiling administrative wage category, and limits. No solution.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-p5-3-b",
+      "topicId": "bank-ch5-problem-5-3",
+      "title": "Problem 5.3(b)",
+      "kind": "Casebook Problem 5.3(b) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+      "prompt": "Debtor owes $14,000 income tax for 2016; divorce in 2017 gave former spouse $20,000 support; Chapter 7 filing March 1, 2020; only $22,000 nonexempt unencumbered assets. Identify taxes' eligibility under §507(a)(8) using actual due/assessment facts and rank1 support; compute distribution if supported. Leave original problem unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch5-p5-3-c",
+      "topicId": "bank-ch5-problem-5-3",
+      "title": "Problem 5.3(c)",
+      "kind": "Casebook Problem 5.3(c) — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §D.2 In re N.P. Mining full opinion and §D.3 Other Priorities, Problem 5.3(a)-(c)",
+      "prompt": "Consumer Jan1 paid $2,000 deposit for one year personal training at Debtor Health Club; Feb1 club closed and filed Chapter 7. Assess §507(a)(7) eligibility, delivered vs undelivered portion and extent of priority. Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
