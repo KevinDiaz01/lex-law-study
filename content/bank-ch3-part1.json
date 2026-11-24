@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+  "coverage": {
+    "chapter": 3,
+    "scope": "A. Overview; B. Inclusions: §541, Butner, Chicago Board of Trade",
+    "assigned": "Syllabus broadly lists Chapter 3 pp. 171–199; exact distributed reading list not supplied",
+    "pageNote": "Uploaded ebook has section headings but no original printed page boundaries; use section locators."
+  },
+  "topics": [
+    {
+      "id": "bank-ch3-estate-overview",
+      "title": "A. Overview — The Bankruptcy Estate and Why It Matters",
+      "chapterGroup": "bank-ch3",
+      "description": "Defining §541 estate; exact timing, federal jurisdiction, stay, liquidation and reorganization benchmark.",
+      "entries": [
+        {
+          "id": "bank-ch3-estate-overview-e1",
+          "type": "rule",
+          "title": "§541(a): estate arises instantly when case commences",
+          "page": "Ch. 3 § A (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "The petition creates a distinct bankruptcy estate comprised generally of every legal and equitable interest the debtor holds as of commencement; trustee or debtor in possession represents it.",
+          "laymanExplanation": "Picture a legal basket formed at filing: debtor's legally owned interests enter even if somebody else holds or controls an asset.",
+          "legalExplanation": "§541(a)(1) is expansive. Filing/order-for-relief distinction in involuntary cases doesn't ordinarily move §541 creation date from commencement.",
+          "examApplication": "Mark filing date/time first; list property interests held at that instant.",
+          "examTrap": "Estate ownership interest is not the same as the trustee actually possessing property or its unencumbered value."
+        },
+        {
+          "id": "bank-ch3-estate-overview-e2",
+          "type": "rule",
+          "title": "Exclusive bankruptcy jurisdiction over estate property",
+          "page": "Ch. 3 § A (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "28 U.S.C. §1334(e)(1) grants district court exclusive jurisdiction of property of estate wherever located.",
+          "laymanExplanation": "One federal bankruptcy forum takes charge of asset rights, even if property is in another jurisdiction.",
+          "legalExplanation": "Jurisdiction supports coordination of administration and prevents competing courts dismembering estate.",
+          "examApplication": "Identify whether particular asset qualifies under §541 before presuming estate jurisdiction.",
+          "examTrap": "Whether property is in estate cannot be decided solely by its physical location."
+        },
+        {
+          "id": "bank-ch3-estate-overview-e3",
+          "type": "rule",
+          "title": "§362(a)(3) stay protects property of estate",
+          "page": "Ch. 3 § A (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Automatic stay prevents acts to obtain possession of or exercise control over estate property after commencement, subject to Code exceptions.",
+          "laymanExplanation": "Creditors generally cannot grab estate property while the case is underway.",
+          "legalExplanation": "This property-specific stay complements provisions protecting debtor and claims; full stay exceptions belong Chapter 4.",
+          "examApplication": "Spot creditor repossession, seizure, transfer or interference after petition.",
+          "examTrap": "Stay prohibits conduct; it does not by itself decide ownership of the asset."
+        },
+        {
+          "id": "bank-ch3-estate-overview-e4",
+          "type": "rule",
+          "title": "Chapter 7 creditor recoveries depend on estate assets",
+          "page": "Ch. 3 § A (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Trustee liquidates nonexempt estate property and distributes proceeds in statutory order; the size/value of estate affects creditor dividends.",
+          "laymanExplanation": "More reachable assets in the bankruptcy basket usually means more money to distribute.",
+          "legalExplanation": "Separate §541 inclusion from §522 exemptions, secured liens and administrative/priority claims.",
+          "examApplication": "For each asset decide estate membership before valuation, lien, exemption and distribution.",
+          "examTrap": "Gross estate value is not equal to unsecured creditors' available pool."
+        },
+        {
+          "id": "bank-ch3-estate-overview-e5",
+          "type": "rule",
+          "title": "Reorganization liquidation baseline and use of estate assets",
+          "page": "Ch. 3 § A (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Debtor may use, sell or lease estate assets under §363 including assets encumbered by liens, subject to Code safeguards; plan creditors generally protected by liquidation-value floor.",
+          "laymanExplanation": "Chapter 11 debtor may keep running business using assets, but creditors compare plan return to what liquidation would yield.",
+          "legalExplanation": "Chapter 11 debtor-in-possession typically possesses trustee's powers; Chapter 13 best-interests §1325(a)(4) similarly uses hypothetical liquidation.",
+          "examApplication": "Value encumbered real estate and prospective business value separately.",
+          "examTrap": "Being in estate doesn't extinguish a creditor's valid lien."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch3-inclusions-scope",
+      "title": "B. Inclusions — Three §541 Questions: Property, Whose, and When?",
+      "chapterGroup": "bank-ch3",
+      "description": "Comprehensive scope, state/federal law allocation, contingent interests, timing and proceeds.",
+      "entries": [
+        {
+          "id": "bank-ch3-inclusions-scope-e1",
+          "type": "rule",
+          "title": "Three-part inclusion test",
+          "page": "Ch. 3 § B (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Ask (1) is interest 'property' within federal bankruptcy meaning? (2) what legal/equitable rights actually belong to debtor? (3) did debtor hold those rights at commencement, or does an express later-acquisition subsection apply?",
+          "laymanExplanation": "What is it, whose is it, and when did debtor acquire it?",
+          "legalExplanation": "§541(a)(1) broadly sweeps property but debtor conveys no more than their own bundle of rights; timing anchored on petition.",
+          "examApplication": "Create matrix showing interest, governing nonbankruptcy law, filing-time status and possible §541(a)(6)/(7) extension.",
+          "examTrap": "A valuable expectation alone may differ from present contingent legal right."
+        },
+        {
+          "id": "bank-ch3-inclusions-scope-e2",
+          "type": "rule",
+          "title": "Butner: state or other nonbankruptcy law defines attributes",
+          "page": "Ch. 3 § B (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Property rights generally determined by relevant nonbankruptcy law (often state real property, contract or trust law), absent contrary federal bankruptcy rule.",
+          "laymanExplanation": "Bankruptcy court normally doesn't invent a new mortgage or rent lien that didn't exist before.",
+          "legalExplanation": "Butner reduces forum shopping and bankruptcy windfalls; nonbankruptcy federal agency licensing law can also define rights.",
+          "examApplication": "Identify applicable state or federal substantive law before asking whether bankruptcy sweeps in interest.",
+          "examTrap": "Don't transform Butner into claim that states alone determine the federal meaning of 'property'."
+        },
+        {
+          "id": "bank-ch3-inclusions-scope-e3",
+          "type": "rule",
+          "title": "Chicago Board of Trade: federal law decides estate-property classification",
+          "page": "Ch. 3 § B (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "State law attributes, restrictions and priority are enforced, but state 'not property' labels do not settle federal bankruptcy estate classification.",
+          "laymanExplanation": "Illinois may say a trading seat cannot be seized, but federal bankruptcy can still call the transferable economic seat estate property.",
+          "legalExplanation": "The estate succeeds to debtor's transferable beneficial interest while honoring attached inherent restrictions/rights of member creditors.",
+          "examApplication": "Separate asset's inclusion from whether net realizable value remains after other parties' rights.",
+          "examTrap": "A §541 asset may be worthless to general creditors after priority interests."
+        },
+        {
+          "id": "bank-ch3-inclusions-scope-e4",
+          "type": "rule",
+          "title": "§541(a)(1) broad contingent and intangible interests",
+          "page": "Ch. 3 § B (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Bankruptcy property need not be tangible or presently enforceable for cash; defined contingent, future contractual and intangible benefits may count if legally rooted in prepetition interests.",
+          "laymanExplanation": "A right to money that pays next year can still be owned today.",
+          "legalExplanation": "Segal v Rochelle teaches sufficiently-rooted prebankruptcy interests; distinguish chance of future legal creation, illustrated by Schmitz later.",
+          "examApplication": "For bonus, tax refund, permit or license look for existing enforceable prepetition source.",
+          "examTrap": "Not every future benefit that refers to past conduct is existing property."
+        },
+        {
+          "id": "bank-ch3-inclusions-scope-e5",
+          "type": "rule",
+          "title": "§541(a)(6): proceeds, product, rents or profits of estate assets",
+          "page": "Ch. 3 § B (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Estate generally captures postpetition proceeds, product, offspring, rents and profits of estate property; separate statutory carveout for individual debtor's postpetition personal-service earnings.",
+          "laymanExplanation": "If rental property is in the basket, its rents generally follow the asset into basket even after filing.",
+          "legalExplanation": "Rents may be subject to secured lender's prebankruptcy rights (Butner); wages from individual services treated differently.",
+          "examApplication": "Trace acquired payment to existing estate asset vs independent later personal effort.",
+          "examTrap": "'After petition' does not universally mean debtor keeps all later receipts."
+        },
+        {
+          "id": "bank-ch3-inclusions-scope-e6",
+          "type": "rule",
+          "title": "§541(a)(7): interest acquired by estate after commencement",
+          "page": "Ch. 3 § B (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Estate may acquire additional interests after filing through estate's own activities and transactions; estate as legal entity differs from debtor's later separate acquisitions.",
+          "laymanExplanation": "If debtor-in-possession's business buys new inventory using estate money, that new inventory can join estate.",
+          "legalExplanation": "Distinguish asset acquired BY estate from new asset acquired by Chapter 7 debtor personally; chapter-specific §§1115 and 1306 modify baseline.",
+          "examApplication": "In Chapter 11 business operations, trace cash, inventory, accounts receivable and postpetition profits.",
+          "examTrap": "Do not assume all postpetition business assets evade estate due to initial filing cut-off."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch3-butner",
+      "title": "B. Butner v. United States — State-Law Mortgage and Rental Income Rights",
+      "chapterGroup": "bank-ch3",
+      "description": "Full Supreme Court opinion, state substantive rights, federal equity and forum-shopping rationale.",
+      "entries": [
+        {
+          "id": "bank-ch3-butner-e1",
+          "type": "case",
+          "title": "Butner v. United States, 440 U.S. 48 (1979)",
+          "page": "Ch. 3 § B / Butner opinion (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "State law, not freestanding federal bankruptcy equity, determines rights of mortgagee to postdefault rents absent overriding federal interest. Supreme Court affirmed appellate approach, declined to decide precise disputed North Carolina application.",
+          "laymanExplanation": "Absent contrary federal command, nonbankruptcy law fixes the existence, extent and enforceability of ownership and security interests, including rights to rents; bankruptcy judge should provide procedural protection equivalent to outside bankruptcy.",
+          "legalExplanation": "Justice Stevens rejected Third/Seventh Circuit bankruptcy-only federal equity rule. Congress can change rights but did not. Forum consistency avoids uncertainty, strategic forum shopping and creditor windfall merely because bankruptcy filed. To prevent opposite harm, bankruptcy court can replicate rights/steps mortgagee could obtain under state law (e.g., sequestration, receiver, relief for foreclosure).",
+          "examApplication": "Analyze whether lease rents secured before filing, lender took constructive possession, receiver requested, court acted and whether applicable state is title/lien state.",
+          "examTrap": "Holding sets choice-of-law methodology, NOT final Supreme Court resolution of whether earlier agent appointment satisfied North Carolina law.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in the uploaded Chapter 3",
+          "facts": "Golden Enterprises entered Chapter XI arrangement; petitioner acquired $360,000 second mortgage on North Carolina real estate, with no express assignment of rents. Court appointed agent to collect rent during arrangement; after conversion/adjudication as bankrupt trustee collected $162,971.32 rents. The second mortgage remained $186,000 short after property sales, and lender claimed rents. Under North Carolina law, mortgagor typically receives rents while possessing property; mortgagee must take possession or equivalent procedural steps. Lower courts disagreed about effect of prior agent appointment.",
+          "issue": "Does mortgagee's secured right to rents after bankruptcy arise automatically under a uniform federal equitable rule, or under governing state law requiring possession, receiver or equivalent steps?",
+          "holding": "State law, not freestanding federal bankruptcy equity, determines rights of mortgagee to postdefault rents absent overriding federal interest. Supreme Court affirmed appellate approach, declined to decide precise disputed North Carolina application.",
+          "reasoning": "Justice Stevens rejected Third/Seventh Circuit bankruptcy-only federal equity rule. Congress can change rights but did not. Forum consistency avoids uncertainty, strategic forum shopping and creditor windfall merely because bankruptcy filed. To prevent opposite harm, bankruptcy court can replicate rights/steps mortgagee could obtain under state law (e.g., sequestration, receiver, relief for foreclosure).",
+          "rule": "Absent contrary federal command, nonbankruptcy law fixes the existence, extent and enforceability of ownership and security interests, including rights to rents; bankruptcy judge should provide procedural protection equivalent to outside bankruptcy."
+        },
+        {
+          "id": "bank-ch3-butner-e2",
+          "type": "rule",
+          "title": "The asset-specific dispute: mortgages, rents and possession",
+          "page": "Ch. 3 § B / Butner (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "A mortgage on real estate does not automatically mean a secured lien on its postdefault rents where governing state law requires additional action.",
+          "laymanExplanation": "Lender with lien on building may still lack claim to rent checks unless it took the required legal step.",
+          "legalExplanation": "NC 'lien' approach normally lets debtor collect rents while in possession; prior agent/receivership characterization disputed.",
+          "examApplication": "Separate loan balance, land collateral and accumulated rent fund.",
+          "examTrap": "Confusing equity in real estate with right to every income stream it generates."
+        },
+        {
+          "id": "bank-ch3-butner-e3",
+          "type": "rule",
+          "title": "Why no bankruptcy-only federal equitable lien",
+          "page": "Ch. 3 § B / Butner (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Court declined to create automatic federal mortgagee lien in rents simply because bankruptcy stay impeded mortgagee's state remedies.",
+          "laymanExplanation": "If bankruptcy prevents a foreclosure move, judge can allow equivalent relief rather than grant lender more rights than outside court.",
+          "legalExplanation": "A bankruptcy judge may sequester rents or authorize state law relief if proper, protecting substantive status quo.",
+          "examApplication": "In case compare outcome outside bankruptcy to proposed bankruptcy result.",
+          "examTrap": "Do not treat 'equity' as free authority to create new collateral."
+        },
+        {
+          "id": "bank-ch3-butner-e4",
+          "type": "rule",
+          "title": "Policy triad: certainty, forum shopping, no windfall",
+          "page": "Ch. 3 § B / Butner (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Matching state and federal treatment within one state makes parties' real estate security rights predictable and avoids lender gaining or losing substantive claims merely through insolvency forum.",
+          "laymanExplanation": "Rules for who owns rents should not flip when somebody files Chapter 7.",
+          "legalExplanation": "Federal uniform Bankruptcy Clause is compatible with incorporating divergent state property rules.",
+          "examApplication": "Write explicit policy sentence in Butner exam brief.",
+          "examTrap": "Federal uniformity does not necessarily require identical mortgage rights in every state."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch3-chicago-board",
+      "title": "B. Chicago Board of Trade v. Johnson — State Labels vs Federal Property",
+      "chapterGroup": "bank-ch3",
+      "description": "Full Supreme Court opinion on exchange seat, inherent member priority and worthless net estate value.",
+      "entries": [
+        {
+          "id": "bank-ch3-chicago-board-e1",
+          "type": "case",
+          "title": "Board of Trade of City of Chicago v. Johnson, 264 U.S. 1 (1924)",
+          "page": "Ch. 3 § B / Johnson opinion (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Membership is bankruptcy estate property notwithstanding state label, but trustee takes only debtor's interest burdened by inherent member-creditor obstruction/priority; claims of member creditors must be satisfied before estate realizes value. Supreme Court reversed lower courts.",
+          "laymanExplanation": "Federal bankruptcy law decides whether right constitutes property; applicable nonbankruptcy rules define the restricted interest and prior interests that burden estate's ability to sell.",
+          "legalExplanation": "Chief Justice Taft treated transferability/value as an incorporeal property interest despite Illinois label, as bankruptcy statute broad enough to include it. Yet exchange rules embedded existing creditor-members' right to object before transfer, akin to lien; objections after petition asserted preexisting right rather than newly created preference.",
+          "examApplication": "Distinguish 3 possible outcomes: excluded outright; included free-and-clear; included subject to member-creditor priority (actual holding).",
+          "examTrap": "Do not conclude seat outside estate simply because general estate receives $0 after members' >$60k claims.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in the uploaded Chapter 3",
+          "facts": "Bankrupt Henderson held Chicago Board of Trade seat worth $10,500. Illinois Supreme Court had labeled seat nonproperty and not judicially saleable; exchange rules allowed member to transfer seat only with directors' approval and after notice, and member creditors with over $60,000 claims could object. Objections lodged five days after bankruptcy petition. Lower courts ordered sale free of objections for general creditors.",
+          "issue": "Is exchange membership 'property' for federal bankruptcy despite Illinois nonproperty classification, and if so can trustee sell free of preexisting member-creditor restrictions?",
+          "holding": "Membership is bankruptcy estate property notwithstanding state label, but trustee takes only debtor's interest burdened by inherent member-creditor obstruction/priority; claims of member creditors must be satisfied before estate realizes value. Supreme Court reversed lower courts.",
+          "reasoning": "Chief Justice Taft treated transferability/value as an incorporeal property interest despite Illinois label, as bankruptcy statute broad enough to include it. Yet exchange rules embedded existing creditor-members' right to object before transfer, akin to lien; objections after petition asserted preexisting right rather than newly created preference.",
+          "rule": "Federal bankruptcy law decides whether right constitutes property; applicable nonbankruptcy rules define the restricted interest and prior interests that burden estate's ability to sell."
+        },
+        {
+          "id": "bank-ch3-chicago-board-e2",
+          "type": "rule",
+          "title": "A seat can be property even if state calls it privilege",
+          "page": "Ch. 3 § B / Johnson (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Transferable exchange membership with market value satisfies federal bankruptcy 'property' despite Illinois deeming not subject to judicial execution.",
+          "laymanExplanation": "Even an exclusive club membership can have sale value for estate if transferrable.",
+          "legalExplanation": "Federal classification is broad but respects underlying restrictions on transfers and admission.",
+          "examApplication": "Compare licensed alcohol permit, franchise or season ticket privilege based on degree of legal transfer rights.",
+          "examTrap": "Not a holding every revocable opportunity to renew is estate property."
+        },
+        {
+          "id": "bank-ch3-chicago-board-e3",
+          "type": "rule",
+          "title": "Member creditors' objections were inherent—not postpetition new liens",
+          "page": "Ch. 3 § B / Johnson (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "Rules gave existing right to block transfer unless member debts satisfied; member creditors exercised after petition without gaining new postpetition preference.",
+          "laymanExplanation": "The rule burdened seat before bankruptcy even if the objection letter arrived later.",
+          "legalExplanation": "Claim recognition draws substance from prepetition membership terms; trustee succeeds to restricted interest.",
+          "examApplication": "Distinguish postpetition assertion of preexisting right from impermissible postpetition creation of new lien.",
+          "examTrap": "Date an objection filed is not always date underlying priority first arose."
+        },
+        {
+          "id": "bank-ch3-chicago-board-e4",
+          "type": "rule",
+          "title": "Zero net value ≠ outside estate",
+          "page": "Ch. 3 § B / Johnson (syllabus pp.171–199)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), complete user-provided Chapter 3, A–B (Property of the Estate); Effross Fall 2026 syllabus general pp. 171–199",
+          "summary": "A seat worth $10,500 subject to member claims exceeding $60,000 still enters estate, but general estate may receive no distributable sale proceeds.",
+          "laymanExplanation": "It goes in the basket yet may add no money for general creditors.",
+          "legalExplanation": "Asset classification and valuation of debtor's net interest are analytically separate.",
+          "examApplication": "In exam list value, secured/member priority amounts and residual by party.",
+          "examTrap": "Do not say creditor-members own seat outright; they have enforceable restriction/priority."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
