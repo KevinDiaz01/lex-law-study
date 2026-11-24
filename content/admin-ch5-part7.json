@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+  "coverage": {
+    "includedPages": "344–353",
+    "syllabus": "Lubbers Fall 2026 V.C Regulatory Reform: Negotiated Rulemaking pp. 344–353; separately assigned Pritzker Canvas reading not present",
+    "sourceType": "Textbook excerpt of Lubbers and Funk; not judicial opinions"
+  },
+  "topics": [
+    {
+      "id": "admin-ch5-negotiated-rulemaking",
+      "title": "§ 5.9 — Negotiated Rulemaking: Lubbers and the NRA (pp. 344–347)",
+      "chapterGroup": "admin-ch5",
+      "description": "Consensus-based drafting under 5 USC §§ 561–570, notice-and-comment continuing duty, statutory suitability criteria and interests representation.",
+      "entries": [
+        {
+          "id": "admin-ch5-negotiated-rulemaking-e1",
+          "type": "rule",
+          "title": "Negotiated rulemaking defined (reg-neg)",
+          "page": "344–346",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Agency convenes neutral facilitated committee of representatives of significantly affected interests, including government, to seek consensus on proposed rule text before ordinary notice/comment.",
+          "laymanExplanation": "Instead of shouting into separate comment boxes, affected groups sit together and negotiate draft regulation.",
+          "legalExplanation": "Negotiated Rulemaking Act, 5 U.S.C. §§ 561–570, recognizes a pre-NPRM consultative step. Agency still controls final rulemaking obligations.",
+          "examApplication": "Place reg-neg before APA § 553 steps and explain final statutory accountability.",
+          "examTrap": "Consensus does not replace law, public notice, or court review."
+        },
+        {
+          "id": "admin-ch5-negotiated-rulemaking-e2",
+          "type": "rule",
+          "title": "Convenor and facilitator roles",
+          "page": "345–346",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Neutral convenors assess whether parties can negotiate; facilitator mediates committee dialogue; agency representative must be senior enough to commit to bargaining effectively.",
+          "laymanExplanation": "Neutral moderator keeps various industries, states and environmental groups talking.",
+          "legalExplanation": "Balanced committee and agency at table prevent one interest dominating; representation matters.",
+          "examApplication": "Ask whether committee's scope captures all materially affected parties.",
+          "examTrap": "Do not treat facilitator as agency decisionmaker."
+        },
+        {
+          "id": "admin-ch5-negotiated-rulemaking-e3",
+          "type": "rule",
+          "title": "NRA § 563(a) criteria for suitability",
+          "page": "345–346",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Consider manageable number of identifiable affected interests (generally 25 or fewer), fair/balanced committee, good faith/likelihood of consensus, no unreasonable delay, sufficient agency resources, and agency willingness to use consensus as proposed basis consistent with law.",
+          "laymanExplanation": "Works best with a manageable number of people who can bargain rather than an unlimited crowd.",
+          "legalExplanation": "The committee must represent affected public/private interests and be able to trade among multiple issues.",
+          "examApplication": "Checklist each criterion against new problem facts.",
+          "examTrap": "Reg-neg may fail if values irreconcilable or crucial constituencies absent."
+        },
+        {
+          "id": "admin-ch5-negotiated-rulemaking-e4",
+          "type": "rule",
+          "title": "Consensus is proposed text, not final agency law",
+          "page": "346–347",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Upon consensus, agency ordinarily issues agreed draft as NPRM, accepts comments, and then independently evaluates statutory authority and record before finalization.",
+          "laymanExplanation": "Everyone at the table agreed, but the rest of public still gets to comment and agency must decide.",
+          "legalExplanation": "§ 553 notice/comment and rule statutory validity persist; consultations are supplemental not substitute.",
+          "examApplication": "Where agency invokes agreement instead of reasons, spot possible arbitrary/capricious failure.",
+          "examTrap": "Agency promise cannot bind it to ignore later objections."
+        },
+        {
+          "id": "admin-ch5-negotiated-rulemaking-e5",
+          "type": "rule",
+          "title": "Why reg-neg may reduce litigation and improve rules",
+          "page": "345–347",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Dialogue reveals parties' priorities, unlocks creative tradeoffs, generates more complete information, avoids extreme adversarial positions and may improve compliance/acceptance.",
+          "laymanExplanation": "Everybody compromises on what matters most, making final rule more durable.",
+          "legalExplanation": "Lubbers acknowledges failed negotiation may still narrow points, produce data and prevent misunderstandings.",
+          "examApplication": "Compare usual comments-only system with multi-party cooperative exchange.",
+          "examTrap": "No guarantee of consensus or no later lawsuits."
+        },
+        {
+          "id": "admin-ch5-negotiated-rulemaking-e6",
+          "type": "rule",
+          "title": "Advantages versus costs and delay",
+          "page": "345–347",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Process may be counterproductive if committee negotiations fail or add months; agency must weigh resources, time pressure and legal deadlines.",
+          "laymanExplanation": "Talking first can save litigation, or waste time if no one will budge.",
+          "legalExplanation": "NRA suitability includes unlikely unreasonable delay.",
+          "examApplication": "Mention exit strategy after impasse.",
+          "examTrap": "Do not presume unanimous committee agreement is achievable."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch5-negotiated-critique",
+      "title": "§ 5.9 — Funk's Woodstove Critique, Public Interest and Group Capture (pp. 347–350)",
+      "chapterGroup": "admin-ch5",
+      "description": "Funk's excerpt alleging legality and democratic representation problem, contrasts Lubbers and traditional notice/comment.",
+      "entries": [
+        {
+          "id": "admin-ch5-negotiated-critique-e1",
+          "type": "concept",
+          "title": "William Funk: consensus may replace legal judgment with bargaining",
+          "page": "347–350",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Funk argues woodstove EPA rule's negotiated emissions limits reflected parties' relative bargaining power rather than independent statutory interpretation or science.",
+          "laymanExplanation": "A deal can satisfy groups at table yet be unauthorized by statute or bad for people not invited.",
+          "legalExplanation": "Commentary alleges Clean Air Act § 111 stationary-source law aimed at facility owners/operators, not consumer woodstove manufacturers and labels; negotiation may muffle fundamental legal objections.",
+          "examApplication": "Distinguish author's critique from binding judicial invalidation.",
+          "examTrap": "The woodstove controversy excerpt is an academic reading, not a court holding."
+        },
+        {
+          "id": "admin-ch5-negotiated-critique-e2",
+          "type": "concept",
+          "title": "Funk: weak statutory fit of consumer woodstove rules",
+          "page": "347–348",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Section 111 defined stationary sources as buildings, structures, facilities and installations with owner/operator obligations; EPA proposal targeted manufacturers/retailers of residential stoves and labeling, raising authority questions.",
+          "laymanExplanation": "A law about smoke-emitting facilities might not authorize government to regulate store-bought stoves' labeling.",
+          "legalExplanation": "Author posits that inside participants might overlook statutory boundaries to preserve bargain.",
+          "examApplication": "Begin with statutory delegation before celebrating consensus.",
+          "examTrap": "Do not assert Funk's interpretation was definitively adopted by a court."
+        },
+        {
+          "id": "admin-ch5-negotiated-critique-e3",
+          "type": "concept",
+          "title": "Funk: negotiated numerical emissions limits may be political bargains",
+          "page": "348–349",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Emission grams/hour may represent concessions among organized interests rather than scientific optimum, and preamble could obscure role of negotiation.",
+          "laymanExplanation": "Just because number looks technical doesn't mean science alone set it.",
+          "legalExplanation": "Funk questions whether rulemaking record accurately reveals central basis for final standards.",
+          "examApplication": "Ask if agency independently explains numbers using data/record.",
+          "examTrap": "Negotiation is not inherently illegal, but cannot replace statutory constraints."
+        },
+        {
+          "id": "admin-ch5-negotiated-critique-e4",
+          "type": "concept",
+          "title": "Weakly organized absent interests face representation deficits",
+          "page": "349–350",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Consumer Federation might fail to convey rural low-income woodstove users' interests; absence of lawsuits or comment does not prove fair distribution.",
+          "laymanExplanation": "Poor people who cannot attend negotiating table might bear costly effects.",
+          "legalExplanation": "Funk contrasts strongly organized industry/environmental advocates with diffuse consumers, possible capture.",
+          "examApplication": "Identify whose benefits/costs omitted, especially equity and representation.",
+          "examTrap": "An interest group's name does not guarantee it represents every subgroup."
+        },
+        {
+          "id": "admin-ch5-negotiated-critique-e5",
+          "type": "concept",
+          "title": "Funk concession: reg-neg can be useful when bounded",
+          "page": "349–350",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Funk acknowledges pragmatic value of agreed regulation but urges limits when fundamental public values or legality at stake.",
+          "laymanExplanation": "Negotiation helps settle technical details, but not all societal values should be traded away.",
+          "legalExplanation": "Book juxtaposes Lubbers's optimism and Funk's concerns; no single case law mandate to avoid reg-neg.",
+          "examApplication": "Explain which terms legally negotiable vs minimum statutory floor.",
+          "examTrap": "Do not frame Funk as opposing every use of negotiation."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch5-negotiated-judicial-review",
+      "title": "§ 5.9 Notes — NRA Judicial Review, Consensus and Reneging (pp. 350–353)",
+      "chapterGroup": "admin-ch5",
+      "description": "U.S. Group Loan Services, §570 judicial review parity, committee issue choice, assigned FIFRA pesticide problem.",
+      "entries": [
+        {
+          "id": "admin-ch5-negotiated-judicial-review-e1",
+          "type": "rule",
+          "title": "NRA § 570: no special judicial deference to negotiated rules",
+          "page": "351",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Rule produced by negotiated rulemaking receives no greater judicial deference than rule generated through other rulemaking methods.",
+          "laymanExplanation": "A handshake deal isn't a shield against court challenge.",
+          "legalExplanation": "Agency must independently satisfy authority, reasoned explanation and ordinary APA rules; court examines as usual.",
+          "examApplication": "Even if all negotiators endorsed, court can review omitted relevant factors or inadequate explanations.",
+          "examTrap": "Judicial review of negotiated rule not automatically more deferential."
+        },
+        {
+          "id": "admin-ch5-negotiated-judicial-review-e2",
+          "type": "case",
+          "title": "USA Group Loan Services, Inc. v. Riley, 82 F.3d 708 (7th Cir. 1996)",
+          "page": "351–352",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Education Department official promised to follow negotiated consensus absent compelling reasons, then agency departed. Court held NRA did not make that promise enforceable and suggested binding industry accord could improperly abdicate agency responsibility.",
+          "laymanExplanation": "Agency may change its mind after public comments; committee can't force rule into law.",
+          "legalExplanation": "Posner emphasized optional consultative negotiation preceding formal APA rulemaking; no enforceable right to final consensus.",
+          "examApplication": "Compare reliance/good faith promise to statutory obligation to consider general public.",
+          "examTrap": "Do not claim any disappointed negotiator necessarily gets damages or invalidity.",
+          "assignedOpinion": false,
+          "sourceRole": "Case described in Notes and Questions; full opinion not reproduced"
+        },
+        {
+          "id": "admin-ch5-negotiated-judicial-review-e3",
+          "type": "rule",
+          "title": "Committee consensus promise cannot extinguish later public comment",
+          "page": "351–352",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Agency remains free and obliged to consider new public comments and change course from negotiated draft, even where officials verbally committed to agreement.",
+          "laymanExplanation": "Negotiators cannot bargain away public's right to shape law.",
+          "legalExplanation": "USA Group held an agency pledge to adhere to consensus without reconsidering may amount to improper delegated discretion.",
+          "examApplication": "If agency departs after NPRM, examine reasoning, not presumed breach of enforceable contract.",
+          "examTrap": "Reg-neg is not private contractual rulemaking."
+        },
+        {
+          "id": "admin-ch5-negotiated-judicial-review-e4",
+          "type": "concept",
+          "title": "Why reg-neg remains rare",
+          "page": "352",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Commentators say agencies resist losing policy control, costs/delays and difficulty selecting suitable issues/representatives; Lubbers observed limited expansion despite theoretical benefits.",
+          "laymanExplanation": "Negotiating may look attractive but agency leaders fear losing control.",
+          "legalExplanation": "Both Funk and Lubbers discuss obstacles; no legal requirement to use technique in ordinary rulemaking.",
+          "examApplication": "",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch5-negotiated-judicial-review-e5",
+          "type": "concept",
+          "title": "DOT disabled passenger seat and restroom negotiations",
+          "page": "350–351",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026)",
+          "summary": "Early airline disability access committee successfully worked on some restroom and employee-training issues but other safety-sensitive exit-row questions resisted agreement.",
+          "laymanExplanation": "Some practical compromises possible, some core safety choices don't lend themselves to trades.",
+          "legalExplanation": "Book presents as problem for group suitability, not full case.",
+          "examApplication": "",
+          "examTrap": ""
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch5-cont7-p1",
+      "topicId": "admin-ch5-negotiated-rulemaking",
+      "title": "Reg-neg suitability checklist",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026) (p. 345–346)",
+      "prompt": "Can a rule with 40 competing, politically entrenched interests and hard statutory deadline satisfy NRA's suitability criteria? What role for the convenor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-cont7-p2",
+      "topicId": "admin-ch5-negotiated-rulemaking",
+      "title": "Negotiated rule as proposed regulation",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026) (p. 346–347)",
+      "prompt": "After consensus, why must agency still conduct NPRM, consider subsequent comments, comply with enabling law and give reasons?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-cont7-p3",
+      "topicId": "admin-ch5-negotiated-critique",
+      "title": "Funk versus Lubbers woodstove problem",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026) (p. 347–350)",
+      "prompt": "Does the prospect of consensus among EPA, stove makers and environmentalists offset potential lack of statutory authority, scientific misfit and absent rural poor? Evaluate both approaches.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-cont7-p4",
+      "topicId": "admin-ch5-negotiated-critique",
+      "title": "Scientific emissions limit versus bargaining",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026) (p. 348–350)",
+      "prompt": "If a draft limit uses grams/hour negotiated among committee members, what evidence and explanations should agency put in NPRM and final rule?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-cont7-p5",
+      "topicId": "admin-ch5-negotiated-judicial-review",
+      "title": "NRA § 570 review equality",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026) (p. 351)",
+      "prompt": "Should negotiated rule receive more deferential judicial review because all bargaining parties consented? What exactly should court review under §570?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-cont7-p6",
+      "topicId": "admin-ch5-negotiated-judicial-review",
+      "title": "USA Group reneging on committee agreement",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026) (p. 351–352)",
+      "prompt": "If agency proposes text departing from consensus after promising adherence, is there enforceable agreement? Explore public notice/comment, statutory discretion and institutional credibility.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch5-cont7-p7",
+      "topicId": "admin-ch5-negotiated-judicial-review",
+      "title": "FIFRA emergency pesticide exemptions / Farm Bureau — major textbook problem",
+      "kind": "Textbook Problem 8 — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), § 5.9 Negotiated Rulemaking, pp. 344–353 (uploaded Nov. 24, 2026) (p. 352–353)",
+      "prompt": "EPA negotiated emergency exemption rules under FIFRA §18 with environmental, state, agricultural, manufacturer, USDA and EPA committee. Consensus defined 'significant economic loss' solely as reduced crop yields; American Farm Bureau signed deal but later commented that real overall profits harmed by cosmetic apple spotting should count. EPA rejected criticism mainly because committee had agreed and broad support existed. Assess adequacy of independent statutory interpretation, response to significant comment, record reasoning and NRA § 570 judicial parity; leave outcome unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
