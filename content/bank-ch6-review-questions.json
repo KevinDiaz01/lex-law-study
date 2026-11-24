@@ -1,0 +1,1274 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+  "coverage": {
+    "chapter": 6,
+    "scope": "36 paraphrased textbook numbered questions for Rash/Till/Wright/Dewsnup/Hartford plus supplementary exam questions; original Problems6.1–6.4 remain in six source-part files and unsolved",
+    "casebookQuestions": 36,
+    "extraReview": 90
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch6-bookq-001",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 1 — Identify the precise Supreme Court valuation dispute in",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Identify the precise Supreme Court valuation dispute in Rash: foreclosure, replacement or midpoint in Chapter 13 retention.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-002",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 2 — What §§506(a) and 1325(a)(5)(B) texts must court constr",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What §§506(a) and 1325(a)(5)(B) texts must court construe to resolve Rash?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-003",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 3 — Why would choice of truck valuation change how much sec",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why would choice of truck valuation change how much secured lender and unsecured creditors recover?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-004",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 4 — What truck value did Rashes propose, from which valuati",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What truck value did Rashes propose, from which valuation theory, and what statutory/practical reasons supported that choice?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-005",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 5 — What truck value did ACC advocate, using which standard",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What truck value did ACC advocate, using which standard, and what text/economic arguments favored it?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-006",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 6 — What midpoint approach had Seventh Circuit followed and",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What midpoint approach had Seventh Circuit followed and why? Explain bilateral monopoly bargaining and game-of-chicken analogy.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-007",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 7 — What standard did Rash majority ultimately adopt for re",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What standard did Rash majority ultimately adopt for retained collateral under Chapter13 cramdown?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-008",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 8 — Reconstruct Rash majority's statutory reasoning as dist",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Reconstruct Rash majority's statutory reasoning as distinct from practical policy arguments.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-009",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 9 — Why did 'creditor's interest' in first §506(a) sentence",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why did 'creditor's interest' in first §506(a) sentence not mandate foreclosure appraisal, and what role did second sentence play?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-010",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 10 — Why did Rash reject splitting foreclosure and replaceme",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why did Rash reject splitting foreclosure and replacement values at the midpoint as a fixed legal formula?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-011",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 11 — What are Rash majority's two risks to lender when colla",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What are Rash majority's two risks to lender when collateral retained, and how did Justice Stevens respond?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-012",
+      "topicId": "bank-ch6-rash",
+      "title": "Textbook question 12 — Does Rash footnote6 weaken replacement-value holding? W",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Does Rash footnote6 weaken replacement-value holding? Which retail add-ons could be removed, and why did adjusted calculations resemble midpoint?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-013",
+      "topicId": "bank-ch6-till",
+      "title": "Textbook question 13 — Do risky promised payments need a risk premium to satis",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Do risky promised payments need a risk premium to satisfy §1325 present-value rule, and how does Thomas's concurrence differ?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-014",
+      "topicId": "bank-ch6-till",
+      "title": "Textbook question 14 — After Till, assess formula rate, presumptive contract r",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "After Till, assess formula rate, presumptive contract rate, coerced-loan market rate, cost-of-funds method and risk-free rate. Which opinion supports each?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-015",
+      "topicId": "bank-ch6-till",
+      "title": "Textbook question 15 — Why did Stevens plurality downplay comparable new loan ",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why did Stevens plurality downplay comparable new loan market evidence even though it acknowledged equivalent risk/time opportunity cost? What did dissent say?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-016",
+      "topicId": "bank-ch6-till",
+      "title": "Textbook question 16 — Which method—prime-plus or contract presumption—would r",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Which method—prime-plus or contract presumption—would require less litigation, and may local court fix default prime-premium without case-specific proof?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-017",
+      "topicId": "bank-ch6-till",
+      "title": "Textbook question 17 — How did Stevens use §1325(a)(6) feasibility: refuse ris",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How did Stevens use §1325(a)(6) feasibility: refuse risky plans or permit artificially modest cramdown interest to help plans succeed?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-018",
+      "topicId": "bank-ch6-till",
+      "title": "Textbook question 18 — Compare 21% original rate to 9.5% plan rate for SCS: wh",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Compare 21% original rate to 9.5% plan rate for SCS: whose economic perspective should set 'forced loan' amount and how do Rash, Thomas and Scalia influence it?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-019",
+      "topicId": "bank-ch6-wright",
+      "title": "Textbook question 19 — Assuming Wright controls, what must the debtors' Chapte",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Assuming Wright controls, what must the debtors' Chapter13 plan do with deficiency left after surrendering their 910 vehicle?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-020",
+      "topicId": "bank-ch6-wright",
+      "title": "Textbook question 20 — Beyond debtors, whose recovery is reduced by Wright's d",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Beyond debtors, whose recovery is reduced by Wright's decision to let car lender file an unsecured deficiency?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-021",
+      "topicId": "bank-ch6-wright",
+      "title": "Textbook question 21 — Does Easterbrook's approach make §506(a) unnecessary? W",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Does Easterbrook's approach make §506(a) unnecessary? What independent work does it perform?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-022",
+      "topicId": "bank-ch6-wright",
+      "title": "Textbook question 22 — Is reliance on Butner and state-law recourse persuasive",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Is reliance on Butner and state-law recourse persuasive when federal Chapter13 claim allowance/treatment is central issue?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-023",
+      "topicId": "bank-ch6-wright",
+      "title": "Textbook question 23 — Can hanging paragraph exclude §506 in retention but pre",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Can hanging paragraph exclude §506 in retention but preserve de facto bifurcation in surrender, despite statutory application to both §1325(a)(5)(B) and (C)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-024",
+      "topicId": "bank-ch6-wright",
+      "title": "Textbook question 24 — What statutory text, if any, does Wright attribute to h",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What statutory text, if any, does Wright attribute to hanging paragraph during surrender, and was appeal to section title appropriate without finding ambiguity?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-025",
+      "topicId": "bank-ch6-dewsnup",
+      "title": "Textbook question 25 — List every major Dewsnup majority reason for declining ",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "List every major Dewsnup majority reason for declining to strip Chapter7 lien under §506(d), including text, history, property appreciation and policy.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-026",
+      "topicId": "bank-ch6-dewsnup",
+      "title": "Textbook question 26 — Is it plausible §506 phrase 'allowed secured claim' mea",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Is it plausible §506 phrase 'allowed secured claim' means different things in adjacent §506(a) and §506(d)? Reconstruct Scalia critique.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-027",
+      "topicId": "bank-ch6-dewsnup",
+      "title": "Textbook question 27 — Why does secured lender fear a lien reduction to $39k i",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why does secured lender fear a lien reduction to $39k if collateral is currently worth only $39k?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-028",
+      "topicId": "bank-ch6-dewsnup",
+      "title": "Textbook question 28 — Does Dewsnup favor debtors, secured lenders, or general",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Does Dewsnup favor debtors, secured lenders, or general unsecured claimants, and how does later appreciation affect this?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-029",
+      "topicId": "bank-ch6-dewsnup",
+      "title": "Textbook question 29 — Does Dewsnup's Chapter7 interpretation bar statutory pl",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Does Dewsnup's Chapter7 interpretation bar statutory plan cramdown in Chapter11/12/13?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-030",
+      "topicId": "bank-ch6-dewsnup",
+      "title": "Textbook question 30 — If §506(d) automatically reduced liens to collateral va",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "If §506(d) automatically reduced liens to collateral value, why would §722 redemption still matter? Compare dissent's response.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-031",
+      "topicId": "bank-ch6-dewsnup",
+      "title": "Textbook question 31 — What did Scalia mean by saying bankruptcy statute has l",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What did Scalia mean by saying bankruptcy statute has little to do with 'natural justice', and why does this matter to statutory interpretation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-032",
+      "topicId": "bank-ch6-hartford",
+      "title": "Textbook question 32 — If trustee refuses a seemingly meritorious §506(c) surc",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "If trustee refuses a seemingly meritorious §506(c) surcharge, what alternate route (if any) might an administrative claimant attempt, and what did Hartford expressly reserve?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-033",
+      "topicId": "bank-ch6-hartford",
+      "title": "Textbook question 33 — Would denying individual insurer the ability to recover",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Would denying individual insurer the ability to recover from collateral let a secured bank benefit unfairly? Analyze competing interests without resolving for source problem.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-034",
+      "topicId": "bank-ch6-hartford",
+      "title": "Textbook question 34 — Should unsecured vendor who chose to deal with debtor b",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Should unsecured vendor who chose to deal with debtor be able to demand payment from separate secured bank when debtor is insolvent?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-035",
+      "topicId": "bank-ch6-hartford",
+      "title": "Textbook question 35 — Is Hartford ultimately about standing or who receives f",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Is Hartford ultimately about standing or who receives funds from trustee's §506(c) recovery? What did Supreme Court leave unresolved?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-bookq-036",
+      "topicId": "bank-ch6-hartford",
+      "title": "Textbook question 36 — If Hartford itself had standing, what direct-benefit or",
+      "kind": "Chapter 6 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "If Hartford itself had standing, what direct-benefit or consent merits arguments might succeed or fail under casebook's §506(c) principles?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-001",
+      "topicId": "bank-ch6-secured-basics",
+      "title": "Exam review 1 — Construct four-step test for allowed secured claim incl",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Construct four-step test for allowed secured claim including validity/avoidability and secured collateral value.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-002",
+      "topicId": "bank-ch6-secured-basics",
+      "title": "Exam review 2 — Compare §101(51) consensual security interest, §101(36)",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Compare §101(51) consensual security interest, §101(36) judicial lien and §101(53) statutory lien with one example each.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-003",
+      "topicId": "bank-ch6-secured-basics",
+      "title": "Exam review 3 — Describe how §553 setoff and §506(a)(1) can render mutu",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Describe how §553 setoff and §506(a)(1) can render mutual bank debts secured.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-004",
+      "topicId": "bank-ch6-secured-basics",
+      "title": "Exam review 4 — Explain why filing proof and ride-through of in rem lie",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Explain why filing proof and ride-through of in rem lien are legally distinct.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-005",
+      "topicId": "bank-ch6-secured-basics",
+      "title": "Exam review 5 — Debtor has car with lien but personally discharged—what",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Debtor has car with lien but personally discharged—what can lender still collect and against what property?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-006",
+      "topicId": "bank-ch6-secured-basics",
+      "title": "Exam review 6 — What seven methods does Chapter6 list for realizing sec",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What seven methods does Chapter6 list for realizing secured collateral value?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-007",
+      "topicId": "bank-ch6-secured-basics",
+      "title": "Exam review 7 — Identify why §361 adequate protection substitutes for f",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Identify why §361 adequate protection substitutes for foreclosure during automatic stay.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-008",
+      "topicId": "bank-ch6-secured-basics",
+      "title": "Exam review 8 — Does secured status always require creditor to be paid ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Does secured status always require creditor to be paid full FACE amount? Explain collateral limitation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-009",
+      "topicId": "bank-ch6-problem-6-1",
+      "title": "Exam review 9 — For Chapter7 distribution problem list each asset's lie",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "For Chapter7 distribution problem list each asset's liens in order of seniority and any claimed exemption before adding distributable estate pool.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-010",
+      "topicId": "bank-ch6-problem-6-1",
+      "title": "Exam review 10 — If house has first and second mortgages whose combined ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "If house has first and second mortgages whose combined face amount exceeds sale price, which claim is junior and how do you calculate secured recovery without giving answer to 6.1?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-011",
+      "topicId": "bank-ch6-problem-6-1",
+      "title": "Exam review 11 — Why should debtor's claimed exemption in a home not aut",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why should debtor's claimed exemption in a home not automatically defeat the first mortgage?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-012",
+      "topicId": "bank-ch6-problem-6-1",
+      "title": "Exam review 12 — When collateral proceeds fail to cover junior mortgage ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "When collateral proceeds fail to cover junior mortgage debt, how would creditor's remaining claim be categorized?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-013",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Exam review 13 — How does $10k collateral and $6k senior lien change sup",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How does $10k collateral and $6k senior lien change support for junior lien? Set up formula without solving 6.2(b).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-014",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Exam review 14 — Why can't court assume nondebtor sibling's ownership is",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why can't court assume nondebtor sibling's ownership is entirely estate property in 6.2(c)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-015",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Exam review 15 — What is relevant time for postpetition interest on 10% ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What is relevant time for postpetition interest on 10% note vs judgment in 6.2(d/e)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-016",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Exam review 16 — How does $20k collateral compared with $15k collateral ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How does $20k collateral compared with $15k collateral affect postpetition interest entitlement when principal $14k?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-017",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Exam review 17 — When creditor owes debtor a $10k deposit and debtor owe",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "When creditor owes debtor a $10k deposit and debtor owes $14k loan, what mutuality and setoff questions arise?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-018",
+      "topicId": "bank-ch6-problem-6-3",
+      "title": "Exam review 18 — Identify difference between bankruptcy filing as contra",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Identify difference between bankruptcy filing as contractual default and automatic stay on repossession.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-019",
+      "topicId": "bank-ch6-problem-6-3",
+      "title": "Exam review 19 — Explain why Chapter7 statement 'keep paying' may not sa",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Explain why Chapter7 statement 'keep paying' may not satisfy intention requirements to redeem or reaffirm.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-020",
+      "topicId": "bank-ch6-problem-6-3",
+      "title": "Exam review 20 — How can claiming entire vehicle exempt versus leaving e",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How can claiming entire vehicle exempt versus leaving equity nonexempt change trustee's stake in car?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-021",
+      "topicId": "bank-ch6-problem-6-3",
+      "title": "Exam review 21 — Write issue checklist under §§362(h),521(a)(2),(a)(6),(",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Write issue checklist under §§362(h),521(a)(2),(a)(6),(d) without resolving 6.3(a/b).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-022",
+      "topicId": "bank-ch6-valuation-506a",
+      "title": "Exam review 22 — What work does §506(a)'s proposed disposition or use se",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What work does §506(a)'s proposed disposition or use sentence perform?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-023",
+      "topicId": "bank-ch6-valuation-506a",
+      "title": "Exam review 23 — If property will be retained for operations, why might ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "If property will be retained for operations, why might foreclosure proceeds undervalue actual use?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-024",
+      "topicId": "bank-ch6-valuation-506a",
+      "title": "Exam review 24 — Can replacement value be less than liquidation price? U",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Can replacement value be less than liquidation price? Use Sunnyslope concept.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-025",
+      "topicId": "bank-ch6-valuation-506a",
+      "title": "Exam review 25 — Why can senior liens and coownership affect secured EXT",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why can senior liens and coownership affect secured EXTENT regardless of valuation STANDARD?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-026",
+      "topicId": "bank-ch6-rash",
+      "title": "Exam review 26 — Separate Rash's 1997 holding from 2005 §506(a)(2) amend",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Separate Rash's 1997 holding from 2005 §506(a)(2) amendments.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-027",
+      "topicId": "bank-ch6-rash",
+      "title": "Exam review 27 — Explain how the term 'creditor's interest' can refer to",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Explain how the term 'creditor's interest' can refer to junior liens rather than sale price.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-028",
+      "topicId": "bank-ch6-rash",
+      "title": "Exam review 28 — Explain why direct payment to secured creditor plus con",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Explain why direct payment to secured creditor plus continued car use may yield double risks, and dissent's response.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-029",
+      "topicId": "bank-ch6-valuation-506a2",
+      "title": "Exam review 29 — Which four conditions trigger consumer-retail valuation",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Which four conditions trigger consumer-retail valuation under second sentence §506(a)(2)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-030",
+      "topicId": "bank-ch6-valuation-506a2",
+      "title": "Exam review 30 — Which conditions trigger business-use replacement valua",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Which conditions trigger business-use replacement valuation under first sentence §506(a)(2)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-031",
+      "topicId": "bank-ch6-valuation-506a2",
+      "title": "Exam review 31 — Why is a Chapter11 company's truck valued under Rash §5",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why is a Chapter11 company's truck valued under Rash §506(a)(1), not individual-Ch7 retail rule?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-032",
+      "topicId": "bank-ch6-valuation-506a2",
+      "title": "Exam review 32 — If retailer lists used car for $15k including $500 mark",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "If retailer lists used car for $15k including $500 marketing and $1k warranties, what components of valuation might differ by acquisition purpose?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-033",
+      "topicId": "bank-ch6-valuation-506a2",
+      "title": "Exam review 33 — What effect does §506(a)(2) have on §722 redemption as ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What effect does §506(a)(2) have on §722 redemption as well as §1325 cramdown?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-034",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Exam review 34 — Decision tree for six original Suburban scenarios: chap",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Decision tree for six original Suburban scenarios: chapter, personal/business use, 910 days and valuation statute.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-035",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Exam review 35 — What happens to 910-day window when car purchase is May",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What happens to 910-day window when car purchase is May1 2018 but filing is May1 2020 versus May1 2021?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-036",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Exam review 36 — Is loan's $18k remaining amount relevant for both non-9",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Is loan's $18k remaining amount relevant for both non-910 and 910 Chapter13 plan retention?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-037",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Exam review 37 — Why is §722 relief analysis a separate statutory questi",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why is §722 relief analysis a separate statutory question from how much collateral is worth?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-038",
+      "topicId": "bank-ch6-problem-6-4",
+      "title": "Exam review 38 — How would business use versus family use change §506(a)",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How would business use versus family use change §506(a)(2) treatment?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-039",
+      "topicId": "bank-ch6-sunnyslope",
+      "title": "Exam review 39 — How can property be worth $7m at foreclosure but only $",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How can property be worth $7m at foreclosure but only $3.9m under continued regulated affordable housing operation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-040",
+      "topicId": "bank-ch6-sunnyslope",
+      "title": "Exam review 40 — Does §506(a)(1) require hypothetical foreclosure-value ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Does §506(a)(1) require hypothetical foreclosure-value FLOOR if debtor keeps property for restricted use?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-041",
+      "topicId": "bank-ch6-sunnyslope",
+      "title": "Exam review 41 — What did the 8–3 Sunnyslope en banc majority versus dis",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What did the 8–3 Sunnyslope en banc majority versus dissent value and why?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-042",
+      "topicId": "bank-ch6-present-value",
+      "title": "Exam review 42 — Compute conceptual present value of $1,000 due in one y",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Compute conceptual present value of $1,000 due in one year when discount rate 10% using PV=FV/(1+r).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-043",
+      "topicId": "bank-ch6-present-value",
+      "title": "Exam review 43 — What is difference between setting allowed secured prin",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What is difference between setting allowed secured principal and calculating interest on plan installments?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-044",
+      "topicId": "bank-ch6-present-value",
+      "title": "Exam review 44 — Write level-payment annuity formula for an amortizing d",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Write level-payment annuity formula for an amortizing debt and identify rate, number of periods and principal.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-045",
+      "topicId": "bank-ch6-present-value",
+      "title": "Exam review 45 — Why does a nominal stream summing to principal fail cre",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why does a nominal stream summing to principal fail creditor present value requirement if delayed?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-046",
+      "topicId": "bank-ch6-present-value",
+      "title": "Exam review 46 — Describe each of four interest approaches litigated in ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Describe each of four interest approaches litigated in Till and its economic benchmark.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-047",
+      "topicId": "bank-ch6-present-value",
+      "title": "Exam review 47 — What factors help a court decide debtor-specific risk a",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What factors help a court decide debtor-specific risk adjustment and plan feasibility?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-048",
+      "topicId": "bank-ch6-till",
+      "title": "Exam review 48 — Explain Till no-single-majority votes and why Thomas's ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Explain Till no-single-majority votes and why Thomas's reasoning differs from Stevens.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-049",
+      "topicId": "bank-ch6-till",
+      "title": "Exam review 49 — Calculate factual Till 8% prime +1.5% risk; why not aut",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Calculate factual Till 8% prime +1.5% risk; why not automatically use this exact percentage today?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-050",
+      "topicId": "bank-ch6-till",
+      "title": "Exam review 50 — Compare lender's original 21% credit terms and objectiv",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Compare lender's original 21% credit terms and objectively set interest rate.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-051",
+      "topicId": "bank-ch6-till",
+      "title": "Exam review 51 — How do collateral depreciation, default likelihood, liq",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How do collateral depreciation, default likelihood, liquidity and enforcement cost affect Scalia's argument?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-052",
+      "topicId": "bank-ch6-till",
+      "title": "Exam review 52 — Explain under Stevens why lender profits and originatio",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Explain under Stevens why lender profits and origination costs may overstate proper cramdown rate.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-053",
+      "topicId": "bank-ch6-till",
+      "title": "Exam review 53 — What does Thomas mean by distinguishing value of 'prope",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What does Thomas mean by distinguishing value of 'property' to be distributed from a risky 'promise' to pay?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-054",
+      "topicId": "bank-ch6-bifurcation",
+      "title": "Exam review 54 — Debt $20k secured by collateral $15k: illustrate secure",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Debt $20k secured by collateral $15k: illustrate secured portion and unsecured deficiency as generic course illustration.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-055",
+      "topicId": "bank-ch6-bifurcation",
+      "title": "Exam review 55 — How does normal reorganization bifurcation differ from ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How does normal reorganization bifurcation differ from inability to strip down recent 910 PMSI car?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-056",
+      "topicId": "bank-ch6-bifurcation",
+      "title": "Exam review 56 — What is difference between 'stripdown' of claim and 'st",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What is difference between 'stripdown' of claim and 'stripoff' of worthless junior lien?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-057",
+      "topicId": "bank-ch6-principal-home",
+      "title": "Exam review 57 — When does §1322(b)(2) protect partially secured princip",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "When does §1322(b)(2) protect partially secured principal residence mortgage from modification?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-058",
+      "topicId": "bank-ch6-principal-home",
+      "title": "Exam review 58 — Why may completely valueless second lien be treated dif",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why may completely valueless second lien be treated differently under book's Chapter13 discussion?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-059",
+      "topicId": "bank-ch6-principal-home",
+      "title": "Exam review 59 — How would home worth $80k with $85k first mortgage and ",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How would home worth $80k with $85k first mortgage and $20k second mortgage be analyzed at a conceptual level?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-060",
+      "topicId": "bank-ch6-hanging-paragraph",
+      "title": "Exam review 60 — State PMSI, 910-day, personal use, Chapter13 conditions",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "State PMSI, 910-day, personal use, Chapter13 conditions that bar ordinary stripdown.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-061",
+      "topicId": "bank-ch6-hanging-paragraph",
+      "title": "Exam review 61 — What separate one-year rule covers certain nonmotor veh",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What separate one-year rule covers certain nonmotor vehicle property?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-062",
+      "topicId": "bank-ch6-hanging-paragraph",
+      "title": "Exam review 62 — Why does treating 910 vehicle as fully secured on reten",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why does treating 910 vehicle as fully secured on retention create counterintuitive treatment on surrender?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-063",
+      "topicId": "bank-ch6-hanging-paragraph",
+      "title": "Exam review 63 — Identify statutory interpretation dispute between surre",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Identify statutory interpretation dispute between surrender full satisfaction and state-law recourse deficiency.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-064",
+      "topicId": "bank-ch6-wright",
+      "title": "Exam review 64 — Give lender-side and debtor-side arguments about post-s",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Give lender-side and debtor-side arguments about post-surrender recourse deficiency.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-065",
+      "topicId": "bank-ch6-wright",
+      "title": "Exam review 65 — Why did Wright reject idea §506 itself creates all cont",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why did Wright reject idea §506 itself creates all contract/lien rights?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-066",
+      "topicId": "bank-ch6-wright",
+      "title": "Exam review 66 — Explain casebook's 'heads I win, tails you lose' critic",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Explain casebook's 'heads I win, tails you lose' criticism of 910 lender result.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-067",
+      "topicId": "bank-ch6-wright",
+      "title": "Exam review 67 — How does Butner preservation of state law interact with",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How does Butner preservation of state law interact with congressional bankruptcy-specific purposes?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-068",
+      "topicId": "bank-ch6-chapter7-liens",
+      "title": "Exam review 68 — Why can't most Chapter7 debtors force a lender into ins",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why can't most Chapter7 debtors force a lender into installment plan and keep collateral?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-069",
+      "topicId": "bank-ch6-chapter7-liens",
+      "title": "Exam review 69 — Compare §722 cash redemption with §524(c) reaffirmation",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Compare §722 cash redemption with §524(c) reaffirmation under source conditions.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-070",
+      "topicId": "bank-ch6-chapter7-liens",
+      "title": "Exam review 70 — How does §524 discharge differ from §506(d) lien avoida",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How does §524 discharge differ from §506(d) lien avoidance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-071",
+      "topicId": "bank-ch6-dewsnup",
+      "title": "Exam review 71 — Explain why Dewsnup preserved opportunity for collatera",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Explain why Dewsnup preserved opportunity for collateral appreciation after Chapter7 despite §506(a) undersecured classification.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-072",
+      "topicId": "bank-ch6-dewsnup",
+      "title": "Exam review 72 — Explain Scalia's 'one-subsection-at-a-time' textual cri",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Explain Scalia's 'one-subsection-at-a-time' textual criticism.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-073",
+      "topicId": "bank-ch6-dewsnup",
+      "title": "Exam review 73 — Why does Dewsnup not eliminate Chapters11–13 plan confi",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why does Dewsnup not eliminate Chapters11–13 plan confirmation protections for secured creditors?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-074",
+      "topicId": "bank-ch6-oversecured-506b",
+      "title": "Exam review 74 — What is an equity cushion and how does it affect §506(b",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What is an equity cushion and how does it affect §506(b) postpetition interest?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-075",
+      "topicId": "bank-ch6-oversecured-506b",
+      "title": "Exam review 75 — If principal $14k with collateral $15k and note accrues",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "If principal $14k with collateral $15k and note accrues 10% one year, what must you compare before treating interest as secured?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-076",
+      "topicId": "bank-ch6-oversecured-506b",
+      "title": "Exam review 76 — Why does statutory judgment interest raise a question s",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why does statutory judgment interest raise a question similar to contractual interest in §506(b)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-077",
+      "topicId": "bank-ch6-oversecured-506b",
+      "title": "Exam review 77 — What is distinction between accrued postpetition §506(b",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What is distinction between accrued postpetition §506(b) interest and plan-present-value Till rate?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-078",
+      "topicId": "bank-ch6-surcharge-506c",
+      "title": "Exam review 78 — List each condition for §506(c) surcharge of lender's p",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "List each condition for §506(c) surcharge of lender's pledged property.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-079",
+      "topicId": "bank-ch6-surcharge-506c",
+      "title": "Exam review 79 — How is trustee's direct collateral auction expense diff",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How is trustee's direct collateral auction expense different from broad attempted business rehabilitation cost?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-080",
+      "topicId": "bank-ch6-surcharge-506c",
+      "title": "Exam review 80 — If secured creditor expressly consents to estate paying",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "If secured creditor expressly consents to estate paying specific expense from collateral, how does consent matter?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-081",
+      "topicId": "bank-ch6-surcharge-506c",
+      "title": "Exam review 81 — Why might allowing all administration claimants to surc",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why might allowing all administration claimants to surcharge collateral undermine secured priority?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-082",
+      "topicId": "bank-ch6-hartford",
+      "title": "Exam review 82 — Why didn't $50k unpaid insurance premiums enable Hartfo",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Why didn't $50k unpaid insurance premiums enable Hartford to sue bank directly under §506(c)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-083",
+      "topicId": "bank-ch6-hartford",
+      "title": "Exam review 83 — What different phrases in §§506(c),502(a),503(b)(4) sup",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What different phrases in §§506(c),502(a),503(b)(4) supported exclusivity argument?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-084",
+      "topicId": "bank-ch6-hartford",
+      "title": "Exam review 84 — Which merits and derivative-action questions did Suprem",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Which merits and derivative-action questions did Supreme Court deliberately decline to resolve?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-085",
+      "topicId": "bank-ch6-hartford",
+      "title": "Exam review 85 — What policy problems could allowing 100 independent ven",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What policy problems could allowing 100 independent vendors sue secured lenders create?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-086",
+      "topicId": "bank-ch6-hartford",
+      "title": "Exam review 86 — What alternatives should insured vendor consider to avo",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "What alternatives should insured vendor consider to avoid going unpaid postpetition?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-087",
+      "topicId": "bank-ch6-chapter6-exam-map",
+      "title": "Exam review 87 — Draft 5-step issue map: allow claim, recognize lien, va",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Draft 5-step issue map: allow claim, recognize lien, value collateral, decide chapter-specific recovery, apply lien surcharge.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-088",
+      "topicId": "bank-ch6-chapter6-exam-map",
+      "title": "Exam review 88 — Which case answers replacement value, which answers pla",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Which case answers replacement value, which answers plan rate, which handles 910 surrender, which governs Chapter7 stripdown and which limits §506(c) standing?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-089",
+      "topicId": "bank-ch6-chapter6-exam-map",
+      "title": "Exam review 89 — Use §506(a), §506(b), §506(c) and §506(d) to explain di",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "Use §506(a), §506(b), §506(c) and §506(d) to explain different functions with no overlapping synonyms.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-review-090",
+      "topicId": "bank-ch6-chapter6-exam-map",
+      "title": "Exam review 90 — How might an exam combine setoff, exemptions, senior li",
+      "kind": "Chapter 6 supplemental review — UNSOLVED",
+      "source": "Chapter 6 Secured Claims—paraphrased textbook Questions following Rash, Till, Wright, Dewsnup and Hartford (unanswered); source: user's full uploaded Chapter 6",
+      "prompt": "How might an exam combine setoff, exemptions, senior liens, redemption and undersecured deficiency?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
