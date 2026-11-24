@@ -1,0 +1,361 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+  "coverage": {
+    "chapter": 6,
+    "scope": "A. Introduction and Overview: liens, §506(a), allowance, setoff, lien preservation, adequate protection, relief routes; original Problems 6.1–6.3 preserved unsolved."
+  },
+  "topics": [
+    {
+      "id": "bank-ch6-secured-basics",
+      "title": "A. Secured Claims: Why a Lien Defeats General Unsecured Creditors",
+      "chapterGroup": "bank-ch6",
+      "description": "The distinction between secured rights in property and unsecured personal claims.",
+      "entries": [
+        {
+          "id": "bank-ch6-secured-basics-e1",
+          "type": "rule",
+          "title": "Secured creditors get collateral value ahead of unsecured creditors",
+          "page": "Ch.6 §A opening",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Under §506(a)(1), enforceable liens generally entitle secured claimants to the value of their collateral before unsecured creditors share the remaining estate; security does not always mean full payment of a larger underlying debt.",
+          "laymanExplanation": "The bank with a lien gets to look first to the promised house/car, not the general pot of money.",
+          "legalExplanation": "Compare lien value against allowed total claim; any excess may be unsecured unless statutory exception; analyze prior lien priorities.",
+          "examApplication": "In a Chapter 7 distribution first identify collateral and lien balances before §726 general unsecured funds.",
+          "examTrap": "'Secured creditor paid in full' means up to value of valid lien, not necessarily 100% of total debt."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e2",
+          "type": "rule",
+          "title": "Three foundational questions: existence, entitlement, procedure",
+          "page": "Ch.6 §A overview",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Always ask: (1) does allowed secured claim exist and to what extent? (2) what substantive value may creditor demand? (3) by which procedural means may creditor enforce after bankruptcy filing?",
+          "laymanExplanation": "First prove bank has enforceable property right, then how much it covers, then how it gets paid.",
+          "legalExplanation": "Collateral rights may survive stay while foreclosure process is blocked; the Code modifies enforcement mechanisms rather than erasing valid security.",
+          "examApplication": "Organize secured essay in three headings; do not jump directly to foreclosure.",
+          "examTrap": "Lien's value and ability to repossess right now are different issues."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e3",
+          "type": "rule",
+          "title": "Four-step test for existence/extent of allowed secured claim",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "(1) Allowed underlying claim (§§501–502); (2) valid nonbankruptcy lien or setoff; (3) lien not avoided by trustee; (4) value of creditor's interest in estate collateral (§506(a)(1)).",
+          "laymanExplanation": "Even if you hold a mortgage document, court checks valid debt, legally good lien, avoidance, then what collateral is worth.",
+          "legalExplanation": "Bankruptcy recognizes property rights from state law rather than creating lien itself; invalid/unperfected lien can be avoided under trustee's powers.",
+          "examApplication": "State each step explicitly for mortgage, auto security, setoff and competing liens.",
+          "examTrap": "Allowed personal claim alone does not create secured collateral claim."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e4",
+          "type": "rule",
+          "title": "Proof of claim and lien's survival are different",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "To receive distribution as allowed secured creditor §§501–502 usually matter; but valid prebankruptcy in rem lien may ride through discharge despite failure to file proof under Long v. Bullard, §506(d)(2), §524(a).",
+          "laymanExplanation": "Bank might miss claims paperwork and lose its payout, but may still possess right against pledged house.",
+          "legalExplanation": "Discharge eliminates in personam personal liability, not automatically in rem lien; statutory exceptions and avoiding powers may change result.",
+          "examApplication": "Discuss postdischarge lien foreclosure separately from suing debtor personally.",
+          "examTrap": "A bankruptcy discharge is not a lien release."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e5",
+          "type": "rule",
+          "title": "Bankruptcy Code uses state-law lien rights, not its own creation",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "§101(37) defines lien as charge against/interest in property securing payment/performance; whether valid lien attached and perfected is determined under underlying nonbankruptcy law.",
+          "laymanExplanation": "You can't get first dibs on a car merely by saying it secures you; lien must legally exist.",
+          "legalExplanation": "Under Butner/Article9 and mortgage law, identify attachment, perfection, rank, avoidability.",
+          "examApplication": "For mortgage, describe deed of trust under state law; for vehicle Article 9 security agreement/title.",
+          "examTrap": "Do not infer lien merely because creditor held IOU."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e6",
+          "type": "rule",
+          "title": "Consensual liens = security interest §101(51)",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "A lien created by agreement, including Article9 personal property security interest and real estate mortgages or deeds of trust.",
+          "laymanExplanation": "Debtor agrees bank can seize collateral if nonpayment.",
+          "legalExplanation": "Creation through contract distinguishes security interest from judgment and statutory liens.",
+          "examApplication": "Identify agreement and collateral description/priority.",
+          "examTrap": "Not every loan is secured—must be legally effective security agreement."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e7",
+          "type": "rule",
+          "title": "Judicial liens §101(36)",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Liens obtained through judgment, levy, garnishment, sequestration or other judicial process, e.g. judgment lien on land.",
+          "laymanExplanation": "Creditor wins court and attaches property to collect.",
+          "legalExplanation": "Unlike voluntary liens, this arises from judicial collection; trustee may have avoidance powers.",
+          "examApplication": "Ask whether debtor held lien before case and §522(f) exemption impairment if applicable (not covered fully here).",
+          "examTrap": "Court judgment alone might not be recorded/perfected lien on every property."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e8",
+          "type": "rule",
+          "title": "Statutory liens §101(53)",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Liens created automatically by statute when specified conditions occur, including mechanic/materialman or landlord distraint lien.",
+          "laymanExplanation": "Law protects contractor who fixed property without having signed mortgage.",
+          "legalExplanation": "Bankruptcy may avoid some statutory liens under §545; nature and trigger matter.",
+          "examApplication": "Identify statutory elements and whether bankruptcy-specific trigger defeats lien.",
+          "examTrap": "Not the same as court judgment or consensual security."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e9",
+          "type": "rule",
+          "title": "Setoff rights can count as secured §506(a)(1), §553",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Mutual debts between parties may support setoff and are treated like secured interest to extent subject to valid setoff. Bank deposit is bank's debt to depositor, while borrower owes loan to bank.",
+          "laymanExplanation": "If you have $10k in savings at same lender you owe $14k, bank might offset mutual balance.",
+          "legalExplanation": "Section §553 preserves rather than creates rights under nonbankruptcy law; Chapter4 §362(a)(7) may stay exercise of setoff.",
+          "examApplication": "Check legal mutuality, available deposit and loan amounts, petition date.",
+          "examTrap": "Not every debt with different entities or accounts qualifies; contractual/statutory basis required."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e10",
+          "type": "rule",
+          "title": "Avoiding powers can demote lien to unsecured",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Trustee may avoid certain liens (see later Chapter 9). When avoided and preserved for estate as appropriate, secured creditor's collateral preference disappears and claim can share unsecured distribution.",
+          "laymanExplanation": "Bank whose lien is legally defeated no longer gets protected property payment.",
+          "legalExplanation": "§544 strong-arm, §545 statutory liens and other tools later; distinguish invalidity from avoidability.",
+          "examApplication": "After establishing nonbankruptcy lien ask whether bankruptcy trustee can set it aside.",
+          "examTrap": "'Secured' on petition isn't immune to avoidance."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e11",
+          "type": "rule",
+          "title": "§506(a)(1): secured value equals interest in estate collateral",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Allowed claim is secured only to extent of value of creditor's interest in the estate's property, after senior liens and recognizing partial ownership; remainder is unsecured except statutory special rules.",
+          "laymanExplanation": "A junior lender on $10k asset behind $6k senior lien only has $4k collateral support.",
+          "legalExplanation": "Calculate collateral value, estate fraction, prior ranking and max underlying allowed debt.",
+          "examApplication": "In Problem6.2 distinguish single lien, junior lien, coownership, setoff and postpetition interest.",
+          "examTrap": "Do not treat entire collateral as estate asset if sister coowns it."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e12",
+          "type": "rule",
+          "title": "Substantive value of lien protected, not identical state seizure process",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Under Wright v. Union Central Life, secured claim's fundamental substantive entitlement is collateral lien value, while repossession/foreclosure may be stayed or collateral turned over, used or sold by trustee.",
+          "laymanExplanation": "You may be owed collateral value even while prohibited from taking the car immediately.",
+          "legalExplanation": "Chapter4 §362 stay and §542 turnover restrict enforcement methods; §361 adequate protection safeguards decline in security.",
+          "examApplication": "State both substantive right and procedural stay limitations.",
+          "examTrap": "Collateral isn't instantly foreclosed when debtor files."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e13",
+          "type": "rule",
+          "title": "Adequate protection substitutes for immediate foreclosure",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "§361 allows various measures protecting value of secured interest while debtor uses collateral; related §§362(d)(1),363(e),364(d) trigger relief/requirements.",
+          "laymanExplanation": "Owner may keep working truck during case but must protect bank against depreciation.",
+          "legalExplanation": "Protection of secured collateral value is not protection of all lost opportunity costs; Chapter7 will go deeper.",
+          "examApplication": "Identify decreasing value, proposed payment/insurance/replacement lien and creditor relief motion.",
+          "examTrap": "Adequate protection is not automatic payment of the entire loan."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e14",
+          "type": "rule",
+          "title": "Seven main ways collateral secured claim realized",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Possible routes: §362(d) relief from stay; §554 abandonment; §363 trustee sale and proceeds; §722 redemption; §524(c) reaffirmation; confirmed §1129/1225/1325 plan payouts; surrender under applicable Code provisions.",
+          "laymanExplanation": "Bank may get car back, receive cash from sale, negotiate debtor payments, or be paid by plan.",
+          "legalExplanation": "Choice depends chapter, debtor type, exemptions, whether collateral is retained and secured creditor's consent.",
+          "examApplication": "In exam select feasible Code procedure rather than only saying bank has lien.",
+          "examTrap": "Chapter7 individual debtor generally cannot force ordinary installment cramdown of car debt."
+        },
+        {
+          "id": "bank-ch6-secured-basics-e15",
+          "type": "rule",
+          "title": "Redemption §722 compared to reaffirmation §524(c)",
+          "page": "Ch.6 §A",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Redemption requires statutory qualifying personal property and lump-sum payment of allowed secured claim; reaffirmation involves enforceable agreement to restore personal liability for negotiated payment and retention.",
+          "laymanExplanation": "Pay today's secured value in cash vs promise to keep paying under lender-approved reaffirmation.",
+          "legalExplanation": "Both potentially retain collateral but impose very different payment and consent requirements.",
+          "examApplication": "If debtor wants car retained without signing, explore §521 statement/§362(h) issues in Problem6.3.",
+          "examTrap": "Continuing voluntary monthly payments isn't always valid ride-through option."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-problem-6-1",
+      "title": "A. Problem 6.1 — Chapter 7 Collateral, Junior Liens and Exemptions (Unsolved)",
+      "chapterGroup": "bank-ch6",
+      "description": "Original full asset-debt-exemption distribution problem, not answered.",
+      "entries": [
+        {
+          "id": "bank-ch6-problem-6-1-e1",
+          "type": "rule",
+          "title": "Distribution worksheet for Problem 6.1",
+          "page": "Ch.6 §A Problem 6.1",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Compute house proceeds by senior then junior claims; car proceeds by GMAC and any equity/exemption; remove legal exemptions only from actual debtor equity; add nonexempt unencumbered property; handle unsecured deficiencies and unsecured creditors under §726.",
+          "laymanExplanation": "Write each item in a row, not one big pool: value / lien1 / lien2 / debtor equity / exemption / available to estate.",
+          "legalExplanation": "Exemptions are interests in estate property subject to valid liens; an exemption claim larger than equity does not displace senior liens automatically.",
+          "examApplication": "Check $80k house, senior $70k, second $15k, claimed $15k house exemption and $3k Pontiac exemption separately.",
+          "examTrap": "Do not subtract all exemptions from gross assets then pay liens; order and validity matter."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-problem-6-2",
+      "title": "A. Problem 6.2(a)–(g) — Seven Secured-Claim Valuations (Unsolved)",
+      "chapterGroup": "bank-ch6",
+      "description": "Original §506(a)(1) numerical subparts incl senior liens, coownership, oversecured interest and setoff.",
+      "entries": [
+        {
+          "id": "bank-ch6-problem-6-2-e1",
+          "type": "rule",
+          "title": "§506(a) calculation algorithm, no problem answers",
+          "page": "Ch.6 §A Problem 6.2",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Allowed secured principal is generally min(allowed underlying claim, positive available lienable estate value after superior claims), with special analysis of undivided property interest, setoff, and §506(b) oversecured postpetition interest.",
+          "laymanExplanation": "A $14k loan doesn't mean bank has $14k secured if only $10k collateral supports it.",
+          "legalExplanation": "Value may depend on actual estate interest; §506(b) claims may include postpetition interest/fees to extent cushion if oversecured.",
+          "examApplication": "Use distinct fields for value, senior liens, debtor estate interest, base debt, 10% × 1 year interest, and available cushion.",
+          "examTrap": "Oversecured 10% contractual note and statutory judgment liens deserve separate §506(b) attention."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-problem-6-3",
+      "title": "A. Problem 6.3(a)–(b) — Honda Car Retention After Chapter 7 (Unsolved)",
+      "chapterGroup": "bank-ch6",
+      "description": "Original ipso-facto, exemptions, failure to redeem/reaffirm and trustee consequences.",
+      "entries": [
+        {
+          "id": "bank-ch6-problem-6-3-e1",
+          "type": "rule",
+          "title": "Statement of intention and 'ride-through' challenge",
+          "page": "Ch.6 §A Problem 6.3",
+          "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+          "summary": "Chapter 7 debtor stating 'keep current on payments' without choosing redemption or reaffirmation raises §§521(a)(2),(a)(6),(d) and §362(h) consequences, distinct from contract's ipso facto bankruptcy filing default.",
+          "laymanExplanation": "Staying up to date doesn't necessarily preserve right to car if debtor failed Code's formal retention choices.",
+          "legalExplanation": "Analyze vehicle equity/exempt vs nonexempt, bankruptcy-triggered default and any statutory termination of stay/estate status.",
+          "examApplication": "Compare (a) fully exempt vehicle with (b) unclaimed exemption while loan current.",
+          "examTrap": "Do not answer whether creditor can take car based only on bankruptcy default clause; account for federal statutory exceptions."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch6-p6-1",
+      "topicId": "bank-ch6-problem-6-1",
+      "title": "Problem 6.1 — Trustee distribution",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+      "prompt": "Debtor files Chapter 7 with $125,000 total assets: house value $80,000 with Bank One first mortgage $70,000 and Bank Two second mortgage $15,000; Pontiac $10,000 with GMAC security $7,000; Volvo unencumbered $5,000; household goods $15,000; bank deposit $15,000. Total stated debts $127,000: those secured debts plus unsecured Bush $20,000, Gore $10,000, Bubba $5,000. Claimed exemptions: house $15,000; Pontiac $3,000; furnishings $15,000. WHAT trustee distribution should occur? Work through lien priorities, equity/exemptions and unsecured deficit. Preserve result UNANSWERED.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-2-a",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Problem 6.2(a)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+      "prompt": "Collateral $10,000; allowed creditor claim $14,000; no other liens. Determine allowed secured amount under §506(a)(1), leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-2-b",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Problem 6.2(b)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+      "prompt": "Collateral $10,000; second-lien creditor's allowed claim $14,000; senior first lien $6,000. Determine junior allowed secured amount under §506(a)(1), leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-2-c",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Problem 6.2(c)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+      "prompt": "Collateral total $10,000; before filing debtor coowned it as tenant in common with nondebtor sister; creditor allowed claim $14,000 with valid lien. Determine allowed secured interest in estate's property; do not assume omitted tenancy percentages. Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-2-d",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Problem 6.2(d)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+      "prompt": "Collateral $20,000; allowed petition-date claim $14,000 promissory note with contract interest 10% per year. One year after Chapter11 filing, debtor seeks plan paying creditor's secured claim; apply §506(b) and determine amount, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-2-e",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Problem 6.2(e)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+      "prompt": "Same as (d) $20,000 collateral and $14,000 petition-date amount, except claim based on state judgment bearing 10% statutory judgment interest. Analyze §506(b) distinction, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-2-f",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Problem 6.2(f)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+      "prompt": "Same as (d) except collateral only $15,000, $14,000 petition claim and 10% annual note interest with one year elapsed to plan confirmation. Analyze §506(b) secured extent, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-2-g",
+      "topicId": "bank-ch6-problem-6-2",
+      "title": "Problem 6.2(g)",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+      "prompt": "Debtor owes lender $14,000 on loan, but also keeps $10,000 in checking at that same creditor bank. Analyze secured setoff extent under §506(a)(1)/§553, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-3-a",
+      "topicId": "bank-ch6-problem-6-3",
+      "title": "Problem 6.3(a) — Entire car exempt",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+      "prompt": "Debtor financed Honda Civic purchase with $16,000 loan and properly perfected PMSI; May 1, 2021 Chapter 7, $8,000 outstanding and debtor CURRENT on payments; contract says bankruptcy filing is default and lender can accelerate/repossess. Car value $10,000. On May 30, 2021 debtor §521(a)(2)(A) statement says retain car and keep paying—not redeem or reaffirm. Debtor claims entire car interest exempt on schedules/statement, no timely objection. Determine debtor, creditor and trustee rights under §§362(h),521(a)(2),(a)(6),(d), leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch6-p6-3-b",
+      "topicId": "bank-ch6-problem-6-3",
+      "title": "Problem 6.3(b) — No car exemption",
+      "kind": "Casebook original problem — UNSOLVED",
+      "source": "User-supplied Bankruptcy & Creditors' Rights casebook, Chapter 6 Secured Claims, §§A–D; chapter/section locators used because pasted ebook excerpt contains no printed page markers",
+      "prompt": "Debtor financed Honda Civic purchase with $16,000 loan and properly perfected PMSI; May 1, 2021 Chapter 7, $8,000 outstanding and debtor CURRENT on payments; contract says bankruptcy filing is default and lender can accelerate/repossess. Car value $10,000. On May 30, 2021 debtor §521(a)(2)(A) statement says retain car and keep paying—not redeem or reaffirm. Unlike (a), debtor claims NO exemption in car. Assess how trustee's interest and creditor/debtor choices change. Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
