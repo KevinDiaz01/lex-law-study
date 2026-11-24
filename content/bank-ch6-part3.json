@@ -1,0 +1,249 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+  "coverage": {
+    "chapter": 6,
+    "scope": "B. Sunnyslope Housing note (not full opinion), §1325(a)(5)(B) present value, full Till Supreme Court excerpt with plurality, Thomas concurrence and Scalia dissent, interest-rate methods and mathematics"
+  },
+  "topics": [
+    {
+      "id": "bank-ch6-sunnyslope",
+      "title": "B. Sunnyslope Housing — Restricted-Use Property Worth Less Than Foreclosure",
+      "chapterGroup": "bank-ch6",
+      "description": "Ninth Circuit en banc casebook note (not full opinion): lower retained-use value than foreclosure.",
+      "entries": [
+        {
+          "id": "bank-ch6-sunnyslope-e1",
+          "type": "rule",
+          "title": "Sunnyslope restricted affordability use creates valuation inversion",
+          "page": "Ch.6 §B / Sunnyslope note",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "In re Sunnyslope Housing (9th Cir en banc 2017) involved affordable housing project restricted to low-income rents under continued use; foreclosure extinguished restrictions. Lender $9m claim; proposed continued-use value $3.9m, foreclosure unencumbered value $7m.",
+          "laymanExplanation": "Foreclosure unlocks high rents, but debtor proposes continuing affordable rents; keeping property might be worth LESS.",
+          "legalExplanation": "Ninth Circuit 8–3 en banc majority applied Rash actual proposed use and chose $3.9m; dissent wanted $7m foreclosure floor based on lender protection/double risks.",
+          "examApplication": "Compare actual proposed collateral use and whether lienholder should have foreclosure floor when higher.",
+          "examTrap": "This is a casebook explanatory note, not full court opinion provided."
+        },
+        {
+          "id": "bank-ch6-sunnyslope-e2",
+          "type": "rule",
+          "title": "Dissent viewed Rash double risks as possible foreclosure-value minimum",
+          "page": "Ch.6 §B / Sunnyslope note",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Minority argued §506(a)'s creditor-interest focus and Rash risk discussion suggest foreclosure value as minimum where use value is much lower.",
+          "laymanExplanation": "Lender argues cannot be forced to take $3.9m when seizure yields $7m.",
+          "legalExplanation": "Casebook explicitly raises whether double-risk rationale was dicta and how Till Thomas references it.",
+          "examApplication": "In exam show competing statutory interpretation and practical creditor fairness.",
+          "examTrap": "Do not convert dissent floor into Ninth Circuit majority holding."
+        },
+        {
+          "id": "bank-ch6-sunnyslope-e3",
+          "type": "rule",
+          "title": "Two numbers, one actual proposed plan",
+          "page": "Ch.6 §B / Sunnyslope note",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "If creditor claim is $9m, foreclosure $7m, retained affordable housing use $3.9m, analyze §506(a) secured amount by retained use even though difference unusual.",
+          "laymanExplanation": "What debtor actually does with property matters more than theoretical most profitable use under Rash.",
+          "legalExplanation": "The Ninth Circuit en banc use valuation is grounded to lawful restrictive covenants that persist absent foreclosure.",
+          "examApplication": "Use this to test whether you understand Rash isn't invariably creditor-high valuation.",
+          "examTrap": "Do not blindly select higher number for secured creditor every time."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-present-value",
+      "title": "B. Cramdown Payments: Present Value, Discount Rate, Loan Formula",
+      "chapterGroup": "bank-ch6",
+      "description": "The separate problem of amount of collateral-backed claim and time value of deferred installments.",
+      "entries": [
+        {
+          "id": "bank-ch6-present-value-e1",
+          "type": "rule",
+          "title": "Valuing collateral is separate from discounting future plan installments",
+          "page": "Ch.6 §B / Till introduction",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "§506(a) determines allowed secured PRINCIPAL. §§1325(a)(5)(B)(ii), 1225(a)(5)(B)(ii), 1129(b)(2)(A)(i)(II) require future payment stream whose value at plan effective date at least that principal.",
+          "laymanExplanation": "First decide debt backed by car; then calculate interest necessary if paid over time.",
+          "legalExplanation": "Rash addressed first question; Till addresses interest/discount in second.",
+          "examApplication": "Label calculations 'collateral valuation' and 'present value payment' separately.",
+          "examTrap": "A $4k secured claim paid $4k in future installments with zero interest generally has lower present value."
+        },
+        {
+          "id": "bank-ch6-present-value-e2",
+          "type": "rule",
+          "title": "Present-value discounting formula",
+          "page": "Ch.6 §B / Till",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "For cash installments CF_t at future periods t, present value PV = Σ[CF_t/(1+r)^t] for matching periodic discount rate r. If PV must equal allowed secured claim S, choose payment stream satisfying PV≥S.",
+          "laymanExplanation": "A dollar next year isn't worth a dollar today; discount each future payment then add.",
+          "legalExplanation": "Time value from opportunity cost/inflation; Till plurality also includes debtor default risk in chosen annual prime-plus discount rate.",
+          "examApplication": "If all payments annual, divide by (1+r) to year t; if monthly, convert rate/frequency consistently.",
+          "examTrap": "Don't simply add nominal installments and compare sum to principal."
+        },
+        {
+          "id": "bank-ch6-present-value-e3",
+          "type": "rule",
+          "title": "Level installment payment formula",
+          "page": "Ch.6 §B / Till",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "If S present value secured claim, n equal end-of-period installments and periodic r>0, payment A = S·r/[1−(1+r)^(-n)]. For r=0, A=S/n. This is a mathematical study aid, not original problem answer.",
+          "laymanExplanation": "Calculator for identical monthly car payments over n months.",
+          "legalExplanation": "Choose r per month if n months (e.g., annual rate /12 when nominal monthly convention appropriate). Fees/compounding may change legal actual amount.",
+          "examApplication": "Sample independent: $10,000 secured over 12 monthly payments at nominal 12% annual, r=.01; use formula rather than $10k/12.",
+          "examTrap": "Don't confuse simple interest on full principal with amortization declining balance."
+        },
+        {
+          "id": "bank-ch6-present-value-e4",
+          "type": "rule",
+          "title": "Formula interest: national prime plus evidence-based risk adjustment",
+          "page": "Ch.6 §B / Till",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Till Stevens four-Justice plurality favors national prime rate plus appropriate percentage reflecting plan risk, estate circumstances, collateral, duration and feasibility; in case prime 8% + risk 1.5%=9.5%.",
+          "laymanExplanation": "Start from benchmark for healthy loans, then add extra risk for bankruptcy borrower.",
+          "legalExplanation": "As source describes, courts usually considered 1–3% adjustments but no universal required increment set by Till; plan not confirmed if overly risky.",
+          "examApplication": "Distinguish source-case factual 8/1.5/9.5 from present-day prime (not supplied).",
+          "examTrap": "Never plug today's prime or generic 1.5% into source hypothetical without facts."
+        },
+        {
+          "id": "bank-ch6-present-value-e5",
+          "type": "rule",
+          "title": "Competing discount-rate approaches",
+          "page": "Ch.6 §B / Till intro",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Four approaches debated: national prime-plus formula, hypothetical coerced/forced loan market comparable, presumptive original contract rate, and lender cost of borrowing; Till plurality rejected last three for Chapter13.",
+          "laymanExplanation": "Different people ask whose market you value: borrower's new loan, old contract, lender financing, or benchmark plus risk.",
+          "legalExplanation": "Scalia dissent preferred rebuttable contract rate, Thomas concurrence risk-free; holding/judgment 5–4 but reasoning no majority.",
+          "examApplication": "On exam write 4 approaches and each rationale, note lack majority.",
+          "examTrap": "Do not call Stevens's plurality a 5-Justice majority."
+        },
+        {
+          "id": "bank-ch6-present-value-e6",
+          "type": "rule",
+          "title": "Risk premium and feasibility must be balanced",
+          "page": "Ch.6 §B / Till",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Plurality said rate high enough to compensate creditor for nonpayment risk but not arbitrarily minimized to make unworkable plan appear feasible; §1325(a)(6) mandates feasible plan.",
+          "laymanExplanation": "If only sky-high interest covers risk, judge may need to reject plan.",
+          "legalExplanation": "Default probability, collateral depreciation, liquidation and enforcement costs can inform risk adjustment; creditor bears evidence burden under plurality approach.",
+          "examApplication": "For interest dispute compare risk input to proof and feasibility facts.",
+          "examTrap": "Plan feasibility doesn't mathematically guarantee creditor zero default risk."
+        },
+        {
+          "id": "bank-ch6-present-value-e7",
+          "type": "rule",
+          "title": "Interest rate not identical to historical contract rate",
+          "page": "Ch.6 §B / Till",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Under plurality, cramdown is imposed supervised debt treatment, not refinancing by original lender on identical commercial terms; 21% subprime contract includes factors such as profit/transaction costs.",
+          "laymanExplanation": "Old 21% contract interest isn't automatically what creditor gets on forced Chapter13 plan.",
+          "legalExplanation": "Cramdown changes right to price; objective secured claim value rather than lender's opportunity to make outside loan.",
+          "examApplication": "When creditor argues 21% compare prime-plus and market-risk concerns.",
+          "examTrap": "Don't claim 21% is necessarily too high in all cases, dispute is factual/legal."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-till",
+      "title": "B. Till v. SCS Credit Corp. (2004) — Full Plurality, Concurrence and Dissent",
+      "chapterGroup": "bank-ch6",
+      "description": "Detailed appellate and Supreme Court rationales for Chapter13 discount rate.",
+      "entries": [
+        {
+          "id": "bank-ch6-till-e1",
+          "type": "case",
+          "title": "Till v. SCS Credit Corp., 541 U.S. 465 (2004)",
+          "page": "Ch.6 §B / Till full opinion",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Supreme Court reversed Seventh Circuit 5–4 but no single majority rationale. Stevens plurality (4 Justices) favored prime-plus objective formula to account for time and plan default risk and approved 9.5% on case record. Thomas concurred in judgment but would not require debtor-specific risk premium; Scalia four-Justice dissent favored rebuttable prebankruptcy contract rate 21% as better risk proxy.",
+          "laymanExplanation": "Chapter13 cramdown requires present value of allowed secured claim. Stevens plurality's prime-plus approach is influential, but no majority endorsed a particular rate-setting methodology; Thomas concurred only in judgment and dissents rejected formula.",
+          "legalExplanation": "Stevens rejected coerced-loan market and original contract as creditor-focused, costly, possibly profits/transaction-cost inflated; lender's cost of funds measures wrong party. Prime baseline plus case-specific risk adjustment familiar/objective, evidence primarily creditor supplied; feasibility §1325(a)(6) avoids unworkable plans. Thomas parsed statutory 'property to be distributed' rather than value of risky promise, thus a risk-free rate could suffice; because 9.5% higher, he agreed. Scalia thought subprime markets and contract rate better reflect failure, collateral depreciation, liquidity, enforcement risk; prime+1.5% may severely undercompensate lenders. Stevens replied bankruptcy supervision changes risk and creditor has information advantage.",
+          "examApplication": "Use case figures 8% prime +1.5%=9.5% vs 21% original, $4k secured/$894.89 unsecured; explain why no majority on formula.",
+          "examTrap": "Do not present risk-free standard as holding or say 'Till unanimously requires prime+1–3%'.",
+          "assignedOpinion": true,
+          "sourceRole": "Full Supreme Court opinions excerpted from Chapter 6 (no single majority opinion)",
+          "facts": "Lee and Amy Till bought used truck Oct.2 1998 from Instant Auto Finance, purchase financed at 21% annual over 136 weeks, assigned to SCS. Filed joint Chapter13 Oct.25 1999 in default. $4,894.89 outstanding secured by truck worth stipulated $4k → $894.89 unsecured. Plan devoted $740/month wages over 3 years and paid secured part with 9.5% interest, derived 8% then-current prime +1.5 risk. SCS wanted 21% contract/subprime rate. Bankruptcy court confirmed 9.5%; district and Seventh Circuit reversed adopting creditor lending/contract baseline; Supreme Court reversed.",
+          "issue": "How to set interest/discount rate so deferred Chapter13 cramdown payments have present value at least secured claim under §1325(a)(5)(B)(ii)?",
+          "holding": "Supreme Court reversed Seventh Circuit 5–4 but no single majority rationale. Stevens plurality (4 Justices) favored prime-plus objective formula to account for time and plan default risk and approved 9.5% on case record. Thomas concurred in judgment but would not require debtor-specific risk premium; Scalia four-Justice dissent favored rebuttable prebankruptcy contract rate 21% as better risk proxy.",
+          "reasoning": "Stevens rejected coerced-loan market and original contract as creditor-focused, costly, possibly profits/transaction-cost inflated; lender's cost of funds measures wrong party. Prime baseline plus case-specific risk adjustment familiar/objective, evidence primarily creditor supplied; feasibility §1325(a)(6) avoids unworkable plans. Thomas parsed statutory 'property to be distributed' rather than value of risky promise, thus a risk-free rate could suffice; because 9.5% higher, he agreed. Scalia thought subprime markets and contract rate better reflect failure, collateral depreciation, liquidity, enforcement risk; prime+1.5% may severely undercompensate lenders. Stevens replied bankruptcy supervision changes risk and creditor has information advantage.",
+          "rule": "Chapter13 cramdown requires present value of allowed secured claim. Stevens plurality's prime-plus approach is influential, but no majority endorsed a particular rate-setting methodology; Thomas concurred only in judgment and dissents rejected formula.",
+          "concurrence": "Justice Thomas (one vote): §1325(a)(5)(B)(ii) requires value of PROPERTY to be distributed, not valuation of promise as risk-adjusted credit; risk-free present-value compensation enough under literal reading; 9.5% exceeds that. He connected Rash replacement value to protection against lender's risk of retaining collateral.",
+          "dissent": "Justice Scalia, joined by Chief Justice Rehnquist and Justices O'Connor and Kennedy (4 votes): presumptive contract 21% with opportunity to rebut best captures expected default risk, unlike prime-plus where guesswork risk premium likely too low; keys are plan failure probability, collateral depreciation, collateral market liquidity, enforcement costs. Bankruptcy supervision doesn't remove real plan failures."
+        },
+        {
+          "id": "bank-ch6-till-e2",
+          "type": "rule",
+          "title": "Plurality was FOUR justices; Thomas supplied fifth judgment vote",
+          "page": "Ch.6 §B / Till",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Stevens/Souter/Ginsburg/Breyer plurality adopted formula; Thomas concurred only in judgment with risk-free rationale; Scalia/Rehnquist/O'Connor/Kennedy dissent preferred presumptive contract rate.",
+          "laymanExplanation": "Five justices agreed lower decision wrong, but not on precise best formula.",
+          "legalExplanation": "On exam identify fragmentation and use fact-reasoning approach rather than misstate holding.",
+          "examApplication": "Explicitly write plurality and concurrence.",
+          "examTrap": "'Supreme Court held prime-plus is the only constitutional rate' is false."
+        },
+        {
+          "id": "bank-ch6-till-e3",
+          "type": "rule",
+          "title": "Case-specific 9.5% and 21% debate",
+          "page": "Ch.6 §B / Till",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Prime about 8% plus risk adjustment 1.5% =9.5% proposed; SCS argued 21% based on original subprime contract and lender testimony; principal secured $4,000.",
+          "laymanExplanation": "They fought over interest applied to $4k secured debt, not total $4,894.89 owed.",
+          "legalExplanation": "Unsecured deficiency receives separate treatment; future installments present value test.",
+          "examApplication": "For question ask whom high rate benefits and whether deal remains feasible.",
+          "examTrap": "Don't apply interest to $894.89 unsecured amount as if fully secured."
+        },
+        {
+          "id": "bank-ch6-till-e4",
+          "type": "rule",
+          "title": "Plurality rejects coerced-loan, contract and cost-of-funds",
+          "page": "Ch.6 §B / Till",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Hypothetical new loan rates import commercial profit/transaction costs, prior contract focuses subjective history, lender cost of funds depends on lender rather than debtor; costly hearings. Formula prime+increment is objective starting point.",
+          "laymanExplanation": "What bank normally charges isn't necessarily right for court-imposed plan payments.",
+          "legalExplanation": "Stevens analogized secured lender as entitled to objective time/risk compensation, not every alternative investment opportunity.",
+          "examApplication": "Discuss both administrative simplicity and economic objections.",
+          "examTrap": "Market lending evidence may still inform risk disputes in other circumstances."
+        },
+        {
+          "id": "bank-ch6-till-e5",
+          "type": "rule",
+          "title": "Thomas concurrence: a promise is risky, but property may not be",
+          "page": "Ch.6 §B / Till concurrence",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Thomas read §1325(a)(5)(B)(ii) as discounting 'property to be distributed' not risky promissory obligation; time value yes but debtor-specific nonpayment risk not necessarily part of statutory PV requirement.",
+          "laymanExplanation": "He says court shouldn't build debtor credit score risk into the value of cash itself.",
+          "legalExplanation": "He treated Rash replacement valuation of collateral as already protecting lender partly against retention risks.",
+          "examApplication": "Compare Thomas to Stevens/Scalia on two fundamental financial principles: time and risk.",
+          "examTrap": "His reading did not get majority."
+        },
+        {
+          "id": "bank-ch6-till-e6",
+          "type": "rule",
+          "title": "Scalia dissent: rebuttable contract-rate approach",
+          "page": "Ch.6 §B / Till dissent",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Start with parties' 21% contract rate as approximate actual subprime risk; parties may show current markets or contract idiosyncrasy call for change. Prime baseline is knowingly too low and risk add-on hard to estimate.",
+          "laymanExplanation": "Old loan documents may contain better market risk pricing than judge's guess at +1.5%.",
+          "legalExplanation": "Scalia highlighted plan failure, depreciation, collateral liquidity and costly enforcement, and argued judicial confirmation isn't oracle.",
+          "examApplication": "Answer by comparison of burden and default statistics/market competitiveness, not by assuming Scalia was holding.",
+          "examTrap": "Do not automatically treat contract rate as binding; dissent would make it rebuttable."
+        },
+        {
+          "id": "bank-ch6-till-e7",
+          "type": "rule",
+          "title": "Why §1325(a)(6) feasibility does not settle rate alone",
+          "page": "Ch.6 §B / Till",
+          "source": "Uploaded Bankruptcy casebook Chapter 6 §B: Sunnyslope Housing note, full Till v. SCS Credit Corp. plurality, concurrence and dissent; original textbook discussion on present value",
+          "summary": "Stevens believed court should deny plans if high risk requires eye-popping compensation and threatens viability. Scalia countered real-world failure rates undermine premise that confirmed plans are low risk.",
+          "laymanExplanation": "A plan declared feasible can still fail, but rate can't be set only to help plan pass.",
+          "legalExplanation": "Casebook questions juxtapose court administration/policy with creditor full compensation.",
+          "examApplication": "Mention feasibility is additional requirement, not alternative to present-value rate.",
+          "examTrap": "Not valid to choose zero discount just because trustee oversees payments."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
