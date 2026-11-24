@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+  "coverage": {
+    "chapter": 9,
+    "scope": "Original intact Problems9.10–9.15 and each letter/number subquestion, UNANSWERED; covers guaranty/preference, secured collateral, subsequent new value, late perfection, floating lien, setoff/recoupment"
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch9-p9-10-a1",
+      "topicId": "bank-ch9-preference-elements",
+      "title": "Problem 9.10(a1) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "a. Creditor loans Debtor, Inc. $8,000 on January 5. The loan is guaranteed by Prez, the CEO of Debtor, Inc. On April 1, Debtor, Inc. pays Creditor $8,000. On May 1, Debtor, Inc. files bankruptcy.\n\n1. Is the payment to Creditor a voidable preference as to Creditor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-10-a2",
+      "topicId": "bank-ch9-preference-elements",
+      "title": "Problem 9.10(a2) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "a. Creditor loans Debtor, Inc. $8,000 on January 5. The loan is guaranteed by Prez, the CEO of Debtor, Inc. On April 1, Debtor, Inc. pays Creditor $8,000. On May 1, Debtor, Inc. files bankruptcy.\n\n2. Is the payment to Creditor a voidable preference as to Prez?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-10-b1",
+      "topicId": "bank-ch9-preference-elements",
+      "title": "Problem 9.10(b1) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Reference original part (a) facts:\nCreditor loans Debtor, Inc. $8,000 on January 5. The loan is guaranteed by Prez, the CEO of Debtor, Inc. On April 1, Debtor, Inc. pays Creditor $8,000. On May 1, Debtor, Inc. files bankruptcy.\n\nb. Same facts as in a., except that Debtor, Inc. files bankruptcy on September 1.\n\n1. Is the payment to Creditor a voidable preference as to Creditor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-10-b2",
+      "topicId": "bank-ch9-preference-elements",
+      "title": "Problem 9.10(b2) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Reference original part (a) facts:\nCreditor loans Debtor, Inc. $8,000 on January 5. The loan is guaranteed by Prez, the CEO of Debtor, Inc. On April 1, Debtor, Inc. pays Creditor $8,000. On May 1, Debtor, Inc. files bankruptcy.\n\nb. Same facts as in a., except that Debtor, Inc. files bankruptcy on September 1.\n\n2. Is the payment to Creditor a voidable preference as to Prez?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-11-a",
+      "topicId": "bank-ch9-palmer-clay",
+      "title": "Problem 9.11(a) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "a. Debtor owes Creditor $20,000 for a debt incurred on January 1, for which Debtor granted Creditor a perfected security interest in collateral worth $20,000. On April 1, Debtor pays Creditor $10,000. On April 2, Debtor files bankruptcy. Is the payment to Creditor a voidable preference?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-11-b",
+      "topicId": "bank-ch9-palmer-clay",
+      "title": "Problem 9.11(b) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Reference original part (a) facts:\nDebtor owes Creditor $20,000 for a debt incurred on January 1, for which Debtor granted Creditor a perfected security interest in collateral worth $20,000. On April 1, Debtor pays Creditor $10,000. On April 2, Debtor files bankruptcy. Is the payment to Creditor a voidable preference?\n\nb. Same facts as in a., except the collateral has a value of $12,000.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-12-a",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Problem 9.12(a) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Creditor is a trade supplier of Debtor, and for years has been selling goods to Debtor on open account. On April 1, Debtor's balance owing on account to Creditor is $10,000. In the following situations, how much, if any, is the preference liability of Creditor? See § 547(c)(4), (9).\n\na. On April 1, Debtor pays Creditor $8,500 on outstanding debts. On April 15, Creditor ships $4,000 in goods to Debtor on Credit. On May 1, Debtor files bankruptcy.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-12-b",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Problem 9.12(b) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Creditor is a trade supplier of Debtor, and for years has been selling goods to Debtor on open account. On April 1, Debtor's balance owing on account to Creditor is $10,000. In the following situations, how much, if any, is the preference liability of Creditor? See § 547(c)(4), (9).\n\nb. On April 1, Creditor ships $4,000 in goods to Debtor on credit. On April 15, Debtor pays Creditor $8,500. On May 1, Debtor files bankruptcy.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-12-c",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Problem 9.12(c) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Creditor is a trade supplier of Debtor, and for years has been selling goods to Debtor on open account. On April 1, Debtor's balance owing on account to Creditor is $10,000. In the following situations, how much, if any, is the preference liability of Creditor? See § 547(c)(4), (9).\n\nc. On April 1, Debtor pays Creditor $8,500 on outstanding debts. On April 15, Creditor ships $4,000 in goods to debtor on credit. On April 20, Debtor pays Creditor $3,000. On May 1, Debtor files bankruptcy.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-12-d",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Problem 9.12(d) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Creditor is a trade supplier of Debtor, and for years has been selling goods to Debtor on open account. On April 1, Debtor's balance owing on account to Creditor is $10,000. In the following situations, how much, if any, is the preference liability of Creditor? See § 547(c)(4), (9).\n\nReference original part (a) facts:\nOn April 1, Debtor pays Creditor $8,500 on outstanding debts. On April 15, Creditor ships $4,000 in goods to Debtor on Credit. On May 1, Debtor files bankruptcy.\n\nd. Same facts as in c., except that on April 25, Creditor ships an additional $7,500 in goods to Debtor on credit.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-12-e",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Problem 9.12(e) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Creditor is a trade supplier of Debtor, and for years has been selling goods to Debtor on open account. On April 1, Debtor's balance owing on account to Creditor is $10,000. In the following situations, how much, if any, is the preference liability of Creditor? See § 547(c)(4), (9).\n\ne. On April 1, Debtor pays Creditor $5,000. On April 5, Debtor pays Creditor another $5,000. On May 1, Debtor files bankruptcy.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-13-a",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Problem 9.13(a) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "a. On April 1, Debtor purchased a new car, and gave Creditor a note for the purchase price, secured by a purchase money security interest in the car. Debtor took possession of the car immediately. Under state law, a purchase money security interest is deemed to have been perfected from the time the security interest was originally created (i.e., to “relate back”) if the appropriate documents are filed within 20 days of the debtor taking possession of the collateral. Creditor filed the necessary documents on April 25. On June 1, Debtor filed bankruptcy. Is Creditor's security interest in the car voidable as a preference? See § 547(c)(3), (c)(1), (e)(1)–(2).",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-13-b",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Problem 9.13(b) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Reference original part (a) facts:\nOn April 1, Debtor purchased a new car, and gave Creditor a note for the purchase price, secured by a purchase money security interest in the car. Debtor took possession of the car immediately. Under state law, a purchase money security interest is deemed to have been perfected from the time the security interest was originally created (i.e., to “relate back”) if the appropriate documents are filed within 20 days of the debtor taking possession of the collateral. Creditor filed the necessary documents on April 25. On June 1, Debtor filed bankruptcy. Is Creditor's security interest in the car voidable as a preference? See § 547(c)(3), (c)(1), (e)(1)–(2).\n\nb. Same facts as in a., except the security interest is not “purchase money” — that is, the money loaned did not enable Debtor to purchase the car. Under state law, there is no grace period for perfecting a non-purchase money security interest; that is, for non-purchase money security interests, perfection is deemed to occur when the act necessary to perfect occurs, and there is no “relation back” to the time the security interest was created. Is Creditor's security interest in the car voidable as a preference?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-13-c",
+      "topicId": "bank-ch9-new-value-defenses",
+      "title": "Problem 9.13(c) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Reference original part (a) facts:\nOn April 1, Debtor purchased a new car, and gave Creditor a note for the purchase price, secured by a purchase money security interest in the car. Debtor took possession of the car immediately. Under state law, a purchase money security interest is deemed to have been perfected from the time the security interest was originally created (i.e., to “relate back”) if the appropriate documents are filed within 20 days of the debtor taking possession of the collateral. Creditor filed the necessary documents on April 25. On June 1, Debtor filed bankruptcy. Is Creditor's security interest in the car voidable as a preference? See § 547(c)(3), (c)(1), (e)(1)–(2).\n\nc. Same facts as in a., except (1) the state lien law gives the secured creditor 45 days to perfect, with relation-back effect, and (2) Creditor filed the necessary documents on day 35 (May 6). Is Creditor's security interest in the car voidable as a preference?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-14-a",
+      "topicId": "bank-ch9-floating-lien-defense",
+      "title": "Problem 9.14(a) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Creditor provided inventory financing for Debtor, and Creditor had a perfected security interest in all of Debtor's inventory, including after-acquired inventory. Debtor's inventory turned over about every 45 days. Debtor filed bankruptcy on June 30; 90 days before June 30 is April 1. All of Debtor's inventory on June 30 had been acquired since April 1. In the following situations, how much, if any, is the preference liability of Creditor? See § 547(c)(5) and (e)(3).\n\na. On April 1, Debtor owed Creditor $100,000, and on that date, the inventory subject to Creditor's perfected security interest was worth $100,000. On June 30, the debt was still $100,000 (no payments had been made), and the inventory was still worth $100,000.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-14-b",
+      "topicId": "bank-ch9-floating-lien-defense",
+      "title": "Problem 9.14(b) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Creditor provided inventory financing for Debtor, and Creditor had a perfected security interest in all of Debtor's inventory, including after-acquired inventory. Debtor's inventory turned over about every 45 days. Debtor filed bankruptcy on June 30; 90 days before June 30 is April 1. All of Debtor's inventory on June 30 had been acquired since April 1. In the following situations, how much, if any, is the preference liability of Creditor? See § 547(c)(5) and (e)(3).\n\nb. On April 1, Debtor owed Creditor $100,000, and the inventory was worth $100,000. On June 30, the debt was still $100,000 (no payments had been made), and the inventory was worth $115,000.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-14-c",
+      "topicId": "bank-ch9-floating-lien-defense",
+      "title": "Problem 9.14(c) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Creditor provided inventory financing for Debtor, and Creditor had a perfected security interest in all of Debtor's inventory, including after-acquired inventory. Debtor's inventory turned over about every 45 days. Debtor filed bankruptcy on June 30; 90 days before June 30 is April 1. All of Debtor's inventory on June 30 had been acquired since April 1. In the following situations, how much, if any, is the preference liability of Creditor? See § 547(c)(5) and (e)(3).\n\nc. On April 1, Debtor owed Creditor $125,000, and the inventory was worth $100,000. On June 30, the debt was still $125,000 (no payments had been made), and the inventory was worth $115,000.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-14-d",
+      "topicId": "bank-ch9-floating-lien-defense",
+      "title": "Problem 9.14(d) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Creditor provided inventory financing for Debtor, and Creditor had a perfected security interest in all of Debtor's inventory, including after-acquired inventory. Debtor's inventory turned over about every 45 days. Debtor filed bankruptcy on June 30; 90 days before June 30 is April 1. All of Debtor's inventory on June 30 had been acquired since April 1. In the following situations, how much, if any, is the preference liability of Creditor? See § 547(c)(5) and (e)(3).\n\nd. On April 1, Debtor owed Creditor $125,000, and the inventory was worth $100,000. On June 15, Debtor owed $125,000, and the inventory was worth $50,000. On June 30, Debtor owed $125,000 (no payments had been made), and the inventory, which was increased rapidly at Creditor's insistence, was worth $100,000.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-14-e",
+      "topicId": "bank-ch9-floating-lien-defense",
+      "title": "Problem 9.14(e) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Creditor provided inventory financing for Debtor, and Creditor had a perfected security interest in all of Debtor's inventory, including after-acquired inventory. Debtor's inventory turned over about every 45 days. Debtor filed bankruptcy on June 30; 90 days before June 30 is April 1. All of Debtor's inventory on June 30 had been acquired since April 1. In the following situations, how much, if any, is the preference liability of Creditor? See § 547(c)(5) and (e)(3).\n\ne. On April 1, Debtor owed Creditor $125,000, and the inventory was worth $100,000, and on April 2, Debtor paid Creditor $20,000. On June 30, the debt was $105,000, and the inventory was worth $100,000.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-15-a",
+      "topicId": "bank-ch9-setoff-basics",
+      "title": "Problem 9.15(a) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Clem sold banjos on commission for Banjo Co., and as of May 1, was owed $25,000 in commissions. Clem also runs a shop, Banjo Fun, and purchased inventory from Banjo Co. As of May 1, Clem owed Banjo Co. $15,000 for the inventory. Assume that Banjo Co. does not have an Article 9 security interest in the inventory.\n\na. Under state law, if Banjo Co. were to sue Clem for the $15,000 inventory debt, how much would he have to pay?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-15-b",
+      "topicId": "bank-ch9-setoff-basics",
+      "title": "Problem 9.15(b) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Clem sold banjos on commission for Banjo Co., and as of May 1, was owed $25,000 in commissions. Clem also runs a shop, Banjo Fun, and purchased inventory from Banjo Co. As of May 1, Clem owed Banjo Co. $15,000 for the inventory. Assume that Banjo Co. does not have an Article 9 security interest in the inventory.\n\nb. Would it matter if Banjo Fun was itself separately incorporated, and was the entity responsible for (and sued for) the inventory debt?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-15-c",
+      "topicId": "bank-ch9-setoff-basics",
+      "title": "Problem 9.15(c) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Clem sold banjos on commission for Banjo Co., and as of May 1, was owed $25,000 in commissions. Clem also runs a shop, Banjo Fun, and purchased inventory from Banjo Co. As of May 1, Clem owed Banjo Co. $15,000 for the inventory. Assume that Banjo Co. does not have an Article 9 security interest in the inventory.\n\nReference original part (a) facts:\nUnder state law, if Banjo Co. were to sue Clem for the $15,000 inventory debt, how much would he have to pay?\n\nc. Assume the same facts as in a., except Banjo Co. filed bankruptcy on May 1. Would Clem have to pay anything to the trustee? What is the status of Clem's bankruptcy claim?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-15-d",
+      "topicId": "bank-ch9-setoff-basics",
+      "title": "Problem 9.15(d) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Clem sold banjos on commission for Banjo Co., and as of May 1, was owed $25,000 in commissions. Clem also runs a shop, Banjo Fun, and purchased inventory from Banjo Co. As of May 1, Clem owed Banjo Co. $15,000 for the inventory. Assume that Banjo Co. does not have an Article 9 security interest in the inventory.\n\nReference original part (a) facts:\nUnder state law, if Banjo Co. were to sue Clem for the $15,000 inventory debt, how much would he have to pay?\n\nd. Assume the same facts as in a., except on May 2, Clem orders another $10,000 in inventory on credit from Banjo Co. On July 1, Banjo Co. files bankruptcy. Now what is the status of Clem's bankruptcy claim? Do you need more facts?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-15-e",
+      "topicId": "bank-ch9-setoff-basics",
+      "title": "Problem 9.15(e) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Clem sold banjos on commission for Banjo Co., and as of May 1, was owed $25,000 in commissions. Clem also runs a shop, Banjo Fun, and purchased inventory from Banjo Co. As of May 1, Clem owed Banjo Co. $15,000 for the inventory. Assume that Banjo Co. does not have an Article 9 security interest in the inventory.\n\nReference original part (a) facts:\nUnder state law, if Banjo Co. were to sue Clem for the $15,000 inventory debt, how much would he have to pay?\n\ne. Assume the same facts as in d., except Clem actually set off the entire $25,000 debt on June 15, thereby eliminating both his debt to Banjo Co. and Banjo Co.'s debt to him. Would the trustee be able to recover anything from Clem?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-15-f",
+      "topicId": "bank-ch9-setoff-basics",
+      "title": "Problem 9.15(f) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Clem sold banjos on commission for Banjo Co., and as of May 1, was owed $25,000 in commissions. Clem also runs a shop, Banjo Fun, and purchased inventory from Banjo Co. As of May 1, Clem owed Banjo Co. $15,000 for the inventory. Assume that Banjo Co. does not have an Article 9 security interest in the inventory.\n\nf. Change the facts as of May 1 to make Clem's commission claim against Banjo Co. $15,000, and his inventory debt to Banjo Co. $25,000. Now assume further that on June 1, Clem pays Bob $5,000 to purchase Bob's $10,000 claim against Banjo Co. Banjo Co. files bankruptcy on July 1. What is the status of Clem's bankruptcy claim?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch9-p9-15-g",
+      "topicId": "bank-ch9-setoff-basics",
+      "title": "Problem 9.15(g) — original",
+      "kind": "Original Chapter9 textbook problem — UNSOLVED",
+      "source": "Original Chapter9 Problems9.10–9.15 user-supplied text",
+      "prompt": "Clem sold banjos on commission for Banjo Co., and as of May 1, was owed $25,000 in commissions. Clem also runs a shop, Banjo Fun, and purchased inventory from Banjo Co. As of May 1, Clem owed Banjo Co. $15,000 for the inventory. Assume that Banjo Co. does not have an Article 9 security interest in the inventory.\n\ng. Now assume that on June 28, Clem ordered and Banjo Co. delivered $5,000 worth of banjos on credit for a “4th of July” banjo sale (nothing says “corny Americana” like a banjo). Banjo Co. knew that the banjos were being delivered for resale, and gave Clem a one-year express warranty on the banjos. Banjo Co. filed chapter 11 on July 1. Unfortunately, about half of the banjos had a latent defect, causing the neck to snap off when used. In July and August, many of Clem's customers returned the defective banjos to Clem and got a refund from him. Clem, in turn, promptly notified Banjo Co. of the defect and his breach of warranty claim and demanded a full refund for all defective banjos. He also withheld payment for the June 28 delivery. When Banjo Co.'s Chapter 11 case later converted to chapter 7, the trustee sued Clem to recover $5,000 for the June 28 banjo shipment. What result?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
