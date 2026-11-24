@@ -1,0 +1,1284 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+  "coverage": {
+    "chapter": 7,
+    "scope": "All 47 original casebook questions paraphrased and supplementary source-based review questions; six original Problems 7.1-7.6 are saved verbatim-in-substance separately and unanswered",
+    "casebookQuestions": 47,
+    "supplementalQuestions": 80
+  },
+  "topics": [],
+  "problems": [
+    {
+      "id": "bank-ch7-bookq-001",
+      "topicId": "bank-ch7-stay-relief-intro",
+      "title": "Textbook Q1: Which interests did Congress balance in designing stay relief under §3",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Which interests did Congress balance in designing stay relief under §362(d)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-002",
+      "topicId": "bank-ch7-stay-relief-intro",
+      "title": "Textbook Q2: What are §362(d)'s principal stay-relief grounds, and how do they impl",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What are §362(d)'s principal stay-relief grounds, and how do they implement that balance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-003",
+      "topicId": "bank-ch7-stay-relief-intro",
+      "title": "Textbook Q3: How does §362(g) allocate the burden on no equity, adequate protection",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How does §362(g) allocate the burden on no equity, adequate protection, necessity and feasibility?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-004",
+      "topicId": "bank-ch7-stay-relief-intro",
+      "title": "Textbook Q4: What statutory time limits govern expedited stay-relief hearings and c",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What statutory time limits govern expedited stay-relief hearings and continuation of the stay?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-005",
+      "topicId": "bank-ch7-stay-relief-intro",
+      "title": "Textbook Q5: Does denial of stay relief preclude renewed later request under res ju",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Does denial of stay relief preclude renewed later request under res judicata and why?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-006",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Textbook Q6: Explain adequate protection's role in bankruptcy's secured-property fr",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Explain adequate protection's role in bankruptcy's secured-property framework.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-007",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Textbook Q7: What constitutional and bankruptcy-policy rationales underlie adequate",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What constitutional and bankruptcy-policy rationales underlie adequate protection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-008",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Textbook Q8: When do §§362,363,364 and 542 require or implicate adequate protection",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "When do §§362,363,364 and 542 require or implicate adequate protection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-009",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Textbook Q9: What precise interest is §361 adequate protection intended to protect?",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What precise interest is §361 adequate protection intended to protect?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-010",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Textbook Q10: What are cash payments, replacement liens and indubitable-equivalent e",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What are cash payments, replacement liens and indubitable-equivalent examples of protection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-011",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Textbook Q11: When might secured creditor receive administrative superpriority follo",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "When might secured creditor receive administrative superpriority following protection, despite §361's exclusion of ordinary admin expense?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-012",
+      "topicId": "bank-ch7-alyucan",
+      "title": "Textbook Q12: How did Judge Mabey define the function of adequate protection in Alyu",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How did Judge Mabey define the function of adequate protection in Alyucan?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-013",
+      "topicId": "bank-ch7-alyucan",
+      "title": "Textbook Q13: Why does Chapter11 rehabilitation context matter to whether lender may",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why does Chapter11 rehabilitation context matter to whether lender may foreclose?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-014",
+      "topicId": "bank-ch7-alyucan",
+      "title": "Textbook Q14: List the four distinct grounds Alyucan gave for rejecting automatic eq",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "List the four distinct grounds Alyucan gave for rejecting automatic equity-cushion preservation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-015",
+      "topicId": "bank-ch7-alyucan",
+      "title": "Textbook Q15: Is it fair to creditor to lose the cushion on which it originally reli",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Is it fair to creditor to lose the cushion on which it originally relied during postpetition delay?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-016",
+      "topicId": "bank-ch7-alyucan",
+      "title": "Textbook Q16: Distinguish cushion erosion from accrued §506(b) interest versus true ",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Distinguish cushion erosion from accrued §506(b) interest versus true collateral depreciation, and evaluate whether prospective interest expectations are protected by §361.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-017",
+      "topicId": "bank-ch7-alyucan",
+      "title": "Textbook Q17: Why did Alyucan fail to support stay relief through alternative §362(d",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why did Alyucan fail to support stay relief through alternative §362(d)(2)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-018",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q18: What precise undersecured lender opportunity-cost question did Supreme",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What precise undersecured lender opportunity-cost question did Supreme Court decide in Timbers?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-019",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q19: State the Supreme Court's result regarding interest for delay in forec",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "State the Supreme Court's result regarding interest for delay in foreclosing.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-020",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q20: Which lien-value rights are safeguarded by §361 after Timbers?",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Which lien-value rights are safeguarded by §361 after Timbers?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-021",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q21: Why was United Savings unhappy even though apartment collateral did no",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why was United Savings unhappy even though apartment collateral did not decline?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-022",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q22: Would the successful reorganization primarily help lender or other est",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Would the successful reorganization primarily help lender or other estate claimants, and how?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-023",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q23: Identify which stakeholders gain and lose from Timbers no-delay-paymen",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Identify which stakeholders gain and lose from Timbers no-delay-payment rule.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-024",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q24: If DIP obtains NEW postpetition financing, would it ordinarily pay int",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "If DIP obtains NEW postpetition financing, would it ordinarily pay interest, and is that different from stay-period AP?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-025",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q25: Would a DIP operating under postpetition lease owe rent even if leased",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Would a DIP operating under postpetition lease owe rent even if leased asset not depreciating? Explain distinction.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-026",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q26: Which statutory provisions did Scalia interpret together rather than i",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Which statutory provisions did Scalia interpret together rather than isolating §362(d)(1)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-027",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q27: Explain three structural reasons (§506, §552, §362(d)(2)) favoring Tim",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Explain three structural reasons (§506, §552, §362(d)(2)) favoring Timbers result.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-028",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q28: Why did Scalia give separate purposes to §362(d)(1) versus §362(d)(2)?",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why did Scalia give separate purposes to §362(d)(1) versus §362(d)(2)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-029",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q29: What does 'reasonable possibility of successful reorganization within ",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What does 'reasonable possibility of successful reorganization within reasonable time' dictum do to stop unfair lender delay?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-030",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q30: Why doesn't §361(3) 'indubitable equivalent' make immediate interest n",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why doesn't §361(3) 'indubitable equivalent' make immediate interest necessary, versus present value in plan confirmation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-031",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q31: How did pre-Code practice and statutory history inform or fail to alte",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How did pre-Code practice and statutory history inform or fail to alter Timbers interpretation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-032",
+      "topicId": "bank-ch7-timbers",
+      "title": "Textbook Q32: On actual Timbers facts, could lender have used §362(d)(2) or later SA",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "On actual Timbers facts, could lender have used §362(d)(2) or later SARE §362(d)(3), and what additional facts would matter?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-033",
+      "topicId": "bank-ch7-362d2-two-prong",
+      "title": "Textbook Q33: State BOTH requirements for §362(d)(2) stay relief as to acts against ",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "State BOTH requirements for §362(d)(2) stay relief as to acts against property.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-034",
+      "topicId": "bank-ch7-362d2-two-prong",
+      "title": "Textbook Q34: Which side carries proof on the debtor-equity inquiry and on effective",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Which side carries proof on the debtor-equity inquiry and on effective reorganization?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-035",
+      "topicId": "bank-ch7-362d2-two-prong",
+      "title": "Textbook Q35: Why do equity and necessity of collateral represent independent bankru",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why do equity and necessity of collateral represent independent bankruptcy policy reasons?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-036",
+      "topicId": "bank-ch7-362d2-two-prong",
+      "title": "Textbook Q36: Contrast §362(d)(1) creditor-harm focus with §362(d)(2) estate-purpose",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Contrast §362(d)(1) creditor-harm focus with §362(d)(2) estate-purpose focus.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-037",
+      "topicId": "bank-ch7-pegasus",
+      "title": "Textbook Q37: What subdivision/housing development did Pegasus propose for Davenport",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What subdivision/housing development did Pegasus propose for Davenport land?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-038",
+      "topicId": "bank-ch7-pegasus",
+      "title": "Textbook Q38: Identify factual and numerical reasons Second Circuit found proposed r",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Identify factual and numerical reasons Second Circuit found proposed reorganization not feasible.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-039",
+      "topicId": "bank-ch7-pegasus",
+      "title": "Textbook Q39: What credible evidence or financing might have let Pegasus keep stay, ",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What credible evidence or financing might have let Pegasus keep stay, if any?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-040",
+      "topicId": "bank-ch7-pegasus",
+      "title": "Textbook Q40: How rigorously should courts demand feasible plan evidence on early st",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How rigorously should courts demand feasible plan evidence on early stay motion, and what Timbers test did Pegasus apply?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-041",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Textbook Q41: How does self-executing automatic stay create opportunities for abuse ",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How does self-executing automatic stay create opportunities for abuse by repeated skeletal filings?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-042",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Textbook Q42: Compare §109(g) 180-day eligibility bar with §362(c)(3) single prior c",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Compare §109(g) 180-day eligibility bar with §362(c)(3) single prior case and (c)(4) two or more prior dismissals.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-043",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Textbook Q43: Describe why transferring fractional interests defeats remedies focusi",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Describe why transferring fractional interests defeats remedies focusing only on original debtor's filings.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-044",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Textbook Q44: How can recorded §362(d)(4) in rem stay relief defeat staggered filing",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How can recorded §362(d)(4) in rem stay relief defeat staggered filings by separate fractional owners?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-045",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Textbook Q45: What statutory grounds and evidence support property-specific §362(d)(",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What statutory grounds and evidence support property-specific §362(d)(4) order?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-046",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Textbook Q46: For how long after recording does an in rem order bind other bankruptc",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "For how long after recording does an in rem order bind other bankruptcies concerning that realty?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-bookq-047",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Textbook Q47: Why was §362(b)(22) prepetition eviction-possession judgment exception",
+      "kind": "Chapter 7 textbook question — PARAPHRASED / UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why was §362(b)(22) prepetition eviction-possession judgment exception adopted when tenant might have residual possessory interest?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-001",
+      "topicId": "bank-ch7-stay-relief-intro",
+      "title": "Exam review 1 — What ends the stay under §362(c) and how does that differ from §36",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What ends the stay under §362(c) and how does that differ from §362(d) relief?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-002",
+      "topicId": "bank-ch7-stay-relief-intro",
+      "title": "Exam review 2 — Why might removing key Chapter11 equipment destroy the going-conce",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why might removing key Chapter11 equipment destroy the going-concern recovery?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-003",
+      "topicId": "bank-ch7-stay-relief-intro",
+      "title": "Exam review 3 — Does lender have protected economic value or unconditional right t",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Does lender have protected economic value or unconditional right to immediate repossession?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-004",
+      "topicId": "bank-ch7-stay-relief-intro",
+      "title": "Exam review 4 — What role does §362(d)(1) cause play in letting unrelated state li",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What role does §362(d)(1) cause play in letting unrelated state litigation proceed?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-005",
+      "topicId": "bank-ch7-stay-burden-procedure",
+      "title": "Exam review 5 — Make a burden chart creditor no-equity versus DIP adequate-protect",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Make a burden chart creditor no-equity versus DIP adequate-protection/necessity/feasibility.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-006",
+      "topicId": "bank-ch7-stay-burden-procedure",
+      "title": "Exam review 6 — Compare the 30-day §362(e) hearing mechanism with individual-debto",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Compare the 30-day §362(e) hearing mechanism with individual-debtor 60-day final-decision rule.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-007",
+      "topicId": "bank-ch7-stay-burden-procedure",
+      "title": "Exam review 7 — When does §362(f) permit emergency ex parte protection?",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "When does §362(f) permit emergency ex parte protection?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-008",
+      "topicId": "bank-ch7-stay-burden-procedure",
+      "title": "Exam review 8 — Give two examples of conditional stay orders short of full termina",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Give two examples of conditional stay orders short of full termination.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-009",
+      "topicId": "bank-ch7-stay-burden-procedure",
+      "title": "Exam review 9 — Why can a lender file again six months after early denial?",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why can a lender file again six months after early denial?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-010",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Exam review 10 — What is the difference between nonbankruptcy property rights and f",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What is the difference between nonbankruptcy property rights and federal bankruptcy enforcement remedy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-011",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Exam review 11 — Cash, replacement lien, indubitable equivalent: which can protect ",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Cash, replacement lien, indubitable equivalent: which can protect an asset declining each month?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-012",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Exam review 12 — Why is a simple §503(b)(1) administrative claim invalid as initial",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why is a simple §503(b)(1) administrative claim invalid as initial §361(3) AP?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-013",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Exam review 13 — What facts establish that §507(b) superpriority was triggered by i",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What facts establish that §507(b) superpriority was triggered by inadequate AP?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-014",
+      "topicId": "bank-ch7-adequate-protection-core",
+      "title": "Exam review 14 — Under what Code sections is AP condition of collateral turnover, D",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Under what Code sections is AP condition of collateral turnover, DIP use and priming lien?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-015",
+      "topicId": "bank-ch7-opportunity-cost",
+      "title": "Exam review 15 — Calculate cushion survival from $50k cushion, $2k monthly deprecia",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Calculate cushion survival from $50k cushion, $2k monthly depreciation and $1k accruing interest.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-016",
+      "topicId": "bank-ch7-opportunity-cost",
+      "title": "Exam review 16 — Distinguish threatened collateral depreciation from cost of not ea",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Distinguish threatened collateral depreciation from cost of not earning interest on foreclosure proceeds.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-017",
+      "topicId": "bank-ch7-opportunity-cost",
+      "title": "Exam review 17 — An $80k asset protects only part of $100k debt: does that give rig",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "An $80k asset protects only part of $100k debt: does that give right to 12% interim interest?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-018",
+      "topicId": "bank-ch7-opportunity-cost",
+      "title": "Exam review 18 — Why might a cushion alone allow debtor to retain collateral for 12",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why might a cushion alone allow debtor to retain collateral for 12 months?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-019",
+      "topicId": "bank-ch7-problems-7-1-2",
+      "title": "Exam review 19 — For Zambonis $425–500k with $500k debt, why does value-range uncer",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "For Zambonis $425–500k with $500k debt, why does value-range uncertainty matter?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-020",
+      "topicId": "bank-ch7-problems-7-1-2",
+      "title": "Exam review 20 — How is a $5.6k contractual payment different from $5k actual fleet",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How is a $5.6k contractual payment different from $5k actual fleet depreciation estimate?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-021",
+      "topicId": "bank-ch7-problems-7-1-2",
+      "title": "Exam review 21 — Does equity in other real estate potentially provide AP through re",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Does equity in other real estate potentially provide AP through replacement liens?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-022",
+      "topicId": "bank-ch7-problems-7-1-2",
+      "title": "Exam review 22 — What changes when Zambonis valued at $600k, as opposed to $425–500",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What changes when Zambonis valued at $600k, as opposed to $425–500k?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-023",
+      "topicId": "bank-ch7-problems-7-1-2",
+      "title": "Exam review 23 — How to analyze predicted vs actual loss and §507(b) after ten mont",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How to analyze predicted vs actual loss and §507(b) after ten months without resolving 7.2?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-024",
+      "topicId": "bank-ch7-alyucan",
+      "title": "Exam review 24 — Explain difference between creditor's $127,774 filing cushion and ",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Explain difference between creditor's $127,774 filing cushion and $94,239 hearing cushion despite stable land.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-025",
+      "topicId": "bank-ch7-alyucan",
+      "title": "Exam review 25 — Could lien be sufficiently protected without the original buffer r",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Could lien be sufficiently protected without the original buffer ratio?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-026",
+      "topicId": "bank-ch7-alyucan",
+      "title": "Exam review 26 — List the four Alyucan critiques of cushion formula using statutory",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "List the four Alyucan critiques of cushion formula using statutory citations.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-027",
+      "topicId": "bank-ch7-alyucan",
+      "title": "Exam review 27 — Why should §362(d)(2) no-equity rule not be replaced by a positive",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why should §362(d)(2) no-equity rule not be replaced by a positive-cushion requirement?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-028",
+      "topicId": "bank-ch7-timbers",
+      "title": "Exam review 28 — What did United Savings demand in dollars/rate and what was its lo",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What did United Savings demand in dollars/rate and what was its lost-economic-return argument?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-029",
+      "topicId": "bank-ch7-timbers",
+      "title": "Exam review 29 — Why would accepting lost-time compensation make §506(b) interest l",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why would accepting lost-time compensation make §506(b) interest limitation meaningless?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-030",
+      "topicId": "bank-ch7-timbers",
+      "title": "Exam review 30 — What is §552(b)'s rents/profits limitation and why relevant to 'us",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What is §552(b)'s rents/profits limitation and why relevant to 'use value'?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-031",
+      "topicId": "bank-ch7-timbers",
+      "title": "Exam review 31 — Why did Court see §362(d)(2) as superfluous under lender's alterna",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why did Court see §362(d)(2) as superfluous under lender's alternative interpretation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-032",
+      "topicId": "bank-ch7-timbers",
+      "title": "Exam review 32 — Explain difference between indubitable equivalent during stay and ",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Explain difference between indubitable equivalent during stay and discounted plan cashflow after confirmation.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-033",
+      "topicId": "bank-ch7-timbers",
+      "title": "Exam review 33 — Describe creditor remedies if apartment collateral had been actual",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Describe creditor remedies if apartment collateral had been actually declining in value.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-034",
+      "topicId": "bank-ch7-362d2-two-prong",
+      "title": "Exam review 34 — How does (d)(2) assess 'necessary to effective reorganization' whe",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How does (d)(2) assess 'necessary to effective reorganization' when no residual equity?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-035",
+      "topicId": "bank-ch7-362d2-two-prong",
+      "title": "Exam review 35 — Why doesn't adequate protection automatically defeat all other sta",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why doesn't adequate protection automatically defeat all other stay relief requests?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-036",
+      "topicId": "bank-ch7-362d2-necessity",
+      "title": "Exam review 36 — How do ready substitutes and fungible collateral affect necessity?",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How do ready substitutes and fungible collateral affect necessity?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-037",
+      "topicId": "bank-ch7-362d2-necessity",
+      "title": "Exam review 37 — Why is an idle passive investment possibly less necessary than a w",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why is an idle passive investment possibly less necessary than a working production plant?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-038",
+      "topicId": "bank-ch7-362d2-feasibility",
+      "title": "Exam review 38 — What is the precise Timbers phrase courts use for feasible reorgan",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What is the precise Timbers phrase courts use for feasible reorganization?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-039",
+      "topicId": "bank-ch7-362d2-feasibility",
+      "title": "Exam review 39 — How should evidence burden shift as Chapter11 continues past early",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How should evidence burden shift as Chapter11 continues past early 120-day period?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-040",
+      "topicId": "bank-ch7-362d2-feasibility",
+      "title": "Exam review 40 — What actual market research and financial documents support a cred",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What actual market research and financial documents support a credible restructuring?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-041",
+      "topicId": "bank-ch7-362d2-feasibility",
+      "title": "Exam review 41 — If a lender can veto every possible plan and no cramdown is availa",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "If a lender can veto every possible plan and no cramdown is available, what is effect?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-042",
+      "topicId": "bank-ch7-pegasus",
+      "title": "Exam review 42 — What was wrong with a fixed $600k home sale price when lots differ",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What was wrong with a fixed $600k home sale price when lots differ radically in size?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-043",
+      "topicId": "bank-ch7-pegasus",
+      "title": "Exam review 43 — Why did fixed $800k site development costs undermine 8-vs-18 house",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why did fixed $800k site development costs undermine 8-vs-18 house analysis?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-044",
+      "topicId": "bank-ch7-pegasus",
+      "title": "Exam review 44 — Could correcting full debt versus secured portion alone rescue spe",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Could correcting full debt versus secured portion alone rescue speculative development plan?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-045",
+      "topicId": "bank-ch7-pegasus",
+      "title": "Exam review 45 — Why did owner's conditional profit expectation make proposed fundi",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why did owner's conditional profit expectation make proposed funding unreliable?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-046",
+      "topicId": "bank-ch7-problems-7-3-5",
+      "title": "Exam review 46 — In Problem7.3 which mortgage balances must be compared against $12",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "In Problem7.3 which mortgage balances must be compared against $120k total collateral value?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-047",
+      "topicId": "bank-ch7-problems-7-3-5",
+      "title": "Exam review 47 — In Problem7.4 distinguish original contract $1m progress receipt f",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "In Problem7.4 distinguish original contract $1m progress receipt from new trucking-contract $250k receipt.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-048",
+      "topicId": "bank-ch7-problems-7-3-5",
+      "title": "Exam review 48 — What does §552(a) do to after-acquired property in bankruptcy?",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What does §552(a) do to after-acquired property in bankruptcy?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-049",
+      "topicId": "bank-ch7-problems-7-3-5",
+      "title": "Exam review 49 — When might §552(b)(1) preserve interest in receipts of prepetition",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "When might §552(b)(1) preserve interest in receipts of prepetition contract?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-050",
+      "topicId": "bank-ch7-problems-7-3-5",
+      "title": "Exam review 50 — In Problem7.5 distinguish perfected building mortgage from prepeti",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "In Problem7.5 distinguish perfected building mortgage from prepetition enforceable rents assignment.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-051",
+      "topicId": "bank-ch7-problems-7-3-5",
+      "title": "Exam review 51 — If cash is qualifying collateral under §363, what must debtor obta",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "If cash is qualifying collateral under §363, what must debtor obtain to spend it?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-052",
+      "topicId": "bank-ch7-sare-definition",
+      "title": "Exam review 52 — Break SARE definition into single project, four-unit exception, gr",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Break SARE definition into single project, four-unit exception, gross income and separate active business.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-053",
+      "topicId": "bank-ch7-sare-definition",
+      "title": "Exam review 53 — Why is one rental apartment building a classic case but golf cours",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why is one rental apartment building a classic case but golf course not necessarily?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-054",
+      "topicId": "bank-ch7-sare-definition",
+      "title": "Exam review 54 — Could a hotel restaurant or marina boat repair operation be substa",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Could a hotel restaurant or marina boat repair operation be substantial independent business?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-055",
+      "topicId": "bank-ch7-sare-362d3",
+      "title": "Exam review 55 — When is SARE deadline 90 days after filing versus 30 days after ju",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "When is SARE deadline 90 days after filing versus 30 days after judge's later designation?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-056",
+      "topicId": "bank-ch7-sare-362d3",
+      "title": "Exam review 56 — What two alternatives let SARE debtor retain stay after statutory ",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What two alternatives let SARE debtor retain stay after statutory deadline?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-057",
+      "topicId": "bank-ch7-sare-362d3",
+      "title": "Exam review 57 — Why is monthly interest based on secured claim rather than entire ",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why is monthly interest based on secured claim rather than entire total debt?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-058",
+      "topicId": "bank-ch7-sare-362d3",
+      "title": "Exam review 58 — How does SARE provision mitigate Timbers incentive to delay forecl",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How does SARE provision mitigate Timbers incentive to delay foreclosure?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-059",
+      "topicId": "bank-ch7-sare-362d3",
+      "title": "Exam review 59 — Why isn't SARE interest applicable to every undersecured Chapter11",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why isn't SARE interest applicable to every undersecured Chapter11 debtor?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-060",
+      "topicId": "bank-ch7-larry-goodwin",
+      "title": "Exam review 60 — List facilities and services Uwharrie Golf Club provided beyond pa",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "List facilities and services Uwharrie Golf Club provided beyond passive property holding.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-061",
+      "topicId": "bank-ch7-larry-goodwin",
+      "title": "Exam review 61 — Why did court compare Kkemko marina and CBJ Development hotel serv",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why did court compare Kkemko marina and CBJ Development hotel service businesses?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-062",
+      "topicId": "bank-ch7-larry-goodwin",
+      "title": "Exam review 62 — Why did no-SARE ruling change $6,793 conditional payments to $4,00",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why did no-SARE ruling change $6,793 conditional payments to $4,000?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-063",
+      "topicId": "bank-ch7-problem-7-6",
+      "title": "Exam review 63 — Why does source give $150k gross rent, $30k expenses, $120k net re",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why does source give $150k gross rent, $30k expenses, $120k net rent, $125k whole-loan interest and $100k secured interest?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-064",
+      "topicId": "bank-ch7-problem-7-6",
+      "title": "Exam review 64 — How should an issue spotter separate SARE monthly requirement from",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How should an issue spotter separate SARE monthly requirement from rents as cash collateral?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-065",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Exam review 65 — What triggers §109(g)(1) versus (g)(2) 180-day bar?",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What triggers §109(g)(1) versus (g)(2) 180-day bar?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-066",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Exam review 66 — What happens to initial stay after ONE recent dismissed case compa",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What happens to initial stay after ONE recent dismissed case compared with TWO?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-067",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Exam review 67 — What evidence might rebut a statutory bad faith presumption by cle",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What evidence might rebut a statutory bad faith presumption by clear and convincing proof?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-068",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Exam review 68 — How does §521(i) day45/day46 filing requirement target skeletal pe",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How does §521(i) day45/day46 filing requirement target skeletal petitions?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-069",
+      "topicId": "bank-ch7-serial-filing",
+      "title": "Exam review 69 — What is the distinction between a judicial refiling bar and statut",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What is the distinction between a judicial refiling bar and statutory §109(g) bar?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-070",
+      "topicId": "bank-ch7-in-rem-relief",
+      "title": "Exam review 70 — Why does creditor need property-specific recorded order rather tha",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why does creditor need property-specific recorded order rather than banning original debtor only?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-071",
+      "topicId": "bank-ch7-in-rem-relief",
+      "title": "Exam review 71 — What is two-year binding effect of §362(d)(4) recorded order?",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What is two-year binding effect of §362(d)(4) recorded order?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-072",
+      "topicId": "bank-ch7-in-rem-relief",
+      "title": "Exam review 72 — When can later genuine debtor request relief from order for change",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "When can later genuine debtor request relief from order for changed circumstances?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-073",
+      "topicId": "bank-ch7-eviction",
+      "title": "Exam review 73 — Why does prepetition judgment for possession trigger §362(b)(22) e",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Why does prepetition judgment for possession trigger §362(b)(22) even if debtor still occupies unit?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-074",
+      "topicId": "bank-ch7-eviction",
+      "title": "Exam review 74 — What certifications and nonbankruptcy cure rights allow temporary ",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "What certifications and nonbankruptcy cure rights allow temporary 30-day protection under §362(l)?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-075",
+      "topicId": "bank-ch7-eviction",
+      "title": "Exam review 75 — How do endangerment and illegal controlled substance evictions dif",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How do endangerment and illegal controlled substance evictions differ?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-076",
+      "topicId": "bank-ch7-chapter7-exam-map",
+      "title": "Exam review 76 — Make full 362(d)(1), (d)(2) and (d)(3) decision tree with burdens ",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Make full 362(d)(1), (d)(2) and (d)(3) decision tree with burdens and remedies.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-077",
+      "topicId": "bank-ch7-chapter7-exam-map",
+      "title": "Exam review 77 — Pick correct case Alyucan/Timbers/Pegasus/Goodwin for hypothetical",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Pick correct case Alyucan/Timbers/Pegasus/Goodwin for hypothetical.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-078",
+      "topicId": "bank-ch7-chapter7-exam-map",
+      "title": "Exam review 78 — How to compute debtor equity with first and junior liens and when ",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "How to compute debtor equity with first and junior liens and when to use replacement appraisal?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-079",
+      "topicId": "bank-ch7-chapter7-exam-map",
+      "title": "Exam review 79 — Separate 362(g) burdens, 362(e) clocks and 362(f) urgent relief.",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Separate 362(g) burdens, 362(e) clocks and 362(f) urgent relief.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-review-080",
+      "topicId": "bank-ch7-chapter7-exam-map",
+      "title": "Exam review 80 — Which Code provisions govern §552 prepetition lien on rents and §3",
+      "kind": "Chapter 7 extra exam practice — UNSOLVED",
+      "source": "All questions paraphrased from the full user-uploaded Chapter 7 (Relief from Stay and Adequate Protection); original Problems 7.1–7.6 appear separately without answers",
+      "prompt": "Which Code provisions govern §552 prepetition lien on rents and §363 postpetition cash use?",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
