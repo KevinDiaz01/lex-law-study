@@ -1,0 +1,328 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+  "coverage": {
+    "chapter": 6,
+    "scope": "§506(b) oversecured interest numerical framework source-linked to Problem6.2; D. §506(c) surcharge, direct benefit vs broad operations, full Hartford Underwriters opinion and reserved questions, chapter review issue flow"
+  },
+  "topics": [
+    {
+      "id": "bank-ch6-oversecured-506b",
+      "title": "A. §506(b): Oversecured Claims, Postpetition Interest and Equity Cushion",
+      "chapterGroup": "bank-ch6",
+      "description": "Specific 6.2(d)–(f) step-by-step approach for note interest versus judgment interest.",
+      "entries": [
+        {
+          "id": "bank-ch6-oversecured-506b-e1",
+          "type": "rule",
+          "title": "Oversecured if collateral net priority value exceeds allowed principal",
+          "page": "Ch.6 §A Problem 6.2(d)-(f)",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "A creditor is oversecured where collateral supporting its claim exceeds allowed principal. Under §506(b) potentially allowed postpetition interest and qualifying fees/costs can accrue insofar as cushion supports amount.",
+          "laymanExplanation": "You are owed $14k but collateral worth $20k, so extra $6k protects certain interest as case continues.",
+          "legalExplanation": "Code contrasts §502(b)(2) general exclusion of unmatured interest for unsecured claims with special oversecured entitlement, including nonconsensual judgment liens recognized by Ron Pair.",
+          "examApplication": "In 6.2(d/e) first calculate $20k−$14k cushion, then 10%×$14k×1 year (simple interest on stated facts) and check available cushion.",
+          "examTrap": "Do not pay postpetition interest without testing equity cushion and legal entitlement."
+        },
+        {
+          "id": "bank-ch6-oversecured-506b-e2",
+          "type": "rule",
+          "title": "Interest does not exceed collateral surplus merely due to §506(b)",
+          "page": "Ch.6 §A Problem 6.2",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Even where creditor is oversecured initially, postpetition interest included in secured allowance is limited by collateral support; if adding interest consumes excess, additional amount not automatically collateral-backed.",
+          "laymanExplanation": "Oversecured cushion is a budget for interest and qualifying charges.",
+          "legalExplanation": "Value of senior liens and partial ownership alter actual cushion.",
+          "examApplication": "In 6.2(f) $15k collateral/$14k principal gives cushion $1k, while 10% annual interest on $14k for one year may be larger.",
+          "examTrap": "Don't assume one-year's 10% always fully secured."
+        },
+        {
+          "id": "bank-ch6-oversecured-506b-e3",
+          "type": "rule",
+          "title": "Contract note versus state judgment lien can both merit consideration",
+          "page": "Ch.6 §A Problem 6.2(d),(e)",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Problem deliberately changes underlying secured claim from promissory note bearing 10% to judgment bearing 10% statutory interest, pointing to §506(b) and Ron Pair's treatment of postpetition interest for nonconsensual liens.",
+          "laymanExplanation": "Interest law may come from contract OR judgment statute; don't assume only signed promissory note matters.",
+          "legalExplanation": "The uploaded chapter flags judgment comparison, without reproducing full Ron Pair holding; avoid overreading other fees rules.",
+          "examApplication": "Write source of interest and valid judgment lien distinctly, evaluate cushion.",
+          "examTrap": "Not all additional attorney fees are allowed merely because judgment has interest."
+        },
+        {
+          "id": "bank-ch6-oversecured-506b-e4",
+          "type": "rule",
+          "title": "Secured amount vs total allowed claim vs interest period",
+          "page": "Ch.6 §A Problem 6.2",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "For plan confirmation one year after filing, distinguish petition-date allowed principal and subsequent accrued interest, actual collateral valuation date, and deferred-plan future interest from Till.",
+          "laymanExplanation": "Three timelines: loan balance at filing, interest during bankruptcy, then interest for plan installments.",
+          "legalExplanation": "§506(b) postpetition preconfirmation interest differs from §1325 present-value rate on installments.",
+          "examApplication": "Build separate arithmetic for year before plan and payment schedule after plan.",
+          "examTrap": "Don't add 10% note interest twice or treat Till prime-plus as automatically same as note's contractual 10%."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-surcharge-506c",
+      "title": "D. §506(c) Surcharge: When Collateral Pays Costs of Its Preservation or Sale",
+      "chapterGroup": "bank-ch6",
+      "description": "Reasonable necessary direct collateral benefit, consent and avoiding administrative priority inversion.",
+      "entries": [
+        {
+          "id": "bank-ch6-surcharge-506c-e1",
+          "type": "rule",
+          "title": "§506(c) trustee may recover reasonable necessary costs for secured collateral",
+          "page": "Ch.6 §D opening",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Trustee may surcharge collateral backing allowed secured claim for reasonable and necessary costs of preserving or disposing of property to extent benefit to secured claimholder, including cited ad valorem taxes.",
+          "laymanExplanation": "If trustee pays to repair and auction secured truck, sale expenses may be deducted from truck proceeds.",
+          "legalExplanation": "Unlike ordinary §503 admin cost paid from unencumbered assets, specific §506(c) charge reaches lienholder collateral.",
+          "examApplication": "Ask claimant standing, direct identifiable benefit, necessity, cost and secured creditor consent.",
+          "examTrap": "Not every general business operating expense can be deducted from lender's collateral."
+        },
+        {
+          "id": "bank-ch6-surcharge-506c-e2",
+          "type": "rule",
+          "title": "Two theoretical bases: direct benefit or creditor consent",
+          "page": "Ch.6 §D",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Casebook describes direct creditor benefit from specific expense, or secured lender's consent as grounds to charge collateral; dispute whether indirect help to reorganize counts.",
+          "laymanExplanation": "If bank agrees to pay auctioneer, or auctioneer actually sells the bank's pledged warehouse, surcharge plausible.",
+          "legalExplanation": "Prevailing view requires direct and immediate benefit or clear consent, not conjectural overall rehabilitation.",
+          "examApplication": "Separate proof of express consent in financing order from inferred benefit of business functioning.",
+          "examTrap": "A reorganization that might protect collateral does not automatically establish quantifiable benefit."
+        },
+        {
+          "id": "bank-ch6-surcharge-506c-e3",
+          "type": "rule",
+          "title": "Direct-and-immediate benefit versus generalized operations",
+          "page": "Ch.6 §D",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Prevailing view narrow: costs needed to preserve/dispose identified collateral can be paid from collateral; rent, insurance, general overhead or wages merely helping debtor attempt plan do not automatically pass.",
+          "laymanExplanation": "A tow bill to sell car protects bank's recovery; unrelated restaurant payroll may not.",
+          "legalExplanation": "Allowing vague benefits to eat collateral would promote administrative creditors above even secured lenders contrary priority scheme.",
+          "examApplication": "Tie each dollar to collateral and incremental realized value.",
+          "examTrap": "Don't assume all §503(b) eligible administrative expense is also §506(c) surcharge."
+        },
+        {
+          "id": "bank-ch6-surcharge-506c-e4",
+          "type": "rule",
+          "title": "Surcharge can reduce secured recovery despite general priority",
+          "page": "Ch.6 §D",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Ordinarily secured lenders recover collateral value before administrative/general unsecured claimants; §506(c) narrows proceeds for directly beneficial collateral expenses.",
+          "laymanExplanation": "Bank doesn't get free warehouse sale while estate pays all auction costs.",
+          "legalExplanation": "This exception prevents creditor windfall at estate expense but carries standing limits.",
+          "examApplication": "If trustee sells encumbered equipment, calculate gross proceeds minus necessary sale cost for net collateral proceeds.",
+          "examTrap": "Surcharge is exception, not way to finance entire Chapter11 out of bank collateral."
+        },
+        {
+          "id": "bank-ch6-surcharge-506c-e5",
+          "type": "rule",
+          "title": "Two separate §506(c) questions: who can sue and whether costs qualify",
+          "page": "Ch.6 §D",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Hartford decided ONLY standing for individual administrative claimant; Court assumed arguendo insurance was a benefit and expressly left merits undecided.",
+          "laymanExplanation": "Before asking whether payroll helped bank, ask who has power to demand surcharge.",
+          "legalExplanation": "Standing and merits are independent statutory issues, despite practical effect of screening weak claims.",
+          "examApplication": "Present separate headings for standing and direct benefit.",
+          "examTrap": "Never cite Hartford as holding workers compensation insurance costs lacked benefit."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-hartford",
+      "title": "D. Hartford Underwriters v. Union Planters Bank (2000) — Full Case",
+      "chapterGroup": "bank-ch6",
+      "description": "Trustee-exclusive independent §506(c) standing, workers' compensation insurer and reserved derivative suits.",
+      "entries": [
+        {
+          "id": "bank-ch6-hartford-e1",
+          "type": "case",
+          "title": "Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A., 530 U.S. 1 (2000)",
+          "page": "Ch.6 §D / Hartford full opinion",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "No. Unanimous Supreme Court affirmed: §506(c) expressly assigns ability to recover collateral preservation/disposition costs to 'the trustee,' excluding independent private §503 administrative claimant. Court ASSUMED possible benefit and did not rule on merits, on who owns a trustee's recovery, or whether court could authorize derivative action by another party.",
+          "laymanExplanation": "Section 506(c) grants standing to trustee to seek direct secured collateral expense recoupment; individual administrative claimant cannot assert independent right merely because it has unpaid §503 expense.",
+          "legalExplanation": "Scalia read Congress's designation of 'the trustee' as exclusive in context of unique fiduciary role and contrast with broad 'party in interest' §502(a) or 'entity' §503(b)(4). Absence of word 'only' not determinative. Pre-Code precedents insufficient to overcome text. Policy might support allowing insurer direct suit, but broad private rights risk multiple competing claims/financing deterrence; creditors can request cash, contract with secured lender, seek priority/security under §364 and monitor payments. Trustee duty to use provision as fiduciary guards interests. Footnote5 expressly reserved whether derivative permission possible where trustee declines; footnote4 left beneficiary of recovery undecided.",
+          "examApplication": "Discuss blanket lien, $50k insurance premiums, lack of free assets, authorized financing and narrow statutory interpretation. State insurer's potential benefit argument was assumed, not adjudicated.",
+          "examTrap": "Hartford does NOT hold only the trustee could ever act with authorized derivative authority; Court reserved that question.",
+          "assignedOpinion": true,
+          "sourceRole": "Full unanimous Supreme Court opinion excerpted in uploaded Chapter 6",
+          "facts": "Hen House Interstate filed Chapter11 Sept.5 1991, operating restaurants/service stations/outdoor advertising. Union Planters held blanket security interests in essentially all assets for over $4m; later provided $300k postfiling credit via court order authorizing use of funds/cash collateral including workers' comp. Hartford furnished worker compensation insurance unaware case, Hen House defaulted monthly premiums; insolvency led conversion Chapter7 Jan.20 1993 with >$50k premiums unpaid and no unencumbered assets. Hartford itself filed §503 admin claim and sought §506(c) surcharge against Union Planters collateral, arguing insurance aided collateral operation/consent. Courts divided, Eighth Circuit en banc ruled administrative claimant lacked statutory standing.",
+          "issue": "May administrative claimant, acting INDEPENDENTLY in its own name rather than as trustee, surcharge secured lender's collateral under §506(c) to collect its unpaid postpetition service claim?",
+          "holding": "No. Unanimous Supreme Court affirmed: §506(c) expressly assigns ability to recover collateral preservation/disposition costs to 'the trustee,' excluding independent private §503 administrative claimant. Court ASSUMED possible benefit and did not rule on merits, on who owns a trustee's recovery, or whether court could authorize derivative action by another party.",
+          "reasoning": "Scalia read Congress's designation of 'the trustee' as exclusive in context of unique fiduciary role and contrast with broad 'party in interest' §502(a) or 'entity' §503(b)(4). Absence of word 'only' not determinative. Pre-Code precedents insufficient to overcome text. Policy might support allowing insurer direct suit, but broad private rights risk multiple competing claims/financing deterrence; creditors can request cash, contract with secured lender, seek priority/security under §364 and monitor payments. Trustee duty to use provision as fiduciary guards interests. Footnote5 expressly reserved whether derivative permission possible where trustee declines; footnote4 left beneficiary of recovery undecided.",
+          "rule": "Section 506(c) grants standing to trustee to seek direct secured collateral expense recoupment; individual administrative claimant cannot assert independent right merely because it has unpaid §503 expense.",
+          "unresolved": "Court explicitly declined to decide derivative trustee-substitute action after court authorization and whether successful §506(c) recovery belongs to estate as a whole or service provider. It assumed without deciding that workers' comp insurance conferred statutory benefit."
+        },
+        {
+          "id": "bank-ch6-hartford-e2",
+          "type": "rule",
+          "title": "Hartford textual contrast: 'the trustee' vs 'party in interest'",
+          "page": "Ch.6 §D / Hartford",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Supreme Court reasoned §506(c) designates trustee specifically, while other provisions explicitly empower broader entities; context implies exclusive independent power even absent 'only'.",
+          "laymanExplanation": "If law says trustee may bring action, insurance company can't assume it can too.",
+          "legalExplanation": "Compare §502(a) 'party in interest' and §503(b)(4) 'entity' statutory phrasing.",
+          "examApplication": "On statutory interpretation question use specific actor canon and contrasted sections.",
+          "examTrap": "Not a general rule that every 'may' sentence makes all other actors legally prohibited."
+        },
+        {
+          "id": "bank-ch6-hartford-e3",
+          "type": "rule",
+          "title": "Assumed insurance benefit not decided",
+          "page": "Ch.6 §D / Hartford",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Even though Hartford asserted that workers' compensation insurance let operating debtor preserve bank's collateral value and financing order consented, Court assumed merits for standing only.",
+          "laymanExplanation": "Court said it won't decide whether $50k premiums actually benefited bank collateral.",
+          "legalExplanation": "Any exam answer must independently assess direct collateral benefit and clear consent if trustee asks.",
+          "examApplication": "Don't cite merits holding not made.",
+          "examTrap": "Standing victory for bank is not substantive decision no benefit existed."
+        },
+        {
+          "id": "bank-ch6-hartford-e4",
+          "type": "rule",
+          "title": "What Hartford expressly reserved: derivative standing and beneficiary",
+          "page": "Ch.6 §D / Hartford notes 4–5",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Court left open whether other interested party could act in trustee's stead with permission and whether §506(c) recovery goes to estate for general distribution or directly the creditor providing service.",
+          "laymanExplanation": "If trustee refuses to sue, separate derivative authorization question is still open in opinion.",
+          "legalExplanation": "No Hartford blanket holding resolving every nontrustee suit or direct reimbursement.",
+          "examApplication": "Explain footnotes 4,5 when professor asks why decision perhaps did not fully end standing controversy.",
+          "examTrap": "Court rejected Hartford's asserted independent action, not a court-authorized derivative action actually requested."
+        },
+        {
+          "id": "bank-ch6-hartford-e5",
+          "type": "rule",
+          "title": "Alternative safeguards for service vendors",
+          "page": "Ch.6 §D / Hartford",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Vendors can demand cash payment, contract with bank, obtain DIP financing priority/collateral under §364, monitor accounts or petition trustee to act, rather than assuming §506(c) private action.",
+          "laymanExplanation": "Insurance company could have required prepayment or negotiated direct secured lender arrangement.",
+          "legalExplanation": "Court thought protecting statutory priority and reliable postpetition credit may outweigh inviting numerous private collateral claims.",
+          "examApplication": "Address policy question fairness vs encouraging bank financing.",
+          "examTrap": "No guaranteed reimbursement solely because vendor didn't know of bankruptcy."
+        },
+        {
+          "id": "bank-ch6-hartford-e6",
+          "type": "rule",
+          "title": "Purpose of recovery belongs to estate versus particular claimant remains debated",
+          "page": "Ch.6 §D / Hartford footnote 4",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Bank argued trustee recovery must enter estate subject to §726(b) priority; insurer argued reimbursed to claimant whose service benefited collateral. Supreme Court declined to choose.",
+          "laymanExplanation": "Money taken from secured collateral could pay the estate's general expenses, not just one insurer.",
+          "legalExplanation": "Book asks whether fight actually about distribution entitlement rather than nominal standing; no final holding.",
+          "examApplication": "In exam label as expressly UNRESOLVED in Hartford excerpt.",
+          "examTrap": "Don't promise insurer first dibs if trustee succeeds."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch6-chapter6-exam-map",
+      "title": "Chapter 6 — Master Exam Framework for Secured Claims and Calculations",
+      "chapterGroup": "bank-ch6",
+      "description": "Structured claim validity, valuation, chapter options, interest, stripdown and surcharge.",
+      "entries": [
+        {
+          "id": "bank-ch6-chapter6-exam-map-e1",
+          "type": "concept",
+          "title": "Step 1. Identify §502 allowed debt and state-law lien/setoff",
+          "page": "Ch.6 §§A–D synthesis",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Begin with allowed loan/debt, valid lien type and ranking, debtor's actual interest (coownership), possible avoidance and setoff. Separate personal discharge from collateral lien.",
+          "laymanExplanation": "Prove who owes what and what property lender can reach.",
+          "legalExplanation": "Four-step source checklist applies before §506 arithmetic.",
+          "examApplication": "In 6.1 and 6.2 build table per asset, lien, claimant, exemptions.",
+          "examTrap": "Bank with no valid lien is not secured just by being called lender."
+        },
+        {
+          "id": "bank-ch6-chapter6-exam-map-e2",
+          "type": "concept",
+          "title": "Step 2. Calculate §506 collateral value and interest",
+          "page": "Ch.6 §§A–D synthesis",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Determine gross collateral value, estate's ownership share, senior liens, current allowed debt, optional §506(b) interest within cushion, then split secured deficiency.",
+          "laymanExplanation": "First determine how much collateral supports claim, then only supported portion is protected.",
+          "legalExplanation": "If retained, choose §506(a)(2) or Rash by chapter/debtor/property; if 910 clause applies check before valuing.",
+          "examApplication": "Write secured=min(allowed debt, available equity), unsecured remainder unless anti-bifurcation.",
+          "examTrap": "Do not treat the same $10k equity as available to senior lender, junior lender and exemptions simultaneously."
+        },
+        {
+          "id": "bank-ch6-chapter6-exam-map-e3",
+          "type": "concept",
+          "title": "Step 3. Determine Chapter7 or reorganization route",
+          "page": "Ch.6 §§A–D synthesis",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Chapter7 lien survives absent avoidance; redeemed qualifying household asset via §722 or consent reaffirmation §524(c). Chapter11–13 may retain under confirmable cramdown, surrender or satisfy lender by plan.",
+          "laymanExplanation": "Keeping car in Chapter7 and Chapter13 are different legal pathways.",
+          "legalExplanation": "For Chapter13 principal residence and 910 PMSI carve-outs can trump ordinary §506 bifurcation.",
+          "examApplication": "State chapter first, then vehicle age and personal use.",
+          "examTrap": "Don't apply Chapter13 910 rule to Chapter7 redemption."
+        },
+        {
+          "id": "bank-ch6-chapter6-exam-map-e4",
+          "type": "concept",
+          "title": "Step 4. If debtor retains under plan, compute present value",
+          "page": "Ch.6 §§B–C synthesis",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Choose secured principal and rate: Till discusses prime-plus plurality vs competing Thomas/Scalia methods, then calculate PV of future installments satisfying §1325/1129/1225.",
+          "laymanExplanation": "Bank can't just receive $15k in five years instead of today without compensation for waiting.",
+          "legalExplanation": "Use PV = ΣCF_t/(1+r)^t and feasibility; distinguish accrual §506(b) before confirmation.",
+          "examApplication": "For 6.4, first principal then rate; if question asks principal only do not invent rate.",
+          "examTrap": "A 9.5% number is historic Till fact, not universally required discount rate."
+        },
+        {
+          "id": "bank-ch6-chapter6-exam-map-e5",
+          "type": "concept",
+          "title": "Step 5. If secured collateral costs requested, test §506(c) standing and benefit",
+          "page": "Ch.6 §§D synthesis",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Trustee (not insurer privately) invokes §506(c); must establish reasonable necessary direct expenses preserving/disposing collateral to extent bank benefits, or clear consent per chapter's discussion.",
+          "laymanExplanation": "Auction cost might come off bank sale, but ordinary restaurant insurance company cannot sue itself under §506(c).",
+          "legalExplanation": "Hartford held independent claimant standing denied and left substantive merits unanswered.",
+          "examApplication": "Always analyze standing BEFORE deciding benefit and note deferred derivative issue.",
+          "examTrap": "Do not label all administrative expenses collateral charges."
+        },
+        {
+          "id": "bank-ch6-chapter6-exam-map-e6",
+          "type": "rule",
+          "title": "Math cheat sheet: bifurcation and lien ranking",
+          "page": "Ch.6 §§A–C synthesis",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Available collateral for junior=max(0, estate lienable value−prior liens); secured=min(allowed debt, available collateral); deficiency=allowed debt−secured; percent tier payout=available tier fund/total claims. For coowned assets first value estate share.",
+          "laymanExplanation": "Write 4 numbers for every lien instead of intuition.",
+          "legalExplanation": "If multiple liens, priority order matters and exempt interests generally cannot sweep senior liens away.",
+          "examApplication": "Numerical problems 6.1 and 6.2 test these exact steps but answer remains blank.",
+          "examTrap": "Avoid negative secured amount when prior liens exceed collateral: floor zero."
+        },
+        {
+          "id": "bank-ch6-chapter6-exam-map-e7",
+          "type": "rule",
+          "title": "Math cheat sheet: oversecured interest and PV",
+          "page": "Ch.6 §§A–D synthesis",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "§506(b) equity cushion=max(0, collateral support−petition allowed debt); simple source 10%×principal×1 year subject surplus. PV of installments = ΣA/(1+r)^t and level payment A=S·r/[1−(1+r)^−n].",
+          "laymanExplanation": "Interest between filing/plan and interest during plan are two different clocks.",
+          "legalExplanation": "Source uses 10% note/judgment in Problem6.2 and 8+1.5% in Till; neither is current market assumption.",
+          "examApplication": "If asked to explain variables, list principal, period, rate, collateral and cashflow.",
+          "examTrap": "Don't confuse % APR with monthly interest rate in formulas."
+        },
+        {
+          "id": "bank-ch6-chapter6-exam-map-e8",
+          "type": "rule",
+          "title": "Case-selection grid: each opinion solves different statutory question",
+          "page": "Ch.6 §§A–D synthesis",
+          "source": "User-uploaded Bankruptcy casebook Chapter 6, §A Problem 6.2(d)-(f) and §D surcharge/Hartford Underwriters full Supreme Court opinion; casebook source",
+          "summary": "Rash: collateral replacement value on retention; Till: future payments interest rate; Wright: 910 car surrender deficiency; Dewsnup: no standalone Chapter7 §506(d) stripdown; Hartford: no independent admin claimant §506(c) standing.",
+          "laymanExplanation": "Each case answers a different decision: price, rate, surrender deficit, lien survival, surcharge standing.",
+          "legalExplanation": "Sunnyslope note checks actual-use valuation inversion and §506(a)(2) 2005 amendments qualify Rash.",
+          "examApplication": "Choose authority only after identifying question asked.",
+          "examTrap": "A one-line 'secured creditors protected' does not substitute statutory analysis."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
