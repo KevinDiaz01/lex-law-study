@@ -1,0 +1,330 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+  "coverage": {
+    "chapter": 7,
+    "scope": "C.1 §362(d)(2) overview, C.2 debtor equity calculation, C.3 necessity, C.4 feasibility, full Pegasus Second Circuit opinion, §552(a)/(b) pre/postpetition receivable and rent collateral problems 7.3–7.5 unsolved"
+  },
+  "topics": [
+    {
+      "id": "bank-ch7-362d2-two-prong",
+      "title": "C. §362(d)(2): Lack of Debtor Equity AND Unnecessary for Effective Reorganization",
+      "chapterGroup": "bank-ch7",
+      "description": "A separate route from lack of adequate protection, with divided burden.",
+      "entries": [
+        {
+          "id": "bank-ch7-362d2-two-prong-e1",
+          "type": "rule",
+          "title": "Both §362(d)(2)(A) and §362(d)(2)(B) are required",
+          "page": "Ch.7 §C.1",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "Stay as to act against property may be relieved if (A) debtor has no equity in property AND (B) property is unnecessary to an effective reorganization. Creditor proves no equity; DIP/trustee opposing relief proves necessity and feasible plan.",
+          "laymanExplanation": "Bank must show there's no value left after all liens, while debtor can keep stay if business really needs property for workable recovery.",
+          "legalExplanation": "Statutory test is conjunctive; (d)(1) inadequately protected is an alternative independent ground.",
+          "examApplication": "Write AND in issue-spotting; include (d)(1) separately.",
+          "examTrap": "Proving no equity isn't enough in Chapter11 when actual effective reorganization possible."
+        },
+        {
+          "id": "bank-ch7-362d2-two-prong-e2",
+          "type": "rule",
+          "title": "§362(d)(2) purpose differs from §362(d)(1)",
+          "page": "Ch.7 §C.1",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "(d)(1) asks is secured lender losing protectable lien value; (d)(2) asks is there bankruptcy rationale to delay creditor's property rights? Estate equity or necessity to feasible reorganization can justify delay.",
+          "laymanExplanation": "Bank might be perfectly protected and STILL ask for stay relief if property serves no bankruptcy purpose.",
+          "legalExplanation": "The provisions resolve different interests rather than require both to be met simultaneously.",
+          "examApplication": "Apply alternate grounds even when collateral is stable and lender loses no value.",
+          "examTrap": "Lender value being protected does not conclusively establish debtor's need to retain property."
+        },
+        {
+          "id": "bank-ch7-362d2-two-prong-e3",
+          "type": "rule",
+          "title": "No equity under (d)(2) is debtor total equity, not movant's lien cushion",
+          "page": "Ch.7 §C.2",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "Equity = fair value of debtor's interest in property MINUS total liabilities secured by ALL liens on it, not just movant's mortgage. Creditor bears burden of proving no positive debtor equity.",
+          "laymanExplanation": "Home worth $120k but liens total $130k has different debtor equity from first lender's $30k senior cushion.",
+          "legalExplanation": "Use total valid lien balances, senior and junior, value under proposed disposition/use and debtor ownership fraction.",
+          "examApplication": "For 7.3 include BOTH first $90k and second $40k liens; do not solve user problem.",
+          "examTrap": "Don't compute equity as property value minus only moving Creditor One's loan."
+        },
+        {
+          "id": "bank-ch7-362d2-two-prong-e4",
+          "type": "rule",
+          "title": "Asset value must be grounded in proposed disposition/use and credible appraisal",
+          "page": "Ch.7 §C.2",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "Under §506(a)(1) and Rash, sale/liquidation can differ from continued-use/go-concern valuation; for individual Ch7/13 personal property §506(a)(2) special replacement rule may apply.",
+          "laymanExplanation": "What building fetches at auction isn't necessarily same as use in an operating business.",
+          "legalExplanation": "Movant can present expert property valuations; bankruptcy judge resolves disputes.",
+          "examApplication": "State valuation hypothesis and chapter before subtracting liens.",
+          "examTrap": "A single appraiser's number isn't automatically controlling."
+        },
+        {
+          "id": "bank-ch7-362d2-two-prong-e5",
+          "type": "rule",
+          "title": "No equity in Chapter7 generally means no estate administration value",
+          "page": "Ch.7 §C.2",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "With no reorganization in Chapter7, equity is usually dispositive practical consideration; trustee often abandons asset rather than spend administration resources on property pledged entirely to banks.",
+          "laymanExplanation": "If all house proceeds go to liens, unsecured creditors don't benefit from sale.",
+          "legalExplanation": "Remember special circumstances may affect abandon/use and §554; source emphasizes usual practice.",
+          "examApplication": "Classify chapter and lack of sale surplus.",
+          "examTrap": "Don't confuse debtor claimed exemption with creditor's valid lien."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-362d2-necessity",
+      "title": "C.3 Necessity: Collateral Must Be Needed, Not Merely Convenient",
+      "chapterGroup": "bank-ch7",
+      "description": "Actual business use, replaceability and investment-only property.",
+      "entries": [
+        {
+          "id": "bank-ch7-362d2-necessity-e1",
+          "type": "rule",
+          "title": "Necessity and feasibility are independent components of (d)(2)(B)",
+          "page": "Ch.7 §C.3–C.4",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "Debtor opposing no-equity stay relief must prove collateral NECESSARY to reorganization AND a realistic prospect of an EFFECTIVE reorganization; failure on either defeats continuation under (d)(2).",
+          "laymanExplanation": "Business needs the machine, and has plausible plan to stay alive. Both matter.",
+          "legalExplanation": "Useful property alone won't protect a hopeless reorganization.",
+          "examApplication": "Lay out separate necessity and feasibility factual predicates.",
+          "examTrap": "'We need property to try' does not show likely effective plan."
+        },
+        {
+          "id": "bank-ch7-362d2-necessity-e2",
+          "type": "rule",
+          "title": "Business-essential collateral ordinarily satisfies necessity",
+          "page": "Ch.7 §C.3",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "Debtor operating plant, warehouse or essential production equipment can usually establish that property required for its intended reorganized business; preserving going-concern value is point of stay.",
+          "laymanExplanation": "Car wash cannot run without its wash equipment.",
+          "legalExplanation": "Often necessity not seriously disputed in Chapter11, leaving feasibility contentious.",
+          "examApplication": "Identify whether operations can continue without pledged asset.",
+          "examTrap": "An asset being expensive doesn't alone establish indispensability."
+        },
+        {
+          "id": "bank-ch7-362d2-necessity-e3",
+          "type": "rule",
+          "title": "Fungible/replaceable or purely investment assets may be unnecessary",
+          "page": "Ch.7 §C.3",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "If debtor can obtain ready substitutes or holds collateral as passive investment rather than operational asset, creditor can challenge need for THIS pledged item.",
+          "laymanExplanation": "If 20 equivalent trucks can be cheaply leased, this particular truck might not be necessary.",
+          "legalExplanation": "Necessity concerns effective plan's concrete use, not debtor preference.",
+          "examApplication": "Look for evidence of alternative sources, costs and proposed income stream.",
+          "examTrap": "Every owned asset isn't 'necessary' simply because debtor wants to keep everything."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-362d2-feasibility",
+      "title": "C.4 Feasibility: Reasonable Prospect Within a Reasonable Time",
+      "chapterGroup": "bank-ch7",
+      "description": "Timbers dictum and proof that lender delay serves real, not imagined, reorganization.",
+      "entries": [
+        {
+          "id": "bank-ch7-362d2-feasibility-e1",
+          "type": "rule",
+          "title": "Timbers test: reasonable possibility of successful reorganization within reasonable time",
+          "page": "Ch.7 §C.4",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "DIP must establish reorganization realistically 'in prospect,' not vague assertion 'might recover'; mere conceivable theoretical need doesn't justify stay.",
+          "laymanExplanation": "Judge wants real business plan with numbers, not 'maybe things improve'.",
+          "legalExplanation": "Timbers dictum adopted as dominant (d)(2)(B) standard; showing prospect less strict than proving plan certain to confirm.",
+          "examApplication": "In essay state reasonable possibility, not guaranteed success.",
+          "examTrap": "'Any possible reorganization one day' is too weak."
+        },
+        {
+          "id": "bank-ch7-362d2-feasibility-e2",
+          "type": "rule",
+          "title": "Proof required changes with elapsed time",
+          "page": "Ch.7 §C.4",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "At start of Chapter11, particularly first 120-day exclusive plan period described in excerpt, court may accept preliminary showing; after many months expect more concrete financial plan, investors and operations evidence.",
+          "laymanExplanation": "A week after filing debtor has more breathing room than after a year without progress.",
+          "legalExplanation": "This is dynamic, not rigid one-time res judicata decision; §362(d) motions can recur.",
+          "examApplication": "Compare first months versus prolonged stagnation.",
+          "examTrap": "No permanent right to stay because court denied early motion."
+        },
+        {
+          "id": "bank-ch7-362d2-feasibility-e3",
+          "type": "rule",
+          "title": "Relevant feasibility evidence",
+          "page": "Ch.7 §C.4",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "Judge evaluates market research, projections, sales estimates, costs, competition, economy, working capital, management, financing, feasibility, realistic revenue and assumption source.",
+          "laymanExplanation": "Show prices can really be obtained and costs are estimated from actual evidence.",
+          "legalExplanation": "Credibility improves with expert appraisal, budgets, funding commitments and plan support.",
+          "examApplication": "Cite why assumed prices/costs deserve confidence or are conjecture.",
+          "examTrap": "A spreadsheet with unsupported round numbers isn't enough."
+        },
+        {
+          "id": "bank-ch7-362d2-feasibility-e4",
+          "type": "rule",
+          "title": "Possible legal impossibility to confirm plan",
+          "page": "Ch.7 §C.4",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "If controlling secured creditor can block every confirmable plan and cramdown is legally unavailable, effective reorganization may be impossible despite optimistic projections.",
+          "laymanExplanation": "A lender with unavoidable veto can make proposed plan legally dead on arrival.",
+          "legalExplanation": "May require preliminary mini-confirmation issues under §§1126/1129(b) without full confirmation trial.",
+          "examApplication": "Identify plan class structure, votes and cramdown eligibility.",
+          "examTrap": "Creditor voting no doesn't automatically mean it can block every lawful cramdown."
+        },
+        {
+          "id": "bank-ch7-362d2-feasibility-e5",
+          "type": "rule",
+          "title": "Koopmans minority early interpretation (book contrast)",
+          "page": "Ch.7 §C.4",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "In re Koopmans formerly argued §362(d)(2)(B) tests need only, leaving feasibility to §1112(b) dismissal/conversion hearings. Book says prevailing Timbers approach instead requires realistic plan prospect during stay relief.",
+          "laymanExplanation": "Some earlier judges thought plan viability shouldn't be litigated on stay motion.",
+          "legalExplanation": "Present as historical minority contrasted with prevailing reasonable-prospect standard.",
+          "examApplication": "If professor asks interpretive dispute, distinguish distinct procedural stages.",
+          "examTrap": "Do not state Koopmans rule prevails over later Timbers dictum and Pegasus."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-pegasus",
+      "title": "C.4 In re Pegasus Agency (1996) — Full Feasibility Case Brief",
+      "chapterGroup": "bank-ch7",
+      "description": "Second Circuit demands substantiated projections, not speculative development plans.",
+      "entries": [
+        {
+          "id": "bank-ch7-pegasus-e1",
+          "type": "case",
+          "title": "Pegasus Agency, Inc. v. Grammatikakis (In re Pegasus Agency, Inc.), 101 F.3d 882 (2d Cir. 1996)",
+          "page": "Ch.7 §C.4 / Pegasus full opinion",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "No. Second Circuit reversed district court, reinstating stay relief: plan's unsubstantiated and economically implausible assumptions independently defeated feasibility regardless how much lender's debt should be treated as secured in projections.",
+          "laymanExplanation": "After no equity, debtor must present evidentially credible reasonably possible reorganization; courts may lift stay against conjectural plan based on unsupported sales/cost assumptions, even early in Chapter11.",
+          "legalExplanation": "Judges required credible due diligence: house projected $600k value regardless subdivision density, site-improvement cost fixed $800k with no breakdown regardless 8 vs18 homes, vague $75–$80/sqft construction, appraisal only for UNDEVELOPED lots rather than constructed home plan, and conditional owner financing for $1–2m personal profit absent plausible return. Court said even if lower secured balance would change projected debt cost, no realistic prospect under any permissible calculation. Simply alleging future profitable development cannot satisfy (d)(2)(B).",
+          "examApplication": "Discuss all three critical flaws plus speculative assumption sources and flawed owner promise; distinguish district judge's debt bifurcation concern from appellate independent feasibility rejection.",
+          "examTrap": "Pegasus does NOT require plan already confirmed or guarantee of success; requires reasonable, demonstrated possibility.",
+          "assignedOpinion": true,
+          "sourceRole": "Full court opinion excerpted in uploaded Chapter 7",
+          "facts": "Pegasus corporate real estate investment company owned six parcels. Disputed Davenport Property in New Rochelle included 6 acres beach frontage and house where sole owner Aaron Hochman lived RENT FREE. Original 1989 $1.5m mortgage with First Nationwide led to foreclosure judgment Nov10 1994 for $2,269,709.75; sale scheduled Dec22 1994, same day debtor filed Chapter11. Neighbor Grammas purchased mortgage/foreclosure judgment Apr1995 for $1.2m then moved for stay relief. No debtor equity conceded. Pegasus proposed subdividing 6 acres into 8–18 lots and constructing houses with uniform $600k sale price per house regardless lot size, $800k same site improvements regardless housing count, construction $75–80/sq ft with minimal support. Hochman promised to invest only if personally earning $1–2m profit. Bankruptcy judge found numbers fantastical and relief warranted; district court vacated because judge may have subtracted total debt rather than only secured portion; Second Circuit reviewed.",
+          "issue": "With no equity conceded, did speculative residential subdivision plan show 'reasonable possibility of successful reorganization within reasonable time' sufficient to continue stay under §362(d)(2)(B)?",
+          "holding": "No. Second Circuit reversed district court, reinstating stay relief: plan's unsubstantiated and economically implausible assumptions independently defeated feasibility regardless how much lender's debt should be treated as secured in projections.",
+          "reasoning": "Judges required credible due diligence: house projected $600k value regardless subdivision density, site-improvement cost fixed $800k with no breakdown regardless 8 vs18 homes, vague $75–$80/sqft construction, appraisal only for UNDEVELOPED lots rather than constructed home plan, and conditional owner financing for $1–2m personal profit absent plausible return. Court said even if lower secured balance would change projected debt cost, no realistic prospect under any permissible calculation. Simply alleging future profitable development cannot satisfy (d)(2)(B).",
+          "rule": "After no equity, debtor must present evidentially credible reasonably possible reorganization; courts may lift stay against conjectural plan based on unsupported sales/cost assumptions, even early in Chapter11."
+        },
+        {
+          "id": "bank-ch7-pegasus-e2",
+          "type": "rule",
+          "title": "Why Pegasus plan failed: specific numbers not 'negative vibes'",
+          "page": "Ch.7 §C.4 / Pegasus",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "Projection $600k per house regardless 8 or 18 lots and same $800k improvements despite different roads/sewer needs; construction costs unsourced, appraisal not of planned buildings, owner funds conditioned on improbable $1–2m gain.",
+          "laymanExplanation": "Real project budgets change with 18 houses versus 8; these did not.",
+          "legalExplanation": "Judge's factual criticisms permit exam analysis of proof quality, not mere conclusion plan is risky.",
+          "examApplication": "Identify inconsistent assumptions and missing feasibility research.",
+          "examTrap": "Don't assert court rejected plan solely because debtor had no equity."
+        },
+        {
+          "id": "bank-ch7-pegasus-e3",
+          "type": "rule",
+          "title": "Even if debt bifurcation calculation wrong, no viable plan",
+          "page": "Ch.7 §C.4 / Pegasus",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "District court suspected bankruptcy court included full $2.343m rather than secured collateral value to test profits. Second Circuit held independent unsupported projection fatal under any debt treatment.",
+          "laymanExplanation": "Correcting one spreadsheet subtraction can't rescue fabricated revenue.",
+          "legalExplanation": "A movant can prevail where independent missing evidence suffices regardless disputed valuation.",
+          "examApplication": "Show counterargument and why it did not change appellate holding.",
+          "examTrap": "Appeal didn't hold creditors always must be paid entire face debt under plan."
+        },
+        {
+          "id": "bank-ch7-pegasus-e4",
+          "type": "rule",
+          "title": "How debtor might show better feasibility",
+          "page": "Ch.7 §C.4 / Pegasus questions",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "Hypothetical stronger evidence would include independent developed-lot sales comps, realistic lot-dependent costs, financing proof, permits and credible net revenue estimates; sourced book poses strategic question but does not establish a new mandatory list.",
+          "laymanExplanation": "Bring planning feasibility evidence instead of guesswork.",
+          "legalExplanation": "Distinguish suggestions drawn from opinion's critique from actual court holding.",
+          "examApplication": "For open textbook question, student should propose evidence and decide.",
+          "examTrap": "Don't label illustrative prospective evidence as facts Pegasus actually supplied."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-problems-7-3-5",
+      "title": "C. Problems 7.3–7.5: Equity, Receivables and Postpetition Rents (Unsolved)",
+      "chapterGroup": "bank-ch7",
+      "description": "Source hypotheticals testing all liens and §552 future property assignments.",
+      "entries": [
+        {
+          "id": "bank-ch7-problems-7-3-5-e1",
+          "type": "rule",
+          "title": "§552(a) postpetition property acquisition default",
+          "page": "Ch.7 §C / Problem 7.4",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "Prepetition security interest generally does not reach assets acquired postpetition; §552(b)(1) can preserve perfected interest in 'proceeds, product, offspring, or profits' of existing prepetition collateral if agreement and nonbankruptcy law qualify.",
+          "laymanExplanation": "New business income earned after filing may not be automatically bank's just because bank loan pledged 'all future' payments.",
+          "legalExplanation": "Prepetition contract receivables vs new postpetition trucking contract analytically distinct, though precise proceeds classification must be reasoned.",
+          "examApplication": "For $1m and $250k payments identify precise pre-existing property right and postpetition origin.",
+          "examTrap": "Don't give bank lien on all new business merely because collateral wording says future contracts."
+        },
+        {
+          "id": "bank-ch7-problems-7-3-5-e2",
+          "type": "rule",
+          "title": "§552(b)(2) rents: state-law validity and postpetition scope",
+          "page": "Ch.7 §C / Problem 7.5",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "Rents produced after petition may follow valid prepetition lien in rents if agreement and applicable nonbankruptcy law sufficient; whether state law requires actual dispossession to perfect/enforce is central.",
+          "laymanExplanation": "Bank holding building mortgage may not automatically own checks tenants pay postfiling.",
+          "legalExplanation": "Distinguish realty mortgage value, assignment of rents, timing/perfection and AP for actual collateral value decrease.",
+          "examApplication": "Ask if contract granted rent lien and what enforcement steps existed at filing.",
+          "examTrap": "Do not equate mortgage on land with perfected postpetition rents lien."
+        },
+        {
+          "id": "bank-ch7-problems-7-3-5-e3",
+          "type": "rule",
+          "title": "Cash collateral use is restricted even if property is estate asset",
+          "page": "Ch.7 §C / Problems 7.4–7.5",
+          "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+          "summary": "If §552(b) grants lien on cash receipts, §363(a),(c)(2) restricts debtor's use absent secured lender consent or court authority and §363(e) adequate protection. If not collateral, lender's claim to particular cash may fail.",
+          "laymanExplanation": "A company may control cash but not freely spend secured bank's collateral account.",
+          "legalExplanation": "Authorization and protection turn on whether funds are qualified proceeds/rents, not merely whether bank demanded repayment.",
+          "examApplication": "Analyze each revenue stream then evaluate permissible spending/compensation.",
+          "examTrap": "Debtor cannot simply buy trucks with pledged cash collateral without proper authorization."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch7-p7-3",
+      "topicId": "bank-ch7-problems-7-3-5",
+      "title": "Problem 7.3 — All liens and equity",
+      "kind": "Original textbook Problem — UNSOLVED",
+      "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+      "prompt": "Debtor's property is valued $120,000. Creditor One first lien secures $90,000, Creditor Two second lien secures $40,000. Creditor One moves for stay relief. Decide whether §362(d)(2)(A)'s lack-of-debtor-equity requirement met, considering BOTH liens. Leave result unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-p7-4",
+      "topicId": "bank-ch7-problems-7-3-5",
+      "title": "Problem 7.4 — Trysome Chicken receivables",
+      "kind": "Original textbook Problem — UNSOLVED",
+      "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+      "prompt": "Debtor Inc Jan1 enters $5m contract to build automated live-chicken unloading prototype for Trysome Chicken due Dec31. Jan2 Bank lends $3m and perfects security interest in amounts payable by Trysome under existing and future contracts. Feb1 Debtor files Chapter11, court promptly approves assumption of original Trysome contract. After petition enters NEW one-year chicken trucking contract serving 15 Trysome plants. June30 Debtor completes Phase I of original contract, receives $1m progress payment; same date receives $250k trucking payment. July1 Bank seeks emergency turn-over/AP of ALL $1.25m as collateral; debtor wants to buy trucks with entire sum. Analyze §§363(c)-(e) and §552(a)-(b)(1), identifying prepetition contractual right, postpetition services and later NEW contract separately. DO NOT answer.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch7-p7-5",
+      "topicId": "bank-ch7-problems-7-3-5",
+      "title": "Problem 7.5 — Building rents and unperfected right to possession",
+      "kind": "Original textbook Problem — UNSOLVED",
+      "source": "Uploaded bankruptcy casebook Chapter 7 §C Stay Relief under §362(d)(2), full Pegasus Agency Inc. v. Grammatikakis (2d Cir. 1996), original Problems 7.3, 7.4, 7.5",
+      "prompt": "Golden Debtor Inc Chapter11 owes Bank $25m on perfected recorded mortgage, building stable worth $20m. Mortgage says on default rents subject to lien, but state law makes rents assignment enforceable against debtor/others only after lender lawfully dispossesses via ejectment or foreclosure; borrower defaulted BEFORE petition but Bank did NOT dispossess before filing. Postpetition debtor collects $150,000 rent/month. Bank asks stay relief or AP requiring ALL postpetition rents paid. Analyze §552(b)(2), state-law perfection/enforceability, value stability and Timbers. Leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
