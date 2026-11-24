@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+  "coverage": {
+    "chapter": 9,
+    "scope": "§544(a)(1),(a)(2),(a)(3) hypothetical lien-creditor and BFP, 20-day PMSI §546(b) relation back, constructive notice, §541(d) debates, full Omegas opinion and criticism; original Problems9.2–9.3 separate unsolved"
+  },
+  "topics": [
+    {
+      "id": "bank-ch9-strong-arm-544a",
+      "title": "C.1 §544(a) Strong Arm: Hypothetical Creditors and BFP",
+      "chapterGroup": "bank-ch9",
+      "description": "Three statuses at commencement; actual knowledge irrelevant but constructive notice matters.",
+      "entries": [
+        {
+          "id": "bank-ch9-strong-arm-544a-e1",
+          "type": "rule",
+          "title": "§544(a)(1) hypothetical judicial lien creditor",
+          "page": "Ch.9 §C.1",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Trustee has status of judicial lien creditor at petition even if no actual judgment lien creditor exists; permits avoidance of interests that state law says lose to new lien creditor, particularly unperfected Article9 security interests.",
+          "laymanExplanation": "Imagine trustee instantly gets judgment lien on every qualifying personal asset at filing.",
+          "legalExplanation": "Under UCC §9-317(a)(2), prior unperfected security interest loses to lien creditor; §544(a)(1) adopts priority.",
+          "examApplication": "Show security interest attachment, perfection instant and filing.",
+          "examTrap": "Not a license to defeat security interests validly perfected before petition."
+        },
+        {
+          "id": "bank-ch9-strong-arm-544a-e2",
+          "type": "rule",
+          "title": "§544(a)(2) hypothetical unsatisfied execution creditor",
+          "page": "Ch.9 §C.1",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Trustee also gets rights of an unsatisfied execution creditor; usually overlaps judicial lien position but can matter in special nonbankruptcy priority contexts.",
+          "laymanExplanation": "A second hypothetical creditor status for rare cases.",
+          "legalExplanation": "Read local process law on execution status and what powers it adds.",
+          "examApplication": "Use if applicable jurisdiction gives execution creditor special rights.",
+          "examTrap": "§544(a)(2) is not creditor's real execution levy under §544(b)."
+        },
+        {
+          "id": "bank-ch9-strong-arm-544a-e3",
+          "type": "rule",
+          "title": "§544(a)(3) bona fide purchaser of REAL PROPERTY",
+          "page": "Ch.9 §C.1",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Trustee has rights of hypothetical real estate BFP at commencement to overcome recorded/not-recorded property interests under state recording rules, even if debtor physically never found a buyer.",
+          "laymanExplanation": "Pretend estate is an innocent buyer when deed and recording priority decided.",
+          "legalExplanation": "This is realty BFP power, not universal BFP for money, goods and other personalty.",
+          "examApplication": "Check property type, state recording act, and constructive notice.",
+          "examTrap": "Never use BFP status under §544(a)(3) for $1.1m in bank account."
+        },
+        {
+          "id": "bank-ch9-strong-arm-544a-e4",
+          "type": "rule",
+          "title": "Four strong-arm parameters",
+          "page": "Ch.9 §C.1",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "(1) Snapshot is bankruptcy commencement; (2) trustee's roles hypothetical, real counterparties unnecessary; (3) trustee/creditor ACTUAL knowledge ignored by statute; (4) winner determined by applicable state/nonbankruptcy law priority, subject federal relation-back.",
+          "laymanExplanation": "What did a perfect stranger/lien creditor legally know at filing, and who would win?",
+          "legalExplanation": "Source emphasizes actual knowledge disregarded, constructive notice state-law may still bind all hypothetical buyers.",
+          "examApplication": "For each problem show the four steps in order.",
+          "examTrap": "Actual debtor knowledge cannot disqualify §1107(a) DIP from §544(a)(3)."
+        },
+        {
+          "id": "bank-ch9-strong-arm-544a-e5",
+          "type": "rule",
+          "title": "§544(a) and §541(d) tension not resolved by blanket exclusion",
+          "page": "Ch.9 §C.1 / Omegas",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Debtor with only bare legal title, beneficiary equitable ownership may have limited estate interest under §541(d), yet §544(a)(3) can defeat unrecorded realty equitable interest where state BFP would take free; prevailing source Belisle view.",
+          "laymanExplanation": "Buyer may lose secret property claim to fictional BFP trustee despite debtor not owning full title.",
+          "legalExplanation": "Some courts refuse §544(a)(3) due §541(d); book discusses prevailing Belisle, and Omegas addresses constructive trust claimed against personal funds.",
+          "examApplication": "For constructive trust distinguish vested prepetition title, postpetition requested equitable remedy, realty versus personalty priority.",
+          "examTrap": "§541(d) alone does not always defeat trustee's independent strong arm."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-544a1-perfection",
+      "title": "C.2 Trustee as Lien Creditor: Article9 Perfection and Relation Back",
+      "chapterGroup": "bank-ch9",
+      "description": "Attachment, financing statements, PMSI 20-day grace.",
+      "entries": [
+        {
+          "id": "bank-ch9-544a1-perfection-e1",
+          "type": "rule",
+          "title": "Attachment is NOT perfection",
+          "page": "Ch.9 §C.2",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Attached security interest enforceable against debtor may still be secret and unperfected, usually until UCC financing statement filed; §544(a)(1) targets priority not existence of underlying loan.",
+          "laymanExplanation": "Bank took valid collateral promise but forgot public filing, so bankruptcy estate can leapfrog it.",
+          "legalExplanation": "Article9 §9-317(a)(2) says lien creditor wins if status arises before perfection.",
+          "examApplication": "Establish attachment, financing filing/date, asset identity, petition date.",
+          "examTrap": "Avoided lien releases collateral; lender still may have unsecured claim."
+        },
+        {
+          "id": "bank-ch9-544a1-perfection-e2",
+          "type": "rule",
+          "title": "§544(a)(1) snapshot compares lien-creditor instant against security interest",
+          "page": "Ch.9 §C.2",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Perfection at filing defeats strong-arm lien creditor; perfected one day after filing ordinarily too late, subject §546(b) relation-back exception.",
+          "laymanExplanation": "A UCC-1 filed May9 beats May10 trustee; no filing by May10 ordinarily loses.",
+          "legalExplanation": "Priority arises under state law but imported under §544(a).",
+          "examApplication": "Use timeline with calendar instants, not just months.",
+          "examTrap": "§544(a)(1) differs from preference §547 attacking a late perfected but petition-PERFECTED lien."
+        },
+        {
+          "id": "bank-ch9-544a1-perfection-e3",
+          "type": "rule",
+          "title": "§546(b) preserves qualifying postpetition relation-back perfection",
+          "page": "Ch.9 §C.2",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "If GENERAL nonbankruptcy law allows later perfection to relate back and bind intervening lien creditors, bankruptcy honors that substantive relation back; §362(b)(3) excepts qualifying perfection from stay.",
+          "laymanExplanation": "Under limited grace, filing 3 days AFTER petition can still count as perfected BEFORE trustee's lien.",
+          "legalExplanation": "Source cites UCC §9-317(e) 20 days for qualifying PMSI after debtor possession, with attachment-priority effect.",
+          "examApplication": "Identify purchase money status, possession day and file within grace window.",
+          "examTrap": "Don't assume every unrecorded interest has 20-day grace."
+        },
+        {
+          "id": "bank-ch9-544a1-perfection-e4",
+          "type": "rule",
+          "title": "Purchase money security interest §9-103 and 20-day UCC §9-317(e)",
+          "page": "Ch.9 §C.2",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "PMSI finances debtor's acquisition of identified purchased collateral; if perfected within 20 days AFTER possession, perfection may prime intervening lien creditors via state relation-back honored §546(b).",
+          "laymanExplanation": "Creditor funded purchase of gizmo itself; can sometimes finish paperwork after filing.",
+          "legalExplanation": "Ordinary nonpurchase loan secured by old car is NOT PMSI and does not obtain same grace.",
+          "examApplication": "For Problem9.2(d) count calendar days and analyze statutory predicate, leave answer unanswered.",
+          "examTrap": "Do not conflate UCC 20-day grace with §547(c)(3) 30-day enabling-loan defense."
+        },
+        {
+          "id": "bank-ch9-544a1-perfection-e5",
+          "type": "rule",
+          "title": "State-law priority, not federal abstract fairness, dictates perfection result",
+          "page": "Ch.9 §C.2",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Whether secured party can defeat lien creditor determined by applicable UCC Article9; federal §544(a) creates fictional lien party, doesn't itself create definition of perfection.",
+          "laymanExplanation": "Secret UCC filing matters even if everyone knows actual creditor wants money.",
+          "legalExplanation": "Government/rules of collateral method (title vs filing) may differ; source examples simple tangible goods.",
+          "examApplication": "Identify governing priority provision and exceptions.",
+          "examTrap": "Avoiding one security interest doesn't automatically cancel secured obligation."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-544a3-bfp",
+      "title": "C.3 Trustee as Bona Fide Realty Purchaser: Notice and Equitable Interests",
+      "chapterGroup": "bank-ch9",
+      "description": "Actual knowledge ignored; open possession often constructive notice.",
+      "entries": [
+        {
+          "id": "bank-ch9-544a3-bfp-e1",
+          "type": "rule",
+          "title": "Unrecorded deed/mortgage generally vulnerable to trustee BFP status",
+          "page": "Ch.9 §C.3",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "If under applicable recording law a later BFP for value without ACTUAL notice would take free of unrecorded conveyance, §544(a)(3) trustee can avoid even if debtor is party that executed it.",
+          "laymanExplanation": "Debtor secretly sold Blackacre but never recorded; fictional honest purchaser may prevail.",
+          "legalExplanation": "Unlike §544(a)(1) lien status, some states protect BFP but NOT judgment lien creditor, motivating separate subsection.",
+          "examApplication": "For Problem9.3 identify relevant purchaser-protection statute.",
+          "examTrap": "Cannot assume unrecorded always void regardless state law."
+        },
+        {
+          "id": "bank-ch9-544a3-bfp-e2",
+          "type": "rule",
+          "title": "DIP can use BFP fiction despite personally knowing past transfer",
+          "page": "Ch.9 §C.3",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "§544(a) expressly disregards actual knowledge of trustee or creditors and §1107(a) gives DIP trustee powers; debtor's insider knowledge cannot disqualify DIP.",
+          "laymanExplanation": "Even if company knows it deeded parcel away, as DIP it gets trustee's fictional innocent-purchaser rights.",
+          "legalExplanation": "Legal knowledge statutory fiction is different from factual notice attributable to public.",
+          "examApplication": "Separate DIP's prior acts from hypothetical BFP.",
+          "examTrap": "Do not infer equitable estoppel against DIP based only on debtor's actual knowledge."
+        },
+        {
+          "id": "bank-ch9-544a3-bfp-e3",
+          "type": "rule",
+          "title": "Constructive notice by POSSESSION still counts",
+          "page": "Ch.9 §C.3",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Federal 'without knowledge' ignores particular actual knowledge but does not erase notice law imputes to every buyer; where owner visibly occupies Blackacre, state law may charge BFP with inquiry notice of unrecorded interest.",
+          "laymanExplanation": "Everyone driving past sees another owner in the house, so no innocent buyer can ignore it.",
+          "legalExplanation": "State law of clear/open possession defines effect; source Problem9.3(d).",
+          "examApplication": "Ask which facts public records or open occupancy would disclose.",
+          "examTrap": "'Actual knowledge ignored' does not mean 'all notice ignored'."
+        },
+        {
+          "id": "bank-ch9-544a3-bfp-e4",
+          "type": "rule",
+          "title": "§541(d) equitable ownership and §544(a)(3) BFP fight",
+          "page": "Ch.9 §C.3",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "§541(d) excludes others' equitable property interests from basic estate ownership, but a debtor's imperfect legal title may still be freely transferable to BFP, whose status trustee takes under §544(a)(3). Some courts §541(d) prevails; book states prevailing Belisle view allows avoidance.",
+          "laymanExplanation": "Someone defrauded into secret equity claim can lose right to realty for collective creditors despite estate holding only legal title.",
+          "legalExplanation": "Need identify state BFP priority; §541(d) not automatic bar against §544(a) independent avoidance.",
+          "examApplication": "Write competing approaches and note book calls Belisle prevailing.",
+          "examTrap": "Don't assume constructive trust over untraceable cash is realty BFP problem."
+        },
+        {
+          "id": "bank-ch9-544a3-bfp-e5",
+          "type": "rule",
+          "title": "Why §544(a)(3) may look like bankruptcy windfall",
+          "page": "Ch.9 §C.3",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "If state law only protects purchasers, general unsecured creditors outside bankruptcy cannot defeat unrecorded deed; trustee's fictional BFP status enriches estate unlike creditor nonbankruptcy rights, raising Butner's windfall objection.",
+          "laymanExplanation": "Collective bankruptcy may give an extra tool no actual creditor had.",
+          "legalExplanation": "Book raises question, doesn't conclusively label statute unconstitutional or improper.",
+          "examApplication": "Discuss justification of uniform recording act benefit versus state baseline.",
+          "examTrap": "Don't confuse normative critique with refusal to apply text."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-omegas",
+      "title": "C.3 In re Omegas Group (6th Cir. 1994) — Full Constructive Trust Opinion",
+      "chapterGroup": "bank-ch9",
+      "description": "Postpetition constructive trust request cannot elevate fraud victim above unsecured pool.",
+      "entries": [
+        {
+          "id": "bank-ch9-omegas-e1",
+          "type": "case",
+          "title": "In re Omegas Group, Inc., 16 F.3d 1443 (6th Cir. 1994)",
+          "page": "Ch.9 §C.3 full opinion",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Sixth Circuit reversed. A constructive trust is judicial equitable REMEDY, not independently existing true trust; unless already imposed in prepetition proceeding or special statutory trust established, disappointed victim merely has bankruptcy claim as of petition and cannot compel retroactive postpetition property exclusion.",
+          "laymanExplanation": "In Omegas, Sixth Circuit does not recognize unadjudicated prepetition constructive trust entitlement as separate equitable ownership for §541(d); postfiling imposition cannot create relation-back priority at others' expense.",
+          "legalExplanation": "Court criticized Quality Holstein Fifth Circuit's §541(d) priority theory, stressed petition-date snapshot and difference from express trust. Otherwise every aggrieved creditor could gain priority over equally harmed creditors through postpetition equitable decree. Discussed potential §523(a)(2),(4),(6) nondischargeability as distinct relief, but that does not hand over specific estate property. Emphasized ratable distribution and federal bankruptcy treatment notwithstanding state remedial rights; source book supplies 9 extensive critical questions on state-law rights, §544(a)(1) priority, §544(a)(3) scope, corporate debtor fraud and windfall.",
+          "examApplication": "Mention Datacomp ~$1.149m, $302,142 lower court remedy, Sept12 hidden failure, Oct16 petition, express versus constructive trusts and alternate Quality Holstein approach.",
+          "examTrap": "Case expressly did not decide already adjudicated prepetition trusts or statutory trusts; textbook challenges formal remedy-versus-right characterization and absence of §544(a)(1) analysis.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpt included in supplied Chapter9",
+          "facts": "Industry computer reseller Omegas agreed to buy IBM systems for Datacomp. Datacomp paid ~$1.149m; Omegas secretly stopped IBM payments Sept12 1990 yet continued invoicing, canceled shipments Oct15, filed Chapter11 Oct16. Datacomp sought constructive trust under Kentucky law against funds to exclude from §541 estate. Bankruptcy court imposed trust on $302,142 received after Sept12 based on fraudulent concealment; district affirmed.",
+          "issue": "Can bankruptcy court impose constructive trust AFTER petition on prepetition fraud proceeds and deem beneficiary property rights to have arisen before filing so §541(d) excludes proceeds from estate?",
+          "holding": "Sixth Circuit reversed. A constructive trust is judicial equitable REMEDY, not independently existing true trust; unless already imposed in prepetition proceeding or special statutory trust established, disappointed victim merely has bankruptcy claim as of petition and cannot compel retroactive postpetition property exclusion.",
+          "reasoning": "Court criticized Quality Holstein Fifth Circuit's §541(d) priority theory, stressed petition-date snapshot and difference from express trust. Otherwise every aggrieved creditor could gain priority over equally harmed creditors through postpetition equitable decree. Discussed potential §523(a)(2),(4),(6) nondischargeability as distinct relief, but that does not hand over specific estate property. Emphasized ratable distribution and federal bankruptcy treatment notwithstanding state remedial rights; source book supplies 9 extensive critical questions on state-law rights, §544(a)(1) priority, §544(a)(3) scope, corporate debtor fraud and windfall.",
+          "rule": "In Omegas, Sixth Circuit does not recognize unadjudicated prepetition constructive trust entitlement as separate equitable ownership for §541(d); postfiling imposition cannot create relation-back priority at others' expense."
+        },
+        {
+          "id": "bank-ch9-omegas-e2",
+          "type": "rule",
+          "title": "Express trust versus constructive trust vs statutory trust",
+          "page": "Ch.9 §C.3 / Omegas",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Where legal title is held for beneficiaries under genuine express trust, funds not beneficial estate assets under §541(d); state statute may likewise protect specific funds. But constructive trust ordinarily requires judgment according to Omegas.",
+          "laymanExplanation": "An actual pre-existing fiduciary trust isn't merely creditor's request to get paid first.",
+          "legalExplanation": "Labeling business deal 'joint venture' without established equitable title insufficient.",
+          "examApplication": "Ask whether trust interest vested BEFORE filing and whether proceeds identifiable/traced.",
+          "examTrap": "Omegas did NOT hold all types of genuine trusts categorically excluded."
+        },
+        {
+          "id": "bank-ch9-omegas-e3",
+          "type": "rule",
+          "title": "§541(d) is not shorthand for avoiding every claimant's disappointment",
+          "page": "Ch.9 §C.3 / Omegas",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Fraud might give unsecured contract/tort claim, potentially §523 nondischargeability, but not automatic priority to traceable pool unless independent perfected equitable property interest recognized.",
+          "laymanExplanation": "If every deceived customer could call money theirs, none left for other victims.",
+          "legalExplanation": "Status of creditor, nature of restitution property interest, and prepetition judgment contested across circuits.",
+          "examApplication": "Separate right to sue, right to ownership, ability to trace.",
+          "examTrap": "Corporate debtor may not fit individual §523 discharge framework; book asks this."
+        },
+        {
+          "id": "bank-ch9-omegas-e4",
+          "type": "rule",
+          "title": "Omegas's contestable policy and §544 analysis",
+          "page": "Ch.9 §C.3 / Omegas Qs",
+          "source": "Uploaded Bankruptcy Chapter9 §C Strong Arm Clause and Constructive Trusts, full In re Omegas Group 6th Cir 1994",
+          "summary": "Textbook asks if state gives equitable lien priority over judicial lien creditor, why shouldn't §544(a)(1) determine relative rights? May creditors unfairly share fraud spoils; broad 'bankruptcy equities' must be reconciled with Butner and creditor remedies.",
+          "laymanExplanation": "Debtor harmed one investor; should unrelated creditors benefit from stolen cash?",
+          "legalExplanation": "Sixth Circuit chose categorical postfiling-constructive-trust rejection; questions present serious counterarguments, not settled case holdings.",
+          "examApplication": "On exam articulate holding then §544 priorities and contrary view.",
+          "examTrap": "Don't make generalized BFP argument for personalty; §544(a)(3) only REAL property."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
