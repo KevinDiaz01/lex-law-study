@@ -1,0 +1,270 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+  "coverage": {
+    "chapter": 2,
+    "scope": "D.1 consumer Chapter choice; D.2(a) means-test overview; D.2(b)(i)-(ii) applicability and current monthly income",
+    "notice": "Numerical medians and debt thresholds printed in this 2021 casebook are historical 2020 values, not current."
+  },
+  "topics": [
+    {
+      "id": "bank-ch2-consumer-choice",
+      "title": "D.1 — Chapter 7 vs. Chapter 13: Competing Debtor/Creditor Incentives",
+      "description": "Retaining assets, future income, collateral treatment, curing defaults, discharge and debtor motivation.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-consumer-choice-e1",
+          "type": "rule",
+          "title": "Chapter 7: surrender nonexempt property and retain future wages",
+          "page": "Chapter 2 § D.1 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "Individual Chapter 7 trustee liquidates present nonexempt assets §704, while debtor usually receives prompt discharge (§727) without funding years of future income.",
+          "laymanExplanation": "Give up nonexempt property today, but usually don't owe past unsecured debt from tomorrow's wages.",
+          "legalExplanation": "Creditors still get collateral rights; Chapter 7 choices include reaffirmation (§524(c)) or redemption (§722) for certain secured goods.",
+          "examApplication": "Low asset/high salary debtor often favors Ch7 if allowed.",
+          "examTrap": "'Immediate discharge' in textbook means relatively prompt compared to multi-year Chapter 13, not literal same-day."
+        },
+        {
+          "id": "bank-ch2-consumer-choice-e2",
+          "type": "rule",
+          "title": "Chapter 13: keep assets and pay projected income in plan",
+          "page": "Chapter 2 § D.1 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "Individual with regular income who qualifies under §109(e) may keep nonexempt assets through a plan generally 3–5 years, with payments to creditors tied to §1325(b).",
+          "laymanExplanation": "You can keep your home or car, but must pay a meaningful share of income over time.",
+          "legalExplanation": "If trustee/unsecured creditor objects, plan pays unsecured claims full or devotes all projected disposable income; unsecured creditors get at least Chapter 7 liquidation value (§1325(a)(4)).",
+          "examApplication": "Compare liquidation dividend, monthly plan feasibility, protection of nonexempt home/equity.",
+          "examTrap": "A debtor cannot assume Ch13 plan debt payments can be zero despite substantial projected disposable income."
+        },
+        {
+          "id": "bank-ch2-consumer-choice-e3",
+          "type": "rule",
+          "title": "Chapter 13 curing, deacceleration and modification",
+          "page": "Chapter 2 § D.1 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "§1322(b)(3),(5) permits curing defaults and reversing acceleration on qualifying long-term secured loans; §1322(b)(2) and §1325(a)(5) may modify secured debt subject to limits.",
+          "laymanExplanation": "You might save repossessed car or foreclosing house by catching up over time, not paying entire accelerated loan now.",
+          "legalExplanation": "Restrictions on home mortgage modification and certain vehicle debts can prevent simple strip-down; Chapter 7 generally lacks Chapter 13 cure plan tools.",
+          "examApplication": "In Problem 2.4(b) examine $800 overdue, $12k accelerated debt, $10k value, purchase timing.",
+          "examTrap": "Do not apply unsecured cramdown formula indiscriminately to purchase-money cars."
+        },
+        {
+          "id": "bank-ch2-consumer-choice-e4",
+          "type": "rule",
+          "title": "Chapter 13 discharge and priority debts",
+          "page": "Chapter 2 § D.1 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "§1328(a) plan-completion discharge historically broader than Chapter 7 for certain debts, but BAPCPA sharply reduced difference. Priority domestic support obligations typically must be paid in full through plan §1322(a)(2).",
+          "laymanExplanation": "Some debts Chapter 7 doesn't erase may be dealt with differently under a completed repayment plan.",
+          "legalExplanation": "Student-loan and support obligations require separate nondischargeability analysis; §727(a)(9) governs timing of another Ch7 discharge after prior Ch13.",
+          "examApplication": "If fraud debt or student loan appears, examine §523 rather than assume automatic discharge.",
+          "examTrap": "The older textbook term 'superdischarge' is not a blanket discharge of student loans."
+        },
+        {
+          "id": "bank-ch2-consumer-choice-e5",
+          "type": "rule",
+          "title": "Practical risk and filing choice",
+          "page": "Chapter 2 § D.1 (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "Ch13 offers asset preservation, default cure, potential credit/debt treatment; Ch7 offers fast end and less future wage surrender. §707(b) means test may bar Ch7 choice.",
+          "laymanExplanation": "For person with no exposed property and good future salary, paying five years under Ch13 may be undesirable.",
+          "legalExplanation": "Compare future capacity vs immediate nonexempt estate and whether borrower can protect pledged property in Ch7.",
+          "examApplication": "Problem 2.4(a)-(e) factors: exempt house/car, repossessed car, potential credit-card fraud, only $15k exemptions, new $140k law firm job and $90k student debt.",
+          "examTrap": "Don't pick chapter solely based on size of unsecured debt."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-means-framework",
+      "title": "D.2(a) — Means Test Overview: Who Is Screened and Why",
+      "description": "BAPCPA abuse, two independent legal routes, safe harbors, steps and precise archived statutory thresholds.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-means-framework-e1",
+          "type": "rule",
+          "title": "§707(b)(1): individual + primarily consumer debts predicate",
+          "page": "Chapter 2 § D.2.a (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "Chapter 7 abuse dismissal/consensual conversion under §707(b) applies only to individuals with primarily consumer debts as defined in §101(8).",
+          "laymanExplanation": "You aren't means tested just because you owe money; nature of debtor and debts matters.",
+          "legalExplanation": "§707(b) is special consumer Chapter 7 scheme, not business debtor universal dismissal.",
+          "examApplication": "Before doing arithmetic classify natural person, consumer/business majority and current chapter.",
+          "examTrap": "Business debtor may still face §707(a) cause but not §707(b)."
+        },
+        {
+          "id": "bank-ch2-means-framework-e2",
+          "type": "rule",
+          "title": "Two paths to Chapter 7 abuse: presumption vs bad faith/totality",
+          "page": "Chapter 2 § D.2.a,c (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "§707(b)(2) means test creates rebuttable presumption; §707(b)(3) separately evaluates bad faith or totality even if no presumption or one rebutted.",
+          "laymanExplanation": "Passing the math test doesn't guarantee court will allow a luxury-financed Chapter 7.",
+          "legalExplanation": "Tests are alternative ways to prove same legal conclusion under §707(b)(1).",
+          "examApplication": "Separate numerical formula from behavioral, income-change and extravagance facts.",
+          "examTrap": "Do not equate below-median safe harbor with immunity from all abuse review."
+        },
+        {
+          "id": "bank-ch2-means-framework-e3",
+          "type": "rule",
+          "title": "State median income safe harbor",
+          "page": "Chapter 2 § D.2.a,b.i (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "§707(b)(7): generally annualized household CMI at/below state median for family size shields from presumption of abuse; above median debtor must compute detailed test.",
+          "laymanExplanation": "First compare last-six-month average annualized to current state's median; if below, detailed presumption does not arise.",
+          "legalExplanation": "Spousal income may be considered in median test, with separation rules. State and household size matter. 2020 examples in book (Illinois family 2 $76,602; NJ/NY family four medians) are historical.",
+          "examApplication": "Problem 2.5 $6,400 monthly annualized vs 2020 Illinois family-two median; Problem 2.6 NJ/NY comparison.",
+          "examTrap": "Means test median differs by date: don't use archived 2020 values for actual 2026 filing."
+        },
+        {
+          "id": "bank-ch2-means-framework-e4",
+          "type": "rule",
+          "title": "Means-test formula in 2021 text: net × 60",
+          "page": "Chapter 2 § D.2.a (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "Step 1 CMI − allowable living/secured/priority/admin deductions = monthly net; Step 2 ×60 five-year net; Step 3 compare with lesser of (greater of $8,175 or 25% of nonpriority unsecured debts) and $13,650. All quoted thresholds are textbook-era.",
+          "laymanExplanation": "Subtract approved costs, multiply remainder by 60, compare to legally specified cutoff.",
+          "legalExplanation": "§707(b)(2)(A)(i) statutory formula as printed in 2021 source; actual thresholds indexed later; separate Chapter 13 projected disposable income adaptation.",
+          "examApplication": "For problem use its specified historical dollars and identify 25% claim factor.",
+          "examTrap": "Incorrect to compare 60-month payment capacity to both thresholds separately; apply nested min/max."
+        },
+        {
+          "id": "bank-ch2-means-framework-e5",
+          "type": "concept",
+          "title": "Why the 2005 means test creates perverse incentives",
+          "page": "Chapter 2 § D.2.a (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "The mathematical test can reward secured borrowing, delaying child-support arrears and strategically suppressing 6-month income, although §707(b)(3) may catch abuse.",
+          "laymanExplanation": "Borrowing for fancy car might artificially lower the test's apparent disposable income.",
+          "legalExplanation": "Explain historical income/actual future disconnect and need for general bad-faith screen.",
+          "examApplication": "Problem 2.5(b,c) poses strategic job stoppage and BMW acquisition; treat as legal-ethics and anti-abuse issues, not simple arithmetic.",
+          "examTrap": "Passing mechanical formula through manipulative tactics does not confer guaranteed discharge."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch2-means-income",
+      "title": "D.2(b)(i–ii) — Current Monthly Income: Six-Month Lookback and Family Resources",
+      "description": "§101(10A) income definition, non-taxable receipts, spousal income, exclusions, reimbursement versus gross proceeds and calculation problems.",
+      "chapterGroup": "bank-ch2",
+      "entries": [
+        {
+          "id": "bank-ch2-means-income-e1",
+          "type": "rule",
+          "title": "§101(10A): historical six full months CMI",
+          "page": "Chapter 2 § D.2.b.ii (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "CMI generally equals average monthly receipts from all sources for the six calendar months ending on last day of month BEFORE petition, whether taxable or not, with statutory exceptions.",
+          "laymanExplanation": "File Jan 1 → average July–Dec, not January salary or next month's new job.",
+          "legalExplanation": "CMI = sum of included receipts during lookback / 6; annualized for median screen by multiplying ×12.",
+          "examApplication": "When a single $2,000 bonus appears, average it over six months, not $2,000 every month.",
+          "examTrap": "Do not confuse CMI with taxable income or postpetition income forecast."
+        },
+        {
+          "id": "bank-ch2-means-income-e2",
+          "type": "rule",
+          "title": "Spouse and regular third-party household contributions",
+          "page": "Chapter 2 § D.2.b.ii (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "Joint spouses' income included; spousal income included in some median-screen calculations even for nonjoint debtor absent separation conditions; §101(10A)(B) adds regular payments by others toward debtor/household expenses.",
+          "laymanExplanation": "Your spouse's wages and mom's regular $200 toward rent can affect means test.",
+          "legalExplanation": "Only household-expense contributions from third parties qualify, not necessarily every dollar of co-resident's independent income.",
+          "examApplication": "In Problem 2.7(g,j) ask marital status/separation and whether mother actually pays debtor's expenses.",
+          "examTrap": "Don't count entire mother-in-law's $8,000 monthly wealth as debtor's income solely from living together."
+        },
+        {
+          "id": "bank-ch2-means-income-e3",
+          "type": "rule",
+          "title": "Social Security excluded; taxable status not decisive",
+          "page": "Chapter 2 § D.2.b.ii (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "§101(10A) specifically excludes Social Security benefits and payments to certain crime/terror victims; non-taxable municipal bond income may count when income in ordinary statutory sense.",
+          "laymanExplanation": "Untaxed doesn't mean excluded; Social Security has an express carveout.",
+          "legalExplanation": "Book cites Blausey v U.S. Trustee holding private disability benefits are income even if excluded from income tax gross income; courts dispute whether particular receipts count as income.",
+          "examApplication": "For non-taxable bond proceeds and government support, apply bankruptcy's own statutory definition.",
+          "examTrap": "Do not blindly import IRC §61 or §104 exclusion concepts into CMI."
+        },
+        {
+          "id": "bank-ch2-means-income-e4",
+          "type": "rule",
+          "title": "Income receipts vs replacing existing asset",
+          "page": "Chapter 2 § D.2.b.ii (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "Reimbursements, selling personal car and refunds raise whether receipt is genuine 'income' rather than return of prior asset/capital; source poses issues unresolved in 2.7.",
+          "laymanExplanation": "Getting $20k for a $45k old BMW isn't automatically the same as earning $20k salary.",
+          "legalExplanation": "Statutory all-sources phrase, Blausey and jurisdictional approaches may require closer characterization; book doesn't resolve every item.",
+          "examApplication": "For each receipt state source, ordinary-income character, timing, explicit exception and any authority.",
+          "examTrap": "Don't mechanically declare every cash deposit CMI without distinguishing selling own property."
+        },
+        {
+          "id": "bank-ch2-means-income-e5",
+          "type": "rule",
+          "title": "Annual median comparison and future-income divergence",
+          "page": "Chapter 2 § D.2.b.i-ii (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "Annualized CMI = six-month receipts / 6 × 12. Income may change after lookback; future raise or job loss can alter totality and Chapter 13 projections even when CMI fixed.",
+          "laymanExplanation": "A fired worker may look wealthy in six-month average; new highly paid graduate may look poor.",
+          "legalExplanation": "§707(b)(3) totality route and Hamilton v Lanning's Chapter 13 projections are distinct mechanisms to address change.",
+          "examApplication": "Analyze future jobs separately from statutory CMI in problem 2.7(f).",
+          "examTrap": "Do not include next month's salary in historical CMI simply because offer accepted."
+        },
+        {
+          "id": "bank-ch2-means-income-e6",
+          "type": "concept",
+          "title": "Blausey v U.S. Trustee: private disability proceeds",
+          "page": "Chapter 2 § D.2.b.ii (general syllabus pp.79–170)",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+          "summary": "Ninth Circuit in Blausey, 552 F.3d 1124 (2009), included privately funded disability benefits in CMI, distinguishing tax treatment.",
+          "laymanExplanation": "An amount not subject to income tax can still reduce Chapter 7 eligibility.",
+          "legalExplanation": "Textbook criticizes loosely treating any receipt as income and notes court division on income definition.",
+          "examApplication": "Flag where problem explicitly assumes Blausey correct.",
+          "examTrap": "Blausey is a referenced authority, not a full opinion excerpt here."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch2-p2-4",
+      "topicId": "bank-ch2-consumer-choice",
+      "title": "Problem 2.4",
+      "kind": "Casebook Problem 2.4 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+      "prompt": "Five consumer Chapter choice scenarios: (a) Samantha's $50k uninsured medical debt, $60k all exempt assets, $50k salary; (b) $800 car default, repossession and acceleration $12k, Volvo value $10k, bought new 3 years earlier; (c) $9k credit-card debt possibly fraudulent application; (d) $15k of $60k assets exempt; (e) newly graduated lawyer starts $140k salary, $90k student debt, $15k credit cards and no nonexempt assets. Compare Chapter 7 vs 13 incentives, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-5",
+      "topicId": "bank-ch2-means-framework",
+      "title": "Problem 2.5",
+      "kind": "Casebook Problem 2.5 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+      "prompt": "Means test and planning scenario (source's 2020 values): married couple CMI $6,400/month; Illinois two-person median $76,602/year; living $3,700, secured $2,000, priority $300, other $100; $80k nonpriority unsecured debt. (a) presumption of abuse? (b) stop painting contracts before filing? (c) purchase BMW with $750/month 60-payment loan? Preserve advice/ethics discussion unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-6",
+      "topicId": "bank-ch2-means-framework",
+      "title": "Problem 2.6",
+      "kind": "Casebook Problem 2.6 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+      "prompt": "Family of four earns CMI $10k/month ($120k annualized), lives in New Jersey but considers moving to New York; source's 2020 state medians $132,708 NJ and $111,054 NY. Advise whether move affects safe harbor and chapter choice, unsolved.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "bank-ch2-p2-7",
+      "topicId": "bank-ch2-means-income",
+      "title": "Problem 2.7",
+      "kind": "Casebook Problem 2.7 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), user-supplied Chapter 2 §D.1–D.2.b.ii; Fall 2026 Effross syllabus general pp.79–170",
+      "prompt": "Ten six-month-lookback items for Jan 1 petition: (a) $2k employer travel reimbursement; (b) sale of BMW bought $45k, sold $20k Dec 1; (c) $4k tax refund Dec 15; (d) $5k/month salary before Dec31 layoff; (e) one-time $2k Dec31 bonus; (f) new Jan15 $30k/month job; (g) nonfiling spouse earned $30k during six months; (h) $1,800 Social Security; (i) non-taxable $3k municipal bond receipts; (j) elderly independent mother earns $8k/month and lives with debtor. Determine included CMI and missing facts, unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
