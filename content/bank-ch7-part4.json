@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+  "coverage": {
+    "chapter": 7,
+    "scope": "D. §362(d)(3) single asset real estate SARE definition and 90-day/30-day deadlines, feasible plan versus interest payments, detailed full Larry Goodwin Golf case brief and original Problem7.6 unsolved"
+  },
+  "topics": [
+    {
+      "id": "bank-ch7-sare-definition",
+      "title": "D. Single Asset Real Estate: §101(51B) Three-Part Classification",
+      "chapterGroup": "bank-ch7",
+      "description": "Passive property investments vs active operating business and fewer-than-four-unit exception.",
+      "entries": [
+        {
+          "id": "bank-ch7-sare-definition-e1",
+          "type": "rule",
+          "title": "SARE definition §101(51B): single project + substantially all gross income + no unrelated substantial business",
+          "page": "Ch.7 §D",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "Single asset real estate is real property forming single property/project, excluding residential fewer than 4 units, generating substantially all debtor gross income, with no substantial other business besides operating realty and incidental activities; family farmers excluded.",
+          "laymanExplanation": "One rental office building and nothing else is classic; an active business with substantial services can be different.",
+          "legalExplanation": "Classification requires specific facts, not just title of company or apparent land asset.",
+          "examApplication": "Break statutory text into real property/project, income and non-incidental operating business elements, plus exceptions.",
+          "examTrap": "Don't assume owning one parcel automatically triggers SARE."
+        },
+        {
+          "id": "bank-ch7-sare-definition-e2",
+          "type": "rule",
+          "title": "Passive rent collection likely SARE",
+          "page": "Ch.7 §D",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "Casebook describes investment vehicles that own apartment complexes or office parks and merely collect rents/maintain property as typical §101(51B) targets, when size/other requirements met.",
+          "laymanExplanation": "Shell company owns apartment building to collect rent; likely fast lender protections apply.",
+          "legalExplanation": "History included eve-of-foreclosure Chapter11 filings delaying lenders despite undersecured no-interest Timbers.",
+          "examApplication": "Ask whether rental activity merely incidental to owning realty.",
+          "examTrap": "Small residential building fewer than four units excluded by statutory definition."
+        },
+        {
+          "id": "bank-ch7-sare-definition-e3",
+          "type": "rule",
+          "title": "Hotels, marinas and service-intensive business may fall outside SARE",
+          "page": "Ch.7 §D",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "If business provides material independent services—hotel restaurant/bar/gift shop; marina fuel/boat repair/concessions; golf course operations—courts may find debtor conducting significant non-incidental business.",
+          "laymanExplanation": "Hotel with restaurant and staff isn't merely holding land for passive rent.",
+          "legalExplanation": "Cases CBJ Development, Kkemko and Larry Goodwin analyzed actual operations rather than labels.",
+          "examApplication": "List revenues, staff, services and whether active business substantial.",
+          "examTrap": "The source says courts 'probably' treat shopping centers/hotels differently; context and proof matter, not categorical exemption."
+        },
+        {
+          "id": "bank-ch7-sare-definition-e4",
+          "type": "rule",
+          "title": "Distinguish a single property from a single business",
+          "page": "Ch.7 §D",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "A golf course comprises one real estate property but includes pro shop, cart rentals and recreation operations: statutory requirement excludes a substantial business other than real property operation.",
+          "laymanExplanation": "A business happening on land isn't the same as business of owning land.",
+          "legalExplanation": "Casebook explicitly makes statutory purpose of quick relief for passive asset cases central.",
+          "examApplication": "Focus on activity rather than number of deeds alone.",
+          "examTrap": "SARE inquiry not resolved solely by collateral being 'real estate'."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-sare-362d3",
+      "title": "D. §362(d)(3): Filing Window, Interest Calculation and Feasible Plan",
+      "chapterGroup": "bank-ch7",
+      "description": "Alternative prerequisites for preserving stay in SARE cases.",
+      "entries": [
+        {
+          "id": "bank-ch7-sare-362d3-e1",
+          "type": "rule",
+          "title": "SARE timing: later of 90 days from petition or 30 days after judicial status ruling",
+          "page": "Ch.7 §D",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "SARE secured creditor entitled to stay relief unless debtor timely complies by plan or interest payments within 90 days after filing, or if later 30 days after court's SARE determination; court may extend for cause under applicable provision.",
+          "laymanExplanation": "If SARE label disputed, debtor may get extra time measured from judge's ruling.",
+          "legalExplanation": "Source includes statutory exception and longer deadline when classification delayed.",
+          "examApplication": "In fact-pattern create petition, SARE-order and filing/payment dates timeline.",
+          "examTrap": "Don't start 90 days only after SARE order, or always assume 30 days regardless order date."
+        },
+        {
+          "id": "bank-ch7-sare-362d3-e2",
+          "type": "rule",
+          "title": "SARE option A: file plausible confirmable plan",
+          "page": "Ch.7 §D",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "§362(d)(3)(A) permits stay continuation if SARE debtor files reorganization plan having reasonable possibility of being confirmed in reasonable time, supported by concrete prospect rather than vague hopes.",
+          "laymanExplanation": "Debtor can avoid new interest payment route by putting credible plan on file promptly.",
+          "legalExplanation": "Feasibility links Timbers and Pegasus, but source specifies plan filing.",
+          "examApplication": "Review financial backing, property use and confirmability within reasonable time.",
+          "examTrap": "Filing an obviously unconfirmable placeholder isn't enough."
+        },
+        {
+          "id": "bank-ch7-sare-362d3-e3",
+          "type": "rule",
+          "title": "SARE option B: start contract-rate interest payments on lien value",
+          "page": "Ch.7 §D",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "§362(d)(3)(B) alternative monthly interest payments to creditor at then applicable nondefault contract rate on value of creditor's allowed secured claim/collateral interest, rather than full unsecured part of loan.",
+          "laymanExplanation": "Passive rental owner can keep stay by paying interest on covered collateral amount while formulating plan.",
+          "legalExplanation": "This is statutory exception to Timbers no opportunity-cost AP payment. Book emphasizes calculation based on SECURED claim, not whole undersecured debt.",
+          "examApplication": "Calculate secured portion then apply annual rate/12, and consider statutory source of payments/cash collateral as applicable.",
+          "examTrap": "Don't multiply nondefault rate by entire $25m loan if collateral value only $20m absent other support."
+        },
+        {
+          "id": "bank-ch7-sare-362d3-e4",
+          "type": "rule",
+          "title": "§362(d)(3) applies only secured lender with SARE lien",
+          "page": "Ch.7 §D",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "This third ground has no application unless creditor's allowed claim secured by defined SARE property; other borrowers governed by (d)(1)/(d)(2) and other provisions.",
+          "laymanExplanation": "Bank with lien on restaurant kitchen can't use SARE merely because kitchen in a building.",
+          "legalExplanation": "Classification often litigated before deadlines/payment questions.",
+          "examApplication": "Say why §101(51B) is or isn't met before invoking alternate payments.",
+          "examTrap": "Not every undersecured creditor receives §362(d)(3)(B) interest."
+        },
+        {
+          "id": "bank-ch7-sare-362d3-e5",
+          "type": "rule",
+          "title": "How SARE responds to Timbers and creditor delay concerns",
+          "page": "Ch.7 §D",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "Book describes undersecured passive real estate firms filing near foreclosure, keeping lenders waiting while Timbers precluded interest for delay; Congress enacted expedited plan/payment choice.",
+          "laymanExplanation": "Single-building debtor cannot indefinitely use filing as leverage without progress or interest.",
+          "legalExplanation": "Statutory balance grants 90-day breathing spell then imposes measurable burden.",
+          "examApplication": "Use legislative policy to explain special treatment and scope limits.",
+          "examTrap": "No general reversal of Timbers rule outside SARE."
+        },
+        {
+          "id": "bank-ch7-sare-362d3-e6",
+          "type": "rule",
+          "title": "Interest computation method under source",
+          "page": "Ch.7 §D / Problem7.6",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "SARE monthly interest at then-applicable non-default annual contract rate multiplied by secured (collateral) value and divided by 12 when annual rate given; source Problem7.6 states $100k/month interest on secured claim vs $125k/month entire debt, plus net rents and separate cash collateral restrictions.",
+          "laymanExplanation": "Three figures to distinguish: gross rent, net rent collateral and legally required monthly SARE interest.",
+          "legalExplanation": "Do not assume rent proceeds automatically free of lien; §552(b)(2) and §363 apply as well.",
+          "examApplication": "Identify interest principal, collateral claim amount, contract rate and timing.",
+          "examTrap": "Even if rent receipts appear to cover payment, other legal prerequisites may govern."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-larry-goodwin",
+      "title": "D. In re Larry Goodwin Golf (1997) — Full Golf Course SARE Case Brief",
+      "chapterGroup": "bank-ch7",
+      "description": "North Carolina bankruptcy court holds golf course is operating business, not passive single-asset real estate.",
+      "entries": [
+        {
+          "id": "bank-ch7-larry-goodwin-e1",
+          "type": "case",
+          "title": "In re Larry Goodwin Golf, Inc., 219 B.R. 391 (Bankr. M.D.N.C. 1997)",
+          "page": "Ch.7 §D / Larry Goodwin Golf full opinion",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "No. Court held golf club conducted active and non-incidental operating BUSINESS beyond simply earning real estate rents; not SARE. Accordingly, §362(d)(3) did not apply, and conditional $6,793 monthly payments were reduced to $4,000.",
+          "laymanExplanation": "A debtor operating substantial service business ON a property (golf, carts, pro shop, concessions, pool) is not necessarily SARE even though it owns one major real estate asset; §362(d)(3) restricted to passive realty income situations.",
+          "legalExplanation": "Court interpreted statutory text/purpose against passive building/land income holdings. Compared Kkemko marina where repair, showers, gas sales and concessions were other substantial business, and CBJ Development hotel with bar/gift shop/restaurant. Goodwin actively supplied golf experience/services and personal property use; ownership of physical land incidental to operating enterprise. No filed plan yet, so if SARE mandatory interest route could have been triggered, but definition inapplicable.",
+          "examApplication": "Highlight $6,793 versus $4,000 conditional monthly numbers, business activities and key distinction from apartment landlord passive operation.",
+          "examTrap": "Holding is classification in this case, not automatic exemption for every golf course or all business with any concessions.",
+          "assignedOpinion": true,
+          "sourceRole": "Full bankruptcy court opinion excerpted from uploaded Chapter 7",
+          "facts": "Larry Goodwin Golf operated Uwharrie Golf Club in North Carolina, with eighteen-hole course, pro shop, driving range, swimming pool, golf cart rentals, concessions and adjacent undeveloped property for sale. Bought golf course July31 1992 for $1.1m, $950k seller purchase-money secured by North Carolina real-property deed of trust and personal-property equipment. Filed Chapter11 Apr29 1997. Lender Uwharrie sought stay relief; court denied. Debtor had kept AP payments current. Bankruptcy court had conditionally set monthly payments at $6,793 if debtor SARE, but $4,000 if not; decision required SARE classification.",
+          "issue": "Does one physical golf-course property generating income constitute 'single asset real estate' §101(51B), triggering §362(d)(3) required payments even if it offers substantial business services?",
+          "holding": "No. Court held golf club conducted active and non-incidental operating BUSINESS beyond simply earning real estate rents; not SARE. Accordingly, §362(d)(3) did not apply, and conditional $6,793 monthly payments were reduced to $4,000.",
+          "reasoning": "Court interpreted statutory text/purpose against passive building/land income holdings. Compared Kkemko marina where repair, showers, gas sales and concessions were other substantial business, and CBJ Development hotel with bar/gift shop/restaurant. Goodwin actively supplied golf experience/services and personal property use; ownership of physical land incidental to operating enterprise. No filed plan yet, so if SARE mandatory interest route could have been triggered, but definition inapplicable.",
+          "rule": "A debtor operating substantial service business ON a property (golf, carts, pro shop, concessions, pool) is not necessarily SARE even though it owns one major real estate asset; §362(d)(3) restricted to passive realty income situations."
+        },
+        {
+          "id": "bank-ch7-larry-goodwin-e2",
+          "type": "rule",
+          "title": "Why golf services defeated passive property definition",
+          "page": "Ch.7 §D / Larry Goodwin",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "Golf cart rentals, pro shop, driving range, pool, concessions and course services constituted active business beyond income from merely allowing use of land.",
+          "laymanExplanation": "You pay for staffed golf recreation, not just rent raw acreage.",
+          "legalExplanation": "Compare hotel with ancillary services and marina maintenance/repair facts.",
+          "examApplication": "List specific business operations in case analysis.",
+          "examTrap": "Court did not rely solely on acreage or being one legal parcel."
+        },
+        {
+          "id": "bank-ch7-larry-goodwin-e3",
+          "type": "rule",
+          "title": "Conditional payment amounts hinge on SARE result",
+          "page": "Ch.7 §D / Larry Goodwin",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "Judge had ordered $6,793/month contingent on SARE eligibility, with $4,000/month otherwise; after no-SARE finding reduced to $4,000.",
+          "laymanExplanation": "Classification changed debtors' monthly burden immediately.",
+          "legalExplanation": "§362(d)(3) payment not required when debtor excluded, though independent AP can require lesser sum.",
+          "examApplication": "If asked why creditor lost $2,793 monthly, tie to statutory eligibility.",
+          "examTrap": "Not a decision that $4k invariably adequate for all golf business debtors."
+        },
+        {
+          "id": "bank-ch7-larry-goodwin-e4",
+          "type": "rule",
+          "title": "Analogous hotels and marina cases are discussed, not full opinions",
+          "page": "Ch.7 §D / Larry Goodwin",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "Kkemko marina and CBJ Development hotel are quoted/discussed as precedent but not full opinions pasted, so use as analogies without presenting as independent assigned full briefs.",
+          "laymanExplanation": "Gas sales and boat repair show distinct business from landownership; so can hotel restaurant/bar.",
+          "legalExplanation": "They establish persuasive classification factors and facts used by Goodwin.",
+          "examApplication": "Note source status when organizing study case list.",
+          "examTrap": "Do not fabricate full Kkemko/CBJ court procedural holdings beyond excerpt's discussion."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch7-problem-7-6",
+      "title": "D. Problem 7.6: Golden Debtor SARE Payments and Rent Collateral (Unsolved)",
+      "chapterGroup": "bank-ch7",
+      "description": "Preserve monthly rent vs secured/total debt interest numbers.",
+      "entries": [
+        {
+          "id": "bank-ch7-problem-7-6-e1",
+          "type": "rule",
+          "title": "Do not confuse net-rent dollars with required interest",
+          "page": "Ch.7 §D / Problem7.6",
+          "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+          "summary": "Source supplies 4 distinct numbers: $150k gross monthly rents, $30k operating expenses, $120k net lien rents, $125k interest on $25m total debt, $100k interest on $20m secured claim. Which legal number controls requires statutory analysis.",
+          "laymanExplanation": "Money coming in and mortgage interest base aren't same calculation.",
+          "legalExplanation": "Problem tests lien rents alongside SARE statutory interest paid from permissible sources.",
+          "examApplication": "Set up columns before selecting final required monthly dollar payment.",
+          "examTrap": "Preserve original problem's answer for independent attempt."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch7-p7-6",
+      "topicId": "bank-ch7-problem-7-6",
+      "title": "Problem 7.6 — SARE monthly amount",
+      "kind": "Original textbook Problem — UNSOLVED",
+      "source": "User-uploaded Bankruptcy & Creditors' Rights Chapter 7 §D Single Asset Real Estate, original Problem7.6, complete In re Larry Goodwin Golf excerpt",
+      "prompt": "Same Golden Debtor/Bank facts as original Problem7.5: Chapter11 office building mortgage debt $25m, value stable $20m, tenant rents gross $150,000/month, mortgage entitlement to rents litigated. Court now finds: expenses $30,000/month so NET rent $120,000/month subject to Bank mortgage lien; qualifies as SARE under §101(51B); applicable nondefault contract monthly interest on entire bank debt is $125,000, while on allowed SECURED claim is $100,000. Bank seeks §362(d)(3) alternative interest. What monthly sum Golden Debtor must pay to preserve stay? Analyze §§362(d)(3)(B)(i), §363 and cash collateral; leave unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
