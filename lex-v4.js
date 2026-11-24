@@ -295,7 +295,7 @@ async function boot(){
   }catch(error){console.warn('Administrative Law supplement not loaded: '+file,error);}
  }
  // Import Bankruptcy chapter content without overwriting existing user-edited material.
- for(const file of ['bank-ch1-part1.json','bank-ch1-part2.json','bank-ch1-part3.json','bank-ch1-part4.json']){
+ for(const file of ['bank-ch1-part1.json','bank-ch1-part2.json','bank-ch1-part3.json','bank-ch1-part4.json','bank-ch1-review-questions.json']){
   try{
    const response=await fetch('./content/'+file+'?v=1',{cache:'no-store'});
    if(!response.ok)throw Error('HTTP '+response.status);
