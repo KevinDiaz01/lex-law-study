@@ -1,0 +1,274 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+  "coverage": {
+    "chapter": 8,
+    "scope": "D.2 full Mission Product (2019) and In re Ortiz (2009) opinions, special rights after rejection under §365(h),(i),(j),(n), D.3 full source treatment of §1113 collective bargaining (Bildisco referenced, not full opinion)"
+  },
+  "topics": [
+    {
+      "id": "bank-ch8-mission-product",
+      "title": "D.2 Mission Product Holdings v. Tempnology (2019) — Full Supreme Court Case",
+      "chapterGroup": "bank-ch8",
+      "description": "Trademark licenses survive rejection; §365(g) means breach not rescission.",
+      "entries": [
+        {
+          "id": "bank-ch8-mission-product-e1",
+          "type": "case",
+          "title": "Mission Product Holdings, Inc. v. Tempnology, LLC, 139 S. Ct. 1652 (2019)",
+          "page": "Ch.8 §D.2 / Mission Product full Supreme Court excerpt",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "No. Supreme Court (Kagan) held rejection constitutes breach, not rescission, so preexisting trademark-use license survives to extent ordinary nonbankruptcy breach law preserves rights; reversed First Circuit and remanded.",
+          "laymanExplanation": "Rejection by debtor-licensor DOES NOT revoke previously granted nonexclusive trademark license; rejection is equivalent to contract breach outside bankruptcy, not termination/rescission or avoidance.",
+          "legalExplanation": "§365(g) says breach, ordinary contract law leaves counterparty with election after breaching party repudiates, not breacher with power to undo past conveyance. Photocopier dealer/law-firm hypothetical: refusing maintenance doesn't repossess copier. §541 estate cannot possess more rights than debtor originally owned; rejection-as-rescission would circumvent narrow avoidance provisions §§544–553. §365(h)/(i)/(n) special protections address past judicial errors/adjust remedies and yield no negative inference about all others. Trademark quality-control policy may make preservation costly but cannot rewrite §365(a)/(g).",
+          "examApplication": "Describe Coolcore mark, distributed products, lower court split, copier analogy, §365(n) not covering trademarks, no automatic termination.",
+          "examTrap": "Supreme Court did NOT decide Mission's exclusive US distribution rights (waived) or grant licensee immunity from ordinary trademark law / contractual future obligations.",
+          "assignedOpinion": true,
+          "sourceRole": "Full court opinion excerpted in uploaded Chapter8",
+          "facts": "Tempnology manufactured Coolcore cooling athletic gear, licensed Mission exclusive US product distribution and nonexclusive worldwide use of Coolcore marks in 2012; agreement scheduled to July2016. Tempnology filed Chapter11 Sep2015 and rejected contract. Bankruptcy court held rejection terminated Mission trademark license; BAP reversed following Sunbeam; First Circuit sided with debtor revocation. Supreme Court granted cert on trademark LICENSE (exclusive distribution dispute waived below).",
+          "issue": "Does debtor trademark licensor's §365 rejection rescind licensee's previously granted contractual rights to continue using trademark?",
+          "holding": "No. Supreme Court (Kagan) held rejection constitutes breach, not rescission, so preexisting trademark-use license survives to extent ordinary nonbankruptcy breach law preserves rights; reversed First Circuit and remanded.",
+          "reasoning": "§365(g) says breach, ordinary contract law leaves counterparty with election after breaching party repudiates, not breacher with power to undo past conveyance. Photocopier dealer/law-firm hypothetical: refusing maintenance doesn't repossess copier. §541 estate cannot possess more rights than debtor originally owned; rejection-as-rescission would circumvent narrow avoidance provisions §§544–553. §365(h)/(i)/(n) special protections address past judicial errors/adjust remedies and yield no negative inference about all others. Trademark quality-control policy may make preservation costly but cannot rewrite §365(a)/(g).",
+          "rule": "Rejection by debtor-licensor DOES NOT revoke previously granted nonexclusive trademark license; rejection is equivalent to contract breach outside bankruptcy, not termination/rescission or avoidance."
+        },
+        {
+          "id": "bank-ch8-mission-product-e2",
+          "type": "rule",
+          "title": "The breaching party cannot use its own breach to repossess licensed rights",
+          "page": "Ch.8 §D.2 / Mission",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Under state contract default, nonbreacher chooses response; rejecting debtor can stop promising future services but cannot automatically claw back property or license rights earlier conferred.",
+          "laymanExplanation": "Dealer stops repairing leased copier but cannot immediately force law firm to return it.",
+          "legalExplanation": "Analogous trademarks even though licensor still may face quality-control duties under nonbankruptcy law.",
+          "examApplication": "Identify property grants distinct from executory service duties.",
+          "examTrap": "Do not say licensee may stop paying without considering its choice and governing contract law."
+        },
+        {
+          "id": "bank-ch8-mission-product-e3",
+          "type": "rule",
+          "title": "No negative inference from §365(h),(i),(n) special protections",
+          "page": "Ch.8 §D.2 / Mission",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Congress enacted patches after courts misread rejection as termination; presence of express property/ IP protections does NOT imply unlisted agreements lose everything. §365(n) specifically reversed patent Lubrizol, trademarks outside §101(35A) still receive generic §365(g) protection.",
+          "laymanExplanation": "Special rescue rules don't mean every other licensee is stripped of rights.",
+          "legalExplanation": "Court emphasized different historical amendments and independent remedial tweaks, not universal 'exceptions prove rescission' inference.",
+          "examApplication": "Explain why omission of trademarks from §365(n) did not give Tempnology victory.",
+          "examTrap": "Don't apply §365(n) royalty-setoff rules to trademarks automatically."
+        },
+        {
+          "id": "bank-ch8-mission-product-e4",
+          "type": "rule",
+          "title": "Estate cannot acquire more than prepetition debtor §541",
+          "page": "Ch.8 §D.2 / Mission",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Rights already conveyed cannot be recovered simply by rejection, because estate succeeds only to debtor's remaining bundle; avoiding transfers needs separate strict §§544–553 provisions.",
+          "laymanExplanation": "Bankruptcy doesn't give clothing maker power to grab back someone else's trademark-use rights.",
+          "legalExplanation": "Limits reflect baseline property law beyond contract damage claim mechanism.",
+          "examApplication": "In problem distinguish rejection, valid termination term, separately authorized avoidance.",
+          "examTrap": "Not a rule that bankruptcy never can unwind transfers by separate statutory authority."
+        },
+        {
+          "id": "bank-ch8-mission-product-e5",
+          "type": "rule",
+          "title": "Trademark quality control remains a business/legal challenge",
+          "page": "Ch.8 §D.2 / Mission",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Licensor argued preserving trademark license after rejection forces postbankruptcy quality control or risks mark; Court said balancing costs against law-mandated ownership obligations is part of restructuring choices, not basis for rewriting rejection.",
+          "laymanExplanation": "Company may have to choose paying for trademark oversight versus risking losing mark.",
+          "legalExplanation": "Ordinary trademark duties and §959(b) constraints survive where otherwise applicable.",
+          "examApplication": "On policy question show legitimate burden yet statutory text controlling.",
+          "examTrap": "Decision doesn't require blanket postrejection performance of every rejected contract promise."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-ortiz",
+      "title": "D.2 In re Ortiz (2009) — Full Personal-Services and Equitable-Remedy Case",
+      "chapterGroup": "bank-ch8",
+      "description": "Breached exclusive boxing promotion deal and dischargeability of injunction rights.",
+      "entries": [
+        {
+          "id": "bank-ch8-ortiz-e1",
+          "type": "case",
+          "title": "In re Ortiz, 400 B.R. 755 (C.D. Cal. 2009)",
+          "page": "Ch.8 §D.2 / Ortiz full district-court appeal",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "No. District court reversed bankruptcy court's categorical termination ruling: rejection = prepetition breach, NOT termination even in personal-services context. Whether Top Rank can obtain enforceable postbankruptcy equitable relief requires separate §101(5)(B) dischargeable claim analysis and available state-law remedies; remanded.",
+          "laymanExplanation": "Deemed rejection of an executory personal-services contract is breach only; injunction may survive if valid under state law and not a §101(5)(B) 'right to payment' discharged in bankruptcy.",
+          "legalExplanation": "§365(g) contains no special exception for personal-service agreements. A nonmonetary equitable remedy becomes dischargeable 'claim' only if alternative monetary compensation/right to payment arises; if monetary payment isn't viable adequate substitute, equitable right may survive. Earlier personal-service decisions that declared termination misconstrued distinction; involuntary-servitude and specific performance concerns properly addressed through nonbankruptcy restrictions rather than fictive §365 contract cancellation. Ortiz's actual ongoing freedom depends on substantive law and discharge, not rejection alone.",
+          "examApplication": "Use real boxer-promoter exclusion, Chapter7 60-day deemed rejection, competing Top Rank relief, and two-stage equitable remedy analysis.",
+          "examTrap": "Court did not hold Top Rank MUST get injunction; case remanded for consideration of actual available remedies and discharge nature.",
+          "assignedOpinion": true,
+          "sourceRole": "Full court opinion excerpted in uploaded Chapter8",
+          "facts": "Boxer Victor Ortiz and promoter Top Rank entered 2005 five-year agreement: minimum yearly bouts, minimum purses, exclusive Top Rank televised fights, 90-day neighboring exclusion. Ortiz filed Chapter7 Jan2 2008; trustee failed to assume in 60 days so contract deemed rejected March3. Ortiz wanted Golden Boy deal and asked bankruptcy court declaration that rejection terminated Top Rank's exclusive rights/injunction against interfering. Bankruptcy court granted Ortiz; Top Rank appealed seeking survival of rights to equitable enforcement.",
+          "issue": "Does Chapter7 trustee's deemed §365(d)(1) rejection itself terminate personal-services contract and eliminate promoter's independent rights to injunction enforcing exclusivity?",
+          "holding": "No. District court reversed bankruptcy court's categorical termination ruling: rejection = prepetition breach, NOT termination even in personal-services context. Whether Top Rank can obtain enforceable postbankruptcy equitable relief requires separate §101(5)(B) dischargeable claim analysis and available state-law remedies; remanded.",
+          "reasoning": "§365(g) contains no special exception for personal-service agreements. A nonmonetary equitable remedy becomes dischargeable 'claim' only if alternative monetary compensation/right to payment arises; if monetary payment isn't viable adequate substitute, equitable right may survive. Earlier personal-service decisions that declared termination misconstrued distinction; involuntary-servitude and specific performance concerns properly addressed through nonbankruptcy restrictions rather than fictive §365 contract cancellation. Ortiz's actual ongoing freedom depends on substantive law and discharge, not rejection alone.",
+          "rule": "Deemed rejection of an executory personal-services contract is breach only; injunction may survive if valid under state law and not a §101(5)(B) 'right to payment' discharged in bankruptcy."
+        },
+        {
+          "id": "bank-ch8-ortiz-e2",
+          "type": "rule",
+          "title": "§101(5)(B): equitable remedy may be dischargeable claim only if payment alternative",
+          "page": "Ch.8 §D.2 / Ortiz",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Injunction for breach can be claim if applicable law gives monetary alternative; if no viable money substitute, purely equitable restriction may not be discharged. State substantive law governs actual enforcement.",
+          "laymanExplanation": "A judge can't simply say all contracts turn into money claims when filed bankruptcy.",
+          "legalExplanation": "Distinguish §365 breach and §727 discharge of defined debts from existence of state-law injunctive remedy.",
+          "examApplication": "For exclusive services consider adequacy of damages and personal performance limits.",
+          "examTrap": "An injunction request doesn't automatically survive or automatically discharge."
+        },
+        {
+          "id": "bank-ch8-ortiz-e3",
+          "type": "rule",
+          "title": "Personal service and involuntary servitude are separate nonbankruptcy limits",
+          "page": "Ch.8 §D.2 / Ortiz",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Court rejected prior cases suggesting §365 rejection itself frees individual from any restraint; ordinary rule typically bars forcing person to perform personal labor, but noncompetition restraints and monetary remedies must be assessed on independent law.",
+          "laymanExplanation": "Judge won't order boxer to fight for someone just because old contract exists.",
+          "legalExplanation": "§365 does not create specialized personal-contract rescission power; no §365(g) carveout.",
+          "examApplication": "Ask what specific equitable relief is sought (positive labor vs negative exclusivity).",
+          "examTrap": "Surviving contract doesn't mean court can compel physical performance contrary to state policy."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-rejection-property-rights",
+      "title": "D.2 Special Retention of Rights After Rejection: §§365(h), (i), (j), (n)",
+      "chapterGroup": "bank-ch8",
+      "description": "Nondebtor lessees, purchasers in possession, and licensees.",
+      "entries": [
+        {
+          "id": "bank-ch8-rejection-property-rights-e1",
+          "type": "rule",
+          "title": "§365(h): nondebtor lessee when debtor LANDLORD rejects",
+          "page": "Ch.8 §D.2 / special rules",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Lessee may treat rejected real property lease terminated, surrender and assert unsecured damages OR retain use/possession for rest of term and extensions, continue paying rent with offset of damages due landlord nonperformance; choosing retention waives other damage claims against estate.",
+          "laymanExplanation": "Bankrupt landlord cannot use rejection to immediately eject paying tenant; tenant chooses leave or stay.",
+          "legalExplanation": "Landlord estate need not provide ordinary future services, but lessee's possession and offsets survive; shopping center tenant-mix restrictions can continue.",
+          "examApplication": "Identify who is lessor vs lessee first.",
+          "examTrap": "§365(h) does NOT address debtor AS tenant—that is separate §365(d)(3)/(d)(4)."
+        },
+        {
+          "id": "bank-ch8-rejection-property-rights-e2",
+          "type": "rule",
+          "title": "§365(i): vendee IN POSSESSION under debtor-vendor land contract",
+          "page": "Ch.8 §D.2 / special rules",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "After seller debtor rejects executory realty sale contract, buyer already occupying property may choose terminate and claim damages OR stay in possession while continuing installment price (offset damages), with trustee ultimately delivering title per contract.",
+          "laymanExplanation": "Buyer living in house on installment contract isn't automatically thrown out by bankrupt seller.",
+          "legalExplanation": "Nondebtor purchaser's possession status critical; purchaser retains certain rights and waives other claims on continuing.",
+          "examApplication": "Ask whether vendee in possession as of petition and elects continued payments.",
+          "examTrap": "Not all purchasers get identical possessory election."
+        },
+        {
+          "id": "bank-ch8-rejection-property-rights-e3",
+          "type": "rule",
+          "title": "§365(j): lien securing payments by disappointed realty purchaser",
+          "page": "Ch.8 §D.2 / special rules",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "If land sale contract rejected and nondebtor purchaser terminates (or lacks §365(i) possession election), §365(j) provides lien on debtor's interest securing purchase-price payments already made.",
+          "laymanExplanation": "Buyer who prepaid a down payment can have lien for money invested.",
+          "legalExplanation": "May also have unsecured damages, while rights to specific performance depend independent state law (book cross-reference).",
+          "examApplication": "Split down payment lien versus rejection-damages claim.",
+          "examTrap": "Do not combine §365(j) lien with automatic title transfer absent facts."
+        },
+        {
+          "id": "bank-ch8-rejection-property-rights-e4",
+          "type": "rule",
+          "title": "§365(n): patent/copyright and defined IP license, excludes trademarks",
+          "page": "Ch.8 §D.2 / special rules",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Upon rejection by debtor licensor, covered IP licensee can terminate and claim damages OR retain IP use for term/extensions, paying all royalties, waiving setoff/admin expense, trustee must provide noninterference and access. Patents/copyrights included but trademarks excluded from §101(35A).",
+          "laymanExplanation": "Patent license survives rejection under statutory election if licensee keeps royalties current.",
+          "legalExplanation": "§365(n) legislatively reversed Lubrizol's revocation theory; compare Mission's common-law protection for trademark.",
+          "examApplication": "Identify licensed IP TYPE before applying payment/offset rules.",
+          "examTrap": "Trademark licensees have general breach doctrine, not automatically §365(n) terms."
+        },
+        {
+          "id": "bank-ch8-rejection-property-rights-e5",
+          "type": "rule",
+          "title": "Why detailed special provisions don't undercut Mission",
+          "page": "Ch.8 §D.2 / Mission explanation",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Statutory schemes modify remedial specifics (rent setoffs, mandatory royalties, title transfer), not premise that all other grants can be rescinded absent these safeguards.",
+          "laymanExplanation": "Extra instructions for some assets don't erase baseline rights for the rest.",
+          "legalExplanation": "Avoid negative inference from older stopgap statutes.",
+          "examApplication": "Compare lessor, vendor, IP licensor from debtor side.",
+          "examTrap": "Not every §365(h)/(i)/(n) remedy has analogue for other categories."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch8-cba-1113",
+      "title": "D.3 CBAs: §1113 Negotiation, Rejection and Interim Changes",
+      "chapterGroup": "bank-ch8",
+      "description": "Bildisco historical split, stricter equities and nine statutory requirements.",
+      "entries": [
+        {
+          "id": "bank-ch8-cba-1113-e1",
+          "type": "rule",
+          "title": "CBA rejection requires §1113, not simple business judgment",
+          "page": "Ch.8 §D.3",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Unlike normal §365(a) contracts, union CBAs in Chapter11 need procedures and court finding union unjustified refusal plus clear balancing equities favor rejection. §1114 separately addresses retiree benefits.",
+          "laymanExplanation": "Company can't simply reject union contract because cheaper wages help business.",
+          "legalExplanation": "§1113(c)(3) balancing of equities; Bildisco 1984 held burden and balance, Congress promptly overruled interim unilateral modification aspect.",
+          "examApplication": "Identify labor agreement at start and follow special process.",
+          "examTrap": "General business judgment alone insufficient."
+        },
+        {
+          "id": "bank-ch8-cba-1113-e2",
+          "type": "rule",
+          "title": "§1113 nine-part checklist (full statutory structure)",
+          "page": "Ch.8 §D.3",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Debtor must (1) propose CBA changes, (2) use most complete reliable data, (3) propose necessary-to-reorganize changes, (4) treat parties fairly/equitably, (5) disclose relevant evaluation info, (6) meet union at reasonable times, (7) confer in good faith, (8) show union refuses without good cause, and (9) show balance of equities clearly favors rejection.",
+          "laymanExplanation": "Give union realistic informed chance to negotiate before judge changes pay agreement.",
+          "legalExplanation": "Requirements span §§1113(b)(1),(b)(2),(c)(2),(c)(3).",
+          "examApplication": "Write each element separately, then match bargaining record evidence.",
+          "examTrap": "A generic 'we met and union said no' does not satisfy §1113."
+        },
+        {
+          "id": "bank-ch8-cba-1113-e3",
+          "type": "rule",
+          "title": "Bildisco split: rejection upheld; unilateral interim changes legislatively reversed",
+          "page": "Ch.8 §D.3",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Supreme Court Bildisco allowed DIP to reject CBA on higher standard; 5–4 also allowed preapproval unilateral modification without unfair labor practice. Congress enacted §1113(e),(f) to stop unilateral modification pending authorization.",
+          "laymanExplanation": "Employer can't reduce worker pay just by filing motion.",
+          "legalExplanation": "Source excerpt describes Bildisco, not full opinion: DO NOT label case as source full brief.",
+          "examApplication": "When question asks history distinguish Congress's reaction to two rulings.",
+          "examTrap": "Do not apply obsolete unilateral-change permission as current source rule."
+        },
+        {
+          "id": "bank-ch8-cba-1113-e4",
+          "type": "rule",
+          "title": "§1113(e): interim changes only if essential to continue business/avoid irreparable harm",
+          "page": "Ch.8 §D.3",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Court may permit interim modifications under business-failure/irreparable-damage standard even before final rejection; §1113(f) prevents unilateral changes outside statutory procedure.",
+          "laymanExplanation": "If immediate collapse without temporary payroll relief, court—not employer alone—must approve.",
+          "legalExplanation": "Higher immediate necessity than ordinary elective rejection.",
+          "examApplication": "Tie urgency to actual financial statements and irreparable harm.",
+          "examTrap": "Court approval of ultimate rejection and authorization for interim changes distinct."
+        },
+        {
+          "id": "bank-ch8-cba-1113-e5",
+          "type": "rule",
+          "title": "Postrejection labor rights and NLRA bargaining",
+          "page": "Ch.8 §D.3",
+          "source": "Uploaded Bankruptcy casebook Chapter8 §D.2 and D.3, full Mission Product Holdings v. Tempnology and In re Ortiz opinions, §365(h),(i),(j),(n) retained rights and §1113 CBA",
+          "summary": "Before court rejection union workers receive existing CBA pay/benefits as postpetition admin expenses for work. Court-approved rejection treated as bargaining impasse; employer may implement terms of §1113 proposal for future work, then bargain toward new agreement under NLRA, union retains strike rights.",
+          "laymanExplanation": "Bankruptcy court doesn't impose final replacement union contract.",
+          "legalExplanation": "Bankruptcy and federal labor law interact; court decision changes permissible terms during negotiations.",
+          "examApplication": "Separate employee prefiling wages, gap wages and after-rejection work.",
+          "examTrap": "Rejection doesn't abolish federal labor law."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
