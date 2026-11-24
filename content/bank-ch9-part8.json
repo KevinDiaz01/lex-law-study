@@ -1,0 +1,267 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+  "coverage": {
+    "chapter": 9,
+    "scope": "§553(a) mutual prepetition state-law setoff, stay §362(a)(7), recoupment same transaction, §553(a)(2) claim purchases and (a)(3) new obligations, (b) two-point improvement formula, (c) insolvency presumption, full SemCrude triangular setoff; Problem9.15 unanswered"
+  },
+  "topics": [
+    {
+      "id": "bank-ch9-setoff-basics",
+      "title": "F. Setoff §553(a) and Recoupment: Mutuality, Timing, Stay",
+      "chapterGroup": "bank-ch9",
+      "description": "State-law netting and special same-transaction exception.",
+      "entries": [
+        {
+          "id": "bank-ch9-setoff-basics-e1",
+          "type": "rule",
+          "title": "Setoff is opposing mutual debts, not debt forgiveness",
+          "page": "Ch9 §F",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "If debtor owes creditor for services while creditor owes debtor for goods, parties net mutual payment claims; recognized by §553(a) if valid under state law and both prepetition, subject statutory exceptions.",
+          "laymanExplanation": "Creditor owes store $2k and store owes accountant $1.8k; accountant owes net $200.",
+          "legalExplanation": "§542(b) turnover subject to proper setoff; §506(a)(1) gives claim secured status to setoff amount.",
+          "examApplication": "Write arrows 'who owes whom' with separate capacities and dates.",
+          "examTrap": "Holding debtor goods as BAILEE is not owing monetary debt for setoff."
+        },
+        {
+          "id": "bank-ch9-setoff-basics-e2",
+          "type": "rule",
+          "title": "§553 preserves rather than creates state-law setoff",
+          "page": "Ch9 §F",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "Creditor must possess underlying nonbankruptcy law setoff right; Code imposes mutuality/time limitations and bankruptcy stay conditions.",
+          "laymanExplanation": "Bank may net depositor's account with borrower's personal loan when state law recognizes the right.",
+          "legalExplanation": "Bank deposit is bank's debt to depositor, mutual with debtor-to-bank loan when same persons/capacities.",
+          "examApplication": "Establish nonbankruptcy right before federal exceptions.",
+          "examTrap": "Bankruptcy doesn't create cross-company netting solely for efficiency."
+        },
+        {
+          "id": "bank-ch9-setoff-basics-e3",
+          "type": "rule",
+          "title": "§362(a)(7): stay relief needed for POSTpetition setoff",
+          "page": "Ch9 §F",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "Setoff of prepetition mutual debts after filing is stayed, so creditor normally seeks relief under §362(d) before effecting setoff.",
+          "laymanExplanation": "Bank may have good setoff right but cannot seize account unilaterally after filing.",
+          "legalExplanation": "Like foreclosure, payment-security remedy restrained pending bankruptcy oversight.",
+          "examApplication": "Distinguish protective hold from completed netting.",
+          "examTrap": "A valid §553 setoff right is not automatic stay permission."
+        },
+        {
+          "id": "bank-ch9-setoff-basics-e4",
+          "type": "rule",
+          "title": "§553(a): BOTH debts prepetition and same persons/capacities",
+          "page": "Ch9 §F",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "Obligation owed debtor BY creditor and owed creditor BY debtor must both arise prepetition, same two legal entities in same capacity; trustee holds fiduciary/bailee property not necessarily mutual debtor.",
+          "laymanExplanation": "Clem's own commission receivable can't net Banjo Fun corporation inventory invoice.",
+          "legalExplanation": "SemCrude bars triangular affiliate setoff even with private contract.",
+          "examApplication": "In Problem9.15 note individuals and separate corporations.",
+          "examTrap": "Postfiling receivable ordinarily not nettable with old claim."
+        },
+        {
+          "id": "bank-ch9-setoff-basics-e5",
+          "type": "rule",
+          "title": "Recoupment arises from SAME integrated transaction across petition",
+          "page": "Ch9 §F",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "Equitable recoupment adjusts connected obligations from one transaction even across pre/post divide: publisher's prepetition royalty advance offsets postpetition sale royalties under same author contract.",
+          "laymanExplanation": "Publisher advanced author cash and deducts it from later royalty checks.",
+          "legalExplanation": "Analyze single integrated contract rather than general ongoing business relationship.",
+          "examApplication": "Original 9.15 defective banjos may invoke warranty/setoff alternative, left unanswered.",
+          "examTrap": "Recoupment isn't unrestricted exception for unrelated old bills."
+        },
+        {
+          "id": "bank-ch9-setoff-basics-e6",
+          "type": "rule",
+          "title": "§506(a)(1): setoff portion economically secured",
+          "page": "Ch9 §F",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "A valid $1k claim netted against $1.5k bank deposit leads bank owing estate only $500; the $1k otherwise unsecured is fully satisfied by netting.",
+          "laymanExplanation": "Depositor's money on account serves as economic collateral for loan.",
+          "legalExplanation": "Statute treats claim secured up to available setoff balance.",
+          "examApplication": "Setoff cap equals smaller mutual debt.",
+          "examTrap": "No general lien on all debtor property follows setoff."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-setoff-manipulation",
+      "title": "F. §553(a)(2) and (3) Anti-Manipulation of Setoff Rights",
+      "chapterGroup": "bank-ch9",
+      "description": "Purchased claims and manufactured debts to get full priority.",
+      "entries": [
+        {
+          "id": "bank-ch9-setoff-manipulation-e1",
+          "type": "rule",
+          "title": "§553(a)(2) limits recently PURCHASED claims",
+          "page": "Ch9 §F",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "Creditor acquiring another lender's claim by transfer during 90 days of insolvency (or specified related cases) generally may not create setoff against its own debt to estate. Source bank buys $500 claim for $200 hoping to wipe $500 deposit obligation.",
+          "laymanExplanation": "Can't buy pennies-on-dollar old IOU then redeem it at full face from debtor's account.",
+          "legalExplanation": "§553(c) presumes insolvency during 90-day window.",
+          "examApplication": "Check claim acquisition date, price, original holder, and source.",
+          "examTrap": "Not an absolute ban on longstanding independently held claims."
+        },
+        {
+          "id": "bank-ch9-setoff-manipulation-e2",
+          "type": "rule",
+          "title": "§553(a)(3) forbids newly INCURRED debt to debtor for setoff purpose",
+          "page": "Ch9 §F",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "If creditor incurs debt to debtor within 90 days while debtor insolvent FOR PURPOSE OF generating setoff, claim fails; creditor's purpose an actual statute element. Example bank buys $10k office supplies on credit to offset old unsecured bank loan.",
+          "laymanExplanation": "Bank deliberately becomes debtor's customer on credit to extinguish unrelated loan.",
+          "legalExplanation": "Ordinary deposit acceptance vs pressured balance build-up raises intention question.",
+          "examApplication": "Gather purpose evidence as well as time/insolvency.",
+          "examTrap": "Not all routine bank deposits in 90 days are suspect automatically."
+        },
+        {
+          "id": "bank-ch9-setoff-manipulation-e3",
+          "type": "rule",
+          "title": "§553(c) presumes insolvency for 90 days",
+          "page": "Ch9 §F",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "Rebuttable presumption of debtor insolvency for §553(a)(2),(3) and related setoff inquiries, similar §547(f).",
+          "laymanExplanation": "Burden is eased for trustee close to bankruptcy.",
+          "legalExplanation": "Cannot extend mechanically to old outside-window purchases.",
+          "examApplication": "Count dates accurately.",
+          "examTrap": "§553(b) improvement claim does not itself require insolvency proof."
+        },
+        {
+          "id": "bank-ch9-setoff-manipulation-e4",
+          "type": "rule",
+          "title": "Actual setoff BEFORE petition -> §553(b); after -> §553(a) plus stay",
+          "page": "Ch9 §F",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "An exercised prepetition setoff may be recaptured under §553(b) improved insufficiency; if not executed, future setoff governed §553(a) limitations, requiring bankruptcy stay permission.",
+          "laymanExplanation": "Collecting too soon can expose creditor to recapture, while waiting may preserve right.",
+          "legalExplanation": "Source explains strategy of discouraging prefiling grab.",
+          "examApplication": "Identify date actual netting occurred.",
+          "examTrap": "Do not apply §553(b) to only potential setoff."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-setoff-math",
+      "title": "F. §553(b) Two-Point Insufficiency Calculation",
+      "chapterGroup": "bank-ch9",
+      "description": "Worksheet for improvement-in-position formula.",
+      "entries": [
+        {
+          "id": "bank-ch9-setoff-math-e1",
+          "type": "rule",
+          "title": "Define insufficiency = MAX(0, claim − mutual debt owed to debtor)",
+          "page": "Ch9 §F / math",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "At point1: day90, or first date insufficiency arose in 90 if none initially. Point2: date ACTUAL prepetition setoff. Compute unsecured shortfall at each.",
+          "laymanExplanation": "If bank claim $10k and it owes depositor $7k, insufficiency $3k.",
+          "legalExplanation": "Credit obligation serves as analogue collateral; compare §547(c)(5) floating lien.",
+          "examApplication": "Write both claims and owed amounts for each date.",
+          "examTrap": "Never allow negative insufficiency."
+        },
+        {
+          "id": "bank-ch9-setoff-math-e2",
+          "type": "rule",
+          "title": "§553(b) recoverable improvement = MAX(0, insufficiency1 − insufficiency2)",
+          "page": "Ch9 §F / math",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "Trustee recovers amount creditor lowered its unsecured insufficiency by from relevant point1 to prepetition actual setoff, subject statutory limits. Source generic illustration recovers $5k.",
+          "laymanExplanation": "Moving from $8k uncovered to $3k uncovered improves lender by $5k.",
+          "legalExplanation": "No need to prove creditor intent or debtor insolvency at actual setoff.",
+          "examApplication": "Create 2-column timeline.",
+          "examTrap": "Do not choose intermediate low point as start instead of statutory point1."
+        },
+        {
+          "id": "bank-ch9-setoff-math-e3",
+          "type": "rule",
+          "title": "§502(h) restored unsecured shortfall upon return",
+          "page": "Ch9 §F / math",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "Creditor whose previously effectuated setoff is recaptured for improvement has claim for repaid recovery; source $5k clawback plus remaining $3k unsecured deficiency results $8k unsecured claims.",
+          "laymanExplanation": "Return unfair gain but keep your original unpaid debt right.",
+          "legalExplanation": "Coordination with preference treatment.",
+          "examApplication": "Show estate recovery and claim reallowance.",
+          "examTrap": "No punitive multiples."
+        },
+        {
+          "id": "bank-ch9-setoff-math-e4",
+          "type": "rule",
+          "title": "Waiting to exercise setoff can avoid §553(b) but NOT §362 stay",
+          "page": "Ch9 §F / math",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "§553(b) applies only prepetition completed setoff; after petition creditor can seek relief to use §553(a) existing right and will face (a)(2)/(3) anti-manipulation conditions instead.",
+          "laymanExplanation": "Bank may be better off not rushing to seize deposit just before filing.",
+          "legalExplanation": "Policy encourages patience over collective race.",
+          "examApplication": "Compare otherwise identical hypotheticals before/after petition.",
+          "examTrap": "Still must seek stay relief."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-semcrude",
+      "title": "F. In re SemCrude (2009) — Full Triangular Setoff Case",
+      "chapterGroup": "bank-ch9",
+      "description": "Affiliates' cross-netting cannot contract around federal mutuality.",
+      "entries": [
+        {
+          "id": "bank-ch9-semcrude-e1",
+          "type": "case",
+          "title": "In re SemCrude, L.P., 399 B.R. 388 (Bankr. D. Del. 2009)",
+          "page": "Ch9 §F full opinion",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "NO. Bankruptcy court denied motion: §553(a) requires debts between identical debtor and creditor same capacity; private netting clause cannot create mutuality. Procedural joint administration does not merge estates.",
+          "laymanExplanation": "Under §553(a), private multi-party agreement authorizing TRIANGULAR cross-affiliate offset cannot replace legally mutual claims against same debtor.",
+          "legalExplanation": "Court parsed §553's 'such creditor'/'the debtor' specificity and genuine guarantee yielding right to payment versus mere right to pay LESS (offset), which gives no affirmative claim against SemCrude under §101(5). Although state contracts allow cross-affiliate offset, federal Code does not preserve it if absent mutuality. Permitting triangular setoff elevates Chevron priority ahead of SemCrude's own creditors. Source questions ask whether an effective limited-recourse guarantee/§102(2) might alter analysis.",
+          "examApplication": "Use $1.405878m SemCrude receivable, Chevron's $10.228439m SemFuel and $3.302806m SemStream claims, joint administration vs consolidation.",
+          "examTrap": "Source asks whether equitable policy rationale proves too much and whether contractual nonrecourse guaranty should count as claim; court's holding separate.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpt included in Chapter9",
+          "facts": "SemCrude, SemFuel, SemStream each separate Chapter11 debtor, jointly administered only for PROCEDURE. Chevron contracts with each permitted affiliate netting. Chevron owed SemCrude $1,405,878.40, but SemFuel owed Chevron $10,228,439.34 and SemStream owed Chevron $3,302,806.03. Chevron moved for stay relief to net debts across distinct companies.",
+          "issue": "Can private triangular setoff clause satisfy §553(a) mutuality when Chevron owes SemCrude yet its opposite claims are against separate SemFuel/SemStream debtor affiliates?",
+          "holding": "NO. Bankruptcy court denied motion: §553(a) requires debts between identical debtor and creditor same capacity; private netting clause cannot create mutuality. Procedural joint administration does not merge estates.",
+          "reasoning": "Court parsed §553's 'such creditor'/'the debtor' specificity and genuine guarantee yielding right to payment versus mere right to pay LESS (offset), which gives no affirmative claim against SemCrude under §101(5). Although state contracts allow cross-affiliate offset, federal Code does not preserve it if absent mutuality. Permitting triangular setoff elevates Chevron priority ahead of SemCrude's own creditors. Source questions ask whether an effective limited-recourse guarantee/§102(2) might alter analysis.",
+          "rule": "Under §553(a), private multi-party agreement authorizing TRIANGULAR cross-affiliate offset cannot replace legally mutual claims against same debtor."
+        },
+        {
+          "id": "bank-ch9-semcrude-e2",
+          "type": "rule",
+          "title": "Right to offset doesn't equal right to payment from SemCrude",
+          "page": "Ch9 §F / SemCrude",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "Chevron had no enforceable affirmative right to collect money from SemCrude, only option to pay SemCrude less by invoking SemFuel debt; under court §101(5) no 'claim' against SemCrude.",
+          "laymanExplanation": "Being able to keep part of your invoice is not exactly making affiliate owe you another's invoice.",
+          "legalExplanation": "Court distinguished genuine guarantee of another's debt.",
+          "examApplication": "Analyze whether contract truly creates recourse or just offset.",
+          "examTrap": "Court's broad description of nonrecourse is questioned in original questions."
+        },
+        {
+          "id": "bank-ch9-semcrude-e3",
+          "type": "rule",
+          "title": "Joint procedural administration ≠ substantive consolidation",
+          "page": "Ch9 §F / SemCrude",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "Coordinating multiple cases under Rule1015(b) does not blend assets, creditors, debts and legal identity.",
+          "laymanExplanation": "Sharing a bankruptcy docket doesn't make sister companies one party.",
+          "legalExplanation": "Substantive consolidation would raise different case not present.",
+          "examApplication": "Check consolidation order carefully.",
+          "examTrap": "Common parent guaranty by SemGroup not identical to SemCrude guaranty."
+        },
+        {
+          "id": "bank-ch9-semcrude-e4",
+          "type": "rule",
+          "title": "Mutuality protects each debtor's creditor pool",
+          "page": "Ch9 §F / SemCrude",
+          "source": "User-uploaded Bankruptcy Chapter9 §F setoff and recoupment, full In re SemCrude L.P. opinion",
+          "summary": "If Chevron could offset SemCrude receivable against SemFuel debt, SemCrude unsecured suppliers would lose pool of $1.4m to pay unrelated affiliate debts.",
+          "laymanExplanation": "One estate shouldn't subsidize privileged counterparty's claims against another.",
+          "legalExplanation": "Though source critiques argument as threatening all setoffs, statute expressly preserves ordinary mutual setoff.",
+          "examApplication": "Give policy argument and contrary private-autonomy argument.",
+          "examTrap": "No blanket exclusion of all valid bilateral setoffs."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
