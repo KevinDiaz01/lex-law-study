@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+  "coverage": {
+    "chapter": 9,
+    "scope": "D.1 overview fraudulent transfer law, state UFTA/UVTA, present/future claimants, reach-back, recovery/defenses, D.2 actual fraud 11 badges, self-settled trust §548(e), full In re Costas and Alan Drey cases"
+  },
+  "topics": [
+    {
+      "id": "bank-ch9-fraudulent-transfers",
+      "title": "D.1 Fraudulent Transfers: Purpose, Two Types, State/Federal Systems",
+      "chapterGroup": "bank-ch9",
+      "description": "Debtor-versus-creditors fairness, actual vs constructive, two-stage analytical structure.",
+      "entries": [
+        {
+          "id": "bank-ch9-fraudulent-transfers-e1",
+          "type": "rule",
+          "title": "Fraudulent transfer law protects creditors against DEBTOR asset depletion",
+          "page": "Ch9 §D.1",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Trustee avoids transfer of debtor property or obligation that hinders collection unfairly; unlike preference law, protects creditors even outside collective bankruptcy because a lone creditor can be hurt by hidden gifts.",
+          "laymanExplanation": "A person facing lawsuit gives away their art to make collection impossible.",
+          "legalExplanation": "Federal §548 standalone; state UFTA/UVTA available under §544(b) with real qualifying creditor.",
+          "examApplication": "First ask what actual property/obligation moved and who it harmed.",
+          "examTrap": "Do not conflate preference paying real debt with gift for no value."
+        },
+        {
+          "id": "bank-ch9-fraudulent-transfers-e2",
+          "type": "rule",
+          "title": "Two distinct fraudulent-transfer theories",
+          "page": "Ch9 §D.1",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Actual fraud requires subjective debtor intent to hinder, delay or defraud §548(a)(1)(A), UFTA/UVTA §4(a)(1). Constructive fraud under §548(a)(1)(B) and state analogues requires insufficient value plus financial-risk conditions, with NO intent required.",
+          "laymanExplanation": "One asks 'did the debtor intend to hide assets?', the other 'did insolvent debtor give too much away for too little?'",
+          "legalExplanation": "Transfer can satisfy one or both; actual fraud may involve sale for full price if proceeds intentionally concealed.",
+          "examApplication": "In essay make separate element checklists with alternative outcomes.",
+          "examTrap": "Fraudulent transfer doesn't necessarily mean deliberate misrepresentation or crime."
+        },
+        {
+          "id": "bank-ch9-fraudulent-transfers-e3",
+          "type": "rule",
+          "title": "Fraud analysis step 1: voidability; step 2: remedy/recipient",
+          "page": "Ch9 §D.1",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "(1) Identify standing claimant, property interest/transfer, lookback, actual/constructive elements; (2) decide §550 recovery targets and §548(c)/state UVTA §8 recipient good faith/value protections.",
+          "laymanExplanation": "Proving giver acted badly is not enough to recover cash from innocent third-party buyer.",
+          "legalExplanation": "Transfer can be 'fraudulent' but effective remedy unavailable due defenses/tracing.",
+          "examApplication": "Always analyze recipient value, knowledge, chain and single satisfaction after liability.",
+          "examTrap": "Don't stop at a checklist of badges."
+        },
+        {
+          "id": "bank-ch9-fraudulent-transfers-e4",
+          "type": "rule",
+          "title": "Historical progression from 1571 statute to UVTA",
+          "page": "Ch9 §D.1",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Statute of 13 Elizabeth 1571 actual intent; 1918 UFCA added objective constructive fraud; 1978 federal §548; 1984 UFTA closer to Code; 2014 UVTA largely retitles 'fraudulent' as 'voidable' and tweaks provisions. Source describes adoption as of 2021—historical snapshot.",
+          "laymanExplanation": "Now called 'voidable' partly because no deceit needed.",
+          "legalExplanation": "State adoption varies, not universal; UVTA §4(b) badge factors and §5 present creditor rule.",
+          "examApplication": "Use statute in given jurisdiction and version (source historical baseline).",
+          "examTrap": "Never treat 2021 adoption statistics as verified live 2026 count."
+        },
+        {
+          "id": "bank-ch9-fraudulent-transfers-e5",
+          "type": "rule",
+          "title": "Lookback: §548 two years, §548(e) 10 years, state often four",
+          "page": "Ch9 §D.1",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Bankruptcy §548(a) generally only 2 yrs before filing (prior law 1); self-settled trust actual fraud §548(e) up to 10; state UFTA/UVTA §9 generally 4 yrs, with extra discovery for certain actual fraud, invoked via §544(b).",
+          "laymanExplanation": "Trustee chasing a gift 3 years ago may need state-law claim; a trust transfer 9 years ago requires specific exceptions.",
+          "legalExplanation": "Different from bankruptcy complaint deadline §546(a) and recovery §550(f).",
+          "examApplication": "Draw two clocks: transfer age/underlying state extinguishment and suit time.",
+          "examTrap": "Not every state has identical rule; actual state law needed."
+        },
+        {
+          "id": "bank-ch9-fraudulent-transfers-e6",
+          "type": "rule",
+          "title": "Present versus future creditors",
+          "page": "Ch9 §D.1",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Under UVTA §4(a)(1) actual fraud and §4(a)(2) capitalization/cash-flow forms allow present and future creditors; §5(a) insolvency constructive fraud and §5(b) insider preference only PRESENT creditors.",
+          "laymanExplanation": "If creditor began lending next year, it may challenge concealment but not a present-only transfer.",
+          "legalExplanation": "Critical for §544(b) triggering creditor in bankruptcy.",
+          "examApplication": "Match claim date and transfer date.",
+          "examTrap": "Don't apply all UVTA §5 to future creditors."
+        },
+        {
+          "id": "bank-ch9-fraudulent-transfers-e7",
+          "type": "rule",
+          "title": "Good-faith recipient for value may retain rights",
+          "page": "Ch9 §D.1",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "§548(c) lets qualifying good-faith transferee retain lien/interest extent value actually provided debtor; state UVTA §8(a),(d) similarly guard certain recipients. §550(b) protects later value/good-faith/no-knowledge transferees.",
+          "laymanExplanation": "Buyer who innocently pays fair price should not be devastated just because seller hides cash.",
+          "legalExplanation": "Even original transfer may be avoidable due seller intent but buyer may have independent defense; Alan Drey denied buyer innocence on red flags.",
+          "examApplication": "Split wrongful transferor intent, buyer knowledge and economic consideration.",
+          "examTrap": "'Transfer avoidable' not automatic fully collectable cash."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-costas",
+      "title": "D.1 In re Costas (9th Cir. 2009) — Full Disclaimer and State Property Law Case",
+      "chapterGroup": "bank-ch9",
+      "description": "A valid prepetition inherited-property disclaimer relates back under Arizona law.",
+      "entries": [
+        {
+          "id": "bank-ch9-costas-e1",
+          "type": "case",
+          "title": "In re Costas, 555 F.3d 790 (9th Cir. 2009)",
+          "page": "Ch9 §D.1 full opinion",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "No. Ninth Circuit affirmed: under Arizona relation-back, disclaimant treated as never acquiring property, so no debtor property interest transferred under §548. Court applied Butner state-property deference and distinguished tax-lien Drye.",
+          "laymanExplanation": "For §548, a valid prepetition state-law renunciation may mean no debtor property transfer, even if debtor effectively directed who succeeds to inheritance. Costas declined to extend Drye tax-lien theory.",
+          "legalExplanation": "Code §101(54) broadly defines transfer but it must be of debtor property, usually defined by state law. Arizona disclaimer relates back to death and treats beneficiary as never owning. Supreme Court Drye held tax lien reachable through right-to-channel property; Ninth distinguished because federal tax lien had attached BEFORE disclaimer and tax collection regime more aggressively overrides states, whereas Costas disclaimer predated petition and creditor rights. Applying Drye would create bankruptcy-only creditors' windfall, shopping and uncertainty; generic maximization and existence §548 not sufficiently specific federal interests. Court highlighted distinct postpetition inheritance/disclaimer §541(a)(5)(A) cases.",
+          "examApplication": "Use dates death→disclaimer→bankruptcy, $34.8k, Arizona relation-back, Butner/Drye, pre-vs-post petition.",
+          "examTrap": "Casebook asks whether Chicago Board of Trade federal property interest approach and postpetition §541(a)(5)(A) produce better contrary result; distinguish holding and criticisms.",
+          "assignedOpinion": true,
+          "sourceRole": "Full assigned opinion excerpted in Chapter9",
+          "facts": "Edward Dittlof created revocable trust leaving daughter Rachelle Costas share at least $34,800. Dittlof died Feb25 2002; Costas properly executed Arizona law disclaimer Nov7 2002, renouncing inheritance; filed Chapter7 Dec3. Trustee sued to avoid disclaimer as §548 fraudulent transfer, asserting 'right to channel' inheritance remained property despite state relation-back rule.",
+          "issue": "Does debtor's valid PREPETITION Arizona disclaimer of inherited trust interest count as 'transfer of an interest of the debtor in property' for Bankruptcy Code §548?",
+          "holding": "No. Ninth Circuit affirmed: under Arizona relation-back, disclaimant treated as never acquiring property, so no debtor property interest transferred under §548. Court applied Butner state-property deference and distinguished tax-lien Drye.",
+          "reasoning": "Code §101(54) broadly defines transfer but it must be of debtor property, usually defined by state law. Arizona disclaimer relates back to death and treats beneficiary as never owning. Supreme Court Drye held tax lien reachable through right-to-channel property; Ninth distinguished because federal tax lien had attached BEFORE disclaimer and tax collection regime more aggressively overrides states, whereas Costas disclaimer predated petition and creditor rights. Applying Drye would create bankruptcy-only creditors' windfall, shopping and uncertainty; generic maximization and existence §548 not sufficiently specific federal interests. Court highlighted distinct postpetition inheritance/disclaimer §541(a)(5)(A) cases.",
+          "rule": "For §548, a valid prepetition state-law renunciation may mean no debtor property transfer, even if debtor effectively directed who succeeds to inheritance. Costas declined to extend Drye tax-lien theory."
+        },
+        {
+          "id": "bank-ch9-costas-e2",
+          "type": "rule",
+          "title": "Property of debtor is prerequisite independent of broad 'transfer' definition",
+          "page": "Ch9 §D.1 / Costas",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "§101(54) reaches indirect/conditional disposal but cannot create §548 transfer without debtor property under applicable substantive law. Costas says disclaimer zeroes ownership retroactively.",
+          "laymanExplanation": "Refusing an inheritance is not equivalent to giving estate property away under Arizona rule.",
+          "legalExplanation": "State law defines legal rights; federal bankruptcy assesses qualification absent overriding rule.",
+          "examApplication": "For every fraudulent transfer ask whether debtor had disposable interest at transfer time.",
+          "examTrap": "The case is about disclaimer under Arizona, not all renunciations everywhere."
+        },
+        {
+          "id": "bank-ch9-costas-e3",
+          "type": "rule",
+          "title": "Drye federal TAX lien vs bankruptcy estate snapshot",
+          "page": "Ch9 §D.1 / Costas",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Tax lien existed when taxpayer disclaimed in Drye, so retroactive state effect could not destroy established federal lien; Costas disclaimed BEFORE estate created; Ninth says legal context/lien policy differs.",
+          "laymanExplanation": "Federal government already had grip on inheritance before paperwork in Drye, but creditors in Costas did not.",
+          "legalExplanation": "Book questions whether this timing is persuasive when Congress defines 'property' federally.",
+          "examApplication": "Argue competing fairness and consistency.",
+          "examTrap": "Do not claim Drye was overruled; distinguished."
+        },
+        {
+          "id": "bank-ch9-costas-e4",
+          "type": "rule",
+          "title": "Postfiling §541(a)(5)(A) inheritance potentially changes result",
+          "page": "Ch9 §D.1 / Costas Q",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Estate can receive inherited property if debtor becomes entitled within 180 days after filing; source indicates postpetition disclaimers generally cannot retroactively strip estate interest, distinguish prepetition valid waiver.",
+          "laymanExplanation": "When bankruptcy happens before disclaimer, creditors' estate rights may have attached.",
+          "legalExplanation": "Analyse death date vs filing date and right to disclaimer.",
+          "examApplication": "Preserve original question comparing these timings unanswered.",
+          "examTrap": "Not a Supreme Court holding on every postpetition disclaimer."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-actual-fraud",
+      "title": "D.2 Actual Fraud §548(a)(1)(A) and UVTA §4(a)(1)",
+      "chapterGroup": "bank-ch9",
+      "description": "Intent badges, insider/family gifts, transfers of everything, secret sale and self-settled trust.",
+      "entries": [
+        {
+          "id": "bank-ch9-actual-fraud-e1",
+          "type": "rule",
+          "title": "Actual intent: hinder, delay or defraud ANY creditor",
+          "page": "Ch9 §D.2",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Trustee/creditor must show transferor's subjective intent, often inferred from circumstantial badges. Can coexist with full-value transfer if debtor then hides cash; buyer's knowledge a separate issue.",
+          "laymanExplanation": "Selling a painting for almost market price and fleeing with money may still hinder collectors.",
+          "legalExplanation": "Under UVTA burden preponderance §4(c), though source says some historical jurisdictions had clear-and-convincing standards.",
+          "examApplication": "Separate debtor intent and recipient §548(c)/UVTA §8 defenses.",
+          "examTrap": "Actual fraud is not defeated simply by transaction giving roughly equivalent cash to debtor."
+        },
+        {
+          "id": "bank-ch9-actual-fraud-e2",
+          "type": "rule",
+          "title": "Eleven UVTA §4(b) badges of fraud",
+          "page": "Ch9 §D.2",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "(1) insider transfer; (2) debtor retains possession/control; (3) concealed transfer; (4) suit/threat; (5) substantially all assets; (6) absconded; (7) removed/concealed assets; (8) less than reasonably equivalent value; (9) insolvent then/soon after; (10) shortly before/after major debt; (11) essential business assets to lienor then to insider.",
+          "laymanExplanation": "Red flags like gifting everything to your mother right after being sued, while secretly keeping possession.",
+          "legalExplanation": "Not arithmetic threshold; evaluate context and number/strength.",
+          "examApplication": "On exam identify every specific badge with record evidence and rebuttal.",
+          "examTrap": "No magic count makes intent automatically proved."
+        },
+        {
+          "id": "bank-ch9-actual-fraud-e3",
+          "type": "rule",
+          "title": "Twyne's Case six classic original fraud badges",
+          "page": "Ch9 §D.2",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "1602 debtor Pierce secretly deeded almost all goods to Twyne while sued by C, kept possession and secretly treated as his own; paper described arrangement as sham trust and recital said bona fide. Court voided under 1571 Statute; historical example maybe looked like preference.",
+          "laymanExplanation": "Giving away title but still behaving like owner after creditor sues is deeply suspicious.",
+          "legalExplanation": "Foundational proof via circumstances and secrecy; source also lists later insider/no-consideration/insolvency badges.",
+          "examApplication": "Compare source historical 6 badges to modern list.",
+          "examTrap": "Don't confuse Twyne opinion excerpt discussed (not full assigned) with modern statutory requirement."
+        },
+        {
+          "id": "bank-ch9-actual-fraud-e4",
+          "type": "rule",
+          "title": "Proof strength depends on totality, not number",
+          "page": "Ch9 §D.2",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Badges may reinforce or offset; innocent sale of substantially all assets alone not automatically fraud, and absence of key indicators can rebut inference.",
+          "laymanExplanation": "One suspicious fact could have innocent explanation; many reinforce each other.",
+          "legalExplanation": "Traced concealment of proceeds and warning creditors relevant.",
+          "examApplication": "In Problem9.4 analyze seller conduct separately for each buyer even when price changes.",
+          "examTrap": "No presumption that ANY transfer to family always intentional fraud."
+        },
+        {
+          "id": "bank-ch9-actual-fraud-e5",
+          "type": "rule",
+          "title": "§548(e) ten-year self-settled asset protection trust rule",
+          "page": "Ch9 §D.2",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Avoid transfer within 10 yrs to self-settled trust or similar device made BY debtor if debtor BENEFICIARY and actually intended to hinder, delay or defraud present/future creditor.",
+          "laymanExplanation": "Put personal assets in offshore trust but remain beneficiary to shelter from collection.",
+          "legalExplanation": "Trust age alone insufficient: the subjective intent is necessary plus specified structure.",
+          "examApplication": "For Problem9.5 compare trust 9 years vs 2 months before filing, solvency and foresight, don't answer.",
+          "examTrap": "Don't treat 10-year self-settled trust rule as automatic avoidance of legitimate planning."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch9-alan-drey",
+      "title": "D.2 Alan Drey Co. v. Generation (Ill. App. 1974) — Full Case",
+      "chapterGroup": "bank-ch9",
+      "description": "Actual fraudulent sale with notice; a buyer paying $150k was not innocent.",
+      "entries": [
+        {
+          "id": "bank-ch9-alan-drey-e1",
+          "type": "case",
+          "title": "Alan Drey Co., Inc. v. Generation, Inc., 22 Ill. App. 3d 611 (1974)",
+          "page": "Ch9 §D.2 full opinion",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Yes: appellate court affirmed finding Generation intended to hinder/delay/defraud judgment creditor and McGraw-Hill NOT a protected bona fide purchaser because it knew or should have inferred fraudulent intent from circumstances demanding further inquiry.",
+          "laymanExplanation": "Debtor's actually fraudulent transfer can be for real cash consideration, and recipient loses innocent-transferee protection if red flags sufficient to put prudent buyer on inquiry.",
+          "legalExplanation": "Generation was insolvent, concealed sale of only operating asset during stayed judgment proceedings, lied to creditor and diverted proceeds into disguised trust/new venture officer ownership. Buyer had actual notice of judgment, insolvency warning, request to hide deal, attempted indemnity and unexplored red flags. Participation did not require purchaser KNOW subjective intent; inquiry notice of suspicious facts enough under governing Illinois law. Valuable consideration alone not good faith.",
+          "examApplication": "Mention $98,376 judgment, $150k lists, $40k diversion, secret trust account, Blackburn's credit knowledge, indemnity request.",
+          "examTrap": "Case applies Illinois statute/common-law fraudulent conveyance scheme, not mechanically §548(c)'s exact modern text; distinguish facts and law.",
+          "assignedOpinion": true,
+          "sourceRole": "Full assigned opinion excerpted in Chapter9",
+          "facts": "Magazine publisher Generation owed Alan Drey ~$98,376 judgment. Insolvent and facing collection, it secretly negotiated to sell its ONLY substantial customer subscription lists for $150k to McGraw-Hill. McGraw-Hill executive Blackburn knew judgment through credit report, called creditor, recognized financial distress, kept deal confidential, sought indemnity. Generation falsely denied sale to judgment creditor. Proceeds went into secret attorney-titled trust account, ~$40k diverted to venture mostly owned personally by Generation officers; no sale proceeds paid Drey. Trial found transferor fraud and recipient participation.",
+          "issue": "Can debtor's sale of core asset for $150k be avoided as actually fraudulent and can McGraw-Hill defend as bona fide buyer for value where warning facts known?",
+          "holding": "Yes: appellate court affirmed finding Generation intended to hinder/delay/defraud judgment creditor and McGraw-Hill NOT a protected bona fide purchaser because it knew or should have inferred fraudulent intent from circumstances demanding further inquiry.",
+          "reasoning": "Generation was insolvent, concealed sale of only operating asset during stayed judgment proceedings, lied to creditor and diverted proceeds into disguised trust/new venture officer ownership. Buyer had actual notice of judgment, insolvency warning, request to hide deal, attempted indemnity and unexplored red flags. Participation did not require purchaser KNOW subjective intent; inquiry notice of suspicious facts enough under governing Illinois law. Valuable consideration alone not good faith.",
+          "rule": "Debtor's actually fraudulent transfer can be for real cash consideration, and recipient loses innocent-transferee protection if red flags sufficient to put prudent buyer on inquiry."
+        },
+        {
+          "id": "bank-ch9-alan-drey-e2",
+          "type": "rule",
+          "title": "Badges for Generation transfer",
+          "page": "Ch9 §D.2 / Alan Drey",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "Selling virtually sole unencumbered asset when insolvent under judgment and secrecy, false denial, cash diversion to insiders, and failure to pay suing creditor create strong collective circumstantial inference.",
+          "laymanExplanation": "Company turned only earning asset into cash while creditor was stopped by stay.",
+          "legalExplanation": "Court examined aggregate of facts; no demand to prove direct confession.",
+          "examApplication": "Differentiate sales-price adequacy and debtor purpose.",
+          "examTrap": "Real $150k price is not automatic innocence."
+        },
+        {
+          "id": "bank-ch9-alan-drey-e3",
+          "type": "rule",
+          "title": "Transferee can be on inquiry notice without admission of scheme",
+          "page": "Ch9 §D.2 / Alan Drey",
+          "source": "User-uploaded Bankruptcy Chapter9 §D.1–2; full In re Costas and Alan Drey Co. v. Generation, Inc. opinions",
+          "summary": "McGraw-Hill's knowledge of judgment, financial problems and secrecy, plus concern prompting indemnification, defeated good-faith buyer status despite purchasing for consideration.",
+          "laymanExplanation": "Someone sees red flags and chooses to proceed blind.",
+          "legalExplanation": "Transferee intent evidence not same as debtor badges; court said prudent buyer should investigate.",
+          "examApplication": "For Problem9.4 Art Mann variations assess what buyer knew rather than guilt by association.",
+          "examTrap": "Don't infer all buyers from insolvent debtors are bad faith."
+        }
+      ]
+    }
+  ],
+  "problems": []
+}
