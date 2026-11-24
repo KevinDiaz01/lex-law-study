@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "courseId": "bankruptcy",
+  "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+  "coverage": {
+    "chapter": 5,
+    "scope": "Equitable remedies as §101(5)(B) claims; full Kovacs, Apex Oil, Shearin opinions; Chateaugay discussion; Problem 5.1 unsolved",
+    "note": "§524(g) future-claim trust and §362(b)(4) government stay questions are analytically separate from whether §101(5)(B) defines a dischargeable claim."
+  },
+  "topics": [
+    {
+      "id": "bank-ch5-equitable-remedies",
+      "title": "A. §101(5)(B) — When an Injunction Is (and Is Not) a Claim",
+      "chapterGroup": "bank-ch5",
+      "description": "Right to payment alternative, remedy performance versus cost, discharge consequences and case distinctions.",
+      "entries": [
+        {
+          "id": "bank-ch5-equitable-remedies-e1",
+          "type": "rule",
+          "title": "Statutory two-path claim inquiry",
+          "page": "Ch.5 §A / equitable remedies",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "An obligation constitutes a claim if there is direct right to payment under §101(5)(A), OR right to equitable remedy for breach if that breach gives rise to a right to payment under §101(5)(B).",
+          "laymanExplanation": "Law may give money, or a required act that can legally be replaced by money.",
+          "legalExplanation": "Identify entitlement of claimant to money, not just whether debtor can hire someone and spend money performing equitable order.",
+          "examApplication": "If a negative noncompete injunction and separate damages for leaving contract, analyze whether they correspond to same breach and are legally interchangeable.",
+          "examTrap": "Do not assume all injunctions are dischargeable or that only damages are claims."
+        },
+        {
+          "id": "bank-ch5-equitable-remedies-e2",
+          "type": "rule",
+          "title": "Cost to comply versus creditor's right to be paid",
+          "page": "Ch.5 §A / Apex Oil",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "Cost of complying with mandatory cleanup injunction isn't the government's 'right to payment' where law authorizes no monetary remedy instead; §101(5)(B) requires alternative right to get money for breach.",
+          "laymanExplanation": "Expensive repairs still mean ‘repair it,’ not ‘pay me $150m’ unless law gives payment option.",
+          "legalExplanation": "Apex's §6973 RCRA enforcement authorized injunctive cleanup only; this is distinct from Ohio Kovacs receiver demanding cash.",
+          "examApplication": "In hypo ask what substantive statute permits agency to demand, not debtor's estimated contractor bill.",
+          "examTrap": "Requiring a check to a contractor does not make government a payment creditor."
+        },
+        {
+          "id": "bank-ch5-equitable-remedies-e3",
+          "type": "rule",
+          "title": "Receivership can transform personal cleanup duty into payment demand",
+          "page": "Ch.5 §A / Kovacs",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "When receiver takes control of site and debtor's nonexempt assets, stripping debtor's power to perform, state may in substance demand only money for cleanup; Kovacs held such converted duty a claim on facts.",
+          "laymanExplanation": "State removed debtor's ability to clean up and then wanted money to fund somebody else's cleanup.",
+          "legalExplanation": "Look beyond injunction's original form to actual remaining performance and debtor authority.",
+          "examApplication": "For case distinguish pre/post receiver, claimant request and site control.",
+          "examTrap": "Kovacs did not discharge bans on future pollution or criminal/state prosecution."
+        },
+        {
+          "id": "bank-ch5-equitable-remedies-e4",
+          "type": "rule",
+          "title": "Specific performance may survive when damages inadequate",
+          "page": "Ch.5 §A / Shearin",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "If creditor insists on uniquely contracted real property and cannot obtain equivalent value through money award, specifically enforceable contract can remain nonclaim, with delivery duty surviving confirmed plan.",
+          "laymanExplanation": "Buyer paid for a particular condo, not just a refund; cash may not replace the bargain.",
+          "legalExplanation": "Shearin purchasers could elect to pursue unsecured damages claim or choose specific performance; court emphasized election and nonfungible real estate.",
+          "examApplication": "Ask whether performance possible, uniqueness, buyer election and whether damages remedy equally compensates.",
+          "examTrap": "Don't assume a contract requires SP and money award simultaneously."
+        },
+        {
+          "id": "bank-ch5-equitable-remedies-e5",
+          "type": "rule",
+          "title": "Chateaugay's alternative governmental reimbursement question",
+          "page": "Ch.5 §A / Apex questions / Chateaugay discussion",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "Casebook quotes Chateaugay: if EPA can remove certain waste itself and seek response costs under CERCLA, alternative payment can make injunction a claim; order requiring cessation/abatement of ongoing pollution may be nonclaim.",
+          "laymanExplanation": "Cleanup old waste with reimbursement option can look like money claim, but can't buy license to keep polluting.",
+          "legalExplanation": "Casebook expressly questions whether Chateaugay is consistent with Posner's Apex approach and whether this creates de facto priority; treat as debated not uniform solution.",
+          "examApplication": "For environmental hypothetical specify enabling law (RCRA §6973 vs CERCLA), current versus old hazard and alternative reimbursement.",
+          "examTrap": "Do not merge distinct statutes or present casebook policy critique as settled answer."
+        },
+        {
+          "id": "bank-ch5-equitable-remedies-e6",
+          "type": "rule",
+          "title": "Why claim determination matters for alleged priority",
+          "page": "Ch.5 §A / casebook questions",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "If duty is genuine nonclaim, reorganized debtor must perform outside distribution and may bear entire cost; if claim, payment may be prorated and discharged; courts warn against manipulating definition solely to create economic priority.",
+          "laymanExplanation": "Label determines if obligation survives 100% or shares penny-on-dollar like ordinary creditors.",
+          "legalExplanation": "Casebook asks whether judicial characterization of ongoing pollution effectively grants priority contrary to §507; analyze competing statutory/health goals.",
+          "examApplication": "Explicitly separate recognized statutory priorities, collateral and postreorganization surviving nonclaim.",
+          "examTrap": "A nonclaim equitable duty is not literally an allowed §507 priority even if effect resembles it."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-kovacs",
+      "title": "A. Ohio v. Kovacs — Cleanup Injunction Converted to Monetary Claim",
+      "chapterGroup": "bank-ch5",
+      "description": "Full Supreme Court opinion and O'Connor concurrence; §101(5)(B), receivership and survival of police duties.",
+      "entries": [
+        {
+          "id": "bank-ch5-kovacs-e1",
+          "type": "case",
+          "title": "Ohio v. Kovacs, 469 U.S. 274 (1985)",
+          "page": "Ch.5 §A / Kovacs opinion",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "The Supreme Court affirmed that on these specific facts cleanup obligation had been reduced to an obligation to pay money to receiver/state, thus a 'debt'/'claim' subject to discharge, where no §523 exception was asserted; preserved ongoing police duties and separate environmental liability.",
+          "laymanExplanation": "An otherwise equitable injunction can be a dischargeable bankruptcy claim when its breach has effectively become claimant's demand for money in place of performance; actual remedial posture governs.",
+          "legalExplanation": "White reasoned receiver dispossessed Kovacs, so he couldn't perform required physical cleanup; Ohio conceded the only performance it wanted after receiver appointment was cash. Rather than enforcing compliance directly, state sought assets/postbankruptcy income to finance work. Court expressly reserved consequences before receivership, future pollution injunction, criminal contempt/prosecution and property holder ongoing environmental obligations. O'Connor concurrence noted state-law liens could secure claim and corporate liquidation context changes remedies.",
+          "examApplication": "Timeline receiver appointment before personal petition; distinguish from Penn Terra (no receiver) and Apex (only injunction option).",
+          "examTrap": "Does NOT say environmental cleanup orders all dischargeable, or state enforcement of current antipollution statutes always barred.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in uploaded Chapter 5",
+          "facts": "Kovacs controlled Chem-Dyne toxic-waste site; Ohio 1976 sued for contamination, 1979 settlement enjoined further pollution, ordered waste removal and separate $75,000 wildlife compensation. Defendants failed; state court receiver took physical site and nonexempt assets and undertook cleanup. Kovacs then filed personal bankruptcy. State sought postbankruptcy income disclosure to fund clean-up and declaratory ruling that injunction couldn't be discharged.",
+          "issue": "After state court receiver takes property and control of hazardous-waste cleanup, is defendant's affirmative environmental injunction still a nonmonetary obligation or a dischargeable §101(5)(B) claim?",
+          "holding": "The Supreme Court affirmed that on these specific facts cleanup obligation had been reduced to an obligation to pay money to receiver/state, thus a 'debt'/'claim' subject to discharge, where no §523 exception was asserted; preserved ongoing police duties and separate environmental liability.",
+          "reasoning": "White reasoned receiver dispossessed Kovacs, so he couldn't perform required physical cleanup; Ohio conceded the only performance it wanted after receiver appointment was cash. Rather than enforcing compliance directly, state sought assets/postbankruptcy income to finance work. Court expressly reserved consequences before receivership, future pollution injunction, criminal contempt/prosecution and property holder ongoing environmental obligations. O'Connor concurrence noted state-law liens could secure claim and corporate liquidation context changes remedies.",
+          "rule": "An otherwise equitable injunction can be a dischargeable bankruptcy claim when its breach has effectively become claimant's demand for money in place of performance; actual remedial posture governs.",
+          "concurrence": "Justice O'Connor agreed on monetary claim and emphasized Ohio may have collateral rights under state law (lien or secured interest) under Butner, and corporate debtors that liquidate would otherwise leave state without source for payment."
+        },
+        {
+          "id": "bank-ch5-kovacs-e2",
+          "type": "rule",
+          "title": "Receiver's practical transformation",
+          "page": "Ch.5 §A / Kovacs",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "After appointed receiver took site/assets and performed cleanup, only payment could discharge Kovacs's remaining affirmative duty, supporting §101(5)(B).",
+          "laymanExplanation": "If somebody else is legally in charge of cleaning, asking you for cleanup funding is a money claim.",
+          "legalExplanation": "Compare personal command to clean with reduced monetary reimbursement after loss of access.",
+          "examApplication": "Explicitly flag state counsel's oral concession only money sought.",
+          "examTrap": "Receiver is key distinguishing fact from broad anti-pollution injunction."
+        },
+        {
+          "id": "bank-ch5-kovacs-e3",
+          "type": "rule",
+          "title": "Five express limits of Kovacs",
+          "page": "Ch.5 §A / Kovacs conclusion",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "Court did not immunize criminal prosecution/contempt; did not discharge §523(a)(7) fine if imposed; reserved case without receiver; did not discharge prohibition on new pollution; anyone who possesses property must comply with environmental law.",
+          "laymanExplanation": "Bankruptcy erases one money obligation, not permission to contaminate land.",
+          "legalExplanation": "For real-world facts, distinguish statutory liabilities and whether the debtor still holds source of nuisance.",
+          "examApplication": "If exam says subsequent violation, different claim than old receiver reimbursement.",
+          "examTrap": "Do not use Kovacs to cancel all remedies within original decree."
+        },
+        {
+          "id": "bank-ch5-kovacs-e4",
+          "type": "rule",
+          "title": "O'Connor concurrence: liens and corporate liquidation",
+          "page": "Ch.5 §A / Kovacs concurrence",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "Ohio law might grant lien or security interest securing cleanup claim even if personally dischargeable; corporate Chapter 7 dissolution may make bankruptcy distribution essential.",
+          "laymanExplanation": "Even if personal duty becomes debt, state could have secured claim depending on nonbankruptcy rights.",
+          "legalExplanation": "Butner requires state-law classification of collateral rights; concurrence didn't decide priority case.",
+          "examApplication": "For facts with environmental statutory lien, analyze §545 avoidance and lien before unsecured status.",
+          "examTrap": "Court did not automatically grant state any lien."
+        },
+        {
+          "id": "bank-ch5-kovacs-e5",
+          "type": "rule",
+          "title": "Penn Terra and Kovacs need not conflict",
+          "page": "Ch.5 §A / Kovacs footnote",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "Penn Terra preserved direct state environmental remediation injunction absent receiver; Kovacs involved creditor-like demand for funds after receiver dispossessed polluter.",
+          "laymanExplanation": "‘Clean it up’ and ‘pay us for the cleanup’ aren't identical.",
+          "legalExplanation": "Also distinction between §362 stay exception and §101(5) discharge claim can yield different analyses.",
+          "examApplication": "When comparing, identify which statutory question court decided.",
+          "examTrap": "Don't treat Penn Terra governmental police exception as deciding dischargeability."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-apex-oil",
+      "title": "A. United States v. Apex Oil — Expensive RCRA Injunction Is Not Payment Claim",
+      "chapterGroup": "bank-ch5",
+      "description": "Full Seventh Circuit Posner opinion and comparison to Kovacs / Chateaugay.",
+      "entries": [
+        {
+          "id": "bank-ch5-apex-oil-e1",
+          "type": "case",
+          "title": "United States v. Apex Oil Co., 579 F.3d 734 (7th Cir. 2009)",
+          "page": "Ch.5 §A / Apex Oil opinion",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "No. Seventh Circuit upheld injunction: RCRA §6973(a) gives government equitable enforcement but no right to monetary relief in lieu of performance. Cost to debtor isn't the creditor's payment entitlement. Earlier Chapter 11 discharge does not erase duty.",
+          "laymanExplanation": "Mandatory cleanup under statute allowing no alternative monetary relief remains equitable nonclaim even at enormous performance expense; postconfirmation injunction can be enforced.",
+          "legalExplanation": "Posner interpreted §101(5)(B) natural reading as an equitable remedy's breach permitting alternative money judgment. RCRA doesn't authorize EPA to demand cleanup-cost money in lieu of enforcement. Nearly every injunction costs resources, so equating cost with claim would erase limited statutory language. Kovacs differed because receiver had converted remedy to cash demand. Distinguishing own workers vs outside contractor is arbitrary. Court recognized practical reorganization concerns but left choices to policy.",
+          "examApplication": "Ask explicit statute cause of action, alternatives allowed, whether compliance can still be performed and difference between costs and claimant's payment right.",
+          "examTrap": "Not a holding that every CERCLA case or any dual-remedy law produces nonclaim; book questions Chateaugay distinction.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in uploaded Chapter 5",
+          "facts": "Millions of gallons of underground oil from predecessor refinery contaminated groundwater and emitted fumes into Hartford, Illinois homes. EPA won RCRA §6973(a) mandatory cleanup injunction after 17-day trial. Apex was reorganized under earlier Chapter 11 plan and argued its cleanup obligation—estimated ~$150 million, requiring hiring an outside contractor because no internal refinery operations—had been discharged.",
+          "issue": "Does RCRA injunction compelling business to perform costly environmental cleanup become dischargeable bankruptcy claim merely because company must spend cash hiring outside cleanup firm?",
+          "holding": "No. Seventh Circuit upheld injunction: RCRA §6973(a) gives government equitable enforcement but no right to monetary relief in lieu of performance. Cost to debtor isn't the creditor's payment entitlement. Earlier Chapter 11 discharge does not erase duty.",
+          "reasoning": "Posner interpreted §101(5)(B) natural reading as an equitable remedy's breach permitting alternative money judgment. RCRA doesn't authorize EPA to demand cleanup-cost money in lieu of enforcement. Nearly every injunction costs resources, so equating cost with claim would erase limited statutory language. Kovacs differed because receiver had converted remedy to cash demand. Distinguishing own workers vs outside contractor is arbitrary. Court recognized practical reorganization concerns but left choices to policy.",
+          "rule": "Mandatory cleanup under statute allowing no alternative monetary relief remains equitable nonclaim even at enormous performance expense; postconfirmation injunction can be enforced."
+        },
+        {
+          "id": "bank-ch5-apex-oil-e2",
+          "type": "rule",
+          "title": "RCRA §6973 permits only injunctive relief in this case",
+          "page": "Ch.5 §A / Apex Oil",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "EPA's statutory suit could compel Apex to clean site, not elect to receive cash compensation; hence no §101(5)(B) right to payment.",
+          "laymanExplanation": "Government can demand fix, not replacement check.",
+          "legalExplanation": "Analyze substantive remedial powers, not superficial label ‘environmental penalty’.",
+          "examApplication": "If hypo adds statutory government response-cost reimbursement, analysis changes.",
+          "examTrap": "RCRA §6973 distinct from CERCLA response-cost schemes."
+        },
+        {
+          "id": "bank-ch5-apex-oil-e3",
+          "type": "rule",
+          "title": "$150 million estimated cleanup cost not dispositive",
+          "page": "Ch.5 §A / Apex Oil",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "Even $150 million cost is paid by Apex to contractors and workforce to comply with injunction, which differs from government monetary claim.",
+          "laymanExplanation": "Large contractor invoice doesn't become EPA's check.",
+          "legalExplanation": "Court rejected making dollar size or whether debtor can do work internally the test.",
+          "examApplication": "In essay use $150m fact as adversarial argument and rebut by statute.",
+          "examTrap": "Do not conclude all high-cost injunctions are dischargeable."
+        },
+        {
+          "id": "bank-ch5-apex-oil-e4",
+          "type": "rule",
+          "title": "Distinguishing Kovacs receiver and breach alternative",
+          "page": "Ch.5 §A / Apex Oil",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "Kovacs receiver demanded monetary assistance; Apex remained subject to legally executable cleanup and EPA lacked alternative money award.",
+          "laymanExplanation": "In one case someone else cleaned and wanted money; in other defendant still must clean.",
+          "legalExplanation": "Posner's specific performance hypothetical explains legal damages alternative when specific performance impossible; book critiques narrower alternatives.",
+          "examApplication": "Compare rights to payment from actual legal remedy, not conjectural conversion.",
+          "examTrap": "Kovacs is fact-specific, not overruled."
+        },
+        {
+          "id": "bank-ch5-apex-oil-e5",
+          "type": "rule",
+          "title": "Why compliance costs alone cannot define claim",
+          "page": "Ch.5 §A / Apex Oil",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "Every mandatory or negative injunction imposes direct or opportunity costs, so deeming all such costs dischargeable would render §101(5)(B)'s limits meaningless.",
+          "laymanExplanation": "Even 'don't build here' costs missed profits; can't make all injunctions debts.",
+          "legalExplanation": "Court's statutory interpretation guards continuing nonmonetary public laws against automatic plan discharge.",
+          "examApplication": "Apply same to zoning/safety/waste law and employment noncompete where no substitute claim.",
+          "examTrap": "Do not conflate lost business opportunity with payment due claimant."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-shearin",
+      "title": "A. In re Shearin Family Investments — Condo Specific Performance After Chapter 11",
+      "chapterGroup": "bank-ch5",
+      "description": "Full bankruptcy opinion and purchaser's choice between delivery and money damages.",
+      "entries": [
+        {
+          "id": "bank-ch5-shearin-e1",
+          "type": "case",
+          "title": "In re Shearin Family Investments, LLC, 418 B.R. 584 (Bankr. E.D.N.C. 2009)",
+          "page": "Ch.5 §A / Shearin opinion",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "In this court on these facts, chosen specific performance right not a §101(5)(B) claim if alternative money damages is inferior to promised land performance; obligation to deliver survives Chapter 11. If purchasers elect money damages, monetary rights are unsecured claims, not secured merely by prepayment.",
+          "laymanExplanation": "Where specific performance for unique realty is legally available and purchaser elects it because money cannot furnish equivalent value, delivery may be nonclaim and survive Chapter 11, while money damages election yields unsecured claim.",
+          "legalExplanation": "Judge Leonard applied state SP right and federal definition of equitable payment alternative, focusing inability of ordinary damages to compensate unique realty; purchasers' remedy election mattered. Court sustained debtor's objection to secured claim status but preserved purchasers' ability to seek SP. Judge noted impossible future construction of Building B could present different case.",
+          "examApplication": "Discuss written contracts, full prepayment, unbuilt units, buyer election, state-law enforcement, ability to perform and plan discharge.",
+          "examTrap": "Do not state that every specifically enforceable contract always excludes a §101(5)(B) payment claim; book expressly challenges reasoning.",
+          "assignedOpinion": true,
+          "sourceRole": "Full judicial opinion excerpted in uploaded Chapter 5",
+          "facts": "Shearin developed Indian Beach Nautical Club condominium project (Building A complete, Building B not begun). Before Oct.13,2008 Chapter 11, purchasers fully prepaid agreed prices for identified units under written contracts. They filed claimed secured rights; debtor objected, saying general unsecured only. North Carolina law recognized specifically enforceable real estate sale contracts, and purchasers clearly wanted condos, not cash.",
+          "issue": "Are fully prepaid purchasers' rights to delivery of unique specifically enforceable condominium units bankruptcy claims subject to discharge, or nonclaims that survive reorganization?",
+          "holding": "In this court on these facts, chosen specific performance right not a §101(5)(B) claim if alternative money damages is inferior to promised land performance; obligation to deliver survives Chapter 11. If purchasers elect money damages, monetary rights are unsecured claims, not secured merely by prepayment.",
+          "reasoning": "Judge Leonard applied state SP right and federal definition of equitable payment alternative, focusing inability of ordinary damages to compensate unique realty; purchasers' remedy election mattered. Court sustained debtor's objection to secured claim status but preserved purchasers' ability to seek SP. Judge noted impossible future construction of Building B could present different case.",
+          "rule": "Where specific performance for unique realty is legally available and purchaser elects it because money cannot furnish equivalent value, delivery may be nonclaim and survive Chapter 11, while money damages election yields unsecured claim."
+        },
+        {
+          "id": "bank-ch5-shearin-e2",
+          "type": "rule",
+          "title": "Alternative damages may not have equal value",
+          "page": "Ch.5 §A / Shearin",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "Court reasoned unique real property can't necessarily be replaced by damages at all, so SP is distinct from ordinary right to payment.",
+          "laymanExplanation": "Buyer chose a particular apartment, not $100k IOU.",
+          "legalExplanation": "The book asks whether alternative remedy option could nevertheless be a claim under broad §101(5)(B).",
+          "examApplication": "Evaluate whether market substitutes exist and whether claimant actually elected payment.",
+          "examTrap": "Do not assume full prepaid purchase automatically gives perfected property lien."
+        },
+        {
+          "id": "bank-ch5-shearin-e3",
+          "type": "rule",
+          "title": "Secured status and nonclaim status are separate",
+          "page": "Ch.5 §A / Shearin",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "The buyers had no proven perfected security interests even though their SP demand could survive discharge as nonclaim; damages alternative would be unsecured.",
+          "laymanExplanation": "You might get condo court order, but not a bank-style lien in condominium.",
+          "legalExplanation": "§502 claim allowance/securitization vs §101(5)(B) property delivery are different classifications.",
+          "examApplication": "Ask whether recorded interest, escrow or equitable title and enforcement under state law supports secured status.",
+          "examTrap": "Court did not award 'secured proof of claim' because purchaser wanted condo."
+        },
+        {
+          "id": "bank-ch5-shearin-e4",
+          "type": "rule",
+          "title": "Building B impossibility challenge",
+          "page": "Ch.5 §A / Shearin questions",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "If developer never builds Building B, court may be unable to order completion, and substitute damages entitlement becomes central to §101(5)(B).",
+          "laymanExplanation": "If condo literally can't exist, buyer may have only refund or damage claim.",
+          "legalExplanation": "Problem is posed as open casebook question, not holding in opinion.",
+          "examApplication": "Use as issue-spotter for SP impossible and Posner's Apex hypothetical.",
+          "examTrap": "Do not silently answer original Shearin questions as settled by case."
+        }
+      ]
+    },
+    {
+      "id": "bank-ch5-problem-5-1",
+      "title": "A. Problem 5.1 — Noncompete, Contract Liquidated Damages and New Job (Unsolved)",
+      "chapterGroup": "bank-ch5",
+      "description": "Preserve the original casebook problem to answer independently.",
+      "entries": [
+        {
+          "id": "bank-ch5-problem-5-1-e1",
+          "type": "rule",
+          "title": "Rule checklist for Problem 5.1 (do not resolve)",
+          "page": "Ch.5 §A / Problem 5.1",
+          "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+          "summary": "Distinguish 6 months remaining contract, one-year posttermination geographic noncompete and separate $5,000 liquidated damages for premature resignation; test whether payment substitutes for the NONCOMPETE injunction.",
+          "laymanExplanation": "One fee for quitting early might not buy permission to compete; exact words matter.",
+          "legalExplanation": "§101(5)(B) alternative payment for breach of SAME equitable performance central; employers can have distinct legal interests.",
+          "examApplication": "Quote contracts' conditions as separate obligations when issue-spotting.",
+          "examTrap": "Don't treat any $5k clause as automatic buyout of every contract promise."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "bank-ch5-p5-1",
+      "topicId": "bank-ch5-problem-5-1",
+      "title": "Problem 5.1",
+      "kind": "Casebook Problem 5.1 — UNSOLVED",
+      "source": "Tabb & Brubaker, Bankruptcy Law: Principles, Policies, and Practice (5th ed. 2021), uploaded Chapter 5 §A: Ohio v. Kovacs, United States v. Apex Oil, In re Shearin Family Investments, Problem 5.1",
+      "prompt": "Gizmo technical designer earns $40,000/year under contract with Employer, Inc., six months left. Enforceable one-year noncompete within thirty miles; contract ALSO gives EI $5,000 liquidated damages if worker breaches contract and leaves early. Competitor within radius offers $75,000 salary. Employee has $33,000 unsecured debts. Would filing Chapter 7 permit worker immediately to take better offer free of enforceable negative injunction? Analyze §101(5)(B), equitable vs alternate monetary remedy, whether same breach gives rise to $5,000 payment, and discharge; leave advice and result unanswered.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
