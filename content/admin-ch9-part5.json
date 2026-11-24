@@ -1,0 +1,480 @@
+{
+  "version": 1,
+  "courseId": "admin",
+  "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+  "coverage": {
+    "submittedPages": "620–668",
+    "includedPages": "640–658",
+    "syllabus": "Lubbers Fall 2026: VI.B(4)(c) hard look, State Farm 640, Regents 649, Ohio 650, Fox I/Encino 652–654, vacatur 654–655, review trends and state review to 658",
+    "externalSupplementExcluded": "FDA v Wages & White Lion (2025), Trump v CASA (2025) are listed separately on syllabus as 2026 supplement/Canvas, not in textbook upload."
+  },
+  "topics": [
+    {
+      "id": "admin-ch9-state-farm",
+      "title": "§ 9.3.2 — Hard Look Review: Motor Vehicle Manufacturers v. State Farm (pp. 640–649)",
+      "chapterGroup": "admin-ch9",
+      "description": "Full State Farm judicial opinion; rescission of Standard 208, important alternatives, inference from evidence, deregulatory change and dissent, Vermont Yankee distinction.",
+      "entries": [
+        {
+          "id": "admin-ch9-state-farm-e1",
+          "type": "rule",
+          "title": "Arbitrary/capricious hard look is about reasoned explanation",
+          "page": "640–643",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "APA §706(2)(A) requires rational connection between found facts and chosen rule; court evaluates agency's reasons rigorously without replacing legitimate policy choice.",
+          "laymanExplanation": "Agency must show its work, including major alternatives and contradictions, before changing a high-stakes rule.",
+          "legalExplanation": "State Farm refines Overton Park and Chenery; relevant factors and important aspects matter, high stakes often lead probing analysis.",
+          "examApplication": "For fact pattern explicitly identify omitted alternatives, counterevidence, stated reasons, reliance and statutory safety goals.",
+          "examTrap": "Hard look is NOT de novo judicial choice nor new trial procedure prohibited by Vermont Yankee."
+        },
+        {
+          "id": "admin-ch9-state-farm-e2",
+          "type": "case",
+          "title": "Motor Vehicle Manufacturers Association v. State Farm Mutual Automobile Insurance Co., 463 U.S. 29 (1983)",
+          "page": "640–649",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Rescission arbitrary/capricious. Agency entirely failed to consider airbags-only mandate, prematurely rejected automatic seatbelt efficacy without adequate explanation and failed to separately assess continuous nondetachable belt alternative; remand for NHTSA, not judicial mandate to impose particular design.",
+          "laymanExplanation": "Agency action arbitrary if it uses impermissible factors, fails to consider important aspects/alternatives, contradicts evidence, or gives implausible/no reason; policy change or rescission requires reasoned explanation; court reviews agency's own rationale.",
+          "legalExplanation": "Court rejected weaker standard for repeal versus adoption because APA/Safety Act subject revocation to §706(2)(A); reversing policy needs reasoned account. Airbag option squarely within existing regulation and proven effective, yet literally absent from agency rescission preamble. Seatbelt studies showed greater usage, and detachable belts once attached would act automatically; agency disregarded this causal logic and needed to explain why uncertainty justified abandonment now. Continuous nondetachable belt not equivalent to ignition interlock; agency failed to distinguish. Litigating counsel's new airbag objections barred under Chenery. Vermont Yankee does not stop substantive review for missing important alternatives. Rehnquist joined much but dissented as to seatbelt explanation, emphasizing legitimate democratic policy priorities after election.",
+          "examApplication": "Break into (1) same §706 standard for rescission, (2) airbags-only omission, (3) belt projections and data, (4) continuous belt, (5) remedy/Chenery, (6) change in administration.",
+          "examTrap": "State Farm did not force permanent airbag mandate or say deregulatory change is invalid; it remanded for actual rational explanation.",
+          "assignedOpinion": true,
+          "sourceRole": "Judicial opinion excerpt in assigned textbook",
+          "facts": "Under safety statute, NHTSA issued Standard 208 requiring automakers to install passive protection after 1982, allowing airbags or automatic seatbelts. Reagan administration postponed then rescinded rule after auto manufacturers favored detachable automatic belts, which could be disconnected; NHTSA doubted real safety gains given $1 billion cost. Insurers challenged rescission. Record acknowledged large projected death/injury reductions from effective belts or bags.",
+          "issue": "Was NHTSA's repeal of passive-restraint safety standard based on reasoned evaluation of relevant evidence and alternatives, or arbitrary/capricious under APA § 706(2)(A)?",
+          "holding": "Rescission arbitrary/capricious. Agency entirely failed to consider airbags-only mandate, prematurely rejected automatic seatbelt efficacy without adequate explanation and failed to separately assess continuous nondetachable belt alternative; remand for NHTSA, not judicial mandate to impose particular design.",
+          "reasoning": "Court rejected weaker standard for repeal versus adoption because APA/Safety Act subject revocation to §706(2)(A); reversing policy needs reasoned account. Airbag option squarely within existing regulation and proven effective, yet literally absent from agency rescission preamble. Seatbelt studies showed greater usage, and detachable belts once attached would act automatically; agency disregarded this causal logic and needed to explain why uncertainty justified abandonment now. Continuous nondetachable belt not equivalent to ignition interlock; agency failed to distinguish. Litigating counsel's new airbag objections barred under Chenery. Vermont Yankee does not stop substantive review for missing important alternatives. Rehnquist joined much but dissented as to seatbelt explanation, emphasizing legitimate democratic policy priorities after election.",
+          "rule": "Agency action arbitrary if it uses impermissible factors, fails to consider important aspects/alternatives, contradicts evidence, or gives implausible/no reason; policy change or rescission requires reasoned explanation; court reviews agency's own rationale."
+        },
+        {
+          "id": "admin-ch9-state-farm-e3",
+          "type": "rule",
+          "title": "State Farm four classic arbitrariness flags",
+          "page": "643–644",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Agency is arbitrary if relied on forbidden factors, entirely omitted important aspect, gave explanation contrary to evidence, or offered implausible rationale not attributable to expertise or legitimate view.",
+          "laymanExplanation": "Did government base choice on wrong things, ignore vital options, contradict evidence, or give made-up explanation?",
+          "legalExplanation": "Four often-quoted grounds are illustrative, not exhaustive and do not dictate a specific outcome.",
+          "examApplication": "Use as issue-spotting checklist with direct fact citations.",
+          "examTrap": "Don't assume every adverse comment or unmentioned hypothetical automatically fatal."
+        },
+        {
+          "id": "admin-ch9-state-farm-e4",
+          "type": "rule",
+          "title": "Same arbitrary/capricious standard for adoption and rescission",
+          "page": "642–643",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Rule repeal is reviewable under ordinary §706(2)(A), not mere minimal review of refusal to initiate rulemaking; existing regulation represents prior agency judgment requiring acknowledgment.",
+          "laymanExplanation": "You can't erase a safety rule as though you simply never proposed it.",
+          "legalExplanation": "Safety Act equated revoking and establishing standards; judicial review remains real but agency may change policy with adequate reasons.",
+          "examApplication": "Identify actual revocation/rescission vs original petition denial.",
+          "examTrap": "Court does not presume all regulation always preferable to repeal."
+        },
+        {
+          "id": "admin-ch9-state-farm-e5",
+          "type": "rule",
+          "title": "Missing important alternative: airbags only",
+          "page": "643–645",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Failure to analyze an obvious and already vetted effective airbags-only option made rescission arbitrary; could have kept Standard 208 safety goal despite detachable-belt flaws.",
+          "laymanExplanation": "Bad automatic belts don't prove airbags don't work.",
+          "legalExplanation": "Existing rule offered airbag technology and Congress wanted traffic safety; reviewing court required consideration, not predetermined result.",
+          "examApplication": "Compare reasonable known alternative not even mentioned in preamble.",
+          "examTrap": "Agency need not consider all imaginable alternatives; this one was central."
+        },
+        {
+          "id": "admin-ch9-state-farm-e6",
+          "type": "rule",
+          "title": "Uncertainty does not excuse unsupported causal leap",
+          "page": "645–647",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Agency may rely on uncertain projections but must explain available studies, probability and reasoning; bare invocation of 'uncertainty' fails when evidence suggests likely efficacy.",
+          "laymanExplanation": "'We aren't sure' is not enough if studies and basic human behavior still support the rule.",
+          "legalExplanation": "Passive belt tests doubled observed use; agency questioned external validity but disregarded effect that once auto belt reattached it stays automatic unlike manual.",
+          "examApplication": "Ask what evidence supports prediction and what inference agency omitted.",
+          "examTrap": "Courts should not substitute own predictions; they demand rational interpretation of available record."
+        },
+        {
+          "id": "admin-ch9-state-farm-e7",
+          "type": "rule",
+          "title": "Continuous belts and ignition interlocks were distinct options",
+          "page": "647–648",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "NHTSA treated continuous passive belts with politically unpopular ignition interlock systems even though continuous belts don't prevent vehicle from starting and may allow easy exit.",
+          "laymanExplanation": "A seatbelt that doesn't turn off ignition isn't same as forcing ignition interlock.",
+          "legalExplanation": "Agency previously accepted easy extrication in GM 1978 design yet did not explain later changed view.",
+          "examApplication": "Spot factual difference in alternative designs and old agency findings.",
+          "examTrap": "Don't generalize one design's drawbacks across distinct technologies."
+        },
+        {
+          "id": "admin-ch9-state-farm-e8",
+          "type": "rule",
+          "title": "Chenery bars litigation counsel from supplying missing airbag justification",
+          "page": "644–645",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Court cannot accept novel arguments of automotive industry lawyers when NHTSA never evaluated airbags-only choice in its explanation.",
+          "laymanExplanation": "You can't fill a gap in agency homework with lawyer's after-the-fact excuse.",
+          "legalExplanation": "Agency rationale must be contemporaneous; can reconsider on remand.",
+          "examApplication": "Compare official final statement vs new hypothetical downsides on appeal.",
+          "examTrap": "A logically plausible defense doesn't cure absent agency explanation."
+        },
+        {
+          "id": "admin-ch9-state-farm-e9",
+          "type": "rule",
+          "title": "Vermont Yankee versus State Farm",
+          "page": "645",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Vermont Yankee bars judges from imposing extra rulemaking procedures beyond statute, but does not prevent hard-look review of agency's substantive reasoning, alternatives and statutory considerations.",
+          "laymanExplanation": "Judge can't order an invented extra hearing, but can demand explanation for ignoring airbags.",
+          "legalExplanation": "State Farm distinguished requirement to consider central known alternatives from invented procedural entitlement.",
+          "examApplication": "Articulate substantive rationality versus procedural mandate.",
+          "examTrap": "Don't invoke Vermont Yankee as immunity from §706(2)(A)."
+        },
+        {
+          "id": "admin-ch9-state-farm-e10",
+          "type": "concept",
+          "title": "Rehnquist dissent: elections and policy change",
+          "page": "648–649",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Rehnquist, joined by others on seatbelt issue, argued new presidential administration can reasonably weigh costs, uncertainty and public resistance differently within statute; he thought NHTSA's seatbelt analysis adequate.",
+          "laymanExplanation": "Voters can change regulatory priorities, provided agency stays within law.",
+          "legalExplanation": "Dissent does not dispute that statutory standards must be met; majority requires actual reasoned analysis.",
+          "examApplication": "Explain political reweighting under lawful statute, then compare unaddressed facts.",
+          "examTrap": "Political preference alone cannot replace legally required explanation."
+        },
+        {
+          "id": "admin-ch9-state-farm-e11",
+          "type": "concept",
+          "title": "Hard look and ossification debate",
+          "page": "649–652",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Hard look may cause voluminous records, resource drain and slow rulemaking, but can counter capture, careless choices and unsupported shifts; scholars and data dispute whether it truly prevents regulation.",
+          "laymanExplanation": "Court scrutiny can improve agency homework, or paralyze agencies afraid of losing appeals.",
+          "legalExplanation": "McGarity/Pierce criticize ossification; Sargentich emphasizes bureaucratic checks; Jordan study found less obstruction; ideology studies mixed.",
+          "examApplication": "In policy essay weigh accountability against expertise and time.",
+          "examTrap": "Cost of review is policy critique, not independent basis to ignore §706."
+        }
+      ]
+    },
+    {
+      "id": "admin-ch9-policy-change",
+      "title": "§ 9.3.2 — Policy Change: Fox I, Encino, Regents and Ohio v. EPA (pp. 649–654)",
+      "chapterGroup": "admin-ch9",
+      "description": "Significant reliance, revised facts, agency aware change, substantial comments and new evidence; each note is case discussion, not full excerpt.",
+      "entries": [
+        {
+          "id": "admin-ch9-policy-change-e1",
+          "type": "case",
+          "title": "DHS v. Regents of University of California, 591 U.S. 1 (2020) — DACA rescission",
+          "page": "649–650",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Court held DACA rescission arbitrary for failure to consider retaining deportation forbearance while dropping benefit eligibility, and failure to consider major reliance by Dreamers, employers and families.",
+          "laymanExplanation": "If benefits problematic, why not preserve protection from deportation? People planned lives around policy.",
+          "legalExplanation": "Chief Justice Roberts majority rejected later supplemental legal justification as post hoc; distinguished forbearance vs work/benefits; Thomas dissent criticized limits on reversing discretionary nonenforcement policy.",
+          "examApplication": "Apply State Farm's reasonable alternatives and Fox I reliance-interest requirements.",
+          "examTrap": "Opinion is summarized, not reproduced in full in uploaded section.",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in assigned textbook Notes and Questions, not full excerpt"
+        },
+        {
+          "id": "admin-ch9-policy-change-e2",
+          "type": "rule",
+          "title": "Regents two independent omissions: forbearance alternative and reliance",
+          "page": "649–650",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Agency rescinding program must consider important alternative of partial rescission and serious reliance where relevant; inability to keep one element does not necessarily doom entire program.",
+          "laymanExplanation": "Don't throw away a whole program without asking if lawful part survives and what people relied on.",
+          "legalExplanation": "DHS's purported illegality of affirmative benefits did not resolve separate forbearance, and revocability doesn't eliminate reliance relevance.",
+          "examApplication": "Identify each omitted inquiry separately.",
+          "examTrap": "State Farm is about agency reasoning; Regents did not permanently prohibit DACA rescission."
+        },
+        {
+          "id": "admin-ch9-policy-change-e3",
+          "type": "case",
+          "title": "Ohio v. EPA, 603 U.S. 279 (2024) — significant comments and shifting plan",
+          "page": "650–651",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "EPA proposed ozone-precursor NOx Good Neighbor plan across 23 upwind states but final applied only 12; Supreme Court issued stay after majority faulted EPA for not responding adequately to comments about changed plan cost-effectiveness; Barrett dissent disputed comment specificity/materiality.",
+          "laymanExplanation": "If half the states leave plan, agency should explain whether economic assumptions still hold—if the objection was clearly presented.",
+          "legalExplanation": "Majority vs dissent exemplifies how judicial demands for comment responses can be contested.",
+          "examApplication": "Show legal relevance of interstate spillovers and changed plan scope; contrast specificity defense.",
+          "examTrap": "Don't equate preliminary emergency stay with final merits vacatur beyond textbook description.",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in assigned textbook Notes and Questions, not full excerpt"
+        },
+        {
+          "id": "admin-ch9-policy-change-e4",
+          "type": "rule",
+          "title": "Fox I: change policy needs awareness and good reasons, not automatic higher burden",
+          "page": "652–654",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Agency may change course if it recognizes old policy and provides statutorily permissible good reasons; generally need not prove new approach objectively better than old.",
+          "laymanExplanation": "Government can switch policies after election, but must admit it switched and explain why.",
+          "legalExplanation": "FCC v Fox Television Stations I reversed appellate mandate to show old considerations invalid or new policy superior; where contradictory factual findings or serious reliance, more detailed explanation can be necessary.",
+          "examApplication": "Ask whether agency identified change and considered contradictory old evidence/reliance.",
+          "examTrap": "Mere fact of change does not always raise standard above original policy adoption."
+        },
+        {
+          "id": "admin-ch9-policy-change-e5",
+          "type": "case",
+          "title": "FCC v. Fox Television Stations, Inc. (Fox I), 556 U.S. 502 (2009)",
+          "page": "652–654",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "FCC changed indecent speech enforcement for fleeting celebrity expletives; Supreme Court said ordinary §706 reasonableness, conscious change and good reasons enough absent special factors.",
+          "laymanExplanation": "Agency can now treat a brief expletive differently if it acknowledges and explains its new position.",
+          "legalExplanation": "Justice Scalia majority; Breyer dissent would demand deeper explanation of why previous basis abandoned.",
+          "examApplication": "Contrast Fox II due process/fair notice discussed elsewhere.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in assigned textbook Notes and Questions, not full excerpt"
+        },
+        {
+          "id": "admin-ch9-policy-change-e6",
+          "type": "rule",
+          "title": "When change demands more explanation: new contradictory facts and reliance",
+          "page": "653–654",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Changed regulatory position based on facts contrary to previous agency findings or undermining serious reliance interests needs fuller explanation of why old evidence/reliance no longer controls.",
+          "laymanExplanation": "If companies invested based on 20 years of rule, explain impact before switching.",
+          "legalExplanation": "Fox I makes extra discussion case-specific, not a categorical heightened change test; Regents and Encino illustrate concrete failures.",
+          "examApplication": "Spot conflicting past assumptions and documented investments.",
+          "examTrap": "Policy change may be valid even if factual world unchanged, but agency must reason about relevant underlying premise."
+        },
+        {
+          "id": "admin-ch9-policy-change-e7",
+          "type": "case",
+          "title": "Encino Motorcars, LLC v. Navarro, 579 U.S. 211 (2016)",
+          "page": "654",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Department of Labor reversed decades-long interpretation exempting dealership service advisers from overtime without addressing why new reading justified or dealers' reliance; rule invalid for inadequate explanation.",
+          "laymanExplanation": "Longstanding payroll arrangements require an actual explanation before changing employee overtime interpretation.",
+          "legalExplanation": "Casebook notes brief, unreasoned treatment of public comments and reliance; illustrates Fox I limitation.",
+          "examApplication": "Use for policy reversal affecting settled reliance.",
+          "examTrap": "Not a holding that agency cannot ever change overtime eligibility.",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in assigned textbook Notes and Questions, not full excerpt"
+        },
+        {
+          "id": "admin-ch9-policy-change-e8",
+          "type": "concept",
+          "title": "Fox I Justice Breyer dissent: changing course demands why-change answer",
+          "page": "653–654",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Breyer thought agency must show why old policy rationales no longer persuasive, not merely articulate reasons new one looks good.",
+          "laymanExplanation": "To justify a U-turn, explain what changed in destination or evidence.",
+          "legalExplanation": "This is dissent's proposed stricter approach.",
+          "examApplication": "Separate majority rule and counterargument.",
+          "examTrap": ""
+        }
+      ]
+    },
+    {
+      "id": "admin-ch9-vacatur-and-state-review",
+      "title": "§ 9.3.2 — Remedies, Vacatur, State Soft-Look Review and Railroad Problem (pp. 654–658)",
+      "chapterGroup": "admin-ch9",
+      "description": "Unsettled nationwide injunction/vacatur debate, remand without vacatur, state contrasting standards and assigned STB Diamond Railroad hypothetical.",
+      "entries": [
+        {
+          "id": "admin-ch9-vacatur-and-state-review-e1",
+          "type": "rule",
+          "title": "Vacatur and remand after invalid APA rule",
+          "page": "654–656",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Federal courts often set aside invalid regulation and remand to agency for lawful reconsideration, but nationwide scope and separation from injunctions are debated in casebook.",
+          "laymanExplanation": "Court invalidates rule; agency must go back and lawfully justify/fix policy.",
+          "legalExplanation": "5 U.S.C. §706 'set aside' is central; Kavanaugh supports traditional universal vacatur, Gorsuch questions remedial scope; no blanket rule from notes about future developments.",
+          "examApplication": "Identify review ground, vacatur impact, individualized injunctive relief vs rule invalidation.",
+          "examTrap": "Do not confuse universal vacatur (rule set aside) with nationwide injunction (order against enforcing against everyone)."
+        },
+        {
+          "id": "admin-ch9-vacatur-and-state-review-e2",
+          "type": "concept",
+          "title": "Gorsuch v Kavanaugh remedial debate",
+          "page": "654–655",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Gorsuch warns nationwide injunctions disrupt circuit development and questions APA vacatur reading; Kavanaugh in Corner Post defends vacatur as standard necessary tool, e.g. State Farm insurer plaintiffs needed rescission invalidated.",
+          "laymanExplanation": "A court's order might protect only plaintiffs or invalidate regulation more generally.",
+          "legalExplanation": "Textbook explains unresolved disagreement as of its publication.",
+          "examApplication": "Present as live dispute in book, not final 2026 outcome.",
+          "examTrap": ""
+        },
+        {
+          "id": "admin-ch9-vacatur-and-state-review-e3",
+          "type": "rule",
+          "title": "Remand without vacatur: discretionary equitable remedy",
+          "page": "655–656",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Some federal courts allow unlawful rule temporarily to stay operative while agency fixes inadequacy if correction achievable and vacatur disruptive; ACUS 2013–6 recommends considering victory interests too.",
+          "laymanExplanation": "Court says agency did something wrong but keeps rule temporarily to avoid chaos while it repairs explanation.",
+          "legalExplanation": "Not universally uncontested under 'shall set aside' wording. Factors (1) seriousness/correctability, (2) disruptive consequences, (3) prevailing challenger's interests.",
+          "examApplication": "Compare risk of public harm from immediate repeal versus fair treatment to challenger.",
+          "examTrap": "ACUS criteria nonbinding; don't claim automatic retention of illegal rule."
+        },
+        {
+          "id": "admin-ch9-vacatur-and-state-review-e4",
+          "type": "rule",
+          "title": "State variation on remediation and hard-look",
+          "page": "656–658",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Texas defaults to keeping procedurally invalid rules in effect on remand absent good cause; Massachusetts treats rules close to laws needing only conceivable rational basis; Alaska/Wisconsin may require stronger record rationality.",
+          "laymanExplanation": "State review can be far more lenient than federal State Farm hard look.",
+          "legalExplanation": "Massachusetts Salisbury nursing-home rates upheld for conceivable basis; Wisconsin Liberty Homes tested record reasonableness; Texas statute § 2001.040 covers procedure errors.",
+          "examApplication": "Ask which state's APA, whether review of adjudication/rulemaking, factual record and remedy.",
+          "examTrap": "Never import federal §706 hard look across all 50 states."
+        },
+        {
+          "id": "admin-ch9-vacatur-and-state-review-e5",
+          "type": "case",
+          "title": "Salisbury Nursing & Rehab Center v. Division of Administrative Law Appeals (Mass. 2007)",
+          "page": "656–657",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Massachusetts court upheld Medicaid reimbursement ceiling under rule if any conceivable ground and compatible statutory interpretation existed; minimal rationality model.",
+          "laymanExplanation": "Agency gets broad latitude comparable to legislative regulation.",
+          "legalExplanation": "Opposite to demanding federal State Farm contemporaneous rationale.",
+          "examApplication": "Use as state law contrast.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in assigned textbook Notes and Questions, not full excerpt"
+        },
+        {
+          "id": "admin-ch9-vacatur-and-state-review-e6",
+          "type": "case",
+          "title": "Liberty Homes v. Department of Industry, 401 N.W.2d 805 (Wis. 1987)",
+          "page": "657–658",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Wisconsin court evaluated mobile-home formaldehyde cap using record facts rather than presuming supporting facts, yet considered supplemental trial materials and upheld rule.",
+          "laymanExplanation": "Some states look for actual reasonable factual foundation but permit wider court evidence.",
+          "legalExplanation": "Hybrid of federal hard look reasoning and open-record state procedure.",
+          "examApplication": "Distinguish from Massachusetts and strict federal closed record.",
+          "examTrap": "",
+          "assignedOpinion": false,
+          "sourceRole": "Case summarized in assigned textbook Notes and Questions, not full excerpt"
+        },
+        {
+          "id": "admin-ch9-vacatur-and-state-review-e7",
+          "type": "rule",
+          "title": "Regulatory policy change and external political influence",
+          "page": "652–658",
+          "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026)",
+          "summary": "Elected officials may urge lawful policy shift, but agency cannot ignore statutory obligation, reliance, facts or important alternative merely due to congressional/White House preferences.",
+          "laymanExplanation": "Political support matters to policymakers, but can't replace required analysis of shippers and public need.",
+          "legalExplanation": "STB railroad hypothetical tests public ownership, congressional delegation, prior agency practice, evidence of actual shipper harm and 150-mile alternatives.",
+          "examApplication": "Examine statutory balance and agency's professed fact-specific approach.",
+          "examTrap": "Do not assume congressional letters or mayor preference alone show arbitrary interference."
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "admin-ch9-cont5-p1",
+      "topicId": "admin-ch9-state-farm",
+      "title": "State Farm airbags-only alternative",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 643–645)",
+      "prompt": "Agency rescinds passive restraints based on removable automatic belt problems. Why must it separately evaluate airbags-only requirement under State Farm?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont5-p2",
+      "topicId": "admin-ch9-state-farm",
+      "title": "Uncertainty over detachable and continuous belts",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 645–648)",
+      "prompt": "When field studies are imperfect, what reasoning must agency supply for projecting weak safety gains? Compare detachable versus continuous designs and ignition interlocks.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont5-p3",
+      "topicId": "admin-ch9-state-farm",
+      "title": "Vermont Yankee and hard look",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 645–649)",
+      "prompt": "Is remand for failure to consider airbags a procedural extra requirement disallowed under Vermont Yankee or statutory reasoned explanation under §706?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont5-p4",
+      "topicId": "admin-ch9-state-farm",
+      "title": "Rescission and change in presidential administration",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 642–649)",
+      "prompt": "Can incoming administration prioritize cost over safety and rescind rule? Distinguish change of objectives under enabling act, adequate reasons and Rehnquist's partial dissent.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont5-p5",
+      "topicId": "admin-ch9-state-farm",
+      "title": "Ossification, expertise, and court ideology",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 649–652)",
+      "prompt": "Evaluate opposing empirical and normative views about hard look judicial oversight of large records and whether judges improperly substitute their own political judgments.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont5-p6",
+      "topicId": "admin-ch9-policy-change",
+      "title": "DACA rescission under Regents",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 649–650)",
+      "prompt": "DHS rescinds deferred action because benefits illegal but ignores independent deportation forbearance and reliance. Analyze two State Farm omissions.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont5-p7",
+      "topicId": "admin-ch9-policy-change",
+      "title": "Ohio v EPA comment specificity",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 650–651)",
+      "prompt": "Under revised 23-to-12 state emissions plan, was cost-efficiency critique clearly raised enough to require response? Contrast Gorsuch majority and Barrett dissent.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont5-p8",
+      "topicId": "admin-ch9-policy-change",
+      "title": "Fox I versus Encino factual shift and reliance",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 652–654)",
+      "prompt": "Agency changes long-accepted policy after election. When suffice good reasons and explicit acknowledgement, and when must address contradicting factual premises or reliance?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont5-p9",
+      "topicId": "admin-ch9-vacatur-and-state-review",
+      "title": "Nationwide vacatur versus injunction and remand without vacatur",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 654–656)",
+      "prompt": "Compare set-aside of whole rule vs protecting only named plaintiff, ACUS equitable criteria and Texas default; discuss court's capacity to leave unlawful rule temporarily in place.",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont5-p10",
+      "topicId": "admin-ch9-vacatur-and-state-review",
+      "title": "Massachusetts versus Wisconsin standard",
+      "kind": "Textbook Notes & Questions — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 656–658)",
+      "prompt": "Compare Salisbury conceivable-basis rule and Wisconsin Liberty Homes' record-grounded reasonableness. How would federal State Farm differ?",
+      "status": "Not attempted",
+      "notes": ""
+    },
+    {
+      "id": "admin-ch9-cont5-p11",
+      "topicId": "admin-ch9-vacatur-and-state-review",
+      "title": "Diamond Railroad / STB adverse abandonment — textbook problem",
+      "kind": "Textbook Problem 9 — UNSOLVED",
+      "source": "Asimow & Levin, State and Federal Administrative Law (6th ed. 2025), Chapter 9, pp. 640–658 (uploaded Nov. 24, 2026) (p. 657–658)",
+      "prompt": "STB reversed decades-long practice permitting adverse abandonment only for unused lines; here city seeks to terminate actively used barge rail terminal for speculative future waterfront redevelopment, while eight shippers rely on facility and alternative route is 150 miles upriver. Board emphasized local owner government's choice and Congressional committee support, without full shippers burden analysis. Assess APA relevant factors, evidence, statutory public convenience/necessity, prior policy deviation, reliance and political influence—leave unresolved.",
+      "status": "Not attempted",
+      "notes": ""
+    }
+  ]
+}
